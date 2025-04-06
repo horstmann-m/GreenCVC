@@ -1,0 +1,25 @@
+SELECT
+    p.application_number,
+    PARSE_DATE('%Y%m%d', CAST(p.grant_date AS STRING)) AS grant_date,
+    assignee.name AS assignee_name,
+    cpc.code AS cpc_code
+FROM 
+    `patents-public-data.patents.publications` AS p
+LEFT JOIN 
+    UNNEST(p.assignee_harmonized) AS assignee -- Extract company names from struct
+LEFT JOIN 
+    UNNEST(p.cpc) AS cpc -- Extract CPC codes from struct
+WHERE 
+    p.grant_date != 0 -- Drop all zero values before parsing date
+    AND assignee.name IS NOT NULL -- Ensure company names are valid
+    AND (
+        SELECT COUNT(*) FROM UNNEST([
+            'fiat ','peugeot ', 'psa ','opel ','energias de portugal ', 'dacia ', 'innogy '
+        ]) AS keyword
+        WHERE lower(assignee.name) LIKE CONCAT( keyword, '%')
+    ) > 0
+    AND PARSE_DATE('%Y%m%d', CAST(p.grant_date AS STRING)) 
+        BETWEEN '2014-01-01' AND '2024-12-31' -- Time range
+    AND (
+        cpc.code LIKE 'Y0%' -- Climate change mitigation
+        OR cpc.code IN UNNEST([
