@@ -1,0 +1,2374 @@
+
+
+--- Page 1 ---
+
+IN BRIEF
+
+Business highlights in 2013
+
+AEROSPACE PROPULSION DEFENCE
+
+CFM56 engine deliveries increased 7% to
+1,502 units in 2013 versus 1,406 units in 2012;
+
+Almost 10,800 CFM56 and LEAP engines in
+the backlog (firm orders and commitments),
+representing over seven years of production
+at current production rates;
+
+Silvercrest engine chosen by Dassault to power
+its new Falcon 5X business jet;
+
+934 helicopter engines delivered, up from 924
+in 2012;
+
+Acquisition of Rolls-Royce’s stake in the
+RTM822 joint helicopter engine program.
+
+AIRCRAFT EQUIPMENT
+
+Continued ramp-up of production under
+mature (A320, A330 and Boeing 737) and new
+programs (Boeing 787);
+
+Finalization of the Goodrich Electrical Power
+Systems (GEPS) acauisition;
+
+Agreements signed with Airbus and Air France
+to assess and develop an electric green taxiing
+system;
+
+Electrical power activities consolidated within a
+single entity, Labinal Power Systems (created
+January 2, 2014).
+
+* Ongoing deliveries to the French Armed Forces
+of FELIN infantry combat protection systems,
+with 14 regiments now fitted out;
+
+° Safran chosen to modernize the inertial
+navigation and alignment system (SINA) on
+the Charles-de-Gaulle aircraft carrier;
+
+° Delivery of the 10,000" aircraft piloting
+reference sensor;
+
+e Acquisition of Colibrys SA, a Swiss firm
+specialized in micro-sensors.
+
+SECURITY
+
+¢ Number of Indian residents with a unique
+identification number tops 500 million (Aadhaar
+project);
+
+° Strategic partnership signed with Interpol for
+the supply of innovative biometric solutions;
+
+* 7 million identification cards supplied to voters
+in Mali;
+
+e High-speed explosives detection system
+selected for Nice-Céte d'Azur and Narita
+(Japan) airports;
+
+e Explosives detection system selected by the
+Canadian Air Transport Security Authority
+(CATSA).
+
+2013 adjusted key figures
+
+Aerospace Aircraft Holding co.
+
+Propulsion Equipment Defence Security and other Total
+(an € millions) 2012 2012 2012 2012 2012 2012
+Revenue 7,005 7,791 3,691 4,121 1,315 1,278 1,546 1,502 3 3 13,560 14,695
+Recurring operating income
+(loss) 1,076 1,359 286 380 79 87 145 120 (142) (158) 1,444 1,788
+Profit (loss) from operations" 1,077 1,345 270 378 79 94 120 117-152) (177)-—s-1,894 1,757
+Free cash flow*! 464 521 38 67 13 110 an (42) 38 56 564 712
+Acquisitions of property, plant
+and equipment 168 208 140 169 47 16 46 66 18 33 419 492
+Self-funded R&D 649 790 213 254 117 126 124 129 N/A N/A 1,103 1,299
+Headcount” 23,271 24,511 22,874 24,495 7,182 7,195 7,727 8,403 1,504 1,685 62,558 66,289
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+(2) Free cash flow is equal to cash flow from operating activities less changes in working capital and acquisitions of property, plant and equipment and intangible assets.
+
+(3) Headcount at December 31.
+
+— 47 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 2 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1 COMMENTS ON THE GROUP'S PERFORMANCE IN 2013
+BASED ON ADJUSTED DATA
+
+21.1
+
+RECONCILIATION OF CONSOLIDATED DATA WITH ADJUSTED DATA
+
+Foreword
+
+To reflect the Group's actual economic performance and enable
+it to be monitored and benchmarked against competitors, Safran
+prepares an adjusted income statement alongside its consolidated
+financial statements.
+
+Readers are reminded that Safran:
+
+is the result of the May 11, 2005 merger of the Sagem and
+Snecma groups, accounted for in accordance with IFRS 3,
+Business Combinations, in its consolidated financial statements;
+
+recognizes, as of July 1, 2005, all changes in the fair value
+of its foreign currency derivatives in “Financial income (loss)",
+in accordance with the provisions of IAS 39 applicable to
+transactions not qualifying for hedge accounting (see section 3.1,
+“Accounting policies”, Note 1f).
+
+Accordingly, Safran’s consolidated income statement has been
+adjusted for the impact of:
+
+purchase price allocations with respect to business
+combinations. Since 2005, this restatement concerns the
+
+amortization charged against intangible assets relating to
+aircraft programs revalued at the time of the Sagem-Snecma
+merger. With effect from the 2010 interim consolidated financial
+statements, the Group decided to restate the impact of purchase
+price allocations for all business combinations. In particular, this
+concerns the amortization of intangible assets recognized at the
+time of the acquisition and amortized over extended periods due
+to the length of the Group’s business cycles, along with gains
+or losses on remeasuring the Group's previously held interests
+in an entity acquired in a step acquisition;
+
+the mark-to-market of foreign currency derivatives, in order to
+
+better reflect the economic substance of the Group's overall
+
+foreign currency risk hedging strategy:
+
+— revenue net of purchases denominated in foreign currencies
+is measured using the effective hedged rate, i.e., including
+the costs of the hedging strategy,
+
+- all mark-to-market changes on foreign currency derivatives
+hedging future cash flows are neutralized.
+
+— 48 __
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 3 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Reconciliation of the consolidated income statement with the adjusted income statement
+
+The impact of these adjustments on income statement items is as follows:
+
+Currency hedges Business combinations
+Amortization
+of intangible
+2013 Deferred assets from PPA impacts — 2013
+consolidated FTES cis hedging +Sagem-Snecma other business adjusted
+(in € millions) data of revenue” gain (loss)” merger® combinations” data
+Revenue 14,490 205 - - - 14,695
+Other recurring operating income
+and expenses (13,195) (2) 13 150 127 (12,907)
+Recurring operating income 1,295 203 13 150 127 1,788
+Other non-recurring operating income
+and expenses 185 - - - (216) (31)
+Profit from operations 1,480 203 13 150 (89) 1,757
+Cost of debt (42) - - - - (42)
+Foreign exchange gains (losses) 551 (203) (374) - - (26)
+Other financial income and expense (70) : : : : (70)
+Financial income (loss) 439 (203) (374) - - (138)
+Income tax expense (650) - 110 (62) 52 (640)
+Share in profit from associates 15 - - - - 15
+Gain on disposal of Ingenico shares 131 - - - - 131
+Profit from continuing operations 1,415 - (251) 98 (37) 1,225
+
+Loss for the period attributable
+to non-controlling interests (29) - (1) (2) - (32)
+
+PROFIT FOR THE PERIOD
+ATTRIBUTABLE TO OWNERS
+OF THE PARENT 1,386 - (252) 96 (37) 1,193
+
+(1) Remeasurement of foreign-currency denominated revenue net of purchases (by currency) at the hedged rate (including premiums on unwound options) through
+the reclassification of changes in the fair value of instruments hedging cash flows for the period.
+
+(2) Changes in the fair value of instruments hedging future cash flows (€374 million excluding tax) and the impact of including hedges in the measurement of provisions
+for losses to completion (€13 milion).
+
+(3) Cancelation of amortization/impairment of intangible assets relating to the remeasurement of aircraft programs resulting from the application of IFRS 3 to the
+Sagem-Snecma merger.
+
+(4) Cancelation of depreciation and amortization of identifiable property, plant and equipment and intangible assets, and the impacts of remeasuring inventories
+in connection with acquisitions, along with gains on remeasuring the Group's previously-held interest in the RTM322 program.
+
+Readers are reminded that only the consolidated financial Adjusted financial data other than the data provided in Note 5,
+statements set out in section 3.1 of this document are audited “Segment information” in section 3.1 are subject to the verification
+by the Group's Statutory Auditors. The consolidated financial procedures applicable to all of the information provided in this
+statements include the revenue and operating profit indicators report.
+set out in the adjusted data in Note 5, “Segment information” in
+section 3.1.
+
+— 49 __
+
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 4 ---
+
+2 ) REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1.2 OVERVIEW OF THE GROUP’S PERFORMANCE IN 2013
+
+Adjusted income statement
+
+2012 2013
+(in € millions) Adjusted data” Adjusted data
+
+Revenue 13,560 14,695
+Other income 209 264
+Income from operations 13,769 14,959
+Change in inventories of finished goods and work-in-progress 340 (6)
+Capitalized production 642 911
+Raw materials and consumables used (8,160) (8,639)
+Personnel costs (4,205) (4,506)
+Taxes (270) (276)
+Depreciation, amortization, and increase in provisions, net of use (601) (631)
+Asset impairment (26) (78)
+Other recurring operating income and expenses (45) (46)
+Recurring operating income 1,444 1,788
+Other non-recurring operating income and expenses (50) (31)
+Profit from operations 1,394 1,757
+Cost of net debt (64) (42)
+Foreign exchange gains (losses) 22 (26)
+Other financial income and expense (122) (70)
+Financial loss (154) (138)
+Profit before tax 1,240 1,619
+Income tax expense (254) (640)
+Share in profit from associates 19 15
+Gain on disposal of Ingenico shares - 131
+Profit from continuing operations 1,005 1,225
+PROFIT FOR THE PERIOD 1,005 1,225
+Attributable to:
+
+* owners of the parent 979 1,193
+* non-controlling interests 26 32
+
+Earnings per share attributable to owners of the parent (in €)
+Basic earnings per share 2.36 2.87
+Diluted earnings per share 2.35 2.87
+
+Earnings per share from continuing operations attributable to owners
+of the parent (in €
+
+Basic earnings per share 2.36 2.87
+Diluted earnings per share 2.35 2.87
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+
+— 50 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 5 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Review of operations
+ADJUSTED REVENUE
+
+For full-year 2013, Safran's revenue was €14,695 million, an
+8.4% year-on-year increase (8.2% organic growth), compared to
+€13,560 million in 2012.
+
+Full-year 2013 revenue increased by €1,135 million on a
+reported basis, notably highlighting performance in the Group's
+Aerospace businesses. On an organic basis, revenue increased
+by €1,118 million with higher Aerospace original equipment (OE)
+volumes, strong civil aftermarket trends, stability in the Security
+business and resilience in the Defence business (avionics).
+
+ADJUSTED RECURRING OPERATING INCOME
+
+For full-year 2013, Safran’s recurring operating income increased
+€344 million or 23.8% compared to 2012 and stood at
+€1,788 million, or 12.2% of revenue (€1,444 million and 10.6% of
+revenue in 2012). Before taking into account the impact of currency
+hedging (€103 million) and of acquisitions, newly consolidated
+activities and disposals (€7 million), the organic year-on-year
+improvement was €234 million, or 16.2%.
+
+The improvement was primarily driven by the Aerospace Propulsion
+and Aircraft Equipment activities, which saw solid OE growth and
+positive trends in the civil aftermarket, as well as by a confirmation
+of the turnaround of avionics in Defence.
+
+2012
+Adjusted” 2013
+
+(in € millions)
+
+Recurring operating income 1,444 1,788
+% of revenue 10.6% 12.2%
+Total non-recurring items (50) (31)
+Capital gain on disposals 1 39
+Impairment net of reversals on intangible assets (1) (17)
+Other non-recurring items (60) (63)
+PROFIT FROM OPERATIONS 1,394 1,757
+% of revenue 10.3% 12.0%
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+
+ADJUSTED PROFIT FROM OPERATIONS
+
+Adjusted profit from operations climbed 26.0% to €1,757 million
+versus €1,394 million in 2012. Non-recurring items represented
+an expense of €31 million in 2013, and include capital gains on
+the disposal of Globe Motors Inc. and an office building in Paris;
+impairment of capitalized development costs related to a legacy
+engine program; and other charges principally related to past
+service costs arising on a defined benefit supplementary pension
+plan for which executive managers within the Group, currently
+numbering around 400, are eligible.
+
+ADJUSTED FINANCIAL INCOME (LOSS)
+
+The Group reported an adjusted financial loss of €138 million in
+2013, compared to a loss of €154 million in 2012. The financial
+loss chiefly reflects the cost of net debt, which was down slightly
+year-on-year, to €42 million from €54 million in 2012. The financial
+loss also includes the cost of unwinding discounts on certain assets
+and liabilities (mainly provisions and repayable advances), as well as
+the impact of any changes in the discount rates used, particularly
+to calculate provisions. The cumulative impact of these non-cash
+items was an expense of €50 million in 2013 and an expense of
+€90 million in 2012. The interest cost on post-employment benefit
+obligations amounted to €24 million in 2013 versus €23 million
+‘one year earlier.
+
+ADJUSTED INCOME TAX EXPENSE
+
+The adjusted income tax expense for the year increased from
+€254 million in 2012 to €540 million in 2013, reflecting a higher
+effective tax rate than in 2012 when the Group's tax expense had
+notably included the favorable impact of the absorption by Safran
+of subsidiaries which had been involved in loss-making activities
+divested several years ago. In 2013, a one-off, temporary (2013-14)
+tax surcharge increased the applicable corporate tax rate to 38%
+of taxable income in France.
+
+ADJUSTED PROFIT ATTRIBUTABLE TO OWNERS
+OF THE PARENT
+
+Adjusted profit attributable to owners of the parent grew by 22%
+year-on-year. It was €1,193 million or €2.87 per share, compared
+to €979 million (€2.36 per share) in full-year 2012. In addition to the
+rise in recurring operating income, adjusted profit for 2013 includes:
+
+* net financial expense of €138 million, including cost of debt of
+€42 million;
+
+° tax expense of €540 million;
+* capital gains on the disposal of Ingenico shares of €131 million.
+
+— 51 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 6 ---
+
+2 ) REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1.3 ADJUSTED KEY FIGURES BY BUSINESS
+
+SUMMARY OF ADJUSTED KEY FIGURES BY BUSINESS
+The backlog grew 16% to €56.2 billion in 2013 compared to €48.5 billion last year.
+
+Aerospace Aircraft Holding co.
+
+Propulsion Equipment Defence Security and other Total
+(an € millions) 2012 MRE) 2012 | 2013] 2012 | 2013 | 2012 Ea 2012 | 2013] 2012 MPNE
+Backlog" 29,879 35,919 14,467 16,485 2,380 2,174 1,737 1,647 N/A N/A 48,463 56,224
+Orders recorded during
+the year?! 11,516 11,502 3,539 6,776 1,142 1,072 1,862 1,451 N/A N/A 18,058 20,801
+Revenue 7,005 7,791 3,691 4,121 1,315 1,278 1,546 1,502 3 3 13,560 14,695
+Recurring operating income
+(loss) 1,076 1,359 286 380 79 87 145 120 (142) (158) 1,444 1,788
+Profit (loss) from operations” 1,077 1,345 270 378 79 94 120 117) =«(152) (177) 1,394 1,757
+Free cash flow” 464 521 38 67 13 110 Ww (42) 38 56 564 712
+Acauisitions of property, plant
+and equipment 168 208 140 169 47 16 46 66 18 33 419 492
+Self-funded R&D 649 790 213 254 W7 126 124 129 N/A N/A 1,103 1,299
+Headcount® 23,271 24,511 22,874 24,495 7,182 7,195 7,727 8,403 1,504 1,685 62,558 66,289
+
+(1) The backlog corresponds to orders recorded and not yet recognized in revenue. Approximately €0.8 billion of orders in the backlog relates to joint arrangements which
+wil not contribute to Safran’s revenue under IFRS 11.
+
+(2) Orders recorded represent orders received during the year.
+
+(3) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+JAS 19, Employee Benefits (see section 3.1, Note 3)
+
+(4) Free cash flow is equal to cash flow from operating activities less changes in working capital and acquisitions of property, plant and equipment and intangible assets.
+
+(6) Headcount at December 31.
+
+— 52 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 7 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014 @
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1.3.1 Aerospace Propulsion
+
+ADJUSTED KEY FIGURES
+2012
+Adjusted" change
+
+Quantities delivered
+
+CFM656 engines 1,406 1,502 7%
+
+Helicopter turbine engines 924 934 1%
+(in € millions)
+Backlog 29,879 35,919 20%
+Orders recorded during the year 11,516 11,502 -
+Revenue 7,005 AO 11%
+Recurring operating income 1,076 1,359 26%
+Profit from operations 1,077 1,345 25%
+Free cash flow 464 521 12%
+Acquisitions of property, plant and equipment 168 208 24%
+Research and development
+
+Self-funded R&D (649) (790) 22%
+
+% of revenue 9.3% 10.1% +0.8 pts
+
+Research tax credit 47 51 9%
+
+Self-funded R&D after research tax credit (602) (739) 23%
+
+Capitalized expenditure 342 517 51%
+
+Amortization and impairment of R&D expenditure (25) (24) -
+
+Impact on profit from operations (285) (246) -14%
+
+% of revenue 4.1% 3.2% -0.9 pts
+Headcount” 23,271 24,511 5%
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+(2) Headcount at December 31.
+
+Aerospace Propulsion activities can be split into four key sectors that contribute to business line revenue as follows:
+
+% of business line revenue
+
+Sector 2012
+
+Civil aviation 61% 64%
+Military aviation 11% 10%
+Helicopter turbine engines 16% 15%
+Ballistics and space 12% 11%
+
+REVIEW OF AEROSPACE PROPULSION OPERATIONS
+IN 2013
+
+Full-year 2013 revenue grew by 11.2% at €7,791 million, or 11.3%
+on an organic basis, compared to revenue of €7,005 million in
+the year-ago period. Revenue growth resulted from rising civil
+OE deliveries, with CFM56 reaching record production rates
+(1,502 units, 96 units more than in 2012) and a favorable mix and
+pricing. Total CFM56 and LEAP orders and commitments now stand
+at close to 10,800 engines, more than seven years of production
+
+at current rates. Military propulsion revenue declined slightly as
+revenue from TP400 deliveries almost offset the decline in M88
+sales. Helicopter turbine OE revenues also showed robust growth
+due to a favorable mix. Space and missile propulsion revenue was
+flat in the year. In September 2013, Safran finalized a transaction
+with Rolls-Royce resulting in the extension to 100% of Safran’s
+ownership in the RTM322 helicopter engine program, which was
+previously jointly owned. Full ownership of the program extends
+Turbomeca's range into large turbines for the high-growth heavy
+
+— 53 __
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 8 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+helicopter market, enabling growth for military applications and
+accelerating time to market for heavy commercial engines. Support
+contracts previously fulfilled by Rolls-Royce have been transferred
+and the internalization of Rolls-Royce’s workshare has been
+initiated.
+
+Aftermarket trends were particularly positive and civil aftermarket
+revenue grew by 19.2% in USD terms, driven by first overhauls of
+recent CFM56 and GEQ0 engines. Helicopter turbine maintenance
+and the military engine aftermarket both grew at a mid-single digit
+percentage rate. Overall service revenue in Aerospace Propulsion
+grew by 14% in euro terms and represents a 48.1% share of
+revenue.
+
+Full-year 2013 recurring operating income was €1,359 million
+(17.4% of revenue), up 26.3% compared to €1,076 million in the
+year-ago period (15.4% of revenue). This improvement resulted from
+healthy activity in the civil aftermarket, as well as from increased
+OE volume and favorable mix and pricing on commercial engine
+programs. R&D costs grew in 2013, primarily due to increased
+LEAP and Silvercrest development spending, essentially all of
+which is capitalized. Currency hedging had a positive impact on
+profitability.
+
+COMMERCIAL AND INDUSTRIAL DEVELOPMENTS
+
+Civil aviation
+
+® Low-thrust engines for civil aircraft (regional and business
+jets)
+Silvercrest (9,500 - 12,000 pounds of thrust)
+
+Chosen by two aircraft manufacturers, the Silvercrest engine
+developed by Safran incorporates leading-edge technology to
+offer unrivalled performance, with ambitious targets in terms of
+fuel consumption, reliability and respect for the environment.
+
+After having been chosen by Cessna to power its new Citation
+Longitude business jet in 2012, Safran was selected by Dassault
+Aviation to supply the engine and key equipment on the company’s
+new Falcon 5X twin-engine business jet, featuring a large cabin and
+long range (5,200 nautical miles, or more than 9,600km). Safran
+will supply the complete integrated powerplant system (IPPS),
+including the Silvercrest engine (Snecma), nacelle and thrust
+reversers (Aircelle), and the engine suspension system. The engine
+is also equipped with a FADEC" system specifically developed by
+Sagem. This contract marks a strategic step forward for Safran in
+the market for business jets.
+
+Since ground tests began on the first engine in October 2012,
+Silvercrest reached — and exceeded — maximum take-off thrust.
+The results of the tests show the engine's excellent dynamic
+performance at all thrust levels, with very good operability and
+very low levels of noise and vibrations. The performance tests were
+carried out on test rigs at Snecma’s Villaroche (closed test cell) and
+Istres (open-air test cell) plants. Tests will continue throughout 2014
+with certification slated for 2015.
+
+(1) Full Authority Digital Engine Control.
+
+Alongside these tests, the assembly line for the series production
+of the Silvercrest engines has been set up at Villaroche.
+
+SaM146 (13,500 — 17,800 pounds of thrust)
+
+The SaM146 engine, developed in partnership with Russian engine
+manufacturer NPO Saturn and with the participation of Italian
+engine manufacturer Avio Aero, powers Sukhoi’s Superjet 100.
+
+A total of 52 SaM146 engines were delivered in 2013. At the end of
+the year, the backlog for PowerJet stood at 202 engines. Powerjet
+is ajoint venture set up by Snecma and NPO Saturn to manage the
+engine program in terms of development, production, marketing
+and sales, and to provide customer support, maintenance, repair
+and overhaul services.
+
+At the end of 2013, PowerJet had also been awarded service
+contracts by Aeroflot, Interjet and Sky Aviation airlines.
+
+Passport (10,000 - 20,000 pounds of thrust)
+
+Through Techspace Aero, Safran has a 7% share in Passport,
+anew GE engine program designed for the future Bombardier,
+Global 7000 and 8000 business jets. Global 8000 will have a
+range comparable to long-haul aircraft (7,900 miles, or more than
+44,600 km).
+
+Ground testing for Passport began in June 2013 and the engine
+reached more than 18,000 pounds of thrust. The Passport engine
+is slated for certification in 2015.
+
+SMA
+
+The turboprop SMA SR305-230E powers Turbo Skylane JT-A, the
+latest aircraft in the Cessna 182 range. A total of 45 engines were
+delivered in 2013 and the backlog at the end of the year stood at
+263 units.
+
+@ CFM mid-thrust engines for civil aircraft
+(short- to medium-haul aircraft)
+
+CFMS56 - LEAP
+
+On the A320neo, the LEAP-1A model competes with the
+PurePower PW1000G engine made by US firm Pratt & Whitney.
+At December 31, 2013, LEAP-1A had a market share of 50% in
+aircraft for which engines had already been chosen. The LEAP-1B
+model was chosen as the sole engine for the Boeing 737 MAX.
+The LEAP-1C is the sole Western source for the propulsion system
+(engine plus nacelle) on COMAC's C919 Chinese aircraft. LEAP is
+expected to be in service by 2016.
+
+2013 also saw a string of major commercial successes. Orders
+continued to grow for LEAP engines. With new orders and
+purchase commitments for 1,393 engines in 2013, the backlog
+for LEAP overtook the CFM56 backlog for the first time, to stand
+at over 5,700 engines under the A320neo, Boeing 737 MAX and
+COMAC C919 programs.
+
+— 54 __
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 9 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Arecord 1,502 CFMS56 engines were delivered by Safran during the
+year, up 7% on 2012 (1,406). More than 25,700 CFMS56 engines
+have been delivered since the launch of the program. The in-service
+fleet of CFM56 engines passed the 668 million flying hours mark
+in 2013 and the engines are used by over 530 customers and
+operators.
+
+Taking into account the 1,330 orders for CFM56 engines and
+1,393 orders for LEAP engines taken during the year, the overall
+backlog (CFM56 + LEAP) represents around 10,800 engines, or
+more than seven years of production at current rates. This success
+confirms CFM as leader in the market for 100+ seater aircraft, and
+guarantees the success of these programs over several decades.
+
+The first ground tests for LEAP-1A were run in 2013 with
+excellent results: in almost five weeks of tests, the engine logged
+310 hours of operation and over 400 cycles. These tests are part
+of an extensive ground and flight certification program that will
+encompass 60 engines and will accumulate 40,000 test cycles
+before entry into service.
+
+CFM56 engines deliver industry-leading reliability and operational
+performance.
+
+@ High-thrust engines for civil aircraft (long-haul aircraft)
+
+Production of high-thrust engines was up sharply in 2013, with
+619 modules delivered compared to 567 in 2012.
+
+GE90 family
+
+Safran has an interest of around 23.5% in this GE program and
+enjoys a sole-source position on the Boeing 777, for which it
+delivered 212 modules in 2013 versus 187 modules in 2012.
+
+GP7200
+
+Safran delivered 96 high- and low-pressure compressor modules
+in 2013 compared to 62 in 2012, and has a 17.5% interest in this
+engine program which powers the A380. At the end of the year,
+the GP7200 was used by three airlines and has been selected for
+almost 55% of the A380 aircraft for which an engine has already
+been chosen.
+
+GenX
+
+The GenX engines manufactured for the Boeing 747-8 and
+Boeing 787, respectively GenX-2B and Genx-1B, were certified
+in 2011. Safran has a 7.3% share in GenX-2B and a 7.7% share
+in GenX-1B. The US aircraft manufacturer ramped up its monthly
+Boeing 787 production during the year and Safran delivered
+181 compressor modules, 20% more than in 2012.
+
+CF6 - LM6000 family
+
+A total of 130 modules were shipped in 2013. Safran’s interest in
+this program ranges from 10% to 19.4%, depending on the engine
+model concerned.
+
+Service agreements
+
+Safran has signed service agreements with GE for its high-thrust
+GE90 and GP7200 engines. Service agreements for these engines
+were also signed with Emirates and Etihad Airways.
+
+® Industrial operations
+
+Safran has developed an exclusive partnership with US-based
+Albany for three-dimensional weaving of carbon fiber preforms.
+These preforms are placed in metal molds and then injected with
+resin.
+
+The ties between Safran and Albany were recently strengthened
+with the creation of production facilities bringing together the
+resources and activities of both companies. A shared facility in
+Rochester, New Hampshire (United States) will be used to produce
+woven composite parts for the LEAP engine.
+
+A “twin” facility is currently under construction in Commercy in the
+Meuse region of France. This new 27,000 sq.m. facility will begin to
+produce blades and casings for the LEAP engine in 2014.
+
+Military aviation
+
+= M8
+
+In 2013, 20 M88 engines were delivered for the Rafale. The
+in-service fleet topped the 295,500 flying hours mark during the
+year.
+
+India is in exclusive talks with Rafale EIG to purchase 126 aircraft.
+Discussions are continuing under the guidance of Dassault. Other
+prospective customers are also being canvassed.
+
+™ TP400
+
+The TP400 is the Western world's largest ever turboprop engine.
+Having been awarded both civil and military certification, the TP400
+meets the highest safety standards of global civil aviation and
+provides potential export opportunities for the A400M Atlas.
+
+A total of 36 engines were delivered in 2013 and the backlog at
+‘the end of the year stood at 674 engines for the A400M Atlas fleet
+ordered by Airbus Defence & Space. The two first A400M Atlas
+aircraft were delivered to the French Armed Forces during the year.
+
+™@ Adour
+
+A total of 49 Adour engines were delivered in 2013. The backlog
+at the end of 2013 stood at 43 engines for Malaysia, Saudi Arabia
+and Oman.
+
+— 55 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 10 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Helicopter turbine engines
+
+® Light helicopters
+
+This segment continued to grow throughout the year:
+
+e the new Arriel 2 (2E) engine was certified by the European
+Aviation Safety Agency in January 2013. This engine will power
+Airbus Helicopters’ twin-engine EC145T2;
+
+* anew Arrius turbo engine model was on show at the Heli-Expo
+tradeshow in March 2013. The Arrius 2B2 Plus, equipped with
+anew FADEC system, is designed for Airbus Helicopters’ future
+lightweight, twin-turbine EC135T3.
+
+Safran landed another win at the Paris Air Show, when Bell
+Helicopter chose Arrius 2R to power its new five-seat short, light
+single (SLS) engine helicopter. This marks the first long-term
+partnership between Safran and Bell Helicopter.
+
+@ Medium-weight helicopters
+
+Safran unveiled Arrano, its brand-new turboshaft engine, at
+the Heli-Expo tradeshow in March 2013. The new 1,100 shp
+engine benefits from the technological developments resulting
+from Safran’s R&T strategy. It incorporates the results of several
+upstream research projects, including products and processes
+validated by the Tech800 demonstrator. Arrano is expected to first
+run on a test cell in 2014.
+
+At the MAKS Air Show in Moscow in August 2013, Safran
+unveiled its Ardiden 3G engine installed on a prototype of the
+Ka-62, a civilian helicopter built by Russian heli manufacturer
+Kamov. Illustrating the pertinence of Safran’s strategic choices,
+Colombian operator Vertical de Aviacion ordered five Ka-62s on
+the opening day of the show. This order follows on from the deal
+signed in December 2012 with Brazilian operator Atlas Taxi Aero
+for 14 helicopters, and confirms Safran’s successful partnership
+with the Russian high-tech industry.
+
+The Ardiden 3C/WZ16 engine completed its first test bench run
+at the end of 2013. This turboprop engine was developed in
+partnership with AVIC Engines (China) for the AC352 helicopter
+(the Chinese name for Airbus Helicopters’ EC175 program), and
+is the result of close cooperation between Safran and AVIC (China
+Aviation Industry Corporation). The test bench run marks the start
+of the engine's test and certification procedure.
+
+@ Heavy-lift helicopters
+
+In order to further its investment and development strategy
+focused on new engines for heavy-lift helicopters (3,000 shp and
+above), in 2013 Safran acquired Rolls-Royce's 50% stake in the
+joint RTM322 helicopter engine program, and has now assumed
+global responsibility for the design, production, product support
+and services for the RTM322 engine. This 2,100-2,600 shp model
+powers the Apache (UK fleet), EH101 Merlin and NH90 helicopters.
+
+(1) Europropulsion: joint venture with Safran and Avio.
+
+™@ Services
+
+Safran continued to expand sales of service agreements in 2013:
+
+* acontract was signed with the UK Ministry of Defence for the
+maintenance of 411 RTM322 engines powering the EH101
+Merlin and Apache helicopters. The six-year contract provides
+the UK MoD with a guaranteed level of availability for its RTM322
+engines, consolidating a number of current support agreements.
+into one overall support package;
+
+* accontract with Avincis group was announced for the
+maintenance of around 180 engines operated by Inaer, Bond Air
+Services, Bond Offshore Helicopters and Australian Helicopters;
+
+* at the Heli-Expo tradeshow, a contract was signed with Canada-
+based CHC Helicopter for the maintenance of 60 Makila 2
+engines powering their EC 225 helicopters. These helicopters
+are used in offshore missions, mainly in the North Sea, Nigeria,
+Brazil and Australia;
+
+* apartnership was sealed with Milestone Aviation group, the
+global leader in helicopter leasing, under which services will
+be provided directly to Milestone customers while expanding
+Turbomeca’s customer base;
+
+* an agreement was also signed for the repair, overhaul and
+inspection of the Makila 1A2 engines powering the 17 AS532
+Cougar helicopters operated by the Dutch Royal Air Force.
+
+Ballistics and space
+
+The European heavy-lift launcher Ariane 5 successfully completed
+four lift-offs in 2013, two less than expected due to technical
+difficulties on the satellites. This marks the European launch
+vehicle's 57th consecutive success and confirms the excellent
+reliability of Ariane.
+
+In the liquid propellant engine segment, six Vulcain engines for the
+core stage of the ES and ECA versions of Ariane 5 and four HM7
+engines for the upper stage of Ariane 5 ECA were delivered in 2013.
+
+In 2013, Safran also delivered six series of solid propellant boosters,
+which provide 90% of Ariane 5's lift-off thrust.
+
+An agreement was signed in late 2013 between Airbus Defence &
+Space, Safran and Europropulsion") for the production of the
+cryogenic rocket engines and solid rocket motors for 18 new
+Ariane 5 launchers. This agreement allows Safran and its European
+partners to secure the continued production of Ariane 5 engines
+until the end of 2018.
+
+2013 also marked the successful kick-off of a new series of tests
+for the Vinci engine. The continued development of this propellant
+intended for the upper stage of the future Ariane 5 ME (Midlife
+Evolution) and Ariane 6 launchers is on track to meet the technical
+objectives and timetable set by the European Space Agency (ESA).
+The first test flight for this new engine on Ariane 5 ME is scheduled
+for mid-2018.
+
+Safran was awarded responsibility for the upstream solid propulsion
+project for Ariane 6 that led to the choice of configuration of the
+future launch vehicle. Four identical engines forming the first two.
+
+— 56 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 11 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014 @
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+stages will make full use of the synergies with Vega, the future
+engine for the launch vehicle. The third stage will be an adapted
+version of the upper stage of Ariane 5 ME, fitted with a Vinci
+cryogenic engine developed by Snecma.
+
+Safran is also a major contributor to Vega, the European launch
+vehicle. The second Vega successfully completed its lift-off from
+the Kourou spaceport in French Guiana on May 7, 2013. Towards
+the end of the year, Arianespace ordered ten new additional Vega
+launch vehicles. Representing more than three years’ work, they
+will follow on from the test launch vehicle and five Vega launch
+vehicles ordered in 2010.
+
+2.1.3.2 Aircraft Equipment
+
+In the industrial applications sector, a new plant producing
+propellants for airbags was inaugurated in the Caohu business
+park, 80 km from Shanghai (China). This new 7,000 sq.m. plant
+results from the joint venture SMECQ Automotive Safety Technology
+Co. Ltd. set up in October 2010 by Safran and TaiHang ChangQing
+(THCQ), a subsidiary of China Aviation Industry Corporation (AVIC).
+SMECQ was set up to produce 300 metric tons of latest-generation
+gas generator propellants, or the equivalent of 7 million airbags by
+2016, in order to meet the growing Chinese demand for automotive
+safety.
+
+ADJUSTED KEY FIGURES
+2012
+Adjusted”
+Quantities delivered
+Power transmission systems 2,019 2,200 9%
+A320 thrust reversers 489 513, 5%
+A380 nacelles 108 108 -
+(in € millions)
+Backlog 14,467 16,485 14%
+Orders recorded during the year 3,539 6,776 91%
+Revenue 3,691 4,121 12%
+Recurring operating income 286 380 33%
+Profit from operations 270 378 40%
+Free cash flow 38 67 76%
+Acquisitions of property, plant and equipment 140 169 21%
+Research and development
+Self-funded R&D (213) (254) 19%
+% of revenue 5.8% 6.2% +0.4 pts
+Research tax credit 29 38 31%
+Self-funded R&D after research tax credit (184) (216) 17%
+Capitalized expenditure 126 129 -
+Amortization and impairment of R&D expenditure (32) (36) 13%
+Impact on profit from operations (90) (123) 37%
+% of revenue 2.4% 3.0% +0.6 pts
+Headcount”) 22,874 24,495 7%
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+(2) Headcount at December 31.
+
+Aircraft Equipment activities can be split into four key sectors that contribute to business line revenue as follows:
+
+% of business line revenue
+
+Sector 2012
+
+Landing and aircraft systems 47% 46%
+Engine systems and equipment 27% 29%
+Electrical systems and engineering 24% 23%
+Other equipment 2% 2%
+
+— 57 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 12 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+REVIEW OF AIRCRAFT EQUIPMENT OPERATIONS
+IN 2013
+
+The Aircraft Equipment segment reported full-year 2013 revenue
+of €4,121 million, up 11.6% (9.8% on an organic basis) compared
+to the year-ago period.
+
+Increases in OE production rates (notably the Boeing 787, A330
+and A380 programs) and the continued recovery of the regional jets
+market segment drove revenue increases in all activities. The nacelle
+activity recorded increases in A330 and A320 thrust reversers and
+in small nacelles. The number of A380 nacelles delivered (108)
+was stable compared to 2012. The harnessing and landing gear
+activities saw a robust performance driven by a production ramp-up
+in all their civil programs including the first shipments to the A350
+program. Shipments began in 2013 on the A400M Atlas program
+to which Safran supplies landing systems.
+
+On a full-year basis, service revenue grew by 15.2% in euro terms.
+and represents 29.5% of segment revenue. Excluding GEPS, the
+increase in service revenue was 8.9%. This increase is principally
+driven by aftermarket growth in wheels and brakes (including
+carbon brakes), gearboxes and nacelles. The increase of service
+revenue in the sales mix has a favorable impact on profitability.
+
+Full-year 2013 recurring operating income was €380 million (9.2%
+of revenue), up 32.9% compared to €286 million in the year-ago
+period (7.7% of revenue). This significant improvement was
+driven by a favorable volume impact and productivity gains. The
+increased service activity for wheels and brakes also contributed
+to this performance. Currency hedging had a positive impact on
+profitability.
+
+COMMERCIAL AND INDUSTRIAL DEVELOPMENTS
+
+Landing and aircraft systems
+
+@ Landing gear
+
+In all, 1,319 landing gear units were delivered by Safran in 2013,
+128 more than in 2012.
+
+To meet the ramp-up in monthly production on the Boeing 787,
+61 units were delivered by Messier-Bugatti-Dowty in the year
+(42 in 2012).
+
+Safran continued to upgrade its production facilities in 2013, chiefly
+in Montreal (Canada) and Bidos in the French Pyrénées-Atlantiques
+region.
+
+Throughout 2013, Safran signed landing gear maintenance and
+repair contracts notably for the Airbus fleets operated by Alitalia,
+Cathay Pacific, Dragonair, Iberia, China Eastern Airlines and South
+African Airways. These new contracts strengthen Safran’s position
+as a global player in the maintenance and repair of Airbus landing
+gear units.
+
+Wheels and brakes
+
+At December 31, 2013, more than 6,100 aircraft were equipped
+with Messier-Bugatti-Dowty carbon brakes, giving Safran a share
+of over 50% of the market for 100+ seater civilian aircraft equipped
+with carbon brakes.
+
+Safran brakes had been selected for 1,185 Boeing 737NG aircraft
+(cumulative basis) at December 31, 2013 (891 at end-2012),
+including 581 aircraft in connection with retrofit projects. A total
+of 643 of these 1,185 aircraft are already in service. Safran’s
+market share on Boeing 737NG aircraft fitted with carbon brakes
+represents 68%.
+
+Messier-Bugatti-Dowty's electric brakes for the Boeing 787
+Dreamliner continue to capture market share. After being selected
+by Ethiopian Airlines in 2012, in 2013 they were chosen for
+aircraft operated by Air Canada, Aeromexico, AviancaTaca, Royal
+Jordanian Airlines, Air New Zealand, Kenya Airways, Thai Airways
+International and Royal Brunei.
+
+Electric green taxiing system
+
+To meet the demand for more integrated equipment offerings
+from both aircraft manufacturers and airlines, in 2012 Safran and
+Honeywell set up a joint venture, EGTS International. This joint
+venture allows them to pool their complementary expertise and
+work together to develop and market a new electric green taxiing
+system, i.e., taxiing without the use of engine power. The aim is
+to fit both in-service and new aircraft with this system as from
+2016/2017.
+
+Electric green taxiing was demonstrated at the Le Bourget Air Show
+in June 2013, and led to an agreement being signed with Air France
+to develop the system. In December 2013, an agreement was.
+signed with Airbus to assess electric green taxiing as a new option
+for A320 aircraft.
+
+@ Filters
+
+In 2013, Safran was selected to supply fuel filters for CFM56
+engines in aircraft operated by US-based airlines US Airways and
+Southwest Airlines.
+
+Engine systems and equipment
+
+1 Nacelles and thrust reversers
+
+In 2018, Safran delivered a total of 513 thrust reversers for the A820
+and 166 thrust reversers for the A330 (489 and 146, respectively,
+in 2012). As in 2012, a total of 108 nacelles were delivered for
+the A380.
+
+Another decisive advance was recorded in 2013 for the LEAP-1C
+nacelles to be used in China’s future C919 aircraft, with the launch
+of production for the first thrust reverser parts. The LEAP-1A nacelle
+designed for the A320neo is developing as planned.
+
+— 58 __
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 13 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Safran is also involved in three nacelle development projects in the
+business aviation sector: Silvercrest, Learjet 85, and Passport on
+behalf of GE for the Bombardier Global 7000/8000. The Learjet85
+nacelle was unveiled to the public at the US business aviation
+(NBAA) show in Las Vegas.
+
+Services
+
+Safran reported a 10% rise in business related to nacelle services.
+In 2013, it opened a parts distribution center in Beijing to serve
+Chinese airlines that operate aircraft with the Company's jet engine
+nacelle and thrust reverser products. This new facility will provide
+spare parts and inventory management for airline companies, with
+rapid response capability for urgent aircraft-on-ground service
+requirements. The distribution facility builds on Aircelle’s already
+well-established presence in China, which includes an office in
+Beijing, along with a network of customer support managers and
+field service representatives.
+
+In 2013, Safran was also selected to provide systematic preventive
+maintenance for Trent 700 thrust reversers installed on 50 A330s
+operated by Cathay Pacific and its subsidiary Dragonair. Safran
+landed this ten-year contract amid fierce competition, and its
+success confirms the development of the systematic preventive
+maintenance model for thrust reversers and nacelles, which have
+traditionally been repaired as and when needed.
+
+@ Mechanical power transmissions
+
+Throughout 2013, Safran continued to develop power transmission
+for the Trent XWB engines used in the A350 as well as for
+LEAP engines. During the year Safran delivered the first power
+transmission gearbox for initial flight testing of the LEAP-1C engine
+that will power the Chinese aircraft COMAC C919.
+
+Electrical systems and engineering
+
+@ Power generation and distribution systems
+
+Safran can call on its engineering and research teams to develop
+cutting-edge electrical solutions for all the energy needs of an
+aircraft. Compared to the current architecture combining electrical,
+hydraulic, pneumatic and mechanical networks, the “more
+electric” aircraft offers optimum performance, superior reliability,
+a lighter carbon footprint and significantly lower production and
+maintenance costs.
+
+Driven by its ambition to continue developing in this critical
+aerospace segment, in 2013 Safran finalized its acquisition of
+Goodrich Electrical Power Systems (GEPS) and in January 2014
+announced that it was to create a new industrial division for the
+
+Group's electrical power activities, Labinal Power Systems. This
+operating division, which will soon include the power distribution
+solutions of Eaton Aerospace (the acquisition should be completed
+in the first half of 2014), covers the entire electrical energy chain
+and places Safran in a strong position to continue its successful
+breakthrough in the expanding market for “more electric aircraft".
+This transaction has enabled the Group to create a world leader in
+electrical and power transmission systems.
+
+® Electrical interconnection systems
+
+Confirming its front-ranking role as engine and parts manufacturer
+for Dassault's Falcon 5X, Safran was also selected to provide the
+wiring harnesses for this new aircraft.
+
+® Ventilation systems and electrical engines
+
+In 2013, the Company received the CCAR145 maintenance
+certificate from the Chinese civil aviation authorities. This allows it
+to repair all equipment fitted to aircraft registered in China.
+
+For the past 11 years, Technofan has ranked amongst the top
+ten companies in Airbus’ Annual Supplier Support Rating,
+demonstrating its superior customer service quality.
+
+@ Engineering services
+
+Safran Servicos de Supporte de Programas Aeronauticas Ltda
+(SAR), the Group's new Brazilian entity based in Sao José dos
+Campos (Sao Paulo state), opened for business in May 2013 and
+includes a new business center for Safran Engineering Services.
+Safran Engineering Services provides expertise in electrical systems,
+aerostructure, mechanical systems, avionics and electronic
+embedded systems. The business has landed major engineering
+contracts with Embraer and Helibras. A joint venture was set up
+by SAR with a Brazilian partner to provide engineering services for
+Embraer’s new range of EJets E2 regional jets. Safran Engineering
+Services also helps to develop Safran’s local Aircraft Equipment
+programs with Brazilian customers. Safran Engineering Services
+has been part of Labinal Power Systems since January 2, 2014.
+
+Other equipment
+
+@ Small electric motors
+
+In October 2013, Safran completed the disposal of Globe Motors Inc.,
+a US-based subsidiary, to Allied Motors Inc. Globe Motors designs,
+manufactures and distributes precision motors and motorized
+devices for the automotive, aerospace and weapons industries
+and had revenue of USD 106 million in 2012.
+
+— 59 __
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 14 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1.3.3 Defence
+
+ADJUSTED KEY FIGURES
+2012
+Adjusted” change
+
+Quantities delivered
+
+Inertial units 454 494 9%
+
+FELIN systems 4,000 4,081 2%
+(in € millions)
+Backlog 2,380 2,174 -9%
+Orders recorded during the year 1,142 1,072 -6%
+Revenue 1,315 1,278 -3%
+Recurring operating income 79 87 10%
+Profit from operations 79 94 19%
+Free cash flow 13 110 N/A
+Acquisitions of property, plant and equipment 47 16 -66%
+Research and development
+
+Self-funded R&D (117) (126) 8%
+
+% of revenue 8.9% 9.9% +1.0 pts
+
+Research tax credit 36 39 8%
+
+Self-funded R&D after research tax credit (81) (87) 7%
+
+Capitalized expenditure 22 31 41%
+
+Amortization and impairment of R&D expenditure (8) (10) 25%
+
+Impact on profit from operations (67) (66) -1%
+
+% of revenue 5.1% 5.2% +0.1 pts
+Headcount”) 7,182 7,195 -
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+(2) Headcount at December 31.
+
+Defence activities can be split into three key sectors that contribute to business line revenue as follows:
+
+% of business line revenue
+
+Sector 2012
+
+Optronics 53% 48%
+Avionics 38% 43%
+Electronics and critical software (Safran Electronics) 9% 9%
+
+REVIEW OF DEFENCE OPERATIONS IN 2013
+
+Full-year 2013 revenue was down 2.8% at €1,278 million, or down
+2.2% on an organic basis, compared to the previous year. Avionics
+revenue grew on the back of higher deliveries of seeker kit modules
+and a solid flight control systems activity. This trend was offset by
+softer revenue in optronics due primarily to the continued decline in
+shipments of long-range infra-red goggles to the US Armed Forces.
+Against this backdrop, Safran continued to leverage its leadership
+in cutting-edge technologies in optronics: Optrolead (50/50 joint
+venture between Safran and Thales) signed an upstream study
+program (PEA) for the development of a fourth generation of
+airborne electro-optical gyrostabilized systems.
+
+Full-year 2013 recurring operating income at €87 million (6.8%
+of revenue) was up 10.1% (up 3.8% organically) compared to
+€79 million (6.0% of revenue) in full-year 2012. The continued
+turnaround of profitability in avionics resulted from a combination
+of favorable volume, price and mix effect and cost reductions.
+Optronics continued to deliver satisfactory profits, although lower
+than last year, thanks to continued deliveries of the FELIN infantry
+combat system and the first maintenance and upgrade activity
+on the French Army's FELIN equipment. Budgetary constraints
+impacted FELIN requirements at the French Ministry of Defence.
+Consequently, OE deliveries will cease after 2014 instead of after
+2015 as initially expected. However, export potential for soldier
+modernization programs remains strong.
+
+— 60 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 15 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+COMMERCIAL AND INDUSTRIAL DEVELOPMENTS
+
+Optronics
+
+@ Modernizing infantry
+
+In 2013, Safran delivered the modern FELIN infantry combat
+system to four regiments of the French Army, with 14 regiments
+now outfitted and the system covering all specialist areas of
+the infantry. The 2014 French Military Planning Act provides for
+a reduction in deliveries equivalent to 3.5 regiments out of the
+21 initially planned. Safran also provides support for the systems
+delivered and used in active service. Together with the French
+Directorate General of Weapons Procurement (hereafter “DGA"),
+the Group is also considering the changes to be made to future
+FELIN models in light of the feedback received on the ground. The
+RIF-NG new generation soldier information network development
+by Safran and now accredited by the DGA is the first dynamic
+soldier information network in Europe. FELIN continues to attract
+interest outside France, with talks underway with Benelux, Canada,
+Algeria and Russia, for example. Good feedback from its use in
+overseas operations should further cement its reputation.
+
+®@ Portable optronic equipment, sight equipment and drones
+Portable optronic equipment
+
+The string of commercial successes in portable optronics this year
+confirms the front-ranking position of Safran technology, despite an
+overall decline in the market prompted by the withdrawal of armed
+forces from certain overseas military operations and by cuts in the
+defence budget in most developed countries. New orders will bring
+the number of JIM-LR multifunction goggles in service and on order
+across the globe to over 6,000 (UN, the US, Algeria, etc.)
+
+In France, Safran received confirmation that the two conditional
+tranches of the JIRTTANG contract to deliver several hundred
+new-generation infrared goggles would go ahead.
+
+Throughout the year Safran, via its subsidiary Vectronix, supplied
+various countries (Israel, Norway, etc.) with laser range finder (LRF)
+modules and took part in the program to modernize Bundeswehr
+infantry with the supply of Moskito and Vector rangefinders.
+
+Optovac MecAnica e Optoelectrénica Ltda, a Brazilian subsidiary
+created in 2012 and specializing in optronics and night vision,
+continued to grow in 2013 and began to operate out of the Univap
+Technology Park in San Jose dos Campos. The many solutions
+offered to its Brazilian customers demonstrates how Optovac is
+increasing its exposure and activity in the country.
+
+Onboard optronic equipment
+
+Sagem landed a major contract with DCNS to deliver EOMS-NG
+(Electro-Optical Multifunction System — New Generation) systems
+
+‘that will be installed on four French navy amphibious and projection
+vessels: three Mistral-class projection and command (BPC) ships
+and the Siroco TCD landing craft transport vessel. The EOMS-
+NG provides day and night vision and offers 360° surveillance,
+identification, tracking and target engagement functionalities.
+
+In the periscope business, Sagem outfitted five DCNS submarines
+with ten optronic surveillance masts for the Brazilian, Indian and
+French navies.
+
+In the segment of gyrostabilized observation systems, Sagem
+received a large order from its partner Airbus Helicopters for Euroflir
+optronics systems in connection with several export contracts
+(Chile, Uzbekistan, etc.).
+
+Through Optrolead, its joint venture with Thales, Safran takes an
+active role in the upstream study program for new-generation
+airborne gyrostabilized pods featuring numerous sensors, which
+offer industry-beating performances at equal mass and volumes
+to existing systems.
+
+In the field of cameras for land-based applications, the SATIS
+device featuring a high-resolution detector made good progress
+in 2013. Technical advances also helped drive development and
+enabled the Group to start marketing its multi-function viewfinders
+for PASEO land platforms. On a commercial front, the progress of
+these programs and stronger decisive partnerships with foreign
+companies spell good news for export opportunities going forward.
+
+Drones
+
+The DGA confirmed its order for five SDTI tactical drones to round
+out its existing in-service capabilities.
+
+Safran also continued to provide SDTI drone support services for
+the French Armed Forces throughout 2013.
+
+During the year, Safran carried out an additional series of flight tests
+of its new Patroller™ tactical drone in multi-mission configuration,
+incorporating a communications intelligence (COMINT) system. The
+positioning capabilities of the drone are attracting growing interest
+from export customers.
+
+Avionics
+
+®@ Navigation systems and sensors
+
+In 2013 Safran continued to benefit from the investments made in
+this high-tech industry in previous years.
+
+On a commercial front, 2013 saw the first major orders for the
+BlueNaute attitude and heading reference system, in particular from
+a US hydrographic vessel and the Indonesian Coast Guard.
+
+Also in the shipbuilding field, Safran was chosen by the DGA to
+modernize the inertial navigation and alignment system on the
+Charles-de-Gaulle aircraft carrier.
+
+— & _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 16 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+In the aerospace field, 2013 was defined by several success stories
+demonstrating Safran’s excellence in navigation:
+
+e the 10,000th aircraft piloting reference sensor (APIRS) was
+delivered: APIRS are today fitted to a large number of civil
+airplanes, including Bombardier's Dash 8, Casa 295 and ATR72,
+Airbus Helicopters’ EC135/145/155/225 and NH Industries’
+NHg0;
+
+«Indian airframe manufacturer Hindustan Aeronautics Ltd (HAL)
+ordered more than 100 Sigma 95 navigation systems for the
+Indian Air Force;
+
+e Thales Alenia Space ordered Regys 20 3-axis gyros for its
+satellite applications. Regys 20 is made using the latest
+hemospherical resonator gyro (HRG) technology.
+
+In 2013, Safran ran the first flight tests of its HRG-based navigation
+system prototype on an Airbus A320. This new, innovative
+technology yielded excellent results.
+
+In cockpit avionics, Dallas-based Sagem Avionics Inc. in the
+US supplied several helicopter operators with its multifunction
+Integrated Cockpit Display System (ICDS). The display suite is an
+intuitive and particularly user-friendly system that is very popular
+among helicopter crews.
+
+Safran, the European leader in navigation systems, acquired the
+Swiss company Colibrys SA in January 2013. Colibrys has around
+70 employees and is specialized in the design and production
+of high-performance micro-sensors based on silicon MEMS"
+technology. Through this acquisition, Safran expands its range
+of technological expertise, particularly in inertial sensors and
+accelerometers.
+
+™@ Seekers and guidance systems
+
+Safran's AASM Modular air-to-ground weapons system confirmed
+its excellent performance capabilities, particularly during operations
+in Mali. Following the successful completion of firing tests for the
+new laser-guided missile on the Rafale, Safran received an order
+for over 200 AASM suites from the DGA.
+
+Building on its expertise in weapons guidance systems, Safran
+was selected to supply infrared seekers for MMP medium-range
+missiles for the Army and FASGW®' light anti-ship missiles as part of
+a joint project with the British. Safran was also chosen by the DGA
+to conduct a design study contract for inertial navigation systems.
+for new-generation tactical missiles.
+
+(1) Micro Electro Mechanical Systems.
+(2) Future Anti-Surface Guided Weapon.
+
+@ Flight control systems
+
+Several important events occurred in 2013 in the field of electric
+flight control systems:
+
+° Safran was chosen by Bell Helicopter to supply certain actuators
+for the B525;
+
+e the horizontal stabilizer trim system which Safran is producing
+for Embraer’s KC 390 program continued to develop;
+
+e the Detail Design Review (DDR) phase was completed and the
+first simulation bays for the nacelle’s electrical thrust reverser
+actuation system (ETRAS) on the C919 were delivered to
+COMAC.
+
+Safran also worked on projects for a more electric helicopter,
+proposing a fly-by-wire flight control system featuring a sidestick,
+an altitude and heading reference system and quadruplex flight
+computers.
+
+@ Onboard information systems/data management
+
+In 2013, Safran leveraged synergies between two of its subsidiaries,
+Snecma and Sagem, to offer airline companies an innovative
+service allowing them to optimize operating costs. The use of flight
+data combined with an onboard information system (Cassiopée)
+allows Safran to provide a responsive, flexible solution and reduce
+aircraft consumption.
+
+Electronics and critical software
+
+Fadec Alliance Inc., a joint venture set up by GE Aviation and Fadec
+International (itself a joint venture between Sagem and BAE) is to
+supply next-generation Fadec 4 devices to be fitted to the LEAP
+and Passport engines. In 2013, Fadec 4 successfully completed
+several milestones enabling the first engine rotations for CFM's
+LEAP and GE's Passport.
+
+Also in the year, Fadec International celebrated its successful
+10-year partnership, which has seen it deliver over 9,900 engine
+control systems representing more than 600 million flying hours.
+
+Numerous in-progress projects have also successfully completed
+
+important milestones:
+
+the first functional tests for the A350’s remote braking control
+units were completed;
+
+e the Detail Design Review (DDR) phase was completed on the
+brake control system for Embraer’s KC390.
+
+Aerospace Embedded Solutions GmbH (AES), a joint venture set
+
+up in 2012 by Safran and MTU in Germany, delivered the first series
+
+engine control software for the A400M Atlas.
+
+— 62 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 17 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014 @
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+2.1.3.4 Security
+
+ADJUSTED KEY FIGURES
+2012
+Adjusted" change
+
+Quantities delivered
+
+Smart telco and bank cards (millions of units) 630 621 -1%
+
+CTX equipment 65 79 22%
+(in € millions)
+Backlog 1,737 1,647 -5%
+Orders recorded during the year 1,862 1,451 -22%
+Revenue 1,546 1,502 -3%
+Recurring operating income 145 120 -17%
+Profit from operations 120 117 -2%
+Free cash flow 1 (42) NA
+Acquisitions of property, plant and equipment 46 66 43%
+Research and development
+
+Self-funded R&D (124) (129) 4%
+
+% of revenue 8.0% 8.6% +0.6 pts
+
+Research tax credit 12 12 -
+
+Self-funded R&D after research tax credit (112) (117) 4%
+
+Capitalized expenditure 14 17 21%
+
+Amortization and impairment of R&D expenditure (3) (©) N/A
+
+Impact on profit from operations (101) (106) 20%
+
+% of revenue 6.5% 7.1% +0.6 pts
+Headcount” 7,727 8,403 9%
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+(2) Headcount at December 31.
+
+Security activities can be split into three key sectors that contribute to business line revenue as follows:
+
+% of business line revenue
+
+Sector 2012
+
+Identification 63% 62%
+E-documents 22% 22%
+Detection 15% 16%
+
+REVIEW OF SECURITY OPERATIONS IN 2013
+
+The Security activity reported full-year 2013 revenue of
+€1,502 million, down 2.8% compared to the year-ago period.
+Stable revenue on an organic basis reflects a mixed situation in
+identification, slow growth in detection and stability in e-documents.
+In identification, MorphoTrust continued its robust growth,
+driven by US Federal activities. A tough market for Morpho’s
+biometric activities (excluding MorphoTrust) offset this growth as
+governmental contracts were subject to budgetary constraints or
+
+political instability. The e-documents activity has been significantly
+impacted in its smartchip telco and banking segments due to
+intensified price pressure and late introduction of NFC technology.
+Nevertheless, Safran regained traction in the telco and banking
+market as deliveries of NFC and LTE technology-enabled devices
+commenced. Detection ended 2013 with strong momentum,
+notably delivering CTX tomographic detection systems to the TSA.
+(US), CATSA (Canada) and other export markets.
+
+— 63 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 18 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'’S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+Full-year 2013 recurring operating income decreased by 17.2%
+to €120 million compared to €145 million in the year-ago period.
+The decline is principally due to the run-off of a few biometric
+identification projects which had been profitable in their latter years,
+not yet offset by new contracts. In e-documents, cost reductions
+did not entirely offset margin declines due to pricing pressure.
+Detection margins improved on higher CTX volumes.
+
+Management and organizational changes in the second half of
+2013 will result in the adaptation of the cost base and refocusing
+resources on significant growth prospects characteristic of the
+Security business.
+
+In March 2013, Safran divested part of its stake in Ingenico,
+generating around €130 million in profit after tax. Safran nevertheless
+remains a major shareholder of the company, with 10.2% of its
+capital and around 17% of its voting rights.
+
+COMMERCIAL AND INDUSTRIAL DEVELOPMENTS
+
+Identification systems
+
+® Major identity management systems
+
+In the US, Safran is the leading supplier of identity management
+solutions, with its system for issuing driving licenses currently
+used in 42 of 50 states. Several states (Arizona, Illinois, Alabama,
+Connecticut) renewed their commitment to Safran in 2013 for the
+replacement and upgrade of their driving license issuance systems.
+Safran also provides biometric identification solutions to the FBI,
+the Department of Defense and the State Department. In 2013,
+Safran became the first operator to be awarded the highest security
+certification by the North American Security Product Organization
+(NASPO) for a facility that produces driving licenses and ID cards.
+
+In Albania, the concession awarded in 2008 to manage the
+entire production process (enrollment, personalization, issue and
+distribution) of secure biometric identity cards and passports was.
+renewed for a further ten years and extended to include a platform
+giving access to e-Services in order to help improve and make
+safer public and private transactions carried out online by Albanian
+citizens.
+
+In Egypt, the one-millionth identity card was issued in March under
+the country’s new (color) ID system.
+
+In Mali, Safran supplied and personalized — within an extremely
+short timeframe — seven million electoral ID cards used in the
+July and August presidential elections.
+
+India’s Unique Identification Authority (UIDAI) had delivered
+over 500 million unique identification numbers at the end of
+December from its Aadhaar biometric system which uses Morpho
+technology. Following on from the Aadhaar project, alternate usages
+have been confirmed for the technology, in particular biometric
+identification for the banking industry.
+
+@ Border control
+
+Following orders for gates and kiosks for Perth, Sydney and
+Brisbane airports as part of the Australian border control system,
+tests of the latest generation automated border control solution,
+SmartGate Plus, were successfully completed in actual operating
+conditions at Auckland airport in New Zealand.
+
+® Criminal identification
+
+Building on its long-standing relationship, in 2013 Safran entered
+into a strategic partnership to supply Interpol with a range of
+innovative biometric solutions and other technical support to
+enhance international security. Under the five-year partnership,
+Safran's cutting-edge facial recognition technology will also be
+provided to Interpol. The two organizations, along with other key
+partners, will also collaborate on developing global standards and
+best practices.
+
+The latest improvements to the FBI's new-generation identification
+solutions have made searches using digital fingerprints far more
+effective and further increased the rate of crimes solved. Boasting
+enhanced capacity, speed and accuracy for comparing fingerprints
+and other prints left at crime scenes, the system meets the public
+security needs of over 18,000 police, government, tribal and federal
+organizations across the country.
+
+Police forces in several US states including Missouri and Arizona
+are using Morpho!Dent, a portable fingerprint device which can now
+be used to make simultaneous searches in several AFIS systems
+regardless of the system provider, thanks to a software platform that
+can interface with local, federal, or central AFIS systems.
+
+The US Department of Defense has chosen Safran to provide
+maintenance services for the platform used as its main biometric
+identification system, while the French Interior Ministry has renewed
+its contract for Safran to provide maintenance services for the
+FAED"! system used by French police.
+
+® Biometric enrollment services
+
+Biometric enrollment is particularly developed in the US and Safran
+provides enrollment services through various representative offices
+throughout the country. Enrollment records user's biometric and
+biographical data and performs background checks and other ID
+services. Biometric enrollment is used to deliver accreditations and
+access documents meeting the security requirements demanded
+by the partners concerned. These can be national (e.g., the TSA®))
+or local government bodies.
+
+In 2013, Safran announced that it had enrolled 1.5 million drivers
+in the year as part of TSA’s Hazardous Materials Endorsement
+Threat Assessment Program (HTAP). This program is in the final
+phase of integration within the TSA’s Unique Enrollment Service
+featuring all enrollment and registration functions introduced by
+
+(1) Automated Fingerprint Identification System (Fichier automatisé des empreintes aigitales).
+
+(2) Transportation Security Administration.
+
+— 64 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 19 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+
+COMMENTS ON THE GROUP'S PERFORMANCE IN 2013 BASED ON ADJUSTED DATA
+
+the TSA in order to verify biometric and background data for
+individuals seeking access to critical premises or segments of the
+transportation system.
+
+@ Biometric equipment
+
+Safran is the world’s first company to achieve Common Criteria
+certification" for fingerprint spoof detection in a biometric device:
+the MorphoSmartTM Optic 301 fingerprint reader was certified by
+an independent German certification body and means that the
+device meets the industry's highest standards for spoof detection.
+
+In 2013, Safran also launched its IAD™ (lris-at-a-Distance)
+technology, which can simultaneously capture the iris and face of
+aperson at a distance of one meter in just one second. Combining
+iris and face capture, IAD is suited to a wide range of applications
+requiring fast and accurate imaging technology such as border
+and access control.
+
+™@ Other businesses
+
+In 2013, the first ELITE games terminals began to be rolled out
+for La Frangaise des Jeux. These latest-generation terminals use
+new on-the-fly imaging technology, making them easy to use and
+increasing bulletin design possibilities.
+
+E-documents
+
+Buoyed by the acquisitions carried out in December 2012, Safran
+strengthened its positions on the banking market in Europe, where
+the business grew 60% in value terms over the year. The migration
+from stripe cards to smart cards in line with the Europay MasterCard
+Visa (EMV) standard and the growing trend towards Dual Interface
+Contactless/Contact technology in Western Europe continued to
+drive growth in the banking market, even though the pace of growth
+has slowed in certain regions such as Brazil which has completed
+the migration. The sharp fall in the value of the Brazilian real and
+Indian rupee had a significant impact on the business's performance
+in euro terms.
+
+In the telecoms market, the roll-out of LTE (4G) technology —
+particularly in North America — and the significant inroads made by a
+large South American telecoms group spurred considerable growth
+in value terms in the Americas region, despite the adverse currency
+impact. India saw a sharp decline in value terms prompted by
+regulatory changes affecting telecoms operators as from end-2012
+and by the depreciation of the rupee. However, Safran increased
+its market share and strengthened its leadership on this market.
+Business in other regions remained stable overall, amid fierce
+downward pressure on prices and a lower-than-expected roll-out
+of Near Field Communication (NFC) technology.
+
+At the beginning of 2013, Orange and Safran created the world’s
+first mobile identity management system for the healthcare sector.
+This healthcare data mobility system enables doctors to securely
+access patient files via a tablet or mobile device using strong SIM
+authentication.
+
+December saw the launch of mobile payment solutions using
+Samsung smartphones by the Commonwealth Bank of Australia
+in partnership with Mastercard. Safran's Trusted Services
+Management (TSM) technology means that the mobiles can be
+personalized remotely and used for secure contactless payments.
+
+Detection
+
+®@ Tomography and diffraction-based detection systems
+
+The high-throughput CTX 9800 device was chosen for in-hold
+baggage screening at Japan's Narita airport, which acquired 13
+of the new systems, bringing the number of devices installed at
+Narita to around 40.
+
+Similarly, the Nice-Céte d'Azur airport in France, where four of these
+devices came into service in 2013, became the first airport in the
+continental EU to screen all passenger checked baggage — referred
+to as Level 1 screening — with an advanced explosives detection
+system (EDS).
+
+The US TSA had already chosen CTX 9800 in 2012. In 2013,
+it also awarded Safran a contract to provide reduced-size
+CTX 5800 explosives detection devices for a fixed price of up to
+USD 130 million over the next five years.
+
+In Canada, CATSA®! also ordered these two devices under a
+five-year fixed-price contract worth up to USD 100 million. Safran
+delivered 20 systems to CATSA in 2013.
+
+@ Spectrometry-based trace detection equipment
+
+Over 200 Itemiser® DX explosives trace detectors (ETD) were
+deployed by global air carriers in 2013 to meet new regulatory
+mandates for enhanced cargo screening. Early in the year Morpho
+Detection launched an online store where US customers can directly
+order consumables to optimize the maintenance and operation of
+their trade detection systems.
+
+Infraero, Brazil's national airport operator, has selected Safran’s
+desktop explosives trace detection system, the Itemiser DX.
+Ahead of the 2014 FIFA World Cup and 2016 Olympic Games,
+the Itemiser DX provides Infraero with the highest level of passenger
+and baggage screening security across Brazilian airports.
+
+(1) Common Criteria are internationally recognized criteria (ISO 15408) which define a common framework for evaluating and certifying security features and capabilities
+
+of Information Technology products.
+(2) Canaaian Air Transport Secunty Authority.
+
+— 6 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 20 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE CONSOLIDATED FINANCIAL STATEMENTS
+
+2.2 COMMENTS ON THE CONSOLIDATED
+
+FINANCIAL STATEMENTS
+
+2.2.1 CONSOLIDATED INCOME STATEMENT
+
+2012
+
+(in € millions) Adjusted” change
+Revenue 13,615 14,490 +6.4%
+Other operating income and expenses (12,372) (13,195)
+
+Recurring operating income 1,243 1,295 +4.2%
+Other non-recurring operating income and expenses (66) 185
+
+Profit from operations 1,187 1,480 +24.7%
+Financial income 533 439
+
+Income tax expense (433) (650)
+
+Share in profit from associates 19 15
+
+Gain on disposal of Ingenico shares - 131
+
+Profit from continuing operations 1,306 1,415
+
+Loss for the period attributable to non-controlling interests (24) (29)
+
+PROFIT FOR THE PERIOD ATTRIBUTABLE TO OWNERS
+
+OF THE PARENT 1,282 1,386
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+
+Consolidated revenue
+
+Recurring operating income
+
+Consolidated revenue climbed 6.4% year-on-year, to €14,490 million
+from €13,615 million in 2012.
+
+The difference between adjusted revenue and consolidated revenue
+is due to the exclusion of foreign currency derivatives from the
+adjusted figures. Neutralizing the impact of foreign currency
+hedging decreased consolidated revenue in 2013 by €205 million
+while it increased consolidated revenue by €55 million in 2012.
+This year-on-year change in the revenue impact of foreign currency
+hedging results from movements in average exchange rates with
+regard to the effective hedged rates for the period on the portion
+of foreign currency denominated flows hedged by the Group. For
+example, the hedged EUR/USD rate in 2013 was 1.28, against an
+annual average rate of 1.33, which explains why netting out the
+effect of foreign currency hedging gives a consolidated revenue
+figure that is lower than adjusted consolidated revenue.
+
+Year-on-year changes in revenue excluding the impact of adjusting
+items are analyzed below (see section 2.1.2).
+
+Recurring operating income rose 4.2% to €1,295 million in 2013
+from €1,243 million in 2012. The difference between recurring
+operating income and adjusted recurring operating income, which
+came in at €1,788 million, reflects:
+
+* amortization charged against intangible assets measured
+when allocating the purchase price for business combinations,
+representing €150 million versus €156 million in 2012 for
+the May 2005 Sagem-Snecma business combination. The
+adjustment related to other business combinations includes
+amortization charged against intangible assets measured when
+allocating the purchase price in the amount of €100 million
+(€97 million in 2012) and a cancellation of the impact of inventory
+remeasurement in the amount of €27 million;
+
+* anegative €216 million impact resulting from foreign currency
+transactions (positive impact of €52 million in 2012).
+
+Changes in recurring operating income, excluding the impact of
+
+adjusting items, are analyzed below (see section 2.1.2).
+
+— 66 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 21 ---
+
+Profit from operations
+
+Profit from operations came in 24.7% higher at €1,480 million for
+the year, compared to €1,187 million in 2012. Profit from operations
+includes recurring operating income of €1,295 million in 2013
+(€1,243 million in 2012) and non-recurring income of €185 million
+(anon-recurring loss of €56 million in 2012). Profit from operations
+differs from profit from operations as adjusted (€1,757 million), since
+as well as recurring operating items, it also includes a net gain of
+€216 million on the remeasurement of the Group's previously-held
+interest in the RTM322 project (see Scope of consolidation, section
+3.1, Note 4).
+
+Changes in profit from operations based on adjusted figures are
+analyzed below along with non-recurring items (see section 2.1.2).
+
+Financial income (loss)
+
+The Group reported financial income of €439 million in 2013 and
+€533 million in 2012.
+
+Two items account for the difference between consolidated and
+adjusted financial income for 2013 (see section 2.1.2):
+
+* changes in the fair value of currency instruments hedging future
+cash flows, which had a positive impact of €374 million in 2013
+(€742 million in 2012). This amount is recognized in full in financial
+income (loss) in the consolidated financial statements. However,
+the impact of changes in financial instruments hedging future
+cash flows is neutralized in the adjusted financial statements;
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE CONSOLIDATED FINANCIAL STATEMENTS
+
+e the net positive impact of foreign currency hedging on the
+portion of foreign exchange denominated flows hedged by
+the Group, totaling €203 million in 2013 (net negative impact
+of €55 million in 2012). This impact is recognized in financial
+income (loss) in the consolidated financial statements, but within
+profit from operations (mostly in revenue) in the adjusted income
+statement.
+
+Income tax expense
+
+Income tax expense in full-year 2013 came in at €650 million
+compared to €433 million in 2012. The increase in this caption
+chiefly results from the €199 million rise in profit before tax between
+2012 and 2013 which itself results from growth in the Group's
+business (increase of €293 million in profit from operations — see
+section 2.1.2).
+
+The increase in income tax expense is also related to an increase in
+the corporate income tax rate introduced by the amending French
+Finance Law (Loi de finances rectificative) for 2013 (adopted in
+late 2013) and to the 3% tax on dividend payouts introduced by
+the amending French Finance Law for 2012 which is recognized
+in income tax expense in the year in which dividends are paid.
+
+Consolidated profit attributable to owners
+of the parent
+
+This caption amounted to €1,386 million for 2013 and €1 ,282 million
+for 2012.
+
+— 67 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 22 ---
+
+2 ) REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE CONSOLIDATED FINANCIAL STATEMENTS
+
+2.2.2 SIMPLIFIED CONSOLIDATED BALANCE SHEET AT DECEMBER 31, 2013
+
+The simplified consolidated balance sheet at December 31, 2013 presented below is taken directly from the consolidated financial statements
+
+included in section 3.1 of this document.
+
+(in € millions) Adjusted”
+
+Assets
+
+Goodwill 3,078 3,495
+Property, plant and equipment and intangible assets 6,476 7,381
+Other non-current assets 818 734
+Derivatives (positive fair value) 647 864
+Inventories and work-in-progress 4,131 4,135
+Trade and other receivables 5,025 5,102
+Other current assets 597 590
+Cash and cash equivalents. 2,193 1,672
+TOTAL ASSETS 22,965 23,973
+Equity and liabilities
+
+Share capital 5,997 6,814
+Provisions 2,887 2,975
+Borrowings subject to specific conditions 670 670
+Interest-bearing financial liabilities 3,175 2,730
+Derivatives (negative fair value) 225 186
+Other non-current liabilities 1,062 1,412
+Trade and other payables 8,767 8,920
+Other current liabilities 182 266
+TOTAL EQUITY AND LIABILITIES 22,965 23,973
+
+(1) The data published for 2012 have been restated to reflect the impact of the change in accounting policy resulting from the retrospective application of the amended
+
+JAS 19, Employee Benefits (see section 3.1, Note 3).
+
+2.2.3 CHANGE IN NET DEBT
+
+The year-on-year change in the Group's net debt breaks down as follows:
+
+(in € millions) 2012 P20 |
+Cash flow from operations 1,702 1,984
+Change in working capital (85) 155
+Acquisitions of property, plant and equipment (419) (492)
+Acquisitions of intangible assets (634) (935)
+Free cash flow 564 712
+Dividends paid (300) (481)
+Divestments/acquisitions of securities and other (199) (888)
+NET CHANGE IN CASH AND CASH EQUIVALENTS 65 (157)
+Net debt at January 1 (997) (932)
+Net debt at December 31 (932) (1,089)
+— 68 _
+
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 23 ---
+
+Cash flow from operations is calculated by taking profit or loss
+before tax and adjusting for income and expenses with no cash
+impact, for example net charges to depreciation, amortization and
+provisions and changes in the fair value of financial instruments
+hedging future cash flows”. The Group's ability to finance working
+capital needs, acquisitions of property, plant and equipment and
+intangible assets and dividends out of operating activities rose
+by €282 million over the year, from €1,702 million in 2012 to
+€1,984 million in 2013.
+
+Operations generated €712 million of free cash flow (40% of adjusted
+recurring operating income in 2013), €148 million more than in 2012.
+The net debt position was €1,089 million at December 31, 2013
+compared to €932 million at December 31, 2012.
+
+Free cash flow generation of €712 million results from cash from
+operations of €1,984 million, a decrease in working capital needs of
+€155 million — obtained despite the rise in production volumes — and
+rising R&D and capital expenditure in preparation for future growth.
+During the year there had been some uncertainty on year-end free
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE PARENT COMPANY FINANCIAL STATEMENTS
+
+cash flow. However, continuous and consistent management of
+working capital needs and low customer payment delays at year-
+end contributed to a satisfactory level of cash generation.
+
+Dividends paid in the year include the final dividend payment of
+€0.65 per share in respect of 2012 and an interim dividend of
+€0.48 per share in respect of 2013, representing a total payout
+of €471 million.
+
+Acquisitions of securities relate mainly to the acquisition of Goodrich
+Electrical Power Systems for €301 million, and to the acquisition of
+Rolls-Royce's 50% stake in the RTM322 program (previously jointly
+held with Group subsidiary Turbomeca) for €293 million. Safran’s
+sale of 6.6 million Ingenico shares brought proceeds of €287 million,
+and the disposal of Globe Motors Inc. was completed for a cash
+consideration of €68 million.
+
+As of December 31, 2013, Safran had cash and cash equivalents
+of €1.7 billion and €2.55 billion of secured and undrawn facilities
+available.
+
+2.3 COMMENTS ON THE PARENT COMPANY FINANCIAL
+
+STATEMENTS
+
+The financial statements of Safran SA for the year ended
+December 31, 2013 were prepared using the same accounting
+principles as those used for the 2012 parent company financial
+statements.
+
+2.3.1
+
+Safran decided that the assets and liabilities of its subsidiary
+Lexsa SA would be transferred to Safran SA with effect from
+December 23, 2013, based on their net carrying amount. This
+transaction generated a €1 million surplus which was recognized
+in additional paid-in capital within equity.
+
+SAFRAN SA INCOME STATEMENT
+
+(in € millions) 2012
+Revenue 314 388
+Other operating income and expenses. (443) (647)
+Loss from operations (129) (159)
+Financial income 732 473
+Non-recurring items (5) (26)
+Income tax benefit 167 40
+PROFIT FOR THE PERIOD 765 328
+
+Revenue came in at €388 million in 2013 versus €314 million in
+2012 and chiefly includes billings of general assistance services
+provided by the parent company to its subsidiaries, as well
+as amounts billed in respect of rent, employees, IT services and
+miscellaneous services related to projects managed by the parent
+company on behalf of all of its subsidiaries. The €74 million year-
+on-year increase in revenue in 2013 results primarily from the
+development of research projects and from the growth in volume
+of IT services carried out on behalf of subsidiaries and rebilled to
+those companies.
+
+(1) See section 3.1, Consolidated statement of cash flows.
+
+Other operating income and expenses represented a net expense
+of €547 million in 2013 and €443 million in 2012. The increase in net
+other operating expenses in 2013 stems mainly from the rollout of
+group-wide projects and from the rise in the number of Safran SA.
+employees following the implementation and completion of projects
+to upgrade the Group's administrative and support functions.
+
+Loss from operations totaled €159 million in 2013 and €129 million
+in 2012.
+
+— 69 _
+SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 24 ---
+
+2 ) REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014
+COMMENTS ON THE PARENT COMPANY FINANCIAL STATEMENTS
+
+Safran SA reported financial income of €473 million in 2013 and
+€732 million in 2012. This figure mainly includes dividends received
+from subsidiaries for €502 million (€574 million in 2012), net interest
+expense of €4 million (net interest income of €39 million in 2012),
+foreign exchange losses amounting to €21 million (foreign exchange
+gains of €72 million in 2012), and net additions to provisions for
+impairment of financial assets or exchange losses totaling €5 million
+(net reversals of €47 million in 2012).
+
+The Company reported a non-recurring loss of €26 million in 2013
+and €5 million in 2012, due mainly to the net €21 million impact
+of accelerated depreciation and amortization charged against
+non-current assets.
+
+The income tax line represented a benefit of €50 million under the
+Group's tax consolidation regime (benefit of €191 million in 2012,
+resulting mainly from the merger of Sagem Télécommunications
+into Safran). This benefit also includes a net charge to the provision
+for the transfer of the tax saving relating to the French tax group
+from Safran SA to its loss-making subsidiaries, in an amount of
+€10 million.
+
+On account of the above, profit for the year came in at €328 million,
+compared to €765 million in 2012.
+
+2.3.2 SAFRAN SA SIMPLIFIED BALANCE SHEET AT DECEMBER 31, 2013
+
+(in € millions) Dec. 31, 2012
+Assets
+
+Non-current assets 9,462 9,843,
+Cash and cash equivalents and marketable securities 1,861 1,359
+Other current assets 2,144 2,157
+TOTAL ASSETS 13,467 13,359
+Equity and liabilities
+
+Share capital 5,758 5,636
+Provisions 677 707
+Borrowings 2,814 2,565
+Other payables. 4,218 4,451
+TOTAL EQUITY AND LIABILITIES 13,467 13,359
+
+The decrease in share capital reflects profit for the year of
+€328 million, dividends paid in 2013 for a total of €471 million
+(€271 million for the remaining 2012 dividend balance and
+€200 million in 2013 interim dividends paid in December 2013),
+and a net charge to tax-driven provisions amounting to €21 million.
+
+The increase in non-current assets primarily results from
+subscriptions to the share capital increase carried out at (i) Safran
+Power UK in relation to the acquisition of Goodrich Electrical
+Power Systems (€275 million), and (ii) Safran USA (€60 million).
+
+The increase in this caption also results from having subscribed to
+the share capital of Aerofund III in an amount of €30 million.
+
+Net cash from operating activities came in at €604 million. The
+net cash position (cash and cash equivalents less borrowings and
+debt) was affected by the share capital increase at several foreign
+subsidiaries for €335 million, and by the €248 million decrease in
+borrowings — mainly in the form of commercial paper.
+
+2.3.3 INFORMATION CONCERNING SUPPLIER PAYMENT PERIODS
+
+Amounts not yet due
+Amounts due Amounts due Total
+(in € millions) Amounts due in 0-30 days in 30-60 days trade payables
+December 31, 2013 4.2 16.8 77.5 98.5
+December 31, 2012 7.9 45 67.4 79.8
+
+— 70 _
+‘SAFRAN 2013 REGISTRATION DOCUMENT
+
+
+--- Page 25 ---
+
+REVIEW OF OPERATIONS IN 2013 AND OUTLOOK FOR 2014 @
+
+SUBSEQUENT EVENTS
+
+2.4 OUTLOOK FOR 2014
+
+Safran expects on a full-year basis:
+* adjusted revenue to increase by a percentage rate in the mid-
+
+single digits compared to 2013 revenue restated for IFRS 11 (at
+an estimated average rate of USD 1.30 to the euro);
+
+* adjusted recurring operating income to increase by low double
+digits compared to 2013 recurring operating income restated
+for IFRS 11 (at a hedged rate of USD 1.26 to the euro);
+
+° free cash flow to represent close to 40% of adjusted recurring
+operating income, subject to usual uncertainties on the timing
+of advance payments.
+
+The full-year 2014 outlook is based on the following underlying
+
+assumptions:
+
+* restatements of slightly more than (€300) million to 2013 revenue
+and slightly less than (€10) million to 2013 adjusted recurring
+operating income related to IFRS 11;
+
+° healthy increase in Aerospace OE deliveries;
+
+° civil aftermarket increase by a percentage in the low to mid-
+teens;
+
+stable level of self-funded R&D with a lower level of capitalization
+compared to 2013;
+
+¢ stable level of tangible capex;
+* profitable growth for the Security business;
+
+* continued benefits from the ongoing Safran+ plan to enhance
+the cost structure and reduce overheads.
+
+Factors with a potential impact on results
+
+Major risk factors that could have an adverse impact on the Group's
+business, financial position or results of operations are described
+in section 4.
+
+2.5 SUBSEQUENT EVENTS
+
+Acquisition of Eaton Aerospace’s Power
+Distribution and Integrated Cockpit Solutions
+business
+
+On January 20, 2014, Safran announced that it had signed a
+definitive agreement to acquire the Aerospace Power Distribution
+Management Solutions and Integrated Cockpit Solutions business
+of Eaton.
+
+The acquisition of the Aerospace Power Distribution Management
+Solutions business brings key contactor and circuit breaker
+technologies to Safran. As the continuation of Safran’s strategy
+
+addressing the market for “more electric aircraft”, it reinforces
+Labinal Power Systems, which consolidates the Group's electrical
+power activities.
+
+The acquisition of the Integrated Cockpit Solutions business allows
+Safran to bolster Sagem's offering and North-American presence in
+avionics and flight controls, bringing recognized expertise in panels
+and displays, including illuminated switches and cockpit controls.
+The transaction, which is expected to close in the first half of
+
+2014, is subject to regulatory approvals and satisfaction of other
+customary closing conditions.
+
+— nN
+SAFRAN 2013 REGISTRATION DOCUMENT

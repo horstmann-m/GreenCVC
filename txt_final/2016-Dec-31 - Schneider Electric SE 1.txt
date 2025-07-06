@@ -1,0 +1,777 @@
+
+
+--- Page 1 ---
+
+—@Oo- Business review
+
+200
+
+Trends in Schneider Electric’s core markets
+
+1. Trends in Schneider Electric's
+
+core markets
+
+Industries and machine manufacturers
+
+Market has rebounded during the last quarter of 2016 following a
+stabilization in Q3 after eight straight quarters of decline.
+
+This improvement has been mainly driven by continuing recovery in
+China's capex and a rebound in raw material prices (Oil & metals).
+
+Improvement in prices has led to:
+
+@ increasing income in Oil & mining-producing countries
+(supportive for all of our end-markets);
+
+@ increasing spending in opex, maintenance and sometimes
+brownfield capex in O&G upstream and Mining sector.
+
+This backdrop has produced positive spillovers: sectors which
+export to China and supply equipment to O&G and Mining have
+revised upwards their own opex & capex plans.
+
+China's recovery has supported the growth of trading partners (as
+East Asia), and the OEM (Original Equipment Manufacture) global
+market.
+
+Non residential and residential buildings
+
+Non residential buildings
+
+Non residential market was mixed in 2016 with China being the
+bright spot.
+
+In the US, market slowed-down in 2016. Manufacturing buildings
+declined as the chemical and transportation equipment sectors
+contracted after several years of very strong growth. Conversely,
+construction in commercial, retail and educational segments
+accelerated.
+
+In Western Europe, non residential construction improved slightly
+from a low base. Manufacturing and office buildings continued
+to recover in 2016, whereas commercial segment recorded a
+positive growth, thereby ending the continuous decline since 2008.
+Institutional building segments expanded marginally, hampered
+by a decline in the healthcare segment. In 2016, non residential
+construction turned positive in Germany and France.
+
+In China, non residential construction grew strongly, mainly thanks to
+public buildings. This segment was helped by greater government
+pressure to support growth and improved funding conditions at
+the local government level. Office and commercial buildings were
+flat, hampered by over-supply and the rapid development of
+e-commerce.
+
+In India, the market continued to grow, helped by accommodative
+government policies and positive business climate.
+
+In Brazil, 2016 was another year of contraction.
+
+In the Middle-East, the market declined. In Saudi Arabia, lower
+revenues from the oil industry led to a drop in Government spending
+and liquidity shortage, with Public companies delaying payments
+to contractors.
+
+Residential
+
+Residential market growth accelerated in 2016, with varied positions
+among major regional blocks.
+
+In the US, growth decelerated due to slowing demand in the single-
+family segment.
+
+In Western Europe, growth gained momentum in 2016, driven by
+low interest rates that led to higher demand. France turned positive
+after three years of decline. Strong growth in Germany was driven
+by high job growth and ever lower unemployment rates. Growth
+accelerated slightly in Spain but slowed-down in the UK.
+
+In China, residential construction recovered from beginning of 2016
+after 2 consecutive years of decline. The recovery in property sector
+has been triggered by an accommodative monetary environment.
+Excess liquidity and easy credit led to a surge in residential sales. It
+has materially reduced inventory levels across most regions, except
+the North, which has pushed developers to increase housing starts.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 2 ---
+
+EEE Utilities and Infrastructures
+
+Electrical Utilities
+
+In Western Europe, utilities’ capex growth was driven by renewable
+equipment.
+
+In the US, utilities’ capex growth slowed-down in Distribution as
+well as in Transmission
+
+In Emerging countries, volatility in economic conditions and
+commodity and energy prices led to delay some investment
+decisions. However, the situation has improved at year-end
+
+The global utility market is continuously foreseen to grow over
+the years, but considerable changes are already appearing as
+a consequence of COP21 and COP22, in the “3D” context of
+Decarbonization, Decentralization, and Digitization, with an ever
+increasing adoption of Renewable Energy. The majority of power
+generation investment has been redirected to renewable energy,
+involving traditional utility investors as well as private investors
+(IPP), and more recently Oil&Gas companies, and even down to
+community or consumer level through a prosumer household, smart
+district & building development. Energy Efficiency is also driving
+substantial investment, and having a negative impact of the power
+consumption growth trends.
+
+In this context of energy transition, grid operator's mission is to
+ensure that the appropriate network reliability, stability & power
+quality is evolving towards new missions and the implementation
+
+Data centers and Networks
+
+The global IT market experienced nearly flat growth in 2016 due
+to political uncertainty in global markets, as well as international
+trade, energy and foreign exchange volatility, which has fostered
+a wait-and-see approach causing some enterprises to delay IT
+investments.
+
+In 2016, anumber of major technology trends converged including
+cloud computing, mobile edge analytics, digital business and
+artificial intelligence. In response, Large Enterprises continued to
+deploy IT in a hybrid environment of on-premise, colocation, hosting
+and cloud.
+
+In particular, aggressive build-out of cloud computing platforms
+by internet giants was a key driver of significant growth at both
+hyperscale sites and regional data centers. Schneider Electric is
+leveraging its global presence and comprehensive data center
+solutions to accommodate our customer needs wherever they
+decide to locate their IT infrastructure.
+
+As internet use is trending towards bandwidth-intensive content
+such as augmented reality, video on demand, and social media, and
+with the increasing adoption of the Internet of Things, computing
+power and storage is increasingly placed at the edge of the network
+closer to end users. The IT division is well positioned to drive faster
+growth by targeting various edge computing applications such as
+micro data center and modular data center offers, which provide
+our customers with fast deployment, flexibility and higher efficiency.
+
+Business review
+Trends in Schneider Electric's core markets
+
+of new technologies. Regulatory practices are being redefined to
+allow more software-based smart grid investment as opposed to
+conventional hardware investment.
+
+Oil & Gas
+
+The oil barrel price bottomed below 30 US dollars (Brent) in
+January 2016, but had almost doubled by early 2017.
+
+Hopes for an OPEC production curtailment agreement have
+generated several increases over the year, each time challenged
+by high levels of stocks, non-conventional oil production in the US,
+increasing production & exports by Iraq and Iran, etc.
+
+Recent OPEC decisions are now impacting the barrel price step
+by step, but implementation details are still to be settled. Non-
+conventional oil production is becoming more and more cost
+effective with break-even costs almost half of the pre-crisis levels.
+The ability to rapidly switch on and off production will keep the oil
+price low — as soon as the price goes up, more production will be
+added.
+
+Improvement in oil price has led to a recovery in spending in opex,
+maintenance and sometimes brownfield capex during the last
+quarter of 2016. Capex in large projects has continued to decline
+over the year.
+
+The data center three phase power and cooling infrastructure
+market continued to experience a shift from internal enterprise
+data centers to colocation & cloud. In this environment, overall
+growth was flat, with faster growth in megawatt applications, where
+Schneider is well positioned as a technology leader.
+
+Industrial power and infrastructure customers streamlined their
+capital expenditure budgets, particularly in emerging markets, in
+line with the collapse of oil and commodity prices earlier in the
+year, which affected economies in Brazil, Russia, and the Middle
+East. However, with the stabilization of commodity prices, along
+with the continued moderate outlook for infrastructure investments
+in power generation, chemical production and semiconductors in
+North America and Europe, the outlook for 2017 is positive.
+
+The worldwide IT services market showed strong growth, a trend
+which is expected to continue in 2017. Buyer investments in legacy
+IT equipment, and new digital software services, including intelligent
+automation, predictive analytics, and services optimization and
+innovation continue to reflect high demand. In this environment,
+we launched new digital platforms such as StruxureOn™, enabling
+protection of our customers’ most critical equipment through
+smart alarming, remote troubleshooting and data-driven insights,
+delivered by experts monitoring connected data center assets 24/7
+— providing visibility and live data directly to your smartphone.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+201
+
+
+--- Page 3 ---
+
+a 4 a Business review
+
+202
+
+Review of the consolidated financial statements
+
+2. Review of the consolidated financial
+
+statements
+
+Review of business and consolidated statement of income
+
+Changes in the scope of consolidation
+
+In 2016, the Group reconsidered the prevailing elements in the
+analysis of control over Delixi performed in 2014 following the
+transition to IFRS 10. Following this analysis, Delixi has been
+consolidated by the equity method as of January 1*, 2016 without
+restatement of comparative information in respect of the impacts
+considered nonmaterial.
+
+Acquisitions & divestments occurred
+during the year
+
+On March 31, 2016, the disposal of the Transportation business
+(announced in 2015) was finalized with a final sale price established
+at EUR31 million.
+
+No significant acquisitions occurred during 2016.
+
+Acquisitions & divestments occurred
+in 2015
+
+On December 11, 2015, Schneider Electric announced that it
+had obtained all required regulatory approvals and subsequently
+finalized the sale of Juno Lighting, LLC (“Juno”) to Acuity
+Brands, Inc. for a consideration of approximately USD385 million
+(EUR343 million). The transaction generated a capital loss of
+EUR163 million recorded as Other operating expense.
+
+No significant acquisition occurred during 2015.
+
+Changes in foreign exchange rates
+
+Changes in foreign exchange rates relative to the euro had a negative
+impact over the year. This effect amounts to negative EUR679 million
+on consolidated revenue and to negative EUR199 million Adjusted
+EBITA”.
+
+Revenue
+
+On December 31, 2016, the consolidated revenue of Schneider
+Electric totaled EUR24,693 million, a decrease of 7.3% at current
+scope and exchange rates compared to EUR26,640 million on
+December 31, 2015.
+
+This variance breaks down into an organic decrease of -0.9%, an
+effect linked to the disposals of -3.9% and a negative exchange
+rate effect of -2.5%, primarily due to the appreciation of the British
+pound and the Chinese yuan against the euro.
+
+Solutions represent 44% of the total revenue in 2016, versus 43%
+in 2015.
+
+Changes in revenue by operating segment
+
+The Building business generated revenues of EUR10,700 million,
+or 43% of the consolidated total. This represents a decrease of
+-9.8% on a reported basis, mainly due to the deconsolidation of
+Delixi (-5.5 pts), and an increase of +0.3% on a like-for-like basis,
+with growth in Wiring Devices & Final Distribution activities. North
+America was up. The US benefitted from successful new offer
+launches in a favorable construction market while the commercial
+& industrial buildings market was tepid. Mexico posted continued
+growth throughout the year. Western Europe was about flat, with
+mixed results. Spain and Italy grew on successful commercial
+
+initiatives while Germany declined. France was down despite
+growth in improving residential markets. The Nordics grew thanks
+to new product launches, while the UK was flat. Asia Pacific grew
+slightly, driven by strong growth in India, while Australia suffered
+from a high base of comparison. China posted slight growth thanks
+to successful commercial initiatives and improvement in Tier 1 and
+Tier 2 construction markets. Rest of the World declined, dragged
+down by the economic situation in the Middle East, while CIS and
+Africa posted growth. South America was about stable, as the
+decline in Brazil was offset by growth in the rest of the region.
+
+(1) Adjusted EBITA (Earnings Before Interest, Taxes, Amortization of Purchase Accounting Intangibles) is earnings EBITA before amortization
+and impairment of intangible assets from acquisitions, impairment of goodwill, other operating income and expenses and restructuring
+
+costs.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 4 ---
+
+The Industry business generated revenues of EUR5,485 million,
+or 22% of the consolidated total. This represents a decrease of
+-3.7% on a reported basis and a decrease of -1.2% on a like-
+for-like basis. Organic growth continued to be impacted by lower
+Oil & Gas prices. Western Europe was flat, with growth in Italy
+and Spain offsetting declines in France and the UK. North America
+continued to be weighed down by lower industrial investments
+and a strong US dollar, while the priority remains enhancing cross-
+selling through channel initiatives. Asia Pacific declined, suffering
+from weak industrial investment in China, despite good growth in
+India and Korea. Rest of the World was up, with mixed results, with
+Africa and CIS posting growth, offsetting declines in the Middle East
+and South America. Services were up for the year.
+
+The Infrastructure business generated revenues of
+EUR4,919 million, or 20% of the consolidated total. This represents
+a decrease of -9.4% on a reported basis and a decrease of -3.4%
+ona like-for-like basis, driven by greater project selectivity. Excluding
+the impact of selectivity initiatives, the business was slightly up
+for the year. Western Europe grew, driven by growth in the UK,
+France, and Germany. North America was down, as lower O&G
+
+Gross profit
+
+Gross profit decreased from EUR9,845 million for the year ended
+December 31, 2015 to EUR9,390 million for the year ended
+December 31, 2016, or -4.6%, mainly due to the perimeter impacts.
+
+Business review
+Review of the consolidated financial statements
+
+prices and a stronger dollar weighed on industrial investments
+in the US, and Canada continued to suffer from less resource-
+linked investment. Asia-Pacific declined. In China, growth from
+emerging market segments could not offset the weakness seen in
+traditional segments, while Australia suffered from lower investment
+in resources. Rest of the World was down due to weakness in
+the Middle-East, where persistently low O&G prices led to lower
+investment. Services continued to grow.
+
+The IT business generated revenues of EUR3,589 million, or 15%
+of the consolidated total. This represents a decrease of -1.9% in
+a reported basis and a decrease of -0.8% on a like-for-like basis.
+Overall, the environment was mixed, with growing investment in
+some data center segments such as co-location, but lower IT
+spending in some regions. The US grew, driven by reinvigorated
+IT channels and strong services growth. Western Europe declined,
+due to Germany and the UK, in soft IT markets. Asia Pacific grew,
+driven by strong growth in India and East Asia, while Japan
+declined. Rest of the World was penalized by weakness in the
+Middle East and Africa. Services posted solid growth
+
+As a percentage of revenues, the gross margin increased to 38.0%
+in 2016 (versus 37.0% in 2015), thanks to productivity improvements
+and the selectivity of the projects.
+
+Support Function Costs: research and development and selling,
+general and administrative expenses
+
+Research and development expenses, excluding capitalized
+development costs and development costs reported as cost
+of sales, decreased by 5.3% from EURS65 million for the year
+ended December 31, 2015 to EUR535 million for the year ended
+December 31, 2016. As a percentage of revenues, the net cost of
+research and development remained stable at 2.2% of revenues
+for the year ended December 31, 2016 (2.1% for the year ended
+December 31, 2015).
+
+Total research and development expenses, including capitalized
+development costs and development costs reported as cost of sales
+(see note 4 to the Consolidated Financial Statements) decreased by
+2.8% from EUR1,272 million for the year ended December 31, 2015
+to EUR1,236 million for the year ended December 31, 2016. As a
+percentage of revenues, total research and development expenses
+increased slightly at 5.0% for the year ended December 31, 2016
+from 4.8% for the year ended December 31, 2015.
+
+In 2016, the net effect of capitalized development costs and
+amortization of capitalized development costs amounted to
+EUR107 million on operating income versus EUR145 million in 2015.
+
+Selling, general and administrative expenses decreased by 4.4%
+from EUR5,639 million for the year ended December 31, 2015
+to EUR5,375 million for the year ended December 31, 2015. As
+a percentage of revenues, selling, general and administrative
+expenses increased from 21.2% in 2015 to 21.8% in 2016.
+
+Combined total support function costs, that is, research and
+development expenses together with selling, general and
+administrative costs, totaled EUR5,910 million for the year ended
+December 31, 2016 compared to EUR6,204 million for the year
+ended December 31, 2015, a decrease of 4.7%. The support
+function costs to sales ratio increased from 23.3% for the year ended
+December 31, 2015 to 23.9% for the year ended December 31,
+2016.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+203
+
+
+--- Page 5 ---
+
+—@Oo- Business review
+
+204
+
+Review of the consolidated financial statements
+
+Other operating income and expenses
+
+For the year ended December 31, 2016, other operating income
+and expenses amounted to a net loss of EUR63 million, mainly
+due the impairment of intangible assets (EUR87 million), costs
+linked to acquisitions from previous years and disposals in the
+period (EUR36 million), a EUR31 million gain on the curtailment of
+employee benefit plans in the US and in Switzerland, and provisions
+release following a transactional agreement.
+
+Restructuring costs
+
+For the year ended December 31, 2016, restructuring costs
+amounted to EUR313 million compared to EUR318 million for the
+year ended December 31, 2015. This amount in restructuring costs
+
+EBITA and Adjusted EBITA
+
+We define EBITA as earnings before interest, taxes and amortization
+of purchase accounting intangibles. EBITA comprises operating
+profit before amortization and impairment of purchase accounting
+intangible assets and before goodwill impairment.
+
+We define adjusted EBITA as EBITA before restructuring costs
+and before other operating income and expenses, which includes
+acquisition, integration and separation costs.
+
+For the year ended December 31, 2015, other operating income and
+expenses amounted to a net loss of EUR522 million, mainly due to
+net losses on sale of business (EUR223 million), notably on Juno
+divestment, and impairment of assets (EUR246 million), notably
+on Transportation business related to the expected divestment
+described above. Other main items included costs linked to
+acquisitions for EUR118 million (notably Invensys integration costs),
+and a EURS53 million gain on the curtailment of employee benefit
+plans in the UK and in France.
+
+is linked to the Simplify initiatives that were announced in early 2015
+as part of the “Schneider is On" program
+
+Adjusted EBITA amounted to EUR3,480 million for the year ended
+December 31, 2016, compared to EUR3,641 million for the year
+ended December 31, 2015, representing a decrease of 4.4%, mainly
+due to the perimeter effects. As a percentage of revenue, adjusted
+EBITA increased from 13.7% for the year ended December 31, 2015
+to 14.1% for the year ended December 31, 2016.
+
+EBITA increased by 10.8% from EUR2,801 million for the year
+ended December 31, 2015 to EUR3,104 million for the year
+ended December 31, 2016, mainly linked to net losses on sales of
+business, impairment of assets and higher restructuring expenses
+in 2015. As a percentage of revenue, EBITA increased to 12.6% in
+2016 compared with 10.5% in 2015.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 6 ---
+
+Business review
+Review of the consolidated financial statements
+
+EBITA and Adjusted EBITA by business segment
+
+The following table sets out EBITA and adjusted EBITA by business segment:
+
+Full year 2016
+
+Corporate
+(in millions of euros) Buildings Industry Infrastructure IT costs Total
+Revenue 10,700 5,485 4,919 3,589 - 24,693
+Adjusted EBITA* 2,099 918 477 604 (618) 3,480
+Adjusted EBITA% 19.6% 16.7% 9.7% 16.8% - 14.1%
+
+* Adjusted EBITA: EBITA before restructuring costs and before other operating income and expenses (including acquisition, integration and
+
+separation costs)
+
+Full year 2015
+
+Corporate
+(in millions of euros) Buildings Industry Infrastructure IT costs Total
+Revenue 11,859 5,696 5,428 3,657 - 26,640
+Adjusted EBITA* 2,132 975 495 644 (605) 3,641
+Adjusted EBITA% 18.0% 17.1% 9.1% 17.6% - 13.7%
+
+* Adjusted EBITA: EBITA before restructuring costs and before other operating income and expenses (including acquisition, integration and
+
+separation costs)
+
+Buildings business recorded an adjusted EBITA margin of 19.6%
+for the year ended December 31, 2016, up 1.6 pts compared
+to 18.0% for the year ended December 31, 2015, thanks to better
+support function cost control, and sales organic growth.
+
+Industry business recorded an adjusted EBITA margin of 16.7%
+for the year ended December 31, 2016, down 0.4 pts compared
+to 17.1% for the year ended December 31, 2015, penalized by the
+decline in the investments and Oil & Gas low price.
+
+Operating income (EBIT)
+
+Operating income (EBIT) increased from EUR2,229 million for the
+year ended December 31, 2015 to 2,951 million for the year ended
+December 31, 2016. This 32.4% increase is explained by both the
+
+Infrastructure business recorded an adjusted EBITA margin of
+9.7% for the year ended December 31, 2016, up 0.6 pts compared
+to 9.1% for the year ended December 31, 2015, benefiting from the
+selectivity of projects.
+
+IT business reported an adjusted EBITA margin of 16.8% for the
+year ended December 31, 2016, down 0.8 pts compared with
+17.6% margin for the year ended December 31, 2015, penalized
+by a negative mix and sales decrease.
+
+Corporate costs amounted to EUR618 million for the year ended
+December 31, 2016 or 2.5% of Group revenues, a slight increase
+compared to the year ended December 31, 2015 (2.3% of Group
+revenues or EUR605 million)
+
+EBITA improvement and by an impairment of Pelco trademark
+amounting to EUR295 million in “Amortization and impairment of
+purchase accounting intangibles”, booked in 2015.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+205
+
+
+--- Page 7 ---
+
+—@Oo- Business review
+
+206
+
+Review of the consolidated financial statements
+
+Net financial income/loss
+
+Net financial loss amounted to EUR462 million for the year ended
+December 31, 2016, compared to EUR446 million for the year
+ended December 31, 2015. The increase in the net financial
+loss is mainly explained by the losses generated by the foreign
+
+Tax
+
+The effective tax rate was 28.6% for the year ended December 31,
+2016, an increase compared to 21.8% for the year ended
+December 31, 2015. The corresponding tax expense increased
+from EUR389 million for the year ended December 31, 2015 to
+EUR712 million for the year ended December 31, 2016. The tax
+expense included in 2015 a EUR115 million deferred tax income
+related to the impairment of Pelco trademark.
+
+exchange increasing by EUR35 million, not compensated by a
+decrease in the cost of net financial debt from EUR295 million for
+year ended December 31, 2015 to EUR272 million for the year
+ended December 31, 2016.
+
+Furthermore, the planned reduction in the corporate income tax
+rate in France from 34.43% to 28.92% following the passing of
+the Finance Bill 2017 (“Loi de finances 2017") led to a negative
+adjustment in the P&L at the end of 2016 for EUR(119) million. This
+is to account for the adjustment downward of the net deferred tax
+assets corresponding mainly to past tax losses in France.
+
+Share of profit/(losses) of associates
+
+The share of profit of associates decreased from EUR109 million
+for the year ended December 31, 2015 to EUR34 million for the
+
+Non-controlling interests
+
+Non-controlling interests in net income for the year ended
+December 31, 2016 totaled EUR61 million, compared to
+EUR96 million for the year ended December 31, 2015. This
+represented the share in net income attributable, in large part, to
+
+Profit for the period
+
+Profit for the period attributable to the equity holders of the
+parent company amounted to EUR1,750 million for the year
+ended December 31, 2016, that is, a 24.4% increase over the
+
+Earnings per share
+
+year ended December 31, 2016 mainly due to a non recurrent gain
+realized on the sale of assets reported by CST in 2015.
+
+the non-controlling interests of certain Chinese companies. The
+decrease is mainly linked to the decision to consolidate Delixi by
+the equity method as described in note 2.1
+
+EUR1,407 million profit for the year ended December 31, 2015,
+mainly due to the improvement in EBITA described in note 2.9.
+
+Earnings per share increased from EUR2.47 for the year ended December 31, 2015 to EUR3.12 for the year ended December 31, 2016.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 8 ---
+
+Consolidated cash-flow
+
+Operating Activities
+
+Net cash provided by operating activities before changes in
+operating assets and liabilities amounted to EUR2,942 million
+for the year ended December 31, 2016, up 8.4% compared to
+EUR2,715 million for the year ended December 31, 2015, and
+represented 11.9% of revenue in 2016 compared with 10.2%
+in 2015.
+
+The change in working capital generated EUR28 million in cash in
+the year ended December 31, 2016, compared to EUR117 million
+generated in the year ended December 31, 2015.
+
+In all, net cash provided by operating activities increased by 4.9%
+from EUR2,832 million in the year ended December 31, 2015 to
+EUR2,970 million in the year ended December 31, 2016.
+
+Investing Activities
+
+Net capital expenditure, which included capitalized development
+projects, decreased by 2.9% to EUR764 million for the year ended
+December 31, 2016, compared to EUR787 million for the year
+ended December 31, 2015, and represented 3.1% of revenues in
+2016 (3.1% in 2015).
+
+Free cash-flow (cash provided by operating activities net of net
+capital expenditure) amounted to EUR2,206 million in 2016 versus
+EUR2,045 million in 2015.
+
+Business review
+Review of the consolidated financial statements
+
+Cash conversion rate (free cash-flow over net income attributable to
+the equity holders of the parent company on continuing operations,
+adjusted for the impact of business disposals, Pelco trademark
+impairment in 2015 and the tax adjustments described in note 2.11
+was 118% in 2016 versus 113% in 2015.
+
+The effect of acquisitions and divestments during the year was a net
+cash outflow amounting to EUR20 million in 2016. Our acquisitions
+represented a cash inflow, net of cash acquired, of EUR296 million
+for the year ended December 31, 2015, corresponding mainly to
+the disposals described in note 2.1
+
+Financing Activities
+
+In 2016, the Group reimbursed bonds for EUR672 million and
+issued a bond in euros for EUR800 million
+
+The net decrease in other financial debts amounted to
+EUR794 million during the year ended December 31, 2016,
+compared to a net decrease in other financial debts amounting to
+EUR1,262 million during the year ended December 31, 2015. The
+dividend paid by Schneider Electric was EUR1,127 million in the
+year ended December 31, 2016, compared with EUR1,108 million
+in the year ended December 31, 2015.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+207
+
+
+--- Page 9 ---
+
+—@Oo- Business review
+
+208
+
+Review of the parent company financial statements
+
+3. Review of the parent company
+financial statements
+
+Schneider Electric SE posted an operating loss of EUR16 million in
+2016 compared with EUR1 million the previous year.
+
+Interest expense net of interest income amounted to EUR128 million
+versus EUR126 million the previous year.
+
+Current loss amounted to EUR162 million in 2016 compared to a
+current loss of EUR141 million in 2015.
+
+The net loss stood at EUR100 million in 2016 compared with a net
+loss of EURS3 million in 2015.
+
+Equity before appropriation of net profit amounted to
+EUR8,745 million at December 31, 2016 versus EUR9,808 million at
+the previous year-end, after taking into account 2016 loss, dividend
+payments of EUR1,127 million and share issues in an amount of
+EUR163 million.
+
+4. Review of subsidiaries
+
+Schneider Electric Industries SAS
+Revenue totalled EUR3.2 billion in 2016 (EUR3.3 billion in 2015).
+
+The subsidiary posted an operating gain of EUR115 million in 2016 compared with an operating loss of EUR38 million in 2015.
+Net profit amounted to EUR264 million in 2016 compared with EUR238 million of net profit in 2015.
+
+5. Outlook
+
+In 2017 the Group expects more positive momentum in its major
+end-markets. In North America, modest growth is anticipated with
+improvement in industrial activity and continued growth in residential
+markets. Western Europe is expected to grow moderately, benefiting
+from an environment with a lower Euro and still relatively low oil price,
+while some Brexit-related risks remain. China is expected to improve
+in Industry and Infrastructure markets while the construction market
+should grow at a slower pace due to policy tightening. The Group
+will still face headwinds from O&G and continued weakness in some
+resource driven economies, although these may ease towards the
+end of the year
+
+Additionally, in 2017 the Group will face a strong increase in raw
+material costs estimated at c.EUR(200) million at current prices. In
+this environment, the Group's priority is to grow its partner network
+through the launch of many new integrated offers, accelerate
+
+services and software, working on margin improvement through
+continued selectivity on projects and keep a strong attention on
+cost control. In addition, the Group should benefit from the recent
+deployment of its EcoStruxure architectures in several domains to
+create further opportunities for growth.
+
+Therefore, in line with the objectives announced at the 2016 Investor
+day, the Group targets for 2017:
+
+Organic revenue growth between +1% and +3% for the Group
+outside Infrastructure. For Infrastructure the priority remains
+margin improvement and the organic growth target for the
+division is to be about flat underlying, before an expected -4%
+to -5% impact from project selectivity for the division in 2017.
+
+¢@ +20bps to +50bps organic improvement on adjusted EBITA
+margin. The FX impact at current rates is expected to be about
+neutral on margin.
+
+2016 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC

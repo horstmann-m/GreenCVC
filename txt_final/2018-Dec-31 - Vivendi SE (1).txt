@@ -1,0 +1,1343 @@
+
+
+--- Page 1 ---
+
+Thursday February 14, 2019
+
+I- 2018 Financial Report
+
+Preliminary comments:
+
+On February 11, 2019, the Management Board approved the Financial Report and the Audited Consolidated Financial Statements for the year
+ended December 31, 2018. Upon the recommendation of the Audit Committee, which met on February 12, 2019, the Supervisory Board, at its
+meeting held on February 14, 2019, reviewed the Financial Report and the Audited Consolidated Financial Statements for the year ended
+December 31, 2018, as previously approved by the Management Board on February 11, 2019.
+
+The Consolidated Financial Statements for the year ended December 31, 2018 have been audited and certified by the statutory auditors
+without qualified opinion. The statutory auditors’ report on the Consolidated Financial Statements is included in the preamble to the
+Financial Statements.
+
+1 Earnings analysis: group and business segments
+
+Preliminary comments:
+
+Change of accounting standards
+In 2018, Vivendi applied two new accounting standards:
+
+e IFRS 15 — Revenues from Contracts with Customers: in accordance with IFRS 15, Vivendi applied this change of accounting
+standard to 2017 revenues, thereby ensuring comparability of the data relative to each period of 2018 and 2017 contained in this
+report, and
+
+e IFRS 9 — Financial Instruments: in accordance with IFRS 9, Vivendi applied this change of accounting standard to the 2018
+Statement of Earnings, therefore, the data relative to 2017 contained in this report is not comparable.
+
+For a detailed description, please refer to Notes 1 and 28 to the Consolidated Financial Statements for the year ended December 31, 2018.
+
+Non-GAAP measures
+
+“Income from operations”, “EBITA” and “adjusted net income”, all non-GAAP measures, should be considered in addition to, and not as a
+substitute for, other GAAP measures of operating and financial performance as presented in the Consolidated Financial Statements and the
+related Notes, or as described in this Financial Report. Vivendi considers these to be relevant indicators for the group's operating and
+financial performance.
+
+Vivendi Management uses income from operations, EBITA and adjusted net income for reporting, management and planning purposes
+because they exclude most non-recurring and non-operating items from the measurement of the business segments’ performances. Under
+Vivendi's definition:
+e — the difference between EBITA and EBIT consists of the amortization of intangible assets acquired through business combinations, the
+impairment of goodwill and other intangibles acquired through business combinations, the income from equity affiliates
+- operational, as well as other charges and income related to transactions with shareowners,
+e income from operations is calculated as EBITA, as presented in the Adjusted Statement of Earnings, before share-based
+compensation costs and special items, due to their unusual nature and particular significance; and
+e adjusted net income includes the following items: EBITA, income from equity affiliates, interest (corresponding to interest expense
+on borrowings net of interest income earned on cash and cash equivalents); income from investments (including dividends and
+interest received from unconsolidated companies), and taxes and non-controlling interests related to these items. It does not include
+the following items: amortization of intangible assets acquired through business combinations and related to equity affiliates,
+impairment losses on goodwill and other intangible assets acquired through business combinations, other charges and income
+related to transactions with shareowners, other financial charges and income, earnings from discontinued operations, provisions for
+income taxes and adjustments attributable to non-controlling interests, non-recurring tax items (in particular the changes in deferred
+tax assets pursuant to Vivendi SA's Tax Group and the Consolidated Global Profit Tax Systems and the reversal of tax liabilities
+related to risks extinguished over the period).
+
+Moreover, it should be noted that other companies may have definitions and calculations for these non-GAAP measures that differ from
+those used by Vivendi, thereby affecting comparability.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 6
+
+
+--- Page 2 ---
+
+1.1 Consolidated Statement of Earnings
+
+Thursday February 14, 2019
+
+REVENUES
+Cost of revenues
+
+Selling, general and administrative expenses excluding amortization of intangible assets acquired
+
+through business combinations
+
+Income from operations*
+
+Restructuring charges
+
+Other operating charges and income
+
+Adjusted earnings before interest and income taxes (EBITA)*
+
+Amortization and depreciation of intangible assets acquired through business combinations
+Reversal of reserve related to the Securities Class Action litigation in the United States
+
+Income from equity affiliates - operational
+EARNINGS BEFORE INTEREST AND INCOME TAXES (EBIT)
+Income from equity affiliates - non-operational
+
+Interest
+Income from investments
+Other financial charges and income
+
+Earnings before provision for income taxes
+
+Provision for income taxes
+
+Earnings from continuing operations
+
+Earnings from discontinued operations
+
+Earnings
+
+Non-controlling interests
+
+EARNINGS ATTRIBUTABLE TO VIVENDI SA SHAREOWNERS
+
+Earnings attributable to Vivendi SA shareowners per share - basic (in euros)
+Earnings attributable to Vivendi SA shareowners per share - diluted (in euros)
+
+Adjusted net income*
+Adjusted net income per share - basic (in euros)*
+Adjusted net income per share - diluted (in euros)*
+
+In millions of euros, except per share amounts.
+
+* non-GAAP measures.
+
+Year ended December 31,
+
+2018 2017 % Change
+13,932 12518 +11.3%
+(7,618) (7,302)
+(4,875) (4,118)
+1,439 1,098 +31.0%
+(115) (88)
+(36) (41)
+1,288 969 © +33.0%
+(113) (124)
+- 2
+7 146
+1,182 1018 +16.1%
+122 -
+(47) (53)
+20 29
+(763) (100)
+(790) (124)
+514 894 = 42.8%
+(357) 355
+157 1209 -87.4%
+157 1209 -87.4%
+(30) (33)
+127 1216 - 89.6%
+0.10 0.97
+0.10 0.94
+1.157 1300 -11.1%
+0.92 1.04
+091 1.00
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 7
+
+
+--- Page 3 ---
+
+Thursday February 14, 2019
+
+1.2 Analysis of the Consolidated Statement of Earnings
+
+1.2.1 Revenues
+
+in 2018, Vivendi’s revenues amounted to €13,932 million, compared to €12,518 million in 2017, an increase of €1,414 million (+11.3%),
+notably as a result of the consolidation of Havas (+€1,108 million). At constant currency and perimeter’, Vivendi’s revenues increased by
+4.9% compared to 2017. For the second year in a row, Universal Music Group's revenues increased by 10.0%’ and Canal+ Group's revenues
+were stable.
+
+For the second half of 2018, at constant currency and perimeter, Vivendi’s revenues increased by 5.7% compared to the second half of 2017,
+an improvement compared to the first half of 2018 (+3.9% compared to the first half of 2017), mainly driven by Universal Music Group
+{+12.8% for the second half, compared to +6.8% for the first half).
+
+For the fourth quarter of 2018, at constant currency and perimeter, Vivendi’s revenue growth was +5.6% compared to the fourth quarter of
+2017, as opposed to +3.3% for the first quarter of 2018, +4.6% for the second quarter, and +5.7% for the third quarter (for quarterly revenues
+y business segment, please refer to the appendix to the Financial Report).
+
+For a detailed analysis of revenues by business segment, please refer to Section 1.3 below.
+1.2.2 Operating results
+
+Cost of revenues amounted to €7,618 million, compared to €7,302 million in 2017, an increase of €316 million.
+
+Selling, general and administrative expenses excluding amortization of intangible assets acquired through business
+combinations amounted to €4,875 million, compared to €4,118 million in 2017, an increase of €757 million.
+
+Depreciation and amortization of tangible and intangible assets are included either in the cost of revenues or in selling, general and
+administrative expenses. Depreciation and amortization, excluding amortization of intangible assets acquired through business
+combinations, amounted to €340 million (compared to €337 million in 2017), and notably related to Canal+ Group's set-top boxes, as well as
+Studiocanal’s catalogs, films and television programs.
+
+Income from operations amounted to €1,439 million, compared to €1,098 million in 2017, an increase of €341 million (+31.0%), notably
+resulting from the consolidation of Havas (+€123 million). At constant currency and perimeter, income from operations increased by
+€250 million (+22.7%) driven by the growth of Universal Music Group (+€177 million) and Canal+ Group (+€78 million), which continues its
+recovery in France.
+
+EBITA amounted to €1,288 million, compared to €969 million in 2017, an increase of €319 million (+33.0%), notably resulting from the
+consolidation of Havas (+€104 million). At constant currency and perimeter, EBITA increased by €240 million (+24.7%), driven by the growth
+of Universal Music Group (+€168 million) and Canal+ Group (+€98 million), which continues its recovery in France. In addition, EBITA
+included:
+
+e restructuring charges of €115 million, compared to €88 million in 2017, primarily incurred by Havas (€30 million, compared to
+€15 million for the second half of 2017), Universal Music Group (€29 million, compared to €17 million in 2017), Canal+ Group
+{€28 million, compared to €49 million in 2017) and Corporate (€19 million, compared to €1 million in 2017); and
+
+e other operating charges and income excluded from income from operations, which was a net charge of €36 million, compared to
+a net charge of €41 million in 2017. They notably included a -€22 million charge relating to share-based compensation plans in 2018,
+compared to -€31 million in 2017.
+
+For a detailed analysis of income from operations and EBITA by business segment, please refer to Section 1.3 below.
+EBIT amounted to €1,182 million, compared to €1,018 million in 2017, an increase of €164 million. It included the following:
+
+e amortization and depreciation of intangible assets acquired through business combinations for €113 million, compared to
+€124 million in 2017, a €11 million improvement;
+
+e the reversal of reserve related to the Securities Class Action litigation in the United States, which represented a net profit of
+€27 million for the first half of 2017. As a reminder, on April 6, 2017, Vivendi announced that it had entered into an agreement to
+settle the remaining claims still in dispute with certain class plaintiffs for $26 million, which together with the judgments previously
+entered, resolved the entire litigation for an aggregate amount of $78 million; and
+
+' Constant perimeter reflects the impacts of the acquisition of Havas (July 3, 2017), the acquisition of Paylogic by Vivendi Village (April 16, 2018) and the sale of Radionomy by
+Vivendi Village (August 17, 2017).
+” At constant currency and perimeter, compared to 2017.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 8
+
+
+--- Page 4 ---
+
+Thursday February 14, 2019
+
+e income from equity affiliates — operational, which was a profit of €7 million, compared to a profit of €146 million in 2017. This
+decrease of €139 million resulted from the reclassification in 2018 of Vivendi's share of Telecom Italia’s net earnings (€122 million)
+in “income from equity affiliates - non-operational”, to account for the decrease of Vivendi's influence over Telecom Italia in 2018
+(please refer below and to Note 11.2 to the Consolidated Financial Statements for the year ended December 31, 2018). In 2017, this
+amount primarily included Vivendi’s share of Telecom Italia’s net earnings, calculated based on the financial information publicly
+disclosed by Telecom Italia, which represented a profit of €144 million.
+
+1.2.3 Income from equity affiliates - non-operational
+
+Income from equity affiliates - non-operational amounted to a profit of €122 million, compared to nil in 2017. In 2018, this amount
+related to Vivendi's share of Telecom Italia’s net earnings, calculated based on the financial information publicly disclosed by Telecom
+Italia’. In 2017, the share of Telecom Italia’s net earnings (€144 million) was recorded as “income from equity affiliates - operational” (please
+refer above and to Note 11.2 to the Consolidated Financial Statements for the year ended December 31, 2018).
+
+1.24 Financial results
+
+In 2018, interest was an expense of €47 million (compared to €53 million in 2017). In this amount:
+
+e interest expense on borrowings amounted to €64 million, compared to €68 million in 2017. This change notably reflected the
+decrease in the average interest rate on borrowings to 1.39% (compared to 1.60% in 2017), partially offset by the increase in the
+average outstanding borrowings to €4.6 billion (compared to €4.3 billion in 2017); and
+
+e interest income earned on the investment of cash surpluses amounted to €17 million, compared to €15 million in 2017. This change
+reflected the increase in the average interest rate on cash investments to 0.50% (compared to 0.40% in 2017), partially offset by the
+decrease in the average outstanding cash investments to €3.4 billion (compared to €3.7 billion in 2017).
+
+Income from investments amounted to €20 million, compared to €29 million in 2017. This amount mainly included dividends received from
+elefonica of €11 million (compared to €20 million in 2017), as well as the interest from the bonds issued by Banijay Group Holding and Lov
+Banijay and subscribed to by Vivendi for €6 million (compared to €7 million in 2017).
+
+Other financial charges and income were a net charge of €763 million, compared to a net charge of €100 million in 2017. In 2018, other
+inancial charges included the write-down of the value of the Telecom Italia shares accounted for under the equity method, for
+€1,066 million. Notwithstanding Vivendi’s expected improvement of Telecom Italia’s outlook, Vivendi wrote-down the value of its interest in
+elecom Italia accounted for under the equity method notably to take into account the uncertainty affecting Telecom Italia’s governance,
+which increases the non-execution risks associated with the company’s industrial plan given Vivendi’s lower power to participate in Telecom
+italia's financial and operating policy decisions, and to take into account the changes in Telecom Italia's competitive and regulatory
+environment. Other financial income included the revaluation between January 1 and December 31, 2018 of the interests in Spotify and
+encent Music for an aggregate amount of €312 million, as well as in Ubisoft for €53 million, reported to profit or loss in accordance with
+the new accounting standard IFRS 9, applicable since January 1, 2018.
+
+in 2018, Vivendi realized a capital gain of €1,213 million on the sale of its interest in Ubisoft. Of this amount, only the portion corresponding
+to the revaluation of such interest in 2018 (€53 million) was recorded in the Statement of Earnings for the year ended December 31, 2018, in
+accordance with the new IFRS 9 accounting standard, applicable since January 1, 2018. The remaining portion of the capital gain
+{€1,160 million) related to the revaluation of such interest up until December 31, 2017, was recorded in “charges and income directly
+recognized in equity” as of December 31, 2017, in accordance with the former IAS 39 accounting standard, and reclassified as retained
+earnings as of January 1, 2018 as a result of the first-time application of IFRS 9. Under IAS 39, which was applicable up until December 31,
+2017, it would have been reported to profit or loss.
+
+1.2.5 Provision for income taxes
+
+In 2018, provision for income taxes reported to adjusted net income was a net charge of €253 million, compared to a net income of
+€195 million in 2017, representing an unfavorable change of €448 million. In 2017, the tax net income reported to adjusted net income
+notably included (i) a current tax income of €409 million recorded following the litigation relating to the Consolidated Global Profit Tax
+System of 2011, where Vivendi SA secured a favorable settlement, and (ii) the current tax income of €25 million, corresponding to
+moratorium interest, relating to the refund to Vivendi SA and its subsidiaries of the amounts paid under the 3% tax on dividend distributions,
+following the decision of the French Constitutional Council dated October 6, 2017, where it was ruled that this tax contribution was
+unconstitutional (please refer to Note 6 to the Consolidated Financial Statements for the year ended December 31, 2018).
+
+° On November 8, 2018 (Financial Statements for the first nine months of 2018) and on March 6, 2018 (Financial Statements for the year ended December 31, 2017): please refer
+to Note 11.2 to the Consolidated Financial Statements for the year ended December 31, 2018.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 9
+
+
+--- Page 5 ---
+
+Thursday February 14, 2019
+
+Excluding these two non-recurring favorable impacts, provision for income taxes reported to adjusted net income in 2017 would have been a
+net charge of €239 million, compared to a net charge of €253 million in 2018, i.e., an unfavorable change of €14 million. This change mainly
+reflected the increase in the tax charges of Universal Music Group and Canal+ Group, partially offset by the increase in current tax savings
+rom Vivendi’s Tax Group System in France. In 2018, the growth in Universal Music Group's taxable income in the United States resulted in a
+ederal tax charge of €48 million, which reflected the impact of the tax reform applicable from January 1, 2018. In 2017, the federal tax
+charge was nil, taking into account the current tax savings resulting from the utilization of the tax losses carried forward in the United States
+{€96 million). The growth in Canal+ Group's taxable income primarily resulted from the recovery of its businesses in France. The increase in
+current tax savings from Vivendi’s Tax Group System in France in 2018 (€168 million, compared to €86 million in 2017) notably resulted from
+the integration of Havas and its subsidiaries as from January 1, 2018.
+
+n 2018, the effective tax rate reported to adjusted net income amounted to 20.1%, compared to 25.3% in 2017 restated from the two
+non-recurring favorable impacts. This decrease of approximately 5 points in the effective tax rate reported to adjusted net income mainly
+reflected the increase in 2018 of the current tax savings from Vivendi’s Tax Group System in France, as well as the decrease in the federal
+tax rate in the United States, while unutilized tax losses generated by businesses under development were almost stable.
+
+n 2018, provision for income taxes reported to net income was a net charge of €357 million, compared to a net income of €355 million
+in 2017. In 2017, the tax net income reported to net income notably included (i) a current tax income of €409 million recorded following the
+itigation relating to the Consolidated Global Profit Tax System of 2011, where Vivendi SA secured a favorable settlement, as well as (ii) a
+current tax income of €243 million corresponding to the refund to Vivendi SA (€207 million principal and €24 million moratorium interest) and
+to its subsidiaries (€11 million principal and €1 million moratorium interest) of the amounts paid under the 3% tax on dividend distributions,
+‘ollowing the decision of the French Constitutional Council dated October 6, 2017, where it was ruled that this tax contribution was
+unconstitutional (please refer to Note 6 to the Consolidated Financial Statements for the year ended December 31, 2018).
+
+Excluding the two non-recurring favorable impacts, the provision for income taxes reported to net income in 2017 would have been a net
+charge of €297 million, compared to a net charge of €357 million in 2018, i.e., an unfavorable change of €60 million. In addition to the
+explanatory reasons for the increase in the tax charge reported to adjusted net income, in 2018, this increase in the tax charge reported to
+net income included, the deferred tax charge relating to the revaluation through profit or loss of the interests in Spotify and Tencent Music
+‘or an aggregate amount of -€72 million, in accordance with the new accounting standard IFRS 9, applicable since January 1, 2018. In 2017,
+provision for income taxes also included a net deferred tax income of €79 million following the change of the corporate federal tax rate
+applicable in the United States since January 1, 2018. This also included a deferred tax charge of -€119 million corresponding to the write-
+off of deferred tax assets related to losses carried forward by Havas, primarily in France. In addition, the deferred tax savings relating to
+Vivendi SA's Tax Group System were almost stable (a charge of €2 million in 2018, compared to an income of €3 million in 2017).
+
+1.2.6 Non-controlling interests
+
+In 2018, earnings attributable to non-controlling interests amounted to €30 million, compared to €33 million in 2017. They mainly
+included the non-controlling interests of nc+ in Poland, Canal+ International and VTV in Vietnam.
+
+1.2.7 Earnings attributable to Vivendi SA shareowners
+
+In 2018, earnings attributable to Vivendi SA shareowners amounted to a profit of €127 million (or €0.10 per share - basic), compared to
+€1,216 million in 2017 (or €0.97 per share - basic), a decrease of €1,089 million (-89.6%). In 2018, the increase in EBIT (+€164 million) and the
+revaluation between January 1 and December 31, 2018 of the interests in Spotify, Tencent Music and Ubisoft for an aggregate amount of
++€365 million, were offset by the write-down of the Telecom Italia shares accounted for under the equity method (-€1,066 million) and the
+increase in provision for income taxes (-€712 million). In 2017, the tax net income reported to adjusted net income notably included a current
+tax income of €409 million recorded following the litigation relating to the Consolidated Global Profit Tax System of 2011, where Vivendi SA
+secured a favorable settlement. This also included the current tax income of €243 million (including €25 million of moratorium interest)
+relating to the refund received by Vivendi SA and its subsidiaries of the amounts paid under the 3% tax on dividend distributions. Excluding
+these two non-recurring favorable tax impacts, the net income would have been a profit of €564 million in 2017.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 10
+
+
+--- Page 6 ---
+
+Thursday February 14, 2019
+
+1.2.8 Adjusted net income
+
+Year ended December 31,
+
+(in millions of euros) 2018 2017 % Change
+Revenues 13,932 12,518 + 11.3%
+Income from operations 1,439 1,098 + 31.0%
+EBITA 1,288 969 + 33.0%
+Income from equity affiliates - operational 7 205
+
+Income from equity affiliates - non-operational 182 -
+
+Interest (47) (53)
+
+Income from investments 20 29
+
+Adjusted earnings from continuing operations before provision for income taxes 1,450 1,150 + 26.1%
+Provision for income taxes (253) 195
+
+Adjusted net income before non-controlling interests 1,197 1,345
+
+Non-controlling interests (40) (45)
+
+Adjusted net income 1,157 1,300 - 11.1%
+
+In 2018, adjusted net income was a profit of €1,157 million (or €0.92 per share - basic), compared to €1,300 million in 2017 (or €1.04 per
+share - basic), a decrease of €143 million (-11.1%). The growth in EBITA (+€319 million), resulting from the consolidation of Havas and the
+performance of Universal Music Group and Canal+ Group, was offset by the correlative increase of provision for income taxes (-€448 million).
+In 2017, the tax net income reported to adjusted net income notably included a current tax income of €409 million recorded following the
+litigation relating to the Consolidated Global Profit Tax System of 2011, where Vivendi SA secured a favorable settlement. This also included
+the current tax income of €25 million corresponding to moratorium interest relating to the refund received by Vivendi SA and its subsidiaries
+of the amounts paid under the 3% tax on dividend distributions. Excluding these two non-recurring favorable tax impacts, the adjusted net
+income would have been a profit of €866 million in 2017, compared to a profit of €1,157 million in 2018, i.e., an increase of €291 million
+(+33.6%).
+
+Reconciliation of earnings attributable to Vivendi SA shareowners to adjusted net income
+
+Year ended December 31,
+
+(in millions of euros) 2018 2017
+Earnings attributable to Vivendi SA shareowners (a) 127 1,216
+Adjustments
+
+Amortization and depreciation of intangible assets acquired through business combinations 113 124
+Amortization of intangible assets related to equity affiliates 60 59
+Reversal of reserve related to the Securities Class Action litigation in the United States (a) - (27)
+Other financial charges and income 763 100
+Provision for income taxes on adjustments 104 (160)
+Impact of adjustments on non-controlling interests (10) (12)
+Adjusted net income 1,157 1,300
+
+a. As reported in the Consolidated Statement of Earnings.
+
+Adjusted net income per share
+
+Year ended December 31,
+
+2018 2017
+Basic Diluted Basic Diluted
+
+Adjusted net income (in millions of euros) 1,157 1,157 1,300 1,254 (a)
+Number of shares (in millions)
+
+Weighted average number of shares outstanding (b) 1,263.5 1,263.5 1,252.7 1,252.7
+Potential dilutive effects related to share-based compensation - 6.1 - 48
+Adjusted weighted average number of shares 1,263.5 1,268.6 1,252.7 1,257.5
+Adjusted net income per share (in euros) 0.92 0.91 1.04 1.00
+
+a. Corresponded only to the impact for Vivendi of Telecom Italia’s dilutive instruments, calculated based on the financial information
+publicly disclosed by Telecom Italia with a three-month reporting lag (please refer to Note 11.2 to the Consolidated Financial
+Statements for the year ended December 31, 2018).
+
+b. Net of the weighted average number of treasury shares (38.5 million shares in 2018, compared to 37.5 million in 2017).
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 11
+
+
+--- Page 7 ---
+
+Thursday February 14, 2019
+
+1.3 Analysis of revenues and operating results by business segment
+
+Year ended December 31,
+
+% Change at
+
+% Change at constant currency
+{in millions of euros) 2018 2017 % Change constant currency _ and perimeter (a)
+Revenues
+Universal Music Group 6,023 5,673 +6.2% +10.0% +10.0%
+Canal+ Group 5,166 5,198 -0.6% -0.3% 0.3%
+Havas 2,319 1,211 na na na
+Gameloft 293 320 8.3% -5.1% 5.1%
+Vivendi Village 123 109 412.6% 413.1% +11.5%
+New Initiatives 66 51 +30.5% +30.5% +30.5%
+Elimination of intersegment transactions (58) (44)
+Total Vivendi 13,932 12,518 11.3% +14.1% 44.9%
+Income from operations
+Universal Music Group 946 798 +18.4% 422.1% 422.1%
+Canal+ Group 429 349 423.1% 422.4% +22.4%
+Havas 258 135 na na na
+Gameloft 4 10 -60.4% -56.4% 56.4%
+Vivendi Village (9) (6)
+New Initiatives (79) (87)
+Corporate (110) (101)
+Total Vivendi 1,439 1,098 +31.0% +33.9% 422.7%
+EBITA
+Universal Music Group 902 761 +18.4% 422.1% 422.1%
+Canal+ Group 400 300 +33.6% +32.8% +32.8%
+Havas 215 11 na na na
+Gameloft 2 4 -55.8% -41.9% 41.9%
+Vivendi Village (9) (18)
+New Initiatives (99) (92)
+Corporate (123) (97)
+Total Vivendi 1,288 969 +33.0% +36.1% 424.7%
+
+na: not applicable.
+
+a. Constant perimeter reflects the impacts of the acquisition of Havas (July 3, 2017), the acquisition of Paylogic by Vivendi Village
+(April 16, 2018) and the sale of Radionomy by Vivendi Village (August 17, 2017).
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 12
+
+
+--- Page 8 ---
+
+Thursday February 14, 2019
+
+1.3.1 Universal Music Group (UMG)
+
+Year ended December 31,
+
+% Change at
+
+% Change at constant
+constant currency and
+(in millions of euros) 2018 2017 % Change currency perimeter
+Recorded music 4,828 4,559 45.9% +9.8% +9.8%
+Subscriptions and streaming 2,596 1,971 431.7% 437.3% 437.3%
+Other digital sales (a) 479 685 -30.0% 26.6% 26.6%
+Physical sales 949 1,156 -17.9% -16.1% -16.1%
+License and other 804 747 47.5% 410.7% 410.7%
+Music publishing 941 854 +10.3% +14.5% +14.5%
+Merchandising and other 273 283 -3.5% -1.5% -1.5%
+Elimination of intersegment transactions (19) (23)
+Revenues 6,023 5,673 +6.2% +10.0% +10.0%
+Income from operations 946 798 +18.4% 422.1% 422.1%
+Income from operations margin 15.7% 14.1% +1.6 pts
+Restructuring charges (29) (17)
+Income/(charges) related to share-based compensation plans (4) (9)
+Other special items excluded from income from operations (11) (11)
+EBITA 902 761 +18.4% 422.1% 422.1%
+EBITA margin 15.0% 13.4% +1.6 pts
+Recorded music revenues by geographic area
+North America 2,224 2,090 +6.4% 411.5% +11.5%
+Europe 1,580 1,513 +4.4% +5.5% +5.5%
+Asia 618 563 +9.8% +13.0% +13.0%
+Latin America 153 155 1.5% 414.5% +14.5%
+Rest of the world 253 238 46.2% 411.3% +11.3%
+4,828 4,559 +5.9% +9.8% +9.8%
+a. Mainly included download sales.
+Recorded music best sellers, in value (Source: MusicMart)
+Year ended December 31, 2018 Year ended December 31, 2017
+Artist Title Artist Title
+Drake Scorpion Taylor Swift Reputation
+Post Malone Beerbongs & Bentleys Kendrick Lamar DAMN
+Lady Gaga and Bradley Cooper A Star /s Born Drake More Life
+The Beatles The Beatles (White Album) The Weeknd Starboy
+XxXTentacion ? Luis Fonsi Despacito & Mis Grandes Exitos
+Migos Culture Il Various Artists Moana
+Imagine Dragons Evolve Imagine Dragons Evolve
+Ariana Grande Sweetener The Beatles Sgt. Pepper's
+Kendrick Lamar Black Panther: The Album Post Malone Stoney
+Post Malone Stoney Sam Smith The Thrill Of It All
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 13
+
+
+--- Page 9 ---
+
+Thursday February 14, 2019
+
+In 2018, Universal Music Group's (UMG) revenues amounted to €6,023 million, up 10.0% at constant currency and perimeter compared to
+2017 (+6.2% on an actual basis).
+
+Recorded music revenues grew by 9.8% at constant currency and perimeter thanks to the growth in subscription and streaming revenues
+{+37.3%), driven by the increase in subscribers and a stronger market share, which more than offset the continued decline in both download
+{-23.5%) and physical (-16.1%) sales.
+
+Recorded music best sellers for the year included releases from Drake, Post Malone, The Beatles and XXXTentacion, as well as the
+
+soundtrac!
+
+Globally, UMG ha
+artists occupied the top five positions and 14 of the top 20 positions on Apple Music's Global Top 100 Songs 2018.
+
+Music pu
+revenues,
+
+Merchan
+
+Driven by
+compare
+
+lishing
+
+ising an
+
+to 2017
+
+compare
+
+to 2017
+
+In 2018, several o'
+
+Rolling St
+
+‘ones ant
+
+their careers.
+
+release from A Star is Born.
+
+every one of the top five tracks, the top four artists and the top three albums on Spotify in 2018. Additionally, UMG
+
+revenues grew by 14.5% at constant currency and perimeter, also driven by increased subscription and streaming
+
+as well as higher revenues generated from performance rights and synchronization.
+
+other revenues decreased by 1.5% at constant currency and perimeter, due to lower touring activity.
+
+the growth in revenues, UMG's income from operations amounted to €946 million, up 22.1% at constant currency and perimeter
+
+{+18.4% on an actual basis), and UMG's EBITA amounted to €902 million, up 22.1% at constant currency and perimeter
+'+18.4% on an actual basis).
+
+the world's most iconic artists signed or re-signed with UMG, including ground-breaking deals with Taylor Swift, The
+Sir Elton John, demonstrating that UMG is the preferred partner for artists for all stages and virtually every aspect of
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 14
+
+
+--- Page 10 ---
+
+1.3.3 Canal+ Group
+
+Thursday February 14, 2019
+
+Year ended December 31,
+
+% Change at % Change at
+constant constant currency
+
+(in millions of euros) 2018 2017 % Change currency and perimeter
+TV in Mainland France (a) 3,137 3,249 “3.4% 3.4% 3.4%
+International TV 1,567 1,482 45.7% 46.8% 46.8%
+Studiocanal 462 467 -1.2% -0.6% -0.6%
+Revenues 5,166 5,198 0.6% 0.3% 0.3%
+Income from operations 429 349 423.1% 422.4% 422.4%
+Income from operations margin 8.3% 6.7% +1.6 pts
+Income/{charges) related to share-based compensation plans (3) (6)
+Other special items excluded from income from operations 2 6
+EBITA before restructuring charges 428 349 +22.6% 421.8% 421.8%
+Restructuring charges (28) (49)
+EBITA 400 300 +33.6% 432.8% 432.8%
+EBITA margin 77% 5.8% +1.9 pts
+Pay-TV subscribers (in thousands)
+Self-distributed individual subscribers in Mainland France 4,733 4,950 -217
+Canal customers via wholesale partnerships (b) 3,093 3,117 -24
+International individual subscribers 7,831 6,948 +883
+
+Africa 4,110 3,458 +652
+
+Poland 2,194 2171 423
+
+Overseas 583 530 +53
+
+Vietnam 884 789 +95
+
+Myanmar (Burma) 60 - +60
+Total Canal+ Group individual subscribers 15,657 15,015 +642
+Collective subscribers 591 579 +12
+Total Canal+ Group subscribers 16,248 15,594 +654
+Mainland France Pay-TV
+Churn rate (over a 12-month rolling period) (c) 13.6% 15.8% -2.2 pts
+Net ARPU Premium (in euros) (d) 44.8 455 £07
+Net ARPU (in euros) (e) 45.4 45.7 -€0.3
+
+a. Corresponds to pay-TV and free-to-air channels (C8, CStar and CNews) in mainland France.
+
+b. Includes the strategic partnership agreements with Free, Orange and Bouygues Telecom. Certain subscribers may also have subscribed
+
+to a Canal+ offer.
+
+c. Churn rate by individual subscriber with commitment over a 12-month period, excluding customers via wholesale partnerships and those
+
+benefiting from a LDA (Liberté d’Annuler) option.
+
+d. Net ARPU (Average revenue per user) per individual Premium subscriber with and without commitment, excluding wholesale
+
+partnerships.
+
+e. Net ARPU per individual subscriber with commitment, excluding wholesale partnerships.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018
+
+Vivendi / 15
+
+
+--- Page 11 ---
+
+Thursday February 14, 2019
+
+in 2018, Canal+ Group's revenues amounted to €5,166 million, almost stable compared to 2017 (-0.3% at constant currency and perimeter).
+
+At the end of December 2018, Canal+ Group's overall subscriber portfolio (individual and collective subscribers in France and internationally)
+stood at 16.2 million, compared to 15.6 million at the end of December 2017, representing net growth of 654,000 subscribers.
+
+Revenues from television operations in mainland France decreased slightly (-3.4% at constant currency and perimeter) due to the decline in
+the individual subscriber base (7.8 million, compared to 8.1 million at the end of December 2017), despite a positive change in the churn rate,
+which decreased by 2.2 points over the year to 13.6%. This decline was due in particular to the drop in Canalplay's subscriber base and the
+termination of the Canalsat offer in favor of the new Canal offers and subscriptions via wholesale partnerships with telecom operators.
+
+However, the Canal+ channel's individual subscriber base recorded a net year-on-year increase in subscribers of 251,000. Including collective
+subscriptions, the total subscriber portfolio in mainland France reached 8.3 million.
+
+International operations delivered a strong increase in revenues of 6.8% at constant currency and perimeter, primarily due to the very strong
+growth in the individual subscriber base (+883,000 year-on-year) to which all the territories contributed, without exception.
+
+Studiocanal’s revenues amounted to €462 million, a slight year-on-year decrease (-0.6% at constant currency and perimeter) due to an
+unfavorable 2017 comparable basis (particularly with the worldwide success of Paddington 2) and despite significant growth in TV
+operations and increased catalog revenues.
+
+In France, Studiocanal was the second largest French film distributor in 2018 with more than 10 million theater tickets sold, thanks in
+particular to the success of Sink or Swim (4.3 million tickets sold), Mia and the White Lion (1.4 million tickets sold), and In Safe Hands
+{0.8 million tickets sold) during the fourth quarter.
+
+in 2018, Canal+ Group's profitability increased sharply compared to 2017. Income from operations amounted to €429 million, compared to
+€349 million in 2017 (+22.4% at constant currency and perimeter).
+
+EBITA before restructuring charges amounted to €428 million, up nearly €80 million year-on-year. EBITA after restructuring charges
+amounted to €400 million, compared to €300 million in 2017 (+32.8% at constant currency and perimeter). This strong EBITA growth was
+notably due to the cost savings plan initiated in 2016, the significant improvement in mainland France and sustained international
+development.
+
+On November 8, 2018, Canal+ Group announced the renewal of its agreement with the French cinema, extending until the end of 2022 a
+istoric partnership of more than 30 years. This agreement was a prerequisite for the signing on December 21, 2018 of the new media
+release chronology which protects and strengthens the unique position of Canal+ which can now offer new movies to its subscribers as early
+as 6 months after their theatrical release.
+
+n the fourth quarter of 2018, Canal+ Group also strengthened its sports offer, especially around football, with the acquisition of the
+roadcasting rights in France for the English Premier League and in Poland for the Ekstraklasa. Canal+ Group is proud to have won the
+exclusive rights in France for the Premier League, the most widely broadcast football league in the world. Canal+ will offer the 380 Premier
+League matches on its channels and on myCANAL. The agreement covers three seasons (2019/2020, 2020/2021 and 2021/2022) and will
+start in August 2019.
+
+In addition, the acquisition of Moto GP's rights for the first time illustrates the group's desire to diversify its sports offer, in line with recent
+developments in boxing and women's football.
+
+Anew global distribution agreement entered into on November 14, 2018 with the TF1 Group allows all TF1 Group channels and related non-
+inear services to be integrated into the Canal offers. The group had entered into a similar agreement with M6 Group in early 2018.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 16
+
+
+--- Page 12 ---
+
+Thursday February 14, 2019
+
+1.3.4 Havas
+
+Asa reminder, since July 3, 2017, Vivendi has fully consolidated Havas.
+
+Year ended December 31, 12-month pro forma data
+% Change at
+constant currency
+{in millions of euros) 2018 2017 (a) 2017 % Change and perimeter
+Revenues 2,319 1,211 2,374 -2.3% 40.5%
+Net revenues (b) 2,195 1,151 2,259 -2.8% 40.1%
+Income from operations 258 135 254 +1.8% -
+Income from operations/net revenues 11.8% 11.7% 11.2% +06 pts
+Income/{charges) related to share-based compensation plans (12) (3) (10)
+Other special items excluded from income from operations (1) (6) (8)
+EBITA before restructuring charges 245 126 236 +3.8% +1.9%
+Restructuring charges (30) (15) (24)
+EBITA 215 111 212 41.7% 0.7%
+EBITA/net revenues 9.8% 9.6% 9.4% +0,4 pts
+Net revenues by geographic area
+Europe 1,109 575 1,123 1.2% 1.4%
+Of which France 438 226 452 3.1% 3.4%
+United Kingdom 261 123 242 48.1% 44.8%
+North America 766 391 789 -2.9% 41.3%
+Asia Pacific and Africa 192 111 201 4.9% -
+Latin America 128 74 146 12.7% 45.8%
+2,195 1,151 2,259 -2.8% 40.1%
+
+a. Corresponds to the financial data consolidated by Vivendi since July 3, 2017.
+
+b. Net revenues correspond to Havas’s revenues less the pass-through costs rebilled to customers (please refer to Note 1.3.4.3 to the
+Consolidated Financial Statements for the year ended December 31, 2018)
+
+Reflecting an excellent fourth quarter 2018, Havas’s revenues amounted to €693 million, up 6.5% at constant currency and perimeter.
+Organic net revenue growth was 4.8% compared to the fourth quarter of 2017 (+6.7% excluding the impact of Arnold).
+
+In 2018, Havas’s revenues amounted to €2,319 million, up 0.5% at constant currency and perimeter compared to 2017 (pro forma). Net
+revenues amounted to €2,195 million (compared to €2,259 million in 2017 pro forma), up 0.1% organically (+1.9% excluding the impact of
+Arnold) and down 2.8% on an actual basis mainly due to negative currency effects.
+
+With an organic growth of 2.7% in the second half of 2018, compared to -2.9% in the first half of 2018, Havas confirmed the net sequential
+improvement in organic net revenue growth. All its businesses (creative, health and wellness and media) contributed to this upturn.
+
+n 2018, Havas increased its profitability. Havas’s income from operations reached €258 million, compared to €254 million in 2017 (pro
+‘orma), a +0.6-point increase in the income from operations/net revenues margin to 11.8%. EBITA amounted to €215 million, compared to
+€212 million in 2017, representing an increase of +0.4 points in the EBITA/net revenues margin. EBITA before restructuring charges was up
+3.8% compared to 2017 (+1.9% organically).
+
+he North American agencies performed very well in the fourth quarter of 2018, thanks to Havas Media, Havas Health & You, Havas Edge
+and Abernathy/AMO.
+
+Business in Europe continued to show progress at the end of the year, supported once again by robust performances in France and in the
+United Kingdom. In France, BETC, Havas Paris and Ekino/Fullsix agencies were the major contributors. The United Kingdom confirmed its
+recovery driven by the excellent performance from the media businesses, and the continued dynamism of the healthcare communications
+usiness at Havas Lynx and the creative business at Havas London. Italy continued to show steady growth, while performances from the
+other European countries remained mixed.
+
+Latin America confirmed its recovery, driven by the media businesses.
+
+Asia-Pacific returned a slightly negative performance, penalized by Australia, while China and India both reported sustained growth.
+
+Havas pursued its policy of targeted acquisitions, completing several acquisitions in 2018:
+
+e Catch, the leading digital conversion rate optimization (CRO) specialist across Australia and New Zealand;
+
+e  Deekeling Arndt Advisors (DAA), a leading German communications consultancy providing communicative support and political
+flanking of equity market transactions, reputation management and crisis communications;
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 17
+
+
+--- Page 13 ---
+
+Thursday February 14, 2019
+
+e Etoile Rouge, a communications agency dedicated to luxury and lifestyle brands in France;
+e Ma&C consultancy, a UK-based specialist in healthcare market access; and
+e Republica, the leading independent multicultural marketing agency in the United States, based in Miami, Florida.
+
+In addition, on December 14, 2018, Havas Group entered into an agreement to acquire a 51% interest in the largest Baltics-based
+communications group, formed by the merger of Estonian-owned Idea Group and Lithuanian-owned Publicum Group. The new combined
+entity will operate under the name Havas Baltics and will represent the Havas Group in Estonia, Lithuania and Latvia.
+
+Major awards won by Havas
+In the fourth quarter of 2018, the Palau Pledge campaign, created by Australian agency Host/Havas for the Palau Legacy Project, continued to
+garner awards, notably at the D&AD Impact Awards and at the LIAA. In 2018, it became one of the most awarded campaigns worldwide.
+Havas Group's agencies won 6 awards at the LIAA. At the Clio Health Awards, Havas Lynx took 5 awards, BETC Brazil was awarded 1 Gold
+and Havas Republica, one of the agencies acquired by Havas in 2018, carried off 1 Silver and 1 Bronze.
+
+Several Havas agencies did well at the Epica Awards, taking home a total of 23 awards. At the Cristal Festival, Host/Havas was awarded the
+Grand Prix in the Promo & Activation category, other agencies scooped a total of 35 awards and Havas was, once again, named Advertising
+Network of the Year. Adweek named Rosapark its International Agency of the Year.
+
+Major account wins over the fourth quarter of 2018
+e Healthcare communications: Havas Health & You: Novartis Genentech, AbbVie, Chemocentryx and Sage Therapeutics;
+e Creative: Adidas, Henkel, Nestle, Savencia, Amway; and
+e Media: Puma, Reckitt, Correos, Caisse des dépéts, Gameloft.
+
+1.3.5 Gameloft
+Year ended December 31,
+% Change at % Change at
+constant constant currency
+
+(in millions of euros) 2018 2017 % Change currency and perimeter
+Revenues 293 320 8.3% -5.1% 5.1%
+Income from operations 4 10 60.4% 56.4% 56.4%
+Restructuring charges (4) (1)
+Charges related to share-based compensation plans 2 (5)
+Other special items excluded from income from operations - -
+EBITA 2 4 -55.8% 41.9% 41.9%
+Revenues by geographic area
+EMEA (Europe, the Middle East, Africa) 100 107
+Asia Pacific 73 89
+North America 97 94
+Latin America 23 30
+
+293 320
+Average Unique Users (in millions)
+Monthly Active Users (MAU) 98 128
+Daily Active Users (DAU) 1 15
+
+In 2018, Gameloft's OTT revenues (sales of games on platforms such as Apple, Google, Microsoft and Amazon) which represents 72% of
+Gameloft’s total revenues, were up 2.1% at constant currency. This increase partially offset the decline in the activity related to telecom
+operators, which is structurally in decline due to the gradual replacement of traditional mobile phones by smartphones, and the decrease in
+advertising sales. In 2018, Gameloft’s revenues amounted to €293 million, down 5.1% at constant currency and perimeter.
+
+Gameloft released two new games on smartphones in 2018: Dungeon Hunter Champions and Asphalt 9: Legends, the latest opus of the
+No.1 mobile racing franchise that has recorded more than 35 million downloads since its launch on July 26,2018 and was among
+Gameloft’s Top 5 bestselling games in 2018.
+
+Gameloft's catalogue (63% of 2018 revenues generated by its own franchises), including its bestselling games such as Disney Magic
+Kingdoms, March of Empires, Dragon Mania Legends, Asphalt 8: Airborne and Asphalt 9: Legends, which accounted for 47% of Gameloft’s
+total revenues in 2018, is particularly resilient.
+
+In 2018, Gameloft’s income from operations amounted to €4 million, and EBITA amounted to €2 million, including restructuring charges for
+€4 million.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 18
+
+
+--- Page 14 ---
+
+Thursday February 14, 2019
+
+Gameloft and the LEGO Group announced the release in 2019 of a LEGO game that will bring 40 years of LEGO minifigure history and
+universes to mobiles.
+
+In December 2018, Gameloft acquired FreshPlanet, the multi-award-winning maker of the SongPop mobile games with more than 100 million
+downloads. In line with Gameloft’s philosophy to provide the best gaming experiences to players of all ages and countries, this acquisition is
+a new milestone in the company’s expansion strategy.
+
+1.3.6 Vivendi Village
+
+Year ended December 31,
+
+% Change at
+
+% Change at constant
+
+constant currency and
+
+(in millions of euros) 2018 2017 % Change currency perimeter (a)
+
+Revenues 123 109 412.6% +13.1% +11.5%
+
+of which Vivendi Ticketing 58 52 +9.9% 411.1% 4.0%
+
+Live 34 18 494.9% 494.9% 494.9%
+Income from operations (9) (6)
+Restructuring charges (2) (2)
+Income/(charges) related to share-based compensation plans - -
+Other special items excluded from income from operations 2 (10)
+EBITA (9) (18)
+
+a. Constant perimeter reflects the impacts of the acquisition of Paylogic (April 16, 2018) and the sale of Radionomy (August 17, 2017).
+
+n 2018, Vivendi Village’s revenues amounted to €123 million, an increase of 12.6% (+ 11.5% at constant currency and perimeter) compared
+to 2017.
+
+icketing revenues amounted to €58 million, up 9.9% compared to 2017 following the acquisition of Paylogic in April 2018. Vivendi Village
+now has a ticketing network with a strong presence in Continental Europe, the United Kingdom and the United States, which had a record
+year with more than 20 million tickets sold.
+
+Live activities, which encompass Olympia Production, festivals and venues in France and Africa, recorded revenues of €34 million, an
+increase of 94.9% compared to 2017. Olympia Production recorded very strong growth with more than 1,100 shows. It has a diversified
+portfolio of 32 artists (music and comedy) and four regional festivals in France (compared to two in 2017), including Garorock, one of the
+country’s largest festivals with an attendance of 145,000 people, acquired at the end of 2018. L’Olympia enjoyed a very good year with
+280 shows, its level of activity prior to November 2015.
+
+in Africa, CanalOlympia, with 11 cinema and entertainment venues in eight countries at the end of 2018, is meeting the challenge of strong
+demand for cinema: its average attendance rate (24%) is almost double that of France.
+
+Vivendi Sports organized its first two events in 2018, le Tour de |'Espoir (a cycling race in Cameroon) and Jab&Vibes (a boxing competition in
+Senegal).
+
+Vivendi Village's income from operations amounted to a loss of €9 million in 2018, compared to a loss of €6 million in 2017. Excluding the
+investments in Africa, income from operations was positive at €2 million. EBITA amounted to a loss of €9 million, compared to a loss of
+€18 million in 2017.
+
+1.3.7 New Initiatives
+
+In 2018, New Initiatives, which includes Dailymotion, Vivendi Content and GVA, recorded revenues amounting to €66 million, up 30.5%
+compared to 2017.
+
+GVA is deploying a fiber network on the African continent, enabling major cities to benefit from very high-speed Internet services. In 2018,
+GVA opened two locations in Gabon and Togo, and acquired a business in Congo. GVA is planning to make significant investments, which
+will weigh on its profitability for the first few years of operation.
+
+Since June 2017, Dailymotion has focused on premium content and has improved its video base. Its audience for premium content has
+almost doubled in the space of a year, reaching 2.2 billion views at the end of 2018, compared to 1.2 billion at the end of 2017. This strategy
+has enabled Dailymotion to enter into many partnerships with leading global publishers. In total, more than 300 agreements were concluded
+in 2018, including 100 in the United States and dozens in territories where Dailymotion previously had little presence (Korea, Vietnam, India).
+The audience in these new countries has grown significantly.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 19
+
+
+--- Page 15 ---
+
+Thursday February 14, 2019
+
+In 2018, Dailymotion also reviewed its advertising ecosystem. The company created its own programmatic platform and content
+monetization system (live or programmatic). It is currently working on new formats.
+
+New Initiatives’ income from operations amounted to a loss of €79 million, compared to a loss of €87 million in 2017. New Initiatives’ EBITA
+amounted to a loss of €99 million, compared to a loss of €92 million in 2017.
+
+1.3.8 Corporate
+
+Corporate's income from operations was a net charge of €110 million, compared to a net charge of €101 million in 2017, an unfavorable
+change of €9 million, primarily due to the increase in legal fees, notably relating to ongoing litigation and non-recurring positive items
+recorded in 2017.
+
+Corporate's EBITA was a net charge of €123 million, compared to a net charge of €97 million in 2017, an unfavorable change of €26 million
+mainly relating to the change in income from operations and an increase in restructuring charges.
+
+2 Liquidity and capital resources
+
+2.1 Liquidity and equity portfolio
+
+Preliminary comments:
+
+e The “Net Cash Position” and the “Financial Net Debt”, non-GAAP measures, should be considered in addition to, and not as a substitute
+for, GAAP measures presented in the Consolidated Statement of Financial Position, as well as any other measure of indebtedness
+reported in accordance with GAAP. Vivendi considers these to be relevant indicators of the group’s liquidity and capital resources.
+Vivendi Management uses these indicators for reporting, management and planning purposes.
+
+The Net Cash Position (and the Financial Net Debt) are calculated as follows:
+
+i. cash and cash equivalents, as reported in the Consolidated Statement of Financial Position, corresponding to cash in banks, money
+market funds and bond funds, which satisfy ANC and AMF position expectations expressed in November 2018, and other highly
+liquid short-term investments with initial maturities of generally three months or less, as required by IAS 7 (please refer to Note
+1.3.5.11 to the Consolidated Financial Statements for the year ended December 31, 2018);
+
+ii. cash management financial assets, included in the Consolidated Statement of Financial Position under “financial assets”, relating
+to financial investments, that do not satisfy the criteria for classification as cash equivalents set forth in IAS 7, and, with respect to
+money market funds, which satisfy ANC and AMF position expectations expressed in November 2018, and
+
+iii. derivative financial instruments, net (assets and liabilities) where the underlying instruments are Financial Net Debt items, as well
+as cash deposits securing borrowings included in the Consolidated Statement of Financial Position under “financial assets”,
+
+less:
+
+iv. value of borrowings at amortized cost.
+
+e For a detailed description, please refer to Note 14 “Cash position” and to Note 19 “Borrowings and other financial liabilities and
+financial risk management” to the Consolidated Financial Statements for the year ended December 31, 2018.
+
+2.1.1 Changes in liquidity
+
+Cash and cash Borrowings at amortized Net Cash
+cost and other financial Position/(Financial Net
+. equivalents
+
+(in millions of euros) items (a) Debt)
+Financial Net Debt as of December 31, 2017 1,951 (4,291) (2,340)
+(Outflows) / inflows:
+
+Operating activities 1,187 - 1,187
+
+Investing activities 1,286 520 1,806
+
+Financing activities (610) 120 (490)
+Foreign currency translation adjustments (21) 34 13
+Financial Net Debt as of December 31, 2018 3,793 (3,617) 176
+
+a. “Other financial items” include cash management financial assets and derivative financial instruments relating to the interest rate and
+foreign currency risk management (assets and liabilities).
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 20
+
+
+--- Page 16 ---
+
+=
+
+ursday February 14, 2019
+
+As of December 31, 2018, Vivendi’s Net Cash Position amounted to €176 million, compared to a Financial Net Debt of -€2,340 million as of
+December 31, 2017, an increase of €2,516 million. This favorable change was mainly attributable to the following items:
+
+e a €1,580 million inflow as part of the sale of Vivendi’s 27.27% interest in Ubisoft at a price of €66 per share for an aggregate
+consideration of €2.0 billion (including €1,511 million received on March 23, 2018, €69 million received on October 3, 2018 and
+€429 million still to be received under the forward sale of the remainder of its interest which is expected to occur on March 5,
+2019; please refer to Note 2.3 to the Consolidated Financial Statements for the year ended December 31, 2018);
+
+e a€373 million inflow as part of the sale on the market of the Telefonica shares held by Vivendi in November and December 2018;
+
+e a €267 million inflow received on July 12, 2018 as part of the sale of Vivendi’s interest in Fnac Darty (please refer to Note 2.4 to
+the Consolidated Financial Statements for the year ended December 31, 2018); and
+
+e net cash provided by operating activities (after income tax paid) for €1,187 million.
+
+These inflows were partially offset by the dividend paid by Vivendi on April 24, 2018 with respect to fiscal year 2017 for €568 million and net
+capital expenditures for €341 million.
+
+During the first quarter of 2019, the following events will impact the cash position:
+
+e On January 31, 2019, Vivendi completed the acquisition of 100% of Editis's share capital, representing an €833 million outflow,
+which includes the repayment of Editis’s debt (please refer to Note 2.2 to the Consolidated Financial Statements for the year ended
+December 31, 2018);
+
+e On February 11, 2019, pursuant to a decision of the Versailles Administrative Court of Appeal regarding the use of foreign tax
+receivables by Vivendi for the payment of the tax income in respect of the fiscal year ended December 31, 2012, Vivendi received a
+request for repayment from the tax authorities in the amount of €239 million. Vivendi has 30 days to satisfy this request (please
+refer to Note 6.1 to the Consolidated Financial Statements for the year ended December 31, 2018); and
+
+e On March 5, 2019, Vivendi will receive €429 million under the forward sale of its remaining interest in Ubisoft (please refer to Note
+2.3 to the Consolidated Financial Statements for the year ended December 31, 2018).
+
+2.1.2 Equity portfolio
+
+As of December 31, 2018, Vivendi held a portfolio of listed non-controlling equity interests, including a receivable of €429 million on the
+forward sale of its remaining interest in Ubisoft (please refer to Note 2.3 to the Consolidated Financial Statements for the year ended
+December 31, 2018). As of December 31, 2018, the aggregate market value of this portfolio was approximately €3.9 billion (before taxes),
+compared to €6.4 billion as of December 31, 2017 (which notably included the entire interest in Ubisoft, as well as the interests in Telefonica
+and Fnac Darty): please refer to Notes 11 and 12 to the Consolidated Financial Statements for the year ended December 31, 2018.
+
+As of February 11, 2019 (the date of Vivendi’s Management Board meeting that approved the Consolidated Financial Statements for the year
+ended December 31, 2018), the value of this portfolio was approximately €4.0 billion (before taxes).
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 21
+
+
+--- Page 17 ---
+
+Thursday February 14, 2019
+
+2.2 Cash flow from operations analysis
+
+Preliminary comment:
+
+“Cash flow from operations” (CFFO) and “cash flow from operations after interest and taxes” (CFAIT), non-GAAP measures, should be
+considered in addition to, and not as substitutes for, other GAAP measures of operating and financial performance as presented in the
+Consolidated Financial Statements and the related notes or as described in this Financial Report. Vivendi considers these to be relevant
+indicators of the group's operating and financial performance.
+
+Year ended December 31,
+
+(in millions of euros) 2018 2017 % Change
+Revenues 13,932 12,518 +11.3%
+Operating expenses excluding depreciation and amortization (12,192) (11,141) -9.4%
+1,740 1,377 426.3%
+Restructuring charges paid (106) (73) -45.7%
+Content investments, net (137) (317) +56.8%
+of which payments to artists and repertoire owners, net at UMG:
+Payments (933) (834) -11.8%
+Recoupment and other 812 692 417.4%
+(121) (142) 415.4%
+of which film and television rights, net at Canal+ Group:
+Acquisition paid (508) (615) +17.4%
+Consumption 670 708 5.4%
+162 93 473.4%
+of which sports rights, net at Canal+ Group:
+Acquisition paid (906) (911) +0.6%
+Consumption 865 941 8.1%
+(41) 30 na
+Neutralization of change in provisions included in operating expenses (29) (30) +5.6%
+Other cash operating items 9 (3) na
+Other changes in net working capital (28) 265 na
+Net cash provided by/used for) operating activities before income tax paid 1,449 1,219 +18.8%
+Dividends received from equity affiliates and unconsolidated companies 18 29 -39.5%
+Capital expenditures, net (capex, net) (341) (259) -31.5%
+Cash flow from operations (CFFO) 1,126 989 +13.8%
+Interest paid, net (47) (53) +12.0%
+Other cash items related to financial activities 5 (61) na
+Income tax (paid)/received, net (262) 41 na
+Cash flow from operations after interest and income tax paid (CFAIT) 822 1,346 -39.0%
+
+na: not applicable.
+
+2.2.1 Changes in cash flow from operations (CFFO)
+
+In 2018, cash flow from operations (CFFO) generated by the group's business segments amounted to €1,126 million (compared to
+€989 million in 2017), a €137 million improvement. These amounts included capital expenditures (net) generated by the group’s business
+segments for €341 million (compared to €259 million in 2017), a deterioration of -€82 million mainly at Universal Music Group (-€47 million)
+and Canal+ Group (-€22 million). In 2018, cash flow from operations (CFFO) generated by the group's business segments, before capital
+expenditures (net), amounted to €1,467 million (compared to €1,248 million in 2017), an improvement of €219 million. This change mainly
+resulted from the strong operating performance of Universal Music Group (+€239 million), primarily driven by the growth in subscription
+streaming services, as well as Canal+ Group's growth (+€43 million), partially offset by the decline of Havas (-€61 million), which resulted
+from the consolidation of Havas as from the second half of 2017. Havas’s change in working capital is usually unfavorable in the first half,
+due to the seasonality of cash generation. For the second half of 2018, cash flow from operations (CFFO) generated by Havas, before capital
+expenditures (net), amounted to €356 million, compared to €329 million for the second half of 2017.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 22
+
+
+--- Page 18 ---
+
+Thursday February 14, 2019
+
+2.2.2 Cash flow from operations (CFFO) by business segment
+
+Year ended December 31,
+
+(in millions of euros) 2018 2017 % Change
+Universal Music Group 838 646 +29.8%
+Canal+ Group 259 238 +8.7%
+Havas 230 308 na
+Gameloft 1 7 na
+Vivendi Village (3) (20)
+
+New Initiatives (82) (90)
+
+Corporate (117) (100)
+
+Cash flow from operations (CFFO) 1,126 989 +13.8%
+
+na: not applicable.
+
+2.2.3. Changes in cash flow from operations after interest and income tax paid (CFAIT)
+
+In 2018, cash flow from operations after interest and income tax paid (CFAIT) was an €822 million net inflow (compared to €1,346 million in
+2017), a decrease of €524 million, primarily resulting from the unfavorable change in cash flow relating to income taxes.
+
+In 2018, cash flow relating to income taxes was a €262 million net outflow (compared to a €471 million net inflow in 2017). In 2017, it
+notably included (i) a €346 million inflow received on April 18, 2017 as part of the litigation settlement relating to the tax credits utilized by
+Vivendi in fiscal year 2012, (ii) a €223 million inflow relating to the refund to Vivendi SA of the amounts paid with respect to the 3% tax on
+dividend distributions following the decision of the French Constitutional Council, dated October 6, 2017, where it was ruled that the tax
+contribution was unconstitutional, as well as (iii) a refund of tax installments paid in 2016 under the French Tax Group System for fiscal year
+2016 (€136 million), and (iv) a €10 million inflow at Universal Music Group in the United Kingdom, relating to a litigation settlement.
+
+In 2018, the financial activities generated a €42 million net outflow (compared to €114 million in 2017). In 2018, they mainly included net
+interest paid (-€47 million, compared to -€53 million in 2017). In addition, cash generated by foreign exchange risk hedging instruments was
+a +€13 million inflow, compared to a -€52 million outflow in 2017, notably due to the depreciation of the dollar (USD) against the euro.
+
+2.2.4 Reconciliation of CFAIT to net cash provided by operating activities
+
+Year ended December 31,
+
+{in millions of euros) 2018 2017
+
+Cash flow from operations after interest and income tax paid (CFAIT) 822 1,346
+Adjustments
+
+Capital expenditures, net (capex, net) 341 259
+Dividends received from equity affiliates and unconsolidated companies (18) (29)
+Interest paid, net 47 53
+
+Other cash items related to financial activities (5) 61
+
+Net cash provided by operating activities (a) 1,187 1,690
+
+a. As presented in the Consolidated Statement of Cash Flows.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 23
+
+
+--- Page 19 ---
+
+Thursday February 14, 2019
+
+2.3 Analysis of investing and financing activities
+
+2.3.1 Investing activities
+
+Refer to Notes to
+
+the Consolidated Year ended
+
+Financial December 31, 2018
+{in millions of euros) Statements
+Financial investments
+Acquisition of cash management financial assets 14 (520)
+Other (174)
+Total financial investments (694)
+Financial divestments
+Sale of Ubisoft shares 23 1,580
+Sale of Telefonica shares 12 373
+Sale of Fnac Darty shares 24 267
+Redemption of the balance of the "new ORAN 1" issued by Banijay Group Holding 11.1 25
+Other 58
+Total financial divestments 2,303
+Dividends received from equity affiliates and unconsolidated companies 18
+Capital expenditures, net 3 (341)
+Net cash provided by/(used for) investing activities (a) 1,286
+
+a. As presented in the Consolidated Statement of Cash Flows.
+
+2.3.2 Financing activities
+
+Refer to Notes to
+
+the Consolidated Year ended
+
+Financial December 31, 2018
+{in millions of euros) Statements
+Transactions with shareowners
+Distribution to Vivendi SA's shareowners 15 (568)
+Capital increase subscribed by employees as part of the Stock Purchase Plan 18 100
+Exercise of stock options by executive management and employees 18 89
+Dividends paid by consolidated companies to their non-controlling interests (47)
+Other (15)
+Total transactions with shareowners (441)
+Transactions on borrowings and other financial lial
+Redemption of bonds 19 (100)
+Interest paid, net 5 (47)
+Other (22)
+Total transactions on borrowings and other financial liabi (169)
+Net cash provided by/(used for) financing activities (a) (610)
+
+a. As presented in the Consolidated Statement of Cash Flows.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 24
+
+
+--- Page 20 ---
+
+Thursday February 14, 2019
+
+3 Outlook
+
+Dividend
+
+Vivendi's Supervisory Board approved the Management Board's proposal to pay an ordinary dividend of €0.50 per share with respect to fiscal
+year 2018, which will be submitted to the Annual General Shareholders’ Meeting to be held on April 15, 2019 for approval. This dividend
+represents an increase of 11.1% compared to the dividend distributed with respect to fiscal year 2017 and a return of approximately 2.3%.
+The coupon detachment date would be April 16, 2019 and the payment date April 18, 2019.
+
+Outlook
+
+Vivendi is confident in the evolution of its main businesses in 2019. As regards Canal+ Group, after a strong improvement in its profitability
+in 2018, it will continue its improvement efforts and its 2019 profitability is expected to be even better than it was in 2018.
+
+4 Forward-Looking Statements
+
+Cautionary note
+
+This Financial Report contains forward-looking statements with respect to Vivendi’s financial condition, results of operations, business,
+strategy, plans and outlook of Vivendi, including the impact of certain transactions, the payment of dividends and distributions as well as
+share repurchases. Although Vivendi believes that such forward-looking statements are based on reasonable assumptions, such statements
+are not guarantees of future performance. Actual results may differ materially from the forward-looking statements as a result of a number
+of risks and uncertainties, many of which are outside Vivendi’s control, including, but not limited to, the risks related to antitrust and other
+regulatory approvals, and to any other approvals which may be required in connection with certain transactions, as well as the risks
+described in the documents of the group filed by Vivendi with the Autorité des marchés financiers (the "AMF") (the French securities
+regulator), and in its press releases, if any, which are also available in English on Vivendi’s website (www.vivendi.com). Accordingly, readers
+are cautioned against relying on such forward-looking statements. These forward-looking statements are made as of the date of this
+Financial Report. Vivendi disclaims any intention or obligation to provide, update or revise any forward-looking statements, whether as a
+result of new information, future events or otherwise.
+
+5 Other Disclaimers
+
+Unsponsored ADRs
+
+Vivendi does not sponsor any American Depositary Receipt (ADR) facility in respect of its shares. Any ADR facility currently in existence is
+“unsponsored” and has no ties whatsoever to Vivendi. Vivendi disclaims any liability in respect of any such facility.
+
+Translation
+
+This Financial Report is an English translation of the French version of the report and is provided solely for the convenience of
+English-speaking readers. This translation is qualified in its entirety by the French version, which is available on the company's website
+(www.vivendi.com). In the event of any inconsistencies between the French version of this Financial Report and the English translation, the
+French version will prevail.
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 25
+
+
+--- Page 21 ---
+
+Thursday February 14, 2019
+
+Il- Appendix to the Financial Report
+
+Quarterly revenues by business segment
+
+2018
+
+Three months ended Three months ended Three months ended Three months ended
+(in millions of euros) March 31, June 30, September 30, December 31,
+Universal Music Group 1,222 1,406 1,495 1,900
+Canal+ Group 1,298 1,277 1,247 1,344
+Havas 506 567 553 693
+Gameloft 70 7 74 78
+Vivendi Village 23 29 36 35
+New Initiatives 16 16 15 19
+Elimination of intersegment transactions (11) (14) (19) (14)
+Revenues 3,124 3,352 3,401 4,055
+
+2017
+
+Three months ended Three months ended Three months ended Three months ended
+(in millions of euros) March 31, June 30, September 30, December 31,
+Universal Music Group 1,284 1,382 1,319 1,688
+Canal+ Group 1,272 1,283 1,252 1,391
+Havas (a) - - 552 659
+Gameloft 84 71 78 81
+Vivendi Village 26 30 25 28
+New Initiatives 10 13 1 7
+Elimination of intersegment transactions (3) (3) (16) (22)
+Revenues 2,673 2,782 3,221 3,842
+
+a. Asareminder, since July 3, 2017, Vivendi has fully consolidated Havas.
+
+Note: As from January 1, 2018, Vivendi applied the new accounting standard IFRS 15 — Revenues from Contracts with Customers (please
+refer to Notes 1 and 28 to the Consolidated Financial Statements for the year ended December 31, 2018).
+
+Financial Report and Audited Consolidated Financial Statements for the year ended December 31, 2018 Vivendi / 26

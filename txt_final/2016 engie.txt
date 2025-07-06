@@ -1,0 +1,956 @@
+
+
+--- Page 1 ---
+
+1 SUMMARY OF THE GROUP'S RESULTS
+
+After implementing its new organizational structure on January 1, 2016, ENGIE is rolling out its strategy to become the
+world energy transition leader.
+
+Although the Group continues to face a complex macro-economic and market environment, notably characterized by
+significant commodity price volatility, its results for 2016 are strong and are already benefiting from the positive impact of
+the Lean 2018 performance program.
+
+Revenues fell by 4.6% on a reported basis to €66.6 billion compared with 2015 (down by 4.0% on an organic basis),
+impacted by highly unfavorable exchange rate effects (€725 million negative impact) chiefly related to the pound sterling
+and Brazilian real, partially offset by the positive impact of changes in the scope of consolidation (€210 million positive
+impact). Besides these impacts, this decrease is mainly attributable to lower commodity prices which impacted the
+LNG and gas midstream activities, gas and electricity retail businesses, exploration-production, and power generation
+businesses, but only partially affected margins. The decrease was partially offset by the effect of slightly colder than
+average temperatures in France in 2016 compared with a warm 2015.
+
+EBITDA” amounted to €10.7 billion, down 5.2% on a reported basis and 2.7% on an organic basis. The decrease on a
+reported basis is due to the impact of changes in the scope of consolidation (€151 million negative impact) mainly relating
+to the disposal of the merchant hydropower generation assets in the United States and to an unfavorable exchange rate
+effect chiefly related to the Norwegian krone, Brazilian real and pound sterling. In 2016, on an organic basis, EBITDA
+benefited from the restart of the Doel 3, Tihange 2 and Doel 1 nuclear power plants in Belgium in December 2015, the first
+effects of the Lean 2018 performance program, the favorable temperature effect in France, and the impact of
+commissioning of assets. These items only partially offset the continued decline in commodity prices.
+
+Current operating income after share in net income of entities accounted for using the equity method decreased
+by 2.4% on a reported basis and increased by 1.6% on an organic basis to €6.2 billion. The organic decrease in EBITDA
+was offset by the positive effect of lower depreciation and amortization charges as a result of impairment losses recorded
+at end-2015 and the impact of reclassifying the portfolio of merchant power generation assets in the United States as
+assets held for sale in 2015.
+
+Net income/(loss) Group share represented a net loss of €0.4 billion in 2016, up €4.2 billion on the previous year.
+It includes (i) lower net of tax impairment losses than in 2015, (ii) a positive change in the fair value of hedging contracts
+related to electricity and gas purchases and sales, (iii) gains on the partial disposal of Transmisora Eléctrica del Norte
+(TEN) in Chile, the disposal of the Paiton power plants in Indonesia and Meenakshi power plants in India, the disposal of
+available-for-sale securities (Transportadora de Gas del Peru (TgP) in Peru and Ores Assets in Belgium) and
+(iv) the impact of the reduction in the corporate income tax rate in France in 2020 introduced by the 2017 French Finance
+Law. These items were partially offset by the negative impact of a decrease in the discount rate applied to provisions for
+the back-end of the nuclear fuel cycle, and an increase in restructuring costs related mainly to the closure of plants in
+Australia, France, Belgium and the United Kingdom.
+
+Net recurring income Group share amounted to €2.5 billion, a decrease of €0.1 billion compared with 2015, in line with
+the decline in current operating income after share in net income of entities accounted for using the equity method.
+
+Cash flow from operations (CFFO) amounted to €9.7 billion, broadly stable compared to 2015 despite the decrease in
+cash generated from operations before income tax and working capital requirements.
+
+Net debt stood at €24.8 billion, down €2.9 billion compared with net debt at December 31, 2015, mainly due to cash flow
+from operations (€9.7 billion) and the initial effects of the portfolio rotation program (€4.0 billion), and particularly
+(i) the disposal of the merchant hydropower generation assets portfolio in the United States, (ii) the disposal of thermal
+power generation assets in Indonesia and India, (iii) the disposal of wind farms operated by Maia Eolis to Futures Energies
+
+(1) Data at December 31, 2016 are presented according to the Group’s new EBITDA definition. This now excludes the non-recurring
+portion of the net income of entities accounted for using the equity method, which amounted to €12 million in 2015.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+5
+
+
+--- Page 2 ---
+
+Investissements Holding (FEIH), a 50/50 joint venture with Crédit Agricole Assurances, (iv) the disposal of available-for-
+sale securities (Ores Assets in Belgium and TgP in Peru) and (v) the partnership established as part of the TEN project,
+which led to the disposal of 50% of the holding in TEN in Chile. These items were partially offset by (i) gross investments
+in the period (€7.3 billion), (ii) and dividends paid to ENGIE SA shareholders (€2.4 billion) and to non-controlling interests
+(€0.5 billion).
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+6
+
+
+--- Page 3 ---
+
+MANAGEMENT REPORT
+
+2
+
+2 OUTLOOK
+
+OUTLOOK
+
+Since 2016, the Group is committed to a 3 year transformation plan aiming at creating value and at improving the
+Group’s risk profile. This plan which is very well advanced today, is based on 3 main programs:
+
+the portfolio rotation program (€15 billion net debt impact targeted over 2016-2018). The Group has announced
+to date €8.0 billion of disposals (i.e. more than 50% of total program), of which €7.2 billion already finalized
+today;
+
+the investment program (€16 billion growth capex over 2016-2018), of which €4.7 billion® are already invested
+at end December 2016;
+
+the performance plan Lean 2018. Thanks to significant progress made, the Group decides to raise its
+objective 2018 by 20%, i.e. €1.2 billion of net gains recorded at EBITDA level by 2018. At end December 2016,
+€530 million of net gains at EBITDA were achieved, which is higher than the annual 2016 target of €500 million.
+
+For 2017, the Group anticipates a net recurring income Group share between €2.4 and €2.6 billion, in strong organic
+growth compared to 2016. This guidance is based on an estimated range for EBITDA of €10.7 to 11.3 billion, also
+growing strongly organically.
+
+For the 2017-2018 period, the Group anticipates:
+
+a net debt/EBITDA ratio below or equal to 2.5x; and
+an «A» category credit rating.
+
+For fiscal year 2016, the Group confirms the payment of a €1 per share dividend, payable in cash.
+
+For fiscal years 2017 and 2018, the Group commits to pay a €0.70 per share dividend per year, payable in cash.
+
+(1) To date, including the disposal of US thermal merchant assets in February 2017.
+
+(2) Including capex on innovation and digital.
+
+(3) These targets and indication assume average weather conditions in France, full pass through of supply costs in French regulated gas
+tariffs, and unchanged Group accounting principles for supply and logistic gas contracts, no significant regulatory and macro-economic
+changes, commodity price assumptions based on market conditions as of December 31, 2016 for the non-hedged part of the
+production, and average foreign exchange rates as follows for 2017: €/$: 1.07; €/BRL: 3.54. These financial objectives include the
+impact of the Belgian nuclear contribution on EBITDA but do not consider significant impacts on disposals not already announced.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+7
+
+
+--- Page 4 ---
+
+MANAGEMENT REPORT
+3 CONSOLIDATED REVENUES AND EARNINGS
+
+3 CONSOLIDATED REVENUES AND EARNINGS
+
+% change % change
+
+(reported (organic
+
+In millions of euros Dec. 31,2016 _Dec. 31, 2015 basis basis)
+
+Revenues 66,639 69,883, 4.6% 4.0%
+
+EBITDA 10,689 14,274 5.2% “2.7%
+
+Net depreciation and amortization/Other (4.517) (4,947)
+
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 6,172 6,326 2.4% +1.6%
+
+Consolidated revenues for the year ended December 31, 2016 amounted to €66.6 billion, down 4.6% compared with the
+previous year. On an organic basis (excluding the impact of changes in the scope of consolidation and exchange rates),
+revenues fell by 4.0%.
+
+Changes in the scope of consolidation had a net positive €210 million impact resulting from (i) acquisitions made in 2015
+and 2016 for €612 million, mainly OpTerra Energy Services in the United States (€241 million) and services companies
+operating in Australia and New Zealand (€137 million), (ii) disposals or deconsolidation of business activities in 2015 or
+2016 for €402 million, including the disposal of the retail businesses in Hungary (€209 million negative impact) and
+merchant hydropower generation assets in the United States (€88 million negative impact). Exchange rates had a negative
+impact of €725 million on Group revenues, mainly reflecting the appreciation of the euro against the pound sterling,
+Brazilian real, Mexican peso and Norwegian krone.
+
+Organic revenue performance was severely affected by lower commodity prices in the gas and LNG midstream, retail,
+exploration-production and power generation activities. Although these price effects had a significant impact on revenues,
+their impact on margins was more limited, particularly in the retail businesses. As a result, organic revenue for the Group’s
+segments was up in Infrastructures Europe, Benelux, and Europe excluding France & Benelux, stable in France, Latin
+America and North America, down slightly in the Other segment, and down significantly in Africa/Asia, E&P and
+GEM & LNG.
+
+EBITDA declined by 5.2% to €10.7 billion over the year. Excluding the impact of changes in the scope of consolidation
+and exchange rates, EBITDA decreased by 2.7%.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+8
+
+
+--- Page 5 ---
+
+MANAGEMENT REPORT
+3 CONSOLIDATED REVENUES AND EARNINGS
+
+EBITDA TRENDS
+
+In millions of euros
+
++78
++98 me
++53 - 187
+- 280
+- 151
+- 136 8
+~ +131 ee 430
+© NS $ 2 i 0 7 2 + 2 e
+s yg eo FF SF SF SF SC S F
+S RS g SS < J J <€ SF s e S
+3 é ss os « ¥ & é 3
+¥ Ss r 3s Ss oe Ss ° co
+ar) oe
+e & ca Ss
+o Ss &
+&
+s é
+
+Changes in the scope of consolidation had a negative €151 million impact on EBITDA and chiefly resulted from the disposal
+of merchant hydropower generation assets in the United States, coupled with the impact of the disposal or recognition as
+assets held for sale of some entities accounted for using the equity method. Changes in exchange rates had a negative
+€136 million impact, mainly due to the appreciation of the euro against the Norwegian krone, Brazilian real and pound
+sterling.
+
+On an organic basis, EBITDA was down 2.7%, or €298 million. It benefited from the positive impact of (i) the effects of the
+Lean 2018 performance program, (ii) the restart of the Doel 3, Tihange 2 and Doel 1 nuclear power plants in Belgium in
+December 2015, (iii) a positive temperature effect in France, (iv) the favorable impact of a provision reversal (in the Latin
+America segment), and (v) the commissioning of assets in the Latin America, Africa/Asia and E&P segments. However,
+these positive impacts only partially offset (i) negative price effects, mainly in the exploration-production, midstream gas
+and LNG, and power generation businesses, (ii) the impact of positive one-off items recognized in 2015, and
+(iii) unfavorable volume effects, particularly in the exploration-production and storage businesses in France.
+
+Organic EBITDA performance varied significantly between segments:
+
+e EBITDA for North America and Africa/Asia was down due to unfavorable price effects affecting margins of power
+generation assets (notably in North America, Thailand, Singapore and India), and the lower availability of coal
+assets in Australia. These impacts were partially offset by good cost control and the favorable impact of
+commissioning assets in South Africa;
+
+e EBITDA for Latin America was up sharply on an organic basis, driven by the commissioning of the Mayakan gas
+pipeline extension in Mexico, the Quitaracsa and Nodo Energetico power generation assets in Peru and the full
+commissioning of the Jirau hydroelectric power plant in Brazil. Brazil also benefited from the favorable impact of
+a provision reversal;
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+9
+
+
+--- Page 6 ---
+
+MANAGEMENT REPORT
+3 CONSOLIDATED REVENUES AND EARNINGS
+
+e EBITDA for Benelux was up sharply, driven by the positive impact of the restart of the Doel 3, Tihange 2 and Doel 1
+nuclear power plants at end-2015, which was partially offset by the deterioration in EBITDA from the services
+business, particularly in Oil & Gas;
+
+e EBITDA for France improved due to a positive temperature effect on gas sales, a rise in electricity volumes sold,
+and a good performance in the network business. These increases were partially offset by the fall in electricity
+prices captured by the hydro generation business and difficulties in gas sales to business customers;
+
+e — growth in EBITDA in Europe excluding France and Benelux was driven by an improved performance from services
+(particularly in the United Kingdom) and from energy sales in Italy, partially offset by the adverse impact of new
+gas distribution tariffs in Romania;
+
+e EBITDA for Infrastructures Europe increased due to the positive temperature effect and tariff increases in
+distribution and transportation;
+
+e EBITDA for the GEM & LNG segment declined due to greater revisions to gas supply conditions in 2015 than in
+2016 and the discontinuance of shipments from Yemen since April 2015;
+
+e EBITDA for exploration-production activities was down due to the fall in the market prices of oil and gas, coupled
+with a decrease in hydrocarbon production due notably to the outages at Njord and Hyme since June 2016;
+
+e EBITDA for the Other segment was down on an organic basis mainly due to the positive impact of one-off items
+recorded in 2015 and a contraction in engineering activities, which were only partially offset by a good operating
+performance from thermal power generation activities in Europe.
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€6.2 billion, up 1.6% on an organic basis compared with 2015. Changes in this indicator for each segment reflect EBITDA
+trends, plus the positive impact of reduced depreciation and amortization charges as a result of the impairment losses
+recorded at end-2015 and the impact of reclassifying the portfolio of merchant power generation assets in the United States
+as assets held for sale.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+10
+
+
+--- Page 7 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+41 North America
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 3,814 3,673 4+3.9% 0.5%
+EBITDA 475 633 -25.0% -11.8%
+Net depreciation and amortization/Other (45) (300)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 430 332 +29.4% 461.3%
+
+Revenues for the North America segment totaled €3,814 million, up 3.9% on a reported basis. Revenues were down
+0.5% on an organic basis due to lower generation volumes and prices, partly mitigated by higher retail volumes.
+The change on a reported basis also factored in the scope impact of the acquisition of OpTerra Energy Services in
+February 2016 and the disposal of the merchant hydropower generation assets in June 2016.
+
+Electricity sales decreased by 2.9 TWh to 65.8 TWh due to lower US generation volumes, primarily a consequence of
+weaker wholesale commodity prices, but were also impacted by the disposal mentioned above. US retail sales volumes
+increased, offsetting some of the reduction in generation volumes.
+
+EBITDA totaled €475 million, down 25.0% on a reported basis but down only 11.8% organically. The organic decline
+resulted primarily from lower margins in the US generation business, partly mitigated by a stronger performance in the
+US retail business coupled with cost savings. The segment’s reported results were negatively impacted by the disposal of
+the merchant hydropower generation assets and the reclassification of some entities accounted for using the equity method
+as assets held for sale.
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€430 million, up 29.4% on a reported basis and up 61.3% on an organic basis, due to the positive impact on depreciation
+and amortization of both the accounting treatment of assets held for sale and the impairment losses recognized in 2015.
+
+4.2 Latin America
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 4,075 4,197 2.9% +0.2%
+EBITDA 1,696 1,563 +8.5% 412.0%
+Net depreciation and amortization/Other (412) (388)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 1,284 1,175 49.3% 413.2%
+
+Revenues for the Latin America segment totaled €4,075 million, representing a 2.9% decrease on a reported basis,
+impacted by the depreciation of the Brazilian real and Mexican peso, and a 0.2% organic increase.
+
+In Brazil, the impact of inflation on average prices under bilateral agreements failed to offset the impact of the very high
+spot prices which had boosted 2015 performance. Peru trended upwards thanks to the commissioning of the Quitaracsa
+hydroelectric power plant (October 2015) and the Nodo Energetico thermal power plant (October 2016). Mexico was
+positively impacted by the commissioning of the Mayakan gas pipeline extension (April 2015) and by distributed gas
+volumes and tariff increases. In Chile, the decrease in commodity prices affected selling prices.
+
+Electricity sales decreased by 0.7 TWh to 59.3 TWh and gas sales increased by 3.9 TWh to 30.4 TWh.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+"1
+
+
+--- Page 8 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+EBITDA totaled €1,696 million, an increase of 8.5% on a reported basis and 12% on an organic basis, despite the negative
+impact of the depreciation of the Brazilian real and Mexican peso. The 12% organic growth was due to the positive impact
+of a provision reversal in Brazil, and by a stronger performance in Peru and Mexico, partially offset by weaker results in
+Chile.
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€1,284 million, up 13.2% on an organic basis primarily due to the EBITDA improvement.
+
+4.3 Africa/Asia
+
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 3,804 4,244 ~10.4% 12.1%
+EBITDA 4,162 1,237 6.0% 45%
+Net depreciation and amortization/Other (239) (265)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 923 972 5.1% A.7%
+
+Revenues for the Africa/Asia segment totaled €3,804 million, down 10.4% on a reported basis and 12.1% organically.
+In respect of changes in the scope of consolidation, the contribution of the Australian and New Zealand services activities
+acquired at end-2015 more than offset the negative foreign exchange impact, mainly due to the strengthening of the euro
+against the Thai baht and Turkish lira as well as the impact of the sale of the Meenakshi coal-fired power plant in India in
+September 2016. The organic decline resulted from a combination of lower generation volumes and reduced cost pass-
+through (gas and coal costs to electricity sale prices) in Thailand and Turkey.
+
+Electricity sales decreased by 3.8 TWh to 51 TWh, with reduced volumes in Thailand and Australia.
+
+EBITDA totaled €1,162 million, down 6.1% on a reported basis and 4.6% organically, mainly reflecting the reduced
+availability of the coal-fired assets in Australia and lower margins in Thailand, Singapore and India, partially offset by cost
+savings achieved under the Lean 2018 performance program and by the power generation assets commissioned in
+South Africa (Avon, West Coast and Dedisa).
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€923 million, down 1.7% on an organic basis primarily for the same reasons as those given above for EBITDA. It was also
+favorably impacted by lower depreciation and amortization charges due to the impairment losses recognized at end-2015.
+
+4.4 Benelux
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 9,044 8,732 43.6% +3.4%
+EBITDA 755 445 +69.5% +69.2%
+Net depreciation and amortization/Other (383) (354)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 371 91 NA NA
+
+Revenues for the Benelux segment amounted to €9,044 million, up 3.6% on a reported basis and 3.4% on an organic
+basis compared to 2015. This rise reflects the restart of the Doel 1, Doel 3 and Tihange 2 nuclear power plants at the end
+of 2015. It was partly offset by a decrease in selling prices (no margin impact) on the gas retail business and by the fall in
+revenues from services businesses, notably in the Oil & Gas business.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+12
+
+
+--- Page 9 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+Electricity sales in Belgium and Luxembourg were up 9.0 TWh, mainly due to increased availability of nuclear power plants.
+The retail market share in Belgium remained stable at 46%. Electricity sales in the Netherlands edged up 1.1 TWh.
+
+Natural gas sales in Benelux totaled 49.2 TWh, an increase of 2.2 TWh compared to 2015. The retail market share in
+Belgium remained stable at 43%.
+
+Despite the decline in the services businesses, EBITDA was up sharply by 69.5% to €755 million on a reported basis,
+driven by the restart of three nuclear power plants at the end of 2015 and by cost savings resulting from the Lean 2018
+performance program.
+
+Current operating income after share in net income of entities accounted for using the equity method increased in
+line with EBITDA.
+
+4.5 France
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis} basis)
+Revenues 20,332 20,248 +0.4% +0.2%
+EBITDA 1,315 1,274 +3.2% +4.3%
+Net depreciation and amortization/Other (620) (565)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 695 709 1.9% +2.8%
+Volumes sold
+In TWh Dec. 31,2016 Dec. 31, 2015 % change (reported basis)
+Gas sales 154.1 150.1 +2.7%
+Electricity sales 56.9 50.9 +11.8%
+France climatic adjustment
+In TWh Dec. 31,2016 Dec. 31, 2015 Total change in TWh
+Climate adjustment volumes 2.2 (6.6) 48.8
+
+(negative figure = warm climate, positive figure = cold climate;
+
+Revenues for the France segment amounted to €20,332 million, up slightly by 0.4% on a reported basis and by 0.2%
+organically. The increase was driven by growth in electricity sales to both BtoB and BtoC customers coupled with a positive
+temperature effect on gas sales, partially offset by a decrease in the number of customers and in selling prices.
+
+Natural gas sales were up 4.0 TWh, comprising a positive 8.8 TWh temperature effect and a negative 4.8 TWh impact
+from the loss of customers due to competitive pressure. ENGIE holds around 74% of the BtoC market and around 25% of
+the BtoB market. Electricity sales were up 6.0 TWh compared to 2015 and continued to advance in terms of sales to end
+customers (up 2.1 TWh), sales to business customers (up 2.5 TWh) and production of renewable energy (up 1.4 TWh).
+
+EBITDA amounted to €1,315 million, up 4.3% on an organic basis, led by a good performance from the heating networks
+business and BtoB services, a rise in electricity volumes sold to BtoB and BtoC customers and in power renewable
+generation, as well as good cost control. These impacts were partly offset by the fall in prices and volumes of gas sold to
+business customers.
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€695 million, up 2.8% on an organic basis in line with organic EBITDA growth.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+13
+
+
+--- Page 10 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+4.6 Europe excluding France and Benelux
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 8,118 8,491 44%. +1.9%
+EBITDA 612 559 +9.5% 419.2%
+Net depreciation and amortization/Other (202) (218)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 410 341 +20.2% +36.4%
+
+Revenues for the Europe excluding France and Benelux segment totaled €8,118 million, down 4.4% on a reported basis
+reflecting the foreign exchange impact (mainly due to the depreciation of the pound sterling) combined with the disposal
+of retail activities in Hungary in September 2015. Revenues were up 1.9% organically, mainly due to favorable weather
+conditions in Romania which more than offset the lower gas distribution tariffs in Romania, coupled with growth in revenues
+from the services business.
+
+Electricity sales were up 1.1 TWh to 29.1 TWh. Gas sales fell by 6.3 TWh to 68.2 TWh, mainly due to the disposal of the
+retail activities in Hungary.
+
+EBITDA totaled €612 million, representing an organic increase of 19.2%. This growth was driven mainly by the positive
+impacts of the Lean 2018 performance program, an increase in margins on services business in the United Kingdom, and
+improved performance in the energy retail business in Italy, partially offset by the fall in gas distribution tariffs in Romania.
+
+Current operating income after share in net income of entities accounted for using the equity method rose 36.4%
+to €410 million on an organic basis in line with organic EBITDA growth.
+
+4.7 Infrastructures Europe
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis)
+Revenues 3,267 3,027 +8.0% +8.1%
+Total revenues (incl. intra-group transactions) 6,762 6,585 42.7%
+EBITDA 3,459 3,381 42.3% +2.3%
+Net depreciation and amortization/Other (1,390) (1,327)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 2,068 2,054 +0.7% +0.6%
+
+Total revenues for the Infrastructures Europe segment, including intra~-Group transactions, amounted to €6,762 million,
+up 2.7% on 2015, reflecting:
+
+e the annual review in France of distribution infrastructure access tariffs (3.9% increase on July 1, 2015 and 2.8%
+increase on July 1, 2016) and of transport infrastructure access tariffs (2.5% increase on April 1, 2015 and 4.6%
+increase on April 1, 2016);
+
+e a favorable temperature effect".
+
+Despite:
+
+e lower storage capacity sales in France;
+
+(1) A 12.2 TWh decrease due to the mild conditions in 2015 and a 4 TWh increase due to the colder conditions in 2016, representing a
+€114 million increase in revenues calculated at €7/MWh.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+4
+
+
+--- Page 11 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+e the decrease in gas purchases and sales to maintain technical performance of the storage facilities (low
+summer/winter spreads).
+
+The contribution to Group revenues was €3,267 million, up 8.0% on 2015. The improved contribution essentially reflects
+the growth in distribution and transportation activities for third parties and the positive impact of tariff increases.
+
+EBITDA amounted to €3,459 million, up 2.3% on the previous year due to growth in revenues.
+Current operating income after share in net income of entities accounted for using the equity method came in at
+
+€2,068 million for the period, up 0.7% on 2015, with a rise in net depreciation and amortization charges resulting from new
+assets commissioned by GRTgaz and GRDF in 2015.
+
+4.8 GEM & LNG
+
+% change % change
+(reported (organic
+
+In millions of euros Dec. 31, 2016 _Dec. 31, 2015 basis basis)
+
+Revenues 8,981 17,320 =20.7% -20.5%
+
+EBITDA 3 196 28.3% 98.3%
+
+Net depreciation and amortization/Other (77) (86)
+
+CURRENT OPERATING INCOME/(LOSS) AFTER SHARE IN NET INCOME OF
+
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 74) 110 NA NA
+
+Global Energy Management (GEM) and LNG’s contribution to Group revenues in 2016 amounted to €8,981 million, down
+20.7% compared to 2015. This decrease was mainly due the drop in commodity prices in Europe and Asia since 2015.
+
+External LNG sales were stable at 81 TWh, representing 108 cargoes.
+
+EBITDA was down on 2015 to €3 million, due mostly to the recognition of profits relating to the revised gas supply
+conditions introduced in 2015, which were higher than in 2016, and to the discontinuance of shipments from Yemen as
+from April 2015. The impacts were partially offset by LNG sale opportunities in Asia in the fourth quarter of 2016 and by
+the significant gains generated as a result of the Lean 2018 performance program.
+
+The business incurred a current operating loss after share in net income of entities accounted for using the equity
+method of €74 million in 2016, representing a deterioration on both a reported and organic basis, in line with EBITDA.
+
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 1,799 2,242 19.8% “17.8%
+EBITDA 4,198 1,514 -20.9% 18.9%
+Net depreciation and amortization/Other (662) (969)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD 536 546 1.8% 0.2%
+
+The contribution of E&P to Group revenues amounted to €1,799 million in 2016, down 19.8% on a reported basis and
+17.8% on an organic basis, mainly due to the slump in oil and gas prices and a 2.8 Mbep decrease in total hydrocarbon
+production (56.3 Mbep in 2016 versus 59.1 Mbep in 2015), due to outages at Njord and Hyme in Norway in early June,
+partially offset by a good performance from other assets and the final impacts of the commissioning of Gudrun.
+Exchange rate differences account for the remainder of the reported decrease in revenues.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+15
+
+
+--- Page 12 ---
+
+MANAGEMENT REPORT
+4 REPORTABLE SEGMENT BUSINESS TRENDS
+
+EBITDA amounted to €1,198 million, down 20.9% on a reported basis or 18.9% on an organic basis, in line with revenue
+trends. The decline in EBITDA was partially offset by a sharp decrease in extraction and exploration costs.
+
+Current operating income after share in net income of entities accounted for using the equity method amounted to
+€536 million in 2016, down 1.8% on a reported basis and down 0.2% on an organic basis, as the decrease in EBITDA was
+largely offset by lower depreciation and amortization charges due to the impairment losses recorded at end-2015 and by
+lower charges in respect of pre-capitalized exploration costs.
+
+4.10 Other
+% change % change
+(reported (organic
+In millions of euros Dec. 31,2016 Dec. 31, 2015 basis) basis)
+Revenues 3,405 3,710 8.2% 6.7%
+EBITDA 15 472 -96.9% 92.4%
+Net depreciation and amortization/Other (487) (476)
+CURRENT OPERATING INCOME/(LOSS) AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD (472) (4) NA NA
+
+The Other segment comprises the activities of the Generation Europe, Tractebel and GTT business units, as well as the
+Group’s holding and corporate activities, which notably include the entities centralizing the Group's financing requirements,
+Solairedirect’s business and the equity-accounted contribution of SUEZ.
+
+Revenues amounted to €3,405 million, down 8.2% on a reported basis and down 6.7% organically. The negative foreign
+exchange impact relating to the pound sterling was partially offset by the positive contributions from newly-consolidated
+acquisitions, including Solairedirect. The organic decrease was mainly due to the closure of the coal-fired power plants at
+Rugeley (1 GW) in early June 2016 and Gelderland (0.6 GW) at end-2015 and the Twinerg gas-fired power plant (0.4 GW)
+in June 2016.
+
+Electricity sales amounted to 21.6 TWh, representing a decrease of 0.5 TWh compared to 2015. The closures of Rugeley,
+Gelderland and Twinerg were offset by an increase in production mainly at the gas-fired power plants in the Netherlands.
+
+EBITDA amounted to €15 million, down on both a reported and organic basis compared to 2015, due to the positive one-off
+items recorded in 2015 (including damages and late payment interest received in relation to two coal-fired power plant
+projects in Germany and the Netherlands) and a contraction in Tractebel’s engineering business, notwithstanding an
+improved performance from thermal power generation activities due notably to the commissioning of Wilhelmshaven in
+October 2015.
+
+Current operating loss after share in net income of entities accounted for using the equity method was €472 million
+for the period, representing a deterioration on both reported and organic basis, in line with EBITDA trends.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+16
+
+
+--- Page 13 ---
+
+MANAGEMENT REPORT
+5 OTHER INCOME STATEMENT ITEMS
+
+5 OTHER INCOME STATEMENT ITEMS
+
+% change
+In millions of euros Dec. 31, 2016 Dec. 31,2015 _(reported basis]
+Current operating income after share in net income of entities accounted for using
+the equity method 6,172 6,326 -2.4%
+Mark to market on commodity contracts other than trading instruments 1,254 (261)
+Impairment losses (4,192) (8.748)
+Restructuring costs (476) (265)
+Changes in scope of consolidation 544 (46)
+Other non-recurring items (850) (248)
+Income/(loss) from operating activities 2,452 (3,242) NA
+Net financial income/(loss) (1,380) (1,547)
+Income tax expense (909) (324)
+NET INCOME/(LOSS) 163 5,113) NA’
+‘o/w net income/(loss) Group share (415) (4.617)
+o/w non-controlling interests 579 (496)
+
+Income from operating activities amounted to €2,452 million, up compared to 2015 due mainly to (i) lower impairment
+losses compared to the previous year, (ii) the positive impact of the change in fair value of commodity derivatives, and
+(iii) gains on disposals of assets and available-for-sale securities, partially offset by (iv) the fall in current operating income
+after share in net income of companies accounted for using the equity method, and (v) by the recognition of additional
+costs relating to the three-yearly revision of nuclear provisions in Belgium, to the dismantling and rehabilitation of the
+Hazelwood power plant and adjacent coal mine in Australia, and to restructuring plans initiated by the Group under
+its transformation program.
+
+In 2016, the Group recognized impairment losses of €1,690 million against goodwill, €2,485 million against property, plant
+and equipment and intangible assets, and €147 million against financial assets and investments in entities accounted for
+using the equity method. These impairment losses related mainly to the Benelux, GEM & LNG, France and North America
+reportable segments. After taking into account the deferred tax effects and the share of impairment losses attributable to
+non-controlling interests, the impact of these impairment losses on net income Group share was a negative €3,866 million.
+These impairment losses are described in Note 8.2 “Impairment losses” to the consolidated financial statements.
+
+In 2015, the Group recognized impairment losses of €2,628 million against goodwill, €5,731 million against property, plant
+and equipment and intangible assets, and €402 million against financial assets and investments in entities accounted for
+using the equity method. These impairment losses related mainly to the E&P, GEM & LNG, Africa/Asia, North America and
+France reportable segments.
+
+Income from operating activities was also affected by:
+
+e changes in the fair value of commodity derivatives relating to operating items, which had a positive impact of
+€1,254 million on income from operating activities (reflecting the impact of transactions not eligible for hedge
+accounting), compared with a negative impact of €261 million in 2015. The impact for the period results chiefly
+from positive overall price effects on these positions, combined with the net positive impact of unwinding positions
+with a negative market value at December 31, 2015;
+
+e — restructuring costs of €476 million (compared with €265 million the previous year) including notably (i) costs related
+to decisions to shut down production and close some entities, sites and power plants for €230 million and (ii) costs
+related to various staff reduction plans implemented as part of the Group’s transformation program, as well as
+measures to adapt to economic conditions for €154 million;
+
+e changes in the scope of consolidation (gains and losses on disposals of consolidated entities or remeasurements
+of previously-held interests in accordance with IFRS 3), which had a positive impact of €544 million, including gains
+on the disposal of the Group’s entire 40.5% interest in the Paiton coal-fired power plants in Indonesia for
+€225 million, the disposal of a 50% interest in Transmisora Eléctrica del Norte (TEN) in Chile for €211 million, and
+the disposal of the 89.9% interest in the Meenakshi coal-fired power plants in India for €84 million (see Note 4.1);
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+7
+
+
+--- Page 14 ---
+
+MANAGEMENT REPORT
+5 OTHER INCOME STATEMENT ITEMS
+
+e other non-recurring items representing a loss of €850 million, mainly including the €584 million net expense related
+to additions to provisions for the back-end of the nuclear fuel cycle under the three-yearly revision of nuclear
+provisions in Belgium (see Note 18.2), as well as a €124 million expense corresponding to the recognition of
+additional dismantling and rehabilitation costs for the Hazelwood power plant and adjacent coal mine in Australia
+following the shut-down and rehabilitation plan approved by the shareholders at the end of 2016.
+
+The Group's net financial loss narrowed to €1,380 million in 2016 from €1,547 million in 2015, owing to the fall in the cost
+of gross debt and lower non-recurring expenses compared to 2015.
+
+The income tax charge amounted to €909 million in 2016 (€324 million in 2015). It includes an income tax benefit of
+€824 million arising on non-recurring income statement items (versus €1,110 million in 2015), mainly related to the
+remeasurement of deferred taxes recognized by the French entities at the new rate of 28.92% provided for in the
+2017 French Finance Law (€904 million), and to the impairment losses recognized against property, plant and equipment
+and intangible assets in 2016 (€326 million). Adjusted for these non-recurring items, the effective recurring tax rate was
+41.9%, higher than the 2015 rate of 39.0% due mainly to the impacts of the reversal of tax litigation provisions in 2015.
+
+Net income attributable to non-controlling interests was up year-on-year at €579 million due mainly to the impact of the
+capital gain on the disposal of a 50% interest in Transmisora Eléctrica del Norte (TEN) which affected the net income of
+the Group's 53%-owned subsidiary ENGIE Energia Chile, as well as improved income from exploration-production
+activities and in Australia.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+18
+
+
+--- Page 15 ---
+
+MANAGEMENT REPORT
+6 CHANGES IN NET DEBT
+
+6 CHANGES IN NET DEBT
+
+Net debt stood at €24.8 billion, down €2.9 billion compared with net debt at December 31, 2015, mainly due to cash flow
+from operations (€9.7 billion) and the initial effects of the portfolio rotation program (€4.0 billion), and particularly
+(i) the disposal of the merchant hydro generation assets portfolio in the United States, (ii) the disposal of thermal power
+generation assets in Indonesia and India, (iii) the disposal of wind farms operated by Maia Eolis to Futures Energies
+Investissements Holding (FEIH), a 50/50 joint venture with Crédit Agricole Assurances, (iv) the disposal of available-for-
+sale securities (Ores Assets in Belgium and TgP in Peru) and (v) the partnership established as part of the TEN project,
+which led to the disposal of 50% of the holding in TEN in Chile. These items were partially offset by (i) gross investments
+in the period (€7.3 billion), (ii) and dividends paid to ENGIE SA shareholders (€2.4 billion) and to non-controlling interests
+(€0.5 billion).
+
+Changes in net debt break down as follows:
+
+In millions of euros
+
+442
+
+180
+3,471 3,166
+9,667
+27,727
+24,807
+Net debt at Dec. Cash flow from Gross Proceeds from Dividends and Changes in Other Net debt at Dec.
+31, 2015 operations _ investments disposal movements in scope of 31, 2016
+(CFFO) treasury stock consolidation
+[I Maintenance investments
+[BN Development investments
+Financial investments
+The net debt to EBITDA ratio came out at 2.32 at December 31, 2016.
+In millions of euros Dec. 31, 2016 Dec. 31, 2015
+Net debt 24,807 27,727
+EBITDA 10,689 11,274
+
+NET DEBT/EBITDA RATIO 2.32 2.46
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+19
+
+
+--- Page 16 ---
+
+MANAGEMENT REPORT
+6 CHANGES IN NET DEBT
+
+6.1 Cash flow from operations (CFFO)
+
+Cash generated from operations before income tax and working capital requirements amounted to €10,263 million in 2016,
+down €679 million compared with 2015.
+The fall was in line with the EBITDA performance.
+
+The change in working capital requirements represents a positive impact of €1.4 billion related to the impact of changes in
+commodity prices compared to 2015.
+
+6.2 Net investments
+
+Gross investments during the period amounted to €7,315 million and included:
+
+e financial investments for €1,085 million, relating primarily to the acquisition of OpTerra Energy Services and
+Green Charge Networks in the United States for €187 million and €51 million respectively, the acquisition of
+51% of Maia Eolis (wind farms in France) for €152 million, and a €248 million increase in Synatom investments;
+
+e development investments totaling €3,633 million, including (i) €855 million invested in the Latin America segment
+to build power plants and develop wind farms in Peru, Chile and Brazil, (ii) €894 million invested in the
+E&P segment to develop gas fields primarily in Algeria, Indonesia, the United Kingdom and Norway,
+(iii) €594 million invested in the Infrastructures Europe segment and (iv) €429 million to develop Solairedirect's
+photovoltaic projects mainly in India and Chile;
+
+e maintenance investments for an amount of €2,597 million.
+
+Disposals represented a cash amount of €3,471 million, mainly including the Group's disposal of its merchant hydropower
+generation assets in the United States for €868 million, its entire 40.5% interest in Paiton for €1,268 million, its entire
+89.9% interest in Meenakshi for a negative €278 million, a 50% interest in Transmisora Eléctrica del Norte (TEN) for
+€272 million, and Ores Assets shares for €410 million.
+
+Taking into account changes in the scope of consolidation for the period relating to acquisitions and disposals of
+subsidiaries (€442 million negative impact), the impact on net debt of investments net of proceeds from disposals amounted
+to €3,402 million.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+2
+
+
+--- Page 17 ---
+
+MANAGEMENT REPORT
+6 CHANGES IN NET DEBT
+
+Capital expenditure breaks down as follows by segment:
+
+In millions of euros
+
+North America Latin America Africa/Asia Benelux France Europe exc, Infrastructures GEM & LNG EaP Others
+France & Europe
+Benelux
+
+HEE Maintenance investments
+[EB Development investments
+Financial investments
+
+6.3 Dividends and movements in treasury stock
+
+Dividends and movements in treasury stock during the period amounted to €3,166 million and included:
+
+e  €2,397 million in dividends paid by ENGIE SA to its shareholders, which corresponds to the balance of the 2015
+dividend (€0.50 per share) paid in May 2016, and an interim dividend in respect of 2016 (€0.50 per share) paid in
+October 2016;
+
+e dividends paid by various subsidiaries to their non-controlling shareholders in an amount of €541 million,
+the payment of interest on hybrid debt for €146 million, withholding tax and movements in treasury stock.
+
+6.4 Net debt at December 31, 2016
+
+Excluding amortized cost but including the impact of foreign currency derivatives, at December 31, 2016 a total of
+77% of net debt was denominated in euros, 13% in US dollars and 3% in pounds sterling.
+
+Including the impact of financial instruments, 83% of net debt is at fixed rates.
+The average maturity of the Group's net debt is 9.4 years.
+
+At December 31, 2016, the Group had total undrawn confirmed credit lines of €13.6 billion.
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+21
+
+
+--- Page 18 ---
+
+MANAGEMENT REPORT
+7 OTHER ITEMS IN THE STATEMENT OF FINANCIAL POSITION
+
+7 OTHER ITEMS IN THE STATEMENT OF FINANCIAL
+POSITION
+
+In millions of euros Dec. 31, 2016 Dec. 31, 2015 Net change
+Non-current assets 98,905 101,204 (2,299)
+of which goodwill 17,372 19,024 (1,652)
+of which property, plant and equipment and intangible assets, net 64,378 64,001 378
+of which investments in entities accounted for using the equity method 6,624 6,977 (353)
+Current assets 59,595 59,454 141
+Total equity 45,447 48,750 (3,303)
+Provisions 22,208 18,835 3,372
+Borrowings 36,950 39,155 (2.206)
+Other liabilities 53,895 53,917 (22)
+
+The carrying amount of property, plant and equipment and intangible assets was €64.4 billion, up €0.4 billion on
+December 31, 2015. The increase was primarily the result of capital expenditure during the year (€6.1 billion positive
+impact), other changes (€1.0 billion positive impact, relating mainly to an increase in dismantling assets recorded against
+the increase in provisions for dismantling nuclear facilities in Belgium), translation adjustments (€0.6 billion positive impact),
+partially offset by depreciation and amortization charges (€4.4 billion negative impact) and impairment losses (€2.5 billion
+negative impact).
+
+Goodwill decreased by €1.7 billion to €17.4 billion, mainly due to the recognition of impairment losses.
+
+Total equity amounted to €45.5 billion, a decrease of €3.3 billion compared to December 31, 2015. This decrease results
+essentially from the payment of cash dividends (€2.9 billion negative impact) and other comprehensive income (€0.5 billion
+negative impact, chiefly relating to actuarial differences and net investment and cash flow hedges net of tax, partially offset
+by translation adjustments).
+
+Provisions amounted to €22.2 billion, an increase of €3.4 billion compared to December 31, 2015. This increase stems
+mainly from the impact of the revision to provisions for dismantling nuclear facilities (€1.1 billion positive impact), actuarial
+losses on provisions for post-employment benefits (€0.7 billion positive impact) owing to the fall in discount rates in the
+period, and the impact of unwinding the discount on the provisions (€0.6 billion positive impact).
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+22
+
+
+--- Page 19 ---
+
+MANAGEMENT REPORT
+8 PARENT COMPANY'S FINANCIAL STATEMENTS,
+
+8 PARENT COMPANY’S FINANCIAL STATEMENTS
+
+The figures provided below relate to the financial statements of ENGIE SA, prepared in accordance with French GAAP
+and applicable regulations.
+
+Revenues for ENGIE SA in 2016 totaled €17,939 million, down 10% on 2015 due mainly to the impact of lower gas sales,
+partly offset by an upturn in electricity activity.
+
+The Company posted a net operating loss of €1,252 million versus a net operating loss of €744 million in 2015, chiefly
+reflecting the decrease in the energy margin and the increase in other external expenses excluding infrastructure costs.
+
+The Company reported net financial income of €1,294 million compared with €1,089 million in 2015. This mainly includes
+dividends received from subsidiaries for €2,043 million versus €2,055 million in 2015, and the cost of debt which decreased
+slightly to €744 million, chiefly consisting of the interest expense on bond issues.
+
+Net non-recurring expenses amounted to €266 million, chiefly due to the combined effect of litigation provisions (expense
+of €190 million), impairment losses on a contractual intangible asset as well as miscellaneous expenses relating to
+restructuring transactions. The additional non-recurring expense was mainly related to net impairment losses on securities
+(€54 million) and special depreciation allowances (€39 million).
+
+The income tax benefit amounted to €672 million compared to a benefit of €540 million in 2015. These two amounts
+included a tax consolidation benefit of €405 million and €350 million in 2016 and 2015, respectively.
+
+Net income for the year came out at €448 million.
+Shareholders’ equity amounted to €37,976 million at end-2016, versus €39,903 million at December 31, 2015, mainly
+reflecting the cash dividend payout. Distributable profit and capacity amounted to respectively €1,941 million and
+
+€34,741 million.
+
+At December 31, 2016, net debt stood at €30,709 million, and cash and cash equivalents totaled €5,075 million (of which
+€3,077 million relating to affiliates current accounts).
+
+Information relating to supplier payment deadlines
+
+The law in favor of the modernization of the economy (“LME” law No. 2008-776 of August 4, 2008) and its implementing
+decree (No. 2008-1492 of December 30, 2008), provide that companies whose annual financial statements are certified
+by a Statutory Auditor must publish information regarding supplier payment deadlines. The purpose of publishing this
+
+information is to demonstrate that there are no significant delays in the payment of suppliers.
+
+The breakdown by maturity of outstanding amounts payable by ENGIE SA to its suppliers over the last two reporting
+periods is as follow:
+
+Dec. 31, 2016 Dec. 31, 2015
+
+In millions of euros External Group Total External Group Total
+Past due 93 149 242 20 112 132
+30 days 260 347 607 254 30. 284
+45 days 65. 4 69 141 253 394
+More than 45 days 17 : 17 54 : 54
+TOTAL 435 500 935 469 395 864
+
+ENGIE - 2016 CONSOLIDATED FINANCIAL STATEMENTS
+23

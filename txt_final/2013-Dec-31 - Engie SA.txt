@@ -1,0 +1,2013 @@
+
+
+--- Page 1 ---
+
+172
+
+Information on the share capital and shareholding
+
+5.2 SHAREHOLDING
+
+5.2.4 Golden share
+
+Under the terms of Act No. 2004-803 of August 9, 2004 as amended
+by Act No. 2006-1537 of December 7, 2006, the State must at all
+times hold more than one third of the Company's capital.
+
+Pursuant to Article 24.1 of Act No. 2004-803 of August 9, 2004 and
+Decree No. 2007-1790 of December 20, 2007, the share capital of
+GDF SUEZ includes a golden share (resulting from the conversion of
+one ordinary share) which is held by the French State, and is aimed at
+protecting France's critical interests in the energy sector and ensuring
+the continuity and safeguarding of energy supplies. In application of the
+Act of December 7, 2006 set out above, the golden share is granted
+to the French State indefinitely and entitles it to veto decisions made
+by GDF SUEZ, or its French subsidiaries, which directly or indirectly
+seek to sell in any form whatsoever, transfer operations, assign as
+collateral or guarantee or change the intended use of certain assets
+covered by the Decree, if it considers they could harm French energy
+interests as regards the continuity and safeguarding of supplies.
+
+Under the terms of Article 2 of Decree No. 2007-1790 of December 20,
+2007, and its Appendix, the assets covered by the French State's
+right of veto pursuant to the golden share are:
+
+> natural gas transmission pipelines located in France;
+> assets related to the distribution of natural gas in France;
+» underground natural gas storage located in France;
+
+> liquefied natural gas facilities located in France.
+
+5.2.5 Dividend distribution policy
+
+In accordance with Decree No. 93-1296 of December 13, 1993
+applied pursuant to Article 10 of Act No. 86-912 (as amended)
+relating to privatizations and concerning certain rights attached to the
+golden share, and to Decree No. 2007-1790 of December 20, 2007,
+all decisions of this nature must be reported to the Minister of the
+Economy.
+
+The decisions mentioned above are deemed to be authorized if the
+Minister of the Economy does not veto them within one month of
+the date of their disclosure, as recorded by a receipt issued by the
+administration. This period may be extended for a period of 15 days
+by order of the Minister of the Economy. Before the expiration of the
+aforementioned one-month period, the Minister of the Economy may
+waive the right to veto. If there is a veto, the Minister of the Economy
+will communicate the reasons of his or her decision to the company
+in question. The decision of the Minister of the Economy may be
+appealed.
+
+Pursuant to Decree 93-1296 of December 13, 1993, any transaction
+executed in violation of Decree 2007-1790 of December 20, 2007 is
+automatically null and void.
+
+As of the date of this Reference Document, to GDF SUEZ's
+knowledge, there is no agreement relating to an option on any entity
+that is a member of the GDF SUEZ Group or any agreement which, if
+implemented, could lead to a change in its control.
+
+GDF SUEZ seeks to pursue a dynamic and attractive dividend
+distribution policy. The Group's objectives described in Section 6.1.1.9
+“Outlook” do not, however, constitute a commitment by the
+Company, and future dividends will be assessed on a year-by-year
+basis depending on the Company's performance, financial position
+and any other factor considered relevant by the Board of Directors
+when preparing its proposals to the General Shareholders’ Meetings.
+
+Dividend per share
+
+GDF SUEZ DIVIDENDS OVER THE LAST FIVE YEARS
+
+At its meeting of July 31, 2013, the Board of Directors decided on the
+payment in cash, of an interim net dividend of €0.83 per share, to be
+applied against the dividend for fiscal 2013.
+
+The Board of Directors will propose to the General Shareholders’
+Meeting of April 28, 2014 the payment of a full dividend for fiscal
+year 2013 of €1.5 per share (identical to the ordinary dividend paid
+for fiscal year 2012), including the €0.83 per share already paid as an
+interim dividend.
+
+Net ordinary dividend per share
+
+Fiscal year (fully paid-up shares) (in euros)
+2008 2.20"
+2009 1.47
+2010 1.50
+2011 1.50
+2012 1.50
+
+(1) Including a special non-recurring dividend of €0.80 per share.
+
+After a period of five years, unclaimed dividends are automatically paid to the French Treasury.
+
+GDF swez Registration Document 2013
+
+
+--- Page 2 ---
+
+Financial statements
+
+MANAGEMENT REPORT
+
+Management report
+
+Statutory Auditors’ report on the pro
+forma financial information related
+to the year ended December 31, 2013
+
+Cash and shareholders’ equity
+
+CONSOLIDATED FINANCIAL
+STATEMENTS
+
+Consolidated financial statements
+
+Notes to the consolidated
+financial statements
+
+STATUTORY AUDITORS’ REPORT
+ON THE CONSOLIDATED
+FINANCIAL STATEMENTS
+
+PARENT COMPANY
+FINANCIAL STATEMENTS
+Financial statements
+
+Notes to the parent company
+financial statements
+
+Total and partial transfers of assets,
+subsidiaries, and equity investments
+requiring statutory disclosure
+
+Five-year financial summary
+
+STATUTORY AUDITORS’ REPORT
+ON THE PARENT COMPANY
+FINANCIAL STATEMENTS
+
+Registration Document 2013
+
+ope svez
+
+173
+
+
+
+--- Page 3 ---
+
+174
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+6.1.1 Management report
+
+Data included in the income statement, statement of financial position
+and statement of cash flows for the year ended December 31, 2013
+are based on pro forma figures"), calculated as if SUEZ Environnement
+had been accounted for under the equity method as of January 1,
+2012. The basis used to prepare this pro forma data is disclosed in
+Section 6.1.1.7. to this report.
+
+In a persistently tough economic and regulatory environment — mainly
+in Europe - the GDF SUEZ Group delivered 2013 operating results
+in line with guidance while at the same time carrying out significant
+impairments of its assets (property, plant and equipment, goodwill
+and other intangible assets), thereby acknowledging in its financial
+statements the structural changes that are impacting two of its
+European businesses in particular: thermal power generation and
+underground natural gas storage.
+
+Revenues were down slightly by 0.8% on a reported basis to
+€81.3 billion compared with 2012 (organic growth of 3.0%). The
+negative impact of changes in the scope of consolidation and currency
+effects were partially compensated by higher gas and electricity sales
+in France due to broadly cold climatic conditions and the upturn in
+LNG sales as part of arbitrage transactions in early 2013.
+
+EBITDA, which amounted to €13.4 billion for the year, was down
+8.1% on a reported basis (organic decrease of 2.7%). This decrease
+in reported EBITDA was attributable to negative currency effects,
+the loss of earnings from entities sold as part of the Group's asset
+portfolio optimization program, lower electricity prices, the end of free
+carbon allowances and a decline in production in the Exploration -
+Production business. These adverse impacts were partially offset by
+the positive impact of the commissioning of new assets, cold climatic
+conditions in France, strong operating performances and the results
+of the Group's performance action plan.
+
+Current operating income declined by 13.8% on a reported basis
+(negative organic growth of 7.8%) to €7.2 billion, reflecting the drop in
+
+6.1.1.1. Revenues and earnings trends
+
+EBITDA and higher net additions to provisions, partially offset by lower
+depreciation and amortization charges.
+
+On a pro forma basis, net income/(loss) Group share totaled
+-€9.7 billion in 2013, down €11.3 billion year on year. In 2013, net
+income/(loss) Group share was mainly impacted by the impairment of
+the Group's assets in the consolidated financial statements.
+
+Net recurring income Group share which amounted to €3.4 billion
+was down 10.1% year on year. The decline in current operation
+income was partially offset by lower recurring financial expenses
+due to a more active debt management. Moreover the tax charge
+decreased despite a higher effective recurring tax rate.
+
+Cash generated from operations before income tax and working
+capital requirements, which amounted to €13.3 billion, was
+€1.3 billion lower than for the year ended December 31, 2012, due
+mainly to the drop in EBITDA.
+
+Net debt, which stood at €29.8 billion at end-December 2013,
+was €6.8 billion lower than one year earlier and mainly reflected the
+following items: (i) cash flow from operations (CFFO) of €10.4 billion
+less gross investments for the period of €7.5 billion; (ii) dividends of
+€3.5 billion paid to GDF SUEZ SA shareholders; (iii) the proceeds from
+the issue of hybrid notes by GDF SUEZ in early July 2013 (€1.7 billion);
+(iv) the impact of disposals carried out as part of the asset portfolio
+optimization program, including the sale of SPP (Slovakia) and 50% of
+the Portuguese energy businesses; and (v) the classification of certain
+French wind farms and the Group's stake in the Jirau dam as assets
+held for sale.
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 — % change (reported basis)
+Revenues 81,278 81,960 -0.8%
+EBITDA 13,419 14,600 8.1%
+Depreciation, amortization and provisions (6,053) (6,077)
+Net disbursements under concession contracts (40) (30)
+Share-based payments (85) (94)
+CURRENT OPERATING INCOME 7,241 8,399 -13.8%
+
+(1) Consolidated financial statements presented in Section 6.2 have been approved and authorised for issue by the Board of Directors as of
+February 26, 2014. They have been audited by Group's statutory auditors. The pro forma figures, including the SUEZ Environnement Company Group
+as an associate from January 1, 2012, have been reviewed by Group's statutory auditors and are subject to a specitic report.
+
+GDF swez Registration Document 2013
+
+
+--- Page 4 ---
+
+Financial statements
+
+Consolidated revenues for the year ended December 31, 2013
+amounted to €81.3 billion, down 0.8% compared with 2012. On
+an organic basis (excluding the impact of changes in the scope of
+consolidation and exchange rates), revenues moved up by 3.0%.
+
+Changes in the scope of consolidation had a negative €2.1 billion
+impact, mainly corresponding to disposals (sale by Energy Europe
+of SPP in Slovakia and by Energy International of Maestrale in Italy
+and Germany, and the disposal of the US thermal power plant of Red
+Hills and Astoria Energy, Phase |) and the change to equity method
+accounting following the loss of control of Senoko (Singapore), Al Hidd
+(Bahrain) and Sohar Power Company SAOG (Oman).
+
+EBITDA TRENDS
+
+6.1 MANAGEMENT REPORT
+
+Exchange rates had a negative €0.9 billion impact on Group revenues
+due to the appreciation of the euro against the other major currencies.
+
+Organic revenue performance varied across the Group's business
+lines: Global Gas & LNG and Infrastructures reported strong growth
+for the period, while revenues were up slightly at Energy Europe and
+Energy International and stable at Energy Services.
+
+EBITDA declined by 8.1% to €13.4 billion over the period. Excluding
+the impact of changes in exchange rates and in the scope of
+consolidation, the decrease in EBITDA came out at 2.7%.
+
+Pro forma, in millions of euros
+
+&
+s
+x
+&
+
+Changes in the scope of consolidation had a negative €479 million
+impact, in line with the impact on revenues. Additions to the scope of
+consolidation were few in number and not material.
+
+Changes in exchange rates had a negative €335 million impact due to
+the appreciation of the euro against the other major currencies (mainly
+the Brazilian real, US dollar and Norwegian krone).
+
+On an organic basis, EBITDA was down 2.7% or €367 million.
+Notwithstanding the impact of the Group's performance plan across
+the business lines, this decline reflected the following trends:
+
+» EBITDA for Energy International amounted to €3,871 million and
+was up 4.2% on an organic basis due to the positive contribution of
+newly-commissioned facilities, notably in Brazil, Peru and Thailand,
+higher prices in Australia and a good performance by the LNG
+business in the US. However, this was partially offset by lower
+figures reported in Chile, difficult market conditions in the UK and
+unfavorable climatic conditions in the US;
+
+v
+
+EBITDA for Energy Europe came in at €3,415 million, down 14.8%
+on an organic basis, due to the fall in electricity market prices and
+the end of free carbon allocations. These adverse impacts were
+only partially offset by cold climatic conditions in 2013 and the
+benefit of the gas price “catch-up” adjustments in France;
+
+%,
+D4
+a
+
+s
+a
+
+» EBITDA for Global Gas & LNG dropped €188 million or 8.2% on
+an organic basis to €2,124 million, chiefly as a result of the fall
+in production of the Exploration - Production business, due to
+production outages at the Snavhit and Njord fields in the first and
+second halves of 2013, respectively;
+
+» EBITDA for Infrastructures climbed 10.5% on an organic basis to
+€3,370 million, boosted by particularly favorable climatic conditions
+in 2013 and the annual review of infrastructure access tariffs, and
+despite lower storage capacity sales in France;
+
+» EBITDA for Energy Services advanced by 3.8% on an organic basis
+to €1,068 million, all its activities contributing to its performance.
+
+Current operating income declined 7.8% on an organic basis
+compared with 2012, to €7.2 billion. Net additions to provisions
+were higher while net depreciation and amortization expenses edged
+down due to impairment loss provisions taken on certain assets
+at December 31, 2012 and to the decrease in production in the
+Exploration - Production business, combined with an increase in the
+Book of Reserves. After taking into account changes in the scope of
+consolidation and exchange rates, current operating income for the
+period declined by 13.8% on a reported basis.
+
+Registration Document 2013 Gepr swez
+
+175
+
+
+--- Page 5 ---
+
+176
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+6.1.1.2. Business trends
+
+6.1.1.2.1 Energy International
+Dec. 31, 2013
+Latin Asia- North UK & Other
+Pro forma, in millions of euros Total America Pacific? America Europe” SAMEA®
+Revenues 14,833 3,617 2,990 4,094 3,552 580
+EBITDA 3,871 1,475 840 1,016 481 181
+Depreciation, amortization and provisions (1,232) (398) (245) (390) (190) (8)
+Share-based payments (4) - - - - -
+CURRENT OPERATING INCOME 2,635 1,076 595 626 291 173
+Dec. 31, 2012
+% change
+Latin Asia- North UK & Other (reported
+Pro forma, in millions of euros Total America Pacific | America Europe” SAMEA® basis)
+Revenues 16,044 3,827 3,059 4,412 4,056 689 -7.6%
+EBITDA 4,304 1,690 740 1,092 697 224 10.1%
+Depreciation, amortization and provisions (1,397) (462) (221) (444) (234) (26)
+Share-based payments (6) - - - - -
+CURRENT OPERATING INCOME 2,902 1,228 519 649 462 198 -9.2%
+
+(1) The Energy International business line also has a “headquarters” function, the costs for which are not broken down in the table above.
+(2) Energy international business line has been reorganized into five business areas (previously six). Asia-Pacific now includes Australia, formerly a separate business area,
+but no longer includes Pakistan which is now part of SAMEA (South Asia, Middle East and Africa). Turkey is now included in the UK & Other Europe business area. Prior
+
+year figures have been restated to reflect this new organizational structure.
+
+Energy International's revenues, at €14,833 million, fell 7.6% based
+on reported figures and climbed 2.9% on an organic basis. These
+changes reflect the impact of the asset portfolio optimization program
+(accounting for a decrease of €860 million) and exchange rate
+fluctuations (negative impact of €770 million, due to the strengthening
+of the euro against all major currencies). They also reflect continued
+organic growth driven by the commissioning of new power plants
+in Thailand and Latin America as well as power price increases
+implemented, primarily in Brazil, Thailand and Australia. Gas and
+electricity sales reached respectively 79.6 TWh and 220.4 TWh.
+
+EBITDA decreased by 10.1% on a reported basis to €3,871 million,
+but showed an underlying increase of €157 million or 4.2% after taking
+into account the negative impacts of divestments (€318 million) and
+foreign exchange movements (€272 million). This increase reflects the
+impact of the above mentioned newly commissioned plants and price
+increases, as well as the strong performance of the LNG business in
+the US and the impacts of the performance plan.
+
+Current operating income, at €2,635 million, decreased by 9.2% on
+a reported basis but increased by €143 million or 5.8% on an organic
+basis, reflecting the increase in EBITDA partly offset by additional
+depreciation charged against newly commissioned plants.
+
+GDF swez Registration Document 2013
+
+Latin America
+
+Revenues for the Latin America region totaled €3,617 million,
+down €209 million on a reported basis but up 3.0% on an organic
+basis compared to 2012. In Brazil, higher sales resulted from the
+full commissioning of the Estreito hydro power plant (1,090 MW)
+combined with an increase in average sales prices, primarily due to
+indexation linked to inflation. Peru trended upwards thanks to the
+commissioning of the Chilca combined cycle plant (270 MW) and
+the Ilo thermo plant (660 MW), as well as a rise in demand from
+customers. In Chile, revenues decreased following a decline in LNG
+sales as supply agreements gradually expired.
+
+Electricity sales increased by 1.5 TWh to 54.3 TWh, while gas sales
+were down 3.3 TWh, particularly in Chile, coming in at 11.4 TWh.
+
+EBITDA totaled €1,475 million, representing a decrease of €44 million
+or 2.9% on an organic basis, mainly reflecting:
+
+> negative trends in Chile, mostly linked to coal plants’ (CTA/CTH)
+forced outage during January 2013 and to the end of LNG high
+margin gas supply agreements;
+
+
+--- Page 6 ---
+
+Financial statements
+
+> a lower performance in Brazil, mostly due to adverse hydrological
+conditions, partly offset by the commissioning of the final units at
+Estreito and an increase in average prices for bilateral sales, mainly
+due to inflation;
+
+> positive trends in Peru, mainly due to the commissioning of the
+Chilca combined cycle facility and of the llo thermo plant.
+
+Current operating income amounted to €1,076 million, down
+€14 million or 1.2% on an organic basis. A favorable change in the
+LNG terminal's depreciation profile in Chile in line with the end of high
+margin gas sales contracts and the start of re-gasification services
+partially offset the downturn in EBITDA.
+
+Asia-Pacific
+
+Revenues for the region totaled €2,990 million, down 2.3% or
+€69 million on a reported basis, reflecting the change of consolidation
+method for Senoko in Singapore following a change in control.
+However, revenues showed strong organic growth of 18.6% or
+€469 million, primarily attributable to the commissioning of power
+generation assets in Thailand (Gheco One and TNP2 in August 2012
+and December 2012, respectively), as well as to higher electricity
+prices in Australia following the introduction of the carbon emissions
+reduction scheme on July 1, 2012 and a stronger performance from
+the Australian retail business.
+
+Electricity sales decreased by 0.8 TWh to 42.8 TWh, reflecting the
+change of consolidation method for Senoko (negative impact of
+2.7 TWh) and a decrease of 1.2 TWh in Australia, offset by an increase
+of 3.1 TWh in Thailand. Natural gas sales increased by 1.0 TWh to
+5.9 TWh.
+
+EBITDA came in at €840 million, up €101 million (13.6%) based on
+reported figures or €187 million (28.5%) on an organic basis. Organic
+EBITDA growth mainly results from:
+
+» a strong performance in Thailand, driven by increases in both
+volumes (partly related to the maintenance cycle) and prices, and
+by the commissioning of Gheco One and TNP2;
+
+» higher prices in Australia and an improved performance from the
+retail business, with higher margins and more accounts.
+
+Current operating income amounted to €595 million, up €136 million
+or 29.7% on an organic basis, reflecting EBITDA trends and the start
+of depreciation at the recently commissioned plants of Gheco One
+and TNP2.
+
+6.1 MANAGEMENT REPORT
+
+North America
+
+Revenues for the North America region totaled €4,094 million,
+representing a decrease of 7.2% based on reported figures and an
+increase of 0.7% on an organic basis. This resulted from a strong
+performance in the gas businesses and an improved operational
+performance in Mexico, but was tempered by a fall in US wholesale
+electricity pricing and compression in the US retail market.
+
+Electricity sales increased by 2.0 TWh to 74.6 TWh on an organic
+basis, after adjusting for divestments within the scope of the asset
+portfolio optimization program, which reduced volumes by 6.1 TWh.
+Natural gas sales "!, excluding intra-group transactions, fell by
+10.9 TWh to 39.7 TWh, mainly due to fewer overall LNG cargoes
+combined with more LNG diversions (intra-group sales).
+
+EBITDA came in at €1,016 million, up 3.2% on an organic basis. The
+strong performance from the LNG (improved margins versus 2012)
+and Mexican businesses was partially offset by a decline in the overall
+performance of the US power and retail businesses, which were
+primarily impacted by mild weather conditions.
+
+Current operating income totaled €626 million, representing an
+increase of 5.7% on an organic basis, chiefly due to the EBITDA
+improvement.
+
+UK & Other Europe
+
+Revenues for the region totaled €3,552 million, representing a
+decrease of 5.8% on an organic basis. This primarily resulted from the
+lower utilization of assets in Spain and Portugal and a drop in sales
+volumes in the UK retail business.
+
+Electricity sales amounted to 35.9 TWh, representing a decrease of
+4.6 TWh. This is mainly due to lower volumes in Spain and Portugal
+and in the UK retail business. It also reflects a reduction of 1.6 TWh
+due to the asset portfolio optimization program in Continental Europe
+and to the closure of certain power plants in the United Kingdom. Gas
+sales were 22.5 TWh, down 4.1 TWh due to lower volumes for the UK
+retail business and Turkish operations.
+
+EBITDA of €481 million fell 9.5% on an organic basis. Power
+production assets in the United Kingdom continued to face
+challenging market conditions (particularly gas-fired plants) and were
+also affected both by the end of free carbon allowances and by
+the introduction of a carbon floor tax. These impacts were partially
+mitigated by the implementation of cost-reduction actions, a favorable
+one-off compensation payment and better dark spreads.
+
+Current operating income totaled €291 million, representing a
+decrease of 20.9% on an organic basis. This resulted from lower
+EBITDA and higher provision balances, partially offset by a fall in
+depreciation due to the decommissioning of the Teesside power plant.
+
+(1) Sales of natural gas (including intra-group sales) came out 5.8 TWh lower at 71.4 TWh, as a result of fewer LNG cargoes.
+
+Registration Document 2013 Ge sez
+
+177
+
+
+--- Page 7 ---
+
+178
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+South Asia, Middle East & Africa
+
+Revenues for the region totaled €580 million, up 7.3% on an organic
+basis. This growth is mainly related to higher revenues from the
+operating and maintenance (O&M) activities of new power plants in
+Oman (Barka 3 and Sohar 2) and in Saudi Arabia (Riyadh IPP).
+
+EBITDA came in at €181 million, down €43 million on a reported
+basis, but representing an increase of €19 million or 12% on an
+
+6.1.1.2.2 Energy Europe
+
+organic basis. This reported decrease takes into account the change
+in consolidation method for Al Hidd and Sohar 1 power plants, which
+have been accounted for under the equity method since their partial
+disposals in May 2012 and May 2013, respectively. The underlying
+organic change is mainly related to increased O&M activities.
+
+Current operating income totaled €173 million, an increase of
+€37 million or 27.7% on an organic basis, reflecting improved EBITDA
+as well as lower provisions.
+
+Dec. 31, 2013 Dec. 31, 2012
+Central Southern Central Southern % change
+
+Western & Eastern Western & Eastern (reported
+Pro forma, in millions of euros Total Europe Europe” Total Europe Europe” basis)
+Revenues 43,479 36,355 7,124 44,418 35,804 8,614 -2.1%
+EBITDA 3,415 2,967 560 4,180 3,429 880 -18.3%
+Depreciation, amortization and provisions (1,950) (1,546) (399) (1,670) (1,200) (468)
+Share-based payments (14) (11) - (16) (13) -
+CURRENT OPERATING INCOME 1,452 1,409 161 2,494 2,215 413 -41.8%
+(1) Of which business line corporate function costs.
+(2) Other Europe has been renamed Southem & Easter Europe.
+VOLUMES SOLD BY THE BUSINESS LINE
+InTWh Dec. 31, 2013 Dec. 31,2012 — % change (reported basis)
+Gas sales 684 658 +3.9%
+Electricity sales 187 193 -3.6%
+
+The contribution of Energy Europe to Group revenues came in at
+€43,479 million, down 2.1% year on year. Gas sales amounted to
+684 TWh, including 126 TWh to key accounts. Electricity sales
+amounted to 187 TWh. At end-December 2013, Energy Europe had
+over 14.2 million individual customers for gas and almost 5.3 million
+electricity customers.
+
+The business line’s EBITDA for the period fell by 18.3% to
+€3,415 million. The period was adversely impacted by a fall in selling
+prices on the electricity market, outages at the Doel 3 and Tihange 2
+nuclear power plants in Belgium until the beginning of June 2013"),
+the end of free carbon allocations and by the sale of SPP (Slovakia)
+in early 2013. Climatic conditions, the price “catch-up” adjustments
+in France for 2011 and 2012 and performance efforts only partially
+offset these impacts.
+
+The 41.8% drop in current operating income reflects the decline in
+EBITDA as well as net additions to provisions in the Central Western
+Europe (CWE) region.
+
+Central Western Europe (CWE)
+
+The contribution of CWE to Group revenues amounted to
+€36,355 million, edging up 1.5% year on year, as the strong
+performance in France more than offset sluggish sales in Belgium.
+
+CWE's EBITDA declined by 13.5 % on a reported basis, primarily
+due to the overall fall in electricity market prices in Europe, the end of
+free carbon allocations and lower margins on midstream gas, partially
+offset by favorable climatic conditions, the gas price “catch-up”
+adjustments in France and performance efforts.
+
+The 36.4% drop in current operating income reflects the decline
+in EBITDA and higher net additions to provisions chiefly on certain
+contracts.
+
+(1) The year-on-year impact of outages at the Doel 3 and Tihange 2 nuclear power plants in Belgium is slightly negative. These lasted 24 weeks at Doel 3
+and 14 weeks at Tihange 2 in 2012 and continued through early June 2013 at both plants.
+
+GDF swez Registration Document 2013
+
+
+--- Page 8 ---
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+CWE FRANCE
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 % change (reported basis)
+Revenues 17,669 17,183 42.8%
+EBITDA 1,523 1,175 +29.6%
+Depreciation, amortization and provisions (509) (470)
+
+Share-based payments (4) (5)
+
+CURRENT OPERATING INCOME 1,010 700 444.3%
+VOLUMES SOLD IN FRANCE
+
+In TWh Dec. 31, 2013 Dec. 31,2012 % change (reported basis)
+Gas sales 281 288 -2.7%
+Electricity sales 52 50 +2.8%
+(1) Business line contribution data.
+
+FRANCE CLIMATIC CORRECTION
+
+In TWh Dec. 31, 2013 Dec. 31, 2012 Total change in TWh
+Climate adjustment volumes
+
+(negative figure = warm climate, positive figure = cold climate) 17.3 (0.9) +18.2
+
+CWE France's contribution to Group revenues amounted to
+€17,669 million for the year to December 31, 2013, up €486 million
+compared to the previous period.
+
+Natural gas sales declined by 7.7 TWh year on year and the more
+favorable climatic conditions of 2013 could not completely offset the
+impacts of customer losses and energy savings. GDF SUEZ still holds
+around 83% of the retail market and around 51% of the business
+market.
+
+Electricity sales increased by 1.5 TWh thanks to higher sales to direct
+customers and to the market as a result of the increase in electricity
+production. This grew to 32.6 TWh (31.5 TWh in 2012) thanks to the
+
+commissioning of new wind farms and an exceptionally high level of
+hydropower in 2013, partly offset by a fall in production at gas-fired
+power plants (unfavorable market conditions).
+
+EBITDA grew by €348 million due mainly to the very favorable climatic
+conditions in 2013 (positive impact on gas sales) and the gas price
+“catch-up” adjustments in France which had a positive €150 million
+impact in 2013. These positive factors were partly offset by a fall in
+electricity market prices.
+
+Current operating income came out €310 million higher, in line with
+the increase in EBITDA.
+
+CWE BENELUX & GERMANY
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 % change (reported basis)
+Revenues 12,555 14,210 -11.6%
+EBITDA 1,357 1,883 -28.0%
+Depreciation, amortization and provisions (794) (665)
+
+Share-based payments © ©)
+
+CURRENT OPERATING INCOME 557 1,212 -54.2%
+
+Revenues from Benelux & Germany amounted to €12,555 million, a
+drop of 11.6% compared to 2012. Electricity volumes sold amounted
+to 96.0 TWh, which was down 7% due to the slowdown of sales in
+Belgium. Electricity production fell by 1.7 TWh to 64.7 TWh due to
+
+unfavorable spreads and outages at coal-fired plants, partially offset
+by much lower outages at nuclear power plants at year end:
+
+> electricity sales in Belgium and Luxembourg dropped by almost
+15% in volume terms to 72.1 TWh, due mainly to a fall in market
+sales, which were adversely impacted by the closure of old coal-
+fired plants, and to customer losses;
+
+Registration Document 2013 GDF svez
+
+
+--- Page 9 ---
+
+180
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+> electricity sales in the Netherlands advanced 7.6% to 9.9 TWh,
+driven by higher sales to individual and business customers;
+
+» electricity sales in Germany surged by 50% to 14.1 TWh on the
+back of higher sales to the market and to business customers.
+
+Gas volumes sold increased 0.8%, or 1.0 TWh, driven by a positive
+climatic effect and stronger market sales that offset the loss of
+
+Southern & Eastern Europe
+
+Pro forma, in millions of euros
+
+Revenues
+EBITDA
+
+Depreciation, amortization and provisions
+
+CURRENT OPERATING INCOME
+
+Southern & Eastern Europe region revenues dropped 17.3% due to
+lower sales in Italy and the disposal of SPP (Slovakia).
+
+EBITDA for Southern & Eastern Europe slumped by 36.3% due
+to the disposal of SPP (Slovakia) at the beginning of 2013 and
+lackluster performances in Italy and Poland due to a tough regulatory
+
+6.1.1.2.3 Global Gas & LNG
+
+Pro forma, in millions of euros
+
+Revenues
+
+Total revenues (incl. intra-group transactions)
+EBITDA
+
+Depreciation, amortization and provisions
+
+Share-based payments
+
+CURRENT OPERATING INCOME
+
+Global Gas & LNG's contribution to Group revenues for the year
+ended December 31, 2013 amounted to €5,685 million, up 19.5%
+or €926 million year on year. Organic growth came in at 22.3% or
+€1,033 million.
+
+The contribution to revenues was driven by:
+
+> growth of 19 TWh in external sales in LNG business, with volumes
+amounting to 79 TWh for the year, representing 87 cargoes, of
+which 67 shipped to Asia (2012: 60 TWh for 66 cargoes, of which
+39 shipped to Asia), and the impact of higher gas selling prices in
+Europe and the arbitrage operations in Asia and Europe in early
+2013;
+
+> higher Exploration & Production hydrocarbon production
+contribution (45.4 Mboe at end-December 2013 versus 43.6 Mboe
+
+individual and business customers in Belgium and lower sales to key
+accounts in Germany and the Netherlands.
+
+EBITDA for Benelux & Germany fell back by 28% under the impact
+of lower electricity prices and unfavorable spreads, the end of free
+carbon allocations and a sluggish performance in Germany.
+
+Current operating income declined by even more than EBITDA as a
+result of higher net additions to provisions chiefly on certain contracts.
+
+Dec. 31, 2013 Dec. 31,2012 — % change (reported basis)
+7,124 8,614 -17.3%
+560 880 -36.3%
+(399) (467)
+161 413 -61.1%
+
+environment, and notwithstanding a strong performance from
+Romania.
+
+The drop in current operating income largely tracked the decline
+in EBITDA although the decrease was offset somewhat by lower net
+additions to depreciation, amortization and provision charges.
+
+Dec. 31, 2013 Dec. 31,2012 — % change (reported basis)
+5,685 4,759 +19.5%
+8,445 7,945 +6.3%
+2,124 2,377 -10.6%
+
+(1,182) (1,255)
+(2) (3)
+940 1,119 -16.0%
+
+at end-December 2012"), albeit with no impact on revenues due
+to unfavorable movements in the oil-gas mix.
+
+EBITDA for the Global Gas & LNG business line amounted to
+€2,124 million at December 31, 2013, compared with €2,377 million
+at the end of December 2012, down €253 million or 10.6% on a
+reported basis. It dropped by €188 million on an organic basis, due
+mainly to the decline in production in the Exploration - Production
+business, notably due to outages carried out at the Snovhit and Njord
+fields in the first and second halves of 2013, respectively.
+
+Current operating income came in at €940 million for the year, down
+16% or €179 million on a reported basis, due to lower depreciation
+charges as a result of the abovementioned fall in production, combined
+with the upward revaluation of the Book of Reserves.
+
+(1) Total production : 51.9 Mboe at end-December 2013 versus 54.9 Mboe at end-December 2012 (lower internal sales counterbalanced by higher
+
+external sales).
+
+GDF swez Registration Document 2013
+
+
+--- Page 10 ---
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+6.1.1.2.4 Infrastructures
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 % change (reported basis)
+Revenues 2,574 2,031 +26.7%
+Total revenues (incl. intra-group transactions) 6,792 6,216 +9.3%
+EBITDA 3,370 3,049 +10.5%
+Depreciation, amortization and provisions (1,299) (1,239)
+
+Share-based payments (8) (6)
+
+CURRENT OPERATING INCOME 2,063 1,805 +14.3%
+
+Total revenues for the Infrastructures business line, including intra-
+group services, amounted to €6,792 million in 2013, an increase of
+9.3% on 2012. This was primarily driven by an increase in distribution
+and transportation infrastructure access tariffs in an environment
+marked by lower storage capacity sales in France and by colder
+climatic conditions when compared to 2012.
+
+Full-year 2013 revenue trends reflect:
+
+» an increase in volumes distributed by GrDF due to colder climatic
+conditions in 2013 than the previous year (up 24.0 TWh);
+
+» the annual review of distribution infrastructure access tariffs (8.0%
+increase on July 1, 2012, and 4.1% increase on July 1, 2013);
+
+» the annual review of transport infrastructure access tariffs on April 1,
+2012 (6% increase) and April 1, 2013 (8.3% increase).
+
+6.1.1.2.5 Energy Services
+
+In this climatic and regulatory context, the business line's contribution
+to Group revenues in 2013 was €2,574 million, up 26.7% year on
+year, reflecting:
+
+> growth in transportation, storage and terminal services for third
+parties against the backdrop of an increasingly deregulated market;
+
+> higher gas purchase-sale transactions to maintain storage
+performance.
+
+EBITDA for the Infrastructures business line amounted to
+€3,370 million for the period, up 10.5% compared to 2012.
+
+All of the business line's activities contributed to the growth
+performance, except for underground natural gas storage which was
+held back by lower prices and smaller volumes.
+
+Current operating income came in at €2,063 million, up 14.3%, with
+net depreciation, amortization and provision charges remaining stable.
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 % change (reported basis)
+Revenues 14,707 14,707 -%
+EBITDA 1,068 1,018 +5.0%
+Depreciation, amortization and provisions (317) (317)
+Net disbursements under concession contracts (38) (30)
+Share-based payments 9) (11)
+CURRENT OPERATING INCOME 705 660 +6.8%
+
+Revenues for the Energy Services business line were stable year on
+year at €14,707 million on a reported basis.
+
+On an organic basis, they edged down 0.1% or €15 million, reflecting:
+
+» a €24 million decrease in services activities in France, reflecting
+the impact of the expiration of gas cogeneration contracts and the
+slowdown in construction projects;
+
+» a €26 million decline in installation activities in the Netherlands;
+
+» a €53 million drop in installation and services activities in the UK,
+Switzerland, Austria and Spain where market conditions remain
+very tough;
+
+» lower levels of Engineering business (down €9 million), reflecting
+cuts in investment in the European energy sector.
+
+These items were partially offset by:
+> €31 million growth in installation activities in France;
+
+> growth in installation activities in Belgium (up €23 million), albeit at
+a lower rate than in 2012;
+
+> brisk business in installation and services activities in Germany (up
+€31 million);
+
+> a €9 million rise in the heating networks activity in France, due
+primarily to the positive impact of rate increases and cold climatic
+conditions in the first six months of the year, and despite the
+expiration of gas cogeneration contracts with CPCU.
+
+Registration Document 2013 GDF svez
+
+181
+
+
+--- Page 11 ---
+
+182
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+EBITDA for Energy Services grew 5.0% (€50 million) on a reported
+basis to €1,068 million.
+
+Organic growth came out at 3.8%, or €39 million, despite the following
+adverse developments:
+
+» the expiration of gas cogeneration contracts in France (negative
+impact of €60 million);
+
+» narrower margins, especially in engineering and local and regional
+installation markets in France and Belgium;
+
+> negative volume impacts, especially for installation activities in
+Spain and the Netherlands.
+
+These items were more than offset by:
+
+> cold climatic conditions in France in the first quarter of 2013;
+
+» cost-cutting measures — especially on overheads — and measures
+to boost operating performance;
+
+» the positive impact of the French tax credit to promote
+competitiveness and employment (Crédit d’impét Compéti
+Emploi);
+
+» the positive impact of the commissioning of new heating networks
+and services in France.
+
+Current operating income amounted to €705 million, compared with
+€660 million in 2012 and mirrors the growth in business line EBITDA.
+Net additions to depreciation, amortization and provisions were stable
+year on year.
+
+6.1.1.2.6 Other
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31,2012 — % change (reported basis)
+EBITDA (430) (328) -31.2%
+Depreciation, amortization and provisions (76) (199)
+
+Share-based payments (48) (64)
+
+CURRENT OPERATING INCOME/(LOSS) (554) (581) 44.6%
+
+EBITDA for the Other business line came in at a negative €430 million
+and was down on 2012, largely owing to the settlement of a legal
+dispute.
+
+6.1.1.3. Other income statement items
+
+However, current operating income/(loss) for 2013 came in at a
+similar level to 2012 due to the reversal of a provision relating to this
+same dispute.
+
+% change
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31, 2012 (reported basis)
+Current operating income 7,241 8,399
+Mark-to-market on commodity contracts other than trading instruments (225) 105
+Impairment losses (14,947) (2,387)
+Restructuring costs (288) (263)
+Changes in scope of consolidation (41) 110
+Other non-recurring items 536 161
+Income/(loss) from operating activities (7,724) 6,124 (13,848)
+Net financial income/(loss) (1,754) (2,341) 586
+Income tax expense (620) (1,884) 1,264
+Share in net income of associates 513 480 33
+NET INCOME/(LOSS) (9,585) 2,380 (11,965)
+Of which non-controlling interests 152 836 (684)
+Of which net income/(loss) Group share (9,737) 1,544 (11,281)
+
+Income/(loss) from operating activites amounted to -€7,724
+million, down on the end-2012 figure mainly due to the drop in current
+operating income and the impact of impairment losses taken against
+goodwill, property, plant and equipment, and intangible assets.
+
+GDF swez Registration Document 2013
+
+At December 31, 2013, the Group recognized impairment losses
+against goodwill for €5,775 million, and against property, plant and
+equipment, and intangible assets for €9,103 million, chiefly concerning
+the Energy Europe and Infrastructures business lines.
+
+
+--- Page 12 ---
+
+Financial statements
+
+The impairment losses recognized against the Energy Europe
+business line can be analyzed as follows:
+
+» €4,438 million relating to goodwill (which consisted mainly of
+€3,862 million on the Central Western Europe CGU (CWE),
+€252 million on the Southern Europe CGU and €264 million on the
+Eastern Europe CGU);
+
+v
+
+€5,670 million relating to property, plant and equipment, and
+intangible assets (which consisted mainly of €3,765 million on
+thermal power plants in Germany, the Netherlands, Belgium,
+Luxemburg and France (CWE), and €1,013 million relating to power
+generation assets in Italy, with the balance against other thermal
+power generation assets in Europe.
+
+These impairment losses are primarily attributable to though economic
+conditions in Europe, which are durably affecting our midstream and
+downstream margins and the profitability of our power generation
+assets. While these assets were originally designed to be operated a
+minima as mid merit power plants, they are now increasingly used as
+backup capacities within the electricity system.
+
+Impairment losses on the Infrastructures business line concern
+underground natural gas storage activites for a total of €1,250 million
+relating to goodwill, and storage facilities in France, Germany and the
+UK for €1,896 million.
+
+These impairment losses reflect the durable decline in the profitability
+of the storage activities in the European market, which is notably due
+to the decrease of the seasonal spreads levels.
+
+In recognizing these impairment losses, GDF SUEZ has acknowledged
+the major shift in Europe’s energy sector, in which entire asset
+categories are moving towards new uses aimed at guaranteeing the
+electricity and gas supply.
+
+At December 31, 2012, the Group had recognized impairment losses
+in an amount of €2,387 million, primarily relating to assets carried
+on the books of GDF SUEZ Energy Europe and GDF SUEZ Energy
+International.
+
+Income/(loss) from operating activities was also affected by:
+
+» changes in the fair value of commodity instruments that had
+a negative impact of €225 million on income from operating
+activities (reflecting the impact of transactions not eligible for
+hedge accounting) compared with a positive impact of €105 million
+at December 31, 2012. This was mainly due to a negative price
+effect related to changes in the forward prices of the underlying
+commodities over the period, coupled with the negative
+impact of unwinding positions with a positive market value at
+December 31, 2012;
+
+v
+
+restructuring costs of €288 million, compared with €263 million the
+previous year;
+
+v
+
+“Changes in scope of consolidation” (gains and losses on the
+disposal of consolidated equity interests or on remeasurement
+of previously held interests in accordance with IFRS 3) which
+
+6.1 MANAGEMENT REPORT
+
+amounted to a negative €41 million at December 31, 2013,
+compared with €110 million at December 31, 2012;
+
+> “Other non-recurring items” for a positive €536 million (mainly
+relating to the reversal of a provision for back-end of the nuclear fuel
+cycle in Belgium), compared with €161 million for the year ended
+December 31, 2012 (mainly corresponding to income relating
+to the reduction of a penalty within the scope of the “MEGAL”
+proceedings).
+
+The Group reported a net financial income/(loss) of €1,754 million
+for the year ended December 31, 2013, compared with an expense
+of €2,341 million for the year ended December 31, 2012. This
+improvement was mainly the result of a positive interest rate impact
+on net debt and the reversal of positive mark-to-market impacts at
+the end of 2013 which were significantly negative at end-2012 (chiefly
+as a result of the increase in the value of the embedded derivative in
+International Power convertible US bonds following movements in the
+share price in the wake of the Group's offer to buy the remaining 30%
+of its share capital).
+
+The effective recurring tax rate was 1.4 points higher than in 2012,
+mainly as a result of:
+
+> capping of the net deferred tax asset position in 2013 for certain tax
+consolidation groups in Europe;
+
+» the 3% tax on dividends payout by French companies;
+
+> offset by recognition in the first-half of 2012 of one-off deferred tax
+income, including €90 million on the Australian power generation
+business following changes in tax legislation.
+
+Income from associates was €33 million higher than in the year ended
+December 31, 2012.
+
+Net income attributable to non-controlling interests amounted to
+€152 million, down on the previous year, as a result of the acquisition
+of the 30% non-controlling interest in International Power and the
+impact of impairment losses.
+
+6.1.1.4. Changes in net debt
+
+Net debt, which stood at €29.8 billion at year-end 2013, was
+€6.8 billion lower than one year earlier and mainly reflected the
+following items: (i) cash generated from operations before income
+tax and working capital requirements of €13.3 billion less gross
+investments for the period of €7.5 billion; (ii) dividends of €3.5 billion
+paid to GDF SUEZ SA's shareholders; (iii) the cash received on the
+issue of hybrid notes by GDF SUEZ in early July 2013 (€1.7 billion);
+(iv) the impact of disposals carried out as part of the asset portfolio
+optimization program, including the sale of SPP (Slovakia) and of 50%
+of the Portuguese energy businesses; and (v) the reclassification of
+certain French wind farms and the Group's stake in the Jirau dam as
+assets held for sale.
+
+Registration Document 2013 Ge sez
+
+183
+
+
+--- Page 13 ---
+
+184
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+Changes in net debt break down as follows:
+Pro forma, in millions of euros
+
+Maintenance investments
+
+[HE Development investments
+HE Financial investments
+
+%,
+Oy Mey
+97 %p
+on
+
+(1) The difference between the reported debt of €43,914 million and the pro forma debt of €36,646 million corresponds to the impact of the change in
+
+the consolidation méthod for SUEZ Environnement.
+
+The net debt to EBITDA ratio amounted to 2.22 at December 31, 2013. The ratio is calculated as follows:
+
+Pro forma, in millions of euros Dec. 31, 2013 Dec. 31, 2012
+Net debt 29,840 36,646
+EBITDA 13,419 14,600
+Net debt / EBITDA ratio 2.22 2.51
+
+6.1.1.4.1 Cash generated from operations
+before income tax and working capital
+requirements
+
+Cash generated from operations before income tax and working
+capital requirements amounted to €13,307 million for the year ended
+December 31, 2013, down €1,283 million compared with 2012
+(€14,590 million).
+
+This fall was in line with the EBITDA performance.
+
+6.1.1.4.2 Change in working capital requirements
+
+Working capital requirements (€53 million) has marginaly impacted the
+net debt.
+
+Gor swez Registration Document 2013
+
+6.1.1.4.3 Net investments
+
+Investments in 2013 amounted to €7,508 million and included:
+
+» financial investments of €572 million, mainly relating to acquisitions
+in the Energy Services business line (notably Balfour Beatty
+Workplace);
+
+» development investments totaling €4,358 million. Most of this
+amount was invested by the Energy International business line in
+Brazil and by Exploration - Production (in the B3G business line);
+
+» maintenance investments for an amount of €2,578 million.
+
+Disposals amounted to €2,410 million and primarily involved the sale
+of SPP (Slovakia) for €1,115 million (disposal price less expenses
+and an outstanding balance payable in 2015) and of 50% of the
+Portuguese energy businesses sold for an amount of €321 million net
+of expenses.
+
+
+--- Page 14 ---
+
+Financial statements
+
+Capital expenditure breaks down as follows by business line:
+
+Pro forma, in millions of euros
+
+6.1 MANAGEMENT REPORT
+
+2,500 -—
+lll Financial investments
+Development investments
+203 ME Maintenance investments
+2,000
+1,500 }- 129 867
+1,598 val
+1,000 — Ges a
+500 }-— 856 1,095
+343
+| | -
+58
+0 L \ 114 \ I | — |
+4 Bal
+Energy Energy Global Infrastructures Energy Other
+International Europe Gas & LNG Services
+
+6.1.1.4.4 Share buybacks and dividends
+
+Share buybacks and dividends in 2013 amounted to €4,351 million
+and included:
+
+» €3,539 million paid by GDF SUEZ SA to its shareholders, consisting
+of (i) the outstanding balance on the 2012 dividend (i.e., €0.67 per
+share) paid in April 2013, and (ii) an interim dividend in respect of
+2013 (i.e., €0.83 per share) paid in November 2013;
+
+» the remaining sums correspond to dividends paid by various
+subsidiaries to non-controlling interests, withholding tax and share
+buybacks.
+
+6.1.1.4.5 Issuance of hybrid notes
+
+On July 3, 2013, GDF SUEZ SA issued €1,657 million in deeply-
+subordinated perpetual (or hybrid) notes, which fulfill the definition of
+equity instruments under IFRS.
+
+6.1.1.4.6 Net debt at December 31, 2013
+
+Excluding amortized cost but including the impact of foreign currency
+derivatives, at December 31, 2013, 67% of net debt was denominated
+in euros, 15% in US dollars and 5% in pounds sterling.
+
+Including the impact of financial instruments, 81% of net debt is at
+fixed rates.
+
+The average maturity for the Group's net debt is 9.4 years.
+
+At December 31, 2013, the Group had total undrawn confirmed credit
+lines (which may be used as back up lines for commercial paper
+programs inter alia) of €13.5 billion.
+
+6.1.1.5. Other items in the statement of financial position
+
+Impact of equity-
+
+accounting
+
+for SUEZ
+Reported basis, in millions of euros Dec. 31, 2013 Dec. 31, 2012 Environnement Net change
+Non-current assets 106,775 145,109 (16,469) (21,865)
+of which goodwill 20,697 30,035 (3,220) (6,118)
+of which intangible assets and PP&€E, net 72,323 99,617 (12,468) (14,827)
+of which investments in associates 4,636 2,961 1,400 274
+Current assets 52,836 60,339 (7,819) 316
+Shareholders' equity 53,490 71,303 (4,676) (13,136)
+Provisions 16,179 17,551 (1,832) 461
+Borrowings 39,914 57,209 (10,113) (7,182)
+Other liabilities 50,027 59,385 (7,666) (1,691)
+
+Registration Document 2013 GDF svez
+
+185
+
+
+--- Page 15 ---
+
+186
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+The following comments refer to the column entitled “Net change” in
+the above table. The impacts of accounting for SUEZ Environnement
+under the equity method are disclosed in Section 6.1.1.7 of this report.
+
+The carrying amount of property, plant and equipment and
+intangible assets amounted to €72.3 billion, a decrease of €14.8
+billion compared to December 31, 2012. This decrease was primarily
+the result of impairment losses (negative €9.1 billion impact),
+depreciation and amortization (negative €5.9 billion impact), translation
+adjustments (negative €3.1 billion impact) and the negative €3.3 billion
+from reclassifying certain assets as held for sale, partly offset by the
+positive impact of investments for the period totaling €7.2 billion.
+
+Goodwill decreased by €6.1 billion to €20.7 billion, including
+€5.8 billion relating to impairment losses recognized during the period.
+
+Investments in associates amounted to €4.6 billion, up €0.3 billion,
+mainly attributable to Energy International (SAMEA).
+
+Total equity amounted to €53.5 billion, down €13.1 billion compared
+to December 31, 2012, essentially reflecting the net loss for the period
+(negative €8.9 billion), the payment of cash dividends to GDF SUEZ
+SA‘s shareholders (negative €3.5 billion impact).
+
+Provisions increased by €0.5 billion due to the combined impact of
+net additions for the period, unwinding discounts on certain provisions
+(positive €0.6 billion impact) and the release of surplus provisions
+(negative €0.6 billion impact).
+
+6.1.1.6. Reconciliation of reported income to pro forma income
+
+Dec. 31, 2013 Dec. 31, 2012 Change - SUEZ Change - Change -
+In millions of euros (consolidated) (consolidated) Environnement" proforma” _ pro forma (%) ©
+Revenues 89,300 97,038 (7,055) (682) -0.8%
+EBITDA 14,775 17,026 (1,069) (1,181) -8.1%
+Current operating income 7,828 9,520 (634) (1,158) -13.8%
+Income/(loss) from operating activities (6,695) 7,133 20 (13,848) -226.1%
+Net financial income/(loss) (1,977) (2,775) 211 586 -25.1%
+Income tax expense (727) (2,049) 58 1,264 -67.1%
+Share in net income of associates 490 433 24 33 +6.9%
+NET INCOME /(LOSS) (8,909) 2,743 313 (11,965) -502.8%
+Of which non-controlling interests 380 1,199 (136) (684) -81.8%
+Of which net income/(loss) Group share (9,289) 1,544 448 (11,281) -730.8%
+
+(1) The figures in this column were obtained from the difference between the reconciliation columns “Exclusion of SUEZ Environnement group contribution and presentation
+as an associate” and “intra-group and others” of the 2013 and 2012 income statement (see Section 6.1.1.7).
+
+(2) The pro forma changes are obtained from the difference between the 2013 and 2012 income statements, adjusted for the impact of the SUEZ Environnement change.
+
+(3) The pro forma percentage changes are obtained from the 2012 consolidated total, adjusted for the 2012 SUEZ Environnement change (see Section 6.1.1.7).
+
+Consolidated revenues for the year totaled €89.3 billion. The difference
+between this figure and 2012 revenues relates essentially to the loss
+of control of SUEZ Environnement. The residual pro forma change
+(negative 0.8%) is presented in Section 6.1.1.1 of this report.
+
+The consolidated versus pro forma negative changes in EBITDA and
+current operating income of €2.2 billion and €1.7 billion, respectively,
+are attributable to:
+
+» the loss of control of SUEZ Environnement (as for revenues);
+
+» the pro forma decrease of 8.1% and 13.8%, respectively, detailed
+in Section 6.1.1.1.
+
+The impact of the loss of control of SUEZ Environnement on “income/
+(loss) from operating activities”, “net financial income/(loss)”, “income
+
+tax expense” and “share in net income of associates” is non material.
+
+Changes relating to other items of the pro forma income statement
+are detailed in Section 6.1.1.3.
+
+GDF swez Registration Document 2013
+
+6.1.1.7. Pro forma financial statements
+including the SUEZ Environnement
+Company group as an associate
+
+The Group announced on December 5, 2012, in mutual agreement
+with the other members, its intention not to renew the shareholders’
+agreement in force in SUEZ Environnement Company, due to expire
+in July 2013.
+
+In line with this announcement and given the various notices of
+termination received from the parties concerned, the Board of
+Directors’ Meeting of January 22, 2013, confirmed that the SUEZ
+Environnement shareholders’ agreement would not be renewed and
+would therefore expire on July 22, 2013 for all the parties concerned.
+
+As a consequence of the end of the shareholders’ agreement,
+GDF SUEZ ceased to exercise control over SUEZ Environnement
+Company on July 22, 2013 and accounted for this entity under the
+equity method as from this date (see Note 2.1).
+
+In accordance with IAS 27 - Consolidated and Separate Financial
+Statements, the residual interest in SUEZ Environnement Company is
+recognized at fair value at the date control was relinquished.
+
+
+--- Page 16 ---
+
+Financial statements
+
+Based on SUEZ Environnement Company's share price of €10.26 on
+July 22, 2013, the associate's carrying amount was €1,868 million and
+the net gain amounted to €448 million (presented under “Changes in
+scope of consolidation” in the consolidated income statement for the
+
+6.1 MANAGEMENT REPORT
+
+The Group has prepared pro forma financial statements for information
+purposes in the following tables showing SUEZ Environnement
+Company as an associate from January 1, 2012, excluding the
+revaluation gain.
+
+year ended December 31, 2013) (see Note 2.1). By definition, the pro forma statement of financial position as at
+
+December 31, 2013 is similar to the published consolidated financial
+statement available in Section II.
+
+The purchase price allocation for SUEZ Environnement Company's
+assets, liabilities and contingent liabilities had almost been completed
+by December 31, 2013, but marginal adjustments may still be made
+through June 30, 2014.
+
+Income statement for the year ended December 31, 2013
+
+Exclusion of SUEZ Pro forma
+Environnement GDF SUEZ: SUEZ
+contribution and Environnement as
+presentation as equity- Intra-group — equity-accounted
+In millions of euros Dec. 31, 2013 accounted associate and other associate
+Revenues 89,300 (8,031) 9 81,278
+Purchases (61,216) 1,698 (4) (49,523)
+Personnel costs (11,704) 2,107 - (9,597)
+Depreciation, amortization and provisions (6,600) 548 : (6,053)
+Other operating expenses (14,058) 3,251 (14) (10,820)
+Other operating income 2,107 (160) 10 1,956
+CURRENT OPERATING INCOME 7,828 (588) - 7,241
+Mark-to-market on commodity contracts
+other than trading instruments (226) 1 - (225)
+Impairment losses (14,943) (4) - (14,947)
+Restructuring costs (305) 7 : (288)
+Changes in scope of consolidation" 406 2 (448) (41)
+Other non-recurring items 545, (10) - 536
+INCOME/(LOSS) FROM OPERATING ACTIVITIES (6,695) (681) (448) (7,724)
+Financial expenses (2,487) 273 (3) (2,217)
+Financial income 510 (60) 3 463
+NET FINANCIAL INCOME/(LOSS) (1,977) 223 - (1,754)
+Income tax expense (727) 107 - (620)
+Share in net income of associates 490 23 - 513
+NET INCOME/(LOSs) (8,909) (228) (448) (9,585)
+Net income/(loss) Group share (9,289) - (448) (9,737)
+Non-controlling interests 380 (227) - 152
+EBITDA 14,775 (1,356) - 13,419
+
+(1) The €448 milion impact reflects the net gain recorded in the consolidated accounts when SUEZ Environnement was first accounted for under the equity method.
+‘NB: The amounts shown in the tables are expressed in milions of euros. In certain cases, rounding may cause non-material discrepancies in the lines and columns showing totals.
+
+Registration Document 2013. Goesvez 187
+
+
+--- Page 17 ---
+
+188
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+Statement of cash flows for the year ended December 31, 2013
+
+Exclusion of SUEZ
+Environnement
+contribution and
+
+Pro forma
+GDF SUEZ: SUEZ
+
+presentation as Environnement as
+
+equity-accounted Intra-group —_ equity-accounted
+In millions of euros Dec. 31, 2013 associate and other associate
+NET INCOME/(LOSS) (8,909) (227) (448) (9,585)
+- Share in net income of associates (490) (23) : (613)
++ Dividends received from associates 280 99 - 379
+- Net depreciation, amortization, impairment and provisions 20,889 (616) - 20,373
+- Impact of changes in scope of consolidation and other non-recurring items (481) 8 448 (25)
+- Mark-to-market on commodity contracts other than trading instruments 226 (1) - 225
+- Other items with no cash impact 93 (14) - 79
+- Income tax expense 727 (107) : 620
+- Net financial expense 1,977 (223) - 1,754
+Cash generated from operations before income tax and working
+capital requirements 14,313 (1,006) - 13,307
++ Tax paid (2,103) 101 - (2,002)
+Change in working capital requirements (186) 238 - 53
+CASH FLOW FROM OPERATING ACTIVITIES 12,024 (667) : 11,357
+Acquisitions of property, plant and equipment and intangible assets (7,529) 594 - (6,936)
+Acauisitions of controlling interest in entities, net of cash and cash
+equivalents acquired (863) 13 - (850)
+Acauisitions of investments in associates and joint ventures (166) 4 (1) (162)
+Acauisitions of available-for-sale securities (143) 14 - (128)
+Disposals of property, plant and equipment, and intangible assets 280 (24) - 256
+Loss of controlling interest in entities, net of cash and cash equivalents sold 496 (21) 1 477
+Disposals of investments in associates and joint ventures 1,441 (7) : 1,434
+Disposals of available-for-sale securities 174 (1) - 173
+Interest received on non-current financial assets 67 3 3 73
+Dividends received on non-current financial assets 137 (18) - 120
+Change in loans and receivables originated by the Group and other 6 a 143 178
+CASH FLOW FROM (USED IN) INVESTING ACTIVITIES (5,611) 599 147 (4,865)
+Dividends paid (4,694) 348 : (4,346)
+Repayment of borrowings and debt (6,869) 519 : (5,350)
+Change in financial assets at fair value through income (437) 28 - (408)
+Interest paid (1,494) 230 (3) (1,267)
+Interest received on cash and cash equivalents 7 (25) - 92
+Cash flow on derivatives qualifying as net investment hedges
+and compensation payments on derivatives (184) (10) - (195)
+Increase in borrowings 3,617 (959) (142) 2,517
+Increase/decrease in capital 2,037 (2) - 2,035
+Purchase and/or sale of treasury stock (6) - - (6)
+Changes of ownership interest in controlled entities (71) 12 : (69)
+CASH FLOW FROM (USED IN) FINANCING ACTIVITIES (6,982) 141 (145) (6,986)
+Effects of changes in exchange rates and other (2,123) 2,160 (2) 35
+TOTAL CASH FLOW FOR THE PERIOD (2,691) 2,233 - (458)
+CASH AND CASH EQUIVALENTS
+AT BEGINNING OF PERIOD 11,383 (2,233) - 9,150
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 8,691 : - 8,691
+
+NB: The amounts shown in the tables are expressed in millions of euros. In certain cases, rounding may cause non-material discrepancies in the lines and columns showing totals.
+
+GDF swez Registration Document 2013
+
+
+--- Page 18 ---
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+Income statement for the year ended December 31, 2012
+
+Exclusion of SUEZ
+Environnement Pro forma
+contribution and GDF SUEZ: SUEZ
+presentation as Environnement as
+equity-accounted Intra-group and —_equity-accounted
+In millions of euros Dec. 31, 2012" associate other associate
+Revenues. 97,038 (15,093) 15 81,960
+Purchases (62,177) 3,481 (9) (48,704)
+Personnel costs (13,234) 3,767 - (9,467)
+Depreciation, amortization and provisions (7,113) 1,036 - (6,077)
+Other operating expenses (17,188) 5,925 (24) (11,288)
+Other operating income 2,194 (238) 18 1,974
+CURRENT OPERATING INCOME 9,520 (1,121) - 8,399
+Mark-to-market on commodity contracts
+other than trading instruments 109 (4) - 105
+Impairment losses (2,474) 87 - (2,387)
+Restructuring costs (342) 78 - (263)
+Changes in scope of consolidation 155 (45) - 110
+Other non-recurring items 165 (4) - 161
+INCOME FROM OPERATING ACTIVITIES 7,133 (1,009) - 6,124
+Financial expenses (3,433) 526 (7) (2,914)
+Financial income 658 (92) 7 573
+NET FINANCIAL INCOME/(LOSS) (2,775) 434 - (2,341)
+Income tax expense (2,049) 165 - (1,884)
+Share in net income of associates 433, 47 - 480
+NET INCOME 2,743 (363) : 2,380
+Net income Group share 1,544 - - 1,544
+Non-controlling interests 1,199 (364) - 836
+EBITDA 17,026 (2,426) - 14,600
+
+(1) Comparative data for 2012 have been restated to reflect the retrospective application of IAS 19 Revised (see Note 1.1.1).
+‘NB: The amounts shown in the tables are expressed in milions of euros. In certain cases, rounding may cause non-material discrepancies in the lines and columns showing totals.
+
+Registration Document 2013 GDF svez 189
+
+
+--- Page 19 ---
+
+190
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+Statement of cash flows for the year ended December 31, 2012
+
+Exclusion of SUEZ
+Environnement Pro forma
+contribution and GDF SUEZ: SUEZ
+presentation as Environnement as
+equity-accounted Intra-group —_ equity-accounted
+In millions of euros Dec. 31, 2012 associate and other associate
+NET INCOME 2,743 (363) : 2,380
+- Share in net income of associates (433) (47) - (480)
++ Dividends received from associates 315 79 - 394
+- Net depreciation, amortization, impairment and provisions 9,246 (1,121) : 8,125
+- Impact of changes in scope of consolidation and other non-recurring items (87) 50 : (37)
+- Mark-to-market on commodity contracts other than trading instruments (109) 4 - (105)
+- Other items with no cash impact 114 (24) - 90
+- Income tax expense 2,049 (165) : 1,884
+- Net financial expense 2,775 (434) : 2,341
+Cash generated from operations before income tax and working
+capital requirements 16,612 (2,022) - 14,591
++ Tax paid (2,010) 113 - (1,898)
+Change in working capital requirements (995) (330) - (1,325)
+CASH FLOW FROM OPERATING ACTIVITIES 13,607 (2,239) : 11,368
+Acauisitions of property, plant and equipment and intangible assets (9,177) 1,222 : (7,955)
+Acauisitions of controlling interest in entities, net of cash and cash
+equivalents acquired (103) 5 - (98)
+Acauisitions of investments in associates and joint ventures (306) 65 - (241)
+Acauisitions of available-for-sale securities (142) 21 - (121)
+Disposals of property, plant and equipment, and intangible assets 185 (35) - 151
+Loss of controlling interest in entities, net of cash and cash equivalents sold 537 (74) - 462
+Disposals of investments in associates and joint ventures 300 (3) - 297
+Disposals of available-for-sale securities 93 (32) - 61
+Interest received on non-current financial assets 54 (1) 7 60
+Dividends received on non-current financial assets 129 (19) 110
+Change in loans and receivables originated by the Group and other (21) 147 6 132
+CASH FLOW FROM (USED IN) INVESTING ACTIVITIES (8,451) 1,296 13 (7,142)
+Dividends paid (2,117) 483 : (1,634)
+Repayment of borrowings and debt (7,558) 1,485 : (6,073)
+Change in financial assets at fair value through income 2,473 9 - 2,482
+Interest paid (1,915) 417 (7) (1,504)
+Interest received on cash and cash equivalents 185 (45) : 139
+Cash flow on derivatives qualifying as net investment hedges
+and compensation payments on derivatives (721) 68 - (653)
+Increase in borrowings 11,587 (1,146) (9) 10,435
+Increase/decrease in capital 229 : : 229
+Purchase and/or sale of treasury stock (358) - - (358)
+Changes of ownership interest in controlled entities (10,125) (21) - (10,147)
+CASH FLOW FROM (USED IN) FINANCING ACTIVITIES (8,321) 1,250 (13) (7,085)
+Effects of changes in exchange rates and other (126) (2,541) : (2,667)
+TOTAL CASH FLOW FOR THE PERIOD (3,293) (2,233) - (5,526)
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 14,675 : - 14,675
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 11,383 (2,233) - 9,150
+
+(1) Comparative data for 2012 have been restated to reflect the retrospective application of IAS 19 Revised (see Note 1.1.1).
+
+NB: The amounts shown in the tables are expressed in millions of euros. In certain cases, rounding may cause non-material discrepancies in the lines and columns showing totals.
+
+GDF swez Registration Document 2013
+
+
+--- Page 20 ---
+
+Financial statements
+
+6.1.1.8. Parent company financial statements
+
+The figures provided below relate to the financial statements of
+GDF SUEZ SA, prepared in accordance with French GAAP and
+applicable regulations.
+
+Revenues for GDF SUEZ SA totaled €28,608 million in 2013, up 2.5%
+on 2012 due mainly to more favorable weather conditions.
+
+The Company posted a net operating loss of €676 million versus a net
+operating loss of €267 million in 2012, chiefly reflecting net additions
+to provisions for certain loss-making contracts.
+
+The Company reported net financial income of €1,054 million,
+compared with net financial income of €749 million one year
+earlier. This mainly includes dividends received from subsidiaries for
+€1,778 million compared to €1,734 million in 2012, the cost of debt
+which remained stable at €843 million, and reversals of provisions
+for interest rate risk for €167 million following the mark-to-market of
+derivative instruments not qualifying for hedge accounting.
+
+Information relating to supplier payment deadlines
+
+6.1 MANAGEMENT REPORT
+
+Non-recurring items included €483 million in non-recurring expenses,
+chiefly comprising impairment losses on securities, net of reversals
+(expense of €254 million), early-redemption penalties on bonds
+(expense of €165 million) and debt waivers (expense of €60 million),
+partially offset by net reversals of accelerated depreciation and
+amortization (income of €112 million).
+
+The income tax amounts to €768 million compared to €542 million by
+the end of 2012. These two amounts include a tax integration result of
+€441 million and €381 million in respectively 2013 and 2012.
+
+Net income for the year came out at €663 million.
+
+Shareholders’ equity amounted to €43,984 million at end-2013,
+versus €46,976 million at December 31, 2012, reflecting the dividend
+payout, partially offset by net income for the period.
+
+At December 31, 2013, net debt (including irredeemable and non-
+voting securities) came out at €27,453 million. At the same date, cash
+and cash equivalents totaled €6,320 million.
+
+The law in favor of the modernization of the economy (“LME” law No. 2008-776 of August 4, 2008) and its implementing decree No. 2008-1492
+of December 30, 2008, provide that companies whose annual financial statements are audited by a Statutory Auditor must publish information
+regarding supplier payment deadlines. The purpose of publishing this information is to demonstrate that there are no significant delays in the
+
+payment of suppliers.
+
+The breakdown by maturity of outstanding amounts payable by GDF SUEZ SA with regard to its suppliers over the last two reporting periods is
+
+as follows:
+Dec. 31, 2013 Dec. 31, 2012
+In millions of euros External Intra-group Total External Intra-group Total
+Past due 114 142 256 2 43 45
+30 days 40 614 654 476 27 503
+45 days 6 15 2 7 8 25
+More than 45 days - 17 17 3 - 3
+TOTAL 160 788 948 498 738 576
+6.1.1.9. Outlook - in renewable energies, thermal and electric, centralized and
+distributed,
+
+Acceleration of the industrial strategy of the Group
+
+GDF SUEZ wishes to pursue and to accelerate the implementation of
+its industrial strategy, with two clear objectives:
+
+> To be the benchmark energy player in fast growing markets:
+
+- by leveraging on strong positions in the independent power
+production and in LNG, and by strengthening these positions,
+
+by building integrated positions all along the gas value chain,
+including infrastructures,
+
+— by developing energy services activities internationally;
+and
+
+> To be leader in the energy transition in Europe:
+
+(1) At 100%.
+
+- by offering energy efficiency services to its clients,
+
+- by developing new businesses (biogas, smart energy and
+digitalization...).
+
+GDF SUEZ pursues in all its businesses ambitious industrial objectives:
+
+> At the end of 2013, the Group had 15 GW" of projects under
+construction or under advanced development, of which close
+to 90% in fast growing markets;
+
+> In natural gas, the Group targets a production of 59-63 million
+barrels oil equivalent (mboe) by 2016 vs 52 mboe in 2013 and
+seeks to develop its LNG supply portfolio from 16 million tons per
+annum (mtpa) to 20 mtpa by 2020;
+
+Registration Document 2013 Ge sez
+
+
+--- Page 21 ---
+
+192
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+» In energy services, GDF SUEZ pursues the ambitious targets to
+increase revenues from energy efficiency by 40% between
+2013 and 2018 and to double sales outside Europe by 2019.
+
+Finally, GDF SUEZ objective is to prepare the future by reinforcing
+innovation and research and by positioning itself on new businesses
+(biogas, retail LNG, demand management, digitalization...). It has
+therefore set up a dedicated new entity “Innovation and new
+business” in order to stimulate innovation within the Group and to
+capture new growth drivers.
+
+2014 financial targets increased
+For 2014, the Group increases its financial objectives":
+
+> Net recurring income, Group share” between €3.3 and
+€3.7 billion, assuming average weather conditions and stable
+regulation;
+
+> Net capex"! between €6 and 8 billion;
+
+> Net debt/Ebitda ratio below or equal to 2.5x and an “A” category
+credit rating.
+
+In light of the fact that the objective to reduce net debt below €30 billion
+by end 2014 has already been reached, the Group has decided:
+
+> to revise the €11 billion objective for its portfolio optimization
+program of which €5 billion has already been achieved in 2013;
+
+» that asset disposals will now be used to fund additional growth
+capex.
+
+Enhanced targets for Perform 2015 performance plan
+
+Given the progress made in 2013 on Perform 2015 and the
+continued depressed economic conditions, GDF SUEZ has decided
+to accelerate the plan's implementation and to add €800 million to
+its gross cumulated objectives for end 2015. The 2015 cumulated
+objective on the net recurring income Group share has been raised
+to €0.9 billion.
+
+New dividend policy
+
+At the Shareholders’ General Meeting on April 28, 2014, the Board will
+propose to shareholders a stable dividend, payable in cash, of €1.5
+per share for the fiscal year 2013.
+
+For the period 2014-2016, the Group commits to a dividend policy
+based on a payout ratio of 65-75%" with a minimum of €1 per share,
+payable in cash and with an interim payment.
+
+At the occasion of the Shareholders’ General Meeting on April
+28, 2014, the Board will also propose to shareholders a 10% loyalty
+dividend for shares in registered form for more than two years. This
+measure will be applicable for the first time to the dividend payment
+related to fiscal year 2016 and will be capped to 0.5% of social capital
+for a single shareholder.
+
+Enhanced social and environmental targets
+
+GDF SUEZ is also well on the way to achieving its extra financial
+targets by 2015, with its training target already met with 69% of
+employees trained in 2013:
+
+» CO, specific emissions: a 10% decrease in the emission rate
+between 2012 and 2020;
+
+» renewable energy: a 50% increase in installed capacity compared
+with 2009;
+
+v
+
+health and safety: achieve an accident frequency rate below 4;
+
+v
+
+biodiversity: implementation of an action plan for each sensitive site
+within the European Union;
+
+v
+
+diversity: 25% of women in managerial staff;
+
+v
+
+annual training of at least two-thirds of Group employees;
+
+v
+
+employee shareholding: 3% of the Group's capital held by Group
+employees.
+
+In France, GDF SUEZ is ome of the largest employers with
+74,000 employees. Worldwide, GDF SUEZ is present in more than
+70 countries and employs close to 150,000 collaborators; it expects
+to recruit 15,000 people per year worldwide of which 9,000 per year
+in France over 2014-2015 period.
+
+(1) These targets assume average weather conditions, no substantial regulatory or macro-economic changes, commodity price assumptions based on
+market conditions as of the end of December 2013 for the non-hedged portion of production, and average foreign exchange rates for 2014 as follows:
+
+€/$1.38, €/BRL3.38.
+
+(2) Net result Excluding restructuring costs, MtM, impairments, disposals, other non-recurring items and associated tax impact and nuclear contribution in
+
+Belgium.
+(3) Net Capex = gross Capex — disposals; (cash and net debt impact).
+(4) Based on net recurring result Group share.
+
+Gepesvez Registration Document 2013
+
+
+--- Page 22 ---
+
+Financial statements
+
+6.1 MANAGEMENT REPORT
+
+6.1.2 Statutory Auditors’ report on the pro forma financial information related
+to the year ended December 31, 2013
+
+To the Chairman & Chief Executive Officer, and, to the Vice-Chairman
+& President,
+
+In our capacity as statutory auditors and in accordance with EU
+Regulation N° 809/2004, we have prepared the present report on
+the non audited pro forma financial information (“the Pro Forma
+Information”) of GDF SUEZ for the year ended December 31,
+2013 which is included in section 6.1.1.7 of the 2013 GDF SUEZ
+Registration Document.
+
+The pro forma financial information has been prepared, for illustrative
+purposes only, to show the effect of the accounting of Suez
+Environnement as an associate that has resulted in the loss of control
+of Suez Environnement Company by GDF SUEZ as a consequence of
+the termination of the shareholders’ agreement of Suez Environnement
+Company on July 22, 2013. This Pro Forma Information shows the
+impact on the consolidated statement of financial position, income
+statement and statement of cash flows of GDF SUEZ at December
+31, 2013 and at December 31, 2012, of the accounting of Suez
+Environnement as an associate as from January 1, 2012. Because
+of its nature, the Pro Forma Information addresses a hypothetical
+situation and, therefore, does not necessarily represent the actual
+financial position or results had the transaction or event occurred at
+an earlier date than the actual or contemplated date.
+
+In accordance with EU Regulation N° 809/2004 and the relevant
+ESMA guidance, you are responsible for the preparation, on a
+voluntary basis, of the Pro Forma Information.
+
+It is our responsibility to express our conclusion, on the basis of
+our work and in the terms required by EU Regulation N° 809/2004,
+
+Appendix Il, item 7, on the proper compilation of the Pro Forma
+Information.
+
+We performed those procedures which we considered necessary
+having regard to the professional guidance of the Compagnie
+nationale des commissaires aux comptes (French Institute of
+Statutory Auditors) for this type of engagement. Our work, which
+does not include an examination of any of the underlying financial
+information supporting the Pro Forma Information, consisted primarily
+of verifying that the basis on which this Pro Forma Information was
+prepared was consistent with the source documents, considering
+the evidence supporting the pro forma adjustments and discussing
+with the management of GDF SUEZ to gather the information and
+explanations we deemed necessary.
+
+In our opinion:
+
+» the Pro Forma Information has been properly compiled on the basis
+stated;
+
+> this basis is consistent with the accounting policies of the issuer.
+
+This report is intended for the sole purpose of filling the Registration
+Document with the French Stock Exchange Regulatory Body (AMF),
+and, where relevant, for the public offering in France and other
+European Union countries in which a prospectus containing this
+Registration Document, authorized by the AMF, would be published,
+and may not be used for any other purpose.
+
+Neuilly-sur-Seine and Paris-La Défense, March 7, 2014
+The Statutory Auditors
+
+Deloitte & Associes
+
+Véronique Laurent
+
+Pascal Pincemin
+
+Ernst & Young et Autres.
+
+Pascal Macioce
+
+Charles-Emmanuel Chosson
+
+Mazars
+
+Isabelle Sapet
+
+Thierry Blanchetier
+
+Registration Document 2013 Ge sez
+
+193

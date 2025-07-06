@@ -1,0 +1,1982 @@
+
+
+--- Page 1 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+Group Principles
+
+Business Model, Targets and Strategies
+
+adesso is a rapidly growing IT service provider with the aim
+of joining the ranks of the leading consulting and technol-
+ogy groups for industry-specific business processes in Central
+Europe. adesso applies its extensive expertise in the relevant
+industries to act as an interface between the worlds of busi-
+ness processes and IT and realise software projects that meet
+the highest technical standards. Through the development of
+in-house software solutions, adesso has increased its market
+penetration and established an outstanding position when it
+comes to future-oriented IT solutions such as mobilisation or
+enterprise content management. One of adesso’s strategic tar-
+gets is the internationalisation of the sale of its own products.
+Business operations are also complemented by a defined acqui-
+sition strategy.
+
+Coupled with a focused business model and the mission to
+outperform standard industry margins, the growth adesso has
+achieved in the past has increased the value of the company on
+a sustainable basis and the growth that is on the horizon will
+continue to do so. adesso invests a great deal of resources in
+targeted business development, the expansion of sales capac-
+ity, recruiting and marketing. These investments, paired with
+significant industry and consulting expertise, allow adesso to
+generate growth that far exceeds the industry average. adesso
+is a leading technology provider in the software development
+industry and invests an above-average amount in training its
+employees as well as in the ongoing development of the in-
+house adesso software development model.
+
+The Executive Board is committed to the strategy of striving
+for the right balance of growth, solid finances and earning per-
+formance.
+
+For 2012, the Executive Board declared its targets of increasing
+sales by 5 % to between EUR 110 million and EUR 112 mil-
+lion and generating EBITDA of between EUR 7.2 million and
+EUR7.5 million and earnings before taxes of EUR 5.0 million.
+
+Employees and Structure
+
+adesso was founded in 1997 and employed a total of 1,084
+people in Germany, Austria, Switzerland and the USA as of
+the end of 2012. While 98 foreign employees are employed by
+the adesso Group, 637 employees in Germany work for parent
+company adesso AG, which, alongside its functions as a holding
+company, therefore also represents the adesso’s largest operat-
+ing unit. adesso’s largest location is Dortmund, which is also
+
+36
+
+the city in which adesso AG was founded and the location of the
+company headquarters. In Germany, adesso maintains eight
+further offices in all of the country’s key economic regions, both
+to ensure constant customer proximity and to keep travel costs
+as low as possible. adesso’s international locations are in Bos-
+ton, London, Vienna and Zurich.
+
+As of the reporting date, adesso Group consisted of adesso AG
+as the largest operating unit and parent company, a number
+of companies in which adesso holds a majority share, consol-
+idated subsidiaries of subsidiaries and one joint venture. adesso
+differentiates between two business areas: IT Services and IT
+Solutions. In the IT Services business area, adesso offers tai-
+lor-made, project-oriented services in the consulting and soft-
+ware development industries and, in the IT Solutions business
+area, markets its own solutions or standard software products.
+The company is listed on all German stock exchanges (ISIN
+code: DEOO0A0Z23Q5, WKN [national security identifica-
+tion number]: AOZ23Q).
+
+Management System
+
+adesso AG spearheads adesso Group and defines the strategy
+and operating targets of all companies contained within it. It
+manages the legally independent companies in adesso Group
+using a target-based system and a continuous reporting pro-
+cess and by occupying positions on supervisory boards. As the
+parent company, adesso AG provides services for the various
+subsidiaries throughout the group in the areas of accounting,
+human resources and marketing in the form of shared service
+centres. A standardised, group-wide reporting system guaran-
+tees operative management. Each company in adesso Group
+prepares full monthly financial statements in accordance with
+the respective national legal regulations. The key figures used
+in reporting are sales, EBITDA, earnings before taxes (EBT),
+EBT margin, number and proportion of employees not oper-
+ating a full capacity, headcount and net cash position. For the
+most important key figures, plan data is continuously com-
+pared with actual data. All key figures are carried forward and
+subject to an internal group benchmark. Every quarter, a rolling
+full-year forecast is prepared for each company in adesso Group
+in order to identify potential deviations from plan at an early
+stage. Fixed reporting channels and cycles are defined and there
+isalso a fixed schedule for management meetings. There are no
+fundamental differences between key figures in each business
+area’s reporting systems.
+
+
+--- Page 2 ---
+
+Research and Development
+
+The lion’s share of adesso’s sales is attributed to IT Services.
+Apart from a few exceptions, adesso solutions form the core of
+project solutions which are then tailored to customer require-
+ments in customer-specific projects. In comparison with group
+expenses, research expenses in the IT Solutions business area
+are negligible. No company in adesso Group possesses its own
+dedicated research department. In 2012, development costs
+for self-created intangible assets amounting to EUR 0.3 mil-
+lion were recognised as assets on the income statement. In the
+wake of the discontinuation of development of dynamic.suite
+in May 2012, development costs recognised as assets amount-
+ing to EUR 1.3 million were written offin full.
+
+Economic Report
+
+Macroeconomic Climate and Industry-
+specific Conditions
+
+Macroeconomic Climate
+
+As anticipated by many economists, economic growth in Ger-
+many also slowed down considerably in 2012. After GDP
+growth of 3.0 % in the previous year, 2012 saw growth ofa
+mere 0.7 %. According to the Federal Ministry of Economics
+and Technology, the pivotal reasons for this have been weak
+growth in the global economy and a loss of confidence in the
+eurozone. In terms of growth generated over the course of the
+
+Growth of GDP compared
+to IT-Services market
+in %
+
+mmm GOP
+
+mmm T-Services
+
+\B Y
+
+i ohm <
+S
+BE =
+2008 wy 2012 2013e
+2009
+
+adesso AG Annual Report 2012
+
+year, Germany is still on better footing than most other econ-
+omies in the eurozone, whose total economic output shrank
+by 0.6 %. However, Germany also saw a slowdown in growth
+from the start of the year into the third quarter, before gener-
+ating negative growth of -0.6 % in the final quarter. According
+to the Federal Government, this phase of weak development is
+only temporary, although a further loss of momentum is fore-
+cast for 2013 with growth falling to 0.4%.
+
+Industry-specific Conditions
+
+According to investigations carried out by industry associa-
+tion BITKOM, the German IT products and services market
+expanded by 2.7 % to EUR 73.4 billion in 2012. Growth has
+fallen year on year, but the IT market lost less momentum than
+the economy asa whole and grew almost four times as quickly.
+The software segment saw the most positive development,
+with market volume growth of 5.1 % to EUR 17.1 billion. The
+most important business area for adesso’s sales, IT services, also
+expanded considerably by 2.1 % to EUR 34.9 billion. Industry-
+specific conditions therefore continued to be positive for ades-
+so’s business performance.
+
+Business Performance
+
+There were no individual events that could be seen as hav-
+ing affected the business performance in the reporting period.
+However, in 2012 the sum of a number of factors led to prob-
+lematic developments: lower capacity utilisation in the first half
+of the year as a result ofa substantial increase in the headcount
+in Germany, losses attributed to a major fixed-price project,
+restructuring expenses in the energy industry as well as dis-
+continuation of development on the dynamic.suite product
+
+Growth in sales
+
+in EUR k
+aA +14%
+-
+S
+Hy
+yy UO
+hd
+g i
+2008 2009 2010 2011 2012
+
+37
+
+
+--- Page 3 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+family. By contrast, the acquisition of a majority share in Arith-
+nea GmbH at the start of the second quarter of 2012 madeasig-
+nificant contribution to sales and operating result.
+
+Overall Statement on Business Performance
+
+by the Management
+
+Both the operating performance of adesso AG and the earnings
+performance of adesso Group failed to match figures from the
+previous year. Internal group factors were chiefly responsible for
+this. By contrast, adesso’s target market developed positively.
+While adesso achieved its targets of operating growth above
+the industry average, further internationalisation and develop-
+ment of in-house solutions and products and its sales target, it
+was unsuccessful in meeting its EBITDA and EBT targets and its
+aim to generate an operating margin and profitability above the
+industry average. In spite of an extremely good second half of
+the year, adesso was unable to compensate for the sluggish first
+six months of the year, meaning that EBITDA of EUR 6.7 mil-
+lion fell short of the target of between EUR 7.2 million and EUR
+7.5 million. Earnings before taxes were negatively impacted by
+EUR 1.5 million asa result ofa discontinuation of development
+on the dynamic.suite, meaning that total earnings before taxes
+came to EUR 2.4 million and therefore fell short of the target of
+EUR 5.0 million.
+
+Sales by country
+in%
+
+2%
+
+5% 5%
+
+a
+
+a
+
+81%
+
+2011
+
+38
+
+Position
+
+Earnings situation
+
+Growth in Sales
+
+adesso increased its sales from EUR 106.0 million to EUR
+120.5 million in financial year 2012, which amounted to sales
+growth of 14 %. Of this growth, 5 % was organic and 10 % was
+accounted for by changes in the basis of consolidation, in partic-
+ular the majority takeover of Arithnea GmbH at the beginning
+of the second quarter of 2012. With market growth of 2 % for
+the industry, adesso once again had higher organic growth than
+the market in 2012. Yet the rate of organic growth is low com-
+pared to the previous years. Here, the decrease in sales by EUR
+1.9 million in the restructured energy sector has to be taken into
+account. The remaining business areas were able to expand their
+activities organically by 6 %.
+
+Sales revenues increased from quarter to quarter within the
+year. While sales in the first quarter totalled EUR 27.4 million,
+they reached a new high of EUR 32.7 million in the fourth quar-
+ter. This was driven by increasing capacity utilisation, a signifi-
+cant increase in the number of employees due to hiring in the
+course of the year, higher licensing income from own products,
+and the integration of Arithnea GmbH into the adesso Group
+in the second quarter.
+
+2%
+
+81%
+Germany
+Switzerland
+
+Austria
+
+2012 EU, Others
+
+
+--- Page 4 ---
+
+All of the growth was generated by the IT Services business
+area. Sales in the IT Services business area increased by 18 % to
+EUR 112.6 million (non-IFRS) while the IT Solutions busi-
+ness area remained unchanged at EUR 23.7 million. IT Services
+therefore accounted for 83 %, an increase over the previous year
+(80 %). The three adesso subsidiaries in Germany, Austria and
+Switzerland boosted sales revenues by between 17 %and 30%
+in the IT Services business area. Sales in the “Expert Resourc-
+ing” area also grew substantially at 16 %. Asa specialist for the
+deployment of e-commerce and content management systems,
+Arithnea GmbH is assigned to the IT Services business area,
+contributing to its further growth.
+
+In the IT Solutions business area, Content Solutions was able
+to maintain licensing and maintenance sales for the in-house
+high-end content management system FirstSpirit at the high
+level of the previous year. Mobile Solutions once again boosted
+its sales by over 30 %. One of the fastest growing areas in IT is
+mobilising web content and business processes. Here, adesso
+is a leading provider in Germany with its own in|MOTION
+technology along with proven expertise in the development
+of mobile applications. The implementation business with the
+existing PSLife system for life insurance companies dropped off
+for project-related reasons.
+
+Higher sales were generated in all established core industries
+including insurance, banking, lottery and healthcare. In the new
+
+target sector of public administration, sales remained constant
+while decreasing by 24 % in the energy industry. The “Other”
+
+Sales by segment
+in%
+
+20%
+
+2011
+
+adesso AG Annual Report 2012
+
+business area outside of the core industries grew particularly
+fast. The Content Solutions and Mobile Solutions business
+areas as well as the growing business with the Microsoft tech-
+nologies SharePoint and Dynamics CRM are able to position
+the products and services in numerous sectors even without
+detailed industry knowledge. Business Intelligence, which
+was newly initiated in 2012, serves a similarly broad range of
+customers. This means that market penetration in the estab-
+lished core industries for adesso can be increased while also
+serving additional sectors. This effect was further intensified
+since Arithnea GmbH, with its focus on e-commerce, counts
+numerous manufacturers and commercial enterprises among
+its customers.
+
+The export business grew as the adesso subsidiary in Switzer-
+land once again developed favourably and business in Aus-
+tria increased as well. Product sales to other countries did
+not increase in 2012. The proportion of export sales remains
+unchanged at 19 %.
+
+Earnings
+
+Atsales growth of 14 %, the average number of employees (FTE)
+grew disproportionately by 28 % or by 223 employees to 1,007 in
+2012. With a lower material usage ratio of 11 % (previous year:
+12%), gross profit per employee decreased significantly by 10 % to
+EUR 106 thousand (previous year: EUR 118 thousand). Since the
+employees exceed the importance of all other driving forces by
+far, both in terms of service provisioning and asa portion of costs,
+the decrease in gross profit per employee is key to the negative
+
+17%
+
+83%
+
+mmm |T-Services
+
+2012
+
+mmm |T-Solutions
+
+39
+
+
+--- Page 5 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+development of the operating margin in 2012. A number of fac-
+tors are responsible for this development. In the adesso subsidiary
+in Germany, which increased its number of employees organi-
+cally by 25 % to 701, the average capacity utilisation of the con-
+sultants and software developers fell - especially during the first
+six months ~ and a lower average daily rate was realised. A fixed
+price project fora long-standing customer resulted in significant
+losses which had to be compensated as well. The lower capacity
+utilisation is in part due to the usual lead times for new hires. New
+areas such as Business Intelligence and Telecommunication were
+also developed in 2012, with average capacity utilisation that
+was lower during the ongoing initiation phase compared to the
+established business. This was compounded by the restructuring
+phase of the energy sector, which led to high expenditures in the
+development of own products and in the consulting business.
+
+At EUR 2.9 million, other operating income increased by EUR
+1.2 million on the previous year. This includes the release of a
+financial liability at EUR 878 thousand for the elimination of a
+conditional purchase price increase, which is related to exercising
+an option under a purchase contract for shares in evu.it GmbH.
+The purchase price for the 20 % of shares in evu.it GmbH under
+the option decreased to EUR 0 as a result of losses in the energy
+sector.
+
+The 4 % increase in cost of materials at EUR 13.8 million (previ-
+ous year: EUR 13.3 million), mainly for the project integration
+of subcontractors, was significantly lower than the rise in sales,
+which grew by 14 %. A higher proportion of sales was therefore
+
+EBITDA development
+
+in EURK
+9
+8
+8
+oo
+iS
+" uw
+2008 2009 2010 2011 2012
+
+40
+
+generated with own employees, which is a normal development
+in view of low capacity utilisation. Gross profit grew faster than
+sales by 15 % to EUR 106.8 million (previous year: EUR 92.7
+million) as a result. Personnel costs, on the other hand, grew dis-
+proportionately by 18 % to EUR 77.4 million. Average expenses
+per employee decreased by 9 % to EUR 77 thousand, in particu-
+lar due to lower variable compensation and changes to the basis
+of consolidation; this prevented an even more severe drop in the
+operating margin.
+
+Other operating expenses increased by 22 % to EUR 25.8 mil-
+lion (previous year: EUR 21.2 million). Most of the increase in
+other operating income is due to the higher number of employ-
+ees. Additional office space was leased and high fees for person-
+nel consulting were once again paid. Cost items such as travel
+expenses, vehicle and training costs totalling EUR 1.0 million
+in 2012 alone (previous year: EUR 0.5 million) tend to increase
+proportionally with each employee. Other operating expenses
+for 2012 included a subsequent purchase price tranche (earn out)
+of EUR 885 thousand due to the final purchase price allocation
+from the acquisition of Arithnea GmbH, recorded through profit
+or loss. Without this item other operating expenses would have
+increased by 17 %.
+
+Total operating earnings before interest, taxes, depreciation and
+amortisation (EBITDA) decreased by 22 % or EUR 1.9 million to
+EUR 6.7 million (previous year: EUR 8.6 million). The operat-
+ing EBITDA margin is 5.6 % compared to 8.1 %. This means the
+targets for 2012 were not met.
+
+EBITDA-margin
+
+in %
+N
+3
+Pe
+G
+2008 2009 2010 2011 2012
+
+
+--- Page 6 ---
+
+Income was increased significantly in the course of the year. After
+aweak first half of the year in 2012 with EBITDA of EUR 1.4 mil-
+lion, the value increased to EUR 5.3 million in the last six months
+and therefore to a new half-year high for the adesso Group. The
+clear improvement in results is due to the suspension of devel-
+opment activities and the restructuring measures in the energy
+sector, which are starting to take effect, significantly improved
+capacity utilisation in Germany, the conclusion of a fixed price
+project with severe losses, and higher license sales. Arithnea
+GmbH being part the adesso Group for the entire year also had
+an effect. The EBITDA margin was 2.4 % in the first half of the
+year and 8.3 % in the second.
+
+EBITDA (non-IFRS) decreased noticeably over the previous
+year by EUR 0.8 million or 31 % to EUR 1.8 million in the IT
+Solutions business area only, while the IT Services business area
+generated an unchanged EUR 6.3 million. The poor earnings sit-
+uation of the energy sector business within the IT Services busi-
+ness area was offset by the highly profitable Arithnea GmbH. As
+expected, Content Management Systems in the IT Solutions busi-
+ness area fell slightly below the record values of the previous year.
+The EBITDA fell to 5.6 % (previous year: 6.6 %) for IT Services
+and 7.6 % (previous year: 11.1 %) for IT Solutions.
+
+Depreciation and amortisation increased by EUR 0.7 million to
+EUR 4.2 million in the reporting period. Planned amortisation
+on intangible assets such as customer lists and order backlog from
+mergers increased to EUR 1.4 million (previous year: EUR 1.0
+million) due to the acquisition of Arithnea GmbH. Depreciation
+
+Consolidated earnings
+
+in EUR k
+© -102%
+iS
+yo x
+&3
+a
+Co
+XN
+a
++
+N
+N
+>
+2008 2009 2010 2011 2012
+
+adesso AG Annual Report 2012
+
+on capital assets increased by EUR 0.4 million to EUR 1.2 million.
+Unplanned amortisation on intangible assets was also recognised
+in the amount of EUR 1.3 million related to the deconsolidation
+of dynamicutilities GmbH iL.
+
+The financial result came to EUR -139 thousand compared to
+EUR -150 thousand in the previous year. Earnings before taxes
+(EBT) decreased by 52 % to EUR 2.4 million (previous year: EUR
+5.0 million) due to lower operating earnings as well as higher
+depreciation and amortisation. Income tax expense was EUR 2.5
+million (previous year: EUR 1.1 million). Tax expenses increased
+in particular because the usable deferred taxes on loss carry-for-
+wards for adesso AG were valued at EUR 1.1 million less, leading
+toa deferred tax expense in this amount. This resulted in neg-
+ative consolidated earnings of EUR -0.1 million in 2012 com-
+pared to EUR 3.9 million in the previous year. Earnings per share
+amounted to EUR 0.12 compared to EUR 0.72.
+
+The Supervisory Board and Executive Board of adesso AG shall
+propose an unchanged dividend of EUR 0.18 per share to the
+
+Annual General Meeting. Based on the year-end closing price of
+the adesso share, the dividend yield is 3 % (previous year: 3 %).
+
+Earnings per Share
+
+in EUR
+&
+S
+y
+3
+
+2008 2009 2010 2011
+
+-83%
+
+mmo “
+
+2012
+
+4)
+
+
+--- Page 7 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+2012 Highlights
+New School of IT
+
+@ Group Management Report
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+Consolidates Income Statement
+
+inEURk 2012 2011 2010 2009 2008
+Sales revenues 120,521 105,986 85,864 71,338 66,774
+Other operating income 2,857 1,703 1,350 2,135 2,307
+Own work capitalised 290 910 0 0 0
+Total income 123,668 108,599 87,034 73,473 69,081
+Costs of material -13,767 -13,292 -9,422 -7,977 -6,416
+Personnel costs -77,426 - 65,454 -54,604 -45,372 -40,149
+Other operating expenses -25,764 -21,247 -17,413 -14,367 -14,433
+EBITDA 6,711 8,606 5,595 5,757 8,083
+Depreciation and amortisation -4,154 -3,454 -2,934 -2,760 -3,579
+EBIT 2,557 5,152 2,661 2,997 4,504
+Income from financing and
+
+investment activities -139 -150 -203 293 126
+EBT 2,418 5,002 2,458 3,290 4,630
+Income taxes -2,510 -1,091 34 293 -352
+Consolidated earnings -92 3,911 2,492 3,583 4,278
+Gross income 106,754 93,695 76,262 63,361 60,358
+Gross income margin (in %) 89 88 89 89 90
+EBITDA margin (in %) 5,6 8,1 6,5 8,1 12,1
+Growth in sales (in %) 14 24 20 7 46
+Change in personnel costs (in %) 18 20 20 13 50
+
+Change in other operating expenses
+(in %) 21 22 21 0 18
+
+42
+
+
+--- Page 8 ---
+
+Orders
+
+The order volume continued to increase in parallel to sales
+growth. Demand remained consistently dynamic in the course
+of the year. With the exception of the energy sector, a slump in
+demand was not observed in any region, segment or industry.
+The order backlog on the reporting date is comparable to previ-
+ous years. Business activities continue at the start of 2013 with
+the vast majority of the leading customers for 2012. Thanks to
+a Europe-wide tender won by adesso in numerous partial lots,
+cooperation for the next two years was assured with a leading
+customer of the adesso Group in terms of sales.
+
+Employees
+The leading performance figures for employees developed as
+follows:
+
+2012 2011 2010 2009 2008
+Employees at
+year end 1,138 922 789 652 582
+Full time equivalents
+(FTE) at year end 1,084 847 729 598 529
+Full time equivalents
+(FTE), average for
+the year 1,007 784 683, 573 501
+Sales per @ FTE
+(in EUR thousand) 120 135 126 125 133
+Gross profit
+per @ FTE (in
+EUR thousand) 106 118 112 111 120
+Personnel costs
+per @ FTE (in
+EUR thousand) 77 83 80 79 80
+
+Financial Position
+
+Financial Management Principles and Objectives
+
+adesso pursues a balanced financial policy. The objective of
+financial managementis to assure short-term liquidity, includ-
+inga margin of safety, as well as securing and acquiring financial
+assets to fund medium- and long-term investment projects. In
+principle, the company does not enter into transactions with
+speculative elements. There are no variable interest rates on
+investments. The maximum investment term is nine months,
+with one to three months being the most common in order to
+remain flexible in response to investment opportunities that
+arise. Central cash management at the level of daily account
+clearing has not been set up. Bank borrowing is centralised with
+the parent company. The account balances and financial posi-
+tion of all companies are transparent to the group’s Executive
+
+adesso AG Annual Report 2012
+
+Board, and constitute a standard element of the monthly
+reporting system. Off balance sheet financing, such as leasing,
+is utilised to a minor extent only. Company vehicles as well as
+office furnishings and equipmentare leased. Factoring or other
+methods of selling receivables are not used.
+
+Capital Structure
+
+Financing is needed primarily for the receivables portfolio and
+services that have not been settled in the amount of EUR 29.3
+million (previous year: EUR 22.7 million). Working capital
+is EUR 22.0 million as of 31 December 2012 (previous year:
+EUR 14.5 million). Advance financing of business operations
+has therefore increased by 52 %, tying up liquidity. A loan of
+EUR 5.0 million was taken out in the course of an acquisition
+in 2012. Like all current bank loans, it has a total term of five
+years and is paid back in instalments. The favourable balance
+sheet structure of adesso and the lower overall interest level
+resulted in a competitive interest rate of 2.3 %. No special guar-
+antees were granted for the loan. The portfolio of interest-bear-
+ing financial liabilities increased from EUR 4.9 million in the
+previous year to EUR 7.7 million on the reporting date. Since a
+loan with an interest rate of 5.7 % was fully redeemed and anew
+loan taken out at 2.3 %, the average interest rate on this portfo-
+lio has fallen. The remaining terms of the loans on the report-
+ing date range from 14 months to four years and three months.
+Interest is fixed over the entire term. A fixed interest rate was
+secured for a variable interest-bearing loan by means of an inter-
+est rate swap. All interest-bearing liabilities are denominated in
+euros. Credit balances are largely available in the short term and
+bear interest at fixed rates. Net liquidity (liquidity less liabili-
+ties) is EUR 13.7 million (previous year: EUR 17.6 million).
+
+Investments, Acquisitions and Divestments
+
+The adesso business model requires relatively low investments
+in capital assets. The capital assets of EUR 2.0 million (previous
+year: EUR 1.4 million) largely consist of hardware such as lap-
+tops and servers as well as office furnishings. There are no sig-
+nificant subsequent obligations from capital asset investment
+projects as of 31 December 2012, and no investment backlog to
+report. Two significant investments were realised in the report-
+ing period.
+
+The acquisition of 51 % of the shares in Arithnea GmbH, Neu-
+biberg near Munich, led to a purchase price payment of EUR 4.1
+million in the reporting period. Thanks to the highly success-
+ful business development of Arithnea GmbH in its deviating
+2011/12 financial year, which is used for the measurement of
+a conditional purchase price payment (earn out), an additional
+payment of EUR 1.1 million will be payable in 2013. The group
+received the liquid assets of Arithnea in the amount of EUR
+2.6 million at the time of the acquisition. The development of
+
+43
+
+
+--- Page 9 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+dynamic.suite until May of 2012 led to negative contributions
+to earnings in the amount of EUR -0.7 million and correspond-
+ing outflows of liquidity until further development of the pro-
+ject was cancelled. Further details regarding the balance sheet
+impact are provided in the consolidated notes.
+
+adesso hosting services GmbH was founded as another subsidi-
+ary of adesso AG at the end of 2012. adesso AG holds 51 % of
+this company; the remaining shares are held by Adacor Host-
+ing GmbH, Essen, co-founder of the company. The founding
+and payment of the full capital stock of EUR 0.1 million was
+realised in December of 2012, with entry in the commercial
+register in January 2013. Business operations commenced in
+January 2013. With the new company’s portfolio ofindividual
+and complex hosting and cloud services solutions, adesso will
+be ina position to optimally serve the entire software develop-
+ment value chain in the future. This opens up additional busi-
+ness models for adesso, for example running applications on
+behalf of customers. adesso hosting services GmbH is based
+in Dortmund.
+
+Liquidity
+
+Cash and cash equivalents total EUR 21.4 million on the report-
+ing date (previous year: EUR 22.5 million). They are partly off-
+set by interest-bearing liabilities, mainly from several acquisition
+loans, in the amount of EUR 7.7 million (previous year: EUR 4.9
+million). Net liquidity (liquidity less interest-bearing liabilities) is
+EUR 13.7 million (previous year: EUR 17.7 million).
+
+Cash flow from operating activities dropped noticeably to EUR
+
+1.0 million (previous year: EUR 10.2 million). This decrease
+is largely due to lower earnings with higher tax payments, and
+
+Liquid assets and Net cash position
+
+in EURk
+mmm Liquid assets
+mmm Net cash position
+5
+A
+BS
+g iy
+to S — ws
+A hy OB
+y OR
+
+2008 2009 2010 2011 2012
+
+44
+
+especially the working capital increase of EUR 7.5 million. The
+change to net operating assets tied up an additional EUR 3.7
+million after EUR 1.5 million was released here in the previ-
+ous year. Cash flow from investment activities was EUR -3.3
+million (previous year: EUR -1.9 million). Investments of EUR
+1.5 million (previous year: EUR 1.0 million) in capital assets for
+the acquisition of new hardware and software as well as office
+furnishings and equipment increased due to growth. A reduced
+amount of EUR 0.4 million (previous year: EUR 1.0 million)
+was paid out for investments in intangible assets, especially in
+the form of developing own capitalised software products since
+the development of dynamic.suite was cancelled. The net cash
+effect from the acquisition of Arithnea GmbH led to an outflow
+from investment activities of EUR 1.5 million. Cash flow from
+financing activities was EUR 1.2 million (previous year: EUR
+-2.9 million). The positive financing contribution was largely
+the result of taking out a new loan of EUR 5.0 million, regu-
+lar redemption payments on financial liabilities in the amount
+of EUR 2.9 million (previous year: EUR 2.0 million) and the
+dividend payment of EUR 1.1 million (previous year: EUR 0.9
+million).
+
+The availment of approved lines of credit with several banks
+totalled EUR 1.7 million, which is EUR 0.8 million more
+than in the previous year. The additional credit line applies to
+Arithnea GmbH. There was no availment of credit lines on the
+reporting date.
+
+Cash and cash equivalents decreased by EUR 1.1 million over-
+all, compared to an increase of EUR 5.5 million in the previ-
+ous year.
+
+Structure of the balance sheet
+in EURk
+
+Assets
+Non-current assets
+
+Current assets
+
+2439/3346)
+11
+
+34,368) | 29,261
+
+nh me Equity and
+
+N BBR iabiliti
+
+S Bb liabilities
+
+mmm Equity
+
+5 2 mmm Non-current liabilities
+# i)
+= s == Current liabilities
+N N
+2011 2012 2011 2012
+
+
+--- Page 10 ---
+
+Cash at bank and financial liabilities
+
+adesso AG Annual Report 2012
+
+Cash Change Financial Change
+in EURk at bank in% liabilities in%
+2008 18,699 61 7,412 -ll
+2009 17,340 -7 8,574 16
+2010 17,021 -2 7,659 -ll
+2011 22,491 32 5,878 -23
+2012 21,368 -5 10,359 76
+
+Development of liquidity
+
+Veranderung
+in EURk 2012 2011 2010 2012
+Liquid assets 21,368 22,491 17,021 -1,123
+(-) Interest-bearing liabilities 7,707 4,785 6,852 2,922
+(=) Net cash position 13,661 17,706 10,169 -4,045
+Net cash position in relation to sales 11% 17% 12% -6%-pp.
+Liquid assets 21,368 22,491 17,021 -1,123
+(+) Trade accounts receivable and receivables PoC 29,306 22,718 20,285 6,588
+(-) Current liabilities 33,746 29,261 23,921 4,485,
+(=) Net cash position 2 16,928 15,948 13,385 980
+
+Financial position
+
+in EURk 2012 2011 2010 2009 2008
+Liquid assets 21,368 22,491 17,021 17,340 18,699
+Interest-bearing liabilities 7,707 4,785 6,852 6,789 2,893
+Net cash position 13,661 17,631 10,169 10,551 15,806
+Cash flow from operating activities 1,004 10,188 4,209 2,311 8,400
+Cash flow from investment activities -3,308 -1,876 -573 -5,254 -687
+Cash flow from financing activities 1,156 -2,888 -4,034 1,579 -751
+Currency translation differences 25 46 79 5 140
+Total change in liquid assets -1,123 5,470 -319 -1,359 7,102
+Income from financing -139 -150 -203 293 126
+
+45
+
+
+--- Page 11 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+Cash and cash equivalents include larger amounts, typical for
+the business, which will be paid out in the first few months
+of 2013. Variable compensation payable in the first quarter of
+2012 is the biggest item. Overall, the liquidity of the adesso
+Group is adequate to carry on current business operations for
+the planned redemption of liabilities and to compensate for
+ordinary fluctuations in capacity utilisation.
+
+Net Assets
+
+Analysis of the Asset Structure
+
+Total assets on the reporting date increased by 10 % or EUR
+6.8 million to EUR 76.6 million (previous year: EUR 69.8 mil-
+lion). On the assets side, trade receivables and the value of work
+in progress accounted for the bulk of the increase at a total of
+EUR 6.6 million. The increase in non-current assets was far
+less at EUR 23.9 million compared to EUR 23.2 million in the
+previous year. Planned amortisation on intangible assets from
+purchase price allocations as well as the revaluation of deferred
+taxes for the utilisation potential of loss carry-forwards have
+had an impact here. On the liabilities side, currentand non-cur-
+rent liabilities increased mainly due to anew loan while equity
+remained virtually unchanged at EUR 34.1 million (previous
+year: EUR 34.4 million). The equity ratio therefore fell to 44.6
+% compared to 49.2 % in the previous year.
+
+Financial and Non-financial Performance Indicators
+The key financial performance indicators used for internal con-
+trol of the group are sales growth, EBITDA and the EBITDA
+margin. Targets and actual values for the reporting period as
+well as the medium- and long-term target corridor are provided
+in the table.
+
+Pre-tax earnings are not a general financial performance indi-
+cator of adesso for the internal control of the group. The fore-
+cast for 2012 was included in the presentation for better com-
+prehension. adesso does not use any non-financial performance
+indicators for the internal control of the group.
+
+46
+
+Subsequent Events
+
+No further events of material importance to adesso AG occurred
+after the reporting date on 31 December 2012. On 3 January
+2013, rku.it GmbH exercised its put option relating to 20 % of
+the shares in evu.it GmbH This means that adesso is obliged to
+purchase a further 20 % of evu.it GmbH and therefore increase
+its stake to 80 %. The purchase price is set to amount to EUR 0.
+
+Forecast, Opportunities
+and Risk Reports
+
+Forecast Report
+
+Group Orientation over
+
+the Next Two Financial Years
+
+adesso’s vision of becoming one of Central Europe’s leading IT
+consulting firms for industry-specific business processes will
+be pursued with vigour. The strategic guidelines for growth
+through industry segmentation, portfolio expansion in IT Ser-
+vices, internationalisation and the expansion of the company’s
+solution portfolio in the IT Solutions business area will con-
+tinue to determine what action adesso takes over the next two
+years. In comparison to 2012, adesso is aiming to strike a better
+balance between growth and profitability. The same acquisition
+policy will be pursued. Irrespective of the acquisition policy,
+organic growth will continue to be spurred on in all industries
+and regions. The sales generated abroad are to be increased in
+particular through further internationalisation of FirstSpirit
+product sales and further growth at subsidiaries in Austria and
+Switzerland. In terms of the adesso subsidiary currently being
+established in Turkey, sales are only expected to be generated
+from 2014 onwards.
+
+Future Macroeconomic Situation
+
+With annual GDP growth of 0.7 %, the German economy lost
+a substantial amount of momentum over the course of 2012
+and even slipped into negative growth in the fourth quarter.
+According to the Federal Government, a notable slowdown in
+the global economy coupled with growing uncertainty among
+market participants as a result of high levels of debt held by
+industrialised nations are the factors responsible for this weak
+development, something that also negatively impacted invest-
+ment propensity in the German economy. However, the stabi-
+lisation in the international environment both on the financial
+markets as well as in terms of the real economy has strength-
+ened confidence among businesses and consumers alike. On
+
+
+--- Page 12 ---
+
+Multi-period view of assets and liabilities
+
+adesso AG Annual Report 2012
+
+in EURk 2012 2011 2010 2009 2008
+Balance sheet total 76,603 69,850 62,320 58,883 55,818
+Current assets 52,735, 46,690 38,907 35,260 38,282
+
+of which liquid assets 21,368 22,491 17,021 17,340 18,699
+
+of which trade accounts receivable and
+
+receivables PoC 29,306 22,718 20,285 16,441 14,284
+Non-current assets 23,868 23,160 23,413 23,623 17,536
+Current liabilities 33,746 29,261 23,921 22,168 26,005
+
+of which loans and other financial li-
+
+abilities 4,482 2,236 2,173 2,976 5,288
+
+of which trade accounts payable and li-
+
+abilities PoC 7,284 8,205 5,771 5,956 7,342
+Non-current liabilities 8,718 6,221 7,497 7,868 4,472
+Equity 34,139 34,368 30,902 28,847 25,341
+
+Financial performance indicators
+2012 target 2012 actual Target corridor
+
+5 %to EUR 110
+to 112 million
+
+Growth in sales (organic)
+
+EUR 120.5 million
+(EUR 110.5 million organic)
+
+Atleast twice
+industry growth
+
+EBITDA
+
+EUR 7.2 to 7.5 million
+
+EUR 6.7 million ~
+
+EBITDA margin (indirect)
+
+6%to7 % 6%
+
+9%to11l%
+
+Earnings before taxes (EBT)
+
+EUR 5.0 million
+
+EUR 2.4 million ~
+
+the basis of the gradual improvements in economic indicators,
+the Federal Ministry of Economics and Technology is only fore-
+casting a short period of weak development that will be over-
+come over the course of 2013. In 2013, gross domestic product
+is set to grow further, however, due to the weak winter period,
+the increase will remain moderate at around 0.4 %. With the
+increasing recovery experienced throughout the global econ-
+omy, the competitive German economy should gain more
+momentum over the course of the year. A return to stronger
+growth of 1.6 % is expected in 2014.
+
+Based on information provided by an expert group commis-
+sioned by the government, the Swiss State Secretariat for Eco-
+nomic Affairs SECO is expecting moderate GDP growth in
+Switzerland of 1.3 % in 2013, which should be consolidated
+at 2.0 % in 2014. On the basis of forecasts published by the
+Austrian Institute of Economic Research and the Institute for
+
+Advanced Studies, the Austrian Economic Chambers (WKO) is
+anticipating growth in Austrian GDP of 1.0 % and 0.8 % respec-
+tively in 2013 and 1.8% in 2014.
+
+Asa result, 2013 will once again offer a sluggish macroeco-
+nomic climate for adesso which, in view of current develop-
+ment, poses significant risks. However, due to central banks’
+monetary policy which has been supportive thus far, it is not
+yet expected that the positive trend in terms of further eco-
+nomic growth in adesso-relevant sectors will take a turn for
+the worse in 2013 and 2014.
+
+Future Industry Situation
+
+According to industry association BITKOM, the IT market in
+Germany continues to progress far more positively than the
+economy asa whole. With market volume of EUR 73.4 billion
+in 2012, the 2 % growth rate expected in 2013 is significantly
+
+47
+
+
+--- Page 13 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+above that of GDP asa whole. Within the IT sector, BITKOM
+anticipates that the software segment will experienced signif-
+icantly stronger growth of 4.6 % than the adesso-relevant IT
+services segment, which is only set to grow by 2.5 %. Accord-
+ing to forecasts, the services and software segments of the IT
+market relevant for adesso are highly likely to develop posi-
+tively in 2013. Internally, adesso is anticipating growth of 3 %
+in 2013 in relevant markets in the DACH region. Similar figures
+are expected for 2014.
+
+Anticipated Sales and Earnings Situation
+
+The report on risks and opportunities is a pivotal part of the
+management’s considerations of the further development of
+adesso and of the forecast report. Potential acquisitions are not
+included in the forecast calculations.
+
+Based on anticipated economic growth of 3 % in relevant seg-
+ments of the IT market as well as on internal calculations, the
+adesso management is expecting the following in 2013:
+
+> An increase in sales revenues of between 7 % and 9 % to
+between EUR 129 million and EUR 131 million (2012: EUR
+121 million).
+
+» The operating EBITDA margin is to rise to between 5.8 %
+and 6.1 % (2012: 5.6 %).
+
+> The operating result, EBITDA, is expected to amount to
+between EUR 7.5 million and EUR 8.0 million (2012: 6.7
+million) and therefore increase by between 12 % and 19 %.
+
+This growth, which is significantly above the industry aver-
+age, is expected to predominantly originate from the IT Ser-
+vices business area. This includes a contribution of up to 3 %
+through the full-year inclusion of Arithnea GmbH (previous
+year: three quarters). The expansion of the headcount by 25 %
+in the adesso subsidiary in Germany in 2012 also led to rising
+sales expectations.
+
+The increase in the operating margin is based on expectations
+that the restructuring of the energy industry successfully takes
+effect and margins at subsidiaries in Germany and Austria can
+be increased. Stronger growth in terms of the EBITDA margin
+toward the target of between 9 % and 11 %is to be hindered by
+scheduled start-up losses from the entry into the US market and
+further internationalisation in the IT Solutions business area. In
+addition, the establishment of the subsidiary in Turkey and the
+marked declines in sales as a result of an unusually high num-
+ber of employees on sick leave caused bya flu epidemic in Janu-
+ary and February 2013 will also negatively impact the margin.
+
+For 2014, we are anticipating further sales growth as well as
+further positive development of the operating result.
+
+48
+
+Expected Financial Position
+
+adesso’s liquid asset base is solid and will be sufficient to cover
+financial obligations in 2013 should the forecast business
+development come to fruition. adesso’s balance sheet structure
+allows it to assume additional liabilities for investment pro-
+jects to ensure that there are no shortfalls in terms of financing.
+adesso continues to strive fora positive net cash position. Only
+in the event of the potential acquisition of an unusually large
+company of extremely high strategic value for adesso would
+there be any deviation from this strategy.
+
+On this basis, the Executive Board is to continue pursuing the
+current dividend policy. If the profit targets can be achieved to
+a large extent, the Executive Board will strive to increase the
+dividend. The dividend proposed for 2013 will reflect actual
+developments.
+
+Opportunities and Risk Report
+
+Risk management is a pivotal component of all decisions and
+business processes. In a wider context, adesso understands risks
+as the danger of notachieving financial and operating targets as
+planned and, in the strictest sense, as factors endangering the
+existence of the company. In order to safeguard the success of
+the company over the long term, it is therefore essential that
+adesso identifies and analyses risks efficiently and combats or
+mitigates them by implementing sufficient control measures.
+adesso’s active risk management therefore also opens up oppor-
+tunities for the company.
+
+Risk Management System
+
+adesso possesses a system of processes and data analysis struc-
+tures to monitor risks posed to the company. An exclusive risk
+management software system is not used. Instead, adesso uses
+an integrated system developed by Corporate Planning AG for
+financial and operational planning as well as operational con-
+trolling. All plan and actual data from all business areas is stored
+ina central database for the purposes of reporting. Current fig-
+ures are inputted directly from financial accounting. In addi-
+tion, key figures such as sales per employee, available liquidity,
+resources notat full capacity, order intake and order backlog are
+also recorded. All companies included in the scope of consoli-
+dation are part of the reporting system.
+
+Fixed reporting channels have been established for other risks,
+such as those arising from the absence of contracts, high levels
+of receivables from customers or projects that are threatening
+to go over budget. Certain reporting thresholds apply, which,
+if breached, result in the issue being included on the agenda of
+
+
+--- Page 14 ---
+
+Executive Board meetings. Similar risks posed to companies in
+adesso Group are identified through close cooperation with the
+respective responsible Executive Board member of adesso AG.
+adesso does not have a central risk manager. Risk reporting and
+assessment is documented ina risk manual. The risk manual is
+submitted to the Supervisory Board so that the risk manage-
+ment system can be acknowledged and reviewed.
+
+Recognising opportunities and new areas of business are just
+as important for the development of adesso. Working groups
+consisting of the Executive Board, Business Development,
+the management of companies in adesso Group and heads of
+business areas, meet on a regular basis to analyse new business
+opportunities and develop new business models, industries,
+solutions or regions. The progress made in implementing these
+measures is presented at regular intervals.
+
+Within the scope of a risk inventory, the following risks were
+assessed as relevant to our business and subsequently assessed
+in view of their probability of occurrence and amount of loss.
+In principal, only risks that would have negative implications
+for the asset, financial or profit situation if they were to come
+to fruition are listed here.
+
+Moreover, adesso is potentially exposed to further risks which
+may not be known or be considered as major risks at the current
+time. The risk factor is calculated as a product of probability of
+occurrence and the amount of loss and forms the basis for the
+relevance of the risk. The following risks were identified as of
+the reporting date and as of the preparation of the management
+reportas havinga risk factor worthy of inclusion in this report:
+
+Primary Risk Carrier
+
+Risks from a Shortfall in Planned Sales
+
+In the event of a high gross margin and a large share of fixed
+costs, low sales can be directly reflected in adesso’s result.
+In 2012, the two halves of the year were very different. For
+example, almost the entire operating profit was generated
+in the second half of the year and the full-year target was not
+reached. General expectations in terms of economic develop-
+ment in 2013 are cautiously optimistic. At the moment, it is
+more difficult to assess demand than it has been in previous
+planning periods. In the IT Services business area, capacity
+utilisation is expected to increase on average in 2013. How-
+ever, a decline in order intake or the termination of important
+ongoing customer orders could result in idle periods with
+corresponding implications for the profit and financial situa-
+tion within a short period of time. Given that the IT Services
+business area in particular generates business over specific
+periods of time, such idle periods are difficult to compensate
+for. This risk factor will increase in significance in comparison
+
+adesso AG Annual Report 2012
+
+with the previous year due to the more positive forecast in
+terms of capacity utilisation, even though general economic
+risks are anticipated to fall as a result of further stabilisation
+of the financial crisis in the eurozone. Given that this risk fac-
+tor is highly relevant to the company, adesso monitors the fol-
+lowing values on a monthly, and sometimes biweekly basis in
+order to identify trends at an early stage and take correspond-
+ing action: order backlog, order intake, number of hours
+invoiced and capacity utilisation rates, number of employees
+not working at full capacity.
+
+The IT Solutions business area pursues a product strategy. In
+this business area, even standard solutions developed by adesso
+are sold and implemented through licensing with maintenance
+contracts. While maintenance contracts represent a relatively
+stable basis for sales, the achievement of targets and the result of
+product companies are reliant on order intake and much more
+volatile than the service business given the low number ofnew
+licences sold. Sales revenues from maintenance activities do
+not cover total ongoing costs at any of the companies in adesso
+Group. Asa result, the product companies’ licence sales and
+related sales pipelines are monitored in detail in terms of struc-
+ture and development over time. The plan deviation risk fac-
+tor is also set to increase in 2013 in the IT Solutions business
+area, as a substantial volume of investment will go toward fur-
+ther internationalisation in regions such as the USA, Scandi-
+navia, the UK and Switzerland. Based on internationalisation
+planning, seven-figure licence sales are already anticipated from
+new international customers. However, planned sales in new
+regions are hampered by increased uncertainty.
+
+In each business area, there are detailed plans in which actual
+figures and previous year’s figures are compared on a monthly
+basis. A revised forecast continues to be produced every quarter
+detailing anticipated plan deviations at an early stage. The cor-
+responding reports form the foundations for monthly meetings
+on business development and business prospects. This applies
+to all companies of adesso Group.
+
+Project Risks
+
+In the event of the budgeted time frame and costs being
+exceeded, fixed-price projects can lead to project-related
+losses. Budget deviations are identified and analysed con-
+stantly during every fixed-price project. There is also an esca-
+lation mechanism that extends to the Executive Board. As of
+the reporting date, there were several cases in which custom-
+ers refused to accept delivery. Two customers claimed back
+payments that had been made totalling over EUR 0.5 mil-
+lion. Several projects presented for customer approval have
+not yet been formally accepted by the customer. However, as
+there has been no case of refusal to accept delivery, this delay
+
+49
+
+
+--- Page 15 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+is not unusual for standard business operations. The backlog
+of fixed-price projects that have yet to be invoiced in full rose
+year on year. Project risks are anticipated to have increased,
+as there have been several cases of refusal to accept delivery
+and claims for repayment and one extensive, high-loss fixed-
+price project in Germany, which led to substantial negative
+effects in 2012.
+
+At adesso, an Excel-based project controlling and reporting
+system is used. Depending on the project structure, sub-pro-
+jects are defined and mapped on adesso’s web-based pro-
+ject and schedule management system. Expenses are dis-
+tributed across the sub-projects and milestones are defined.
+Over the course of the project, the actual time and expenses
+are compared with plan figures, the remaining expenses are
+calculated and compliance with the defined schedule is doc-
+umented. Additional monthly assessments of work that is
+still to be completed are used to calculate the level of comple-
+tion. By comparing the level of completion and the remain-
+ing expenses, any potential budget deviations can be iden-
+tified at an early stage. Projects that are given “overspend”
+status where it is likely that the budget will be exceeded are
+then added to the agenda of subsequent Executive Board
+meetings. Aside from acknowledging the risk, the Executive
+Board meeting also discusses potential strategies to improve
+the situation by analysing the reasons for the overspend-
+ing. However, the share of projects with fixed budgets in
+the form of service contracts in terms of overall adesso sales
+is low at under 20 %. In spite of this, the negative effects of
+budget overspends in fixed-price projects over the past few
+years have risen. In order to counteract this trend, adesso AG
+has established a Project Management Office (PMO) where
+experts supervise particularly large-scale or challenging pro-
+jects using standardised tools and mechanisms alongside the
+regular project management team. Project risks exist in both
+business areas to the same extent.
+
+Personnel Risks
+
+adesso is an IT company without any notable fixed assets. The
+company’s most important assets are its employees. Asa result,
+adesso constantly monitors and assesses a number of key per-
+formance indicators such as headcount, number of unproduc-
+tive employees, number of employees on sick leave, employee,
+costs/sales per employee and capacity utilisation. The top-level
+management is always informed about every dismissal and new
+recruit. The Executive Board regularly analyses trends and dis-
+cussed measures in its meetings. This allows any potential loss
+of knowledge and expertise to be identified promptly. In the
+product segments, essential knowledge is concentrated around
+asmall group of key developers. These developers are a particu-
+lar focus of human resources activities.
+
+50
+
+The search for suitable, experienced employees remains char-
+acterised by an ever-increasing demand surplus from the com-
+panies. By contrast, the resulting entry-level salary expecta-
+tions expressed by new recruits as well as existing employees’
+expectations regarding pay rises are not always able to be com-
+pensated through a corresponding adjustment of market prices,
+meaning that the operating margin can be negatively impacted
+as a result. adesso reinforces its position as a premium IT ser-
+vice provider through extraordinarily talented employees
+with a vast amount of experience in their fields. Competitors
+in this area continue to increase their headcounts ~ not simply
+IT service providers, but also between user companies and the
+IT industry, A small number of employees are responsible for
+adesso’s outstanding position in its core industries. The simul-
+taneous departure of more than one of these employees would
+expose the company to medium-term risks in terms of its fur-
+ther development. Such risks are combatted through active
+recruiting, strategies to intensify employee loyalty and excel-
+lent career prospects in a prospering company.
+
+Employee turnover remained at a stable level that is average
+for the industry in 2012. The risk of the lack of availability of
+experienced employees as well as risks from high employee
+turnover and salaries increasing disproportionately to market
+prices were assessed as being constant. Asa result, personnel
+risk remains one of the group’s main risks.
+
+Risks from the Development of New Products and
+Solutions
+
+In 2011 and 2012, adesso Group significantly increased its
+investment in the development of new products and solu-
+tions and therefore shifted the risk profile of its service-ori-
+ented business model more towards its product business. The
+volume of investment was substantial in relation to the consoli-
+dated income statement and, asa result, was included as one of
+the main risks in 2011. This risk mainly affects the IT Solutions
+business area. Development of the dynamic.suite, the compa-
+ny’s single most important development, was stopped in the
+middle of 2012; investment made thus far has been written off.
+While this signifies the relevance of this risk, it has declined
+year on year asa result of the substantial decline in development
+work, which is now confined to several small-scale projects.
+
+Other Relevant Risks
+
+Risks from Business Activities in other Legal Sys-
+tems
+
+adesso Group continues to expand internationally and enter
+new legal systems. This strategy presents potential risks in both
+business areas from lack of knowledge of legal affairs and prac-
+tical business operations. However, as of the reporting date,
+the IT Solutions business area was more exposed to these risks
+
+
+--- Page 16 ---
+
+than the IT Services business area, after e-Spirit AG established
+anew company in the USA knownas e-Spirit Inc. based in Del-
+aware with offices in Boston. In the USA, the risk of product
+manufacturers taking legal action is greater than it is in Ger-
+many. The German management team lacks experience in deal-
+ing with American customers. e-Spirit Inc. has an insurance
+policy with the maximum amount of liability that it could be
+granted. In terms of both the legal structure of the company
+as well as internal cost allocation, it has been ensured that the
+potential for any problems to spread across to e-Spirit AG is as
+low as possible. In the IT Services business area, adesso is set to
+launch a subsidiary in Turkey. Itis to be ensured thata manage-
+ment team is in place that has experience of the local market,
+however, the company will also be exposed to lack of knowl-
+edge of Turkish law. In view of the marginal scope of business
+compared with the rest of the group, this risk is still classified
+under other relevant risks at the current time.
+
+Risks from the Customer Structure
+
+As sales from individual customers or customer groups
+increase, so does the risk posed by such customer relationships
+from potential project terminations or normal project expiry.
+In 2012, the largest customer accounted for 8 % (previous year:
+8 %) of total sales. A total of 33 % of overall sales were gen-
+erated from adesso’s 10 largest customers (previous year: 37
+%). Risks from the customer structure have been falling as a
+result of adesso’s growth. The assessment of this risk remains
+the same as the previous year and is still classified under the
+group’s other relevant risks. However, the abrupt loss of one
+of the group’s 10 largest customers would have the potential
+to negatively impact the earnings and financial situation of the
+company substantially, at least in the short term. The relation-
+ship to each of these top customers is managed by a member
+of the Executive Board or by the management of the respective
+subsidiary in order to recognise potential risks promptly and
+take appropriate action.
+
+Each quarter, the top 10 customers are listed by sales and each
+customer’s share of overall sales is calculated. This avoids a con-
+centration on a small number of customer relationships and
+therefore allows a cluster risk to be recognised promptly.
+
+Risks from Regulatory Law
+
+Asa listed company on the regulated market, adesso AG is sub-
+ject to a number of additional legal requirements and obliga-
+tions, such as the Aktiengesetz (AktG — German Stock Corpo-
+ration Act), the Wertpapierhandelsgesetz (WpHG- German
+Securities Trading Act) and the Wertpapieriibernahmege-
+setz (WpUG - German Securities Acquisition and Takeover
+Act). adesso follows corresponding developments in case law,
+obtains assessments from experience solicitors and familiarises
+
+adesso AG Annual Report 2012
+
+its entire workforce with the fulfilment of the legal obligations
+of a listed company. As a consequence, adesso has established
+a Compliance Officer, set up an insider directory and contin-
+uously reviews incidents that could lead to insider trading or
+result in an imbalance of information on the capital market.
+
+In September 2012, the Federal Financial Supervisory Author-
+ity (BaFin - Bundesanstalt fiir Finanzdienstleistungsaufsi-
+cht) began a review into the suspicion of the late publication
+of insider information contrary to Article 15 (1) Sentence 1
+WpHG and filed charges on three counts relating to commu-
+nication in 2011. According to the Ordnungswidrigkeitenge-
+setz (OWiG - German Act on Regulatory Offences), the maxi-
+mum penalty for such breaches of the law is a fine of up to EUR
+1 million, depending on their severity. adesso has issued a full
+statement on the allegations and contradicted BaFin’s version
+of events through its legal representative. In this regard, adesso
+AG is unaware of any further procedures on the part of BaFin.
+
+Financial Risks
+
+The risks posed by the financial situation and liquidity have
+increased. In spite of ongoing repayments in 2012 amounting
+to EUR 3.0 million, interest-bearing liabilities have increased
+as a result of the assumption of a further acquisition loan of
+EUR 5.0 million. These repayments must be made, even in the
+absence of business success. However, liquid assets far exceed
+loan liabilities meaning that the complete repayment of loans
+using cash reserves remains a possibility.
+
+Currency risks remain low for adesso. Only a small proportion
+of sales are conducted in a currency other than the euro. These
+transactions mainly concern adesso Schweiz AG and e-Spirit
+Schweiz AG, which conduct business in Swiss francs, e-Spirit
+UK Ltd., which conducts business in British pounds and e-Sprit
+Inc., which operates in the US dollar currency area. These com-
+panies process the majority of their business in the respective
+national currency. No currency hedging transactions were car-
+ried out.
+
+adesso AG’s loss carryforwards for trade tax and corporation
+tax purposes as of 31 December 2006 continued to be utilised
+in relation to BOV AG in consideration of minimum taxation
+following the fusion of adesso AG (old). However, the possibil-
+ity cannot be ruled out that financial administration at adesso
+AG will not recognise the restructuring of business operations
+of BOV AG in accordance with Section 8 (4) Kérperschaftss-
+teuergesetz (KStG — German Corporation Tax Act) at all or to
+the full extent. Non-recognition would mean that adesso AG’s
+loss carryforwards for trade tax and corporation tax purposes
+would expire either in part or in full. Tax expenses in adesso
+AG’s 2012 annual report would increase by EUR 783 thousand
+
+51
+
+
+--- Page 17 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+(previous year: EUR 913 thousand) without the utilisation of
+loss carryforwards and, since the loss carryforwards have been
+utilised, bya total of EUR 4,681 thousand. Ifadesso’s financial
+administration does not recognise this tax benefit, this amount
+would have to be reported in the income statement and paid
+out less interest on arrears of approximately EUR 0.4 million
+(calculated as of 31 December 2012). In addition, the carrying
+amountas of 31 December 2012 of deferred tax assets of EUR
+5.0 million would have to be reversed on the income statement,
+which would have substantial negative implications for adesso
+AG’s asset, financial and profit situations.
+
+evu.it GmbH’s loss carryforwards existing for trade tax and cor-
+poration tax purposes as of its acquisition (April 2010) have
+been utilised. However, the possibility cannot be ruled out that
+evu.it’s financial administration will not recognise the restruc-
+turing of business operations in accordance with Article 8c (1)
+Sentences 6 — 9 Kérperschaftssteuergesetz (KStG - German
+Corporation Tax Act) at all or to the full extent. Non-recogni-
+tion would mean that the companies’ loss carryforwards exist-
+ing for trade tax and corporation tax purposes as of the acqui-
+sition would expire either in part or in full. Tax expenses in
+avu.it GmbH’s 2012 annual report would increase by EUR 0
+thousand (previous year: EUR 0 thousand) without the utili-
+sation of loss carryforwards and, since the loss carryforwards
+have been utilised, by a total of EUR 242 thousand. As of the
+reporting date, the carrying amount of evu.it GmbH’s loss car-
+ryforwards existing as of the acquisition totalled EUR 34 thou-
+sand. There were no notable risks from financial instruments.
+
+Overall Statement Concerning the Group’s Risk
+Situation
+
+The overall risk profile of adesso has increased year on year. The
+main reasons for this are the reduction in the net cash position,
+increased risks asa result of internationalisation, increased pro-
+ject and planning risks as well asa real risk from regulatory law.
+In contrast, the risk profile was improved by reducing invest-
+ment in the development of adesso products. None of the iden-
+tified risks can be considered at the current point in time as risks
+that endanger the existence of the company as a going concern.
+However, the risks detailed above could have a negative impact
+on theasset, financial and earnings situation as well as on busi-
+ness performance.
+
+Opportunities
+
+adesso has introduced a series of measures to identify, assess
+and monitor opportunities for positive group development.
+Alongside sales information systems, these measures are
+focused on organisational units for portfolio development
+within the industry (Industry Groups), on the assessment
+of new technological developments and on the evaluation of
+
+52
+
+the suitability of other industries (Strategy Group). With the
+group further increasing in size, the systematic networking
+of all units within adesso Group is leading to ever-increasing
+synergy effects, particularly in sales, and an integrated service
+approach for major customers.
+
+In 2013, there will be a wide range of further opportunities to
+expand business activities and increase profits. The Business
+Intelligence and Telecommunication areas launched in 2012
+have the potential to generate additional business in Germany.
+The adesso platform drebis is to be expanded to include vehi-
+cle damage claims in the automotive sector (previously only
+legal protection). Marketing activities for the PSLife system in
+the life insurance industry will be stepped up in 2013. One of
+these measures has been the appointment of a dedicated man-
+ager in order to speed up the positioning of the product on the
+market. Newly founded adesso hosting services GmbH expands
+adesso’s portfolio with new hosting and cloud services and also
+offers adesso a basis for operator models. The restructuring of
+the energy industry has substantial potential to increase prof-
+its in comparison with the previous year.
+
+The intensification of product internationalisation strategies
+in the UK, Scandinavia and the USA over the course of 2013
+will lead to additional business prospects in subsequent years
+in terms of sales and in terms of profits. adesso is also planning
+to enter the Turkish market, one of the most dynamic regions
+in the world.
+
+
+--- Page 18 ---
+
+Internal Control System and
+Risk Management System in
+Terms of the Consolidated
+Accounting Process
+
+In the accounting process, there is a risk that the financial
+reports based on the accounts could contain misrepresenta-
+tions of facts that could have a significant influence on deci-
+sions made by the intended recipients of the reports. These can
+include the misallocation of resources and non-performance of
+certain measures by the management in terms of the internal
+operative management of the company and its subsidiaries, as
+well as misinterpretation on the part of report recipients, and
+particularly existing and potential shareholders. The processes
+and systems established at adesso are geared toward identifying
+potential sources of errors in the accounting process and thus
+limiting the resulting risks; they are intended to ensure that the
+annual report and consolidated financial statement are prepared
+in accordance with legal requirements. The report is standard-
+ised and identical in form for both the management report of
+the annual financial statementas well as for the group manage-
+ment report of adesso AG.
+
+Atadesso, no control and risk management system was defined
+and documented especially for the purposes of the accounting
+process. There is no internal auditing structure or risk commit-
+tee. No external advisors or auditors were engaged to review
+the efficiency of the controls in place as part of the consolidated
+accounting process. The structure of the internal control mech-
+anisms and risk management system is the result of how the
+accounting and reporting processes are organised.
+
+The majority of the accounting is carried out decentrally by
+each of the companies within adesso Group. As the parent com-
+pany, adesso AG performs accounting services for some adesso
+Group companies together with centralised administrative pro-
+cesses such as payroll accounting. These companies’ accounts
+are primarily kept on the same accounting system as clients.
+The fact that the same people are responsible for this process
+throughout the group and that the adesso AG CFO has ongoing,
+direct access to the reporting and accounting processes provides
+an outstanding basis for the standardised, correct representa-
+tion of facts. Almost all companies use a standardised consoli-
+dated accounts system, minimising the number of discrepan-
+cies from the standard style of accounts. The extensive coverage
+of group accounts means that it is simple to coordinate inter-
+nal group performance processes. The respective management
+teams are responsible for individual financial statements. Each
+
+adesso AG Annual Report 2012
+
+financial statement that forms part of the consolidated financial
+statement is reviewed by the group auditor in terms ofits plau-
+sibility and compliance with group standards, irrespective of
+any audits performed by the local auditor or tax consultant. For
+this purpose, the auditor of the consolidated financial statement
+visits the respective local auditor and inspects documentation.
+
+All individual financial statements are submitted to a central-
+ised consolidation system in adesso AG’s Finance department
+and consolidated into the consolidated financial statement in
+accordance with the IFRS reconciliation statement. The soft-
+ware solution specially procured for this purpose was audited
+and certified in accordance with the “Erteilung und Verwend-
+ung von Softwarebescheinigungen” auditing standards (‘“Issu-
+ance and Use of Software Certificates”) published by the Insti-
+tut der Wirtschaftpriifer in Deutschland e.V. (IDW PS 880).
+AILIFRS reconciliation and consolidation processes are fully
+documented and traceable.
+
+The core elements of the control and risk management sys-
+tem when it comes to accounting is the monthly, standardised
+reporting of full monthly financial statements on the basis of
+the consolidated accounts system, the comparison of actual
+data with plan data and the quarterly update to the full-year
+forecast. A member of the adesso AG Executive Board is directly
+responsible for every company in adesso Group. These Execu-
+tive Board members discuss monthly financial statements with
+the respective company management and are thus able to iden-
+tify abnormal developments and discrepancies. The monthly
+financial statements of all companies are analysed monthly
+by the adesso AG Executive Board. For the quarterly financial
+statements, each company must prepare an extensive IFRS
+package containing information for consolidation and details
+of the notes. This allows the Finance department of adesso AG
+to carry outa further audit of all information intended for exter-
+nal reporting during the financial year. The auditor of the con-
+solidated financial statement is referred to for selected issues.
+
+53
+
+
+--- Page 19 ---
+
+Foreword by the Executive Board
+Report by the Supervisory Board
+Investor Relations
+
+2012 Highlights
+
+New School of IT
+
+@ Group Management Report
+
+Consolidated Financial Statement
+Consolidated Notes
+Management and Directors
+Service
+
+Takeover-relevant Information
+
+adesso reports in accordance with the specification taken from
+the Ubernahmerichtlinie-Umsetzungsgesetz (UbernRLUG —
+German act on the implementation of EU directive on takeover
+bids) and assumed in Article 315 (4) HGB and Article 289 (4)
+HGB with the aim of providing potential takeover bidders with
+acomplete overview of adesso as well as any potential takeover
+hurdles before they submit an offer.
+
+There is only one type of share. Each common share grants one
+vote. adesso shares do not have restricted transferability. The
+Executive Board is not authorised to acquire its own shares
+through adesso AG. As of the reporting date, adesso AG itself
+held none of its own shares. In addition, we are not aware of
+any other restrictions with regard to voting rights. In princi-
+ple, there are no restrictions in respect of the transfer of adesso
+shares. As of 31 December 2012, no adesso shares were subject
+toalock-up agreement. We are not aware of any further restric-
+tions that could arise from agreements between shareholders.
+Further information on equity and the company’s capital meas-
+ures can be found in the equity section of the notes.
+
+As of 31 December 2012, founding shareholder and Super-
+visory Board Chairman Prof. Dr. Volker Gruhn held 29.9 % of
+share capital through a company he controls. Rainer Rudolf,
+who was a member of the Executive Board until 30 September
+2011, held 19.4 % of share capital at the time of his departure.
+As of his voting rights announcement, Ludwig Fresenius held
+10.1 % of share capital. Please see the notes to the annual report
+and the consolidated financial statement for more information
+on the company’s ownership structure. We are not aware of
+any other direct or indirect share capital participations which
+exceed 10 % of voting rights. As the shares in the company
+are bearer shares, the company is in principle only notified of
+changes to share ownership insofar as the changes of ownership
+are subject to notification obligations and the respective par-
+ties fulfil these obligations. The company is only made aware
+of transactions that are completed within minimum and maxi-
+mum notification thresholds in exceptional cases. Voting rights
+announcements as well as the shareholder structure derived as
+aresult are always kept up to date in the Investor Relations part
+of the website at www.adresso-group.de.
+
+The Articles of Association do not permit any adesso share-
+holder to appoint members of the Supervisory Board. No share-
+holder possesses any other special rights that confer them pow-
+ers of control. There are no restrictions to the voting rights of
+the adesso shares held by our employees.
+
+Members of the Executive Board are appointed or dismissed
+in accordance with Articles 84 and 85 AktG. The Executive
+
+54
+
+Board consists of at least one person in accordance with Article
+6 of the Articles of Association. The Supervisory Board deter-
+mines the number of Executive Board members, as well as the
+appointment and dismissal of members and the appointment
+of a member of the Executive Board as CEO. Changes to our
+Articles of Association are carried out in accordance with Arti-
+cles 179 and 133 AktG by means ofa resolution by the General
+Meeting passed with a majority of at least three-quarters of the
+share capital represented at said meeting. The Articles of Asso-
+ciation do not contain any derogative provision. The Supervi-
+sory Board is entitled to resolve changes to the wording of the
+Articles of Association (Article 10 (7) of the Articles of Asso-
+ciation). The resolutions of the General Meeting are decided
+on the basis of a simple majority of submitted votes, unless a
+different voting system is stipulated by law (Article 15 of the
+Articles of Association).
+
+The company is not part of any material agreement containing
+special regulations in the event of a change of control or acqui-
+sition of control, such as in the event of a takeover bid. Our
+Articles of Association do not contain any provisions which
+grant the Executive Board special powers in the event of a take-
+over bid. Agreements concerning the phantom share plan stip-
+ulate a shorter waiting period of phantom shareholders in the
+event ofa change of control. Moreover, there are no agreements
+with members of the Executive Board or the Supervisory Board
+or any employees concerning compensation in the event ofa
+change of control.
+
+
+--- Page 20 ---
+
+Declaration of Conformity
+(Article 289a HGB) and
+Corporate Governance Report
+
+Inaccordance with Section 3.10 of the German Corporate Gov-
+ernance Code, the Executive Board and Supervisory Board of
+adesso AG report on an annual basis regarding the corporate
+governance of the company and publish this report in con-
+junction with the Declaration of Conformity in accordance
+with Article 289a HGB. Both the Declaration of Conformity
+and the Corporate Governance Report are available at www.
+adesso-group.de (Investor Relations > The Group > Corporate
+
+Governance).
+
+adesso AG Annual Report 2012
+
+Remuneration Report
+Principles of the Remuneration System
+
+Atadesso, variable remuneration systems are in place through-
+out the group fora variety of functions. Management remuner-
+ation is primarily geared toward the success of the company and
+industry standards. Alongside basic remuneration, the adesso
+AG Executive Board also receives a performance-related com-
+ponent depending on the achievement of sales and operating
+result targets at both an adesso AG level anda group level. One
+component of the performance-related remuneration is con-
+tingent on the achievement ofa fixed minimum result, another
+on the level of target achievement targets over the course of the
+previous financial year and a further component on the level of
+target achievement over the course of the last four years and the
+current year. Another component of the Executive Board’s vari-
+able remuneration is share-based in the form of share options.
+The Executive Board is part of the company-wide share option
+scheme that is available to many employees. Some Executive
+Board members have been assigned phantom shares as part of
+a long-term incentive plan which bear a dividend through the
+Executive Board member’s salary and, after a holding period,
+provide the Executive Board member with a return value,
+depending on the price of adesso shares. In accordance with
+Article 11 of the Articles of Association, the members of the
+Supervisory Board receive an annual salary plus expenses which
+consists of a fixed component of EUR 5 thousand (the Chair-
+person receives 1.5 times this amount) and a variable compo-
+nent of 0.0275 % of the company’s balance sheet profit less 4%
+of the paid-in contributions to the share capital. Further vari-
+able remuneration systems are in place at various levels of the
+corporate hierarchy. These are predominantly pegged to the
+volume of services invoiced to customers, profit contributions
+from business units or order intake in sales.
+
+Please see the notes for more information on remuneration,
+such as the amount and structure of the company’s Executive
+Board and Supervisory Board remuneration.
+
+5S

@@ -1,0 +1,2672 @@
+
+
+--- Page 1 ---
+
+T Group, S.A. and Subsidiaries
+
+1 Summary
+
+1.1 Introduction
+Full Year 2018 highlights (year ended December 31, 2018)
+
+In Distribution, our travel agency air bookings grew 2.1%, to 580.2 million
+
+In IT Solutions, our passengers boarded increased 11.9%, to 1,853.9 million
+
+Revenue grew by 6.6%", to €4,943.9 million (high single-digit growth rate, excluding foreign exchange
+effects)
+
+EBITDA increased by 9.7%’, to €2,040.6 million (high single-digit growth rate’, excluding foreign exchange
+and IFRS 16 effects)
+Adjusted profit? increased by 1.0%!, to €1,122.8 million
+
+Free Cash Flow amounted to €989.0 million’, representing growth of 7.8%
+
+Net financial debt* was €3,074.0 million at December 31, 2018 (1.47 times last-twelve-month EBITDA‘)
+
+Amadeus continued to evolve positively through the fourth quarter of 2018, delivering 2018 Revenue, EBITDA
+and Adjusted Profit growth of 6.6%", 9.7% and 1.0%", respectively (excluding TravelClick related acquisition
+transaction costs) *. This result was supported by the operating performances across our Distribution and IT
+Solutions segments, as well as by the TravelClick consolidation effect? (acquired on October 4, 2018). Our
+reported financial performance in the period was distorted by the USD/Euro exchange rate compared to the
+same period last year, which had an important negative impact on our results. Excluding foreign exchange
+effects (and also, the IFRS 167 impact on EBITDA), in 2018 Revenue and EBITDA both grew at high single-digit
+growth rates’, with a broadly stable EBITDA margin. The slower relative growth in Adjusted Profit in 2018 was
+driven by extraordinary positive deferred tax liability adjustments in 2017, excluding which Adjusted Profit
+grew 6.0% in the year.
+
+In Distribution, we continued to secure and expand content for our subscribers by renewing or signing
+distribution agreements with 15 carriers in the quarter (including Finnair, and TAP), amounting to a total of
+50 in 2018. Also, recently, in India, Vistara renewed its distribution agreement with Amadeus and the Indian
+low cost carrier SpiceJet, signed its first distribution agreement with Amadeus. In 2018, our Distribution air
+volumes increased by 2.1%, impacted by a decelerating industry and Amadeus weak market share
+performance in the Western European OTA segment. Market share weakness in Western Europe has
+impacted our global competitive position®, which slightly decreased by 0.2 p.p in 2018 to 43.7% (excluding
+Western Europe, our competitive position® expanded by 1.1 p.p. in 2018 and by 1.4 p.p. in the fourth quarter).
+
+Including TravelClick’s 2018 consolidation effect of: Revenue, EBITDA and Adjusted Profit contributions of €86.7m, €22.3m and €14.3m,
+respectively, while excluding TravelClick’s related acquisition transaction costs, PPA adjustment and bank acquisition financing interest
+expense. For full details, please see section 3.2 on TravelClick’s acquisition and impacts. Also, compared to 2017 figures restated for IFRS 15
+and IFRS 9, applied from January 1, 2018. See section 3.1 for further details. In addition, we are early adopters of IFRS 16, which we applied
+since January 1, 2018. 2017 figures will not be restated for IFRS 16. In 2018, IFRS 16 had a positive €47.4 million impact on EBITDA. See
+section 3.1 for further details.
+
+2 Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses, (ii) non-operating
+exchange gains (losses) and (iii) other non-recurring items.
+
+3 Defined as EBITDA, minus capex, plus changes in our operating working capital, minus taxes paid, minus interests and financial fees paid.
+Including TravelClick’s 2018 Free Cash Flow contribution of €14.8m, while excluding TravelClick’s related acquisition transaction costs paid
+and TravelClick’s acquisition financing interest paid and related non-recurring fees. For full details, please see section 3.2 on TravelClick’s
+acquisition and impacts.
+
+“ Based on our credit facility agreements’ definition.
+
+5 Competitive position as defined in section 3.
+
+Page 3
+
+
+--- Page 2 ---
+
+milion of eurs) aMaDEUS
+
+Asia and Pacific, as well as North America, were our fastest-growing regions in 2018, expanding at high growth
+rates. Over this period, Distribution revenue grew 2.8%", negatively impacted by foreign exchange effects.
+
+IT Solutions revenue grew 13.1%° in 2018, negatively impacted by foreign exchange effects. This evolution
+was driven by (i) growth in Airline IT solutions, (ii) a continued expansion in our new businesses and (iii) the
+consolidation of TravelClick. In Airline IT, Passengers Boarded increased by 11.9% over 2018, resulting from
+7.6% organic Passengers Boarded growth and our 2017/18 migrations, including Southwest Airlines, Japan
+Airlines, Malaysia Airlines, Kuwait Airways, Boliviana de Aviacion, SmartWings,, Norwegian Air Argentina, Air
+Algerie, MIAT Mongolian Airlines ,S7 Airlines, Peruvian Airlines, Maldivian Airlines, Cyprus Airways and
+Aeromar on Altéa, as well as, GoAir, Viva Air Peru, Andes Lineas Aéreas, JetSMART flyadeal and Volaris Costa
+Rica on New Skies.
+
+Our Airline IT customer base expanded during the quarter. Cyprus Airways and Peruvian Airlines contracted
+and implemented the full Altéa Suite, including Inventory, Reservation, Departure Control and Flight
+Management. Peruvian Airlines also contracted e-commerce solutions. Additionally, S7 Airlines completed
+the implementation of the full Altéa Suite, while Volaris Costa Rica contracted and migrated to New Skies. In
+December, we were pleased to announced that Singapore Airlines had implemented Amadeus Altéa NDC
+and Amadeus Anytime Merchandising to accelerate its digital transformation and enhance its retailing
+capabilities.
+
+During the fourth quarter, we continued to progress in the roll-out of the Guest Reservation System with
+InterContinental Hotels Group, which has now been completed successfully. InterContinental Hotels Group’s
+more than 5,600 properties across 15 brands and more than 100 countries are now live. Going forward, there
+will be future updates to the platform bringing enhanced features and functionality, including attribute-based
+selling.
+
+We have remained highly focused on our technology investment as we believe it is the key to our success. In
+2018, our investment in R&D amounted to 17.8% of revenue. It was dedicated to support our mid to long-
+term growth, through product evolution, portfolio expansion, new customer implementations, system
+performance optimization and our continued shift to next-generation technologies and cloud architecture.
+
+In 2018, our Free Cash Flow grew 7.8%’ to €989.0 million. At the end of the year, our net financial debt®
+stood at €3,074.0 million, representing 1.47 times last-twelve-month EBITDA’.
+
+© Including TravelClick’s 2018 consolidation effect of €86.7m, while excluding TravelClick’s related PPA adjustment. For full details, please
+see section 3.2 on TravelClick’s acquisition and impacts. Also, compared to 2017 figures restated for IFRS 15 and IFRS 9, applied from
+January 1, 2018. See section 3.1 for further details.
+
+7 Defined as EBITDA, minus capex, plus changes in our operating working capital, minus taxes paid, minus interests and financial fees paid.
+Including TravelClick’s 2018 Free Cash Flow contribution of €14.8m, while excluding TravelClick’s related acquisition transaction costs paid
+and TravelClick’s acquisition financing interest paid and related non-recurring fees. For full details, please see section 3.2 on TravelClick’s
+acquisition and impacts.
+
+® Based on our credit facility agreements’ definition.
+
+Page 4
+
+
+--- Page 3 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+1.2 | Summary of operating and financial information
+
+Full Year Full year
+Summary of KPI (€millions) 20181” 2017" Change
+Operating KPI
+TA air bookings (m) 580.2 568.4 2.1%
+Non air bookings (m) 63.0 64.0 (1.5%)
+Total bookings (m) 643.2 632.3 1.7%
+Passengers boarded (m) 1,853.9 656.5 11.9%
+Financial results*
+Distribution revenue 3,004.3 2,922.1 2.8%
+IT Solutions revenue 1,939.7 715.1 13.1%
+Revenue 4,943.9 4,637.2 6.6%
+Distribution contribution 1,380.7 ,350.1 2.3%
+IT Solutions contribution 1,352.4 219.7 10.9%
+Contribution 2,733.0 2,569.8 6.4%
+EBITDA 2,040.6 859.9 9.7%
+EBITDA margin (%) 41.3% 40.1% 1.2 p.p.
+Adjusted profit? 1,122.8 112.1 1.0%
+Adjusted EPS (euros)* 2.61 2.54 2.7%
+Cash flow
+Capital expenditure 718.2 612.1 17.3%
+Free cash flow? 989.0 917.6 7.8%
+Indebtedness°® Dec 31,2018 Dec 31,2017 Change
+Net financial debt 3,074.0 2,083.3 47.6%
+Net financial debt/LTM EBITDA 1.47x 1.12x
+
+4Uncluding TravelClick’s 2018 consolidation effect of: Revenue, EBITDA and Adjusted Profit contributions of €86.7m, €22.3m
+and €14.3m, respectively, while excluding TravelClick’s related acquisition transaction costs, PPA adjustment and bank
+acquisition financing interest expense. For full details, please see section 3.2 on TravelClick’s acquisition and impacts. Also,
+compared to 2017 figures restated for IFRS 15 and IFRS 9, applied from January 1, 2018. See section 3.1 for further details.
+In addition, we are early adopters of IFRS 16, which we applied since January 1, 2018. 2017 figures will not be restated for
+IFRS 16. In 2018, IFRS 16 had a positive €47.4 million impact on EBITDA. See section 3.1 for further details.
+
+2Defined as EBITDA, minus capex, plus changes in our operating working capital, minus taxes paid, minus interests and financial
+fees paid. Including TravelClick’s 2018 Free Cash Flow contribution of €14.8m, while excluding TravelClick’s related acquisition
+transaction costs paid and TravelClick’s acquisition financing interest paid and related non-recurring fees. For full details,
+please see section 3.2 on TravelClick’s acquisition and impacts.
+
+3Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses,
+(ii) non-operating exchange gains (losses) and (iii) other non-recurring items.
+
+4 EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average
+outstanding shares of the period.
+
+5 Based on our credit facility agreements’ definition.
+
+Page 5
+
+
+--- Page 4 ---
+
+T Group, S.A. and Subsidiaries
+
+milion of eurs) aMaDEUS
+
+s’ Report for the year
+
+ded D:
+
+2 Operating Review
+2.1 Recent business highlights
+DISTRIBUTION
+
+During 2018, we signed 50 new contracts or renewals of content or distribution agreements with airlines,
+including Vistara, United Airlines, Scandinavian Airlines (SAS) and Norwegian. Subscribers to Amadeus’
+inventory can access c. 115 low cost carriers (LCCs) and hybrid carriers’ content worldwide. LCC and
+hybrid carriers’ bookings grew 13% in 2018.
+
+Several airlines and travel sellers joined our NDC-X program during 2018, including American Airlines,
+Travix, Carlson Wagonlit Travel or American Express Global Business Travel. The NDC-X program, which
+we unveiled in February, brings together all of Amadeus’ NDC activities — as an IT provider and an
+aggregator — under one roof, so that all relevant travel content from any source (EDIFACT, NDC,
+proprietary APIs and other aggregated content) can be distributed via any user interface or device.
+
+In March, we signed an agreement with Air France KLM enabling distribution through a Private Channel.
+Amadeus travel seller customers which enact a Private Channel agreement with Air France-KLM will be
+able to book Air France KLM content through Amadeus without a surcharge, which started to be levied
+from April 2018.
+
+Our merchandising solutions continued to gather interest from our customers. A total of 18 airlines signed
+up for Amadeus Airline Ancillary Services for the indirect channel and 16 airlines signed for Amadeus Fare
+Families in 2018. As of December 31, 2018, 151 airlines had Amadeus Airline Ancillary Services (from
+which 128 had already implemented it) and 81 had Amadeus Fare Families (of which 69 had already
+implemented the solution).
+
+IT SOLUTIONS
+Corporations
+
+In November, we announced that Bosch will implement Amadeus cytric Travel, the Amadeus corporate
+self-booking tool. Bosch will also implement Amadeus’ Mobile platform. Thanks to these solutions, Bosch
+will be able to offer its corporate travelers a seamless process from planning and booking their trip to
+submitting travel expenses. Bosch employees will additionally benefit from on-trip support, such as
+assistance with directions, securing reliable ground transportation or making restaurant reservations.
+
+Airline IT
+At the close of December, 214 customers had contracted either of the Amadeus Passenger Service
+Systems (Altéa or New Skies) and 204 had implemented them.
+During the year, several airlines including S7 Airlines, Bangkok Airways, Philippine Airlines (PAL),
+Peruvian Airlines and Cyprus Airways signed up for the full Altéa suite, including the reservation,
+inventory, ticketing and departure control modules. The Altéa suite will help these airlines to
+enhance customer experience by delivering more consistent and personalized customer service,
+develop new revenue streams, and improve operational efficiency. KC International Airlines, a new
+Cambodian carrier and Volaris Costa Rica contracted and implemented New Skies. Hawaiian
+Airlines, the Honolulu-based airline, selected Amadeus Altéa Departure Control Flight
+Management.
+In August, Easyjet contracted Amadeus SkySYM by Optym to improve the reliability of its flight
+schedules. SkySYM simulates airline schedules in the planning stage to improve schedule reliability
+and ensure smooth operations on the actual day of the flight.
+
+Page 6
+
+
+--- Page 5 ---
+
+T Group, S.A. and Subsidiaries
+
+milion of eurs) aMaDEUS
+
+In October, Southwest Airlines signed up for the full Amadeus Sky Suite by Optym with a 10-year
+agreement. The suite of five industry-first solutions gives Southwest Airlines the most
+comprehensive and advanced technology for all its network planning, simulation, forecasting an
+optimization needs.
+
+During the year we announced that Singapore Airlines and Avianca had both implemented
+Amadeus Altéa NDC.
+In March, Qantas completed its ambitious digital redesign. As part of it, the airline implemente
+some e-Commerce solutions, including Amadeus e-Personalize, Amadeus Affinity Shopper an
+Amadeus Flex Pricer Premium.
+We also collaborated with Lufthansa on its new biometric boarding solution using facial recognition.
+This innovative pilot, enabled through a collaboration between Amadeus, U.S. Customs and Border
+Protection (CBP), Los Angeles World Airports Authority (LAWA), and Vision Box, is available since
+March, for Lufthansa flights at Los Angeles International Airport (LAX). The airline intends to expan
+the pilot program to additional U.S. gateways and other passenger touchpoints.
+
+Additionally, during 2018, a total of 8 airlines had contracted Amadeus Revenue Management,
+including Finnair; 7 airlines had contracted Amadeus Anytime Merchandising including Singapore
+Airlines; 5 for Passenger Recovery and 7 for Customer Experience Management, including Garuda
+Indonesia. Also, Malaysia Airlines contracted for Amadeus Revenue Accounting.
+
+Hospitality
+
+During the year, we continued to progress in the roll-out of the Guest Reservation System with
+InterContinental Hotels Group, which has been completed successfully in the fourth quarter.
+InterContinental Hotels Group ‘s more than 5,600 properties across 15 brands and more than 100
+countries are now live. Going forward, there will be future updates to the platform bringing
+enhanced features and functionality, including attribute-based selling.
+
+In August, we announced an agreement to acquire TravelClick for $1.52 billion. TravelClick provides
+innovative cloud-based solutions, including an independent and mid-sized hotel Central
+Reservation System (CRS) and Guest Management Solution (GMS), as well as business intelligence
+and media solutions. The addition of TravelClick’s solutions to the Amadeus portfolio will create a
+hospitality leader providing a broad range of innovative technology to hotels and chains of all sizes
+across the globe. In October, following the regulatory approvals, Amadeus announced it had
+completed the acquisition. See more detail in section 3.2.
+
+In November, we announced that NH Group had joined TravelClick’s Demand360 program which
+gives hoteliers unique access to forward-looking demand data and allows hoteliers to develop
+optimal strategies for maximizing revenue. Working with TravelClick’s Demand360 provides hotels
+with an understanding of the booking trends in their local market, while giving them the ability to
+know what actions to take to drive performance and ensure that they are getting their fair share of
+bookings through the right segment and channel.
+
+Airport IT
+
+ASA Cape Verde Airports, a customer of Amadeus’ Airport Common Use Service (ACUS), contracted
+ACUS Mobile.
+
+We also saw increasing interest from customers in Amadeus Extended Airline System Environment
+(EASE) and we signed contracts with airports such as Killeen-Fort Hood Regional Airport, JFK Airport,
+Los Angeles International Airport, Bozeman Yellowstone International Airport BZN and Charleston
+County Aviation Authority.
+
+Page 7
+
+
+--- Page 6 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+Payments
+
+In April, we launched a new solution to facilitate payments of bookings made through airlines’ call
+centers. Rather than having to discuss payment details over the phone, with Amadeus Agent Pay
+airline agents send their customers a link, via SMS or email, to a secure webpage, so that the traveler
+can then complete the payment from their smartphone, tablet or PC. Meanwhile, the ticket is kept
+on hold, and issued automatically once the payment is complete. Finnair is using it not only for its
+call center but also for its chat-based customer service agents.
+
+Rail
+
+Swiss Federal Railways (SBB) contracted Amadeus to design and power its new intelligent and
+flexible booking solution, which will be used across all of SBB’s sales channels —online, at stations
+and third parties-.
+
+In September, we expanded our distribution agreement with SNCF, the French national railway.
+Thanks to this agreement, travel agencies beyond Europe will have access to SNCF rail content for
+the first time.
+
+Other announcements
+
+In the last quarter of the year, Standard & Poor’s and Moody’s confirmed their rating s and outlook.
+Moody’s a ‘Baa2’ long-term rating for Amadeus, with a stable outlook, and Standard & Poor’s its
+‘BBB’ long-term and ‘A-2’short-term ratings, with a positive outlook.
+
+Over the past few months, we have announced several changes to our Executive Committee:
+
+e Wolfgang Krips, former Senior Vice President of Technology Platform Engineering
+(TPE) at Amadeus, has been appointed Senior VP Strategy, an appointment driven by
+the increasing technological profile of Amadeus.
+
+e Dietmar Fauser has been appointed Senior Vice President of TPE, taking over from Mr.
+Krips. Mr. Fauser, who has been with Amadeus since 1998, was until recently Vice
+President of Core Platforms and Middleware (CPM) and played a significant role in
+recent years in building the TPE organization.
+
+e Francisco Perez-Lozao, former Senior Vice President of New Businesses, has been
+appointed Senior Vice President Hospitality. Mr. Perez-Lozao will focus exclusively and
+lead the Hospitality business, recently strengthened by the TravelClick acquisition.
+
+e The other new business units will be led by Stefan Roper, appointed Senior Vice
+President of Strategic Growth Businesses. Mr. Roper brings over 20 years’
+international experience across the technology industry, both in innovative fast-
+growth environments and with major tech players.
+
+2.2 Key ongoing R&D projects
+
+As a leading technology provider to the travel industry, Amadeus undertakes significant R&D activities. In
+2018, Amadeus devoted 17.8%? of its Group revenue to R&D, which primarily focused on:
+
+Product evolution and portfolio expansion:
+
+e Ongoing efforts for NDC industrialization. Investments related to the development of our platform
+to combine content from different sources (existing technology, NDC and content from
+
+° Compared to 2017 figures restated for IFRS 15 and IFRS 9, applied from January 1, 2018. See section 3.1 for further details.
+
+Page 8
+
+
+--- Page 7 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+aggregators and other sources) ensuring easy adoption in the marketplace with minimal
+disruption.
+
+e For airlines: investment in merchandizing and personalization solutions, enhanced shopping and
+retailing tools and solutions related to revenue optimization and financial suites.
+
+e For travel agencies, meta-search engines and corporations: efforts linked to our cloud-based new-
+generation selling platform, search engines and our self-booking and travel expense management
+tools.
+
+e For the hospitality industry: investment to develop and implement our new-generation Central
+Reservation System and developments related to our new-generation Property Management
+System.
+
+e Continued development and evolution of our Airport IT, Payments and Rail IT portfolios.
+
+e Resources devoted to enhance distribution capabilities for Hospitality and Rail.
+
+Customer implementations and services:
+
+e Implementation efforts related to upcoming PSS implementations (including Air Canada), as well
+as to our upselling activity (such as Revenue Management and Merchandizing, among others).
+
+e Implementation of Distribution solutions for airlines, travel agencies, and corporations, including,
+among others, our search and shopping solutions.
+
+e Implementation of customers to our Hospitality IT, Airport IT and Payments businesses.
+
+Cross-area technology investment:
+
+e Continued shift to next-generation technologies and cloud services, which provides a flexible and
+powerful framework for massive deployment and distributed operations of very large
+transactional and data traffic.
+
+e The application of new technologies, such as artificial intelligence and machine learning, to our
+product portfolio.
+
+e System performance projects to deliver the highest possible reliability, availability, as well as
+service and security levels to our customer base.
+
+e — Projects related to our overall infrastructure and processes to improve efficiency and flexibility.
+
+3 Presentation of financial information
+
+The audited consolidated financial statements of Amadeus IT Group, S.A. and subsidiaries are the
+source to the financial information included in this document and have been prepared in accordance
+with International Financial Reporting Standards (IFRS) as adopted by the European Union.
+
+Certain amounts and figures included in this report have been subject to rounding adjustments. Any
+iscrepancies in any tables between the totals and the sums of the amounts listed are due to rounding.
+
+This document includes unaudited Alternative Performance Measures such as EBITDA, operating
+ncome, net financial debt as defined by our credit facility agreements, adjusted profit and their
+corresponding ratios. These Alternative Performance Measures have been prepared in accordance with
+the Guidelines issued by the European Securities and Markets Authority for regulated information
+published on or after July 3, 2016.
+
+— EBITDA corresponds to Operating income less D&A expense. A reconciliation to the financial statements
+is included in section 6.1.5.
+
+Page 9
+
+
+--- Page 8 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+— The reconciliation of Operating income is included in the Group income statement included in section
+6.1.
+
+— Adjusted profit corresponds to reported profit for the period, after adjusting for: (i) accounting effects
+derived from PPA exercises and impairment losses, (ii) non-operating exchange gains (losses), and (iii)
+other non-recurring items, as detailed in section 6.1.8.
+
+— Net financial debt as defined by our credit facility agreements is calculated as current and non-current
+debt (as per the financial statements), less cash and cash equivalents, adjusted for non-debt items (such
+as deferred financing fees, accrued interest and fair value adjustments to an EIB loan). A reconciliation to
+the financial statements is included in section 6.2.5.
+
+Also, as explained in more detail in section 3.2, for purposes of comparability with 2017, we present
+unaudited financial results, segment results and other alternative performance measures, adjusted to
+exclude the consolidated results of TravelClick and TravelClick’s acquisition related effects.
+
+We believe that these measures provide useful and relevant information to facilitate a better
+understanding of the performance of Amadeus and its economic position. These measures are not
+standard and therefore may not be comparable to those presented by other companies.
+
+When we refer to our competitive position, we take into account our travel agency air bookings in
+relation to the travel agency air booking industry, defined as the total volume of travel agency air
+bookings processed by the three major global reservation systems (Amadeus, Sabre and Travelport). It
+excludes air bookings made directly through airlines’ direct distribution channels (airline offices and
+websites), single country operators (primarily in China, Japan, Russia and Turkey), other content
+aggregators and direct connect applications between airline systems, travel agencies, corporations and
+meta-bookers, which together combined represent an important part of the industry.
+
+3.1 Accounting changes
+
+The following accounting changes have been adopted from January 1, 2018:
+IFRS 15
+
+The standard establishes a comprehensive framework for determining whether, how much and when
+revenue is recognized.
+
+As a consequence of the adoption of this standard, certain Distribution revenues from the provision of
+IT to travel agencies are recognized as a reduction of operating costs (they were previously recognized
+within Revenue), with no impact on segment contribution, Group EBITDA or free cash flow.
+
+Other than these effects, there are no significant impacts from the adoption of this standard, given that
+more than 90% of the revenues of Distribution and IT Solutions are derived from contracts identified
+as “Software as a Service”, compliant with the new IFRS 15 requirements.
+
+The standard has been applied from January 1, 2018 retrospectively and hence 2017 figures shown in
+this report have been restated accordingly. Consequently, as shown in the next tables, both Distribution
+revenue and operating costs (Cost of revenue, Personnel expenses and Other operating expenses) have
+been reduced by €215.5 million in 2017. EBITDA, Operating income, Profit and Free cash flow in 2017
+are not impacted by the adoption of this standard.
+
+Page 10
+
+
+--- Page 9 ---
+
+T Group, S.A. a
+Report for th
+
+ns of urs) aMaDEUS
+
+IFRS 9
+
+Among other changes, the standard establishes a new impairment model for the recognition of bad
+debt provisions based on expected credit losses rather than incurred credit losses.
+
+As a consequence of the adoption of this standard, bad debt provisions, recognized within operating
+costs, have increased, negatively impacting segment contribution and EBITDA (by the same amount) as
+well as Profit (by the same amount less the associated tax benefit).
+
+Also, the standard modifies the hedging accounting, resulting in a reduction in net financial expense
+and an increase in Profit (by the same amount less the associated tax impact).
+
+There are no significant impacts from the adoption of this standard, other than the effects mentioned
+above.
+
+Free cash flow is not impacted by the adoption of this standard.
+
+For comparison purposes, 2017 figures shown in this report have been restated for the adoption of this
+standard. Consequently, as shown in the next tables, in 2017, Other operating expenses has increased
+by €5.2 million and net financial expense has declined by €4.8 million, resulting in a reduction in both
+EBITDA and Operating income of €5.2 million and a decline in Profit of €0.2 million.
+
+Allocation of building and facilities expense
+
+Since January 1, 2018, building and facilities expense is recognized within Indirect costs in full
+(previously these costs were partly allocated to Distribution and IT Solutions). Given the geographic
+expansion of our businesses and our customer focus, buildings and facilities are often shared by teams
+from all of our businesses, making segment allocation rules increasingly complex. We believe this
+reallocation results in a cost structure of the operating segments that provides a more accurate
+reflection of our segment profitability levels.
+
+As a result of this cost reallocation, the Distribution and IT Solutions contributions have increased, as
+well as Indirect costs, with no impact on Group EBITDA, profit or free cash flow.
+
+For comparison purposes, 2017 figures shown in this report have been restated for the adoption of this
+cost reallocation. Consequently, as shown in the next tables, in 2017 both the Distribution contribution
+and the IT Solutions contribution have increased by €49.2 million and €42.7 million, respectively, and
+Net indirect costs has increased by €91.9 million. 2017 EBITDA, Operating income, Profit and Free cash
+flow are not impacted by the adoption of this cost reallocation.
+
+Page 11
+
+
+--- Page 10 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+Directors’ Report for the year ended December 31, 2018 (millions of euros) a M a D E u S
+
+See below a reconciliation between the reported and the restated 2017 figures:
+
+Full year 2017 (€million) Reported IFRS 15 IFRS9_ B&F exp. Restated Change
+
+Segment reporting
+
+Distribution revenue 3,137.6 (215.5) 0.0 0.0 2,922.1 (215.5)
+IT Solutions revenue 1,715.1 0.0 0.0 0.0 1,715.1 0.0
+Group revenue 4,852.7 (215.5) 0.0 0.0 4,637.2 (215.5)
+Distribution contrib. 1,306.0 0.0 (5.2) 49.2 1,350.1 44.0
+IT Solutions contrib. 1,177.0 0.0 0.0 42.7 1,219.7 42.7
+Contribution 2,483.0 0.0 (5.2) 91.9 2,569.8 86.7
+Net indirect costs (617.9) 0.0 0.0 (91.9) (709.8) (91.9)
+EBITDA 1,865.1 0.0 (5.2) 0.0 1,859.9 (5.2)
+Income statement
+
+Group revenue 4,852.7 (215.5) 0.0 0.0 4,637.2 (215.5)
+Cost of revenue (1,291.0) 200.8 0.0 0.0 (1,090.2) 200.8
+Personnel expenses (1,337.6) 3.4 0.0 0.0 (1,334.2) 3.4
+one (344.4) 113 (5.2) 0.0 (338.3) 6.1
+Dep. and amortization (556.5) 0.0 0.0 0.0 (556.5) 0.0
+Operating income 323.2 0.0 (5.2) 0.0 318.0 (5.2)
+Net financial expense (60.1) 0.0 4.8 0.0 (55.3) 48
+Other income (expense) (0.6) 0.0 0.0 0.0 (0.6) 0.0
+Profi before income (262.5 0.0 (0.4) 0.0 (262.1 (0.4)
+Income taxes (262.0) 0.0 0.2 0.0 (261.8) 0.2
+Profit after taxes ,000.5 0.0 (0.2) 0.0 ,000.3 (0.2)
+Share in profit assoc/JV 4.2 0.0 0.0 0.0 4.2 0.0
+Profit for the period ,004.7 0.0 (0.2) 0.0 ,004.5 (0.2)
+EPS (€) 2.29 0.00 0.00 0.00 2.29 0.00
+Adjusted profit 116.1 0.0 (4.1) 0.0 112.1 (4.1)
+Adjusted EPS (€) 2.55 0.00 (0.01) 0.00 2.54 (0.01)
+
+Page 12
+
+
+--- Page 11 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+Directors’ Report for the year ended December 31, 2018 (millions of euros) a M a D E u S
+
+Full year 2017 (€million) Reported IFRS 15 IFRS9_ = B&F exp. | Restated Change
+Cash flow
+
+EBITDA 1,865. 0.0 (5.2) 0.0 = 1,859.9 (5.2)
+Change in working cap. 55.3 0.0 5.2 0.0 60.5 5.2
+Capital expenditure (612.1 0.0 0.0 0.0 (612.1) 0.0
+Taxes paid (363.4 0.0 0.0 0.0 (363.4) 0.0
+Interest & financial fees (27.2 0.0 0.0 0.0 (27.2) 0.0
+Free cash flow 917.6 0.0 0.0 0.0 917.6 0.0
+Oct-Dec 2017 (€millions) Reporter IFRS 15 IFRS9 B&F exp. Restated Change
+
+Financial results
+
+Distribution revenue 755.6 (51.4) 0.0 0.0 704.2 (51.4)
+IT Solutions revenue 410.5 0.0 0.0 0.0 410.5 0.0
+Group revenue 1,166.1 (51.4) 0.0 0.0 1,114.7 (51.4)
+Cost of revenue (317.0) 45.0 0.0 0.0 (272.0) 45.0
+Personnel expenses (341.1) 3.4 0.0 0.0 (337.7) 3.4
+one (105.1) 3.0 (1.3) 0.0 | (103.4) 17
+Dep. and amortization (163.1) 0.0 0.0 0.0 (163.1) 0.0
+Operating income 239.8 0.0 (1.3) 0.0 238.5 (1.3)
+Net financial expense (14.4) 0.0 1.4 0.0 (13.0) 1.4
+Other income (expense) 0.7 0.0 0.0 0.0 0.7 0.0
+port before income 226.1 0.0 0.1 0.0 226.2 0.1
+Income taxes 2.3 0.0 0.0 0.0 2.3 0.0
+Profit after taxes 228.4 0.0 0.1 0.0 228.5 0.1
+Share in profit assoc/JV 0.0 0.0 0.0 0.0 0.0 0.0
+Profit for the period 228.4 0.0 0.1 0.0 228.5 0.1
+EPS (€) 0.52 0.00 0.00 0.00 0.52 0.00
+EBITDA 398.8 0.0 (1.3) 0.0 397.6 (1.3)
+Adjusted profit 269.4 0.0 (1.2) 0.0 268.2 (1.2)
+Adjusted EPS (€) 0.62 0.00 (0.01) 0.00 0.61 (0.01)
+Oct-Dec 2017 (€millions) Reported IFRS 15 IFRS9 B&F exp. Restated Change
+
+Page 13
+
+
+--- Page 12 ---
+
+T Group, S
+
+and Subsidia'
+ear er
+
+ons of euros) aMaDEUS
+
+Cash flow
+
+EBITDA 398.8 0.0 (1.3) 0.0 397.6 (1.3)
+Change in working cap. 77.9 0.0 1.3 0.0 79.1 13
+Capital expenditure (173.8) 0.0 0.0 0.0 (173.8) 0.0
+Taxes paid (159.3) 0.0 0.0 0.0 (159.3) 0.0
+Interest & financial fees (14.5) 0.0 0.0 0.0 (14.5) 0.0
+Free cash flow 129.1 0.0 0.0 0.0 129.1 0.0
+
+The 2017 figures displayed throughout this report and specifically in sections 5 “Operating and financial
+performance by segment” and 6 “Consolidated financial statements” are restated for IFRS 15, IFRS 9 and
+the building and facilities expense reallocation.
+
+IFRS 16
+
+We are early adopters of the standard applying it from January 1, 2018°°. The standard introduces a
+single, on-balance sheet lease accounting model for right-of-use assets. The main impact from its
+adoption is that we have recognized new assets and liabilities for our operating leases of building
+rentals. Also, the nature of expenses related to those leases have changed as the standard replaces the
+straight-line operating lease expense with a depreciation charge for right-of-use assets and interest
+expense on lease liabilities. This change has resulted in a reduction in operating costs (and therefore an
+increase in EBITDA), and higher depreciation and amortization expenses, with limited (positive) impact
+on Operating income. Also, interest expense increases. As a result, Profit is only impacted marginally.
+Cash generation is not impacted by the adoption of this standard, however Free cash flow is positively
+impacted by it, given that a large part of the payments done in relation to operating leases is now
+reported as financial flows (debt payments) whereas it was previously reported as operating flows
+(within EBITDA).
+
+The impact from the adoption of this standard in 2018 has been:
+
+A reduction in operating costs of €47.4 million (driving an increase in EBITDA by the same amount), higher
+D&A expense by €45.4 million (together resulting in an increase in Operating income of €2.0 million) and
+higher interest expense by €4.9 million. As a result, Profit decreased by €2.1 million in 2018.
+
+An increase in right-of-use assets (non-current assets) and financial debt (split between current and non-
+current liabilities in the balance sheet) of €251.1 million and €259.7 million, respectively, as of December
+31, 2018. Financial debt related to operating leases arising from the adoption of this standard does not
+form part of the financial debt as per our credit facility agreements’ definition.
+
+A positive impact of €47.4 million in Free cash flow, as a result of the increase in EBITDA (€47.4 million),
+as explained above. There is, however, no impact on cash generation as the increase in Free cash flow is
+offset by higher debt repayments (by the same amount) below the Free cash flow line.
+
+2° Given the method chosen for the application of the standard (modified retrospective approach), 2017 figures are not restated for IFRS 16.
+
+Page 14
+
+
+--- Page 13 ---
+
+and Subsidia'
+
+T Group, S
+
+Report for tl ear ende
+
+milion of eurs) aMaDEUS
+
+3.2 TravelClick acquisition
+
+On August 10, 2018, Amadeus announced its agreement to acquire Project Dwight Ultimate Parent
+Corporation and its group of companies (“TravelClick”), a U.S-based leading global provider of
+technology and business solutions to the hospitality industry. Amadeus received all the necessary
+regulatory approvals and the closing took place on October 4, 2018. The acquisition price amounted to
+USD 1,520 million. The acquisition was 100% debt-financed. On September 18, 2018 Amadeus
+undertook three Eurobond issues for a total amount of €1,500 million, which were partly used to
+finance TravelClick’s acquisition (see section 6.2.5 for more detail).
+
+The results of TravelClick (“TC”) were consolidated into Amadeus’ books from October 4, 2018,
+contributing €86.7 million in revenues, €22.3 million in EBITDA, €14.1 million in profit and €14.8 million
+in free cash flow, to our full year and fourth quarter 2018 results (excluding non-recurring costs
+associated with the acquisition). TravelClick is reported, as part of our Hospitality IT business, within
+our IT Solutions segment (except for TravelClick’s indirect costs, which have been allocated to Indirect
+costs).
+
+As a consequence of TravelClick’s acquisition, the following non-recurring effects have been accounted
+for in 2018:
+
+TravelClick’s acquisition and integration related costs, incurred in full in the fourth quarter of
+2018, amounting to €19.5 million (before taxes). Of these, an amount of €4.8 million was paid
+in the quarter. These costs mainly refer to third party expert advisory fees (including bankers,
+lawyers, accountants and consultants, among others) and costs related to its integration.
+
+A purchase price allocation exercise in relation to the consolidation of TravelClick into Amadeus’
+books was carried out in the fourth quarter of 2018. As a consequence of such PPA exercise, the
+following effects (before taxes) have arisen:
+
+e  Areduction in revenue and in personnel and other operating expenses amounting to €8.2
+million and €0.6 million, respectively, derived from the adjustment to fair value of certain
+operating liabilities, resulting in a negative impact of €7.7 million to EBITDA.
+
+e An additional amortization expense of €12.2 million, increasing the total group
+amortization expense.
+
+TravelClick’s acquisition financing related fees amounting to €8.2 million were paid in 2018 (€2.0
+million in the fourth quarter). These financing fees are deferred in the balance sheet and
+recognized in the income statement over the life of the related debt. In 2018, €0.4 million
+(before taxes) were recognized in the income statement (under the interest expense caption).
+
+TravelClick’s acquisition related effects described above (acquisition-related costs, PPA effects and
+acquisition financing fees) have impacted our group results and cash generation, in particular our
+revenue, EBITDA, EBITDA margin, Operating income, Profit, Adjusted profit, EPS, adjusted EPS and free
+cash flow in 2018.
+
+For clarity purposes, in the following tables we display Amadeus Group figures (including TravelClick’s
+consolidated results) and Amadeus Group figures excluding TravelClick’s acquisition, in two separate
+columns. The aggregated impacts from the PPA exercise and the non-recurring costs associated with
+TravelClick’s acquisition, as well as the impacts from TravelClick’s acquisition financing are also
+disclosed in a separate column.
+
+Page 15
+
+
+--- Page 14 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+tors’ Report for the year ended December 31,
+
+18 (milions of euros) aMaDEUS
+
+For purposes of comparability with 2017, the financial results displayed in sections 5 “Operating and
+financial performance by segment” and 6.1 “Group income statement” are presented excluding the
+consolidated results of TravelClick and the non-recurring costs, PPA derived adjustments and debt-
+related interest and fees associated with TravelClick’s acquisition.
+
+9 7 _ 9
+2018 segment Amadeus a Trav Amadeus % Change Transac 2018 Hs
+reporting (€millions) exc. TC Gree sss +TC  vs.2017 tion costs Results Grenye
+
+porting T \s.2017 (TO) ; &PPA vs. 2017
+Distribution revenue 3,004.3 2.8% 0.0 3,004.3 2.8% 0.0 3,004.3 2.8%
+IT Solutions revenue 1,852.9 8.0% 86.7 1,939.7 13.1% (8.2) 1,9314 12.6%
+Group revenue 4,857.2 47% 86.7 4,943.9 6.6% (8.2) 4,935.7 6.4%
+Operating costs (1,696.7) 3.0% 0.0 (1,696.7) 3.0% 0.0 (1,696.7) 3.0%
+Direct capitalizations 73.0 (2.9%) 0.0 73.0 (2.9%) 0.0 73.0 (2.9%)
+Net operating costs (1,623.6) 3.3% 0.0 (1,623.6) 3.3% 0.0 (1,623.6) 3.3%
+pirbation contrib 43807 23% 00 13807 23% 00 13807 23%
+Contribution margin 46.0% (0.2 p.p.) nm. 46.0% (0.2p.p.) nm. 46.0% (0.2 p.p.)
+Operating costs (779.1) 91% (594) (8385) 174% (171) (8556) 19.8%
+Direct capitalizations 247.7 13.1% 3.6 251.3 14.8% 0.0 2513 148%
+Net operating costs (531.4) 73% (55.8) (587.2) 185% (17.1) (604.3) 22.0%
+rotations contrib 43715 83% 309 13524 109% (253) 13271 38%
+Contribution margin 713% O2pp. 35.7% 69.7% (14p.p.) nm. 68.7% (24p.p.)
+Indirect costs (9233) 60% (86) (9320) 70% (18) (9337) 7.2%
+Incest capitalza- 2395 48.3% 00 2395 483% 00 2395 483%
+Net operating costs (683.8) (3.7%) (8.6) (692.5) (2.4%) (1.8) (694.3) (2.2%)
+EBITDA 2,018.3 85% 22.3 2,040.6 9.7% (27.1) 2,013.5 8.3%
+EBITDA margin 416% 14pp. 25.7% 413% 12pp. nm. 40.8% 0.7p.p.
+
+Page 16
+
+
+--- Page 15 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+il 9 = 9
+statement and cash Anais chanve slave a pena oncoes apne cranes
+flow (€millions) : vs. 2017 (TC) : & PPA vs. 2017
+Financial results
+Group revenue 4,857.2 47% 86.7 4,943.9 6.6% (8.2) 4,935.7 64%
+Cost of revenue (1,173.3) 76% (33.6) (1,206.9) 10.7% 0.0 (1,206.9) 10.7%
+Personnel expenses (1,353.6) 15% (22.2) (1,375.7) 3.1% (64) (1,382.1) 3.6%
+Other operatin,
+oxpences 6 (297.2) (121%) (86) (3059) (96%) (125) (3184) (5.9%)
+Oe ne on (6206) 115% (26) (6233) 120% (12.2) (6355) 14.2%
+Operating income 14125 7.2% 197 14322 87% (394) 13928 5.7%
+
+Net financial expense (49.6) (10.3%) (0.5) (50.1) (9.4%)  (4.1)2 (54.2) (2.0%)
+
+Other income (ex-
+
+(2.3) 283.3% 0.0 (2.3) 283.3% 0.0 (2.3) 283.3%
+pense)
+
+Profit before income 13605 738% 192 1,379.7 93% (434) 13363 5.9%
+
+taxes
+
+Income taxes (342.6) 309% (5.1) (347.7) 32.8% 10.9 (336.8) 28.6%
+Profit after taxes 10180 18% 141 10320 32% (325) 9995 (0.1%)
+wun profit as: 3.0 (28.6%) 00 30 (28.6%) 00 3.0 (28.6%)
+Profit for the period 10210 16% 141 10350 30% (325) 10025 (0.2%)
+EPS (€) 2.37 3.4% 2.40 48% 2.33 16%
+Adjusted profit 11085 (0.3%) 143 11228 10% (176) 11052 (0.6%)
+Adjusted EPS (€) 258 14% 261 2.7% 257. 1.1%
+Cash flow
+
+Free cash flow 974.2 6.2% 148 989.0 78% (13.1)° 9760 64%
+
++ For purposes of comparability to 2017, and to offer an Amadeus view excluding TravelClick’s acquisition impacts, TravelClick’s financing
+related interest expense (€3.6 million in 2018) and non-recurring financing fees recognized in the income statement (€0.4 million), as well
+as TravelClick’s financing interest paid in 2018 (€0.2 million), have been excluded from the “Amadeus exc. TC” column.
+
+Page 17
+
+
+--- Page 16 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+Directors’ Report for the year ended December 31, 2018 (millions of euros) a M a D E u S
+
+19% 9 - - 9X
+Q4'18 income Amadeus 8 Trav Amadeus % Change Transac Q4'18 Hs
+statement and cash exc. TC Change — elClick 4TC vs.04‘17 tion costs Results Change
+flow (€millions) "~ vs.Q417 (TC) . & PPA vs. 0417
+Distribution revenue 7249 2.9% 0.0 7249 29% 00 7249 29%
+IT Solutions revenue 448.4 9.3% 86.7 535.2 304% (8.2) 5270 284%
+Group revenue 1,173.4 5.3% 86.7 1,260.1 13.0% (8.2) 12519 123%
+Cost of revenue (2986) 98% (33.6) (3322) 222% 0.0 (332.2) 22.2%
+Personnel expenses (344.1) 19% (22.2) (366.2) 84% (64) (372.6) 10.3%
+Other operating (978) (5.4%) (86) (1065) 30% (125) (119.0) 15.1%
+expenses
+
+Dep. and 9 9
+
+amortization (1743) 69% (26) (1770) 85% (122) (189.2) 16.0%
+Operating income 2586 84% 197 2783 167% (394) 2389 02%
+
+Net financial expense (22.1) 70.4% (05) (226) 73.9%  (3.6)2 (26.2) 101.6%
+Other income
+(expense)
+
+01 (85.7%) 0.0 01 (85.7%) 0.0 01 (85.7%)
+
+Profitheforeincome = 4366 © a.6% ©«= 192-2558 «13.1% +~—«(43.0)«o2128 (5.9%)
+
+taxes
+
+Income taxes (50.5) nm. (5.1) (55.6) nm. 108 (44.8) nm.
+Profit after taxes 186.1 (18.6%) 14.1 2001 (12.4%) (32.1) 168.0 (26.5%)
+wun profit as- 03 nm. 0.0 03 nm. 0.0 03 nm.
+Profit for the period 186.4 (18.4%) 141 2004 (123%) (321) 1683 (26.4%)
+EPS (€) 0.43 (17.2%) 0.46 (11.0%) 0.39 (25.3%)
+EBITDA 430.3 8.2% 22.3 452.6 13.8% (27.1) 4255 7.0%
+Adjusted profit 2215 (17.4%) 143 235.9 (12.1%) (17.2) «218.6 += (18.5%)
+Adjusted EPS (€) 0.51 (16.2%) 0.55 (10.8%) 0.51 (17.3%)
+Cash flow
+
+Free cash flow 166.0 286% 14.8 1808 40.0%  (69)" 1739 347%
+
+» For purposes of comparability to 2017, and to offer an Amadeus view excluding TravelClick’s acquisition impacts, TravelClick’s financing
+related interest expense (€3.2 million in 2018) and non-recurring financing fees recognized in the income statement (€0.4 million), as well
+as TravelClick’s financing interest paid in the fourth quarter of 2018 (€0.2 million), have been excluded from the “Amadeus exc. TC”
+column.
+
+Page 18
+
+
+--- Page 17 ---
+
+4 Main financial risks and hedging policy
+4.1 Foreign exchange rate risk
+
+Our reporting currency is the Euro. However, as a result of Amadeus’ global activity and presence, part of our
+results are generated in currencies different from the Euro and therefore are impacted by foreign exchange
+fluctuations. Similarly, part of our cash inflows and outflows are denominated in non-Euro currencies. As a
+consequence, both our results and our cash flows are impacted, either positively or negatively, by foreign
+exchange fluctuations.
+
+Exposure to foreign currencies
+
+Our revenue is almost entirely generated either in Euro or in US Dollar (the latter representing 30%-40% of
+our total revenue). Revenue generated in currencies other than the Euro or US Dollar is negligible.
+
+In turn, 50%-60% of our operating costs’? are denominated in many currencies different from the Euro,
+including the US Dollar which represents 30%-40% of our operating costs. The rest of the foreign currency
+operating expenses are denominated in a variety of currencies, GBP, AUD, INR, SGD and THB being the most
+significant. A number of these currencies may fluctuate vs. the Euro similarly to the US Dollar - Euro
+fluctuations, and the degree of this correlation may vary with time.
+
+Hedging policy
+
+Amadeus’ target is to reduce the volatility generated by foreign exchange fluctuations on its non-Euro
+denominated net cash flows. Our hedging strategy is as follows:
+
+To manage our exposure to the US Dollar, we have a natural hedge to our net operating cash flow
+generated in US Dollar or US Dollar-correlated currencies through, among others, payments of USD-
+denominated debt (when applicable) and taxes paid in the US. We enter into derivative arrangements
+when this natural hedge is not sufficient to cover our outstanding exposure.
+
+We also hedge a number of currencies, including the GBP, AUD, INR and SEK, for which we enter into
+foreign exchange derivatives with banks.
+
+When the hedges in place covering operating flows qualify for hedge accounting under IFRS, profits and losses
+are recognized within the revenue caption. Our hedging arrangements typically qualify for hedge accounting
+under IFRS.
+
+Given that 25-35% of our net free cash flow is generated in USD or currencies that fluctuate vs. the Euro
+similarly to the US Dollar-Euro fluctuations, and that our hedging policy targets to reduce cash volatility, our
+hedging results are generally insufficient to mitigate the impacts from foreign exchange fluctuations on our
+Operating results.
+
+In 2018, foreign exchange fluctuations had a negative impact on revenue and EBITDA, a positive impact on
+costs and an expansive impact on EBITDA margin. Excluding foreign exchange effects and the impact from
+the adoption of IFRS 16, both revenue and EBITDA (excluding TravelClick’s acquisition-related costs and PPA
+impact) grew at a high single-digit rate, respectively, and EBITDA margin was broadly stable.
+
+In the fourth quarter of 2018, foreign exchange fluctuations had a small positive impact on both
+revenue and EBITDA and a small negative impact on costs, resulting in a small negative impact on
+EBITDA margin. Excluding foreign exchange effects and the impact from the adoption of IFRS 16,
+
+3 Including Cost of revenue, Personnel expenses and Other operating expenses. Excludes Depreciation and amortization.
+
+Page 19
+
+8 (rilions of euros aMaDEUS
+
+
+--- Page 18 ---
+
+T Group, S.A. and Subsidiaries
+
+revenue and EBITDA (excluding TravelClick’s acquisition-related costs and PPA impact) grew at double-
+digit and low double-digit rates, respectively, in the fourth quarter of the year.
+
+4.2 Interest rate risk
+
+Our target is to reduce volatility in net interest flows. In order to achieve this objective, Amadeus may enter
+into interest rate hedging agreements (interest rate swaps, caps, collars) to cover the floating rate debt.
+
+At December 31, 2018, 23% of our total financial debt (related to the European Commercial Paper
+Program and one Eurobond issue) was subject to floating interest rates, indexed to the EURIBOR. As of
+this date no interest rate hedges were in place.
+
+4.3. Ownshares price evolution risk
+Amadeus has three different staff remuneration schemes which are settled with Amadeus’ shares.
+
+According to the rules of these plans, when they mature all beneficiaries will receive a number of
+Amadeus shares which for the outstanding plans amount to (depending on the evolution of certain
+performance conditions), between a minimum of 296,000 shares and a maximum of 1,565,000 shares,
+approximately. It is Amadeus’ practice and intention to make use of its treasury shares to settle these
+plans at their maturity.
+
+5S Operating and financial performance by segment
+
+As indicated in section 3.2, for purposes of comparability with 2017, the financial results displayed in
+section 5 “Operating and financial performance by segment” are presented excluding the consolidated
+results of TravelClick and the non-recurring costs and PPA derived adjustments associated with
+TravelClick’s acquisition.
+
+Full year 2018 Change
+Segment Reporting (€millions) (exc. TravelClick) Full year 2017 (exc. TravelClick)
+Distribution revenue 3,004.3 2,922.1 2.8%
+IT Solutions revenue 1,852.9 1,715.1 8.0%
+Group Revenue 4,857.2 4,637.2 4.7%
+Distribution contribution 1,380.7 1,350.1 2.3%
+IT Solutions contribution 1,321.5 1,219.7 8.3%
+Total Contribution 2,702.1 2,569.8 5.2%
+Net indirect costs (683.8) (709.9) (3.7%)
+EBITDA 2,018.3 1,859.9 8.5%
+EBITDA Margin (%) 41.6% 40.1% 1.4 p.p.
+
++4 Based on our credit facility agreements’ definition.
+
+Page 20
+
+
+--- Page 19 ---
+
+T Group, S.A. and Subsidiaries
+
+5.1 _ Distribution
+
+Distribution (€millions)
+
+’ Report for the year ended December 31, 2018 (millions of euros)
+
+Full year 2018
+(exc. TravelClick)
+
+aMaDEUS
+
+Change
+
+Full year 2017 (exc. TravelClick)
+
+Operating KPI
+
+TA air competitive position? 43.7% 43.9% (0.2 p.p.)
+TA air bookings (m) 580.2 568.4 2.1%
+Financial results
+Revenue 3,004.3 2,922.1 2.8%
+Operating costs (1,696.7) (1,647.2) 3.0%
+Capitalizations 73.0 75.2 (2.9%)
+Net Operating costs (1,623.6) (1,572.0) 3.3%
+Contribution 1,380.7 1,350.1 2.3%
+As % of Revenue 46.0% 46.2% (0.2 p.p.)
+1 Competitive position as defined in section 3.
+5.1.1 Evolution of Amadeus bookings
+Oct-Dec Oct-Dec Fullyear Full year
+Operating KPI 2018 2017 Change 2018 2017. ~~ Change
+TA air booking industry growth 1.1% 4.6% 2.9% 45%
+TA air competitive position’ 44.8% 44.8% 0.0p.p. 43.7% 43.9% (0.2 p.p.)
+TA air bookings (m) 135.3 134.0 1.0% 580.2 568.4 2.1%
+Non air bookings (m) 16.2 16.4 (1.5%) 63.0 64.0 (1.5%)
+Total bookings (m) 151.5 150.4 0.7% 643.2 632.3 1.7%
+
+1 Competitive position as defined in section 3.
+
+Travel agency air booking industry
+
+In the fourth quarter of the year, the travel agency air boo!
+vs. the 1.7% growth rate delivered in the third quarter, or the 3.5% growth rate delivered in the first
+nine months of 2018. The travel agency air booking growt
+
+quarter, has been practically across all regions. The Nort
+region, which, as mentioned above, reported a softer gr
+quarters. Notably, Asia Pacific, which had delivered a do
+year and decelerated in the third quarter, continued to
+
+some major countries, such as India, South Korea and T
+quarters. In turn, Latin America, benefiting from a more
+several countries, particularly Brazil, recovered from tl
+expansion. Industry volumes in Western Europe, which ha
+
+ailand
+‘avorab|
+
+e previous quarter and re
+decreased in the first nine months of the
+
+ing industry grew by 1.1%, a deceleration
+
+deceleration we have seen in the fourth
+American industry was the
+owth rate in the fourth quarter vs. previous
+uble-digit growth rate in the
+ecelerate further in the fourt'
+
+astest growing
+
+irst half of the
+quarter, with
+clearly, deteriorating vs. previous
+le macroeconomic environment in
+jorted a small
+
+year, continued to decline in the fourth quarter, negatively impacted by macroeconomic and
+
+geopolitical factors, the bankruptcy of a GDS airline and
+airlines in the region. Central, Eastern and Southern Euro
+
+the distribution strategies a
+e reported a softer decline t
+
+opted by some
+an in the third
+
+quarter, albeit still impacted by negative macroeconomic conditions in Russia.
+
+Page 21
+
+
+--- Page 20 ---
+
+T Group, S.A. and Subsid
+’ Report for the year ende
+
+1, 2048 (lions of eros aMaDEUS
+
+In 2018, industry air bookings grew by 2.9% globally. With the exception of Western Europe - where
+the industry declined, impacted by the effects mentioned above - all regions showed a positive
+evolution, although with a clear decelerating trend relative to 2017 (except for North America, which
+has accelerated its growth compared to last year’s). Asia and Pacific reported the fastest growth rate in
+2018, followed by North America. Central, Eastern and Southern Europe, Middle East and Africa and
+Latin America showed limited growth over the period.
+
+Amadeus bookings
+
+In the fourth quarter of 2018, Amadeus travel agency air bookings grew by 1.0%, leading to a 2.1% increase
+over the year. North America was our fastest growing region in the fourth quarter, supported by an
+improvement in our competition position”, in the context of a robust industry. Both Middle East and Africa
+and Latin America delivered healthy growth. Amadeus’ bookings in Asia and Pacific showed limited growth,
+on the back of an overall industry deceleration in the region. Amadeus’ bookings in Europe showed a
+contraction over the fourth quarter of 2018, impacted by the industry's continued booking decline. Also,
+Amadeus’ Western European bookings were impacted by the loss of share at some European mid-size online
+travel agencies resulting from heightened commercial activity in the market. Excluding Western Europe,
+Amadeus bookings grew 5.9% in the fourth quarter of the year and our competitive position’® expanded by
+1.4 p.p.
+In 2018, Amadeus’ bookings increased by 2.1%. Asia and Pacific and North America were our best performing
+regions, delivering high growth rates. Middle East and Africa, Latin America and Central, Eastern and Southern
+Europe increased softly, supported by limited growth in the industry. Finally, Amadeus’ bookings in Western
+Europe declined over the period, impacted by the industry decline and the loss of share at some European
+mid-size online travel agencies, as explained above. Excluding Western Europe, Amadeus bookings grew 7.2%
+and our competitive position’® expanded by 1.1 p.p. in the year. In 2018, Amadeus expanded its competitive
+position in every region except in Western Europe.
+
+Full year %of  Fullyear % of
+Amadeus TA air bookings (millions) 2018 Total 2017 Total _ Change
+Western Europe 191.7 33.0% 206.0 36.2% (7.0%)
+Asia and Pacific 121.2 20.9% 108.6 19.1% 11.7%
+North America 108.1 18.6% 99.0 17.4% 9.3%
+Middle East and Africa 71.9 12.4% 69.3 12.2% 3.8%
+Central, Eastern and Southern Europe 43.9 8.4% 43.1 8.5% 1.8%
+Latin America 38.3 6.6% 37.5 6.6% 2.2%
+Amadeus TA air bookings 580.2 100.0% 568.4 100.0% 2.1%
+
+Amadeus’ non-air bookings declined by 1.5% in 2018 vs. prior year as a consequence of a decline in rail
+bookings, mostly driven by strikes impacting a key customer, which more than offset the double-digit
+increase in Amadeus’ hotel bookings.
+
++5 Competitive position as defined in section 3.
+
++6 Competitive position as defined in section 3.
+
+Page 22
+
+
+--- Page 21 ---
+
+T Group, S.A. and Subsidiaries
+
+’ Report for the year ended December 31, 2018 (millions of euros) a M a D E u S
+
+5.1.2 Revenue
+
+Oct-Dec Full year
+2018 Oct-Dec Change 2018 Fullyear © Change
+Distribution Revenue (€millions) _ (exc. TC) 2017 (exc. TC) (exc. TC) 2017 | (exc. TC)
+Revenue 724.9 704.2 2.9% 3,004.3 2,922.1 2.8%
+
+1 Our disclosure no longer displays the annual break-out between booking and non-booking revenue, as application of IFRS
+15 since January 1, 2018 has considerably reduced the size of the non booking revenue caption and most of the remaining
+concepts are today of similar nature to booking activity.
+
+Distribution delivered revenue growth of 2.9% in the fourth quarter of 2018, driving 2.8% full year
+growth vs. 2017. Revenue growth in the quarter was driven by volume expansion and an enhancement
+in the average revenue per booking. Revenue growth was also supported by a small positive foreign
+exchange effect.
+
+In 2018, revenue growth resulted from an increase in bookings of 1.7% and an expansive revenue per
+booking, negatively impacted by foreign exchange effects. Excluding foreign exchange effects,
+Distribution revenue grew at a mid single-digit rate, driven by booking growth and an underlying
+average revenue per booking expansion, in turn supported by (i) a positive booking mix, both from an
+increased weight of global bookings and a declining weight of non-air bookings, with a lower average
+fee, and (ii) customer renegotiations.
+
+5.1.3 Contribution
+
+Contribution increased by 2.3%, amounting to €1,380.7 million in 2018. This positive performance was
+the combination of 2.8% revenue growth, as explained in section 5.1.2 above, partly offset by 3.3%
+increase in our net operating costs. Contribution was negatively impacted by foreign exchange effects.
+Contribution represented 46.0% of revenue in the year, slightly below 2017. Contribution margin was
+positively impacted by foreign exchange effects. Excluding foreign exchange effects, contribution
+margin declined vs. 2017, in line with our expectations and in the same range as we have experienced
+over the past few years.
+
+Growth in net operating costs in the year resulted from:
+
+Higher variable costs, due to (i) a 2.1% increase in travel agency air bookings, (ii) a unitary distribution cost
+expansion, mainly driven by heightened competitive pressure, a negative customer mix impact on
+incentives paid to travel agencies and a negative country mix (driven by the higher weight over our total
+volumes of some of the countries where Amadeus operates through local distributors, such as India,
+South Korea and some Middle Eastern countries), and (iii) non-recurring effects related to local taxes.
+
+A decline in net fixed costs, resulting from (i) contained FTE and unit personnel cost evolution, together
+with higher resources devoted to the R&D activity, offset by (ii) an increase in the capitalization ratio,
+impacted by project mix, and a reduction in several cost lines, which by nature may show a more volatile
+behavior per quarter.
+
+Positive foreign exchange effects.
+
+Page 23
+
+
+--- Page 22 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+5.2 IT Solutions
+
+Full year 2018 Change
+IT Solutions (€millions) (exc. TravelClick) Full year 2017 (exc. TravelClick)
+Operating KPI
+Passengers boarded (m) 1,853.9 1,656.5 11.9%
+Financial results
+Revenue 1,852.9 1,715.1 8.0%
+Operating costs (779.1) (714.5) 9.1%
+Capitalizations 247.7 219.0 13.1%
+Net Operating costs (531.4) (495.5) 7.3%
+Contribution 1,321.5 1,219.7 8.3%
+As % of Revenue 71.3% 71.1% 0.2 p.p.
+
+5.2.1 Evolution of Amadeus passengers boarded
+
+Amadeus passengers boarded grew by 6.6% to 456.6 million in the fourth quarter of 2018, leading to a full
+year 2018 growth of 11.9%.
+
+This double-digit growth in the year was driven by (i) the impact from the 2017 implementations (such as
+Southwest Airlines, Japan Airlines, Malaysia Airlines, Kuwait Airways, Boliviana de Aviacién, SmartWings,
+Norwegian Air Argentina, Air Algerie and MIAT Mongolian Airlines on Altéa, and GoAir, Viva Air Peru, Andes
+Lineas Aéreas, JetSMART and flyadeal on New Skies) and the 2018 implementations (including S7 Airlines,
+Peruvian Airlines, Maldivian Airlines, Cyprus Airways and Aeromar on Altéa and Volaris Costa Rica on New
+Skies), and (ii) a 7.6% organic growth. Passengers boarded growth was negatively impacted by the ceasing of
+operations of Air Berlin and Monarch Airlines during the second half of 2017, and by the de-migration of
+LATAM Airlines Brazil from our platform during the second quarter of 2018.
+
+Passengers boarded Oct-Dec Oct-Dec Full year Full year
+
+(millions) 2018 2017 Change 2018 2017 Change
+Organic growth? 381.9 356.3 7.2% 1,552.7 1,442.5 7.6%
+Non organic growth 74.7 72.1 3.5% 301.2 213.9 40.8%
+Total passengers boarded 456.6 428.4 6.6% 1,853.9 1,656.5 11.9%
+
+1 Calculated based on passengers boarded adjusted to reflect growth of comparable airlines on the
+Altéa and New Skies platforms during both periods.
+
+Of our 1,853.9 million passengers boarded during 2018, 60.3% were generated outside of Europe. Our
+international footprint has continued to expand, particularly in Asia and Pacific and in North America,
+supported by the implementations of Southwest Airlines, Japan Airlines and Malaysia Airlines, among others,
+in 2017. As mentioned above, passengers boarded growth in Western Europe and Latin America during 2018
+was negatively impacted by the ceasing of operations of Air Berlin and Monarch Airlines as well as the de-
+migration of LATAM Airlines Brazil from our platform during the second quarter of 2018, respectively.
+
+Page 24
+
+
+--- Page 23 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+Dire
+
+rs’ Report for the year ended December 31, 2018 (millions of euros)
+
+aMaDEUS
+
+Full year % of Full year % of
+Passengers boarded (millions) 2018 Total 2017 Total Change
+Western Europe 624.3 33.7% 611.2 36.9% 2.1%
+Asia and Pacific 594.3 32.1% 502.8 30.4% 18.2%
+North America 247.0 13.3% 176.5 10.7% 39.9%
+Latin America 138.8 75% 149.2 9.0% -6.9%
+Middle East and Africa 138.1 75% 127.2 7.7% 8.6%
+Central, Eastern & Southern Europe 111.5 6.0% 89.6 5.4% 24.4%
+Passengers boarded 1,853.9 100.0% 1,656.5 100.0% 11.9%
+5.2.2 Revenue
+Oct-Dec Full year
+
+2018 Oct-Dec Change 2018 fullyear Change
+IT Solutions Revenue (€millions) _ (exc. TC) 2017. (exc. TC) (exc. TC) 2017 | (exc. TC)
+Revenue 448.4 410.5 9.3% 1,852.9 1,715.1 8.0%
+
+IT Solutions revenue increased by 9.3% in the fourth quarter of the year, slightly impacted by positive foreign
+exchange effects. Excluding foreign exchange effects, revenue in the quarter grew at a high single digit rate,
+resulting from (i) a healthy performance of airline IT, supported by volume growth, and (ii) double-digit growth
+
+delivered by our new businesses.
+
+In 2018, revenue grew by 8.0%, negatively impacted by foreign exchange effects. Excluding foreign exchange
+impacts, revenue expanded at a low double-digit growth rate with respect to the previous year.
+
+IT Solutions Revenue Full year 2018
+
+Change
+
+(€millions) (exc. TravelClick) Full year 2017 (exc. TravelClick)
+IT transactional revenue 1,380.7 1,282.4 7.7%
+Direct distribution revenue 137.8 118.4 16.4%
+Transactional revenue 1,518.5 1,400.8 8.4%
+Non-transactional revenue 334.4 314.3 6.4%
+Revenue 1,852.9 1,715.1 8.0%
+
+Transactional revenue
+
+IT transactional revenue
+
+In this category we include revenues from (i) our PSS offering for airlines, (ii) our e-commerce solutions,
+which provide online shopping and booking engines for airline websites, along with related
+functionalities, (iii) our range of standalone IT solutions (in the areas of merchandising, personalization,
+revenue optimization and disruption management, among others), which are complementary to, and
+
+Page 25
+
+
+--- Page 24 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+fully compatible with, our Altéa solutions, and (iv) revenue from our Airport IT and Payments (the
+Merchant Hub offering) businesses.
+
+IT transactional revenue increased by 7.7% in 2018, driven by:
+
+Volume expansion, resulting from organic growth and customer implementations, as explained in
+section 5.2.1.
+
+A dilutive IT transactional revenue per PB, impacted negatively by foreign exchange effects and an
+increasing weight of low-cost and hybrid carriers. Excluding these effects, IT transactional revenue per PB
+expanded in the year, supported by upselling activity (particularly, solutions such as revenue
+management, merchandizing and personalization and revenue accounting had a strong performance in
+the period) and the positive contribution from airport IT and payments.
+
+Direct distribution revenue
+
+Direct distribution revenue includes (i) fees charged for bookings made through the direct sales channel
+of an airline using our Altéa Reservation solution and for certain types of air bookings made through
+the direct sales channel of Altéa customers for which we charge a booking fee, not a PB fee, and (ii)
+fees charged to airlines using our Altéa Reservation solution for complementary functionalities that are
+closely related to the booking process.
+
+Revenue from direct distribution increased by 16.4%, driven by volume growth and negative non-
+recurring items impacting 2017.
+
+Non-transactional revenue
+
+Non-transactional revenue comprises among others, (i) the recognition of deferred customization an:
+implementation fees of our solutions, (ii) the provision of bespoke and consulting services, and (iii)
+revenues related to our Hospitality IT solutions.
+
+Non-transactional revenue increased by 6.4% in 2018, negatively impacted by foreign exchange effects.
+Excluding foreign exchange effects, this caption grew at a double-digit rate, supported by the goo
+performance of hospitality IT (excluding TravelClick).
+
+5.2.3 Contribution
+
+Contribution expanded by 8.3%, to €1,321.5 million. This positive performance was the combination o
+8.0% revenue growth, as explained in section 5.2.2 above, and 7.3% increase in our net operating costs.
+
+Contribution was impacted by negative foreign exchange effects, excluding which contribution grew at
+a low double-digit growth rate. Contribution margin expanded by 0.2 p.p. to 71.3%, impacted positively
+by foreign exchange effects. Excluding foreign exchange effects, contribution margin was broadly stable
+vs. 2017.
+
+Net operating costs increase in the year resulted from:
+
+The reinforcement of (i) our commercial teams, to better support our product offering, customer base
+and geographic business expansion, and (ii) increased R&D expenditure dedicated to our airline IT
+portfolio enhancement and to the product portfolio expansion and customer implementation activity in
+our new businesses.
+
+A higher capitalization ratio, impacted by project mix.
+
+Positive foreign exchange effects.
+
+Page 26
+
+
+--- Page 25 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+5.3. EBITDA
+
+In 2018, EBITDA increased by 8.5% to €2,018.3 million, negatively impacted by foreign exchange effects
+(see section 4.1 for details on the exposure of our operating results to foreign exchange fluctuations).
+
+EBITDA growth resulted from the positive performances of Distribution and IT Solutions and a reduction
+in net indirect costs as a consequence of the adoption of IFRS 16 in 2018 (based on which operating
+lease costs are no longer recognized within indirect costs. See section 3.1 for details on accounting
+changes). Excluding foreign exchange effects and the IFRS 16 impact, EBITDA grew at a mid to high
+single-digit rate in the year.
+
+In 2018, EBITDA margin represented 41.6% of revenue, expanding 1.4 p.p. vs. prior year. EBITDA margin
+was positively impacted by foreign exchange effects, as well as by the IFRS 16 adoption in 2018.
+Excluding both, EBITDA margin was broadly stable vs. 2017.
+
+Net indirect costs declined by 3.7% in 2018 vs. 2017. Excluding the IFRS 16 impact, net indirect costs
+increased by 2.9%, resulting from: (i) expansion in R&D investment devoted to cross-area technology,
+including the shift to next-generation technologies and cloud services, as well as projects related to our
+overall infrastructure (see section 2.2 for further details), and (ii) increased resources in our corporate
+functions to support our business expansion, including technological projects to improve the efficiency
+and flexibility of internal processes partially offset by (iii) a higher capitalization ratio, impacted by
+project mix, and (iv) positive foreign exchange effects.
+
+. _ Full year 2018 Change
+Indirect costs (€millions) . .
+
+(exc. TravelClick) Full year 2017 (exc. TravelClick)
+
+Indirect costs (923.3) (871.3) 6.0%
+
+Indirect capitalizations & RTC? 239.5 161.5 48.3%
+
+Net Indirect costs (683.8) (709.9) (3.7%)
+
+2 Includes the Research Tax Credit (RTC).
+
+Page 27
+
+
+--- Page 26 ---
+
+T Group, S.A. and S|
+
+’ Report for the year ende
+
+1, 2018 (milion o euros) aMaDEUS
+
+6 Consolidated financial statements
+
+As indicated in section 3.2, for purposes of comparability with 2017, the financial results displayed in
+section 6.1 “Group income statement” are presented excluding the consolidated results of TravelClick,
+TravelClick’s financing related interest expense and the non-recurring costs and PPA derived adjustments
+associated with TravelClick’s acquisition.
+
+6.1 Group income statement
+
+Oct-Dec Full year
+
+Income Statement 2018 Oct-Dec Change 2018 Full year Change
+(€millions) (exc. TC) 2017 (exc. TC) (exc. TC) 2017 (exc. TC)
+Revenue 1173.4 = 1,114.7 5.3% 4,857.2 4,637.2 4.7%
+Cost of revenue (298.6 (272.0) 9.8% (1,173.3) (1,090.2) 7.6%
+Personnel expenses (344.1 (337.7) 1.9% (1,353.6) (1,334.2) 1.5%
+Other operating exp. (97.8 (103.4) (5.4%) (297.2) (338.3) (12.1%)
+D&A (174.3 (163.1) 6.9% (620.6) (556.5) 11.5%
+Operating income 258.6 238.5 8.4% 1,412.5 /318.0 7.2%
+Net financial expense (22.1 (13.0) 70.4% (49.6) (55.3) (10.3%)
+Other expense 0. 0.7 (85.7%) (2.3) (0.6) n.m.
+profit before income 236.6 226.2 4.6% 1,360.5 262.1 7.8%
+Income taxes (50.5 2.3 nm. (342.6) (261.8) 30.9%
+Profit after taxes 186.1 228.5 (18.6%) 1,018.0 000.3 1.8%
+Share 1 prot rom 03 0.0 nm. 3.0 4.2 (28.6%)
+Profit for the period 186.4 228.5 (18.4%) 1,021.0 004.5 1.6%
+EPS (€) 0.43 0.52 (17.2%) 2.37 2.29 3.4%
+Key financial metrics
+
+EBITDA 430.3 397.6 8.2% 2,018.3 859.9 8.5%
+EBITDA margin (%) 36.7% 35.7% 1.0 p.p. 41.6% 40.1% 1.4 p.p.
+Adjusted profit? 221.5 268.2 (17.4%) 1,108.5 112.1 (0.3%)
+Adjusted EPS (€)? 0.51 0.61 (16.2%) 2.58 2.54 1.4%
+
+Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses, (ii) non-operating
+exchange gains (losses) and (ii) other non-recurring items.
+2 EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average outstanding shares of the period.
+
+6.1.1 Revenue
+
+In the fourth quarter of 2018, revenue amounted to €1,173.4 million, growing 5.3% vs. the same period
+in 2017. This resulted in full year revenue of €4,857.2, a growth of 4.7% vs. prior year.
+
+Growth in the fourth quarter and full year of 2018 was driven by the positive evolution of Distribution
+and IT Solutions. Our revenue was negatively impacted by foreign exchange effects in 2018, despite a
+
+Page 28
+
+
+--- Page 27 ---
+
+T Group, S.A. and Subsid
+
+’ Report for the year ende
+
+1, 2048 (lions of eros aMaDEUS
+
+small positive effect during the fourth quarter. Excluding foreign exchange effects, revenue grew at a
+mid-single-digit rate and a mid-to-high single-digit rate, in the fourth quarter and the full year,
+respectively.
+
+Overall, revenue growth was a combination of:
+
+An increase of 2.9% in Distribution in the fourth quarter of 2018, or 2.8% growth for the year.
+An increase of 9.3% in IT Solutions in the fourth quarter of 2018, driving an 8.0% in the year.
+
+See sections 5.1.2. and 5.2.2. for more detail on revenue growth in Distribution and IT Solutions.
+
+Oct-Dec Oct-Dec Full year Full year
+2018 2017 Change 2018 2017 Change
+Revenue (€millions) (exc. TC) (exc. TC) (exc. TC) (exc. TC)
+Distribution 724.9 704.2 2.9% 3,004.3 2,922.1 2.8%
+IT Solutions 448.4 410.5 9.3% 1,852.9 1,715.1 8.0%
+Revenue 1,173.4 1,114.7 5.3% 4,857.2 4,637.2 4.7%
+
+6.1.2 Cost of revenue
+
+These costs are mainly related to: (i) incentive fees paid to travel agencies, (ii) distribution fees paid to
+local commercial organizations which act as a local distributor (mainly in the Middle East, North Africa,
+India, and South Korea), as well as non-reimbursable local taxes, and (iii) data communication expenses
+related to the maintenance of our computer network, including connection charges.
+
+Cost of revenue grew by 7.6% to €1,173.3 million in 2018 vs. prior year. The increase in cost of revenue
+was driven by (i) booking volume expansion, (ii) a higher unitary distribution cost, resulting from
+heightened competitive pressure and a negative country mix (driven by the higher weight over our total
+volumes of some of the countries where Amadeus operates through local distributors, such as India,
+South Korea and some Middle Eastern countries), and (iii) non-recurring effects related to local taxes.
+
+.3. Personnel and related expenses and other operating expenses
+
+A large number of Amadeus’ employees are software engineers. Amadeus also hires contractors to
+support its development activity, complementing permanent staff. The overall ratio of permanent staff
+vs. contractors devoted to R&D may fluctuate depending on business needs and project mix, therefore
+impacting the evolution of both “Personnel expenses” and “Other operating expenses” captions in our
+
+income statement.
+
+Our combined Personnel and other operating cost line increased by 0.2% in the fourth quarter of 2018
+vs. prior year, positively impacted by the IFRS 16 adoption from January 1, 2018 (see section 3.1 for
+further details).
+
+In the full year period, this cost line declined by 1.3%, impacted positively by the IFRS 16 effect, as
+explained above, and foreign exchange effects. Excluding foreign exchange effects and the impact from
+the adoption of IFRS 16, Personnel and Other operating expenses together increased moderately in the
+year vs. previous year, resulting from:
+
+A7% increase in average FTEs (permanent staff and contractors), mainly due to higher resources devoted
+to R&D (see further details in sections 2.2 and 6.2.2) and, to a lesser extent, an increase in headcount in
+
+Page 29
+
+
+--- Page 28 ---
+
+T Group, S.A. and Subsidiaries
+
+’ Report for the year ended December 31, 2018 (millions of euros)
+
+aMaDEUS
+
+our corporate function, driven by our geographical and business expansion. The expansion of our
+commercial and customer support units also contributed to the FTE growth.
+
+country mix.
+
+Growth in non-personnel related expenses, such as computing and consultancy costs.
+These effects were partially offset by (i) an increase in capitalizations, driven by both R&D investment
+
+Limited growth in unit personnel cost, as a result of our global salary increase, partly offset by a positive
+
+growth and a higher capitalization ratio, impacted by project mix, and (ii) a reduction in several cost lines,
+which by nature may show a more volatile behavior per quarter.
+
+Oct-Dec Oct-Dec Full year Full year
+Personnel + Other op. 2018 2017 Change 2018 2017 Change
+expenses (€millions) (exc. TC) (exc. TC) (exc. TC) (exc. TC)
+Personnel expenses +
+Other operating ex- (441.9) (441.1) 0.2% (1,650.8) (1,672.5) (1.3%)
+penses
+6.1.4 Depreciation and amortization
+Depreciation and amortization (including capitalized D&A) was 7.9% higher in the fourth quarter of
+2018 vs. the same period in 2017, driving growth over the full year period to 11.8%.
+Ordinary D&A grew by 19.8% in the fourth quarter of 2018 vs. prior year, and 20.0% in 2018, partly
+driven by the adoption of IFRS 16 from January 1, 2018 (see further details in section 3.1). Excluding
+
+the impact from the IFRS 16 adoption (€13.4 million in the fourth quarter and €44.4 million in the full
+
+year period), ordinary D&A grew by 8.4% and 9.6% in the fourth quarter and in the full year period,
+respectively. Ordinary D&A growth in 2018 was driven by higher amortization of intangible assets, as
+capitalized development expenses on our balance sheet started being amortized in parallel with the
+associated project or contract revenue recognition, coupled with a modest increase in depreciation
+expense.
+Oct-Dec Oct-Dec Full year Full year
+Depreciation & Amort. 2018 2017 Change 2018 2017 Change
+(€millions) (exc. TC) (exc. TC) (exc. TC) (exc. TC)
+Ordinary D&A (140.7) (117.4) 19.8% (513.9) (428.3) 20.0%
+Amortization derived 9 9
+from PPA (24.2) (22.3) 8.4% (97.3) (95.9) 1.4%
+Impairments (9.5) (23.4) (59.4%) (9.5) (32.3) (70.7%)
+D&A (174.3) (163.1) 6.9% (620.6) (556.5) 11.5%
+Capitalized D&At 2.6 4.0 (35.0%) 14.9 14.6 1.7%
+D&A post-capitalizations (171.7) (159.1) 7.9% (605.8) (541.9) 11.8%
+
++ Included within the Other operating expenses caption in the Group income statement. D&A is capitalized when the related asset is used for
+a software internally developed project which related costs are capitalized.
+
+6.1.5 EBITDA and Operating income
+
+In 2018, EBITDA increased by 8.5% to €2,018.3 million, negatively impacted by foreign exchange effects
+(see section 4.1 for details on the exposure of our operating results to foreign exchange fluctuations).
+
+Page 30
+
+
+--- Page 29 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+EBITDA growth resulted from (i) the positive performances of Distribution and IT Solutions and (ii) a
+reduction in net indirect costs driven by our adoption of IFRS 16 in 2018 (based on which operating
+lease costs are no longer recognized within indirect costs. See section 3.1 for details on accounting
+changes). Excluding foreign exchange effects and the IFRS 16 impact, EBITDA grew at a mid-to-high
+single-digit rate in the year.
+
+In 2018, EBITDA represented 41.6% of revenue, expanding 1.4 p.p. vs. prior year. EBITDA margin was
+positively impacted by foreign exchange effects, as well as by the IFRS 16 adoption in 2018. Excluding
+both, EBITDA margin was broadly stable vs. 2017.
+
+Operating income grew by 8.4% in the fourth quarter of 2018, or by 7.2% to €1,412.5 million in 2018,
+as a result of an increase in EBITDA and higher D&A charges.
+
+Operating income — Oct-Dec Oct-Dec Change Fullyear —‘ Full year Change
+EBITDA (€millions) 2018 2017 (exc. TC) 2018 2017 (exc. TC)
+(exc. TC) (exc. TC)
+
+Operating income 258.6 238.5 8.4% 1,412.5 1,318.0 7.2%
+Depreciation and 174.3 163.1 6.9% 620.6 556.5 11.5%
+amortization
+
+Capitalized depreciation (2.6) (4.0) (35.0%) (14.9) (14.6) 1.7%
+and amortization
+
+EBITDA 430.3 397.6 8.2% 2,018.3 1,859.9 8.5%
+EBITDA margin (%) 36.7% 35.7% 1.0 p.p. 41.6% 40.1% 1.4 p.p.
+
+6.1.6 Net financial expense
+
+Net financial expense increased by €9.1 million in the fourth quarter of 2018, and declined by €5.7 million, or
+10.3%, in 2018. Excluding the impact from the adoption of IFRS 16 (€4.8 million in 2018. See section 3.1 for
+further details), net financial expense declined by €10.5 million or 19.0% in 2018, mainly due to a reduction
+of €4.9 million in exchange losses vs. 2017. Interest expense declined vs. previous year by 12.2% (if we exclude
+the IFRS 16 impact), as a result of both lower average cost of debt and lower average gross debt (this is
+excluding TravelClick’s acquisition financing impacts).
+
+Oct-Dec Change Full year
+Net financial expense 2018 Oct-Dec (excl. 2018 ~=—- Full year Change
+(€millions) (exc. TC) 2017 TC) (exc. TC) 2017 (exc. TC)
+Financial income 0.3 (0.2) n.m. 2.0 1.3 53.8%
+Interest expense (7.9) (7.6) 3.8% (33.7) (32.9) 2.4%
+Other financial expenses (3.2) (3.5) (8.6%) (8.8) (9.6) (8.3%)
+Exchange gains (losses) (11.4) (1.7) n.m. (9.2) (14.1) (35.2%)
+Net financial expense (22.1) (13.0) 70.4% (49.6) (55.3) (10.3%)
+
+Page 31
+
+
+--- Page 30 ---
+
+T Group, S.A. and Subsidiaries
+
+6.1.7 Income taxes
+
+Income taxes amounted to €342.6 million in 2018, a growth of 30.9% vs. 2017. The income tax rate in
+2018 was 25.2%, higher than the 20.7% rate in 2017. The income tax rate in 2017 was impacted by a
+number of non-recurring effects, including adjustments to deferred tax liabilities in France and the U.S.
+due to lower corporate tax rates starting in 2018, in accordance with government regulatory changes,
+and tax deductions related to non-recurring transactions. Excluding the impacts from the non-recurring
+adjustments to deferred tax liabilities in 2017, income taxes grew by €27.5 million or 8.7% in 2018 vs.
+2017.
+
+6.1.8 Profit for the period. Adjusted profit
+
+In the fourth quarter of 2018, reported profit declined by 18.4% to €186.4 million, driving full year 2018
+growth to 1.6%. 2017 reported profit was positively impacted by non-recurring effects affecting income
+tax, as explained in section 6.1.7. Excluding the impacts from non-recurring adjustments to deferred
+tax liabilities in 2017, reported profit grew by 6.4% and 7.3% in the fourth quarter and full year 2018,
+respectively, vs. the same period of 2017.
+
+After adjusting for (i) accounting effects derived from PPA exercises and impairment losses, (ii) non-
+operating exchange gains (losses), and (iii) other non-recurring items, adjusted profit declined by 17.4%
+in the fourth quarter of 2018, or by 0.3% to €1,108.5 million in 2018. Excluding the impacts from non-
+recurring adjustments to deferred tax liabilities in 2017, adjusted profit grew by 3.1% and 4.7% in the
+fourth quarter and full year 2018, respectively, vs. the same period of 2017.
+
+Oct-Dec Full year
+
+Reported-Adj. profit 2018 Oct-Dec Change 2018 ~=—- Full year Change
+(€millions) (exc. TC) 2017 (exc.TC) (exc. TC) 2017 (exc. TC)
+Reported profit 186.4 228.5 (18.4%) 1,021.0 ~—«1,004.5 1.6%
+Adjustments
+
+Impact of PPA* 18.9 20.1 (6.1%) 71.3 715 (0.4%)
+Non-operating FX results? 9.1 1.5 n.m. 74 8.1 (7.8%)
+Non-recurring items 0.0 (0.4) n.m. 1.7 2.6 (33.1%)
+Impairments 7.1 18.5 (61.7%) 7.1 25.4 (72.1%)
+Adjusted profit 221.5 268.2 (17.4%) 1,108.5 1,112.1 (0.3%)
+
+1 After tax impact of accounting effects derived from purchase price allocation exercises.
+2 After tax impact of non-operating exchange gains (losses).
+
+6.1.9 Earnings per share (EPS)
+
+The table below shows EPS for the period, based on the profit attributable to the parent company (after
+minority interests), and adjusted EPS, based on the adjusted profit, as detailed above. Both are
+presented excluding the consolidated results of TravelClick, TravelClick’s financing related interest
+expense and the non-recurring costs and PPA derived adjustments associated with TravelClick’s
+acquisition.
+
+Page 32
+
+
+--- Page 31 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+In 2018, our EPS increased by 3.4% to €2.37 and our adjusted EPS by 1.4% to €2.58.
+
+Oct-Dec Full year
+
+2018 Oct-Dec Change 2018 =‘ Full year Change
+Earnings per share (exc. TC) 2017 (exc.TC) (exc. TC) 2017 (exc. TC)
+Weighted average issued 438.8 438.8 438.8 438.8
+shares (m)
+Weighted average treasury
+shares (m) (8.2) (2.6) (8.5) (1.7)
+Outstanding shares (m) 430.6 436.2 (1.3%) 430.4 437.1 (1.6%)
+EPS (€) 0.43 0.52 (17.2%) 2.37 2.29 3.4%
+Adjusted EPS (€)? 0.51 0.61 (16.2%) 2.58 2.54 1.4%
+
+2 EPS corresponding to the Profit attributable to the parent company. Calculated based on weighted average outstanding shares of the period.
+2 EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average outstanding shares of
+the period.
+
+On December 14, 2017, the Board of Directors of Amadeus agreed to undertake a share repurchase program,
+in accordance with the authorization granted to it by the General Shareholders’ Meeting held on June 20,
+2013. The purpose of the share repurchase program was the redemption of shares (subject to our General
+Shareholders’ Meeting approval). The maximum investment approved under the program was €1,000
+million, not exceeding 25,000,000 shares (or 5.69% of share capital), to be carried out in two tranches:
+
+Tranche 1: up to €500 million (non-cancellable), from January 1, 2018 to March 31, 2019.
+Tranche 2: up to €500 million (cancellable at Company's discretion), from April 1, 2019 to March 31, 2020.
+
+Following TravelClick’s acquisition, on October 25, 2018, Amadeus announced that the Board of Directors
+agreed to cancel the second (cancellable) tranche of the share repurchase program, which was due to start
+on April 1, 2019.
+
+On December 10, 2018, Amadeus announced it had reached the maximum investment under the first
+tranche (€500 million), thus completing the share repurchase program. Under the program, Amadeus
+acquired 7,554,070 shares (representing 1.721% of Amadeus share capital).
+
+Page 33
+
+
+--- Page 32 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+6.2 Statement of financial position (condensed)
+
+Statement of financial position (€millions) Dec 31, 2018 Dec 31, 2017
+Property, plant and equipment? 433.2 479.8
+Right-of-use assets* 351.2 0.0
+Intangible assets 4,093.8 3,204.3
+Goodwill 3,598.0 2,714.2
+Other non-current assets 282.8 256.0
+
+Non-current assets 8,759.0 6,654.3
+
+Current assets 808.5 641.5
+
+Cash and equivalents 562.6 579.5
+
+Total assets 10,130.1 7,875.3
+
+Equity 3,191.7 2,641.3
+Non-current debt 2,898.1 ,755.1
+Other non-current liabilities 1,347.2 195.4
+
+Non-current liabilities 4,245.3 2,950.5
+Current debt 986.9 396.1
+Other current liabilities 1,706.2 887.4
+
+Current liabilities 2,693.1 2,283.5
+
+Total liabilities and equity 10,130.1 7,875.3
+
+Net financial debt (as per financial statements) 3,322.4 /571.7
+
+In compliance with IFRS 16, the "Right-of-use assets” caption includes assets under operating and financial lease agreements, part of which
+(financial leases) were recognized as Property, plant and equipment at December 31, 2017. See section 3.1 for further details
+
+6.2.1 Property, plant and equipment (PP&E)
+
+This caption principally includes land and buildings, data processing hardware and software, and other
+PP&E assets such as building installations, furniture and fittings and miscellaneous.
+
+PP&E decreased by €46.6 million in 2018. This decrease was mainly the result of the following effects:
+(i) the reclassification as of January 1, 2018 of assets under finance lease agreements, amounting to
+€101.0 million, which are now disclosed under the Right-of-use assets caption above, (ii) additions
+(+€163.2 million), mostly related to data processing hardware and software acquired for our data
+processing center in Erding (Germany), (iii) additions from acquisitions, mainly TravelClick (+€12.8
+million) and (iv) depreciation charges (-€118.8 million).
+
+Page 34
+
+
+--- Page 33 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+6.2.2 Intangible assets
+
+This caption principally includes (i) the net cost of acquisition or development and (ii) the excess
+purchase price, allocated to patents, trademarks and licenses?’, technology and content!® and
+contractual relationships”. In particular, it includes the excess purchase price derived from the business
+combination (acquisition) between Amadeus IT Group, S.A. (the former listed company in 2005) and
+Amadeus IT Group, S.A. (the currently listed company, formerly known as Amadeus IT Holding, S.A. or
+WAM Acauisition, S.A.) in 2005.
+
+Intangible assets increased by €889.5 million in 2018. This increase was mainly the result of the
+combination of the following effects: (i) additions from acquisitions, mainly TravelClick (+€687.8
+million), (ii) additions of internally developed software (+€559.0 million) and acquired assets (+€66.7
+million), (iii) amortization charges and impairment losses (-€455.5 million) and (iii) foreign exchange
+effects (+€33.0 million).
+
+6.2.3 Goodwill
+
+Goodwill amounted €3,598.0 million as of December 31, 2018. Goodwill mainly relates to the
+unallocated amount of the excess purchase price derived from (i) the business combination
+(acquisition) between Amadeus IT Group, S.A. (the currently listed company, formerly named Amadeus
+IT Holding, S.A. or WAM Acquisition, S.A.) and Amadeus IT Group, S.A. (the former listed company in
+2005) in 2005, and (ii) acquisitions, most of them completed in 2014, 2015, 2016 and 2018. Goodwill
+increased by €883.8 million in 2018, mainly due to TravelClick’s acquisition (see section 3.2).
+
+6.2.4 Equity, Share capital
+
+As of December 31, 2018 the share capital of our Company was represented by 438,822,506 shares
+with a nominal value of €0.01 per share.
+
+2 Net cost of acquiring brands and trademarks (either by means of business combinations or in separate acquisitions) as well as the net cost
+of acquiring software licenses developed outside the Group for Distribution and IT Solutions.
+
+* Net cost of acquiring technology software and travel content either by means of acquisitions through business combinations/separate
+acquisitions or internally generated (software applications developed by the Group, including the development technology of the IT
+solutions business). Travel content is obtained by Amadeus through its relationships with travel providers.
+
+* Net cost of contractual relationships with travel agencies, as acquired through business combinations, as well as costs subject to
+capitalizations, related to travel agency incentives, that can be recognized as an asset.
+
+Page 35
+
+
+--- Page 34 ---
+
+T Group, S.A. and Subsidiaries
+
+6.2.5 Financial indebtedness
+
+Indebtedness (€millions) none ane Change
+Credit facility agreements’ definition?
+
+Long term bonds 2,500.0 1,500.0 1,000.0
+Short term bonds 500.0 0.0 500.0
+European Commercial Paper 330.0 300.0 30.0
+EIB loan 192.5 257.5 (65.0)
+Other debt with financial institutions 23.9 13.2 10.8
+Obligations under finance leases 90.1 92.1 (2.0)
+Share repurchase program 0.0 500.0 (500.0)
+Financial debt 3,636.6 2,662.8 973.8
+Cash and cash equivalents (562.6) (579.5) 16.9
+Net financial debt 3,074.0 2,083.3 990.7
+Net financial debt / LTM EBITDA 1.47x 1.12x 0.36x
+Reconciliation with financial statements
+
+Net financial debt (as per financial statements) 3,322.4 1,571.7 1,750.7
+Interest payable (5.5) (2.1) (3.4)
+Deferred financing fees 14.9 10.3 4.6
+EIB loan adjustment 1.9 3.4 (1.5)
+Share repurchase program 0.0 500.0 (500.0)
+Operating lease liabilities (259.7) 0.0 (259.7)
+Net financial debt (as per credit facility agreements) 3,074.0 2,083.3 990.7
+
+Based on the definition included in our credit facility agreements.
+
+Net financial debt, as per our credit facility agreements’ terms, amounted to €3,074.0 million at December
+31, 2018 (representing 1.47x times last-twelve-month EBITDA).
+
+The main changes to our debt in 2018 were:
+
+Three Eurobond issues on September 18, 2018 (under our Euro Medium Term Note Programme) for a
+total amount of €1,500 million, with the following conditions: (i) a €500 million issue, with a three year
+and a half maturity and an interest rate of 3-month Euribor plus 0.45% margin (with a minimum annual
+coupon of 0%), (ii) a €500 million issue, with a five year maturity, an annual coupon of 0.875% and an
+issue price of 99.898% of nominal value, and (iii) a €500 million issue, with an eight year maturity, an
+annual coupon of 1.5% and an issue price of 99.761% of nominal value.
+
+The use of the Multi-Currency European Commercial Paper (ECP) program by a net amount of €30.0
+million.
+
+A repayment of €65.0 million related to the European Investment Bank loan.
+
+As explained in section 7.3.2, as of December 10, 2018, Amadeus had reached the maximum investment
+under the first tranche (€500 million) of the share repurchase program. The full liability associated with
+this tranche was outstanding as of December 31, 2017.
+
+Page 36
+
+
+--- Page 35 ---
+
+T Group, S.A. and Subsidiaries
+
+On April 27, 2018 Amadeus executed a new €1,000 million Single Currency Revolving Loan Facility, with a five-
+year term, to be used for working capital requirements and general corporate purposes. Simultaneously, the
+two undrawn revolving facilities signed in March 2015 (€500 million) and in April 2016 (€500 million) were
+cancelled. The new revolving facility remained undrawn at December 31, 2018.
+
+Reconciliation with net financial debt as per our financial statements
+
+Under our credit facility agreements’ terms, financial debt (i) does not include the accrued interest
+payable (€5.5 million at December 31, 2018) which is treated as financial debt in our financial
+statements, (ii) is calculated based on its nominal value, while in our financial statements our financial
+debt is measured at amortized cost, i.e., after deducting the deferred financing fees (that mainly
+correspond to fees paid upfront in connection with the set-up of new credit agreements and amount
+to €14.9 million at December 31, 2018), (iii) does not include an adjustment for the difference between
+the nominal value of the loan granted by the EIB at below-market interest rate and its fair value (€1.9
+million at December 31, 2018), and (iv) does not include debt related to assets under operating lease
+agreements (which form part of the financial debt in the statement of financial position) amounting to
+€259.7 million at December 31, 2018.
+
+6.3. Group cash flow
+
+Consolidated Statement of Oct-Dec Oct-Dec Fullyear — Full year
+
+Cash Flows (€millions) 2018 2017 Change 2018 2017 Change
+EBITDA 425.5 397.6 7.0% 2,013.5 1,859.9 8.3%
+Change in working capital 121.0 79.1 53.0% 0.7 60.5 (98.7%)
+Capital expenditure (212.0) (173.8) 22.0% (718.2) (612.1) 17.3%
+Pre-tax operating cash flow 334.5 302.9 10.4% 1,296.0 1,308.2 (0.9%)
+Taxes paid (142.5) (159.3) (10.5%) (287.6) (363.4) (20.9%)
+ad & financial fees (181) (14.5) 24.6% «= (32.4)—(27.2)—«19.7%
+Free cash flow 173.9 129.1 34.7% 976.0 917.6 6.4%
+Equity investment (1,305.9) (2.5) n.m. (1,315.1) (31.4) n.m.
+Cash flow from non-
+
+operating and extraordinary (26.4) (5.8) n.m. (48.7) (62.0) n.m.
+items
+
+Debt payment (253.1) (442.5) n.m. 1,373.8 (275.7) n.m.
+Cash to shareholders (237.5) 0.0 n.m. (1,003.2) (419.0) n.m.
+Change in cash (1,649.0) (321.7) n.m. (17.2) 129.5 n.m.
+Cash and cash equivalents, net?
+
+Opening balance 2,210.9 900.9 579.1 449.6
+
+Closing balance 561.8 579.1 561.8 579.1
+
+*Cash and cash equivalents are presented net of overdraft bank accounts
+
+In 2018, Amadeus Group free cash flow amounted to €976.0 million, 6.4% higher than 2017. Free cash
+flow was impacted by the following effects related to TravelClick’s acquisition:
+
+__ TravelClick’s positive contribution to free cash flow by €14.8 million.
+
+Page 37
+
+
+--- Page 36 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+Non-recurring costs amounting to €12.9 million, paid in 2018.
+Interest paid related to TravelClick’s acquisition financing amounting to €0.2 million.
+
+Excluding the above non-recurring costs and interest paid in relation to TravelClick’s acquisition, free cash
+flow amounted to €989.0 million in 2018, a 7.8% increase vs. 2017. See section 3.2 for a reconciliation of
+the above effects.
+
+6.3.1 Change in working capital
+
+Working capital inflow decreased by €59.8 million in 2018, mostly driven by (i) accounting effects from
+non-cash operating items, such as bad debt provisions and the recognition of previously deferred
+revenue, and (ii) timing differences in some payments and collections, partly related to changes in the
+contract terms with a supplier.
+
+6.3.2 Capital expenditure, R&D investment
+Capital expenditure
+
+The table below details the capital expenditure in the period, both in relation to property, plant and
+equipment (“PP&E”) and to intangible assets. Based on the nature of our investments in PP&E, the
+figures may show variations on a quarterly basis, depending on the timing of certain investments. The
+same applies to our investments in contractual relationships where payments to travel agencies may
+take place in different periods, based on the timing of the negotiations. In turn, our capitalized R&D
+investment may fluctuate depending on the level of capitalization ratio, which is impacted by the
+intensity of the development activity, the mix of projects undertaken and the different stages of the
+various projects.
+
+Capex in the fourth quarter of 2018 increased by 22.0% vs. prior year, as a result of:
+
+Higher capex in intangible assets, driven by growth in software capitalizations, due to an increase in both
+R&D investment and capitalization ratio, impacted by project mix. Signing bonuses paid in the fourth
+quarter of the year decreased vs. previous year.
+
+A decline in capex devoted to property, plant and equipment.
+
+TravelClick’s contribution to capital expenditure.
+
+In 2018, capex amounted to €718.2 million, an increase of 17.3% vs. 2017. As a percentage of revenue,
+capex represented 14.6%, 1.3 p.p. higher than the same period of previous year. Capex in intangible
+assets in the year expanded 23.0% vs. 2017, largely driven by an increase in software capitalizations
+and, to a lesser extent, higher signing bonuses paid and TravelClick’s contribution.
+
+It is important to note that a large part of our investments do not have any revenue associated at this
+stage (particularly in the case of new diversification initiatives), or are investments for projects that will
+produce revenue during the life of the contracts, on average 10 to 15 years in Airline IT and 3 to 5 in
+Distribution, thereby affecting the capex as a percentage of revenue ratio. It is also important to note
+that a large part of our investments related to the migration of our clients is paid by the customer,
+although not recognized as revenue but deferred in the balance sheet. It is therefore capex which does
+not have a negative cash impact and where revenue does not get recognized as such, making the ratio
+of capex to revenue less relevant.
+
+Page 38
+
+
+--- Page 37 ---
+
+T Group, S.A. and Subsidiaries
+
+” Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+Capital Expenditure Oct-Dec Oct-Dec Full year Full year
+
+(€millions) 2018 2017 Change 2018 2017 Change
+Capital Expenditure 31.0 32.2 (3.8%) 108.5 116.5 (6.9%)
+PP&E
+
+Capital Expenditure in 181.0 141.6 27.8% 609.7 495.7 23.0%
+intangible assets
+
+Capital Expenditure 212.0 173.8 22.0% 718.2 612.1 17.3%
+As % of Revenue 16.9% 15.6%  13p.p. 14.6% 13.2%  13p.p.
+
+R&D investment
+
+In 2018, R&D investment (including both capitalized and non-capitalized expense) amounted to €876.7
+million, 17.8% higher than previous year. As a percentage of revenue, R&D investment amounted to
+17.8%, 1.7 p.p. higher than prior year.
+
+Growth in R&D investment in 2018 resulted from:
+
+Increased resources to enhance and expand our product portfolio (including projects under the scope of
+our NDC-X program, merchandizing, shopping and personalization solutions, our revenue optimization
+portfolio, disruption management tools, etc.) and to implement solutions associated with our Airline IT
+upselling activity.
+
+Investment devoted to our new businesses, particularly Hospitality, Airport IT and Payments.
+
+Efforts dedicated to the shift to next-generation technologies and cloud services and continued
+enhancement of the overall infrastructure and processes to enhance efficiency, flexibility, availability and
+security.
+
+The impact from TravelClick’s consolidation.
+
+It should be noted that a significant part of our research and development costs are linked to activities
+which are subject to capitalization. The intensity of the development activity and the different stages
+in the ongoing projects have an effect on the capitalization ratio in any given quarter, thereby impacting
+the level of operating expenses that are capitalized on our balance sheet.
+
+R&D investment Oct-Dec Oct-Dec Full year Full year
+
+(€millions) 2018 2017 Change 2018 2017 Change
+R&D investment? 253.5 199.7 27.0% 876.7 744.2 17.8%
+As % of Revenue 20.3% 17.9% 2.3 p.p. 17.8% 16.0% 1.7 p.p.
+
+1 Net of Research Tax Credit.
+
+6.3.3. Taxes paid
+
+In 2018, cash taxes amounted to €287.6 million, a decline of €75.8 million, or 20.9% vs. previous year.
+This decrease was mainly due to (i) higher reimbursements from previous years, and (ii) lower prepaid
+taxes in the U.S. resulting from a decrease in the corporate tax rate in 2018, in accordance with
+government regulatory changes.
+
+Page 39
+
+
+--- Page 38 ---
+
+T Group, S.A. and Subsidiaries
+
+Directors’ Report for the year ended December 31, 2018 (millions of euros) a M a D E | ] S
+
+6.3.4 Interest and financial fees paid
+
+Interest payments under our debt arrangements amounted to €32.4 million in 2018, €5.3 million higher
+than in 2017. This increase was mostly due to non-recurring fees paid (i) in relation to the Eurobonds
+issued in September 2018, and (ii) the cancellation of two revolving facilities and the set-up of a new
+revolving facility, in April 2018. These effects were partly offset by (i) the final payment of the coupon
+of €400 million bonds, which matured on December 2017, and (ii) a non-recurring fee from the
+cancellation of an interest rate swap in 2017.
+
+6.3.5 Equity investments
+
+In 2018, equity investments amounted to €1,315.1. This cash outflow mainly relates to TravelClick’s
+acquisition, as detailed in section 3.2. In 2017, equity investments (€31.4 million) mostly correspond to
+the acquisition of i:FAO shares.
+
+6.3.6 Cash flow from non-operating and extraordinary items
+
+In 2018, cash outflow from non-operating and extraordinary items amounted to €48.7 million, mostly
+relating to exchange differences related to non-operating assets and liabilities.
+
+6.3.7. Cash to shareholders
+
+In 2018, the cash outflow to shareholders, amounting to €1,003.2 million, corresponds to (i) a payment
+of €494.3 million related to the ordinary dividend of €1.135 per share (gross) on the 2017 profit, (ii) the
+acquisition of treasury shares for a total amount of €500.0 million in relation to the first tranche of the
+share repurchase program (as described in section 7.3.2) and (iii) the acquisition of treasury shares to
+cover the staff shared-based remuneration schemes (as described in section 4.3).
+
+7 Investor information
+
+7.1 Capital stock. Share ownership structure
+
+As of December 31, 2018, our capital stock amounts to €4,388,225.06 represented by 438,822,506 shares
+with a nominal value of €0.01 per share, all belonging to the same class, fully subscribed and paid in.
+
+The shareholding structure as of December 31, 2018 is as described in the table below:
+
+Shareholders Shares % Ownership
+Free float 430,179,933 98.03%
+Treasury shares? 8,214,289 1.87%
+Board members 428,284 0.10%
+Total 438,822,506 100.00%
+
+2 Voting rights suspended for as long as the shares are held by the company. Includes treasury shares acquired to cover the exchange ratio
+related to the merger of Amadeus IT Holding, S.A. and Amadeus IT Group, S.A. not yet delivered.
+
+Page 40
+
+
+--- Page 39 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+7.2 Share price performance in 2018
+
+412%
+-1.0%
+-6.2%
+-14.3%
+-15.0%
+Jan-18  Feb-18 Mar-18 Apr-18 May-18 Jun-18 Jul-l8 = Aug-18 Sep-18 Oct-18 Nov-18 Dec-18
+—Amadeus ——IBEX ——EUROSTOXX ——NASDAQ ——S&P 500 Rebased to 100
+Key trading data
+Number of publicly traded shares (# shares) 438,822,506
+Share price at December 31, 2018 (in €) 60.84
+Maximum share price in Jan - Dec 2018 (in €) (October 1, 2018) 82.06
+Minimum share price in Jan - Dec 2018 (in €) (March 2, 2018) 56.90
+Market capitalization at December 31, 2018 (in € million) 26,698
+Weighted average share price in Jan - Dec 2018 (in €)* 67.38
+Average Daily Volume in Jan - Dec 2018 (# shares) 1,330,007
+
+1 Excluding cross trade Shareholder remuneration
+
+7.3. Shareholder remuneration
+
+7.3.1 Dividend payments
+
+At the General Shareholders’ Meeting held on June 21, 2018, our shareholders approved the annual gross
+dividend from the 2017 profit. The total value of the dividend increased 20.7% vs. prior year to €498.1 million,
+representing a pay-out of 50% of the 2017 reported profit for the year, or €1.135 per share (gross). An interim
+amount of €0.48 per share (gross) was paid on January 31, 2018 and the complementary dividend of €0.655
+per share (gross) was paid on June 29, 2018.
+
+On December 13, 2018 the Board of Directors of Amadeus proposed a 50% pay-out ratio for the 2018
+dividend.
+
+In June 2019, the Board of directors will submit to the General Shareholders’ Meeting for approval a
+final gross dividend of €1.175 per share, representing a 3.5% increase vs. the 2017 dividend and a 50%
+of the reported Profit, adjusted to exclude TravelClick’s acquisition related effects. An interim dividend
+of €0.51 per share (gross) was paid in full on January 17, 2019. Based on this, the proposed
+appropriation of the 2018 results included in our 2018 audited consolidated financial statements
+includes a total amount of €515.6 million corresponding to dividends pertaining to the financial year
+2018.
+
+Page 41
+
+
+--- Page 40 ---
+
+T Group, S.A. and Subsidiaries
+
+7.3.2 Share repurchase program
+
+Amadeus has stated that in low leverage scenarios, it would complement ordinary shareholder remuneration
+with extraordinary remuneration.
+
+On December 14, 2017, the Board of Directors of Amadeus agreed to undertake a share repurchase program,
+in accordance with the authorization granted to it by the General Shareholders’ Meeting held on June 20,
+2013. The purpose of the share repurchase program was the redemption of shares (subject to our General
+Shareholders’ Meeting approval). The maximum investment approved under the program was €1,000
+million, not exceeding 25,000,000 shares (or 5.69% of share capital), to be carried out in two tranches:
+
+Tranche 1: up to €500 million (non-cancellable), from January 1, 2018 to March 31, 2019.
+Tranche 2: up to €500 million (cancellable at Company's discretion), from April 1, 2019 to March 31, 2020.
+
+Following TravelClick’s acquisition, on October 25, 2018, Amadeus announced that the Board of Directors
+agreed to cancel the second (cancellable) tranche of the share repurchase program, which was due to start
+on April 1, 2019.
+
+On December 10, 2018, Amadeus announced it had reached the maximum investment under the first
+tranche (€500 million), thus completing the share repurchase program. Under the program, Amadeus
+has acquired 7,554,070 shares (representing 1.721% of Amadeus share capital).
+
+8 Other additional information
+8.1 Expected Business Evolution
+8.1.1 Macroeconomic environment
+
+Given that Amadeus operates transaction-based business models, our operating results are highly
+linked to travel volumes (mainly bookings made by travel agencies connected to the Amadeus
+Distribution system, or passengers boarded by airlines using our IT solutions) at a global scale. Amadeus’
+businesses and operations are largely dependent on the worldwide travel and tourism industry, which
+is sensitive to general economic conditions and trends.
+
+In January 2018, the IMF updated its World Economic Outlook, reporting that the growth of the global
+economy is expected to decelerate in 2019, growing at 3.5%, vs. 3.7% in 2018.
+
+Growth in the advanced economies is projected to slowdown (2.0% in 2019 vs. 2.3% in 2018) mainly
+driven by slowdowns expected in the United States (2.5% in 2019, vs. 2.9% in 2019) and the Euro Zone
+(1.6% in 2019 vs. 1.8% in 2018).
+
+Growth in the emerging markets and developing economies are also expected to decelerate (4.5% in
+2019 vs. 4.6% in 2018) reflecting contractions in Argentina and Turkey, as well as the impact of trade
+actions on China and other Asian economies.
+
+IATA believe that the slowdown in economic growth coupled with rising fuel costs will lead to a
+deceleration in air traffic growth, which is expected to expand by 6.0%”° in 2019 (vs. 6.5% in 2018). All
+regions are expected to perform positively: Africa (5.0%), Asia-Pacific (7.5%), Middle-East (5.5%), Latin
+America (6.0%), North America (4.5%) and Europe (5.5%).
+
+2° 1ATA Airline Industry Economic Performance-December , 2018
+
+Page 42
+
+
+--- Page 41 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+8.1.2 | Amadeus strategic priorities and expected business evolution in 2019
+
+Amadeus is a leading technology provider for the travel industry. Amadeus has built commercial
+relationships with players across the industry, including airlines, travel agencies, hotels and airports,
+among others, and across the globe (with presence in more than 190 countries). Amadeus has invested
+consistently over the years to have a unique technology offering. Having market leading and cutting-
+edge technology allows us to serve our customers better, to customize more efficiently and to continue
+innovating.
+
+In Distribution, we see growth coming from adding travel providers and travel agencies to our network,
+as well as from expanding the content offering distributed through Amadeus. In Airline IT, future growth
+will be driven by (i) implementing new customers to our current solutions, (ii) increasing the
+penetration of our solutions within our current customer base, and (iii) expanding our portfolio of
+solutions to address customer needs. Additionally, we expect growth to come from our new businesses,
+including Hospitality, Airport IT, Payments and Rail, as we progress in each of them.
+
+In 2019, we expect to continue evolving positively. In Distribution, we expect to maintain our leadership
+position, supported by our sustained investment in R&D and focus on innovation, global footprint, local
+market understanding and industry expertise.
+
+In Airline IT, our PSS business will continue to expand as we implement our upcoming, contracted
+migrations, while also benefiting from the full-year impact of the 2018 customer implementations. This
+is despite the full-year negative impact from LATAM Airlines Brasil (formerly TAM Airlines), which de-
+migrated in 2018. Beyond the PSS business, we continue to invest on enhancing and expanding our
+solutions portfolio in order to sustain our upselling activity, with particular focus on the areas of
+merchandising, personalization, revenue optimization, digitalization, and disruption management.
+
+In Hospitality IT, we have now fully implemented the first version of the Guest Reservation System with
+InterContinental Hotels Group. In 2018, we also completed the acquisition of TravelClick, which
+provides innovative cloud-based solutions, including an independent and mid-size hotel Central
+Reservation System and Guest Management Solution, as well as business intelligence and media
+solutions. During 2019, we will continue the process of integrating TravelClick’s solutions to the
+Amadeus portfolio, while also continuing to invest in further product development, creating a
+hospitality leader that provides a broad range of innovative technology to hotels and chains of all sizes
+across the globe
+
+Investing in technology is a key pillar to our success. In 2019, Amadeus will continue to invest in R&D
+to support long term growth through new customer implementations, product evolution, portfolio
+expansion (including non-air IT diversification) and cross-area technological projects. We will continue
+investing for our NDC vision, which is to develop an integrated solution that can be widely adopted by
+both travel agencies and airlines to deliver sustainable results on a scale that matters. Also, we will
+progress on our shift to next-generation technologies and cloud services, as well as the application of
+new technologies, such as artificial intelligence and machine learning.
+
+Amadeus has a proven track record of operating a solid and resilient business model that results in
+strong cash generation, allowing for sustained investment in R&D and innovation, as well as for
+shareholder remuneration, while maintaining a flexible capital structure. Ordinary dividends paid have
+grown consistently every year since our IPO, at an average annual rate of 20% and we have
+complemented this with share repurchases.
+
+Page 43
+
+
+--- Page 42 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+Directors’ Report for the year ended December 31, 2018 (millions of euros)
+
+aMaDEUS
+
+8.2. Research and Development Activities
+
+Research and develo
+
+competitive advantage. In addition, R&D activities help increase ef
+
+System functionality, a
+
+The Group is continuously investing in its systems, including the d
+
+functionalities, as well as the evol
+technology available. The group
+central development si
+
+During the year ended December
+capitalized €573.0 million (before
+€464.0 million, respectively, in 20:
+
+Our R&D investment enables us to
+
+as 16 development centers, incl
+
+ites in Nice and Bangalore.
+
+31, 2018, Amadeus expensed €3
+deducting any incentives), whic!
+7.
+
+offer some of the most advance
+
+ment (R&D) is core to the company’s strategy and key to a sustainable
+
+iciency and improve the Amadeus
+
+s well as to reduce maintenance and operating costs.
+
+evelopment of new products and
+
+ution of the existing platform, based on the latest state-of-the-art
+
+uding 3 regional centers and the
+
+23.4 million for R&D activities and
+compares to €299.0 million and
+
+, integrated and powerful business
+
+tools available in the market, in order to deliver a best-in-class service to airlines and travel agencies.
+
+Indeed, Amadeus offers enhance
+
+functionalities, such as advance
+
+search and booking engines, both
+
+for travel agencies and travel providers. In addition, our product offering addresses the Passenger
+
+Service Systems for airlines, enab|
+
+ing processes such as central reservation, inventory management,
+
+departure control and e-commerce, as well as providing direct distribution technologies. We are also
+expanding our airline IT Solutions offering and we are seeking to grow our market share within the non-
+airline IT Solutions markets, including the hotel, rail and airport IT markets.
+
+8.3. Treasury Shares
+
+The reconciliation of the carrying amounts for the years ended December 31, 2018 and 2017, of the
+
+treasury shares is set forth in the table below:
+
+Carrying amount at December 31, 2016
+Acquisitions
+
+Retirements
+
+Share buy-back program
+
+Carrying amount at December 31, 2017
+Acquisitions
+
+Retirements
+
+Carrying amount at December 31, 2018
+
+8.4 — Financial Risks
+
+Treasury Shares Millions of euros
+
+1,521,273 23.6
+147,562 77
+(599,583) (14.2)
+- 500.0
+1,069,252 517.1
+7,674,365 88
+(529,328) (14.6)
+8,214,289 5113
+
+The Group has exposure, as a result of the normal course of its business activities, to foreign exchange,
+interest rate, own shares price evolution, credit and liquidity risk. The goal of the Group is to identify
+measure and minimize these risks using the most effective and efficient methods to eliminate, reduce,
+or transfer such exposures. With the purpose of managing these risks, in some occasions, the Group
+enters into hedging activities with derivatives and non-derivative instruments.
+
+Page 44
+
+
+--- Page 43 ---
+
+T Group, S.A. a
+
+Report for th
+
+ns of urs) aMaDEUS
+
+8.4.1 Foreign exchange rate risk
+
+The reporting currency in the Group’s consolidated annual accounts is the Euro (EUR). As a result of the
+multinational orientation of its business, the Group is subject to foreign exchange rate risks derived
+from the fluctuations of many currencies. The target of the Group’s foreign exchange hedging strategy
+is to reduce the volatility of the Euro value of the consolidated foreign currency denominated cash
+flows. The instruments used to achieve this goal depend on the denomination currency of the operating
+cash flow to be hedged:
+
+— The strategy for US Dollar (USD) exposures is based on the use of natural hedges and
+derivatives. This strategy aims at reducing the exposure created by the USD denominated
+operating cash inflows of the Group with the USD payments of principals of the USD
+denominated debt and with derivatives, although as of December 31, 2018, there was no
+USD denominated debt.
+
+— Aside from the USD, the foreign currency exposures are expenditures denominated in a
+variety of foreign currencies. The most significant of these exposures are denominated in
+Sterling Pounds (GBP), Indian Rupees (INR), Australian Dollars (AUD) and Singapore Dollars
+(SGD). For these exposures, a natural hedge strategy is not possible. In order to hedge a
+significant portion of the aforementioned short exposures (net expenditures) the Group
+can engage into derivative contracts with banks: basically currency forwards, currency
+options and combinations of currency options.
+
+Provided that the objective in relation with the foreign exchange rate risk is to reduce the volatility of
+the EUR value of the foreign currency denominated cash flows, the total exposure of the Group to
+changes in the foreign exchange rates is measured in terms of Cash-flow at Risk (CFaR). This risk meas-
+ure provides an estimate of the potential EUR loss of the foreign currency denominated cash flows from
+the moment the estimation is calculated to the moment the cash flow is expected to take place. These
+estimates are made using a 95% confidence level.
+
+4
+
+e CFaR methodology is similar in many respects to the Value at Risk (VaR) methodology. However,
+whereas VaR is generally centered in the changes in the value of a portfolio of exposures in a given
+future interval of time, CFaR is focused on the changes in the value of the cash-flows of that portfolio
+from the calculation date to the moment in which these cash-flows are expected to effectively take
+place. In the case of Amadeus CFaR is a more adequate measure of the risk of the Group given that the
+goal of our risk management strategy with relation to foreign exchange risk is reducing the volatility of
+the EUR value of the foreign currency denominated cash-flows. An additional reason for focusing on
+cash-flows is that, eventually, the cash-flows of a company result in its level of liquidity which in the
+case of a non-financial corporation it is generally a scarce and valuable element.
+
+The main limitations of the CFaR methodology are very similar to the ones of the VaR methodology:
+
+— Firstly, its results are based on several of hypotheses on the future volatilities of the
+exchange rates and the future correlation among them which may correspond with the
+real evolution of the exchange rates or not”
+
+2 The volatilities implicit in the market prices of currency options and the historic correlations among the main currencies in which Amadeus
+has exposures are used as inputs to the model.
+
+Page 45
+
+
+--- Page 44 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+Directors’ Report for the year ended December 31, 2018 (millions of euros) a M a D E u S
+
+— Additionally, the foreign exchange exposure estimates used as inputs to the model may
+deviate with respect to the exposures which will finally take place in the future.
+
+— Finally, it is important to mention that given a level of CFaR calculated with a 95% con-
+fidence level, the losses which could take place in the remaining 5% of the cases may
+be significantly greater than the level of risk as measured with the CFaR methodology
+for a 95% confidence level.
+
+The CFakR of the foreign exchange exposures of the Group calculated with a 95% confidence level is set
+forth in the table below:
+
+December 31, 2018 December 31, 2017
+
+2019 CFaR 2020 CFaR 2021 CFaR 2018 CFaR 2019 CFaR 2020 CFaR
+
+(10.3) (38.1) (90.0) (5.6) (24.4) (53.9)
+
+There are two main reasons for the increase in the CFaR levels of the Group for the next three years
+with respect to the CFaR levels outstanding at the end of 2017. On one side, the higher US Dollar expo-
+sure as a consequence of the increased underlying exposures. Additionally, foreign exchange implicit
+volatilities outstanding at the end of 2018 were higher than the ones used to make the calculation in
+the previous year.
+
+As it can be observed in the table above, the level of risk measured in CFaR terms tends to increase for
+the periods which are further away. The reasons for this are: (1) the further away the future cash-flows
+are, more adverse the effect of foreign exchange fluctuations can be potentially; (2) the level of hedging
+is smaller for the later periods; and (3) in the later periods the size of the foreign exchange exposures
+tends to be greater.
+
+8.4.2 _ Interest rate risk
+
+The objective of the Group in terms of interest rate risk management is reducing the volatility of the
+net interest flows payable by the Group. In line with this goal as of December 2018 approximately 77%
+(86%, 2017) of the debt contracted by the Group was fixed rate debt. No interest rate hedges were
+hedging this debt as of December 2018 and December 2017.
+
+The sensitivity of fair value of Amadeus debt to a 0.1% (10 bps) parallel shift of the interest rate curve
+as of December 31, 2018 and 2017, is set forth in the table below:
+
+?? In order to calculate the foreign currency exposures of the Group we take into account the estimated cash flows in each currency according
+to the last available forecast and the foreign currency hedges contracted as of the CFaR calculation date
+
+Page 46
+
+
+--- Page 45 ---
+
+Amadeus IT Group, S.A. and Subsidiaries
+
+December 31, 2018 December 31, 2017
+_ “a _ JES)
+
+EUR denominated debt (10.5) (4.7)
+
+EUR accounting hedges - - - .
+
+Total 10.5 (10.5) 42 (4.7)
+
+In 2018 there has been an increase in the sensitivity of the EUR denominated debt to the movements
+of the interest rate curve with respect to the previous year. This increase is basically due to the issuance
+of three new Eurobonds with a total notional of €1,500 million and maturities in 2022, 2023 and 2026.
+This new debt increases both the total amount of outstanding debt and the average time to maturity
+of the Amadeus’ debt. Although the future flows of the fixed rate debt instruments are not sensitive to
+the changes in the level of interest rates, the fair value of the instruments is sensitive to these changes.
+
+According to the table above a 10 bps drop in the level of interest rates would cause a loss in the fair
+value of the debt (an increase of the liability) and the derivatives in the Amadeus hedging portfolio
+amounting to €10.5 million at December 31, 2018 (€4.2 million, 2017). However, given that the changes
+in the fair value of the derivatives that qualify for hedge accounting are recognized directly in equity
+and the debt is measured at amortized cost, the impact of a 10 bps drop in the level of interest rates
+would imply no loss recognized in the profit for the year at December 31, 2018 and 2017.
+
+8.4.3. Own shares price evolution risk
+
+As of December 31, 2018, the Group has three different remuneration schemes outstanding which are
+settled with Amadeus shares; the Performance Share Plan (PSP), the Restricted Share Plan (RSP) and
+the Share Match Plan (SMP).
+
+According to the rules of these plans, when they mature their beneficiaries will receive a number of
+
+Company’s shares which for the outstanding plans will be (depending on the evolution of certain per-
+
+formance conditions) between a maximum of 1,565,000 shares and a minimum of 296,000 shares, ap-
+
+proximately. It is Amadeus intention to make use of its 8,214,289 treasury shares to settle these plans
+ity.
+
+8.4.4 Credit risk
+
+at their maturi
+
+Credit risk is the risk that a counterparty to a financial asset will cause a loss for the Group by failing to
+discharge an obligation.
+
+Amadeus’ cash and cash equivalents are deposited in major banks on the basis of diversification and
+the credit risk of the available investment alternatives.
+
+The credit risk of Amadeus’ customer accounts receivable is mitigated by the fact that the majority are
+settled through the clearing houses operated by the International Air Transport Association (“IATA”)
+and Airlines Clearing House, Inc. (“ACH”). These systems guarantee that the cash inflows from our cus-
+tomers will be settled at a certain fixed date, and mitigate the credit risk partially by the fact that the
+
+Page 47
+
+
+--- Page 46 ---
+
+T Group, S.A. and S|
+
+’ Report for the year ende
+
+1, 2018 (milion o euros) aMaDEUS
+
+members of the clearing house are required to make deposits that would be used in the event of de-
+fault. Moreover, our customer base is large and unrelated which results in a low concentration of our
+credit risk.
+
+8.4.5 Liquidity risk
+
+The Corporate Treasury is responsible for providing the cash needed by all the companies of the Group.
+In order to perform this task more efficiently, the Group concentrates the excess liquidity of the sub-
+sidiaries and channel it to the companies with cash needs.
+
+This allocation of the cash position among the companies of the Group is mainly made through:
+— Acash pooling agreement with most of the subsidiaries located in the Euro area.
+
+— Through bilateral Treasury Optimization agreements between Amadeus IT Group, S.A. and
+its subsidiaries.
+
+Corporate Treasury monitors the Group’s cash position through rolling forecasts of expected cash
+flows. These forecasts are performed by the subsidiaries of the Group and later on consolidated in order
+to examine both the liquidity situation and prospects of the Group and its subsidiaries.
+
+The detail of the contractual maturities of the Group’s debt financing as of the end of the financial year
+2018 is described in the note 17 “Current and non-current debt”.
+
+In addition to other smaller treasury lines agreed with several banks, the Group has access to a Revolv-
+ing Credit facility as detailed in note 17. The facility has a notional of €1,000.0 million and can be used
+to cover working capital needs and general corporate purposes. As of December 31, 2018, this facility
+was fully unused and thus €1,000.0 million can be used to cover the liquidity needs of the Group (as of
+December 31, 2017, there wasn’t any used amount either).
+
+Finally, in August 2016, the notional of the Multi-Currency European Commercial Paper (ECP) program
+was increased from €500.0 million up to €750.0 million. This program can be used for raising short term
+financing. As of December 31, 2018, €330.0 million of this program were in use (€300.0 million, 2017).
+
+8.5 Subsequent events
+
+As of the date of issuance of this report no significant subsequent events have occurred after the
+reporting period which might affect the Group and that should be disclosed.
+
+9 Non-financial information statement
+See Annexe 2
+
+10 Corporate Governance Information
+
+The Annual Corporate Governance Report is part of the Directors’ Report in accordance with the
+Spanish Capital Companies Act. The aforementioned report is submitted to the CNMV separately and
+it can be found on the website www.cnmv.es.
+
+Page 48

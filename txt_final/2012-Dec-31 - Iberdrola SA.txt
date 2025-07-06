@@ -1,0 +1,956 @@
+
+
+--- Page 1 ---
+
+1. SIGNIFICANT EVENTS IN 2012
+
+IBERDROLA's results during the period were achieved in a complex operating environment
+characterised by the adverse macroeconomic climate worldwide and regulatory amendments that led
+to a drop in revenues mainly in Spain.
+
+The most noteworthy factors affecting performance during the period were weak demand for electricity
+and slightly lower energy prices given the trend in commodity prices.
+
+The following should be mentioned in relation to the Group's operating trajectory:
+
+- In Spain, the year has been characterised by much lower water availability in comparison to
+the previous year (-39.9%) and a 1.4% dip in mainland electricity demand — factors affecting
+all segments of the market.
+
+- In the United Kingdom, electricity demand recovered slightly by 0.2%, while demand for gas
+rose sharply as a result of climatic conditions.
+
+- In Iberdrola USA's area of operations in the United States, electricity demand grew 1.2%,
+while gas demand dropped 6.3% due to more benign climatic conditions than in the previous
+period.
+
+- Demand in Brazil, meanwhile, climbed 4.6% year on year.
+
+Within this context, total output by the IBERDROLA Group in the course of the year fell by 7.4% to
+134,396 GWh. By geographical areas, these figures include: 57,127 GWh generated in Spain
+(-10.3%), 18,703 GWh in the United Kingdom (-17.7%), 16,722 GWh in the United States (+7.9%),
+39,255 GWh in Latin America (-4.2%), and 2,589 GWh from renewables in other countries (+17.2%).
+
+At the 2012 close, IBERDROLA boasts 46,039 MW of installed capacity (excluding the capacity of the
+wind farms in Germany and France that were sold off at year end), 59.4% of which produces
+emissions-free energy at low variable cost.
+
+The average trend of the euro against IBERDROLA's reference currencies has been as follows: the
+Pound sterling and the US dollar strengthened by 6.6% and 7.7% respectively, whereas Brazilian Real
+weakened by 7.8%.
+
+The most significant events during the period were as follows:
+
+- Royal Decree-Law 13/2012 was enacted, reducing the remuneration for distribution activities
+in Spain by EUR 234 million (compared to the provisional remuneration recognised for 2012 in
+Order IET 3586/2011) and lower capacity payments in the generation business in Spain.
+
+- Several tax effects, which are described later in this report.
+
+-  Write-offs of wind farm development costs and the Alberta Hub project portfolio, raising
+provisions by EUR 95 million, and of the GAMESA’s portfolio, resulting in a negative impact of
+EUR 203 million on the result of companies accounted for using the equity method.
+
+- One-off effects of climatic conditions in Brazil and the United States in the last quarter,
+generating a non-recurring expense of EUR 122 million.
+
+- Positive impacts of income tax, primarily due to the reduction in the tax rate in the United
+Kingdom, reversals of tax provisions subsequent to the agreements reached with the tax
+authorities in the United States, and the deductibility of the goodwill of ELEKTRO (Brazil),
+which led directly to a lower income tax expense compared to 2011.
+
+178
+
+
+--- Page 2 ---
+
+1.1. Income statement highlights
+The main results in 2012 were as follows:
+
+At 31 December Change against
+
+Millions of euros 2012 2011
+
+Revenue 34,201 8.1%
+Gross margin 12,578 4.6%
+EBITDA 7,727 1.0%
+EBIT 4,377 -2.8%
+Net profit 2,841 1.3%
+
+1.1.1. Gross margin
+
+The gross margin was EUR 12,578 million, an increase of 4.6% on the same period in 2011 (EUR
+12,026 million). This improvement is due to higher sales (+8.1%), greater international activity, and
+favourable exchange-rate fluctuations.
+
+By business areas:
+
+e Regulated Business
+
+The regulated business increased its contribution by 2.2% to EUR 5,668 million (EUR 5,544 million in
+2011).
+
+- In Spain, the gross margin shrank by 8.2% to EUR 1,857 million (EUR 2,022 million in 2011)
+because of the impact of the measures approved by the Government on 30 March cutting the
+revenues recognised by distribution companies (Royal Decree 13/2012). The impact amounts
+to EUR 233 million.
+
+- In the United Kingdom, a 14.3% rise to EUR 1,152 million (EUR 1,008 million in 2011)
+following the increase in the remuneration basis after application of the new DCPR5
+distribution regulation from April 2010 to March 2015, and the strenghtening of the Pound
+sterling (6.6%).
+
+- The contribution of the United States during the year stood at EUR 1,422 million (EUR 1,293
+million in 2011). The 10% rise is due to higher prevailing tariffs and the strengthening of the
+US dollar (+7.7%), despite lower gas demand and adverse climatic conditions in the fourth
+quarter.
+
+- The gross margin in Brazil climbed 1.3% to EUR 1,237 million (EUR 1,221 million in 2011),
+spurred on by the addition of ELEKTRO during the entire year. In contrast, the gross margin
+was negatively affected by reductions in ELEKTRO's tariffs as from August, higher energy
+generation costs directly due to the drought in Brazil, and a 7.8% weakening in the value of
+the Brazilian real compared to 2011.
+
+e Deregulated Business
+
+The deregulated business increased its contribution to the gross margin by 9.7% to EUR 4,417 million
+(EUR 4,045 million in 2011, once the Gas businesses in US and Canada were reclassified, in order to
+make both periods comparable, as in 2011 they were included under the Renewable Business and
+Other Businesses).
+
+- In Spain, the gross margin rose by 1.4% to EUR 2,781 million (EUR 2,744 million in 2011).
+
+This improvement is due to a higher unit margin, despite lower output (-10.3%), particularly
+hydroelectric output (-39.9%).
+
+179
+
+
+--- Page 3 ---
+
+- In the United Kingdom, the gross margin grew by 37.1% to EUR 1,083 million (EUR 790
+million in 2011). Procurement improvements, better prices obtained and higher sales offset the
+decline in output over the period. The customer base increased by 7.7% to EUR 5.6 million.
+
+- In Mexico, the gross margin rose by 9.5% to EUR 496 million (EUR 453 million in 2011),
+caused by improved plant performance and the devaluation of the Mexican dollar.
+
+- The United States and Canada improved its gross margin by 47% compared to 2011, which
+rose from EUR 38 million to EUR 56 million due to higher margins on private sales and
+fluctuations in the US dollar.
+
+« Renewable Business
+
+The gross margin of the renewables business climbed by 10.5% to EUR 2,285 million (EUR 2,067
+million in 2011, once the US Gas Business has been reclassified to Deregulated Business from the
+Renewable Business) due to greater output (+10.7%), robust wind power output in all areas (26.3% on
+average) and higher prices (+2%).
+
+« Other Businesses
+
+Other businesses contributed EUR 258 million (EUR 435 million in 2011, as the Canada Gas Business
+has been reclassified from Other Businesses to Deregulated Business) chiefly due to the lower
+engineering margin and activity.
+
+1.1.2. Basic margin
+
+The basic margin (gross margin plus assigned emission rights) for the period is up 3.5% to EUR
+12,699 million.
+
+1.1.3 EBITDA
+
+Consolidated EBITDA rose 1% to EUR 7,727 million (EUR 7,650 million in 2011). In addition to the
+improvement in the basic and gross margins, net operating expense rose by 7.7% due to expenses
+incurred on boosting efficiency, primarily in Spain (EUR 160 million), the fruits of which will be born in
+future periods, the addition of ELEKTRO, and exchange-rate fluctuations.
+
+Net operation expense is therefore broken down as follows:
+
+e Net personnel expenses
+Net personnel expenses rose by 11.9% to EUR 1,840 million (EUR 1,643 million in 2011).
+
+e Net external services
+
+Net external services increased by 4% to EUR 1,949 million.
+
+e Taxes other than income tax
+
+Taxes other than income tax rose by 6.9% to EUR 1,182 million (EUR 1,107 million in 2011). The
+following are the most noteworthy items:
+
+- The impact on the generation business in the United Kingdom during 2012 of accelerated
+CERT/CESP expenditure in order to comply with the Government's CO2 emission reduction
+targets focusing on improving home insulation and energy efficiency. This led to higher taxes
+of EUR 134 million.
+
+- The Supreme Court's ruling on 7 February exempted generation companies from financing the
+
+social tariff (‘bono social’), and recognised the right to reimbursement of the considerations
+paid out for the social bonus. This generated a positive tax effect of EUR 161 million in 2012.
+
+180
+
+
+--- Page 4 ---
+
+1.1.4
+
+The rise in local and regional taxes and duties in Spain over recent years. Notably, however,
+the "Ecotax" in Castile-La Mancha was deemed to be unconstitutional according to an October
+2012 court ruling, resulting in lower taxes of EUR 27 million.
+
+EBIT
+
+EBIT stood at EUR 4,377 million, a 2.8% decrease on the EUR 4,505 million recognized in the same
+period in 2011.
+
+Depreciation/amortisation and provisions
+
+Depreciation/amortisation and provisions rose by 6.5% to EUR 3,350 million (EUR 3,145 million in
+2011). The key factors behind this increase were:
+
+1.1.5
+
+Depreciation/amortisation rose by 7.6% to EUR 2,816 million (EUR 2,617 million in 2011). The
+increase is due to the growth of the business (higher number of assets put into operation
+thanks to the Group's investment activity and the addition of ELEKTRO), partially offset by
+lower depreciation resulting from a lengthening of the useful lives of wind turbines (EUR 66
+million), which since 1 July 2011 are depreciated over 25 years (previously 20 years).
+
+Provisions amounted to EUR 534 million (+1.1%) (EUR 528 million in 2011). The largest
+variations were due to the write-offs of development costs associated with the renewables
+pipeline (EUR 144 million) and gas assets in the US (EUR 49 million), and non-recurring
+allowances in Brazil on recognising hidden bad debts.
+
+Financial results
+
+Net financial loss was EUR 1,100 million, 3.6% higher than the previous year. The main causes of this
+were as follows:
+
+1.1.6
+
+An increase of EUR 19,8 million in interest expense due to the increase in the average net
+debt, partially offset by the reduction of the borrowing costs to 4.51% (-7 bp).
+
+An increase of EUR 54.9 million, mainly consequence of the exchange rate impact on results’
+hedging derivatives. The Group's policy is to parcially hedge results in other currencies. Doing
+so, as US dollar and Great Britain pound weakened in 2011, important unrealised gains based
+on the exchange rate were realised last year and these returns no longer exist in 2012, as
+both currencies have strenghtened in 2012.
+
+An increase of EUR 85 million due to the reversal of the provision related to 2008 revenue
+shortfall, which is not applicable this year.
+
+A decrease of EUR 20.1 million due to the reversal of provisioned funs associated to a fiscal
+contingency on Renewables USA.
+
+A decrease of EUR 105 million associated to the unrealised gain obtained by registering
+IBERDROLA's interest on Medgaz at its market value.
+
+Results of companies accounted for using the equity method
+
+Results of companies accounted for using the equity method stood at EUR -188 million (EUR -34.5
+million in 2011), mainly due to GAMESA’s contribution (Note 11.a).
+
+181
+
+
+--- Page 5 ---
+
+Results of non-current assets
+
+Results of non-current assets amounted to EUR -14 million, having fallen by EUR 59.7 million
+compared to the 2011 close. The most significant transactions during the year were the sale of
+renewables assets in Germany and France, and the sale of deregulated companies in the US.
+
+1.1.7 Net results
+
+As a result of the above, pre-tax profits totalled EUR 3,075 million, down by 11% from the 2011 figure
+of EUR 3,454.4 million.
+
+Taxes amount to EUR 206 million (EUR 549 million in 2011). The tax expense is down EUR 343
+million due, inter alia, to:
+
+- The reversal of tax provisions relating to the US renewables business of EUR 259 million
+subsequent to a favourable ruling.
+
+-  Deductibility in Brazil of the goodwill generated from the acquisition of ELEKTRO, with a
+positive impact of EUR 275 million.
+
+- The 1% cut in the UK tax rate, increasing the result by EUR 164 million in 2012.
+These tax items partially offset the EUR 429 million impact of the asset write-offs corresponding to the
+revaluation of GAMESA, the development costs of renewables projects that will not be carried out, the
+Alberta Hub project portfolio, etc.
+As a result, net profit stood at EUR 2,841 million, up by 1.3% from 2011 (EUR 2,805 million).
+1.2. Operating highlights
+1.2.1. Grid Business
+
+e Spain
+
+IBERDROLA has more than 10.85 million supply outlets in Spain and total energy distribution is
+94,522 GWh, 1.9% down from the previous year (96,336 GWh in 2011).
+
+The installed power equivalent interruption time indicator (TIEPI) showing supply quality in 2012 stood
+at 58 minutes, equal to the all-time record in 2011 and reiterating the levels reached after years of
+significant improvements in this indicator. Supply was available for 99.99% of the time.
+
+e United Kingdom
+
+IBERDROLA has more than 3.4 million supply outlets in the United Kingdom. The volume of energy
+distributed in 2012 was 35,521 GWh, having risen by 0.2% from 35,434 GWh in 2011.
+
+During the 2011-2012 regulatory year, Scottish Power Distribution and Scottish Power Manweb
+improved their service levels and therefore received a bonus. The mechanism rewarding grid reliability
+changed on 1 April 2012, incorporating various customer service indicators affecting the entire grid
+business.
+
+¢ United States
+
+- Distribution
+
+IBERDROLA has 1.86 million electricity supply outlets in the United States. The volume of
+energy distributed in 2012 was 31,573 GWh, up by 2.1% from 31,201 GWh in 2011.
+
+182
+
+
+--- Page 6 ---
+
+Companies ended the year with all their service quality indicators within the thresholds
+established by the relevant Commission.
+
+- Transmission
+Work continues to construct the transmission line in Maine, which will cost a total of USD
+1,400 million. USD 340 million of the total investment earmarked for this project was
+completed during the year.
+
+- Gas
+The number of gas users in the United States at 31 December was 0.56 million, and supply
+during the period totalled 28,130 GWh, a decrease of 6.3% from the 2011 figure of 30,030
+GWh.
+
+e Brazil
+
+Demand at Brazil's three distributors, Coelba, Cosern, Celpe and ELEKTRO, increased by 17% to
+49,006 GWh (41,872 GWh in 2011).
+
+At year end, the number of managed users totalled 12 million.
+1,595 MW of regulated electricity generating capacity was in operation at the 2012 year end (584 MW
+in IBERDROLA). Work on the Belo Monte, Teles Pires and wind farm projects continued as planned,
+and therefore the expected commissioning dates remain unchanged.
+1.2.2 Deregulated Business
+
+e Spain and Portugal
+
+Installed capacity in Spain (excluding renewables) stood at 19,382 MW.
+
+The energy balance of the Iberian Peninsula showed a 1.4% reduction in electricity demand, while
+demand for ordinary regime output fell by 3.0%.
+
+In 2012, IBERDROLA'’s output earmarked for the ordinary regime and cogeneration dropped by 14.8%
+to 44,916 GWh (52,716 GWh in 2011).
+
+Performances during the year by technologies were as follows:
+
+- Hydroelectric output stood at 9,039 GWh (15,043 GWh in 2011), a fall of 39.9% against the
+same period the previous year. Hydraulic reserves were at 34.1% (equivalent to 3,846 GWh).
+
+- Nuclear output stood at 26,026 GWh, up by 7.1% from the 2011 figure of 24,290 GWh.
+
+-  Coal-fired thermal power plants showed an increase of 63.5% to 4,396 GWh (2,689 GWh in
+2011).
+
+-  Combined-cycle output fell by 64.6% to 2,831 GWh (8,007 GWh in 2011).
+
+- Finally, combined heat and power (CHP) output fell by 2.4% to 2,624 GWh (2,690 GWh in
+2011).
+
+Energy supplied (electricity and gas) has reached 65,579 GWh. Electricity output supplied on the
+
+deregulated market in 2012 has been 41,625 GWh, a 1% increase from the 41,271 GWh supplied in
+2011.
+
+183
+
+
+--- Page 7 ---
+
+The situation of the Group's natural gas procurements in 2012 has been as follows:
+
+- The Spanish system showed slightly lower demand for natural gas than in 2011 in the
+industrial, residential and electricity production segments.
+
+- IBERDROLA has brought deliveries through its procurement contracts into line with current
+needs, and has taken several steps to optimise its gas portfolio through various sales on the
+wholesale market.
+
+- BP and DONG ENERGY were supplied with the volumes of gas set forth in the long-term
+sales agreements entered into.
+
+In Portugal, IBERDROLA supplied 5,730 GWh in 2012, compared to the 5,118 GWh in 2011,
+positioning itself as the second-largest supplier to medium-voltage industrial customers and SMEs,
+and having entered the residential sector.
+
+e United Kingdom
+
+At 31 December 2012, installed capacity in the United Kingdom (excluding renewables capacity) was
+6,036 MW.
+
+Output from traditional generation fell 20% in 2012 to 16,426 GWh from the 20,584 GWh from the
+previous year.
+
+The most noteworthy features by technologies were as follows:
+-  Coal-fired power plant output rose by 9.3% to 11,214 GWh (10,257 GWh in 2011).
+- Gas combined-cycle output fell by 53.4% to 4,429 GWh (9,513 GWh in 2011).
+- Hydroelectric output went up 24.7% to 689 GWh (553 GWh in 2011).
+- CHP output fell to 94 GWh, down by 64% from the 261 GWh generated in 2011.
+
+In 2012, 22,859 GWh of electricity and 32,248 GWh of gas were sold to customers, as against the
+22,019 GWh of electricity and 28,392 GWh of gas sold during the previous year.
+
+ScottishPower had 3.4 million electricity customers and 2.2 million gas customers at 31 December
+2012.
+
+° Mexico
+
+IBERDROLA is Mexico's leading private electricity producer. Installed capacity has totalled 4,987 MW.
+During 2012, installed capacity in operation at La Laguna, located in Gomez Palacios (Durango), has
+increased by 20 MW, while the 37-MW extension to the Enertek CHP plant in Altamira (Tamaulipas)
+has begun and is expected to enter service in 2014.
+
+34,971 GWh of electricity was supplied in 2012, not including electricity generated using renewables;
+29,204 GWh of which were supplied to the Federal Electricity Commission and 5,767 GWh to partner
+consumers in the private self-supply regime.
+
+e Gas storage in the US and Canada
+
+In total, the Company's gas storage facilities handled a total of 2.41 bcm in 2012. The Company also
+boasted 2.20 bem of contracted and managed capacity.
+
+184
+
+
+--- Page 8 ---
+
+1.2.3. Renewable Business
+
+At the 2012 close, 14,034 MW of renewable capacity has been installed (excluding the capacity of the
+wind farms in Germany and France that were sold at year end).
+
+At the back end of 2012, the Company has also agreed the sale of its operating assets in France and
+Germany amounting to 366 MW of capacity, subject to obtaining the relevant regulatory permits. As a
+result of the aforementioned additions and divestments, installed capacity rose by 344 MW during the
+year, up by 2.5% from 2011.
+
+At year end, 296 MW of renewable projects were under construction.
+Operating capacity rose by 2.5% to 13,735 MW, not taking into account the divestments’ capacity.
+Renewable output has increased by 10.7% to 31,784 GWh (28,721 GWh in 2011).
+
+e Onshore wind power
+
+After installing an additional 344 MW over the 12 months, IBERDROLA boasts 13,619 MW of installed
+onshore wind capacity. The geographical spread of this capacity is as follows: Spain (5,735 MW), the
+US (5,443 MW), the UK and Ireland (1,234 MW) and the rest of the world (1,207 MW).
+
+e Offshore wind power
+
+The renewable business is currently developing a total of 6,300 MW of offshore wind capacity,
+primarily in the United Kingdom (76%), Germany (16%) and France (8%).
+
+In the United Kingdom, the Company is developing the West of Duddon Sands wind farm in the Irish
+Sea, with installed capacity of 389 MW. IBERDROLA is constructing this wind farm in partnership with
+Dong Energy.
+
+In December 2009, under the “Round 3” Offshore Wind power UK program, the Crown Estate (the
+agency owning the property) awarded the joint venture owned by IBERDROLA and Vattenfall (50:50)
+the exclusive rights to develop offshore wind farms in the area of East Anglia in the North Sea (Zone
+5), with estimated total capacity of 7,200 MW.
+
+IBERDROLA continues to develop the Wikinger offshore wind farm in the Baltic Sea (Germany), with
+construction scheduled to commence in 2015. It is estimated that this wind farm could boast capacity
+of approximately 400 MW. During 2012, detailed geotechnical engineering work has been performed
+having commenced the offshore geotechnical surveying campaign.
+
+In April 2012, the consortium comprising IBERDROLA and the French company EOLE-RES was
+awarded exclusive rights by the French government to construct and operate the 500-MW Saint-
+Brieuc offshore wind farm. It will be sited in Saint-Brieuc Bay in the department of Cétes d’Armor, 20
+kilometres from the shore. During 2012, work started on analysing the environmental and technical
+conditions of the site.
+
+1.3. Financial resources
+
+The most significant financing transactions performed by the IBERDROLA Group in 2011 are
+described in Note 24 to the consolidated financial statements.
+
+185
+
+
+--- Page 9 ---
+
+1.4 Impact of changes in Spanish regulation
+
+Royal Decree-Law 6/2009 of 30 April established a new model to eliminate the tariff deficit in 2013.
+However, in recent years, IBERDROLA's business continued to be affected by considerable regulatory
+uncertainties; one of the most significant being the deficit problem both in terms of the accumulated
+deficit and the measures designed to contain the tariff deficit moving forward.
+
+The charge imposed arbitrarily on certain electricity companies, including IBERDROLA, to finance the
+tariff deficit could become impossible to assume if appropriate regulatory measures are not imposed
+by the relevant authorities to guarantee a solution to the deficit.
+
+In 2012, IBERDROLA defended its interests by instigating several legal and administrative
+proceedings aimed at ensuring adequate compliance with the regulatory provisions designed, on the
+one hand, to limit the impacts of the said deficit and, on the other, to promote the securitisation
+process that was put on hold for several months for no reason.
+
+In the regard, IBERDROLA contacted the Ministry of Industry, Energy and Tourism and the Cabinet
+Commission on the Tariff Deficit on several occasions to highlight the severe problems associated with
+funding the deficit, the worrying high level of the deficit in 2012, and the need to adopt urgent
+measures to tackle this serious problem. It also called for the securitisation of the deficit that has
+already been funded to be restarted as market conditions warrant.
+
+Despite these actions, the tariff deficit securitisation process has remained on hold for most of 2012,
+whereby the maximum placement period of a year laid down in Royal Decree 437/2010 was not
+achieved, with IBERDROLA reserving the right to take the pertinent action to defend its interests.
+
+The unexpected enactment of Royal Decree-Law 29/2012 of 28 December laying down amendments
+to certain areas of electricity sector regulation led to a substantial change in the regulatory framework
+prevailing to date.
+
+This law annulled the statutory requirement previously in place to eliminate the tariff deficit as from
+2013 and to guarantee sufficient revenues to assume the regulated costs of the Spanish electricity
+system, and generated uncertainty regarding when the tariff deficit financed in 2012 would be
+recovered. All this not only has represented a step backwards in resolving the problem, but also
+involved a sudden shift in what had been a predictable environment until then, and a clear breach of
+the principles of legitimate expectations and legal certainty.
+
+The Government has recently instigated a new reform of electricity sector regulation, passing
+provisions (such as Royal Decree-Law 2/2013 of 1 February) designed to cut electricity system costs,
+and announced measures to include these costs within the Spanish central government budget,
+although the outcome of these measures is still unknown.
+
+The situation arising from the enactment of Royal Decree-Law 29/2012 and other new laws has
+generated considerable uncertainty in 2013 surrounding, inter alia, actual revenues from the new
+taxes, actual revenues from the sale of emissions rights, final approval of the extraordinary credit
+facility of EUR 2,200 million, and funding of non-mainland costs incurred in 2013 through the Spanish
+central government budget for that year.
+
+Against this backdrop, IBERDROLA will continue to take the necessary steps to defend its interest as
+far as possible, and may have to consider additional measures to avoid the negative consequences of
+having to settle the tariff deficit if it cannot be contained.
+
+Despite the robustness of IBERDROLA's business structure, the Company's credit rating was
+downgraded in 2012, partly in response to worsening market conditions in Europe and also the impact
+on net debt of the tariff deficit securitisation programme being frozen throughout most of the year
+(credit ratings are disclosed in Note 19 to the consolidated financial statements).
+
+186
+
+
+--- Page 10 ---
+
+2. MAIN RISK FACTORS ASSOCIATED WITH THE ACTIVITIES OF THE IBERDROLA GROUP
+
+The IBERDROLA Group is exposed to various inherent risks in the countries, industries and markets
+in which it operates and the businesses it carries out, which could prevent it from achieving its
+objectives and implementing its strategies successfully.
+
+2.1 Business and market risks
+
+The activities of the IBERDROLA Group are subject to a range of business risks related to the
+uncertainty of the main variables affecting it, such as demand for electricity and gas, changes in
+hydroelectric and wind power output (both the Group's own output and that of the domestic markets in
+which it operates) and changes in the price of fuel and CO. emission rights. In the case of fuels and
+CO, emission rights, these risks are evident in:
+
+e — The electricity generation and retailing business, in which the IBERDROLA Group is exposed to
+variations in the price of CO. emission rights and in the selling price of electricity, in addition to
+variations in and volatility of fuel costs (mainly gas and coal).
+
+e The gas retailing business, in which a large portion of the IBERDROLA Group's operating
+expenses relate to the purchase of gas for customer supplies. The IBERDROLA Group is
+therefore exposed to the risk of changes in gas prices.
+
+e — Energy transactions (discretionary trading).
+
+Exposure to these risks is managed and mitigated by monitoring positions, arranging derivatives,
+diversifying the agreements and various clauses in these sale and purchase agreements.
+
+Gas and electricity generation and supply in Europe
+
+In both the Spanish market and the UK, IBERDROLA’s main markets, the current generating mix
+across a range of generating technologies furnishes a substantial natural hedge against the market
+and business risks associated with supplying, producing and selling energy to end customers.
+
+The remaining risk is mitigated through appropriate diversification and management of supply
+contracts, taking into account:
+
+- Indexation of price, as far as possible, against indices which replicate the changes in revenue
+on the demand side.
+
+- Inclusion of revision and re-opener clauses which help prices keep pace with market changes.
+
+- Complementary financial hedging operations, to maintain risk within established global limits,
+mainly in the short and medium term.
+
+- Establishment of thresholds on the size of open positions and their sensitivity to underlier price
+fluctuations.
+
+In terms of the gas supply risk, IBERDROLA will ensure its global basket is as balanced as possible in
+terms of the number of countries supplied and the type of supply (piped gas or LNG).
+
+187
+
+
+--- Page 11 ---
+
+Electricity generation and supply in Mexico
+
+In the case of the Mexican market, the IBERDROLA Group does not have a significant commodity
+price risk because the main contracts are instrumented as pass-through. In the regulated electricity
+and gas business, there is a limited risk of price changes since the regulatory systems allow the cost
+to be passed on to the end customer.
+
+Gas transport and storage in the United States and Canada
+
+The gas transport and storage business in the United States mitigates market and business risk by
+limiting exposure to unsold inventories at a certain time and through an overarching VaR limit
+calculated to a 99% confidence interval and a holding period of five days.
+
+Renewable business
+
+The renewable energy business in Spain and the United Kingdom deflects the market risk associated
+with energy that is not sold at tariff onto the deregulated businesses in these countries through specific
+internal arrangements, so that it is combined with other positions.
+
+The renewable energy businesses in other countries sell their energy preferably at a fixed price, tariff
+or through long-term power purchase agreements (PPAs) to mitigate exposure to market risk and
+guarantee returns on the investments made.
+
+Discretionary trading transactions
+
+Discretionary trading of electricity, gas, emissions rights and other fuels and associated products
+performed by some of the Group's businesses is residual and the overall risk thereof is mitigated using
+individual stop-loss limits, the aggregate total of which cannot exceed 2% of consolidated Net Profit for
+the period, pursuant to the market risk policy approved by Iberdrola, S.A.'s Board of Directors.
+
+2.2 Credit risk
+
+The IBERDROLA Group is exposed to credit risk in which counterparties (customers, suppliers,
+financial institutions, partners etc.) may default on their contractual obligations. Exposure may arise
+with regard to unsettled amounts, the cost of substituting products not supplied and also, in the case
+of dedicated plants, outstanding amounts.
+
+Credit risk is managed and limited in accordance with the type of transaction and the creditworthiness
+of the counterparty. A specific corporate credit risk policy is in place which establishes criteria for
+admission, approval systems, authorisation levels, scoring tools, exposure measurement
+methodologies etc.
+
+With regard to credit risk on trade receivables, the historical cost of defaults has remained moderate
+and stable, close to 1% of total turnover of this activity, despite the current difficult economic
+environment. Regarding other exposure (counterparties in transactions with derivatives, placement of
+cash surpluses, energy sales, procurements and guarantees received from third parties), no
+significant defaults or losses were incurred in 2012 and 2011.
+
+2.3 Financial risk
+
+Information concerning financial risk is set out in Note 5 to the consolidated financial statements.
+Turbulence in the global financial markets has affected spreads on Spanish debt, which the regulator
+claims has led to the delay in the securitisation of a portion of the tariff deficit in Spain, breaching the
+
+commitment to complete this process by the end of 2012. It is, however, hoped that the process will be
+completed during 2013.
+
+188
+
+
+--- Page 12 ---
+
+2.4 Regulatory risk
+
+Energy companies in the IBERDROLA Group are subject to laws and regulations concerning prices
+and other aspects of their activities in each of the countries in which they operate. The introduction of
+new laws and regulations or modifications to those already in existence may have an adverse effect
+on the Group’s financial situation and the results of its operations.
+
+Risk policies include continuous analysis and monitoring of regulatory changes, together with
+decision-making based on reasonable assumptions concerning regulatory behaviour, both
+domestically and internationally.
+
+The most noteworthy developments in Spain were the new regulatory measures enacted in 2012 and
+at the beginning of 2013 to eliminate the tariff deficit, affecting the Group's entire energy business
+(networks, renewables and deregulated businesses).
+
+In the United Kingdom, the on-going review of the present energy model could affect future yields of
+the IBERDROLA Group's business assets in the country.
+
+2.5 Operational risk
+
+During all IBERDROLA Group's activities, direct or indirect losses may arise as a result of inadequate
+internal procedures, technical failures, human error, or external events.
+
+Specifically, the IBERDROLA Group is exposed, among other risks, to malfunctions, explosions, fire,
+toxic spillages or polluting emissions at its gas and electricity distribution networks and generating
+plants. It could also be adversely affected by sabotage, adverse meteorological conditions or force
+majeure. Any of these risks could cause damage or destruction to the IBERDROLA Group's facilities,
+as well as injuries to third parties or damage to the environment, along with the ensuing lawsuits,
+especially in the event of power outages caused by accidents at our distribution networks and possible
+penalties imposed by the authorities.
+
+Although many of these risks are unpredictable, the IBERDROLA Group mitigates them by carrying
+out the necessary investment, conducting operation and maintenance procedures and programmes
+(supported by quality control systems), planning appropriate employee training, and taking out the
+required insurance covering both material damages and civil liability.
+
+However, this insurance does not completely eliminate operational risk, since it is not always possible
+to pass such risk on to insurance companies and, in addition, cover is always subject to certain
+limitations.
+
+The IBERDROLA Group's nuclear plants in Spain are also exposed to risks relating to their operations
+and risks arising from the storage and handling of radioactive materials.
+
+- Current Spanish law caps the liability of nuclear plant operators in the event of a nuclear
+accident at EUR 700 million. This liability for a nuclear accident must be insured by the
+operator of Spanish nuclear power stations. The IBERDROLA Group meets this obligation by
+taking out Nuclear Civil Liability insurance policies for each plant. However, Law 12/2011 of 27
+May concerning civil liability for nuclear damage or damage caused by radioactive materials
+will increase the operator's liability ceiling and the consequent ceiling on mandatory insurance
+to EUR 1,200 million for nuclear plants. The law will be introduced when all signatories of the
+Paris and Brussels Conventions ratify the 2004 amendment protocols.
+
+- Some mention must likewise be made of the indirect economic risk to which these plants are
+exposed following a potential serious international incident in relation to such plants, with a
+possible impact on regular renewals of operating licences and increased outlay on safety
+investment. It should also be said, however, that the incident at the Fukushima nuclear plant in
+Japan finally had only a minor effect on our facilities.
+
+189
+
+
+--- Page 13 ---
+
+Market trading conducted by the Group's various energy trading desks and treasury dealers is also
+exposed to operational risk due to possible inappropriate processes, technological faults, human error,
+fraud or any other external or internal event.
+
+This risk in mitigated by following the operational risk policy when trading on the market, the
+cornerstones of which are as follows:
+
+- Robust risk control culture.
+
+- Proper segregation of duties.
+
+- Publication of clear processes and policies.
+- Secure and flexible information systems.
+
+Specific thresholds and guidelines are applicable to all trades performed, in accordance with the
+principle of proportionality.
+
+3. ENVIRONMENT AND SUSTAINABILITY
+
+IBERDROLA accepts that the environment places constraints on all human activities and is a factor of
+companies’ competitiveness, and it is committed to promoting innovation in this field and also eco-
+efficiency, to gradually reducing the environmental impact of its activities, facilities, products and
+services, and striving to ensure that its activities are congruent with future generations’ legitimate right
+to an appropriate environment.
+
+The Group undertakes and promotes this commitment through its policies. IBERDROLA currently has
+three specific policies in place to manage environmental issues: its environmental policy, its anti-
+climate change policy and its biodiversity policy, which set forth the principles through which the
+Company will continue to improve its environmental management.
+
+IBERDROLA has also been included, for the twelfth consecutive year, on the global Dow Jones
+Sustainability Index, a worldwide benchmark for recognition of companies’ contributions to sustainable
+development and on other prestigious international sustainability indexes. It is the only utility to have
+earned this distinction since the index was created in 1999.
+
+4. RESEARCH AND DEVELOPMENT ACTIVITIES
+
+IBERDROLA promotes research, development and innovation (R&D and innovation) as a major tool to
+optimise and manage its assets, operations and processes in order to boost the sustainability and
+reliability of supply, contributing new, more efficient products and services.
+
+The Company's innovative strategy involving R&D and innovation projects across all its business lines
+is laid out in the new 2012-2014 R&D and Innovation Plan. In 2012, the Group invested EUR 145
+million in its R&D and innovation activities, spread across its international subsidiaries and comprising
+a portfolio of over 150 projects in areas that help to position IBERDROLA as a technology leader in its
+sector.
+
+IBERDROLA innovates through an international R&D and innovation model, which is open and
+decentralised and gives priority to partnerships with technology providers and encourages innovation
+among its staff. In keeping with the commitment to excellence, these systems are AENOR certified in
+the businesses in Spain pursuant to the UNE standard 166.002.
+
+190
+
+
+--- Page 14 ---
+
+IBERDROLA has begun construction of its smart grid R&D and innovation centre in Qatar. Research
+will be conducted in partnership with the Qatari utility company, Kahramaa, to analyse the feasibility of
+rolling out a network of smart grids and a pilot project will be launched to prepare for the definitive roll-
+out of smart grids in Qatar.
+
+Some of the most innovative ventures by major area are as follows:
+Renewable energies
+
+R&D and innovation projects to boost the efficiency of assets in operation and development,
+and improve generating technologies. These include the European TWENTIES project, the
+aim of which is to demonstrate the possible wide scale grid integration of wind power through
+a demo project at various wind farms in southern Spain.
+
+The Company is at the forefront of offshore wind worldwide, where it is developing the most
+innovative, cutting-edge projects leading to applications for patents related with this segment.
+The most notable projects are: the INNPACTO EMERGE and Etorgai FLOTTEK projects to
+develop deep water floating platforms; the CENIT AZIMUT project aimed at deepening
+technical knowledge to optimise offshore wind farm development; and the EERA DTOC
+project in which the Company is helping to develop tools to design large offshore wind farms.
+The Offshore Wind Accelerator (OWA) project is particularly noteworthy. This special
+programme is being promoted by the Carbon Trust (United Kingdom) and brings together the
+efforts and knowledge of specialised engineering firms and utilities to find solutions to cutting
+the cost and risks of offshore wind in order to accelerate its roll-out in UK waters.
+
+In the ocean energy field (wave and tidal), the demo projects under way at the European
+Marine Energy Centre (EMEC) in Scotland stand out. These projects involve full-scale demos
+of the PELAMIS wave energy converter and the HAMMERFEST tidal energy converter. In the
+area of research, the CENIT OCEAN LIDER project headed up by Iberdrola Ingenieria y
+Construccién, S.A.U. for the development of ocean energy generation technologies, where
+significant outcomes for planning and installing offshore energy and their impacts on the
+environment have arrayed. In the field of wind resource, the Company has completed the
+SOFTCOMPUTING project and is leading the OPENFOAM project, both of which aim to
+improve wind resource predictions and analysis by optimising wind series modelling and
+analysis. Major projects to develop, evolve and improve operational tools include: CORE,
+DOMINA and METEOFLOW, which off the back of their success have been rolled out in the
+United Kingdom and the United States through technology transfer agreements.
+
+Clean generation technologies
+
+IBERDROLA's R&D and innovation work in the area of generation focuses on optimising
+operating conditions, improving safety and reducing environmental impact by cutting
+emissions or using more efficient generating plants. The ECRIGEN and SIRO projects focus
+on managing life cycles and the use of materials. The former aims to boost the reliability of
+critical components in generating plants, which are subject to very demanding operating
+conditions. The latter project centres around developing an innovative robot that can rapidly,
+flexibly and reliably inspect the condition of the whole fleet of electricity generators. In the
+nuclear field, the AUTONUC project (integration of new control systems technology) and
+PREVENCION DE ACCIDENTES (new models and methodologies to prevent accidents at
+nuclear plants) stand out. Fusion technologies are also being developed as part of the
+Company's effort to develop clean and sustainable energy generation. IBERDROLA remains
+firmly committed to reducing the environmental impact of its generating plants in Spain and
+Scotland. In this regard, it is carrying out the COEBEN II project to adapt the Group's facilities
+to comply with prevailing NOx emission requirements and the SIGMA and VIDA projects
+related with CO, capture and storage. The ARRANCADOR project is most noteworthy in the
+hydroelectric segment and involves developing pure pumped storage at the Gabriel y Galan
+hydro plan on the Tajo River, which will facilitate the integration of renewable energy.
+
+191
+
+
+--- Page 15 ---
+
+Smart grids
+
+The Group's R&D and innovation work in connection with electricity distribution focuses on
+improving the distribution network, with close attention paid to occupational safety,
+environmental aspects, and better supply quality. IBERDROLA is dedicated to rolling out
+smart grids through a number of projects focusing on constructing a modern electricity grid
+based on remote management. In Europe, Iberdrola Distribucion Eléctrica, S.A.U. is leading
+the GRID4EU and iGREENGrid projects to develop more precise methodologies for
+integrating renewable energy into electricity distribution grids. Other recently approved
+European projects include DISCERN which will compare various smart grid solutions and
+search for the optimal combination of grid architectures, and ADVANCED, continuing the work
+performed in the Address project aiming to find a solution to active demand management in
+Europe. In Spain, the Company saw in the 2013 by rolling out smart grids in seven self-
+governing regions (Castile-La Mancha, Castile Leon, Extremadura, Madrid, the Basque
+Country, Murcia and Navarre) off the back of completing the first phase of the STAR project in
+Castellon (Valencia). The Bidelek-Sareak project in the province of Vizcaya and the PRICE
+project in the Corredor del Henares (in the east of the region of Madrid and Guadalajara) are
+working along the same lines. IBERDROLA is also close to completing its first smart grid
+projects in the United States, where it has installed 550,000 smart meters across Maine; and
+in Scotland where 30,000 customers in Glasgow will also benefit from this technology.
+
+Electric vehicles
+
+In 2012, IBERDROLA has continued to conduct several projects through agreements entered
+into with various public administrations (primarily town and city councils), and several R&D
+and innovation programmes. Significant knowledge on e-mobility has been gleaned from these
+projects primarily in relation to charging technologies and systems, and they have prompted
+several agreements with providers of charging systems, information technology and electric
+vehicle manufacturers, among others.
+
+In parallel and thanks to the experience gained from the demo and pilot projects conducted,
+work has continued on developing commercial solutions targeting the various potential users
+of private and corporate fleet electric vehicles, car parks, motorcycles, etc. to enable these
+users to benefit from zero-emission charging at a competitive price and of the highest quality.
+
+This work is being conducted against the backdrop of a gradual improvement in
+standardisation of charging systems, and the interoperability agreements entered into by the
+various parties to drive business models forward and lay the foundations for the imminent roll-
+out of e-mobility.
+
+Energy markets
+
+In light of an increasingly globalised and competitive market, the INTEGRA project has been launched,
+which is being led by Global Energy Management to standardise decision-making criteria by
+developing cutting-edge tools for the management of energy trading and deepen knowledge of how
+international markets work to help take decisions on investing in energy technologies.
+
+PERSEO - Technology to open up new business opportunities
+
+PERSEO is IBERDROLA's development capital fund geared towards innovative technology
+generating renewable electricity and reducing the environmental impact of the existing production
+systems.
+
+The main areas of technology are as follows:
+
+e Renewable energies: solar (photovoltaic and thermal), wind (e.g. offshore), ocean (tidal and
+wave);
+
+e Energy efficiency: energy management systems, green mobility;
+
+192
+
+
+--- Page 16 ---
+
+* O&M technologies: new operations and maintenance technologies; and
+e Other energy technologies: emissions reduction, energy storage, etc.
+
+Over EUR 25 million have already been earmarked to underpin the future of our investments to
+develop the technology value chain and IBERDROLA's position within it.
+
+The following partners are working on PERSEO: ocean energies (Oceantec and Hammerfest Strom),
+solar energy (Morgan Solar) and CO, applications in industry (AlgaEnergy and WESTEC
+Environmental Solutions).
+
+In order to preserve and reinforce the PERSEO programme, an agreement was entered into in July
+2012 with the Centre for the Development of Industrial Technology (CDTI for its initials in Spanish) as
+part of the Spanish government's INNVIERTE project, in which we will invest a further EUR 25 million
+or more in new energy technologies over the next five years.
+
+5. TREASURY SHARES AND CAPITAL REDUCTION
+
+In their General Meeting of 26 March 2010, shareholders expressly agreed to delegate powers to the
+Board of Directors, with powers of substitution, pursuant to the provisions of the Spanish Corporate
+Enterprise Act, to carry out derivative acquisition of shares in Iberdrola, S.A. Acquisitions may be
+carried out directly by Iberdrola or indirectly through its subsidiaries. The process excludes any
+subsidiaries carrying out regulated business pursuant to the provisions of the Electricity Sector Act
+and the Hydrocarbons Act.
+
+Acquisitions may be made up to the maximum legal threshold (i.e., 10% of share capital).
+
+The authorisation was granted for a maximum five-year period.
+
+On this authorisation, in 2012 the IBERDROLA Group purchased 80,964,694 treasury shares (of
+which 80,030,417 were purchased by IBERDROLA) for a total of EUR 300,002 thousand, with nominal
+value EUR 60,724 thousand. Additionally, 32,692,750 treasury shares were sold off (of which
+32,023,813 were sold by IBERDROLA) for the sum of EUR 164,967 thousand.
+
+Finally, at year-end 2012, treasury stock stood at 85,723,586 shares (83,188,438 shares in
+IBERDROLA) and four swaps were outstanding on 24,969,751 treasury shares.
+
+6. SUBSEQUENT EVENTS
+
+Subsequent events to 2012 close are described on Note 49 to the Consolidated financial statements.
+
+193

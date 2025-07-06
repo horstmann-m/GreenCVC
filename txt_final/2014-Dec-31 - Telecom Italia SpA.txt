@@ -1,0 +1,3864 @@
+
+
+--- Page 1 ---
+
+HIGHLIGHTS 2014
+
+2014 was affected by recessionary pressures in the domestic market, where the signs of recovery are
+still very weak, as well as the slowdown in the Latin American economies.
+
+In this adverse economic environment, the Market continued to see an erosion of traditional services,
+with a loss of value only partly offset by increased penetration and growth in innovative services.
+Competition, however, showed signs of cooling during 2014, particularly in the domestic mobile
+segment, easing pressure on prices and slowing the decline in average revenues per user. To defend its
+customer base, Telecom Italia also continued to adopt a distinctive position in the market, through the
+use of innovative convergent fixed-mobile deals, supported by new technology (Fiber and LTE) and
+enhanced by new services and digital content. In this scenario, revenues, despite still being affected by
+certain factors and regulatory aspects, started to stabilize with a steady recovery in performance
+compared to the previous year.
+
+In Brazil, economic growth was modest and the average exchange rate depreciated by over 8%
+compared to 2013. In an environment of greater competition pressure, the mobile customers market
+experienced a slowdown compared to the previous year, although this did not affect the growth of the
+Brazilian investee.
+
+You are reminded that, with effect from 2013, the Sofora - Telecom Argentina group has been classified
+under Discontinued Operations.
+
+More specifically, for the year 2014:
+
+e Consolidated revenues amounted to 21.6 billion euros, down 7.8% on 2013 (-5.4% in organic
+terms), while EBITDA fell to 8.8 billion euros, down 7.9% (-6.8% in organic terms).
+
+The organic EBITDA margin stood at 40.7%, 0.6 percentage points lower than in 2013.
+
+e Revenue performance for the Domestic Business Unit in the fourth quarter 2014 was -5.0%
+compared to the same period of 2013 (-3.9% net of the negative impact of the retroactive revision of
+prices for wholesale access services for the period 2010-2012), continuing the significant recovery
+over the previous quarters (-5.0% third quarter, -8.2% second quarter, -8.3% first quarter) and the
+full year 2013 (-9.5%).
+
+e Operating profit (EBIT) amounted to 4.5 billion euros. In 2013, following the goodwill impairment loss
+for Core Domestic of 2.2 billion euros, EBIT came to 2.7 billion euros. Excluding the impact of the
+goodwill impairment loss, EBIT for 2013 would have been a positive 4.9 billion euros.
+
+e — Profit for the year attributable to Owners of the Parent totaled approximately 1.4 billion euros, versus
+a loss of 0.7 billion euros in 2013, due to the already mentioned goodwill impairment loss. Without
+this impairment loss, the profit for the year 2014 would have been in line with the previous year.
+
+e Adjusted net financial debt at December 31, 2014 came to 26,651 million euros, down 156 million
+euros compared to December 31, 2013.
+
+Telecom Italia Group Highlights 2014| 15
+Report on Operations
+
+
+--- Page 2 ---
+
+Financial Highlights
+
+(millions of euros) 2014 2013 % Change
+Reported Organic
+Revenues 21,573 23,407 (7.8) (5.4)
+EBITDA ct) 8,786 9,540 (7.9) (6.8)
+EBITDA Margin 40.7% 40.8%  (0.1)pp
+Organic EBITDA Margin 40.7% 41.3% (0.6)pp
+EBIT before goodwill impairment loss 4,530 4,905 (7.6) (7.1)
+Goodwill impairment loss = (2,187)
+EBIT ct) 4,530 2,718 66.7 68.6
+EBIT Margin 21.0% 11.6% 9.4 pp
+Organic EBIT Margin 21.0% 11.8% 9.2 pp
+Profit (loss) from Discontinued
+operations/Non-current assets held for
+sale 541 341 58.7
+Profit (loss) for the year attributable to
+owners of the Parent 1,350 (674) -
+Capital expenditures (CAPEX) 4,984 4,400 13.3
+12/31/2014) 12/31/2013 Change Amount
+Adjusted net financial debt a 26,651 26,807 (156)
+
+Telecom Italia Group
+Report on Operations
+
+Highlights 2014
+
+EBITDA
+> diff
+
+16
+
+
+--- Page 3 ---
+
+CONSOLIDATED OPERATING PERFORMANCE
+
+Revenues
+
+Revenues amounted to 21,573 million euros in 2014, down 7.8% from 23,407 million euros in 2013.
+The decrease of 1,834 million euros was mainly attributable to the Domestic Business Unit (-1,085
+million euros) and the Brazil Business Unit (-701 million euros). The latter was particularly affected by
+weak exchange rates, which resulted in a depreciation of the Brazilian real against the euro of over 8%
+compared to 2013 (in terms of average rates).
+
+In terms of organic change, consolidated revenues fell by 5.4% (-1,230 million euros), and were
+calculated as follows:
+
+(millions of euros) 2014 2013 Change
+amount | %
+
+HISTORICAL REVENUES 21,573 23,407 (1,834) (7.8)
+
+Foreign currency financial statements translation effect (665) 565
+
+Changes in the scope of consolidation (39) 39
+
+COMPARABLE REVENUES 21,573 22,803 (1,230) (6.4)
+
+Exchange rate fluctuations(1) mainly related to the Brazil Business Unit (-566 million euros), while the
+change in the scope of consolidation(2) was the result of the sales of La7 S.r.I. and the MTV group, both
+in the Media Business Unit, which took place in April and September 2013 respectively. These were
+offset by the entry into the scope of consolidation of Rete A, which is also part of the Media Business
+Unit, over which control was acquired on June 30, 2014 and which was subsequently merged by
+absorption into its controlling company Persidera S.p.A..
+
+The breakdown of revenues by operating segment is as follows:
+
+(millions of euros) 2014 2013 Change
+% of total % of total amount | %| % organic
+Domestic (*) 15,303 70.9 16,388 70.0 (1,085) (6.6) (6.6)
+Core Domestic 14,205 65.8 15,269 65.2 (1,064) (7.0) (7.0)
+International Wholesale 1,244 5.8 1,263 5.4 (19) (1.5) (1.5)
+Olivetti 227 11 265 11 (38) (14.3) (14.7)
+Brazil 6,244 28.9 6,945 29.7 (701) (10.1) (2.1)
+Media and Other Operations (*) 71 0.3 124 05 (53)
+Adjustments and eliminations (45) (0.1) (50) (0.2) 5
+Consolidated Total 21,573 100.0 23,407 100.0 (1,834) (7.8) (5.4)
+
+(*) Starting from 2014, the Domestic Business Unit also includes the Olivetti group, in addition to Core Domestic and International Wholesale. The comparative period has been
+adjusted accordingly.
+
+The Domestic Business Unit (divided into Core Domestic, International Wholesale and Olivetti) recorded
+a decline in revenues for 2014 of 1,085 million euros (-6.6%), compared to 2013, but with a significant
+recovery in the second half of the year (fourth quarter 2014: -5.0%, third quarter: -5.0%, second quarter:
+-8.2%, first quarter: -8.3%), despite the continuing adverse macroeconomic environment and the
+negative impact of the retroactive revision by the Regulatory Authority of the copper network wholesale
+access prices for the period 2010-2012. Net of that impact, which resulted in the recognition in the final
+quarter of 45 million euros in lower revenues from previous years, the performance for the fourth
+
+(1) The average exchange rate used for the translation into euro of the Brazilian real (expressed in terms of units of local currency per 1 euro) was 3.12280 in 2014 and
+2.86830 in 2013. The effect of the change in exchange rates is calculated by applying the foreign currency translation rates used for the current period to the period under
+comparison.
+
+(2) The change in the scope of consolidation has been calculated by excluding the contribution of the companies that have exited from the comparison figure and adding in the
+estimated contribution of any companies entering the scope of consolidation.
+
+Telecom Italia Group Consolidated Operating Performance | 17
+Report on Operations
+
+
+--- Page 4 ---
+
+quarter would have been -3.9%. This improvement in performance was mainly due to a cooling of
+competition pressure - which resulted in the progressive stabilization of the customer base and ARPU
+on traditional services - accompanied by a defense of market share, mainly on Mobile, and an
+acceleration in the growth of broadband and ultrabroadband services.
+
+In detail:
+
+e — Revenues from services for the year 2014 amounted to 14,334 million euros, down 7.1% compared
+to 2013. In particular, revenues from services in the Mobile business came to 4,608 million euros, a
+decrease of 529 million euros compared to 2013 (-10.3%). Revenues from Fixed-line services
+amounted to 10,672 million euros and were down 819 million euros compared to 2013 (-7.1%);
+
+. Revenues from services in the fourth quarter of 2014 amounted to 3,619 million euros, down 4.4%
+compared to the same period of the previous year (-3.2% net of the above-mentioned retroactive
+revision of 2010-2012 wholesale access prices decided by AGCom), but with a recovery against the
+three previous quarters (-6.2% in the third quarter, -8.9% in the second quarter, and -8.8% in the first
+quarter);
+
+e — Product sales, including change in work in progress, recorded revenues of 969 million euros for the
+full year 2014, up on 2013 (+8 million euros), in both the Fixed-line and Mobile business.
+
+For the Brazil Business Unit, organic revenues in 2014 were down 2.1% on the previous year. Revenues
+from services fell by 2.3% compared to 2013, mainly due to lower revenues from incoming traffic as a
+result of the reduction in the mobile termination rate. Handset revenues also declined (-1.5% compared
+to 2013), mainly due to a reduction in sales volumes.
+
+The total number of lines for the Brazil Business Unit at December 31, 2014 was 75.7 million, up 3.1%
+compared with December 31, 2013.
+
+A more detailed analysis of revenue performance by individual Business Unit is provided in the section
+"Financial and Operating Highlights - The Business Units of the Telecom Italia Group".
+
+Telecom Italia Group Consolidated Operating Performance | 18
+Report on Operations
+
+
+--- Page 5 ---
+
+EBITDA
+
+EBITDA totaled 8,786 million euros (9,540 million euros in 2013), a decrease of 754 million euros
+compared to 2013; the EBITDA margin was 40.7% (40.8% in 2013).
+
+Organic EBITDA was down 643 million euros (-6.8%) compared to 2013; the organic EBITDA margin was
+down 0.6 percentage points, from 41.3% in 2013 to 40.7% in 2014.
+
+Organic EBITDA is calculated as follows:
+
+(millions of euros) 2014 2013 Change
+amount | %
+
+HISTORICAL EBITDA 8,786 9,540 (754) (7.9)
+
+Foreign currency financial statements translation effect (147) 147
+
+Changes in the scope of consolidation 36 (36)
+
+COMPARABLE EBITDA 8,786 9,429 (643) (6.8)
+
+Exchange rate fluctuations mainly related to the Brazil Business Unit, while the change in the scope of
+consolidation was the result of the sales of La7 S.r.l. and the MTV group, as well as the acquisition of
+Rete A.
+
+Details of EBITDA and EBITDA Margins by operating segment are provided below:
+
+(millions of euros) 2014 2013 Change
+% of total %of total] amount | %| — % organic
+Domestic (*) 6,998 79.6 7,741 811 (743) (9.6) (9.6)
+EBITDA Margin 45.7 47.2 (.5)pp (.5)pp
+Brazil 1774 20.2 1,812 19.0 (38) (2.1) 6.6
+EBITDA Margin 28.4 26.1 2.3 pp 2.3 pp
+Media and Other Operations (*) 13 0.2 (17) (0.1) 30
+Adjustments and eliminations 1 = 4 ~ 8
+Consolidated Total 8,786 100.0) 9,540 100.0 (754) (7.9) (68)
+EBITDA Margin 40.7 408 (0.1)pp (0.6)pp
+
+(*) Starting from 2014, the Domestic Business Unit also includes the Olivetti group, in addition to Core Domestic and International Wholesale. The comparative period has been
+adjusted accordingly.
+
+EBITDA was particularly impacted by the change in the line items analyzed below:
+
+e Acquisition of goods and services (9,430 million euros; 10,377 million euros in 2013).
+The reduction of 947 million euros was mainly due to the Brazil Business Unit, for an amount of -670
+million euros (including a negative exchange rate effect of 347 million euros), which also reflects the
+reduction in prices for interconnection services, with a decline in revenues due to other TLC
+operators. The Domestic Business Unit, on the other hand, reported a reduction of 223 million euros.
+The decrease in acquisition of goods and services also offset the higher costs, resulting from
+Telecom Italia's new market strategy, aimed at gradually ceasing to subsidize handsets in "bundle
+deals". The new commercial strategy had an impact of 63 million euros of costs recognized in the
+income statement for 2014. In 2013 the capitalized costs for subsidizing handsets (amortized over
+the term of the contract with the customer, from 24 to 30 months) amounted to 188 million euros.
+Further details are provided in the Note "Other intangible assets" of the Consolidated Financial
+Statements at December 31, 2014 of the Telecom Italia Group.
+
+e Employee benefits expenses (3,119 million euros; 3,087 million euros in 2013).
+These increased by 32 million euros. The change was influenced by:
+
+Telecom Italia Group Consolidated Operating Performance | 19
+Report on Operations
+
+
+--- Page 6 ---
+
+— a2 million euros decrease in employee benefits expenses in Italy, due to lower expenses for
+mobility pursuant to Law 223/91, totaling 11 million euros, almost entirely offset by an increase
+in ordinary employee expenses and costs of 9 million euros.
+
+In detail, the increase in ordinary employee expenses and costs was due to the net effect of the
+following factors:
+— the increase in the contractual minimums established in the TLC National Collective Labor
+Agreement signed on February 1, 2013;
+— the recognition of the notional costs relating to the Broad-Based Share Ownership Plan and
+the Stock Option Plan;
+— the reduction in the average workforce by 820 employees compared to 2013, of which an
+average of 530 was a result of the application of the "Solidarity Contracts" by the Parent,
+T.I. Information Technology, and by Olivetti S.p.A. (in 2013, the Parent and T.1. Information
+Technology applied the solidarity contracts from the second quarter of 2013);
+— the exit from the scope of consolidation of the companies La7 and MTV, with a reduction of
+202 in the average headcount.
+With regard to the expenses for mobility pursuant to Law 223/91, a total of 8 million euros was
+recognized in 2014, of which 5 million euros for the agreement signed by the Parent with trade
+unions on December 1, 2014 (under the framework agreement of March 27, 2013) and 3
+million euros for the Olivetti S.p.A. mobility agreement signed with trade unions on March 1,
+2014. In 2013, expenses of 19 million euros were recognized for the agreements with trade
+unions signed by the Parent Telecom Italia S.p.A. and the company Advanced Caring Center.
+
+— the increase of 34 million euros for the component outside Italy of employee benefits expenses.
+The effects of the growth in the average workforce, which rose to an average of 780 employees,
+and local salary variations, were partially offset by a negative exchange difference of around 28
+million euros, essentially related to the Brazil Business Unit. In 2014, restructuring expenses of 4
+million euros were also recognized in relation to a number of foreign companies of the Olivetti
+group.
+
+Other income (401 million euros; 324 million euros in 2013).
+
+This item increased by 77 million euros compared to 2013.
+
+The increase mainly related to the full release of the remaining risk provisions, for an amount of 84
+million euros, already allocated in the 2009 consolidated financial statements, with respect to the
+Telecom Italia Sparkle affair; the interest element (a further 2 million euros) had been released to
+finance income. More details are provided in the Note "Contingent liabilities, other information" of
+the Consolidated Financial Statements at December 31, 2014 of the Telecom Italia Group.
+
+Other operating expenses (1,175 million euros; 1,318 million euros in 2013).
+
+These fell by 143 million euros compared to 2013.
+
+The decrease mainly related to the Domestic Business Unit (-101 million euros) and the Brazil
+
+Business Unit (-34 million euros, including a negative exchange rate effect of 51 million euros).
+
+They included:
+
+— write-downs and expenses in connection with credit management (375 million euros; 380 million
+euros in 2013) consisting of 295 million euros for the Domestic Business Unit (290 million euros
+in 2013) and 80 million euros for the Brazil Business Unit (84 million euros in 2013);
+
+— provision charges (84 million euros; 100 million euros in 2013) mainly consisting of 74 million
+euros for the Brazil Business Unit (81 million euros in 2013) and 6 million euros for the Domestic
+Business Unit (17 million euros in 2013);
+
+— TLC operating fees and charges (449 million euros; 482 million euros in 2013) consisting of 399
+million euros for the Brazil Business Unit (424 million euros in 2013) and 49 million euros for the
+Domestic Business Unit (57 million euros in 2013);
+
+— sundry expenses of 63 million euros; in 2013 they amounted to 134 million euros and mainly
+related to the Domestic Business Unit for the estimate of the costs, of 84 million euros, for the
+fine imposed by the Italian Antitrust Authority (AGCM) at the end of the A428 proceedings.
+
+Telecom Italia Group Consolidated Operating Performance | 20
+Report on Operations
+
+
+--- Page 7 ---
+
+Depreciation and amortization
+Details are as follows:
+
+(millions of euros) 2014 2013 | Change
+Amortization of intangible assets with a finite useful life 1,854 2,012 (158)
+Depreciation of property, plant and equipment - owned and
+
+leased 2,430 2,541 (111)
+Total 4,284 4,553 (269)
+
+The reduction in depreciation and amortization of 269 million euros was mainly attributable to the
+Domestic Business Unit (-278 million euros), essentially due to a decrease in depreciable and
+amortizable items.
+
+Gains (losses) on disposals of non-current assets
+
+In 2014, this item amounted to 29 million euros. A gain of approximately 38 million euros, on the sale by
+Telecom Italia S.p.A. of a property located in Milan, for a price of 75 million euros, was offset by net
+losses of 11 million euros, mainly relating to the disposal of tangible assets by the Domestic Business
+Unit.
+
+In 2013, this item showed a loss of 82 million euros, mainly relating to the realized loss, including
+transaction costs, of 100 million euros from the sale of La7 S.r.l. to the Cairo Communication group on
+April 30, 2013. This charge was offset by net capital gains on non-current assets totaling 18 million
+euros, mainly relating to the sale of a property (around 17 million euros), and the sale of the entire
+controlling interest (51%) held in MTV Italia S.r.l. (3 million euros).
+
+Net impairment losses on non-current assets
+
+These amounted to 1 million euros in 2014.
+
+In preparing the 2014 Annual Report, the Group performed the goodwill impairment test. The results of
+that testing, carried out in accordance with the specific procedure adopted by the Group, confirmed the
+amount of the goodwill allocated to the Group's individual Cash Generating Units.
+
+In 2013, this item amounted to 2,187 million euros and it is related to the impairment loss on goodwill
+allocated to the Core Domestic Cash-Generating Unit (CGU) in the Domestic Business Unit.
+
+Further details are provided in the Note "Goodwill" in the consolidated financial statements at December
+31, 2014 of the Telecom Italia Group.
+
+Telecom Italia Group Consolidated Operating Performance | 21.
+Report on Operations
+
+
+--- Page 8 ---
+
+EBIT
+
+EBIT amounted to 4,530 million euros in 2014. In 2013, EBIT came to 2,718 million euros and included
+the impact of the above-mentioned impairment loss of 2,187 million euros on the goodwill allocated to
+the Core Domestic CGU.
+
+The organic change in EBIT was 1,843 million euros. Net of the above-mentioned goodwill impairment
+loss the organic change compared to 2013 would have been negative by 344 million euros.
+
+Organic EBIT was calculated as follows:
+
+(millions of euros) 2014 2013 Change
+amount %
+
+HISTORICAL EBIT 4,530 2,718 1,812 66.7
+
+Foreign currency financial statements translation effect (70) 70
+
+Changes in the scope of consolidation 39 (39)
+
+COMPARABLE EBIT 4,530 2,687 1,843 68.6
+
+Exchange rate fluctuations related entirely to the Brazil Business Unit, while the change in the scope of
+consolidation was the result of the above-mentioned sales of La7 S.r.l. and the MTV group, as well as the
+acquisition of Rete A.
+
+Other income (expenses) from investments, net
+
+This amounted to a positive 16 million euros, essentially referring to the remeasurement at fair value of
+the 41.07% interest already held in Trentino NGN S.r.l., performed pursuant to IFRS 3, following the
+acquisition of control of the company by Telecom Italia S.p.A. on February 28, 2014 at a price of 17
+million euros.
+
+Finance income (expenses), net
+
+Finance income (expenses) shows net expenses of 2,194 million euros (net expenses of 2,183 million
+
+euros in 2013), an increase of 11 million euros.
+
+This increase was linked to the net effect resulting from the change in certain non-monetary items - of a
+
+valuation and accounting nature, linked in particular to derivatives - which was offset by the reduction in
+
+finance expenses related to the debt position.
+
+In particular, the following is noted:
+
+e an increase in the balance of finance expenses linked to the changes in the valuations of several
+hedging derivatives, attributable to market fluctuations linked to currency translation. These are
+unrealized valuation and accounting changes which do not result in any actual monetary settlement.
+In 2013, a benefit was also recognized, of around 25 million euros, following the first-time adoption
+of the new IFRS 13 "Fair Value Measurement", whereas for 2014 there was a negative impact of 72
+million euros;
+
+e the issuance at the end of 2013, by Telecom Italia Finance S.A., of the mandatory convertible bond
+for an amount of 1.3 billion euros ("Guaranteed Subordinated Mandatory Convertible Bonds due
+2016 convertible into ordinary shares of Telecom Italia S.p.A.") resulted in the accounting recognition
+of the option embedded in the financial instrument separately from the related liability. In 2014, the
+measurement of the option at fair value through profit or loss resulted in a negative impact on
+adjustments to non-hedging derivatives of 174 million euros (in 2013 the impact was -124 million
+euros).
+
+Telecom Italia Group Consolidated Operating Performance | 22
+Report on Operations
+
+
+--- Page 9 ---
+
+Income tax expense
+
+This item amounted to 928 million euros, down 183 million euros on 2013 (1,111 million euros), largely
+due to the smaller taxable base of the Parent Telecom Italia. The Brazil Business Unit recorded a
+decrease in tax expense of 16 million euros compared to 2013. This was due to the exchange rate effect
+of approximately 18 million euros. Net of that effect, income tax expense would have been substantially
+in line with the previous year, consistent with the trend in the taxable base expressed in local currency.
+
+Profit (loss) from Discontinued operations/Non-current assets held for sale
+
+For 2014, the item Profit from Non-current assets held for sale amounted to 541 million euros (341
+
+million euros in 2013) and related to:
+
+e the positive contribution to the consolidation from the Sofora - Telecom Argentina group of 544
+million euros (378 million euros in 2013);
+
+e the costs related to disposals carried out in previous years and other items totaling 3 million euros
+(37 million euros in 2013, of which 18 million euros relating to deferred taxes and sundry expenses
+connected to the sale of the Sofora group and 19 million euros relating to disposals made in
+previous years).
+
+More details are provided in the section "Discontinued operations/Non-current assets held for sale" of
+
+this Report on Operations and in the Note "Discontinued operations/Non-current assets held for sale" in
+the Consolidated Financial Statements at December 31, 2014 of the Telecom Italia Group.
+
+Profit (loss) for the year
+
+Profit (loss) for the year can be broken down as follows:
+
+(millions of euros) 2014 2013
+Profit (loss) for the year 1,960 (238)
+Attributable to:
+
+Owners of the Parent:
+
+Profit (loss) from continuing operations 1,252 (721)
+Profit (loss) from Discontinued operations/Non-current assets held for sale 98 47
+Profit (loss) for the year attributable to owners of the Parent 4,350 (674)
+Non-controlling interests:
+
+Profit (loss) from continuing operations 167 142
+Profit (loss) from Discontinued operations/Non-current assets held for sale 443 204
+Profit (loss) for the year attributable to non-controlling interests 610 436
+Telecom Italia Group Consolidated Operating Performance 23
+
+Report on Operations
+
+
+--- Page 10 ---
+
+
+
+--- Page 11 ---
+
+FINANCIAL AND OPERATING HIGHLIGHTS — THE
+
+BUSINESS UNITS OF THE TELECOM ITALIA GROUP
+
+Starting from 2014, the Domestic Business Unit now also includes the Olivetti group, in addition to Core
+Domestic and International Wholesale. This change in presentation reflects the commercial and
+business placement of the Olivetti group and the process of integrating the products and services
+offered by the Olivetti group as complements to those offered by Telecom Italia in the domestic market.
+Accordingly, the figures for the previous year have been restated on a consistent basis.
+
+DOMESTIC
+(millions of euros) 2014 2013 Change
+amount | % % organic
+
+Revenues 15,303 16,388 (1,085) (6.6) (6.6)
+
+EBITDA 6,998 7,744 (743) (9.6) (9.6)
+
+EBITDA Margin 45.7 47.2 (1.5)pp (1.5)pp
+
+EBIT 3,738 1,985 1,753 88.3 88.3
+
+EBIT Margin 24.4 12.1 12.3 pp 12.3 pp
+
+Headcount at year end (number) 53,076 53,377 (301) (0.6)
+
+Fixed
+
+12/31/2014 | 12/31/2013 12/31/2012
+
+Physical accesses at the end of the period (thousands) 19,704 20,378 21,153
+
+of which Retail physical accesses at the end of the period
+
+(thousands) 12,480 13,210 13,978
+
+Broadband accesses at period-end (thousands) 8,750 8,740 8,967
+
+of which Retail broadband accesses at the end of the period
+
+(thousands) 6,921 6,915 7,020
+
+Network infrastructure in Italy:
+copper access network (millions of km - pair, distribution and
+connection) 115.2 114.9 114.5
+access and carrier network in optical fiber (millions of km -
+fiber) 8.3 6.7 5.7
+
+Total traffic:
+
+Minutes of traffic on fixed-line network (billions) 84.2 91.2 101.8
+Domestic traffic 68.9 75.8 85.9
+International traffic 15.3 15.4 15.9
+DownStream and UpStream traffic volumes (PBytes) 3,161 2,533 2,202
+
+(1) Does not include fulkinfrastructured OLOs and Fixed Wireless Access (FW
+
+(2) Does not include LLU and NAKED, satelite and ful-infrastructured OLOs and less Access (FWA).
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 25
+
+Report on Operations
+
+Domestic Business Unit
+
+
+--- Page 12 ---
+
+Mobile”
+
+12/31/2014| 12/31/2013 12/31/2012
+Lines at period-end (thousands) 30,350 31,221 32,159
+Change in lines (%) (2.8) (2.9) (0.2)
+Churn rate (%) « 24.2 30.4 26.6
+Total average outgoing traffic per month (millions of minutes) 3,703 3,581 3,664
+Total average outgoing and incoming traffic per month
+(millions of minutes) 5,480 5,084 4,921
+Mobile browsing volumes (PBytes) 133.9 98.1 93.1
+Average monthly revenues per line (in euros) « 12.4 13.4 15.5
+
+(1) Following results of the checks on systems that manage our Mobile Customer base, the Company has updated the technical configuration, as well as t
+intemal procedures regarding rechargeable SIM cards extension (beyond the initial timeline following first activation of 13 or 24 months according
+establishing that the extension of the life of SIM cards can only take place for sales or after-sales marketing events, explicitly requested by the customer (free of charge or for:
+
+nts resulting in charges t pleted for the regularization (including
+deactivation) of a total of 489 thousand SIM cards (of which 12,000 in the fourth quarter) which were still active as a result t compliant with the criteria set
+forth in the new Guidelines. The working group set up for that purpose continues the monthly monitoring and regularization - according to the methods previously established
+- of the additional rechargeable SIM cards subject to automatic extensions not compliance with said Guidelines.
+
+(2) The data refer to total lines. The chum rate represents the number of mobile customers who discontinued service during the period expressed as a percentage of the average
+
+Guidelines and
+
+1 offering),
+
+he customer. Based on the monitoring conducted, during 2014 the activities were duly
+
+extensions n
+
+‘number of customers
+
+(3) National trafic excluding roaming.
+(4) The values are calculated on the basis of revenues from services (including revenues from prepaid cards) as a percentage of the average number of lines.
+
+The financial and operating highlights of the Domestic Business Unit are reported according to three
+
+Cash Generating units (CGU):
+
+e Core Domestic: includes all telecommunications activities pertaining to the Italian market. Revenues
+are broken down in the following tables according to the net contribution of each market segment to
+the CGU's results, excluding intrasegment transactions. The sales market segments defined on the
+basis of the "customer centric" organizational model are as follows:
+
+— Consumer: comprises the aggregate of voice and Internet services and products managed and
+developed for persons and families in the Fixed and Mobile telecommunications markets, as well
+as public telephony;
+
+— Business: expanded from the beginning of 2013 to include Top customers, the segment consists
+of voice, data, and Internet services and products, as well as ICT solutions managed and
+developed for small and medium-size enterprises (SMEs), Small Offices/Home Offices (SOHOs),
+Top customers, the Public Sector, Large Accounts, and Enterprises in the Fixed and Mobile
+telecommunications markets;
+
+— National Wholesale: consists of the management and development of the portfolio of regulated
+and unregulated wholesale services for Fixed and Mobile telecommunications operators in the
+domestic market;
+
+— Other (Support Structures): includes:
+
+— Operations: covering technological innovation and processes of development,
+engineering, building and operation of network infrastructures, real estate properties and
+plant engineering, delivery processes, and assurance for customer services;
+development of the information technology strategy, guidelines and plan; customer care,
+operating credit, loyalty and retention activities, sales within its remit, and administrative
+management of customers;
+
+— Staff & Other: services carried out by Staff functions and other support activities
+performed by minor companies of the Group, also offered to the market and other
+Business Units.
+
+e International Wholesale: includes the activities of the Telecom Italia Sparkle group, which operates
+in the market for international voice, data and Internet services for fixed and mobile
+telecommunications operators, ISPs/ASPs (Wholesale market) and multinational companies through
+its own networks in the European, Mediterranean and South American markets;
+
+e Olivetti: operates in the sector of office products and information technology services. It is a solution
+provider for the automation of business processes and activities for SMEs, large corporations and
+vertical markets. Its market is focused primarily in Europe, Asia and South America.
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 26
+Report on Operations Domestic Business Unit
+
+
+--- Page 13 ---
+
+Main financial data
+
+The tables below show the main results of the Domestic Business Unit by customer/business segment
+
+in 2014 compared to 2013.
+
+Core Domestic
+
+(millions of euros) 2014 2013 Change
+amount %
+1
+Revenues 14,205 15,269 (1,064) (7.0)
+Consumer 7,349 7,970 (621) (7.8)
+Business 4,824 5,211 (387) (7.4)
+National Wholesale 1,793 1,897 (104) (5.5)
+Other 239 191 48 25.1
+EBITDA 6,761 7,552 (791) (10.5)
+EBITDA Margin 47.6 49.5 (1.9)pp
+EBIT 3,593 1,888 1,705 90.3
+EBIT Margin 25.3 12.4 12.9pp
+Headcount at year end (number) 51,849 51,954 (105) (0.2)
+International Wholesale
+(millions of euros) 2014 2013 Change
+amount %
+1
+Revenues 1,244 1,263 (19) (4.5)
+of which third party 981 955 26 27
+EBITDA 271 203 68 33.5
+EBITDA Margin 21.8 16.1 5.7 pp
+EBIT 172 102 70 68.6
+EBIT Margin 13.8 81 5.7 pp
+Headcount at year end (number) (2) 644 74. (400) (13.5)
+(1) Includes employees with temp work contracts: 4 at December 31, 2014, and 4 at December 31, 2013.
+Olivetti
+(millions of euros) 2014 2013 Change
+amount %| — % organic
+Revenues 227 265 (38) (14.3) (14.7)
+EBITDA (29) (4) (25)
+EBITDA Margin (12.8) (1.5) (11.3)pp (11.3)pp
+EBIT (34) (8) (26)
+EBITDA Margin (15.0) (3.0) (12.0)pp (12.0)pp
+Headcount at year end (number) (2) 586 682 (96) (14.4)
+
+(1) Includes employees with temp work contracts: 4 at December 31, 2014, not present at December 31, 2013,
+
+Revenues
+
+In an economic scenario that continues to show structural weakness, the change in 2014 compared to
+2013 was a decrease of 6.6% (-1,085 million euros), with a decrease of 5.0% in the fourth quarter
+compared to the same period of 2013 (-3.9% net of the negative impact of the retroactive revision by
+
+Telecom Italia Group
+Report on Operations
+
+Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 27
+
+Domestic Business Unit
+
+
+--- Page 14 ---
+
+the Authority of prices for wholesale access services for the period 2010-2012, which resulted in the
+recognition in the final quarter of 45 million euros in lower revenues from previous years), representing
+an improvement on the previous quarters of 2014 (-5.0% third quarter, -8.2% second quarter, -8.3% first
+quarter) and on the entire year 2013 (-9.5%).
+
+This trend in revenues was primarily due to the progressive stabilization in market share - mainly Mobile
+- and growth in Fixed-line Broadband, ICT and Mobile Internet revenues.
+
+In detail:
+
+Core Domestic Revenues
+
+e Consumer: revenues for the Consumer segment in 2014 amounted to 7,349 million euros, down
+621 million euros compared to 2013 (-7.8%). This performance, although still negative, continues
+the recovery seen in the second half of 2014. Compared to the same periods of 2013, the following
+performance was recorded in 2014: in the fourth quarter -5.1%; in the third quarter -5.2%; in the
+second quarter -9.2%; and in the first quarter -11.7%. In particular, revenues from Mobile services
+fell by -398 million euros (-11.1%) compared to 2013 and -7.2% in the fourth quarter 2014 (against -
+6.6% in the third quarter, -13.7% in the second quarter and -16.9% in the first quarter). This
+reflected the positive impact from the structural improvement in competition performance, the
+gradual stabilization of the customer base and ARPU, and the steady growth in mobile Internet.
+Revenues from Fixed-line services also showed signs of recovery compared to the decline seen in
+the first part of the year, with a reduction of -238 million euros (-5.9%) compared to the year 2013,
+and -3.4% in the fourth quarter 2014 (-6.1% in the third quarter, -7.9% in the second quarter and -
+6.2% in the first quarter), owing to stable market share and the positive performance of Broadband
+ARPU, supported by the increased proportion of customers with flat contracts and service upgrades
+(Fiber);
+
+e Business: in 2014 revenues for the Business segment amounted to 4,824 million euros, down 387
+million euros from 2013 (-7.4%), but an improvement on the previous periods, particularly for
+revenues from services (4,436 million euros, -425 million euros compared to 2013, or -8.7%; -6.6%
+in the fourth quarter of 2014, -7.9% in the third quarter, -10.6% in the second quarter and -9.8% in
+the first quarter). In the Mobile business (-159 million euros in 2014 compared to 2013; -11.7%),
+despite the effective defensive actions and growth of the customer base - which increased by 3.7%
+- traditional voice and messaging services continued to decline (-183 million euros in 2014
+compared to 2013), due to the repositioning of customers towards deals with lower overall ARPU.
+The Fixed-line segment (-271 million euros in 2014 compared to 2013; -7.6%) continued to feel the
+effects of the economic recession and the contraction in prices on traditional voice and data
+services, although there were signs of recovery in the second half thanks in part to the steady growth
+in ICT revenues (+3.5% over 2013, of which +22.0% for Cloud Services);
+
+e National Wholesale: revenues for the Wholesale segment in 2014 amounted to 1,793 million euros,
+decreasing 104 million euros compared to 2013 (-5.5%). The decline was mainly attributable to the
+reduction in fixed-line and mobile termination rates, the already mentioned retroactive revision of
+wholesale access prices by the Regulatory Authority for the period 2010-2012, the beginning of the
+migration to IP infrastructure solutions, and the drop in prices for national roaming.
+
+International Wholesale Revenues
+
+International Wholesale revenues for 2014 amounted to 1,244 million euros, down 19 million euros
+compared to 2013 (-1.5%). Revenues were down both for Voice services (-6 million euros, -0.6%) and for
+IP/Data services (-8 million euros, -3.1%), as a result of growth in competition with a reduction in prices.
+The Multinational Companies business segment also showed a slight decrease (-2 million euros, -3.1%),
+whereas revenues for Mobile services were up slightly (+3 million euros, +12.2%).
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 28
+Report on Operations Domestic Business Unit
+
+
+--- Page 15 ---
+
+Olivetti Revenues
+
+Revenues for the Olivetti group in 2014 amounted to 227 million euros, down 38 million euros
+compared to 2013 (-14.3%).
+
+The reduction in revenues reflected the slowdown in sales outside Italy (-20 million euros), specifically
+attributable to price competition for bank printers in the Chinese market, and the adverse economic
+situation in the Italian market (-18 million euros).
+
+EBITDA
+
+EBITDA of the Domestic Business Unit in 2014 was 6,998 million euros, down 743 million euros
+compared to 2013 (-9.6%, of which -2.2 percentage points resulting from the adoption of Telecom
+Italia's new market strategy relating to costs for subsidies to customers for the purchase of handsets),
+with an EBITDA margin of 45.7%, representing a slight deterioration compared to 2013 (-1.5 percentage
+points, of which -1.1 percentage points related to the market strategy on costs for subsidies). The
+decline was mainly due to the decrease in revenues from services (-1,093 million euros compared to
+2013), only partially recovered through efficiency measures achieved through selective control and
+containment of operating expenses.
+
+With regard to the change in the main costs, the following is noted:
+
+; 2014 2013 Change
+(millions of euros)
+
+Acquisition of goods and services 5,831 6,054 (223)
+Employee benefits expenses 2,730 2,711 19
+Other operating expenses 570 670 (200)
+
+e Acquisition of goods and services decreased by 223 million euros (-3.7%) compared with 2013,
+mainly attributable to efficiency measures on overheads - which resulted in an overall reduction in
+general and administrative expenses, with specific regard to professional and consulting services -
+and to commercial cost containment, due to the cooling of competitive pressure (specifically in the
+Mobile business) and the resulting easing of the effort on marketing levers (lower distribution and
+advertising costs);
+
+e Employee benefits expenses increased by 19 million euros compared with 2013, mainly due to the
+increase in ordinary employee expenses of 26 million euros, partially offset by the reduction in
+restructuring expenses of 7 million euros. In particular:
+
+— ordinary employee expenses and costs increased as a result of higher expenses due to the
+increase in the contractual minimums established in the TLC National Collective Labor
+Agreement signed on February 1, 2013, as well as the recognition of the notional costs relating
+to the launch of the Broad-Based Share Ownership Plan and the Stock Option Plan (23 million
+euros), which were offset by lower expenses deriving from the reduction in the average workforce
+by 836 employees compared to 2013 (of which an average of 530 employees as a result of the
+application of the "Solidarity Contracts" by the Parent, Telecom Italia Information Technology and
+Olivetti S.p.A.; which the Parent and TI Information Technology have applied since the second
+quarter 2013);
+
+— a total of 12 million euros was recognized for restructuring expenses: 5 million euros for the
+mobility agreement pursuant to Law 223/91 signed by the Parent with trade unions on
+December 1, 2014 as an addition to the agreement of April 5, 2013; 3 million euros for the
+mobility pursuant to Law 223/91 that Olivetti S.p.A. signed with trade unions on March 1, 2014;
+and 4 million euros for the restructuring expenses relating to some foreign companies of the
+Olivetti group. In 2013, expenses of 19 million euros were recognized for the agreements with
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 29
+Report on Operations Domestic Business Unit
+
+
+--- Page 16 ---
+
+trade unions signed by the Parent Telecom Italia S.p.A. and the company Advanced Caring
+Center;
+
+e Other operating expenses, totaling 570 million euros, fell by 100 million euros compared to the
+previous year. In 2013, the item sundry expenses included an amount of 84 million euros recognized
+as the estimate of the costs related to the fine imposed by the Italian Antitrust Authority (AGCM) at
+the end of the A428 proceedings.
+
+Details of other operating expenses are shown in the table below:
+
+(millions of euros) 2014 2013 | Change
+Write-downs and expenses in connection with credit management 295 290 5
+Provision charges 6 (iC
+TLC operating fees and charges 49 87 (8)
+Indirect duties and taxes gol ~—<‘<‘éiOA~”~CS:*Y:~CO
+Sundry expenses 121 202 (81)
+Total 570 670 (100)
+
+Other income amounted to 382 million euros in 2014 (299 million euros in 2013), an increase of 83
+million euros, mainly attributable to the entire release of the remaining risk provisions already allocated
+in the 2009 consolidated financial statements for the Telecom Italia Sparkle affair.
+
+EBIT
+
+EBIT for 2014 was 3,738 million euros (1,985 million euros in 2013), with an EBIT margin of 24.4%
+(12.1% in 2013). This performance was due to - in addition to the absence of the goodwill impairment
+loss for the Core Domestic Cash Generating Unit of 2,187 million euros, recognized in 2013 - by the
+decrease in EBITDA described above, partially offset by the reduction in depreciation and amortization of
+278 million euros and by the already mentioned gains of approximately 38 million euros on the sale by
+Telecom Italia S.p.A. of a property located in Milan, for a price of 75 million euros.
+
+Excluding the above-mentioned goodwill impairment loss from the EBIT for 2013, the change would
+have been a decrease of 434 million euros (-10.4%).
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 30
+Report on Operations Domestic Business Unit
+
+
+--- Page 17 ---
+
+BRAZIL
+
+(millions of euros) (millions of Brazilian reais)
+2014 2013 2014 2013 Change
+amount %
+(a) (b) (c) (d) (c-d) (c-d)/d
+Revenues 6,244 6,945 19,498 19,921 (423) (2.1)
+EBITDA 4,774 1,812 5,541 5,198 343 6.6
+EBITDA Margin 28.4 26.1 28.4 26.1 - 2.3 pp
+EBIT 795 858 2,483 2,460 23 0.9
+EBIT Margin 12.7 12.3 12.7 12.3 - 0.4 pp
+Headcount at year end (number) 12,841 12,140 701 5.8
+2014 2013
+Number of lines at the end of the period
+(thousands) 75,721 73,431
+MOU (minutes/month) : 135.8 147.7
+ARPU (reais) alot 18.6
+
+(*) Includes corporate lines; The figure for the comparative period has been restated accordingly
+(**) Net of visitors.
+
+Revenues
+
+Revenues for 2014, amounting to 19,498 million reais, were down by 2.1% compared to 2013 (-423
+million reais). Service revenues totaled 16,325 million reais, a decrease of 376 million reais compared
+to 16,701 million reais for 2013 (-2.3%) mainly due lower revenues from incoming traffic as a result of
+the reduction of the mobile termination rate. Revenues from product sales fell from 3,220 million reais
+in 2013 to 3,173 million reais in 2014 (-1.5%); this decrease was attributable to a reduction in sales
+volumes, which was only partially offset by an increase in prices.
+
+Mobile Average Revenue Per User (ARPU) amounted to 17.7 reais for 2014 compared with 18.6 reais
+for 2013 (-4.8%). The ARPU, as well as revenues from services, was affected by a further reduction, with
+effect from February 2014, in the mobile termination rate.
+
+The total number of lines at December 31, 2014 amounted to 75,721 thousand, 3.1% higher than on
+December 31, 2013, representing a market share of approximately 27% in terms of lines.
+
+EBITDA
+
+EBITDA in 2014 amounted to 5,541 million reais, an improvement of 343 million reais on 2013
+(+6.6%). The increase in EBITDA was essentially driven by lower costs for the acquisition of goods and
+services, mainly attributable to lower revenues due to other TLC operators, despite higher employee
+benefits expenses and a slight increase in other operating expenses. The EBITDA margin stood at
+28.4%, 2.3 percentage points higher than in 2013.
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 34.
+Report on Operations Brazil Business Unit
+
+
+--- Page 18 ---
+
+With regard to the change in the main costs, the following is noted:
+
+(millions of euros) (millions of Brazilian reais)
+
+2014 2013 2014 2013| Change
+(a) (b) (c) (d) (c-d)
+
+Acquisition of goods and
+services 3,593 4,263 11,222 12,228 (1,006)
+Employee benefits expenses 379 349 1,183 1,000 183
+Other operating expenses 598 632 1,865 1,812 53
+Change in inventories 14 (40) 33 (28) 61
+
+acquisition of goods and services totaled 11,222 million reais (12,228 million reais in 2013). The
+8.2% decrease compared to the previous year (-1,006 million reais) can be broken down as follows:
+-1,209 million reais for revenues due to other TLC operators;
+-72 million reais for purchases relating primarily to product cost;
++30 million reais for rent and lease costs;
++245 million reais for external service costs.
+
+Employee benefits expenses, amounting to 1,183 million reais, were up 183 million reais compared
+to 2013 (+18.3%). The average workforce grew from 10,657 employees in 2013 to 11,451
+employees in 2014. The ratio of employee benefits expenses to total revenues rose to 6.1%, up 1
+percentage point on 2013;
+other operating expenses amounted to 1,865 million reais, an increase of 2.9% on 2013. The
+
+expenses were broken down as follows:
+
+(millions of Brazilian reais) ord 2013 | Change
+Write-downs and expenses in connection with credit management 249 240 9
+Provision charges 232 234 (2)
+TLC operating fees and charges 1,247 1,217 30
+Indirect duties and taxes 51 57 6)
+‘Sundry expenses 86 64 22
+Total 1,865 1,812 53
+EBIT
+
+EBIT amounted to 2,483 million reais, up 23 million reais on 2013. This increase was due to higher
+EBITDA, partially offset by higher depreciation and amortization charges of 313 million reais (3,049
+
+million reais in 2014, compared to 2,736 million reais in 2013).
+
+Agreement for the sale of telecommunications towers
+
+On November 21, 2014, TIM and American Tower do Brasil entered into an agreement for the sale of a
+maximum of 6,481 telecommunications towers, for a total price of approximately 3 billion reais, and a
+Master Lease Agreement ("MLA") for portions of those towers, with an overall term of 20 years.
+The sale will be divided into two contracts: the first relating to 5,232 towers and the second relating to
+the remaining 1,249 towers, on which other operators hold pre-emptive rights. The agreement, which
+shall be executed in the first half of 2015 in consecutive tranches, is subordinate to conditions including
+authorization from the Brazilian Antitrust Authority (CADE).
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group
+
+Report on Operations
+
+Brazil Business Unit
+
+32
+
+
+
+--- Page 19 ---
+
+MEDIA
+
+Acquisition of control of Rete A S.p.A.
+
+On June 30, 2014, Telecom Italia Media (Tl Media) and Gruppo Editoriale L'Espresso (Espresso group)
+completed the merger of the digital terrestrial network operator businesses controlled by Persidera
+S.p.A. (new name of Telecom Italia Media Broadcasting S.r.|.) and Rete A S.p.A. (Rete A), respectively.
+The merger was carried out through Gruppo Editoriale L'Espresso's transfer of 100% of Rete A shares to
+Persidera, as a subscription to a capital increase reserved to it. Following the transfer, Tl Media and
+Gruppo Editoriale L'Espresso hold 70% and 30%, respectively, of the shares in Persidera, which in turn
+controlled Rete A's entire share capital.
+
+The merger between TIMB and Rete A has created a combined entity that is the largest independent
+network operator in Italy, with five digital multiplexes and nationwide high-coverage infrastructure, based
+on next generation technologies.
+
+The merger of Rete A by absorption into Persidera was completed on December 1, 2014.
+
+The group resulting from the transaction is the primary supplier for the leading non-integrated national
+and foreign television content providers operating on the Italian market.
+
+Also in view of the uncertainty surrounding regulatory changes concerning the use of frequencies, TI
+Media has retained a purchase option on user licenses (therefore excluding infrastructure and
+customers) for one of the five frequencies that are owned by the combined entity.
+
+The Telecom Italia Media Board of Directors, at the meeting of January 15, 2015, acknowledged the
+developments in the Persidera valuation process and decided that the results of the process obtained to
+date were not in line with expectations, and therefore, the sale of the investment held is not foreseeable
+at this stage.
+
+The table below shows the results of the Media Business Unit including, from June 30, 2014, the figures
+for Rete A consolidated on a line-by-line basis.
+
+In 2013, La7 S.r.|. and the MTV group were respectively sold in April and September, and consequently
+exited the scope of consolidation.
+
+(millions of euros) 2014 2013 Change
+
+amount | %| % organic
+Revenues 71 124 (53) (42.7) (13.4)
+EBITDA 25 (2) 27 (26.5)
+EBITDA Margin 35.2 (1.6)
+EBIT 6 (132) 138
+EBIT Margin 8.5
+Headcount at year end (number) (2) 89 84 5 6.0
+
+(1) EBIT of the Media Business Unit for 2013 was driven down by 100 milion euros deriving from the loss realized on the sale of La7 S.r.. on April 30, 2013 and driven up by 3
+milion euros from the gain realized on the sale of MTV Italia S.r. on September 12, 2013.
+
+(2) Includes employees with temp work contracts (1 employee at December 31, 2014, zero at December 31, 2013), as well as personnel of Rete A, a company acquired at the
+end of June 2014 (12 employees).
+
+At December 31, 2014, the three Digital Multiplexes of Persidera S.p.A. (pre-merger) had reached a
+population coverage of 95.6% of the Italian population.
+In contrast, the coverage of the two Digital Multiplexes of the former Rete A was 93.4% and 93.7%.
+
+To improve the comparability of the information, the figures for 2014 are shown below, compared
+against the figures for 2013, which have been restated to exclude the results for the full year 2013 of
+the two companies sold (La7 S.r.l. and MTV group).
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 33
+Report on Operations Media Business Unit
+
+
+--- Page 20 ---
+
+(millions of euros) 2014 2013 Change
+
+amount | %
+Revenues 71 72 (1) (1.4)
+EBITDA 25 30 (5) (16.7)
+EBITDA Margin 35.2 41.7
+EBIT 6 2 4
+EBIT Margin 8.5 2.8
+Headcount at year end (number) () 89 84 5 6.0
+
+(41) Includes employees with temp work contracts (1 employee at December 31, 2014, zero at
+
+mber 31, 2013), as well as personnel of Rete A (12 employees).
+
+Revenues
+
+Revenues amounted to 71 million euros in 2014, a decrease of 1 million euro compared to 72 million
+euros in 2013. The entry of Rete A into the scope of consolidation resulted in higher revenues of 9
+million euros. Net of those revenues, the reduction in sales would have been 10 million euros and was
+connected to the expiry, at the end of 2013, of the contract with RTI (Mediaset Extra and Italia 2) and
+the termination, also at the end of 2013, of the contract with the channel QVC.
+
+EBITDA
+
+EBITDA was a positive 25 million euros in 2014, down 5 million euros compared to 2013 (30 million
+euros). Net of the results of Rete A, the EBITDA of the Media Business Unit would have decreased by 7
+million euros and was affected, in addition to the negative performance of Telecom Italia Media S.p.A.,
+by the decline in the margin of the Network Operator (amounting to 32 million euros in 2014; 36 million
+euros in 2013).
+
+EBIT
+
+EBIT was a positive 6 million euros (positive 2 million euros in 2013). This performance reflected the
+change in EBITDA, described above, as well as the reduction in amortization and depreciation of 9
+million euros, mainly attributable to the redefinition, during the annual review, of the useful lives of the
+Network Operator frequencies - extended from December 31, 2028 to December 31, 2032, as a result
+of the final allocation of the licenses for pursuit of television broadcasting activities - and the
+transceivers, in line with their technological evolution. These revisions of the useful lives led to the
+recognition of a total of around 11 million euros less amortization and depreciation.
+
+Telecom Italia Group Financial and Operating Highlights - The Business Units of the Telecom Italia Group | 34
+Report on Operations Media Business Unit
+
+
+--- Page 21 ---
+
+DISCONTINUED OPERATIONS/NON-CURRENT
+ASSETS HELD FOR SALE
+
+The results of the Sofora - Telecom Argentina group, which has been classified under "Discontinued
+operations/Non-current assets held for sale" following the agreement for the sale to Fintech entered into
+on November 13, 2013 and subsequently amended on October 24, 2014, are shown below.
+Specifically, following those agreements:
+
+e the first closing took place on October 29, 2014 and, as a result, 17% of the capital of Sofora was
+sold. A consideration was received for this closing - also including other related assets - totaling
+215.7 million USD (around 170 million euros); this resulted in the economic interest in Telecom
+Argentina group being reduced from 19.30% to 14.47%;
+
+e the sale of the controlling interest of 51% in the capital of Sofora is due to take place within the
+following two and a half years, subject to approval by the Argentinian regulatory authority;
+
+e the guarantees of performance by Fintech are secured by a pledge of securities worth 600.6 million
+USD.
+
+Further details on the new arrangements are provided in the Note "Discontinued operations/Non-current
+
+assets held for sale" of the Consolidated Financial Statements of the Telecom Italia Group at December
+
+31, 2014.
+
+The average exchange rate used for the translation into euro of the Argentine peso (expressed in terms
+
+of units of local currency per 1 euro) was 10.76605 in 2014 and 7.27875 in 2013 and reflected the
+
+sharp depreciation of the currency during 2014.
+
+Income statement impacts of the Sofora - Telecom Argentina group:
+
+(millions of euros) (millions of Argentine
+pesos)
+2014 2013 2014 2013 Change
+amount %
+
+(a) (b) (0) (d) (c-d) (c-d)/d
+Income statement impacts of the Sofora -
+Telecom Argentina group:
+Revenues 3,097 3,749 33,341 27,286 6,055 22.2
+EBITDA 806 1,036 8,673 7,543 1,130 15.0
+EBITDA Margin 26.0 27.6 26.0 27.6 (1.6)pp
+EBIT before impairments 806 542 8,683 3,946 4,737 -
+Net impairment losses on non-current
+assets (2) (24) (26) (172) 146 (84.9)
+EBIT 804 518 8,657 3,774 4,883 -
+EBIT Margin 26.0 13.8 26.0 13.8 12.2 pp
+Finance income/(expenses), net 30 73 326 527 (201) (38.1)
+Profit (loss) before tax from Discontinued
+operations/Non-current assets held for
+sale 834 591 8,983 4,301 4,682 -
+Income tax expense (290) (213) (3,131) (1,549) (4,582) -
+Profit (loss) after tax from Discontinued
+operations/Non-current assets held for
+sale 544 378 5,852 2,752 3,100 -
+
+Telecom Italia Group Discontinued operations/Non-current assets held for sale | 35.
+
+Report on Operations
+
+
+--- Page 22 ---
+
+12/31/2014 | 12/31/2013 Change
+amount %
+Fixed-line
+Lines at period-end (thousands) 4,093 4,124 (34) (0.8)
+ARBU (Average Revenue Billed per User) (Argentine 57.4 52.5 49 93
+pesos)
+Mobile
+Lines at period-end (thousands) 22,066 22,508 (442) (2.0)
+Telecom Personal mobile lines (thousands) 19,585 20,088 (503) (2.5)
+% postpaid lines 32% 32%
+MOU Telecom Personal (minutes/month) 99.5 111.7 3 (12.2) (10.9)
+ARPU Telecom Personal (Argentine pesos) 74.2 66.8 7A 14.4
+Nucleo mobile lines (thousands) 2) 2,481 2,420 61 2.5
+% postpaid lines « 19% 20%
+Broadband
+Broadband accesses at period-end (thousands) 4,771 1,707 64 3.7
+ARPU (Argentine pesos) 153.0 124.7 28.3 22.7
+(1) Includes fines with a ceiling invoiced atthe end of the month which can be topped-up with prepaid refs,
+(2) Includes WiMAX tines
+(3) The voice traffic was adjusted during 2014 also considering the minutes offered free of charge when customers top-up which were not taken into account previously because
+they were considered tobe insignificant. The figures under comparison have been recalculated accordingly
+
+Revenues
+
+Revenues for 2014 amounted to 33,341 million pesos, up 6,055 million pesos (+22.2%) compared to
+2013 (27,286 million pesos), mainly thanks to the growth in the related average revenue per user
+(ARPU) and the sale of handsets at a higher average price. The main source of revenues was mobile
+telephony, which accounted for about 74% of the consolidated revenues of the Sofora - Telecom
+Argentina group, an increase of 22% on 2013.
+
+Fixed-line telephony service: the number of fixed lines decreased by 31 thousand compared to the end
+of 2013 to a total of 4,093 thousand at December 31, 2014. Even though regulated fixed-line services
+in Argentina continued to be influenced by the rate freeze imposed by the Emergency Economic Law of
+January 2002, Average Revenue Billed per User (ARBU) rose by 9.3% compared to 2013, thanks to the
+sale of additional services and the spread of traffic plans. Revenues from data and ICT services also
+rose, because the prices of their contracts are set in US dollars and so they benefited from the
+significant exchange rate difference in 2014.
+
+Mobile telephony service: Telecom Personal mobile lines in Argentina decreased by 503 thousand
+compared to the end of 2013, coming to a total of 19,585 thousand lines at December 31, 2014, of
+which 32% were postpaid. At the same time, thanks to high-value customer acquisitions and leadership
+in the smartphone segment, ARPU grew by 11.1% to 74.2 pesos (66.8 pesos in 2013). A large part of
+this growth was attributable to value added services (including SMS messaging, revenue sharing and
+Internet), which together accounted for 60% of revenues from mobile telephony services in 2014.
+
+In Paraguay, the Nuicleo customer base grew by 2.5% compared to December 31, 2013, reaching 2,481
+thousand lines, 19% of which are postpaid.
+
+Telecom Italia Group Discontinued operations/Non-current assets held for sale] 36
+Report on Operations
+
+
+--- Page 23 ---
+
+BroadBand: Telecom Argentina's portfolio of broadband lines totaled 1,771 thousand accesses at
+December 31, 2014, an increase of 64 thousand on December 31, 2013. ARPU rose by 22.7% to 153
+pesos (124.7 pesos in 2013), largely thanks to up-selling strategies and price adjustments.
+
+EBITDA
+
+EBITDA showed an increase of 1,130 million pesos (+15.0%) compared to 2013, reaching 8,673 million
+pesos. The EBITDA margin stood at 26.0%, down 1.6 percentage points compared to 2013, mainly due
+to higher employee benefits expenses and acquisitions of goods and services, also as a result of the
+higher charges arising from the increase in purchases of goods for resale, as well as higher costs for
+contracts entered into in foreign currency.
+
+With regard to the change in the main costs, the following is noted:
+
+(millions of euros) (millions of Argentine pesos)
+
+2014 2013 2014 2013 Change
+(a) (b) (c) (d) (c-d)
+
+Acquisition of goods and
+services 1,390 1,689 14,963 12,293 2,670
+Employee benefits expenses 525 574 5,655 4,178 1477
+Other operating expenses 375 477 4,038 3,472 566
+Change in inventories 6 (49) 64 (135) 199
+
+e acquisition of goods and services totaled 14,963 million pesos (12,293 million pesos in 2013). The
+increase of 21.7% compared to 2013 (+2,670 million pesos) was mainly due to higher external
+service costs of 1,591 million pesos and greater purchases of goods of 895 million pesos;
+
+e employee benefits expenses, amounting to 5,655 million pesos, increased by 1,477 million pesos
+compared to 2013 (+35.4%). The change was due to salary increases resulting from periodic
+revisions in union agreements, primarily linked to inflation, and to the increase in provisions for
+termination benefit incentives. The percentage of employee benefits expenses to total revenues was
+17.0%, up 1.7 percentage points over 2013;
+
+e other operating expenses amounted to 4,038 million pesos, increasing 566 million pesos on 2013.
+These expenses consist of the following:
+
+(millions of Argentine pesos) 2014 2013 | Change
+Write-downs and expenses in connection with credit
+
+management 424 283 141
+Provision charges 31 239 (208)
+TLC operating fees and charges 592 518 74
+Indirect duties and taxes 2,692 2,164 528
+‘Sundry expenses 299 268 31
+Total 4,038 3,472 566
+EBIT
+
+EBIT for 2014 came to 8,657 million pesos compared to 3,774 million pesos recorded for 2013. The
+increase of 4,883 million pesos was attributable to the improvement in EBITDA and the suspension of
+calculation of depreciation and amortization following the Sofora - Telecom Argentina group's
+classification under Discontinued operations, already for the Consolidated Financial Statements of the
+Telecom Italia Group at December 31, 2013.
+
+Telecom Italia Group Discontinued operations/Non-current assets held for sale] 37
+Report on Operations
+
+
+--- Page 24 ---
+
+Net impairment losses on non-current assets for the year 2014 mainly related to work in progress
+initiated in previous years and now abandoned. In 2013, these amounted to 172 million pesos and
+related to several business projects and IT platforms that the group had decided to abandon.
+
+The EBIT margin stood at 13.8% of revenues (+12.2 percentage points compared to 2013).
+
+Capital expenditures
+
+Capital expenditures in 2014 amounted to 8,897 million pesos and increased by 3,986 million pesos
+compared to 2013 (4,911 million pesos). This increase was essentially related to the award of a number
+of mobile telephone frequencies to Telecom Personal for a total of 3,530 million pesos. See the section
+“Auction for mobile telephony frequencies" for further details.
+
+Capital expenditures were also aimed at customer acquisition costs, the enlargement and upgrading of
+the access network to increase capacity and improve quality for the 3G mobile network, and the
+upgrading of broadband services on the fixed-line network, in addition to backhauling to support the
+growth in data traffic volumes.
+
+Auction for mobile telephony frequencies
+
+The auction procedures, announced by the Secretaria de Comunicaciones for the allocation of the
+frequency bands to be used for the Servicio de Comunicaciones Personales ("PCS"), the Servicio de
+Radiocomunicaciones Movil Celular ("SRMC") and the Servicio de Comunicaciones Moéviles Avanzadas
+("SCMA") were carried out on October 31, 2014.
+
+The competition was participated in by the four companies that had pre-qualified: Telecom Personal S.A.,
+Telefonica Moviles Argentina S.A., Arlink S.A. and AMX Argentina S.A..
+
+In this competition, Telecom Personal (Sofora - Telecom Argentina group) was awarded:
+e Lot number 2 for the SRMC service,
+
+e Lots number 5 and 6 for the PCS service,
+
+e Lot number 8 for the SCMA service.
+
+Telecom Personal offered a total amount of 658 million USD to acquire these frequency lots.
+
+On November 27, 2014, with the publication on the Boletin Oficial (Official Gazette), the lots were
+Officially allocated to Telecom Personal, with the sole exception of Lot 8, which was only partially
+allocated.
+
+The price was set accordingly at 411 million USD and paid on December 17, 2014.
+
+Telecom Personal has formally requested the completion of the allocation of Lot 8, which will entail the
+payment of an additional 247 million USD and is an essential condition for compliance with the terms
+and conditions of the Auction, including with regard to the significant targets in terms of quality of
+service.
+
+Telecom Italia Group Discontinued operations/Non-current assets held for sale] 38
+Report on Operations
+
+
+--- Page 25 ---
+
+MAIN COMMERCIAL DEVELOPMENTS OF THE
+BUSINESS UNITS OF THE GROUP
+
+DOMESTIC
+
+Consumer
+
+In 2014, Telecom Italia pursued the development of its Consumer Fixed-Line business by accelerating
+the spread of fiber optics, increasing new activations, and protecting its voice and broadband customer
+base. In terms of the spread of fiber, the network development plan continued, driving an increase from
+37 municipalities covered in December 2013 to 110 municipalities at the end of December 2014.
+
+To support new acquisitions, during the year there were a number of promotions on the "introductory
+price" for fiber offerings (e.g. InternetFibra at 29 euros per month rising to 44.90 euros or
+Tuttofibra/Tuttofibra Plus at 39 euros per month for the first six months, rising to 54.90 euros), which
+are made even more attractive for limited periods (e.g. TUTTOFIBRA at 29 euros for the first 6 months
+rising to 44.90 euros thereafter). We also ran other local promotions during 2014 (such as including a
+tablet for 1 euro with 30-month lock-ins in some cities).
+
+The increase in new activations was attributable mainly to the TUTTO offer, launched in the latter
+months of 2013, which combines unlimited ADSL with a phone line offering unlimited calls to all
+domestic fixed and mobile numbers, at the highly attractive price of 29 euros per month for the first 12
+months.
+
+The drive for new activations intensified from March 2014 onwards, with the launch of TIM Smart, the
+first "convergent" offer that combines a Telecom Italia fixed line and TIM mobile. TIM SMART covers the
+entire family's communication needs, both at home and on the move, thanks to extensive fixed and
+mobile broadband coverage and a varied range of SIMs and options (e.g. additional SIMs for
+smartphones and tablets, unlimited fixed-line calls, generous bundles of extra mobile minutes), all at
+attractive prices billed in a single monthly statement.
+
+The launch of TIM Smart helped to protect the customer base by combining fixed and mobile services to
+meet the needs of the entire family at an economical price. In addition, it helped to limit fixed-line
+terminations. To reinforce this initiative, there was a continued marketing effort to maximize penetration
+of unlimited calls deals through the launch in April of the TUTTO VOCE package, which includes unlimited
+calls to all domestic fixed and mobile numbers, with installation and line rental included at 29 euros per
+month, forever.
+
+Starting in November, we cut the prices of the Basic Line and the home Phone Line subscription (GTN
+Line) by eliminating call set-up charges, while slightly raising home phone line subscriptions and per-
+minute traffic rates. The change - which affected customers with a home phone line subscription and
+those with a basic phone tariff - is designed to ensure transparency by eliminating call set-up charges
+and to provide a stimulus for migration to new "all-inclusive" offers.
+
+In November we also introduced the New Charter of Telecom Italia Services, which implements the
+resolutions of the National Regulatory Authority for Communications (AGCom) and applies to all
+customers. Telecom Italia's aim through this initiative is to pursue continuous improvement in its quality
+standards, with a view to simplifying, strengthening and ensuring transparency in customer
+relationships.
+
+In the Consumer Mobile market, we followed a segmented approach and sales strategy designed to
+maximize the value of the fixed and mobile customer base, reserving unique benefits for converging
+customers (e.g. "If you have Telecom Italia at home, you get unlimited calls to TIM phones").
+
+For the Mass Market and Young segments, after a 2013 characterized by a major increase in
+competition that led to a severe fall in the price of mobile services, Telecom Italia led the market
+towards a more rational price structure, setting its products and services apart through distinguishing
+factors such as LTE, content bundling (e.g. Sport, Entertainment, YouTube) and new purchasing
+methods.
+
+This enabled the us to pursue a "value" strategy, allowing us to maintain the entry level TIM Special deal
+at 19 euros per month. The initiatives included enhancing the TIM Young package by enabling Facebook
+
+Telecom Italia Group Main Commercial Developments of the Business Units of the Group | 39
+Report on Operations
+
+
+--- Page 26 ---
+
+and Twitter browsing without using any data allowance, as well as music streaming that also does not
+use up data, which has always been included. In the fourth quarter of 2014, we focused on expanding
+the potential target market for the deal by introducing new web-based purchasing methods. We also
+sought to drive purchases of new LTE-enabled smartphones in the Christmas period by offering 50 euros
+free phone credit and disposal of the old phone. The aim of this was to increase new technology
+penetration and upselling of deals with data included, through a targeted initiative that was also
+designed to reinforce Telecom Italia's commitment to protecting the environment.
+
+In the Premium segment, the policy of curtailing subsidies continued in line with 2013 and extra benefits
+were concentrated into the highest value packages.
+
+In Mobile Broadband services, there was a continued acceleration in 4G-LTE Internet services. As of
+September, ultra broadband services are already available in more than 3,000 Italian municipalities,
+achieving an outdoor coverage of more than 77% of the national population and the leading network
+performance. TIM's technology leadership was confirmed by the launch of LTE Advanced 4G Plus
+services, which provide connection speeds of up to 225 Mbps. It is also worth underlining that thanks to
+the high performance of TIM's ultra broadband network, the content offered through TIM Vision became
+an integral part of TIM's 4G offering, enabling customers to select between TIMVision entertainment and
+sport at no extra cost.
+
+Business
+
+Telecom Italia's business sector strategy in 2014 had two aspects: driving convergence, innovation and
+IT in support of its core business; and simplifying its offer and internal processes to improve delivery.
+The main objective pursued during the year was to reinforce the positioning of Telecom Italia as a
+leading national player in terms of responding to the ICT needs of small, medium and large companies,
+and of the Public Administration. This was executed by leveraging its high-profile nationwide presence
+and promoting cloud services in order to drive increasing use of its core connectivity offering, speeding
+up the spread of fixed-line fiber services and the adoption of LTE on the mobile network thanks to
+significant increases in both of their coverage during the course of the year, thereby boosting the
+technological evolution of web access, which is the key to the delivery of next-generation services.
+
+In the Fixed-line business, Telecom Italia has strengthened its commercial offering to various market
+segments, with the restructuring of the TUTTO deal, which offers customers a complete flat voice-data
+solution that always includes unlimited broadband, fixed-fixed and fixed-mobile traffic. This initiative
+contributes to the ongoing consolidation of the focus on fiber (next-generation networks), which has
+been further complemented by the expansion of service coverage and developments in IT systems that
+enable the targeting of larger customer segments (e.g. customers currently using outdated solutions
+such as ISDN).
+
+For high-level business customers, in terms of voice services a plan is in place to drive the innovative
+Nuvola IT Comunicazione Integrata offer, which is based on VoIP and Unified Communication platforms,
+offering the customer significant benefits in terms of increased efficiency of operating costs, better
+collaboration in the business community, mobility and a move towards fixed-mobile integration.
+Regarding our range of Information Technology products and services, we are continuing to extend our
+portfolio of Cloud Services, building an offering based on increasingly modular basic services that are
+easy to configure and activate online independently. In particular, in terms of the range of Cloud services
+for Small and Medium Business customers, in 2014 we invested in the creation of the NuvolaStore
+Marketplace, to offer a broad portfolio of services that can be purchased online through an 'Over-The-
+Top' system. Convergence with higher-value fixed and mobile core broadband services, promoted
+through spending credits for the market place, was the key factor in accelerating the penetration of "as a
+service" IT offerings among SMEs. Despite the continuing downturn in the IT sector, the performance of
+Telecom Italia in the business market improved in 2014, driven mainly by Cloud services, in which it
+retained its overall leadership - especially in Private and Hybrid Cloud services.
+
+In terms of Mobile services, the Business market in 2014 was also conditioned by further development
+of the Ultra BroadBand Mobile service based on the LTE network. Marketing policies focused on
+implementing a more rational, efficient and targeted pricing structure across all segments, while also
+expanding our offering with VAS and IT solutions.
+
+Prices largely held firm over the year, accompanied by stable sales volumes. In the modular TIM TUTTO
+range of services, having previously had LTE as an optional extra for all additional data options - at an
+
+Telecom Italia Group Main Commercial Developments of the Business Units of the Group | 40
+Report on Operations
+
+
+--- Page 27 ---
+
+appropriate premium price - from the start of the fourth quarter the increased usage of broadband data
+services justified the inclusion of 4G on all phone and data bundles.
+
+For customers in the direct sales channel, we have also started an extensive review of our marketing
+approach, which is mainly designed to protect the customer base and is built around new product and
+service models already tested in other segments such as: ending handset subsidies, pushing pre-paid
+and standard packages, and initiatives to support the growing Bring Your Own Device trend. In 2014, we
+also won the contract for the major Consip Mobile 6 convention for around 900,000 users in the central
+and local Public Administration - further confirmation of Telecom Italia's ability to maintain its
+leadership role and key-partner status for major customers, by winning conventions and contracts in
+highly complex and competitive scenarios.
+
+Lastly, 2014 saw the start of operations at the subsidiary TIDS - Telecom Italia Digital Solutions, whose
+main role is to cover important and innovative adjacent markets, such as OTT cloud services and the
+Internet Of Things, which have grown significantly, enabling TIDS to post double-digit revenue growth in
+2014.
+
+Telecom Italia Group Main Commercial Developments of the Business Units of the Group | 44.
+Report on Operations
+
+
+--- Page 28 ---
+
+BRAZIL
+
+In order to offer a more comprehensive pre-paid range, TIM Brasil launched the following deals in 2014:
+
+e in the second quarter: "Infinity Web 100", which enables connection to high-speed Internet for
+tablets and PCs through an Internet stick, "Infinity Turbo 7" and "Ricarica Express", making it possible
+to top up your own phone or someone else's via Facebook using a credit card previously registered
+on the site "Recarga Express";
+
+ein the third quarter: "TIM Day voice", valid for local and long-distance calls, which for 0.75 reais per
+day includes up to 300 minutes to another TIM user, while the Infinity tariff plan applies above that
+threshold.
+
+In addition, in light of growing mobile Internet demand, we have launched the first post-paid plan based
+
+around WhatsApp, which does not include a voice component but instead, for a price of 29.90 reais per
+
+month, offers unlimited use of WhatsApp, 300 MB of data and unlimited SMS messages to all operators,
+as well as 10 reais of credit for extra services.
+
+TIM has also stepped up development of innovative products, in order to increase data traffic use,
+
+launching the following initiatives:
+
+e from August, following the partnership with Wizard - one of the Brazil's best-known chains of
+language schools - a new service for English language learning, offering three levels with
+differentiated services at a weekly price of between 1.99 reais and 3.99 reais;
+
+e new plans for "Machine to Machine" (M2M) devices, offering capacities of 20MB to 2.5GB and 3G
+and 4G services, to respond to demand for greater bandwidth and speed. To develop this kind of
+service, Anatel has established that these SIMs are subject to reduced FISTEL tax;
+
+e from October, a new deal for connecting up to four devices using a single data package, without any
+costs for the additional chips, and data bundles of 6 GB, 10GB, 20GB and 50GB.
+
+In terms of broadband, TIM has started to market "Live TIM Extreme", a fixed-line ultra broadband plan
+
+that offers speeds of 1GB - the fastest available in Brazil - thanks to FTTH technology, at the cost of
+
+1,499.90 reais/month, and "Live TIM Blue Box", a device that integrates free-to-air HD channels, Netflix
+
+and YouTube, which offers leading multimedia video content and uses an integrated system called "Blue
+
+Box do Seu Jeito" that tracks user preferences.
+
+There are two more initiatives to note from 2014:
+
+e the signature of an important strategic cooperation agreement with ZTE Corporation to speed up
+technological innovation in the development of ultra broadband in Brazil, also involving the
+construction of an R&D center;
+
+e the launch of a new fixed-line ultra broadband plan, offering download speeds of 70 Mbps and
+upload speeds of 30 Mbps. The plan costs 119.90 reais per month and includes a free Wi-Fi
+modem.
+
+Regarding handset sales, during 2014 TIM expanded its range first with the Samsung Galaxy S5,
+
+followed by the second-generation Motorola Moto X and Moto G, and the LG G3 (priced between 729
+
+reais and 1,499 reais). Also, TIM began to sell the iPhone 6 and iPhone 6 Plus in the fourth quarter,
+
+promoting it together with a Liberty plan offering progressive discounts (in line with the amount of free
+minutes), thereby retaining its leadership as a handset seller in Brazil.
+
+Telecom Italia Group Main Commercial Developments of the Business Units of the Group | 42
+Report on Operations
+
+
+--- Page 29 ---
+
+MAIN CHANGES IN THE REGULATORY
+FRAMEWORK
+
+DOMESTIC
+
+Wholesale fixed markets
+
+Telecom Italia Reference Offers for the year 2013
+
+After having completed the approval of the 2013 technical and economic conditions for LLU and
+
+bitstream services (Resolutions 746/13/CONS and 747/13/CONS) of December 19, 2013, on
+
+September 1, 2014 the National Regulatory Authority for Communications (AGCom) published the
+
+resolutions on its website approving the Reference Offers for the year 2013 for the following wholesale
+
+services on Telecom Italia's fixed network:
+
+e Wholesale Line Rental (Resolution 67/14/CIR);
+
+e NGAN access - local installation infrastructures, ducts along the access network, primary and
+secondary fiber optics, terminating segments in fiber optics (Resolution 68/14/CIR);
+
+e NGA bitstream, the VULA service and related accessory services (Resolution 69/14/CIR);
+
+e specific capacity transmission services - terminating circuits, interconnection flows and exchange
+connections - (Resolution 70/14/CIR).
+
+On September 1, 2014, the public consultation was also initiated, through Resolution No. 71/14/CIR,
+
+for the approval of the Telecom Italia Reference Offer for the year 2013 for call origination, termination
+
+and transit services over the fixed public telephone network with TDM interconnection and VoIP/IP.
+
+Lastly, on December 23, 2014 the resolution establishing the economic conditions for the year 2013 for
+
+the end-to-end service was published (Resolution 128/14/CIR).
+
+On December 23, 2014 and January 7, 2015, the resolutions were published for the launch of the
+
+public consultations for the approval of 2014 prices for wholesale disaggregated access services, for co-
+
+leasing services and for the WLR service. The consultations only involve the 2014 prices for the one-off
+
+contributions for these services, while the determination of the monthly rentals, based on the BU-LRIC
+
+model, has been deferred to the market analysis initiated by the Authority with Resolution
+
+390/12/CONS dated September 4, 2012.
+
+Lastly, on February 27, 2015, the resolution was published for the launch of the public consultation for
+
+the approval of the 2014 prices for specific capacity transmission services (terminating circuits,
+
+interconnection flows and exchange connections).
+
+Wholesale access services
+
+With regard to the results of the public consultation launched on September 4, 2012 (Resolution
+390/12/CONS), the proceedings are still under way for the 3rd cycle of analysis of the (retail and
+wholesale) copper and fiber fixed-line access market for the three-year period 2014-2016, as the
+Authority has repeatedly deferred their conclusion.
+
+Specifically, on February 13, 2015, the Authority launched a new public consultation on wholesale
+access prices for the period 2014-2017. The final decision has to be notified to the European
+Commission, which has the power to express an opinion on it within thirty days from notification.
+
+In detail, the Authority announced two different regulatory scenarios: a) "Alpha Scenario", where the
+market is national, single and uniform; and b) "Beta Scenario" where competition conditions in some
+areas of the country will be different than in other areas, which will result in regulatory obligations and
+prices being differentiated between "competition areas" and "non-competition areas". The competition
+status of an area is determined according to whether there is a concentration of investments in NGA
+networks by at least two operators (B Areas), compared to areas where these conditions do not apply (A
+Areas). The distinction between the two types of areas depends on whether a set coverage threshold is
+reached by at least two ultra broadband networks.
+
+Telecom Italia Group Main changes in the regulatory framework | 43
+Report on Operations
+
+
+--- Page 30 ---
+
+The table below shows the wholesale subscription charges proposed up to 2017. The prices for the
+intermediate years will be obtained using a linear annual trend starting from the 2013 prices or the
+2014 prices, depending on the results of the consultation.
+
+(euros/lines/month) "Alpha" Scenario "Beta" Scenario
+A Areas B Areas
+
+Full LLU 8.69 8.69 <9.40
+
+SLU 5.45 ) 4.44
+
+SHARED ACCESS 0.73 0.73 0.73
+
+WLR POTS 11.15 11.15 -
+
+WLR ISDN 13.79 13.79 -
+
+Shared BITSTREAM 6.28 6.28 commercial negotiations
+
+Naked BITSTREAM 14.53 14.53 commercial negotiations
+
+Shared FTTC VULA 11.33 11.80 11.80
+
+Naked FTTC VULA 16.87 16.04 16.04
+
+(*) Intermediate value based on the level of infrastructures. The Authority has asked for opinions on the calculation methods in the consultation.
+
+On October 9, 2014, the Commission approved the new recommendation on relevant markets,
+immediately removing the Retail Access Market (one of the three markets analyzed in the above
+procedure, which was in fact removed from the Analysis in the text of the Consultation) and the
+Origination Market.
+
+In November 2014, the Consiglio di Stato partially upheld an appeal submitted by an operator regarding
+the approval of the Telecom Italia reference offer for bitstream services in 2009. The Consiglio di Stato
+upheld the petition concerning the methods of calculating the monthly rentals for the service -
+established by the Authority (Resolution 71/09/CONS) based on the retail minus principle - which had
+noted the lack of additional verification of the correctness and fairness of the quantification of the
+"minus" component. The Consiglio di Stato has asked the Authority to re-examine the size of the minus
+component and to that end a public consultation was launched on March 5, 2015 in which AGCom, after
+investigating the matter further, proposed a draft measure that confirms the minus value in force in
+2009 (20% less than the retail rental fee). The public consultation will last for 30 days.
+
+Lastly, with regard to the proceedings initiated by AGCom in June 2014, the Authority issued a press
+release on February 25, 2015 - in compliance with another ruling of the Consiglio di Stato concerning
+copper network wholesale access rates for the three-year period 2010-2012 - announcing the final
+approval of the decision on the amendment to LLU rates for the period 2010-2012. Specifically, the
+following changes have been made for the monthly LLU rentals: for 2012, from 9.28 euros per month to
+9.05 euros per month; for 2011, from 9.02 euros per month to 8.90 euros per month; and for 2010,
+from 8.70 euros per month to 8.65 euros per month. The proceedings were also intended to update the
+WLR and bitstream rates for the same period; however, the Authority postponed this decision to a later
+time, as it intends to wait for the final ruling on the execution of the Consiglio di Stato decision on the
+bitstream service for 2009.
+
+Telecom Italia reflected the effects of the new rates for the period 2010-2012 in the income statement
+figures for the fourth quarter 2014, with a total impact, in terms of lower revenues, of 45 million euros.
+
+New Generation Networks
+
+With regard to measures relating to other operators' access to Telecom Italia street cabinets, on April 9,
+2014 the Authority published a decision setting out the conditions on obligations for locating and giving
+access to the cabinets (Resolution 155/14/CONS). In particular, Telecom Italia is required to announce
+the installation of new cabinets (or upgrades to existing cabinets) on a quarterly basis, to enable
+competing operators to participate in the planning process (this notification procedure came into full
+effect from the start of 2015). In addition, in order to install their own mini-DSLAMs, competing
+operators will be able to ask for Telecom Italia's existing cabinets to be expanded through extensions or
+
+Telecom Italia Group Main changes in the regulatory framework | 44
+Report on Operations
+
+
+--- Page 31 ---
+
+the construction by Telecom Italia of new cabinets next to the existing ones. In the latter case, ownership
+of the cabinets will lie with the other licensed operators that request their construction and they will be
+responsible for their maintenance and related costs. Lastly, in view of the difficulties in determining the
+technical and construction specifications for installing the additional extensions, the Authority has
+postponed all decisions until a technical feasibility study to identify the correct conditions for their supply
+has been conducted.
+
+High-quality wholesale access from fixed workstations
+
+On November 17, 2014, the public consultation was launched (Resolution 559/14/CONS) on the 3rd
+cycle of market analyses of high-quality wholesale access from fixed workstations (market no. 4, 2014
+Recommendation, formerly the market relating to terminal segments of leased lines). Telecom Italia
+provided its contribution within the deadline set by AGCom (January 16, 2015) and is awaiting the
+conclusion of the proceedings.
+
+Retail fixed markets
+
+Effective from July 1, 2014, the prices for traffic for Business customers subscribing to the Telecom
+
+Italia Basic Offer have changed. For the main traffic routes (local, national and fixed-to-mobile) a single
+
+price of 10 euro cents (excluding VAT) is applied for the call set-up charge and 10 euro cents (excluding
+
+VAT) for each minute of conversation.
+
+Effective from November 1, 2014, the rental prices for GTN (General Telephone Network) lines and
+
+prices for traffic for Consumer customers subscribing to the Telecom Italia Basic Offer have changed.
+
+The amendment consists of the following changes:
+
+e the monthly rental for GTN lines has increased from 17.54 euro per month (including VAT) to 18.54
+euro per month (including VAT). There are no changes in the monthly rental prices for ISDN lines and
+line rental prices for customers in the special Social Groups and holders of the Social Card issued by
+the Government;
+
+e for direct calls to the main traffic routes (local, national and fixed-to-mobile) the call set-up charge
+has been eliminated and a single price of 10 euro cents (including VAT) has been applied for each
+minute of conversation.
+
+Online copyright protection
+
+On March 31, 2014, the new Regulation on Online Copyright Protection (Resolution 680/13/CONS)
+came into force. At the end of a specific inquiry process, AGCom can order Telecom Italia to selectively
+remove content (where it operates as a Hosting Provider), or to block access to sites (where it operates
+as a ‘mere conduit’), or to remove contents of its catalog (in the case of provision of on-demand media
+services).
+
+Sports rights
+
+On April 9, 2014, both AGCom and the Italian Antitrust Authority (AGCM), in separate decisions,
+approved the Guidelines on the Offering of Rights to the Serie A Soccer League, 2015-2018. Both
+documents call for Serie A's offering to be conducted under fair, transparent and non-discriminatory
+conditions, in order to ensure open competition to all operators of all distribution platforms.
+
+Universal Service
+
+In the first half of 2014, the verification of the net cost for 2007 was initiated and concluded. In the
+implementing resolution (Resolution 100/14/CIR) AGCom determined that, also in 2007, the provision
+
+Telecom Italia Group Main changes in the regulatory framework | 45
+Report on Operations
+
+
+--- Page 32 ---
+
+of the mandatory universal service did not result in a net cost and therefore the mechanism for dividing
+the cost cannot be applied. Telecom Italia has appealed against this resolution before the TAR. In the
+meantime, Telecom Italia has also submitted its assessments of the net cost for 2008 and 2009 to the
+Authority. The auditor appointed by the Authority has concluded its work and we are awaiting AGCom's
+proposal.
+
+On September 4, 2014, AGCom initiated an investigation to identify the criteria for designating one or
+more operators engaged to provide the Universal Service in electronic communications pursuant to
+Article 58 of the Electronic Communications Code. Currently the only operator designated to provide the
+Universal Service is Telecom Italia. During the public consultation Telecom Italia reiterated that the
+significant competition, and the economic and technological developments in the TLC sector to date,
+justify the elimination of the Universal Service obligations, as there are numerous offers on the domestic
+market that are comparable and equivalent to the offers marketed by Telecom Italia in terms of
+availability, quality and accessibility of price.
+
+On January 23, 2015 the Administrative Court (TAR) of Lazio published two rulings that rejected
+Vodafone's appeal and upheld Telecom Italia's appeal against Resolution 1/08/CONS, through which
+the Authority, during 2008, had introduced a new calculation method for calculating the net cost for
+Universal Service. This new calculation method was retroactively applied, starting from the 2004 net
+cost, which resulted in a significant reduction in the scope of costs attributable to the Universal Service.
+Telecom Italia specifically objected to the possibility of retroactively applying any administrative order
+and, in this case, the new criteria introduced to calculate the net cost, which reduced its value to zero.
+
+Wholesale mobile markets
+Mobile termination rates on H3G network
+
+On February 14, 2014, the Consiglio di Stato accepted the appeal by H3G regarding the determination
+of mobile termination rates from July 1, 2012, as set out in AGCom Resolution 621/11/CONS. This
+Resolution established, among other things, that from July 1, 2013 onward there must be complete
+symmetry between H3G termination rates and rates for other mobile operators, thus bringing the
+deadline originally set in the framework decision subject to public consultation
+(Resolution 254/11/CONS) forward by six months. The Consiglio di Stato ordered the cancellation of this
+change in timing, effectively restoring tariff asymmetry in favor of H3G. In a decision of May 28, 2014, in
+compliance with this ruling, the Authority not only restored tariff asymmetry for the second half of 2013,
+but also revised the termination price upwards for the H3G network for the first half of 2013.
+
+Resolution 621/11/CONS (canceled) Resolution 259/14/CONS (new prices)
+(eurocents/minute)
+July 2012 | January2013 | July 2013 July 2012 | January 2013 | July 2013
+H3G 35 17 0.98 35 2.06 134
+Telecom Italia 25 15 0.98 25 15 0.98
+Vodafone 25 15 0.98 25 15 0.98
+Wind 25 15 0.98 25 15 0.98
+
+On October 16, 2014, the Authority published Resolution 365/14/CONS, approved on July 17, 2014,
+which revised the termination rates on H3G for the period November 1, 2008-June 30, 2009, following
+the ruling by the Consiglio di Stato published in February 2013.
+
+The procedure ended with the amendment of the termination rate on the H3G network for the period
+November and December 2008 (extending the validity of the amount of 16.26 cents per minute, which
+was originally effective until October 2008) and leaving the amount of 13 cents per minute unchanged
+for the period January-June 2009.
+
+Telecom Italia Group Main changes in the regulatory framework | 46
+Report on Operations
+
+
+--- Page 33 ---
+
+On February 9, 2015, the Authority published the public consultation for the 4th cycle of analysis of the
+mobile termination market, which was initiated on February 11, 2014.
+
+The Authority's measure proposal establishes that all operators offering voice termination services on
+their own mobile network have significant market power. Accordingly, a draft measure has been
+submitted to public consultation that sets out the same regulatory obligations (such as, for example,
+access to and use of network resources, control of prices, and accounting for costs), both for mobile
+network operators and full MVNO operators. In addition, for the years 2014-2017, the Authority has
+proposed a glide path for mobile network termination rates, which is symmetric for all notified operators,
+as detailed in the table below:
+
+Voice termination rates on mobile network 2014-2017
+
+(eurocents/minute)
+From 1/1/2014 From 1/1/2015 From 1/1/2016 From 1/1/2017
+
+0.98 0.96 0.94 0.92
+
+The duration of the public consultation is 45 days.
+
+In the same consultation, the Authority also announced the need to initiate specific monitoring to
+analyze the financial and technical conditions of supply of wholesale access services by mobile network
+operators to virtual mobile operators, in order to assess the significance of competition restrictions on
+the mobile network access market.
+
+AGCom contribution fee
+
+On March 5, 2014, the Administrative Court (TAR) of Lazio published its ruling, fully upholding the
+pronouncement of the EU Court of Justice, which had been asked to issue a preliminary ruling on the
+matter. It accepted Telecom Italia's appeal concerning the cancellation of the resolutions through which
+AGCom had requested payment of 26.6 million euros for amounts the Authority considered unpaid for
+2006-2010 and the amount due for the contribution fee for 2011 (24.2 million euros).
+
+The ruling of the Lazio TAR also affirmed the principle whereby the contribution fees of operators of
+electronic communications networks and services should only cover costs relating to activities
+unequivocally used for ex-ante regulation of this sector and that revenues connected to ex-ante
+regulation and obtained as administration fees from the companies must not exceed the overall costs
+directly pertaining to this regulatory activity. AGCom lodged an appealed against the Lazio TAR ruling and
+requested a suspension, which, however, was rejected. On November 27, 2014, the hearing was held
+before the Consiglio di Stato on the appeal lodged by AGCom against the rulings of the Lazio TAR and, on
+February 17, 2015, the final ruling was published, which accepted the petitions made by Telecom Italia
+and rejected the appeal by AGCom, upholding the previous ruling by the Lazio TAR. This resulted in the
+annulment of the resolution containing the request for Telecom Italia to pay 26.6 million euros as an
+adjustment for the insufficient payment in the five-year period 2006-2010 for the contribution to the
+functioning of the Authority.
+
+On March 14, 2014, the AGCom resolution was published setting the guidelines for the payment of the
+2014 fees (Resolution 547/13/CONS) which, not only does not implement the main aspects of the
+aforementioned Lazio TAR ruling - even though the appeals are pending with the Consiglio di Stato -
+but also expands the tax base (revenues recorded under the item A1 "Revenues from sales and
+services" of the income statements published in the 2012 financial statements) despite reducing the
+contribution rate to 0.14%. On April 30, 2014, Telecom Italia paid an amount, via reverse charge and
+with reservations, of 14 million euros calculated according to the parameters deriving from the Lazio
+TAR ruling, applying the AGCom rate for 2014 of 0.14%, and appealed Resolution 547/13/CONS before
+the Lazio TAR.
+
+In line with the requirements of the TAR and EU regulations, on November 21, 2014 the Authority
+published its first report on 2013 ("2013 Annual Report") which reveals that the expenses incurred for
+
+Telecom Italia Group Main changes in the regulatory framework | 47
+Report on Operations
+
+
+--- Page 34 ---
+
+activities attributable to the electronic communications sector, amount to approximately 40 million
+euros (56% of total expenses incurred by the Authority) and that the Authority "collected" approximately
+4.5 million euros more in 2013 from operators in the electronic communications sector.
+
+On March 5, 2015, the AGCom resolution containing the guidelines for the payment of the 2015
+contribution fee were published (Resolution 567/14/CONS). The Authority confirmed the revenues
+recorded under the item Ai "Revenues from sales and services" of the income statements published in
+the 2013 financial statements as the tax base and set a contribution rate of 0.115%. The contribution
+rate for the electronic communications market, for the year 2015, is different from the rate applied to
+the remaining markets covered by the Authority (e.g. the media and publishing markets), set at 0.2%.
+The payment deadlines have also been further brought forward to April 1, 2015.
+
+Antitrust
+
+For information on the pending disputes relating to Proceedings A428, 1757 and 1761 see the Note
+“Contingent liabilities, other information, commitments and guarantees” of the Separate Financial
+Statements of Telecom Italia S.p.A. at December 31, 2014.
+
+Telecom Italia Group Main changes in the regulatory framework | 48
+Report on Operations
+
+
+--- Page 35 ---
+
+BRAZIL
+
+Anatel
+
+On June 18, 2014, the National Telecommunications Agency (Anatel) approved the new Mobile
+Termination Rates (MTR), Fixed Termination Rates (FTR) and Leased Line rates (EILD) for the years
+2016-2019. These rates, calculated using the Bottom-Up Long Run Incremental Cost model, establish
+reductions ranging from 24% to 45% in the first year (2016), from 40% to 48% in the second, third, and
+final year (2017-2019), to reach 0.017 reais in 2019. The FTRs will undergo reductions of around 63%
+to 73% in the first year, from 21% to 50% in the second and third year, and from 18% to 50% in the final
+year, depending on the area concerned, reaching 0.005 reais in 2019. With the publication of the Glide
+Path and until the adoption of the LRIC model in 2019, all Significant Market Power (SMP) operators will
+have a single MTR for each of Anatel's 3 macro areas of Brazil. Regarding leased circuits, the benchmark
+values set in the cost model will only be used by Anatel in the event of conflict between operators, and
+the LRIC model will be used only starting from 2020.
+
+General Regulation on the Rights of Consumers of Telecommunication Services (RGC)
+
+On March 10, 2014, Anatel published Resolution 632/2014 - General Regulation on the Rights of
+Consumers of Telecommunication Services (RGC) - designed to standardize consumer protection and
+improve the rights of users of telecommunication services. Due to the complexity of the requirements,
+operators have between 120 days and 24 months from the Regulation's publication date to implement
+its provisions. The three main requirements are: (i) from July 8, 2014, if a call with an operator is
+interrupted, the provider must immediately re-establish contact by calling the customer; (ii) automatic
+cancellation: consumers must be able to terminate their service contract without assistance, over the
+phone (from July 8, 2014) and online (from March 10, 2015); and (iii) voice and data packages from
+October 10, 2015: consumers must be warned when their usage is approaching the limit of the amount
+of minutes/data included in their tariff.
+
+"Marco Civil da Internet"
+
+The core Brazilian legislation on Internet services (the "Marco Civil da Internet") came into force on
+June 23, 2014, even though the rules on some of its key aspects are still under discussion. The draft law
+was approved by the Senate on April 22, 2014, after years of debate, and converted into law by
+President Dilma Rousseff the next day, coinciding with the Net Mundial forum hosted by Brazil in Sao
+Paulo. One of the fundamental aspects still to be clarified is the concept of net neutrality and exceptions
+to this, in addition to the conditions and duration for which service providers must keep user access
+logs. While awaiting the regulations implementing the law, it has been decided that operators cannot
+offer free access to certain types of content.
+
+Auction for the allocation of 4G licenses
+
+On September 30, 2014, Anatel terminated the auction for the allocation of the user licenses for the
+700 MHz band, for the development of the 4G mobile network, based on LTE technology, assigning the
+subsidiary TIM Celular the license for Lot 2 for a term of 15 years, which can be renewed for an
+additional 15 years for an end price of 1,947 million reais. The cost of the investment for TIM includes
+an additional 904 million reais as compensation for the clean-up cost of the band covered by the
+license. Also, as one of the lots offered in the auction was not allocated, TIM had to take on additional
+clean-up costs of 295 million reais, offset by a discount of 208 million reais on the price of the license
+(which was consequently reduced to 1,739 million reais).
+
+Against payment of 1,678 million reais, TIM Celular signed the "Termo de Autorizacao" license
+assignment contract on December 5, 2014.
+
+The clean-up operations - which should be concluded by the end of 2019, based on the forecasts of the
+Ministry of Communications - will be conducted by a legal entity, called AED, to be established by March
+2015, in which an ownership interest will be held by all the parties awarded the license.
+
+Telecom Italia Group Main changes in the regulatory framework | 49
+Report on Operations
+
+
+--- Page 36 ---
+
+MEDIA
+
+Digital frequencies
+
+AGCom adopted Decision 181/09/CONS, enacted in article 45 of Law 88/2009, setting the criteria for
+the LLU digital switchover of terrestrial television networks. On the basis of this measure, the Ministry for
+Economic Development (MISE) allocated licenses to the digital frequencies. The measure was necessary
+due to the infringement proceeding 2005/5086 brought by the European Commission against Italy,
+which found that problems in the Italian television sector and the monopolization of frequencies by RAI
+and Mediaset needed to be redressed. The infringement proceeding is still pending.
+
+Following the switch-off process, which lasted four years and was concluded on July 4, 2012, the
+Ministry for Economic Development definitively assigned the digital frequencies.
+
+Specifically, on June 28, 2012, the decision was taken to definitively assign the user rights of digital
+frequencies for 20 years.
+
+On July 18, 2013, AGCom adopted Resolution 451/13/CONS on the National Digital Frequency
+Assignment Plan. The new plan involves 22 national networks and reserves channels 57-60 UHF for
+mobile services, effective immediately. The amendment of the PNAFD also involved a review of the
+allocations made and the resolution of interference problems and international coordination issues,
+including replacing channel 60 UHF (which suffers interference from the mobile services on the adjacent
+band) - allocated to Persidera - with channel 55 UHF.
+
+The substitution is due to be completed by June 30, 2015.
+
+In terms of the steps taken to address the findings of the EU Commission, in 2010 AGCom - via
+Resolution 497/10/CONS - arranged a ‘beauty contest' for the assignment of the user rights to digital
+dividend frequencies. However, the contest was canceled on April 28, 2012 with the entry into force of
+Law 44/12 and replaced with a competitive tender under new rules set out by AGCom in
+Resolution 277/13/CONS (adopted on April 11, 2013) for three lots of frequencies (L1, L2 and L3).
+
+The only party that participated in that tender - which was carried out in June 2014 and which Persidera
+(then TIMB) was unable to participate in, because it was incorrectly equated to RAI and Mediaset - was
+the Cairo group, which was awarded the MUX L3 for 31,626,000 euros.
+
+The allocation of the two remaining frequencies (Lot L1 and L2) not yet awarded has still not been
+formally decided.
+
+Also under the infringement procedure, AGCom completed the analysis of the conditions and methods of
+use of the transmission capacity for the broadcasting of audiovisual content, which was aimed at
+evaluating the possible introduction of must carry obligations for network operators that hold five MUXs.
+The analysis showed that, at present, there do not appear to be any problem issues that justify the
+imposition of must carry obligations at national level.
+
+Contribution fee for user rights
+
+On September 30, 2014, following a public consultation, AGCom published Resolution 494/14/CONS
+
+setting the criteria for determining the contribution fees for user rights of television frequencies. In
+
+particular, it established:
+
+e The value of Lot L3 of the digital dividend auction (awarded to the Cairo Group), discounted at a rate
+equal to the rate for 15-year 2013 BTPs, as the benchmark value.
+
+e An increase of 5% for the second, 10% for the third, 15% for the fourth, and 20% for the fifth MUX,
+as an anti-monopoly measure.
+
+e A discount of up to 30% for the DVB-T2 MUX up to 2018.
+
+e Adiscount of at least 70% for local operators.
+
+e A glide path not exceeding 8 years for non-integrated operators (such as Persidera), halved for
+integrated operators (such as RAI and Mediaset). During the glide path stage, the anti-monopoly
+measure mentioned above will only apply to Rai and Mediaset.
+
+Considering that these contribution fees are additional to the administrative fees and user fees for the
+
+backbone network frequencies (Article 34, Article 35 and Attachment 10 of Italian Legislative Decree
+
+259/03), AGCom has suggested that the Ministry for Economic Development conduct a full review of
+
+these specific fess to take account of the particular characteristics of terrestrial television networks.
+
+Telecom Italia Group Main changes in the regulatory framework | 50
+Report on Operations
+
+
+--- Page 37 ---
+
+Persidera, also supported by a legal opinion, has appealed against this resolution as it proposes criteria
+
+that would result in values that are unreasonable, discriminatory and out of proportion (approximately
+
+15% in additional expenses on the total market value). The EU Commission has also expressed a similar
+
+opinion. In a letter dated July 18, 2014, sent to AGCom and the Ministry for Economic Development, the
+
+Commission made several observations on the measure still under consultation, as part of the
+
+infringement proceedings no. 2005/5086 concerning television frequencies.
+
+The letter contains a crucial passage in which the Commission reiterates the importance of setting
+
+contributions that take account of the characteristics of the Italian television broadcasting market, as it
+
+is affected by several factors, including "the advantages that incumbent operators have benefited from
+the transition to the digital system, as well as subsequently, and in particular, as acknowledged by the
+
+Italian authorities in their 2009 proposal, the advantages of incumbent integrated vertical operators that
+
+have a significant number of multiplexes".
+
+Persidera deems that the value of the contributions should not deviate from the international
+
+benchmark and the comparison with the mobile market:
+
+e the UK Authority has set the contribution fee for national MUX user rights at approximately 230,000
+euros per year, reserving the right to amend these values after 2020;
+
+e a similar value would be obtained based on the values of user fee contributions for mobile
+frequencies pursuant to the Electronic Communications Code, adjusted proportionately to the
+reference market.
+
+The Ministry for Economic Development has issued a decree (published in the Official Gazette on
+
+January 19, 2015) establishing that, by January 31, 2015, as an advance for the year 2014, network
+
+operators must pay 40% of the amount paid in 2013.
+
+This advance serves to provide income flows to the Government budget, pending the establishment of
+
+the contribution fee regime to be applied to network operators and service providers, in consideration of
+
+the impossibility of matching progressive rates with equal revenue levels, envisaged by Law 44/12, or
+with the principles of proportionality and non-discrimination, established by the EU regulations.
+
+Potential use of frequencies for mobile technology
+
+Once the global conference on the regulation of the radio spectrum - to be held in Geneva in late 2015
+(WRC-15) - has been concluded, 700 MHz band frequencies (between 694-790 MHz, corresponding to
+television channels 49-60 UHF) currently allocated to broadcasting, will be able to be allocated on a co-
+primary basis to broadband mobile services.
+
+Ahead of this deadline, it is likely that the EU authorities will reorganize the frequency spectrum to
+enable the development of mobile broadband services, with a consequent reduction in the resources
+allocated to digital terrestrial television.
+
+The reallocation process, which will presumably take place between 2016 and 2018, will most likely
+mirror the process implemented the "first" digital dividend for 800 MHz bandwidth, involving the re-
+farming to other available frequencies or the return of the frequencies in exchange for monetary
+compensation.
+
+There is a remote possibility that, if the right regulatory and technical conditions arise at the right
+moment, television operators could use these frequencies to provide mobile broadband services.
+
+In this regard, the agreement between TI Media and Gruppo Editoriale L'Espresso sets out the
+procedures through which TI Media will be able to acquire the user rights for channel 55 UHF allocated
+to the MUX TIMB2.
+
+In particular, Tl Media has reserved itself two different purchase options, one alternative to the other,
+involving: (i) the purchase of the right to use the UHF CH 55 or (ii) the acquisition of the entire share
+capital of TIMB2 S.r.I., a newly formed company, which, after completion of related approval process, will
+be awarded this right of use.
+
+Both options may be exercised during the period from June 30, 2016 to June 30, 2019.
+
+If right to use the CH 55 is transferred, a rental agreement will be signed between the two companies
+whose execution is subject to authorization in accordance with current regulations.
+
+On September 1, 2014 Pascal Lamy as Chairman of the High Level Group on UHF, formed in January
+2014 and consisting of representatives of broadcasters, mobile operators and manufacturers,
+presented the report on the future use of the UHF spectrum to the European Commission.
+
+Telecom Italia Group Main changes in the regulatory framework | 54.
+Report on Operations
+
+
+--- Page 38 ---
+
+The report proposes a "2020-2030-2025" time frame for meeting the objectives of the European Digital
+
+Agenda, providing broadcasters a stable route to invest and grow in the medium to long term, structured
+
+as follows:
+
+e allocation of the 700 MHz band to mobile broadband services in 2020, with a margin of more or less
+2 years (2018-2022) to take account of different market situations in the Member States;
+
+e allocation of the bandwidth under 700 MHz (470-694 MHz) to broadcast services across Europe
+until 2030;
+
+e re-evaluation of the scenario in 2025 with an assessment of the state of the market and technology.
+
+This report will serve as an input to the new European Commission, in establishing the spectrum policy,
+
+also in view of the ITU-R World Conference 2015 (WRC-15), the outcome of which could lead to more
+
+specific and stricter measures being adopted for the Member States.
+
+Telecom Italia Group Main changes in the regulatory framework | 52
+Report on Operations
+
+
+--- Page 39 ---
+
+COMPETITION
+
+DOMESTIC
+The market
+
+In the second half of 2014, the Italian TLC market showed signs of easing of the strong competition
+pressure, involving the significant use of pricing as a lever (which was particularly intensive during 2013)
+that has led over the years to an impoverishment of the traditional service components, particularly the
+voice service.
+Growth in Broadband - particularly Mobile, also aided by the penetration of next-generation handsets -
+continues to be the main driver of the market.
+The growth in broadband has also led to an evolution towards increasing complexity in the competitive
+scenario, with more inter-relationships between players of different markets. This has opened the field
+to competition from non-traditional operators (in particular Over the Top companies - OTTs - and
+producers of electronic and consumer devices), in addition to giving telecommunications operators the
+opportunity to develop new "over the network" services (mainly in the IT and Media fields).
+For the telecommunications operators, the core competition with the other traditional operators in the
+sector (including Mobile Virtual Operators), which today still represents the factor that has the greatest
+impact on market trends, is now being accompanied by an invasion by OTTs and device producers,
+which are exploiting their complete understanding of consumer trends, consumer electronics and
+software environments and which operate entirely in the digital world, based on competition strategies
+that are completely different to those of TLC players.
+
+Over time, therefore, the traditional players' business models are changing to meet the challenges from
+
+the new entrants and to exploit new opportunities:
+
+e in Media, broadcasters, who are vertically integrated players, continue to dominate the scene;
+however, with the Web becoming increasingly important as a complementary distribution platform,
+they are increasingly under pressure from consumer electronics companies, telecommunications
+operators and OTTS;
+
+e in the Information Technology market, the decline in revenues is driving the various players towards
+the cloud computing "growth oasis", with the goal of developing and protecting their market shares in
+their core business. Telecommunications operators are expected to strengthen in this sector,
+including through partnerships;
+
+e in the Consumer Electronics market, producers can develop services that can be used through the
+Internet, building on handset ownership and management of the user experience, breaking the
+relationship between customers and TLC operators and competing with the media and OTTs, thanks
+to games consoles and set-top boxes, for the role of net enabler through the living room screen;
+
+e OTTs have, for some time now, been leading the transformation of the methods of use of TLC
+services (including voice), increasingly integrating them with Media and IT.
+
+With regard to the current positioning of the telecommunications operators in converging markets, on
+
+the other hand, the following is taking place with different levels of progress:
+
+e development of Innovative Services in the IT market, particularly in Cloud services;
+
+e development of new Digital Services, especially in the areas of Entertainment (e.g. TV over IP), Smart
+Home, Digital Advertising, Mobile Payment-Digital Identity.
+
+Competition in Fixed Telecommunications
+
+The fixed-line telecommunications market continues to see a significant decline in voice revenues due to
+the reduction in rates and the progressive shift of voice traffic to mobile. In recent years all the operators
+have attempted to at least partially counter this phenomenon by concentrating mainly on the ability to
+innovate their offering by developing the penetration of Broadband and introducing bundled voice,
+broadband and services deals (double play), in a highly competitive environment with consequent
+pricing pressure.
+
+The evolution of the competitive product offering has also been influenced by consolidation, among
+competitors, of an approach based on the control of infrastructure (above all Local Loop Unbundling -
+
+Telecom Italia Group Competition | 53
+Report on Operations
+
+
+--- Page 40 ---
+
+LLU). The main fixed operators are now also offering mobile services, also as Mobile Virtual Operators
+(MVOs).
+
+In 2014, the migration of customers from fixed-line to mobile telephony services continued, as well as
+the migration to alternative communications solutions (Voice Over IP, messaging, e-mail and social
+network chat). For years, both for private consumers and small and medium businesses, mature
+traditional voice services have been replaced by value-added content and services based on the Internet
+protocol. This shift has been facilitated by the use of the Internet and changes in user preferences, by
+the spread of broadband, personal computers and other connected devices, and by the quality of the
+service.
+
+The competitive scenario in the Italian fixed telecommunications market is characterized by the
+presence, in addition to Telecom Italia, of a number of operators such as Wind-Infostrada, Fastweb,
+Vodafone-TeleTu, BT Italia and Tiscali, that have different business models focused on different
+segments of the market.
+
+At December 31, 2014, fixed accesses in Italy totaled approximately 20.6 million (including
+infrastructured OLOs and Fixed Wireless Access), down from 2013. The growing competition in the
+access market has led to a gradual reduction in Telecom Italia's market share.
+
+In the broadband market, at December 31, 2014 fixed broadband customers in Italy reached a
+penetration rate on fixed accesses of about 69%.
+
+The spread of broadband is driven not only by the penetration of personal computers and other enabled
+devices (e.g. Smart TVs), but also by the growing demand for speed and access to new IP based services
+(Voice over IP, Content - particularly Video, social networking services, etc.).
+
+The decline continued in revenues from the data transmission segment, which suffered the effects of
+competition that has led to reduction in average prices.
+
+Competition in Mobile Telecommunications
+
+The mobile market, which is saturated and mature in its traditional component of voice services, has
+experienced a decline in the number of lines, due to the rationalization of second and third SIM cards (at
+December 31, 2014, mobile lines in Italy numbered about 94 million, down by about 3% over 2013,
+which still represents a very high penetration rate of the population, of approximately 157%).
+
+Revenues from traditional service components, such as voice and messaging, continued to decline, as
+these components are impacted by the strong competition between TLC operators based on pricing as a
+lever - which was particularly intense in 2013 but with signs of a slowdown in the second half of 2014 -
+in addition to the increasing spread of "communication apps". Mobile Broadband continues to grow and,
+although it is unable to offset the drop in revenues from traditional services, it represents the main
+strategic and business opportunity for the mobile TLC industry, also due to the launch of LTE Ultra
+Broadband.
+
+In 2014, the growth in mobile broadband customers continued, both large and small screen, with a high
+penetration rate on mobile lines, especially as a result of the increasing spread of smartphones and
+tablets.
+
+Alongside innovative services that have already caught on and are under full-scale development, as in
+the case of mobile apps, there are other market environments, associated with the development of
+mobile broadband, with major potential for growth in the medium term, such as machine to machine
+and mobile payment.
+
+The competitive scenario in the Italian mobile telecommunications market is dominated by
+Telecom Italia and also by the infrastructured operators (Vodafone, Wind, H3G) which are focused on
+different segments of the market or have different strategies.
+
+In addition to these operators, the field also includes mobile virtual operators (MVO), of which
+PosteMobile is the most important player. These operators currently have a limited share of the market,
+but continue to enjoy significant growth compared to infrastructured operators.
+
+BRAZIL
+
+At the end of 2014, the Brazilian mobile market reached 280.7 million lines. This is 3.6% more than last
+year and a penetration of 138.0% of the population (136.4% in 2013). Net total increases for 2014
+amounted to 9.6 million lines, 0.3 million more lines than for the prior year.
+
+Telecom Italia Group Competition | 54
+Report on Operations
+
+
+--- Page 41 ---
+
+CONSOLIDATED FINANCIAL POSITION AND
+CASH FLOWS PERFORMANCE
+
+NON-CURRENT ASSETS
+
+e Goodwill: increased by 11 million euros, from 29,932 million euros at the end of 2013 to 29,943
+million euros at December 31, 2014 as a result of the following items:
+— increase of 8 million euros due to the recognition of goodwill in relation to the acquisition of
+control of Rete A (Media Business Unit);
+— change in exchange rates for the Brazilian companies‘ (3 million euros).
+Further details are provided in the Note "Goodwill" in the consolidated financial statements at
+December 31, 2014 of the Telecom Italia Group.
+
+e Other intangible assets: were up 547 million euros, from 6,280 million euros at the end of 2013 to
+6,827 million euros at December 31, 2014, representing the balance of the following items:
+— capex (+2,422 million euros);
+— amortization charge for the year (-1,854 million euros);
+— disposals, exchange differences, reclassifications and other movements (for a net negative
+balance of 21 million euros).
+
+e Tangible assets: were up 168 million euros, from 13,219 million euros at the end of 2013 to 13,387
+million euros at December 31, 2014, representing the balance of the following items:
+— capex (+2,562 million euros);
+— depreciation charge for the year (-2,430 million euros);
+— disposals, impairment losses, exchange differences, reclassifications and other changes (for a
+net positive balance of 36 million euros).
+
+DISCONTINUED OPERATIONS/NON-CURRENT ASSETS
+HELD FOR SALE
+
+These related to the Sofora - Telecom Argentina group and included:
+
+e financial assets of 165 million euros;
+
+e non-financial assets of 3,564 million euros.
+
+For more details, see the Note "Discontinued operations/Non-current assets held for sale" in the
+consolidated financial statements of the Telecom Italia Group at December 31, 2014.
+
+CONSOLIDATED EQUITY
+
+Consolidated equity amounted to 21,699 million euros (20,186 million euros at December 31, 2013), of
+which 18,145 million euros attributable to Owners of the Parent (17,061 million euros at December 31,
+2013) and 3,554 million euros attributable to non-controlling interests (3,125 million euros at
+December 31, 2013).
+
+In greater detail, the changes in equity were the following:
+
+(1) The spot exchange rate used fo
+and 3.23068 at December 31,
+
+the translation into euro of the Brazilian real (expressed in terms of units of local currency per 1 euro) was 3.22489 at December 31, 2014
+13.
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance | 55
+Report on Operations
+
+
+--- Page 42 ---
+
+(millions of euros) 2014 2013
+At the beginning of the year 20,186 23,012
+Total comprehensive income (loss) for the year 1,539 (2,188)
+Dividends approved by: (343) (635)
+
+Telecom Italia S.p.A. (166) (452)
+
+Other Group companies (177) (183)
+Issue of equity instruments 64 1
+Effect of Rete A acquisition 40 =
+Effect of equity transactions of the Sofora - Telecom Argentina group 160 4
+Other changes 53 (8)
+At the end of the year 21,699 20,186
+CASH FLOWS
+
+Adjusted net financial debt at December 31, 2014 stood at 26,651 million euros, down 156 million
+
+euros compared to December 31, 2013 (26,807 million euros).
+
+Excluding the net financial assets of the Sofora - Telecom Argentina group, amounting to 122 million
+euros (630 million euros at December 31, 2013), the net financial debt would have decreased by 664
+
+million euros compared to December 31, 2013.
+
+The table below summarizes the main transactions that had an impact on the change in adjusted net
+
+financial debt during 2014:
+
+Change in adjusted net financial debt
+
+(millions of euros) 2014 2013 | Change |
+EBITDA 8,786 9,540 (754)
+Capital expenditures on an accrual basis (4,984) (4,400) (584)
+Change in net operating working capital: (464) (230) (234)
+Change in inventories 55 (23) 78
+Change in trade receivables and net amounts due from
+customers on construction contracts (125) 1074 (1,199)
+Change in trade payables (*) 72 (497) 569
+Other changes in operating receivables/payables (466) (784) 318
+Change in provisions for employee benefits (69) (49) (10)
+Change in operating provisions and Other changes (405) (58) (47)
+Net operating free cash flow 3,174 4,803 (1,629)
+% of Revenues 147 20.5 (5.8)pp
+Sale of investments and other disposals flow 238 62 176
+Share capital increases/reimbursements, including incidental
+costs 14 9 5
+Financial investments flow (32) 9) (23)
+Dividends payment (252) (637) 285
+Finance expenses, income taxes and other net non-operating
+requirements flow (2,478) (2,928) 450
+Reduction/(Increase) in adjusted net financial debt from
+continuing operations 664 1,400 (736)
+Reduction/(Increase) in net financial debt from Discontinued
+operations/Non-current assets held for sale (608) 67 (575)
+Reduction/(Increase) in adjusted net financial debt 156 1,467 (1,341)
+(*) Includes the change in trade payables for amounts due to fixed asset suppliers.
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance 56
+
+Report on Operations
+
+
+--- Page 43 ---
+
+In addition to what has already been described with reference to EBITDA, net financial debt during 2014
+was particularly impacted by the following items:
+
+Capital expenditures on an accrual basis
+
+The breakdown of capital expenditures by operating segment is as follows:
+
+(millions of euros) 2014 2013 | Change
+% of total % of total
+Domestic (*) 2,783 55.8 3,034 68.9 (248)
+Brazil 2,195 44.0 1,349 30.7 846
+Media and Other Operations (*) 6 02 20 04 (14)
+Adjustments and eliminations = = = = =
+Consolidated Total 4,984 100.0 4,400 100.0 584
+% of Revenues 23.1 18.8 4.3 pp
+
+(*) Starting from 2014, the Domestic Business Unit also includes the Olivetti group, in addition to Core Domestic and International Wholesale. The comparative period has been
+adjusted accordingly
+
+Capital expenditures in 2014 totaled 4,984 million euros, an increase of 584 million euros compared to
+
+2013. In particular:
+
+e the Domestic Business Unit reported capital expenditure down by 248 million euros compared to
+2013. This reduction was entirely attributable to the more traditional components of capex, and
+involved the abandonment of several platforms and the simplification of various industrial
+processes. A portion of these savings was targeted to the development of next generation networks
+(LTE and fiber networks, +156 million euros in capital expenditure compared to 2013), which
+reached 36% of network capex (28% in 2013). In addition, as already noted, in 2014, as a result of
+Telecom Italia's new market strategy of offering bundle deals for mobile telephony, the costs relating
+to subsidies to customers for the purchase of handsets are no longer recognized under capital
+expenditures on intangible assets. In 2013, 188 million euros was capitalized over the contractual
+period (24 - 30 months);
+
+e the Brazil Business Unit recorded an increase in capex of 846 million euros compared to 2013, due
+to a negative exchange rate effect of 110 million euros, without which the increase would have been
+956 million euros. The increase was essentially attributable to the allocation at the end of 2014 of
+the user rights for the 700MHz frequency for the development of the fourth-generation network on
+LTE technology, and the related incidental costs, as well as the costs for cleaning up the frequencies
+(freeing up of the spectrum licensed) totaling 936 million euros.
+
+Change in net operating working capital
+
+The change in net operating working capital for 2014 was a decrease of 464 million euros (decrease of
+
+230 million euros in 2013). In particular:
+
+e the change in inventories had a positive impact of 55 million euros, whereas the management of
+trade receivables generated a negative impact of 125 million euros mainly connected to the changes
+in the volumes of sales to factoring companies;
+
+e other changes in operating receivables/payables (-466 million euros) also included the payment by
+Telecom Italia S.p.A. of the fines and related interest imposed by AGCM of around 105 million euros
+in relation to the A428 Antitrust Proceedings, as well as higher net receivables of the Brazil Business
+Unit due from the local financial authorities for indirect taxes amounting to 100 million euros;
+
+e the change in operating provisions includes the effect of the full release of the remaining provisions,
+made in the 2009 consolidated financial statements for the Telecom Italia Sparkle affair, for a total
+of 84 million euros.
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance | 57
+Report on Operations
+
+
+--- Page 44 ---
+
+With reference to the capital increase reserved for employees of the Group, under the Broad-Based
+Share Ownership Plan concluded in July 2014, it should be noted that the items "Change in provisions
+for employee benefits" and "Share capital increases/(reimbursements, including incidental costs)" do
+not include the employee severance indemnity advances, amounting to 40 million euros, paid to
+employees of the companies of the Telecom Italia Group to allow them to subscribe to the Plan.
+
+Sale of investments and other disposals flow
+
+Sale of investments and other disposals flow for the year 2014 totaled 238 million euros and was
+
+mainly attributable to:
+
+e the receipt of 71 million euros, already net of the 4 million euros pledged as security, from the sale
+by Telecom Italia S.p.A. of a property located in Milan;
+
+e the receipt of 160 million euros from the sale to Fintech of the 17% non-controlling interest in
+Sofora; the amount does not include the other assets transferred at the same time as the shares, for
+an amount of around 10 million euros.
+
+In 2013, this item was positive and totaled for 62 million euros and was mainly attributable to:
+
+e the proceeds from the sale by Tierra Argentea (a company wholly owned by the Telecom Italia Group)
+to Fintech of Class B ordinary shares of Telecom Argentina S.A. and Class B preferred shares of
+Nortel Inversora S.A., for a total of 79 million euros;
+
+e the proceeds from the sale of the MTV group to Viacom International Media Networks (VIMN), of 11
+million euros;
+
+e the installment proceeds from the sale of the investment in EtecSA Cuba, which took place at the
+end of January 2011, of approximately 48 million euros;
+
+e the net requirement of approximately 110 million euros generated by the sale of La7 S.r.|. to Cairo
+Communication;
+
+e the proceeds from the sale of other tangible and intangible non-current assets of approximately 40
+million euros.
+
+Financial investments flow
+
+This item amounted to 32 million euros and mainly consisted of:
+
+e Qmillion euros for the acquisition of control by Telecom Italia S.p.A. over the company Trentino NGN
+S.r.l. on February 28, 2014, as the difference between the price paid (17 million euros) and the net
+cash acquired (8 million euros);
+
+e 21 million euros, for the acquisition, on June 30, 2014, of the controlling interest in Rete A S.p.A.
+now merged into Persidera S.p.A. (Media Business Unit). The transaction took place in the form of a
+contribution of the shares of Rete A as a subscription of a reserved capital increase and so the
+amount of the investment is represented by the net financial debt acquired.
+
+Finance expenses, income taxes and other net non-operating
+requirements flow
+
+Finance expenses, income taxes and other net non-operating requirements flow mainly consist of the
+payment, during 2014, of net finance expenses (1,684 million euros) and income taxes (427 million
+euros), as well as the change in non-operating receivables and payables. The income taxes flow includes
+the effect from the sale without recourse of IRES tax credits to a factoring company, which generated net
+proceeds of 231 million euros.
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance | 58
+Report on Operations
+
+
+--- Page 45 ---
+
+Net financial debt
+
+Net financial debt is composed as follows :
+
+(millions of euros) 12/31/2014 12/31/2013 Change
+(a) (b) (a-b)
+Non-current financial liabilities
+Bonds 23,440 23,514 (74)
+Amounts due to banks, other financial payables and liabilities 7,901 6,470 1,431
+Finance lease liabilities 984 1,100 (416)
+32,325 31,084 1,244
+Current financial liabilities (*)
+Bonds 2,645 2,513 132
+Amounts due to banks, other financial payables and liabilities 1,872 3,413 (1,544)
+Finance lease liabilities 169 193 (24)
+4,686 6,119 (4,433)
+Financial liabilities directly associated with Discontinued
+operations/Non-current assets held for sale 43 27 16
+Total Gross financial debt 37,054 37,230 (176)
+Non-current financial assets
+Securities other than investments (6) (6) =
+Financial receivables and other non-current financial assets (2,439) (1,250) (4,189)
+(2,445) (4,256) (4,189)
+Current financial assets
+Securities other than investments (1,300) (1,348) 48
+Financial receivables and other current financial assets (311) (283) (28)
+Cash and cash equivalents (4,812) (6,744) 932
+(6,423) (7,375) 952
+Financial assets relating to Discontinued operations/Non-
+current assets held for sale (165) (657) 492
+Total financial assets (9,033) (9,288) 255
+Net financial debt carrying amount 28,021. 27,942 79
+Reversal of fair value measurement of derivatives and related
+financial assets/liabilities (1,370) (1,135) (235)
+Adjusted net financial debt 26,651. 26,807 (156)
+Breakdown as follows:
+Total adjusted gross financial debt 34,421. 35,280 (859)
+Total adjusted financial assets (7,770) (8,473) 703
+(#) of which current portion of medium/long-term debt:
+Bonds 2,645 2,513 132
+Amounts due to banks, other financial payables and liabilities 1,413 2,938 (1,525)
+Finance lease liabilities 169 193 (24)
+
+The financial risk management policies of the Telecom Italia Group are aimed at diversifying market
+risks, fully hedging exchange rate risk, and optimizing interest rate exposure through appropriate
+diversification of the portfolio, which is also achieved by using carefully selected derivative financial
+instruments. Such instruments, it should be stressed, are not used for speculative purposes and all have
+
+an underlying, which is hedged.
+
+In addition, to determine its exposure to interest rates, the Group sets an optimum composition for the
+fixed-rate and variable-rate debt structure and uses derivative financial instruments to achieve that
+composition. Taking into account the Group's operating activities, the optimum mix of medium/long-term
+non-current financial liabilities has been established, on the basis of the nominal amount, at a range of
+
+65% - 75% for the fixed-rate component and 25% -
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance
+
+Report on Operations
+
+35% for the variable-rate component.
+
+59
+
+
+--- Page 46 ---
+
+In managing market risks, the Group has adopted Guidelines for the "Management and control of
+financial risk" and mainly uses IRS and CCIRS derivative financial instruments.
+
+To provide a better representation of the true performance of Net Financial Debt, from 2009, in addition
+to the usual indicator (renamed "Net financial debt carrying amount"), a measure called "Adjusted net
+financial debt" has also been shown, which neutralizes the effects caused by the volatility of financial
+markets. Given that some components of the fair value measurement of derivatives (contracts for
+setting the exchange and interest rate for contractual flows) and derivatives embedded in other financial
+instruments do not result in actual monetary settlement, the "Adjusted net financial debt" excludes
+these purely accounting and non-monetary effects (including the effects resulting from the introduction
+of IFRS 13 from January 1, 2013) from the measurement of derivatives and related financial
+assets/liabilities.
+
+Sales of receivables to factoring companies
+
+Sales of trade receivables to factoring companies completed during 2014 resulted in a positive effect on
+net financial debt at December 31, 2014 of 1,316 million euros (1,434 million euros at December 31,
+2013). On August 4, 2014, Telecom Italia S.p.A. sold IRES tax receivables without recourse for 303
+million euros. The sale of these receivables, which had arisen in 2012 pursuant to Decree Law 16/2012
+and were recognized in the 2012 financial statements at December, generated net proceeds and a
+positive impact on financial debt of 231 million euros.
+
+Gross financial debt
+
+Bonds
+
+Bonds at December 31, 2014 totaled 26,085 million euros (26,027 million euros at December 31,
+2013). Their nominal repayment amount was 24,914 million euros, up 29 million euros compared to
+December 31, 2013 (24,885 million euros).
+
+The change in bonds during 2014 is as follows:
+
+(millions of original currency) Currency | Amount | Issue date
+New issues
+
+Telecom Italia S.p.A. 1,000 million euros 4.500% maturing 1/25/2021 Euro 1,000 1/23/2014
+Telecom Italia S.p.A. USD 1,500 million 5.303% maturing 5/30/2024 uUsD 1,500 5/30/2014
+(millions of original currency) Currency | Amount | Repayment date
+Repayments
+
+Telecom Italia S.p.A. 284 million euros 7.875% Euro 284 1/22/2014
+Telecom Italia S.p.A. 750 million euros 7.750% 2) Euro 750 3/3/2014
+Telecom Italia S.p.A. 501 million euros 4.750% ®) Euro 501 5/19/2014
+Telecom Italia Capital S.A. USD 779 million 6.175% () uUsD 779 6/18/2014
+Telecom Italia Capital S.A. USD 528 million 4.950% uUsD 528 9/30/2014
+
+iO)
+@
+
+Js to a reduction ofthe equty content ital
+
+signed to the instrument, pursuant to
+
+tion folowing a Rating Methodology Event) of
+
+milion euros during 2008, 2012
+of USD 221 milion during 2013,
+of USD 722 milion during 2013,
+
+&)
+On March 18, 2014, Telecom Italia S.p.A. successfully concluded the buyback offer on four bond issues
+maturing between May 2014 and March 2016, buying back a total nominal amount of 599 million
+euros.
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance | 60
+Report on Operations
+
+
+--- Page 47 ---
+
+Details of the bond issues bought back are provided below:
+
+Bond Name Outstanding nominal amount | Repurchased nominal| Buyback price
+prior to the purchase offer amount
+(euro)
+(euro)
+Buybacks
+
+Telecom Italia S.p.A. - 750 million euros,
+maturing May 2014, coupon 4.75% 556,800,000 56,150,000 100.700%
+
+Telecom Italia S.p.A. - 750 million euros,
+maturing June 2015, coupon 4.625% 750,000,000 172,299,000 104.370%
+
+Telecom Italia S.p.A. - 1 billion euros,
+maturing January 2016, coupon 5.125% 1,000,000,000 228,450,000 106.587%
+
+Telecom Italia S.p.A. - 850 million euros,
+maturing March 2016, coupon 8.25% 850,000,000 142,020,000 112.913%
+
+In reference to the Telecom Italia S.p.A. 2002-2022 bonds, reserved for subscription by employees of
+the Group, at December 31, 2014, the figure was 196 million euros (nominal amount) and decreased by
+2 million euros compared to December 31, 2013 (198 million euros).
+
+Revolving Credit Facility and Term Loan
+The following table shows the composition and the draw down of the committed credit lines available at
+December 31, 2014:
+
+(billions of euros) 12/31/2014 12/34/2013
+Agreed} Drawn down Agreed Drawn down
+Revolving Credit Facility - expiring August 2014 - - 8.0 15
+Revolving Credit Facility - expiring May 2017 4.0 - - -
+Revolving Credit Facility - expiring March 2018 3.0 - - -
+Total 7.0 - 8.0 15
+
+On August 1, 2014, i.e. the date of expiry of the 8 billion euro committed Revolving Credit Facility, the
+amount drawn down of 1.5 billion euros was repaid.
+
+On the same date, the two RCFs became available for drawdown by a total of 7 billion euros. On May 24,
+2012 and on March 25, 2013, Telecom Italia S.p.A. had extended the Revolving Credit Facility
+amounting to 8 billion euros and expiring in August 2014 ("2014 RCF") by 4 and 3 billion euros
+respectively, through two Forward Start Facilities that would come into force at the end of the 2014 RCF.
+Telecom Italia also has a bilateral term loan expiring August 3, 2016, for 100 million euros from Banca
+Regionale Europea, drawn down for the full amount.
+
+On October 20, 2014, a bilateral term loan was signed with Cassa Depositi e Prestiti for an amount of
+150 million euros with a 5-year expiry, drawn down for the full amount.
+
+On November 10, 2014, a bilateral term loan was signed with Mediobanca for an amount of 200 million
+euros with a 5-year expiry, drawn down for the full amount.
+
+Maturities of financial liabilities and average cost of debt
+
+The average maturity of non-current financial liabilities (including the current portion of medium/long-
+term financial liabilities due within 12 months) is 7.10 years.
+
+The average cost of the Group's debt, considered as the cost for the year calculated on an annual basis
+and resulting from the ratio of debt-related expenses to average exposure, is about 5.4%.
+
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance | 64.
+Report on Operations
+
+
+--- Page 48 ---
+
+For details of the maturities of financial liabilities in terms of expected nominal repayment amounts, as
+contractually agreed, see the Notes "Financial liabilities (non-current and current)" in the consolidated
+financial statements at December 31, 2014 of the Telecom Italia Group.
+
+Current financial assets and liquidity margin
+
+The Telecom Italia Group's available liquidity margin amounted to 13,112 million euros at December
+31, 2014 (net of 135 million euros related to Discontinued Operations), corresponding to the sum of
+"Cash and cash equivalents" and "Current securities other than investments", totaling 6,112 million
+euros (7,092 million euros at December 31, 2013), and the committed credit lines, mentioned above, of
+which a total of 7,000 million euros has not been drawn down. This margin is sufficient to cover Group
+Financial Liabilities due beyond the next 24 months. The reduction in "Cash and cash equivalents"
+compared to December 31, 2013 reflected the trend in repayments/new issues, as well as the use of
+liquidity to repurchase Group bonds.
+
+In particular:
+
+Cash and cash equivalents amounted to 4,812 million euros (5,744 million euros at December 31,
+
+2013). The different technical forms of investing available cash at December 31, 2014 can be analyzed
+
+as follows:
+
+— Maturities: investments have a maximum maturity of three months;
+
+— Counterparty risk: investments by the European companies are made with leading banking, financial
+and industrial institutions with high credit quality. Investments by the companies in South America
+are made with leading local counterparties;
+
+— Country risk: deposits have been made mainly in major European financial markets.
+
+Current securities other than investments amounted to 1,300 million euros (1,348 million euros at
+
+December 31, 2013). These forms of investment represent alternatives to the investment of liquidity
+
+with the aim of improving returns. They consist of 254 million euros of Italian treasury bonds purchased
+
+by Telecom Italia S.p.A. and 656 million euros of Italian and European treasury bonds purchased by
+
+Telecom Italia Finance S.A.; 5 million euros of Italian Treasury Certificates (CCTs) (assigned to Telecom
+
+Italia S.p.A. as the holder of trade receivables, as per Italian Ministry of the Economy and Finance
+
+Decree of December 3, 2012); and 385 million euros of bonds purchased by Telecom Italia Finance S.A.
+
+with different maturities, all with an active market and consequently readily convertible into cash. The
+
+purchases of the above government bonds and CCTs, which, pursuant to Consob Communication
+
+DEM/11070007 of August 5, 2011, represent investments in "Sovereign debt securities", have been
+
+made in accordance with the Guidelines for the "Management and control of financial risk" adopted by
+
+the Telecom Italia Group since August 2012, in replacement of the previous policies in force.
+
+In the fourth quarter of 2014 adjusted net financial debt increased by 79 million euros compared to
+September 30, 2014. Cash flow from operations was offset not only by the tax disbursements of the last
+quarter but also by the greater needs, amounting to 0.9 billion euros, deriving from the payments
+already made for the purchasing of licenses in Brazil and Argentina.
+
+(millions of euros) 12/31/2014 9/30/2014 Change
+(a) (b) (a-b) |
+Net financial debt carrying amount 28,021 28,061 (40)
+Reversal of fair value measurement of derivatives and related Po
+financial assets/liabilities (1,370) (1,489) 119
+Adjusted net financial debt 26,651 26,572 79
+Breakdown as follows: Po
+Total adjusted gross financial debt 34,421 33,695 726
+Total adjusted financial assets (7,770) ———~*~<C««DBY)—~—S—~<C*«‘«t:*«SA*YCO
+Telecom Italia Group Consolidated Financial Position and Cash Flows Performance 62
+
+Report on Operations
+
+
+--- Page 49 ---
+
+CONSOLIDATED FINANCIAL STATEMENTS —
+TELECOM ITALIA GROUP
+
+The Telecom Italia Group consolidated financial statements for the year ended December 31, 2014 and
+the comparative figures for the prior year have been prepared in accordance with
+International Accounting Standards issued by the International Accounting Standards Board and
+adopted by the European Union ("IFRS").
+
+The accounting policies and consolidation principles adopted in the preparation of the consolidated
+financial statements at December 31, 2014 are the same as those adopted in the consolidated
+financial statements at December 31, 2013, except for the use of the new Standards and
+Interpretations adopted by the Group since January 1, 2014, whose effects are described in the notes
+to the consolidated financial statements at December 31, 2014, to which the reader is referred.
+
+The Telecom Italia Group, in addition to the conventional financial performance measures established
+by IFRS, uses certain alternative performance measures in order to present a better understanding of
+the trend of operations and financial condition. Specifically, these alternative performance measures
+refer to: EBITDA; EBIT; the organic change in revenues, EBITDA and EBIT; and net financial debt carrying
+amount and adjusted net financial debt.
+
+Starting from 2014, Telecom Italia has revised the method for calculating the organic change in
+revenues, EBITDA and EBIT, no longer taking non-organic income/expenses, also including non-
+recurring items, into that calculation, as it did in the past. As a result, organic changes now include only
+the effects of the change in the scope of consolidation and of exchange differences. Figures for the
+periods under comparison have been reclassified accordingly. Further details on such measures are
+presented under "Alternative performance measures".
+
+Moreover, the part entitled "Business Outlook for the Year 2015" contains forward-looking statements in
+relation to the Group's intentions, beliefs or current expectations regarding financial performance and
+other aspects of the Group's operations and strategies. Readers of the Annual Report are reminded not
+to place undue reliance on forward-looking statements; actual results may differ significantly from
+forecasts owing to numerous factors, the majority of which are beyond the scope of the Group's control.
+
+PRINCIPAL CHANGES IN THE SCOPE OF CONSOLIDATION
+
+The following changes occurred during 2014:
+
+° Telecom Italia Ventures S.r.l. (Domestic Business Unit): established in July 2014;
+
+e Rete A S.p.A. (Media Business Unit): on June 30, 2014 Persidera S.p.A. (former TI Media
+Broadcasting S.r.l.) acquired 100% of the company. As a result Rete A entered the Group's scope of
+consolidation and was consolidated on a line-by-line basis. The merger of Rete A into Persidera was
+completed on December 1, 2014;
+
+e  TIMB2 S.r.l. (Media Business Unit): established in May 2014;
+
+e Trentino NGN S.r.l. (Domestic Business Unit): on February 28, 2014 the Telecom Italia Group
+acquired the controlling interest in the company, which is now part of the Group's scope of
+consolidation.
+
+The following changes in the scope of consolidation occurred during 2013:
+
+e MTV group (Media Business Unit): on September 12, 2013 Telecom Italia Media completed the sale
+of 51% of MTV Italia S.r.l. and of its wholly-owned subsidiary MTV Pubblicita S.r.l. As a result, these
+companies are no longer consolidated;
+
+e La7 S.r.l. (Media Business Unit): on April 30, 2013 Telecom Italia Media completed the sale of La7
+S.r1; as a result, the company is no longer consolidated.
+
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group 63
+Report on Operations
+
+
+--- Page 50 ---
+
+Sofora - Telecom Argentina group: On November 13, 2013, Telecom Italia Group accepted the offer for
+the purchase of the entire controlling interest in the Sofora - Telecom Argentina group; as a result, the
+investment was classified as Discontinued Operations (Discontinued operations/Non-current assets
+held for sale). Pursuant to IFRS 5 (Non-current Assets Held for Sale and Discontinued Operations), the
+income statement results of the Sofora - Telecom Argentina group for 2014 and the corresponding
+comparative periods have been presented in the Separate Consolidated Income Statement under the
+specific item "Profit (loss) from Discontinued operations/Non-current assets held for sale", while the
+balance sheet data has been presented in two separate line items in the consolidated statements of
+financial position.
+
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group 64
+Report on Operations
+
+
+--- Page 51 ---
+
+Separate Consolidated Income Statements
+
+(millions of euros) 2014 2013 Change
+(ab)
+(a) (b)| amount | %
+
+Revenues 21,573 23,407 (1,834) (7.8)
+Other income 401 324 77 23.8
+Total operating revenues and other income 21,974 23,734 (1,757) (7.4)
+Acquisition of goods and services (9,430) (10,377) 947 9.4
+Employee benefits expenses (3,119) (3,087) (32) (1.0)
+Other operating expenses (4,175) (1,318) 143 10.8
+Change in inventories (52) 48 (100) -
+Internally generated assets 588 543 45 8.3
+Operating profit before depreciation and amortization,
+capital gains (losses) and impairment reversals (losses)
+on non-current assets (EBITDA) 8,786 9,540 (754) (7.9)
+Depreciation and amortization (4,284) (4,553) 269 59
+Gains (losses) on disposals of non-current assets 29 (82) 441 -
+Impairment reversals (losses) on non-current assets (1) (2,187) 2,186 -
+Operating profit (loss) (EBIT) 4,530 2,718 1,812 66.7
+‘Share of losses (profits) of associates and joint ventures
+accounted for using the equity method (5) - (5) -
+Other income (expenses) from investments 16 (3) 19 -
+Finance income 2,400 2,003 397 19.8
+Finance expenses (4,594) (4,186) (408) (9.7)
+Profit (loss) before tax from continuing operations 2,347 532 1,815 -
+Income tax expense (928) (4,141) 183 16.5
+Profit (loss) from continuing operations 1,419 (579) 1,998 -
+Profit (loss) from Discontinued operations/Non-current.
+assets held for sale 541 341 200 58.7
+Profit (loss) for the year 1,960 (238) 2,198 -
+Attributable to:
+
+Owners of the Parent 1,350 (674) 2,024 -
+
+Non-controlling interests 610 436 174 39.9
+
+Telecom Italia Group
+Report on Operations
+
+Consolidated Financial Statements - Telecom Italia Group
+
+65
+
+
+--- Page 52 ---
+
+Consolidated Statements of Comprehensive Income
+
+In accordance with IAS 1 (Presentation of Financial Statements), the following consolidated statements
+of comprehensive income include the Profit (Loss) for the year as shown in the Separate Consolidated
+
+Income Statements and all non-owner changes in equity.
+
+(millions of euros) 2014 2013
+
+Profit (loss) for the year (a) 1,960 (238)
+
+Other components of the Consolidated Statements of Comprehensive
+
+Income:
+
+Other components that subsequently will not be reclassified in the
+
+Separate Consolidated Income Statements
+
+Remeasurements of employee defined benefit plans (IAS 19):
+
+Actuarial gains (losses) (209) (29)
+
+Net fiscal impact 53 7
+(b) (156) (22)
+
+Share of other profits (losses) of associates and joint ventures accounted
+
+for using the equity method:
+
+Profit (loss) - =
+
+Net fiscal impact - =
+(c) > =
+
+Total other components that subsequently will not be reclassi
+
+Separate Consolidated Income Statements (d=bte) (156) (22)
+
+Other components that subsequently will be reclassified in the Separate
+
+Consolidated Income Statements
+
+Available-for-sale financial assets:
+
+Profit (loss) from fair value adjustments 74 3
+
+Loss (profit) transferred to the Separate Consolidated Income Statements (23) (41)
+
+Net fiscal impact (45) 4
+(e) 36 (4)
+
+Hedging instruments:
+
+Profit (loss) from fair value adjustments 767 (663)
+
+Loss (profit) transferred to the Separate Consolidated Income Statements (871) 314
+
+Net fiscal impact 28 71
+(f) (76) (178)
+
+Exchange differences on translating foreign operations:
+
+Profit (loss) on translating foreign operations (225) (4,747)
+
+Loss (profit) on translating foreign operations transferred to the Separate
+
+Consolidated Income Statements - -
+
+Net fiscal impact - =
+@ (225) (4,747)
+
+Share of other profits (losses) of associates and joint ventures accounted
+
+for using the equity method:
+
+Profit (loss) = 1
+
+Loss (profit) transferred to the Separate Consolidated Income Statements = =
+
+Net fiscal impact = =
+(hy - 1
+
+Total other components that subsequently will be reclassified to the
+
+Separate Consolidated Income Statements (ire+ftgth) (265) (4,928)
+
+Total other components of the Consolidated Statements of
+
+Comprehensive Income (k=d+i) (421) (4,950)
+
+Total comprehensive income (loss) for the year (atk) 1,539 (2,188)
+
+Attributable to:
+
+Owners of the Parent 1,123 (4,758)
+Non-controlling interests 416 (430)
+
+Telecom Italia Group
+Report on Operations
+
+Consolidated Financial Statements - Telecom Italia Group
+
+66
+
+
+--- Page 53 ---
+
+Consolidated Statements of Financial Position
+
+(millions of euros) 12/31/2014 12/31/2013 Change
+(a) (b) (a-b)
+Assets
+Non-current assets
+Intangible assets
+Goodwill 29,943 29,932 a1
+Other intangible assets 6827, 46280 S547.
+36,770 36,212 558
+Tangible assets Po
+Property, plant and equipment owned 125445 12,299 245
+Assets held under finance leases 843 920 (77)
+13387, = «13,219sti(‘«éWN
+Other non-current assets
+Investments in associates and joint ventures accounted for using the
+equity method 36 65 (29)
+Other investments 43 42 1
+Non-current financial assets 2445, 1,256 «1,189
+Miscellaneous receivables and other non-current assets 1871 1,607 (36)
+Deferred tax assets 141g) 089 78
+5,213 4,009 1,204
+Total Non-current assets (a) 55370, 53,440 1,930
+Current assets Po
+Inventories 313 365 (62)
+Trade and miscellaneous receivables and other current assets 5615, 5389 226
+Current income tax receivables 101 123 (22)
+Current financial assets [TO
+Securities other than investments, financial receivables and other
+current financial assets 1,611 1,631 (20)
+‘Cash and cash equivalents 4812, 5,744 (932).
+6,423 7,375 (952)
+Current assets sub-total 12,452 13,252 (800)
+Discontinued operations/Non-current assets held for sale
+of a financial nature 165 657 (492)
+of a non-financial nature 3564, 287193
+3,729 3,528 201
+Total Current assets (b) i6isi/ + +16,780 (599)
+Total Assets (atb) 71551 70,220 1,331
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group 67
+
+Report on Operations
+
+
+--- Page 54 ---
+
+(millions of euros) 12/31/2014 12/31/2013 Change
+(a) (b) (ab)
+Equity and Liabilities
+Equity
+Equity attributable to owners of the Parent 18,145 17,061 1,084
+Non-controlling interests 3,554 3,125 429
+Total Equity () 21,699 20,186 1,513
+Non-current liabilities
+Non-current financial liabilities 32,325 31,084 41,241
+Employee benefits 1,056 889 167
+Deferred tax liabilities 438 234 204
+Provisions 720 699 21
+Miscellaneous payables and other non-current liabilities 697 779 (82)
+Total Non-current liabilities (@ 35,236 33,685 1,551
+Current liabilities
+Current financial liabilities 4,686 6,119 (1,433)
+Trade and miscellaneous payables and other current liabilities 8,376 8,649 (273)
+Current income tax payables 36 20 16
+Current liabilities sub-total 13,098 14,788 (4,690)
+Liabilities directly associated with Discontinued operations/Non-
+current assets held for sale
+of a financial nature 43 27 16
+of a non-financial nature 1,475 1,534 (69)
+1,518 1,561 (43)
+Total Current Liabilities (e) 14,616 16,349 (4,733)
+Total Liabilities (fFd+e) 49,852 50,034 (182)
+Total Equity and Liabilities (c+) 71,551 70,220 1,334
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group 68
+
+Report on Operations
+
+
+--- Page 55 ---
+
+Consolidated Statements of Cash Flows
+
+(millions of euros) 2014 2013
+Cash flows from operating activities:
+Profit (loss) from continuing operations 1,419 (679)
+Adjustments for:
+Depreciation and amortization 4,284 4,553
+Impairment losses (reversals) on non-current assets (including investments) 13 2,197
+Net change in deferred tax assets and liabilities 187 347
+Losses (gains) realized on disposals of non-current assets (including
+investments) (29) 82
+Share of losses (profits) of associates and joint ventures accounted for using
+the equity method 5 -
+Change in employee benefits (59) (49)
+Change in inventories 55 (23)
+Change in trade receivables and net amounts due from customers on
+construction contracts (125) 1,074
+Change in trade payables (325) (489)
+Net change in current income tax receivables/payables 355, (104)
+Net change in miscellaneous receivables/payables and other
+assets/liabilities (583) (268)
+Cash flows from (used in) operating activities (a) 5,197 6,741
+Cash flows from investing activities:
+Purchase of intangible assets on an accrual basis (2,422) (1,895)
+Purchase of tangible assets on an accrual basis (2,562) (2,505)
+Total purchase of intangible and tangible assets on an accrual basis (4,984) (4,400)
+Change in amounts due to fixed asset suppliers 325 9
+Total purchase of intangible and tangible assets on a cash basis (4,659) (4,391)
+Acquisition of control in subsidiaries or other businesses, net of cash
+acquired (9) (8)
+Acquisitions/disposals of other investments (2) =
+Change in financial receivables and other financial assets (4,118) 604
+Proceeds from sale that result in a loss of control of subsidiaries or other
+businesses, net of cash disposed of - (104)
+Proceeds from sale/repayment of intangible, tangible and other non-current
+assets 78 88
+Cash flows from (used in) investing activities (b) (5,710) (3,811)
+Cash flows from financing activities:
+Change in current financial liabilities and other 1,305 (1,785)
+Proceeds from non-current financial liabilities (including current portion) 4,377 4,153
+Repayments of non-current financial liabilities (including current portion) (6,877) (5,551)
+Share capital proceeds/reimbursements (including subsidiaries) 14 9
+Dividends paid (252) (637)
+Changes in ownership interests in consolidated subsidiaries 160 79
+Cash flows from (used in) financing activities (©) (273) (3,632)
+Cash flows from (used in) Discontinued operations/Non-current assets held
+for sale (a) (499) 127
+‘Aggregate cash flows (e=atbte+d) (4,285) (875)
+Net cash and cash equivalents at beginning of the year 0) 6,296 7,397
+Net foreign exchange differences on net cash and cash equivalents @ (101) (626)
+Net cash and cash equivalents at end of the year (h=e+f+g) 4,910 6,296
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group 69
+
+Report on Operations
+
+
+--- Page 56 ---
+
+Additional Cash Flow Information
+
+(millions of euros) 2014 2013
+Income taxes (paid) received (427) (863)
+Interest expense paid (4,985) (4,456)
+Interest income received 3,301 2,729
+Dividends received 5 2
+Analysis of Net Cash and Cash Equivalents
+(millions of euros) 2014 2013
+Net cash and cash equivalents at beginning of the year
+Cash and cash equivalents - from continuing operations 5,744 6,947
+Bank overdrafts repayable on demand - from continuing operations (64) (39)
+Cash and cash equivalents - from Discontinued operations/Non-current
+assets held for sale 616 489
+Bank overdrafts repayable on demand - from Discontinued operations/Non-
+current assets held for sale - -
+6,296 7,397
+Net cash and cash equivalents at end of the year
+Cash and cash equivalents - from continuing operations 4,812 5,744
+Bank overdrafts repayable on demand - from continuing operations (19) (64)
+Cash and cash equivalents - from Discontinued operations/Non-current
+assets held for sale 417 616
+Bank overdrafts repayable on demand - from Discontinued operations/Non-
+current assets held for sale - -
+4,910 6,296
+Telecom Italia Group Consolidated Financial Statements - Telecom Italia Group | 70
+
+Report on Operations
+
+
+--- Page 57 ---
+
+ANALYSIS OF THE MAIN CONSOLIDATED FINANCIAL AND
+
+OPERATING ITEMS
+
+Acquisition of goods and services
+
+(millions of euros) 2014 a Change
+Purchases of goods 2,231 2,358 (127)
+Revenues due to other TLC operators and interconnection
+costs 2,403 2,949 (546)
+Commercial and advertising costs 1,473 1,565 (92)
+Power, maintenance and outsourced services 1,336 1,353 (47)
+Rent and leases 742 755 (43)
+Other service expenses 1,245 1,397 (152)
+Total acquisition of goods and services 9,430 10,377 (947)
+% of Revenues 43.7 44.3 (0.6)pp
+Employee benefits expenses
+(millions of euros) 2014 2013 | Change
+Employee benefits expenses - Italy 2,705 2,707 (2)
+Ordinary employee expenses and costs 2,697 2,688 9
+Restructuring expenses 8 19 (44)
+Employee benefits expenses - Outside Italy 414 380 34
+Ordinary employee expenses and costs 410 380 30
+Restructuring expenses 4 - 4
+Total employee benefits expenses 3,119 3,087 32
+% of Revenues 14.5 13.2 1.3pp
+Average salaried workforce
+(equivalent number) 2014 2013 | Change
+Average salaried workforce - Italy 47,519 48,541 (4,022)
+Average salaried workforce - Outside Italy 11,766 10,986 780
+Total average salaried workforce ® 59,285 59,527 (242)
+Non-current assets held for sale - Sofora - Telecom Argentina
+group 15,652 15,815 (163)
+Total average salaried workforce - including Non-current
+assets held for sale 74,937 75,342 (405)
+(1) _ Includes employees with temp work contracts: Average of 9 in 2014 (4 in Italy and 5 outside Italy). Average of 20 in 2013 (19 in Italy and 1 outside Italy).
+Headcount at year end
+(number) 12/31/2014 12/31/2013 Change
+Headcount - Italy 52,882 53,155 (273)
+Headcount - Outside Italy 13,143 12,468 675
+Total headcount at year end‘) 66,025 65,623 402
+Non-current assets held for sale -
+Sofora - Telecom Argentina group 16,420 16,575 (155)
+Total headcount at year end - including Non-current assets
+held for sale 82,445 82,198 247
+
+(1) Includes employees with temp work contracts: 9 at December 31, 2014, and 4 at December 31, 2013,
+
+Telecom Italia Group
+Report on Operations
+
+Consolidated Financial Statements - Telecom Italia Group
+
+72
+
+
+--- Page 58 ---
+
+Headcount at year-end - Breakdown by Business Unit
+
+(number) 12/31/2014 12/31/2013 Change
+Domestic") 53,076 53,377 (304)
+Brazil 12,841 12,140 704
+Media 89 84 5
+Other Operations 19 22 8)
+Total 66,025 65,623 402
+
+(*) Starting from 2014, the Domestic Business Unit also includes the Olivetti group, in addition to Core Domestic and Inter
+
+adjusted accordingly.
+
+Other income
+
+rmational Wholesale. The comparative period has been
+
+(millions of euros) 2014 2013 | Change
+Late payment fees charged for telephone services 64 63 1
+Recovery of employee benefit expenses, purchases and
+
+services rendered 27 28 (1)
+Capital and operating grants 26 27 (a)
+Damage compensation, penalties and sundry recoveries 36 64 (28)
+Other income 248 142 106
+Total 401 324 7
+Other operating expenses
+
+(millions of euros) 2014 2013 | Change
+Write-downs and expenses in connection with credit
+
+management 375 380 6)
+Provision charges 84 400 (16)
+TLC operating fees and charges 449 482 (33)
+Indirect duties and taxes 118 128 (10)
+Penalties, settlement compensation and administrative fines 68 72 (4)
+Association dues and fees, donations, scholarships and
+
+traineeships 18 22 (4)
+‘Sundry expenses 63 134 (74)
+Total 4,175 1,318 (143)
+
+Telecom Italia Group
+Report on Operations
+
+Consolidated Financial Statements - Telecom Italia Group
+
+72
+
+
+--- Page 59 ---
+
+RESEARCH AND DEVELOPMENT
+
+With regard to "Research and Development", this subject is discussed in a specific paragraph of the
+Sustainability Section of this Report on Operations, in the chapter "The Community".
+
+EVENTS SUBSEQUENT TO DECEMBER 31, 2014
+
+For details of subsequent events see the specific Note "Events Subsequent to December 31, 2014" in
+the consolidated and separate financial statements at December 31, 2014 of the Telecom Italia Group
+and Telecom Italia S.p.A., respectively.
+
+BUSINESS OUTLOOK FOR THE YEAR 2015
+
+In 2015, the telecommunications market will continue to experience a decline in traditional services
+(voice and accesses), partly offset by the increase in revenues from innovative services thanks to the
+growing demand for connectivity and digital services. The combined effect of these trends is expected to
+cause a further overall decline in the domestic market, but much more limited than in previous years,
+particularly in the Mobile segment. In Brazil the forecast is for growth, albeit at slower rates than in
+previous years, as a result of the steady penetration and saturation of the Mobile market, as well as the
+migration from traditional voice-SMS messaging services to Internet services and the impact of the
+reduction in mobile termination rates (MTRs).
+
+In this scenario, the Telecom Italia Group - as announced in the 2015-2017 Plan - will continue to
+defend its market shares and invest in the development of infrastructures, with a sharp increase in
+investments in innovative components. Specifically, the five areas of technology development will be
+fixed fiber optic ultrabroadband, mobile ultrabroadband, the establishment of new data centers to
+support cloud services, international fiber connections, and the transformation of industrial process to
+structurally reduce running costs by streamlining and upgrading infrastructures.
+
+The aim of the additional investment is to create the conditions for revenue stabilization and recovery,
+based increasingly on the spread of innovative services with digital content.
+
+Investments within the Domestic perimeter will total around 10 billion euros over the plan period, of
+which around 5 billion euros exclusively for the innovative component (NGN, LTE, Cloud Computing, Data
+Center, Sparkle and Restructuring) which, by 2017, will enable 75% of the population to be reached by
+fiber optics and over 95% by 4G. In Brazil, investments will rise to 14 billion reais (over 4 billion euros at
+current exchange rates) with the objective of extending 4G coverage to over 15,000 sites and 3G
+coverage to over 14,000 sites by 2017.
+
+In this scenario, management - in keeping with the developments identified in the 2015-2017 Three-
+Year Plan - expects to see a progressive improvement in operating performance for the current year in
+both the Domestic market (with the objective of EBITDA stabilization by 2016) and in Brazil.
+
+Telecom Italia Group Research and Development| 73
+Report on Operations
+
+
+--- Page 60 ---
+
+MAIN RISKS AND UNCERTAINTIES
+
+The business outlook for 2015 could be affected by risks and uncertainties caused by a multitude of
+factors, the majority of which are beyond the Group's control.
+
+In such a scenario, risk management becomes a strategic tool for value creation. The Telecom Italia
+Group has adopted an Enterprise Risk Management Model based on the methodology of the Committee
+of Sponsoring Organizations of the Treadway Commission (ERM CoSO Report), which enables the
+identification and management of risk in a uniform manner within the Group companies, highlighting
+potential synergies between the actors involved in the assessment of the Internal Control and Risk
+Management System. The ERM process is designed to identify potential events that may affect the
+business, to manage risk within acceptable limits and to provide reasonable assurance regarding the
+achievement of corporate objectives.
+
+The main risks affecting the business activities of the Telecom Italia Group, which may impact, even
+significantly, the ability to achieve the objectives of the Group are presented below.
+
+Strategic risks
+
+Risks related to macro economic factors
+
+The Group's economic and financial situation is subject to the influence of numerous macro economic
+factors such as economic growth, political stability, consumer confidence, and changes in interest rates
+and exchange rates in the markets in which it operates. The expected results may be affected, in the
+domestic market, by the struggling economic recovery associated with a high rate of unemployment,
+with the consequent reduction in income available for consumption and, in Brazil, generally by the
+slowdown in economic growth.
+
+In addition, the Telecom Italia Group is currently undertaking numerous transactions, including
+corporate and extraordinary transactions, whose feasibility and completion could be affected by factors
+outside the control of management, such as political and regulatory factors, currency exchange
+restrictions, etc.
+
+Risks related to competition
+
+The telecommunications market is characterized by strong competition that may reduce our market
+share and lower prices and margins. Competition is focused both on innovative products and services,
+and the price of traditional services.
+
+Operational risks
+
+Operational risks inherent in our business relate to possible inadequacies in internal processes, external
+factors, fraud, employee error, errors in properly documenting transactions, loss of critical or
+commercially sensitive data and failures in systems or network platforms.
+
+Risks related to business continuity
+
+Our success depends heavily on the ability to deliver the services we provide through the IT
+infrastructure and network on a continuous and uninterrupted basis. The infrastructure is susceptible to
+interruptions due to failures of information and communication technologies, lack of electricity, floods,
+storms and human errors. Unexpected problems in installations, system failures, hardware and software
+failures, computer viruses or hacker attacks could affect the quality of services and cause service
+interruptions. Each of these events could result in a reduction in traffic and a reduction in revenues
+and/or in an increase of restoration costs, with an adverse impact on the level of customer satisfaction
+and number of customers, as well as our reputation.
+
+Risks related to the development of fixed and mobile networks.
+
+To maintain and expand our customer portfolio in each of the markets in which we operate, it is
+necessary to maintain, update and improve existing networks in a timely manner. A reliable and high
+quality network is necessary to maintain the customer base and minimize the terminations to protect
+
+Telecom Italia Group Main risks and uncertainties | 74
+Report on Operations
+
+
+--- Page 61 ---
+
+the Company's revenues from erosion. The maintenance and improvement of existing installations
+
+depend on our ability to:
+
+e upgrade the capabilities of the networks to provide customers with services that are closer to their
+needs;
+
+e increase the geographical coverage of innovative services;
+
+e upgrade old systems and networks to adapt them to new technologies.
+
+Risks of internal/external fraud
+
+The Group has adopted an organizational model to prevent fraud. However, the implementation of this
+model cannot ensure the total absence of these risks. Dishonest activities and illegal acts committed by
+people inside and outside the organization could adversely affect the Company's operating results,
+financial position and image.
+
+Risks related to Disputes and Litigation
+
+The Group has to deal with disputes and litigation with tax authorities, regulators, competition
+authorities, other telecommunications operators and other entities. The possible impacts of such
+proceedings are generally uncertain. In the event of settlement unfavorable to the Group, these issues
+may, individually or as whole, have an adverse effect on its operating results, financial position and cash
+flows.
+
+Financial risks
+
+The Telecom Italia Group may be exposed to financial risks such as risks arising from fluctuations in
+interest rates and exchange rates, credit risk, liquidity risk and risks related to the performance of the
+equity markets in general, and - more specifically - risks related to the performance of the share price
+of the Group companies. These risks may adversely impact the earnings and the financial structure of
+the Group. Accordingly, to manage those risks, Telecom Italia Group has established guidelines, at
+central level, which must be followed for operational management, identification of the most suitable
+financial instruments to meet set goals, and monitoring the results achieved. In particular, in order to
+mitigate the liquidity risk, the Group aims to maintain an "adequate level of financial flexibility", in terms
+of cash and syndicated committed credit lines, enabling it to cover refinancing requirements at least for
+the next 12 - 18 months.
+
+Regulatory and Compliance Risks
+
+Regulatory risks
+
+The telecommunications industry is highly regulated. In this context, new decisions by the regulator and
+
+changes in the regulatory environment may affect the expected results of the Group. More specifically,
+
+the elements which introduce uncertainty are:
+
+e lack of predictability in the timing of the introduction and consequent results of new processes;
+
+e decisions with retroactive effect (i.e. revision of prices relating to prior years as a result of an
+administrative judgment) with potential impact on the timing of return on investment;
+
+e decisions that can influence the technological choices made and to be made, with potential impact
+on the timing of return on investment.
+
+Compliance risks
+
+The Telecom Italia Group may be exposed to risks of non-compliance due to non-observance/ breach of
+internal (self-regulation such as, for example, bylaws, code of ethics) and external rules (laws and
+regulations), with consequent judicial or administrative penalties, financial losses or reputational
+damage.
+
+The Group aims to ensure that processes, procedures, systems and corporate conduct comply with legal
+requirements. There may be some necessary time lags in making the processes compliant when non-
+conformity has been identified.
+
+Telecom Italia Group Main risks and uncertainties | 75
+Report on Operations
+
+
+--- Page 62 ---
+
+INFORMATION FOR INVESTORS
+
+TELECOM ITALIA S.p.A. SHARE CAPITAL AT DECEMBER 31,
+2014
+
+Share capital 10,723,391,861.60 euros
+Number of ordinary shares (without nominal value) 13,470,955,451
+Number of savings shares (without nominal value) 6,026,120,661
+Number of Telecom Italia S.p.A. ordinary treasury shares 37,672,014
+Number of Telecom Italia S.p.A. ordinary shares held by Telecom Italia Finance 124,544,373
+SA.
+
+Percentage of ordinary treasury shares held by the Group to total share capital 0.83%
+Market capitalization (based on December 2014 average prices) 16,568 million euros
+
+The ordinary and savings shares of Telecom Italia S.p.A. and Telecom Italia Media S.p.A. are listed in
+Italy (FTSE index) whereas the ordinary shares of Tim Participacdes S.A. are listed in Brazil (BOVESPA
+index). The Telecom Italia S.p.A. ordinary and savings shares and the Tim Participagdes S.A. ordinary
+shares are also listed on the New York Stock Exchange (NYSE). The shares are listed through American
+Depositary Shares (ADS) representing, respectively, 10 ordinary shares and 10 savings shares of
+Telecom Italia S.p.A. and 5 ordinary shares of Tim Participagdes S.A..
+
+SHAREHOLDERS
+
+Composition of Telecom Italia S.p.A. shareholders according to the Shareholders Book at
+December 31, 2014, supplemented by communications received and other available sources of
+information (ordinary shares):
+
+TELECOM ITALIA ITALIAN
+
+GROUP INSTITUTIONAL
+1.20% INVESTORS
+3.54%
+
+TELCO
+22.30%
+
+OTHER FOREIGN
+SHAREHOLDERS! FOREIGN
+OTHER ITALIAN
+0.07% SHAREHOLDERS INSTITUTIONAL
+
+14.54Y INVESTORS.
+) 54.56%
+FOREIGN ITALIAN
+COMPANIES COMPANIES
+
+3.02% 0.77%
+
+The shareholders of Telco (whose capital with voting rights at the date of December 31, 2014 was as
+follows: Generali group - 30.58%; Mediobanca S.p.A. - 11.62%; Intesa Sanpaolo S.p.A. - 11.62%;
+Telefonica S.A. - 46.18%) signed a shareholders’ agreement, relevant for Telecom Italia pursuant to
+Legislative Decree 58/1998, art. 122. The description of the basic contents of the agreement is
+contained in the Report on the Corporate Governance and Share Ownership Structure, posted on the
+website: www.telecomitalia.com.
+
+Telecom Italia Group Information for Investors| 76
+Report on Operations
+
+
+--- Page 63 ---
+
+On June 16, 2014, Generali, Intesa Sanpaolo and Mediobanca also exercised the right to ask for the
+demerger of Telco in accordance with the shareholders' agreement. As a result, on June 26, the board of
+directors of Telco approved the partial non-proportional demerger of the company, which will result in an
+allocation, to the four newly-established beneficiary companies (each fully controlled by each of the
+shareholders Telef6nica, Mediobanca, Generali and Intesa Sanpaolo), of the respective interests held by
+Telco in Telecom Italia - updated due to the effect of the dilution of the Telco investment in the ordinary
+share capital of Telecom Italia S.p.A., resulting from the issuance of new ordinary shares for the
+execution, effective from July 31, 2014, of the 2014 Broad-Based Share Ownership Plan - and therefore
+specifically: 14.72% to the newco controlled by Telefénica, to 4.30% to the newco of the Generali group,
+and 1.64% to each of the newcos controlled respectively by Intesa Sanpaolo and Mediobanca. The
+demerger resolution was passed by the extraordinary shareholders' meeting of Telco on July 9, 2014. As
+of the effective date of the demerger all the effects of the shareholders' agreement in place between the
+shareholders of Telco shall cease.
+
+Under the demerger plan the transaction is subject, among other things, to obtaining the authorizations
+from Conselho Administrativo de Defesa Econémica (CADE, Brazilian antitrust authority), Agéncia
+Nacional de Telecomunicagées (Anatel, Brazilian regulatory authority), Comisién Nacional de Defensa de
+la Competencia (CNDC, Argentine antitrust authority) and Istituto per la Vigilanza sulle Assicurazioni
+(IVASS formerly ISVAP, Italian regulatory authority of insurance companies).
+
+To date IVASS and Anatel have issued their authorizations. There is no information available on the
+status of the authorization procedures with the CADE and CNDC. As far as the Company is concerned
+directly, Anatel has issued its approval subject, among other things, to the suspension of all political
+rights of Telefénica in Telecom Italia and its subsidiaries, ordering that this limitation be added by
+Telecom Italia S.p.A. to its Company Bylaws. Compliance with this provision must be proved by filing an
+authenticated copy of the amended Bylaws with the Authority.
+
+MAJOR HOLDINGS IN SHARE CAPITAL
+
+At December 31, 2014, taking into account the entries in the Shareholders Book, communications sent
+to Consob and the Company pursuant to Legislative Decree 58 of February 24, 1998, art. 120 and other
+sources of information, the relevant shareholders of Telecom Italia S.p.A.'s ordinary share capital are as
+follows:
+
+Holder Type of ownership Percentage of ownership
+Telco S.p.A. Direct 22.30%
+Findim Group S.A. Direct 497%
+People's Bank of China Direct 2.07%
+Specifically:
+
+e On March 12, 2014, Blackrock Inc. notified Consob that, as an asset management company, it
+indirectly held a quantity of ordinary shares equal to 4.79% of the total ordinary shares of Telecom
+Italia S.p.A. at December 31, 2014.
+
+e On February 4, 2015, Findim Group S.A. notified Consob that it held a quantity of ordinary shares
+equal to 1.99% of total ordinary shares of Telecom Italia S.p.A., which is below the threshold of 2%
+for a significant holding.
+
+COMMON REPRESENTATIVES
+
+e The special meeting of the savings shareholders held on May 22, 2013 elected Dario Trevisan as the
+common representative for three financial years (up to the approval of the financial statements for
+the year ended December 31, 2015).
+
+Telecom Italia Group Information for Investors | 77
+Report on Operations
+
+
+--- Page 64 ---
+
+e By decree of April 11, 2014, the Milan Court confirmed the appointment of Enrico Cotta Ramusino
+(already appointed by decree of March 7, 2011) as the common representative of the bondholders
+for the "Telecom Italia S.p.A. 2002-2022 bonds at variable rates, open special series, reserved for
+subscription by employees of the Telecom Italia Group, in service or retired", with a mandate for the
+three-year period 2014-2016.
+
+e By decree of October 18, 2012, the Milan Court confirmed Francesco Pensato as the common
+representative of the bondholders for the "Telecom Italia S.p.A. 1,250,000,000 euros 5.375 percent.
+Notes due 2019” up to the approval of the 2014 Annual Report.
+
+SHAREHOLDERS' MEETING
+
+The Shareholders' Meeting has been called after the period of 120 days, established by Article 2364,
+paragraph 2 of the Italian Civil Code, as a result of extraordinary transactions.
+
+RATING AT DECEMBER 31, 2014
+
+At December 31, 2014, the three rating agencies — Standard & Poor's, Moody's and Fitch Ratings —
+rated Telecom Italia as follows:
+
+Rating Outlook
+‘STANDARD & POOR'S BB+ Stable
+
+MooDY'S Bal Negative
+FITCH RATINGS BBB- Negative
+
+WAIVER OF THE OBLIGATION TO PUBLISH DISCLOSURE
+DOCUMENTS FOR EXTRAORDINARY OPERATIONS
+
+On January 17, 2013, the board of directors of Telecom Italia S.p.A. resolved to exercise the option, as
+per article 70 (8) and article 71 (1 bis) of the Consob Regulation 11971/99, to waive the obligations to
+publish disclosure documents in the event of significant operations such as mergers, demergers, capital
+increases by means of the transfer of assets in kind, acquisitions and disposals.
+
+Telecom Italia Group Information for Investors| 78
+Report on Operations
+
+
+--- Page 65 ---
+
+RELATED PARTY TRANSACTIONS
+
+In accordance with article 5, paragraph 8 of Consob Regulation 17221 of March 12, 2010 concerning
+"related party transactions" and the subsequent Consob Resolution 17389 of June 23, 2010, the
+following major transactions were entered into in 2014 as defined by art. 4, paragraph 1, letter a) of the
+aforementioned regulation.
+
+On August 4, 2014 the threshold of greater significance of the equivalent-value ratio, set at 3.5% of the
+consolidated equity of Telecom Italia, was exceeded, as a result of the execution of a series of sales of tax
+receivables during 2014, together with the sales of trade receivables with advances to companies of the
+Intesa Sanpaolo group, a related party of Telecom Italia according the Procedure adopted by the Company.
+As a result of the exceeding of the threshold for significant transactions, an information document was
+published on August 14, 2014, pursuant to Article 5 of Consob Regulation 17221/2010, available for
+consultation in Italian only at the website www.telecomitalia.com, section About Us - channel General
+Archive, Year 2014 "Governance". No other related party transactions were entered into that have
+materially affected the financial position or results of Telecom Italia Group and Telecom Italia S.p.A..
+Finally, there were no changes or developments with respect to the related party transactions described in
+the 2013 Report on Operations which had a significant effect on the financial position or on the results of
+the Telecom Italia Group or Telecom Italia S.p.A. in 2014.
+
+Related party transactions, when not dictated by specific laws, were conducted at arm's length.
+Furthermore, the transactions were subject to an internal procedure which establishes the procedures and
+timing for verification and monitoring. The procedure can be consulted on the Company's website at the
+following address: www.telecomitalia.com, section Governance - channel governance system.
+
+The information on related parties required by Consob Communication DEM/6064293 of July 28, 2006 is
+presented in the financial statements themselves and in the Note "Related party transactions" in the
+consolidated financial statements of the Telecom Italia Group and the separate financial statements of
+Telecom Italia S.p.A. at December 31, 2014.
+
+Telecom Italia Group Related Party Transactions
+
+Report on Operations 79
+
+
+--- Page 66 ---
+
+ALTERNATIVE PERFORMANCE MEASURES
+
+In this Report on Operations, in the consolidated financial statements of the Telecom Italia Group and in
+the separate financial statements of the Parent, Telecom Italia S.p.A., for the year ended December 31,
+2014, in addition to the conventional financial performance measures established by IFRS, certain
+alternative performance measures are presented for purposes of a better understanding of the trend of
+operations and the financial condition. Such measures, which are also presented in other periodical
+financial reports (half-year financial Report at June 30 and interim Reports at March 31 and
+September 30) should, however, not be considered as a substitute for those required by IFRS.
+
+The alternative performance measures used are described below:
+
+e EBITDA: this financial measure is used by Telecom Italia as the financial target in internal
+presentations (business plans) and in external presentations (to analysts and investors). It
+represents a useful unit of measurement for the evaluation of the operating performance of the
+Group (as a whole and at the Business Unit level) and the Parent, Telecom Italia S.p.A., in addition to
+EBIT. These measures are calculated as follows:
+
+Profit (loss) before tax from continuing operations
+
++ Finance expenses
+
+- Finance income
+
++/- Other expenses (income) from investments ®
+
++/- Share of losses (profits) of associates and joint ventures accounted for using the equity method 2)
+EBIT - Operating profit (loss)
+
++/- Impairment losses (reversals) on non-current assets
+
++/- Losses (gains) on disposals of non-current assets
+
++ Depreciation and amortization
+
+EBITDA - Operating profit (loss) before depreciation and amortization, Capital gains (losses) and Impairment reversals
+(losses) on non-current assets
+
+(1) "Expenses (income) from investments" for Telecom Italia S.p.A.
+
+(2) Line item in Group consolidated financial statements only.
+
+e Organic change in Revenues, EBITDA and EBIT: these measures express changes (amount and/or
+
+percentage) in revenues, EBITDA and EBIT, excluding, where applicable, the effects of the change in
+the scope of consolidation and exchange differences. In particular, starting from 2014, Telecom
+Italia has revised the method for calculating the organic change in revenues, EBITDA and EBIT, and it
+no longer takes non-organic income/expenses, also including non-recurring item, into account in that
+calculation as it did in the past. As noted above, organic changes now include only the effects of the
+change in the scope of consolidation and of exchange differences. Figures for the year 2013 under
+comparison have been reclassified accordingly.
+Telecom Italia believes that the presentation of the organic change in revenues, EBITDA and EBIT
+allows for a more complete and effective understanding of the operating performance of the Group
+(as a whole and at the Business Unit level) and the Parent. This method of presenting information is
+also used in presentations to analysts and investors. This Report on Operations provides a
+reconciliation between the "reported figure" and the "comparable" figure.
+
+e Net Financial Debt: Telecom Italia believes that Net Financial Debt represents an accurate indicator
+
+of its ability to meet its financial obligations. It is represented by Gross Financial Debt less Cash and
+Cash Equivalents and other Financial Assets. The Report on Operations includes two tables showing
+the amounts taken from the statement of financial position and used to calculate the Net Financial
+Debt of the Group and Parent respectively.
+To better represent the real performance of Net Financial Debt, in addition to the usual indicator
+(called "Net financial debt carrying amount"), "Adjusted net financial debt" is also shown, which
+excludes effects that are purely accounting and non-monetary in nature deriving from the fair value
+measurement of derivatives and related financial assets and liabilities.
+
+Telecom Italia Group Alternative Performance Measures | 80
+Report on Operations

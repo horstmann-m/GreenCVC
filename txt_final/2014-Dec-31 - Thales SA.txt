@@ -1,0 +1,1573 @@
+
+
+--- Page 1 ---
+
+122
+
+Business Review
+Operating segments
+
+2.1 Operating segments
+
+In early 2013, the Group has set up a matrix organisation based on:
+
+six Global Business Units, divided into three operating segments:
+Aerospace (Avionics, Space}, Transport (Ground Transportation Systems)
+and Defence & Security (Secure Communications and Information Systems,
+land & Air Systems, Defence Mission Systems);
+
+2.1.1 AEROSPACE SEGMENT
+
+The Aerospace segment includes the Avionics and Space Global Business
+Units
+
+The Avionics Global Business Unit offers a large array of equipment and
+functions for piloting, navigation and aircraft control systems, electrical
+generation and conversion, and in+light entertainment and connectivity
+systems. This activity also includes simulation and training solutions for military
+aircraft and civil and military helicopters as well as microwave or imaging
+subsystems. As a partner with the major aircraft manufacturers and airlines,
+Thales is a player in the entire value added chain of the aviation sector, in
+addition to its space and air traffic management business.
+
+21.1.1
+
+Key data
+
+2014 2013
+Order book at 31 December €8,687 m €7,881 m
+Order intake €5,024 m €4,297 m
+Sales €5,014 m €4,713 m
+EBIT’! €505 m €420 m
+Consolidated headcount 17,935 17,299
+
+{a} Non-GAAP indicator. See definition in the section entitled “Presentation of
+Financial Information" in the Group management report on page 8.
+
+211.2 Avionics
+
+211.21 General overview
+
+Thales manufactures flight avionics systems, passenger cabin equipment and
+systems and flight simulators for helicopters and military aircraft. In addition,
+the Group offers microwave and imaging subsystems.
+
+The portfolio of flight avionics systems and equipment comprises on-board
+electronics systems, including helmets display, for aircraft navigation and
+handling for civil and military fixed-wing and rotary.wing aircraft.
+
+Thales also supplies electrical generation and power conversion equipment.
+
+In the cabin systems market, Thales’s offer is focused on the in-flight
+entertainment and passenger connectivity segment. In addition, the Group
+offers lighting and aircraft interior systems through Diehl Aerospace
+
+In simulation and training, Thales provides flight simulators for several
+European defence programmes and provides training for pilots, particularly
+for helicopters, via the Helisim joint venture.
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+an international organisation split into the major industrial countries in
+which the Group is present (Germany, France, the Netherlands, the
+UK, Canada, the United States and Australia & New Zealand}, other
+European countries and emerging markets.
+
+The Space Global Business Unit offers spatial systems and solutions, in
+particular in the fields of telecommunications, radar and optical observation
+of the Earth, satellite navigation and exploration of the universe. The strategic
+partnership in the space sector between Thales and Finmeccanica — the
+Space Alliance — responds to the significant environmental, scientific,
+security and information society development challenges and is based on
+the complementary solutions offered by Thales Alenia Space [67% owned
+by Thales} in satellite systems and by Telespazio (33% owned by Thales)
+in related services
+
+SALES
+
+50%
+Defence & Secuity
+
+~ 39%
+Aerospace
+\
+11%
+
+Transport
+
+Microwave subsystems (tubes and power amplifiers) are aimed at the
+space and defence market, as well as at some telecommunications and
+civil industrial applications, while imaging subsystems are aimed at the
+medical radiology market
+
+211.22 Competitive position
+
+As one of the leading players on the avionics market, Thales is a supplier
+for the civilian and military aircraft manufacturers AgustaWestland, Airbus
+Group, ATR, Bell, Boeing, Bombardier, Dassault Aviation, Embraer,
+Gulfstream, NHlndustries, Sikorsky and Sukhoi. The other major players in
+this field are the US companies Honeywell and Rockwell Collins. The growth
+of this business therefore correlates directly to the change in production rates
+of aircraft manufacturers
+
+In the passenger cabin systems segment, Thales is one of the world’s top
+two players with Panasonic Avionics
+
+www.thalesgroup.com
+
+
+--- Page 2 ---
+
+There are numerous competitors on the simulation solutions market,
+particularly from US defence companies such as Lockheed Martin, Raytheon
+and L3Com:
+
+Thales continues to be a global market leader in microwave and imaging
+subsystems
+
+21.123 Significant events in 2014
+
+In Civil avionies, the year was notable for the certification of the Airbus
+A350 XWB by the EASA (European Aviation Safety Agency) followed by
+its delivery to Qatar Airways. The first successful flight of the A320neo was
+also an important milestone for Thales, since it incorporated a new flight
+control computer.
+
+In addition, Thales delivered to ATR a series of developments in connection
+with the evolution of the “standard 2” of the ATR-600 avionics suite. The
+various aeronautical certification authorities approved the automatic landing
+function offered by Thales aboard the Sukhoi Superjet 100, enabling
+airplane to operate at visibilities on the ground of less than 200 feet. Finally,
+Thales was selected to develop and implement advanced flight control
+solutions for the future business airplanes Gulfstream G500 and G600.
+
+Among signed agreements with airline companies, the Taiwanese company
+TransAsia Airways chose Thales’s avionics suite for its 18 new A320
+airplanes. China Eastern Airlines's new fleet of Airbus singleaisle airplanes
+will also be equipped with the most recent avionics solutions, including
+surveillance systems, flight management systems and head-up displays
+(HUD).
+
+In Training & Simulation, 20] 4 was marked by the opening of the A4AOQOM
+team training centre at the Brize Norton Royal Air Force base in the United
+Kingdom, which was built by Thales and is managed by a joint venture
+between Thales and Airbus Group. The first FFS (FullFlight Simulator] supplied
+by Thales was installed at this AAOOM pilot school. The British Defence
+Minister also awarded Thales a several million pound contract to supply a
+second A400M flight simulator, which will also be installed at the training
+centre in 2015
+
+In Australia, Thales will provide simulators for Australian naval and ground
+force helicopter team training, including three EC 135 Full Flight simulators,
+as well as support service and maintenance. In addition, Thales continued
+to pursue its strategy of developing local, tailored training centres for civilian
+helicopter operators. For example, in 2014 it opened the first training centre
+for AS350 helicopter pilots in Albertville, France.
+
+Thales expanded its in-flight entertainment business through the acquisition
+of LiveTV. The Group thus obtained new multimedia solutions to equip airliners
+with multi-band, high-speed connectivity solutions. In 2014, Thales also
+launched its 4th generation system AVANT, which has already been selected
+by 12 airlines for installation on board various platforms (A330, A350,
+A380, B737, B777, B787). In all, Thales equipped 184 aircraft with its
+inflight entertainment systems in 2014
+
+In the area of Helicopter avionics, Thales will supply its Integrated Electronic
+Stand-by Instrument (IESI) for the modernisation of the Brazilian army's Equilo/
+Fennec helicopter fleet. The IESI integrates essential standby functions of
+artificial horizon, altimeter and anemometer within a compact, single piece
+of equipment. Thales’ Scorpion helmet display was chosen to equip Thales's
+future Airbus Helicopters weapon systems
+
+In the area of Military avionics, Thales delivered the second tactical version
+of the systems developed for the A400M, including innovative functions,
+some of which were designed in connection with the SESAR (Single
+European Sky Air Traffic Management Research] studies.
+
+THALES
+
+Business Review
+Operating segments
+
+With respect to Electrical Systems, major milestones were reached in
+connection with the Dassault Aviation Falcon 5X Programme.
+
+In airline support, Thales was among the top ten in the Airbus Supplier
+Support Ranking for the eighth consecutive year. Airbus also commended
+Thales for its customer-support performance for inflight entertainment, naming
+it best in class in-flight entertainment supplier. In terms of maintenance
+contracts, the Chinese company Sichuan Airlines renewed its confidence
+in the Group with respect to maintenance of Thales components.
+
+In 2014, Thales reinforced its position as a worldwide leader in the area
+of Microwave & Imaging Sub-Systems, having significant commercial
+success in exporting, in particular to Asia, in defence, with delivery of the
+first transmitters to the South Korean army.
+
+2113 Space
+
+211.31 General overview
+
+Thales Alenia Space is a joint venture between Thales (67%) and
+Finmeccanica (33%) and a partner in the Space Alliance, along with
+Telespazio
+
+Thales Alenia Space has more than 40 years of experience in the
+design, integration, testing, operation and commissioning of innovative
+space systems. These cutting-edge systems meet the needs of commercial,
+government, scientific, defence and security customers from around the
+world. The satellites and payloads designed by Thales Alenia Space have
+become the global standard for space systems that provide communications
+and navigation services, monitor our environment and the oceans, help
+us better understand climate change and drive scientific progress. Thales
+Alenia Space is also a leading supplier to the International Space Station,
+and a pivotal player in space systems designed to explore the Universe.
+
+Thales Alenia Space is one of the world’s leading designers of
+telecommunications satellites, platforms and payloads, a market that
+accounts for 50% of its business. The company offers a wide range of
+solutions, from supplying high-performance equipment to turnkey systems.
+The Spacebus NEO family of geostationary platforms meets the needs of
+operators from around the world. The payloads designed by Thales Alenia
+Space have proven their performance, reliability and competitiveness on
+satellites made by all leading space industry manufacturers. Thales Alenia
+Space is one of the world’s foremost players in low/mediur earth orbit
+mobile communications constellations, with a total of 117 satellites on
+order (8 1 Iridium NEXT, 12 O3b and 24 Globalstar Second Generation)
+
+In the military segment, Thales Alenia Space operates in the design and
+production of extremely secure telecommunications systems and observation
+systems and high-resolution radar and optical payloads. It offers space and
+ground telecommunications and observation segments, as well as dual civil
+and military systems. It is at the heart of the Francottalian cooperation with
+the Sicral and Athena Fidus programmes
+
+In the area of Earth observation, Thales Alenia Space is a leader in high
+and very high-resolution optical and radar payloads, in which itis a major
+exporter, supplying military, dual or civilian missions: information gathering,
+target designation, map-making and crisis management, meteorology,
+oceanography and climatology, etc.
+
+For the last three decades, the European Space Agency (ESA) and
+Eumetsat have awarded Thales Alenia Space the contract for Europe's
+meteorological satellites (the three generations of Meteosat satellites), as
+well as the Copernicus environmental missions and spatial altimetry, an
+
+REGISTRATION DOCUMENT 2014
+
+123
+
+
+--- Page 3 ---
+
+124
+
+Business Review
+Operating segments
+
+activity in which the radars of Thales Alenia Space are the standard in
+‘ocean and ice surveillance.
+
+Thales Alenia Space is now also prime contractor for Exomars, ESA's most
+ambitious Mars mission, following the success of Herschel and of Planck,
+the largest space observatories ever developed in Europe. The company
+is also the contractor for EUCLID, ESA’ scientific satellite dedicated to the
+understanding of dark matter. On the ground, it deployed radioastronomy
+antennae on the Atacama Plateau in Chile under the AUWA programme for
+the European Southern Observatory.
+
+Thales Alenia Space is also at the origin of satellite navigation in Europe as
+prime contractor for Egnos, the precursor to Galileo, and has a major role
+in its development with Galileo system support, participation in the InOrbit
+Validation phase, which consists of manufacturing the first four satellites of the
+constellation, and especially in the deployment of the grounctbased mission
+segment (Galileo Mission Segment} for the full constellation
+
+In manned space flight, Thales Alenia Space is a major contributor to the
+International Space Station (ISS), supplying more than 50% of its pressurised
+volume and heavily involved in the ATV (Automated Transfer Vehicle} for ESA
+and Cygnus for NASA, which will supply the ISS. In addition, the company
+is developing the IXV atmospheric re-entry demonstrator for ESA.
+
+Thales Alenia Space also contributes to the European policy on access to
+space through the provision of the on-board electronics for the Ariane rocket
+and the on-board backup system for Soyuz in Guyana
+
+21.1.3.2 Competitive position
+
+The satellite market is a dynamic but highly competitive market. In the
+commercial satellite segment, the main competitors of Thales Alenia Space
+are MDA (SSL Loral), Airbus Group, Orbital Sciences Corporation, Boeing
+and Lockheed Martin. Going forward, the commercial challenge is the
+capacity to offer satellite solutions with electriconly propulsion. Other
+international manufacturers (Russian, Chinese, Indian, Israeli, Japanese,
+etc.) have gradually emerged on the commercial market with increasingly
+competitive solutions both in telecommunications and in observation
+
+The leading competitors in the institutional market in Europe, which depends
+toa large extent on the budgetary situation of governments, are Airbus Group
+and OHB, which may also be partners depending on the programme:
+
+21.133 Significant events in 2014
+
+In connection with Ambition Boost, the Group's global performance plan,
+Thales Alenia Space has implemented several initiatives to ensure its
+
+2.1.2 TRANSPORT SEGMENT
+
+growth while maintaining the quality that is at the heart of its strategy and
+favouring innovation. It has made R&D investments in order to launch new
+products. Finally, it has implemented a plan to extend Thales Alenia Space’s
+international footprint.
+
+The first results of the plan enabled Thales Alenia Space to obtain four
+contracts in 2014, for five telecommunication satellites: Yamal 601 for the
+Russian operator Gazprom Space System, Koreasat 5A and Koreasat 7
+for KTSAT in South Korea, Inmarsat S/HellaSat 3, a shared satellite for
+Inmarsat and Arabsat, and Telkom 3S for the Indonesian operator Telkom
+The European Space Agency has announced Phase B of the NEOSAT
+programme to develop new geostationary satellite platforms.
+
+In the area of Earth observation, a new tranche of financing for the new
+generation COSMO-SkyMed programme was approved by the Italian
+Space Agency (ASI, and the French Space Agency (CNES) selected Thales
+Alenia Space to build the SWOT (Surface Water and Ocean Topography)
+satellite, which is intended to be used for oceanography and hydrology.
+Finally, the Falcon Eye contract relating to two high-resolution optical
+observation satellites for the United Arab Emirates entered into force.
+
+In 2014, Thales Alenia Space participated in 12 launches, including in
+particular Athena Fidus, the first success from the Francottalian cooperation
+on a dual mission; the Sentinel 1A, which opens the door for the ESA's
+Copernicus programme; and lastly, the second cluster of the O3b
+constellation, for which responsibility was transferred to the customer on
+13 August 2014, now in orbit and operational. The third cluster of four
+O&b satellites was also launched in late December.
+
+In terms of technology and innovation, new products were launched in
+the areas of optical observation and high-esolution radar. Emphasis was
+placed on the development of the Spacebus line under the name Spacebus
+NEO, with a hybrid propulsion offering and a fully electric version planned
+for 2015. Finally, in terms of innovation, Thales Alenia Space reinforced
+its capacities in this area with the Stratobus, a geostationary stratospheric
+platform that has been part of the French industrial development plan since
+July 2014
+
+Thales Alenia Space's international growth accelerated in 2014 with the
+opening of a new site in Louvain, Belgium, the creation of a new subsidiary
+in the United Kingdom (which integrated the space activities of SEA, a
+company that was later acquired}, as well as the project to create Thales
+Alenia Space Brazil, a subsidiary intended to oversee the technology transfer
+provided for in the SGDC contract won in 2013
+
+Thales provides transport infrastructure operators and managers with systems
+and services to operate their investments to best effect by optimising their
+operational performance, offering the best passenger experience, and
+managing the growing complexity of transport systems. Thales solutions
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+help increase the capacity of transport infrastructures and promote the highest
+safety in the transport of people and goods, rapidly and cost effectively.
+
+www.thalesgroup.com
+
+
+--- Page 4 ---
+
+21.21 Key data
+
+2014 2013
+Order book at 31 December €3,615 m €3,329 m
+Order intake €1,652 m €1,454 m
+Sales €1,402 m €1,447 m
+eBIT! €32 m €97 m
+Consolidated headcount 6,139 5,910
+
+{a} Non-GAAP indicator. See definition in the section entitled “Presentation of
+Financial Information" in the Group management report on page 8.
+
+21.22 Ground Transportation Systems
+
+21.221 General overview
+
+The Group is one of the leading players worldwide in transportation systems:
+rail signalling, monitoring and supervision for urban, suburban and mainline
+transportation networks, and ticketing
+
+In rail signalling, Thales provides systems for conventional and high speed
+mainline networks, in addition to metro, tram and suburban networks.
+
+In terms of monitoring and communications, Thales leverages its expertise in
+critical information supervision systems to offer transport network operators
+integrated solutions. They can thus monitor and effectively control critical
+operations (from traffic to power and communications management} and
+implement efficient solutions to satisfy passengers by offering a higher quality
+of service while helping to improve passenger, network and personal safely,
+
+Thales is also a large player in passenger payment collection solutions,
+in particular for public transit operators, and has long experience with
+multimodal and mult-operator ticketing systems
+
+21.222 Competitive position
+
+Thales addresses the ground transportation business, whose growth is linked
+to a great extent to urban planning, with a portfolio of automation and
+services solutions dedicated to the operation, security and safety of rail
+infrastructures. Specialised in intelligent critical systems and services, Thales
+distinguishes itself from its “generalist” competitors, who offer a range of
+products dominated by rolling stock. lts key capabilities make Thales a
+recognised leading player with strong positions in these markets.
+
+The competitive landscape varies significantly depending on the segment
+targeted by Thales. In signalling, Thales is a major player, its main competitors
+being Siemens, Alstom, Ansaldo STS and Borbardier. In terms of supervision
+and telecommunications, the major generalist players are also present, as
+well as more local and/or specialist providers such as HollySys, Indra
+and Singapore Technologies Engineering. In Revenue Collection, the main
+Groups competitors are Cubic, Parkeon, Scheidt & Bachmann and Xerox.
+
+21.223 Significant events in 2014
+
+In main lines, Thales won a contract from PKP Polish Lines S.A. in Poland to
+deploy an ERTMS solution including the AlTrac ETCS Level 2 signalling system
+and the GSMR communication system on two branches of the Warsaw-Lodz
+line. The ETCS (European Train Control System), the European standard for
+train control, permits transparent border crossing while significantly increasing
+railway infrastructure capacity and the safety of operations.
+
+THALES
+
+Business Review
+Operating segments
+
+SALES
+50%
+
+Defence & Secty,
+
+> 39%
+Aerospace
+\
+11%
+Transport
+
+In the United Kingdom, Network Rail launched an ambitious plan to
+modernise its mainline traffic management, with 12 regional operational
+centres. Network Rail selected Thales to equip the first two centres, in
+Romford and Cardiff, with the NetTrac Aramis solution
+
+In France, the SNCF entered into a contract with Thales to replace the signal
+control point at Vitry-surSeine with the electronic interlocking solution LockTrac
+PIPC, permitting an optimal level of safety while increasing the number of
+trains that can travel on the line.
+
+In Spain, Thales joined with Siemens to win two signalling, supervision and
+telecommunications contracts to equip more than 5OOkm of lines on the
+high-speed Antequera/Granada and Olmedo/Orense sections
+
+Thales won several maintenance contracts for mainline lines, in particular
+in Portugal and in Spain. In ticketing, Thales was awarded a maintenance
+contract by the Dutch railway company NS for more than one thousand
+access gates installed in the country’s largest train stations. More generally,
+the mainline activity is sustained by framework agreements to provide
+lockTrac electronic interlocking systems, in particular in France, Germany,
+Austria, Switzerland and Norway.
+
+In Morocco, the consortium formed by Thales, Huawei and Imet won a
+contract to supply the railway operator ONCF with a turnkey communication
+system based on the GSMR standard. As the leader of the consortium,
+Thales runs the programme.
+
+In addition, Thales has had several other successes in emerging markets
+For example, Thales gained a foothold in Nigeria, winning a contract to
+provide an integrated signalling and telecommunications system for the future
+330-km line between ltapké and the Port of Warri
+
+In India, Thales won a first ETCS Level 1 contract from Southern Railways to
+modernise the Basin BridgeArakkonam section in Southern India
+
+In Mexico, Thales was selected to deploy its signalisation ETCS Level 2
+technology on the suburban rail line between Mexico City and Toluca, the
+capital of the State of Mexico.
+
+In urban transport, the SelTrac® CBTC signalling solution for metro invented
+by Thales is an automatic train control system allowing operators to increase
+traffic on their lines by reducing intervals between trains with optimal safety.
+
+This solution was selected for the modemisation of wo networks in the United
+States: for the San Francisco metro, in order to prolong an existing line,
+and for the University of West Virginia, which also selected Thales ticketing
+systems, passenger information systems and centralised operational control
+systems to modernise its campus rapid transit network.
+
+REGISTRATION DOCUMENT 2014
+
+125
+
+
+--- Page 5 ---
+
+126
+
+Business Review
+Operating segments
+
+In Germany, Thales won a contract to equip the Mehringdamm station of
+Line U6 of the Berlin metro with its LockTrac ESTW L905 NV electronic
+interlocking solution
+
+In France, the Bordeaux Metropolitan Area selected Thales to replace its
+existing ticketing system with a contactless multimodal and interoperable
+ticketing system
+
+In addition, Thales‘s Urban Transport Unit won numerous contracts in
+emerging markets. In Brazil, SelTrac® CBTC will equip two future metro lines
+in Salvador, whilst the SaoPaulo metro selected Thales's telecommunications
+systems for a future line in its network.
+
+In Chile, Thales won a contract from the Santiago metro to supply an
+operational control centre for two lines, and to carry out the migration of
+the SCADA energy system (for management and optimisation of electrical
+consumption) for the entire network.
+
+2.1.3 DEFENCE & SECURITY SEGMENT
+2131 Key data
+
+2014 2013
+Order book at 31 December €14915 m €13,226 m
+Order intake €7,608 m €7114 m
+Sales €6,480 m €6,456 m
+BIT! €620 m €499 m
+Consolidated headcount 31,257 31,131
+
+{a} Non-GAAP indicator. See definition in the section entitled “Presentation of
+Financial Information" in the Group management report on page 8.
+
+Thales is a long-standing pariner to military and security forces around the
+world, providing support on the ground to increase operational effectiveness
+as well as ensure the highest levels of protection
+
+Thales designs systems for all sectors: land, air, naval, space and
+cyberspace. These systems detect and assess threats, manage information,
+support rapid command decisions and control engagements, through to
+threat neutralisation, with maximum reliability. By facilitating the coordination
+of joint or coalition forces operations, they contribute to the decision-making
+superiority of the forces.
+
+As new risks emerge, defence alone cannot protect against new threats such
+ass trafficking, terrorism, organised crime, cyber-attacks, natural disasters, etc
+
+This convergence of defence and security requires new solutions and
+technologies to be implemented to facilitate the sharing of existing information
+and communication systems, as well as the protection of networks and
+infrastructure.
+
+The Defence & Security segment, with a primarily government customer base,
+leverages Thales’ expertise in these various fields. Logically, the evolution in
+this business is closely linked to changes in threats and defence spending
+in the countries in which the Group operates.
+
+{1} Identification Friend or Foe.
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+In Azerbaijan, Thales for the first time signed a contract with the Bakou
+metro to supply an integrated supervision and telecommunications solution
+for Phase 1 of the Purple Line.
+
+In Qatar, Thales won a contract to equip the future Lusail tramway with a
+complete solution including ticketing, telecommunications, supervision and
+security systems
+
+In China, Thales's joint venture SAIC Transportation System Limited Company
+won six metroline signalling contracts. It will supply the SelTrac® CBTC
+solution to the metros of Hefei, Shenzhen, Wuhan, Guangzhou and
+Shanghai
+
+In India, Thales will equip the 80 stations of Phase Ill for the Delhi metro,
+which extends over 100km, with a ticketing system including 900 access
+gates. Thales also won the contract to provide a ticketing system for Phase 2
+of the Gurgaon metro.
+
+SALES
+50%
+Defence & Security __
+~ 39%
+‘eospace
+\
+11%
+Tronsport
+2132 Secure Communications
+and Information Systems
+21321 General overview
+
+At the heart of the defencesecurity continuum, Thales offers interoperable
+and secure information and telecommunications systems for military forces,
+security forces and essential operators. These activities, which include radio
+communications, networks, protection systems, and critical information
+and cybersecurity systems, respond to the needs of markets in which new
+technologies such as AG mobile communications, cloud computing and
+big data are of utmost importance. Thales is present throughout the value
+chain, from equipment to systems and systems of systems, logistical support
+and related services.
+
+These businesses represent four major segments:
+
+= Radio Communication Products. Thales designs radios and embedded
+and tactical communication solutions for the three environments (ground,
+air and sea}, navigation systems, identification (IFF!"!) systems, and force:
+protection systems. The armed forces of more than 50 countries around
+the world are equipped with Thales solutions. The Group is a major player
+in the development of high-performance, secure Software Defined Radio
+(SDR) solutions. The contractor for the Contact programme in France, it is
+also present at the European level with the Essor programme and in the
+United States with the Rifleman programme;
+
+www.thalesgroup.com
+
+
+--- Page 6 ---
+
+= Network and Infrastructure Systems. Ensuring the security, integrity,
+service continuity and resilience of deployable or mobile infrastructure
+and telecommunications networks are major challenges for governments,
+armed forces and essential businesses. The solutions designed by Thales
+respond to the needs of the most exacting customers in the world
+For instance, Thales offers services ranging up to the operation and
+management of secure networks for the armed forces, even in theatres of
+operations. For example, for more than eight years Thales has operated
+the ISAF!! Communications and Information Systems in Afghanistan
+and deploys capacity for the armed forces currently engaged in Mali
+In France, the Group is managing the development and deployment
+phases, through to operation of the information, communication and
+security systems of the future Ministry of Defence site;
+
+Protection Systems. Thales develops information, command and
+intelligence systems for armed forces. The Group also responds to the
+growing safety needs of nations {identity management systems, border
+control and surveillance), of cities (urban security, crisis management,
+security for large events} and of critical infrastructure (protection of airports,
+of public transportation, of sensitive sites, and of energy sites). These
+solutions are intended to improve operational safety and efficiency by
+facilitating rapid decision-making by the operators of the command and
+control cenires or in mobile situations, and by providing their users with
+relevant, clear and immediate information about their environment;
+
+= Critical Information Systems and Cybersecurity. Thales actively
+contributes to the performance, resilience and security of the critical
+information systems of its customers, public bodies or large businesses,
+in particular essential infrastructure operators, who are confronted with
+numerous advances in computer programming and the continuous
+evolution of cyber threats. Thales supports its customers from the analysis
+of security challenges (detection and audit] to supervision of critical
+information system security, through the phases of design, integration of
+tailored products and solutions, maintenance and evolution of systems, as
+well as maintaining them in safe condition. Thales also provides security
+products and solutions (confidential or defence secret] in 50 countries,
+including the NATO countries. The Group is among the worldwide leaders
+in securing banking transactions, in particular through its Hardware
+Security Modules (HSM)
+
+2.13.22 Competitive position
+
+Thales has a variety of competitors, both at the sector and geographic levels,
+depending on the business.
+
+In defence applications - radiocommunications, networks, and command
+and control - the main competitors are American: Harris, General Dynamics
+and Raytheon. The Israeli company Elbit Systems is also a competitor. In
+Europe, Airbus Group is active, as are Rohde & Schwarz, particularly in the
+areas of naval communications and electronic war, and Aselsan, essentially
+for radiocommunications.
+
+In security, Thales’s competitors are primarily in the aeronautic and defence
+sector (Boeing, Northrop Grumman, Honeywell, Airbus Group, etc.) or in
+the information systems sector (IBM, Atos, Capgemini, etc.). The latter are
+also competitors of Thales in critical information systems.
+
+Finally, in cyber security, Thales is in competition with companies like RSA
+or Gemalto in the civil arena and BAE Systems, Ultra Electronics, Airbus
+Group and Secunet in defence
+
+Business Review
+Operating segments
+
+21323 Significant events in 2014
+
+In France, Thales is continuing to pursue the Contact programme, which
+beginning in 2018 will deliver the first Software Defined Radio (SDR)
+solutions for ground, aeronautic and naval armed forces. In the United
+States, Thales obtained a preseries contract for the soldier radio Rifleman,
+and pursued its experiments with the MBITR 2 - the first two-channel portable
+radio for the American armed forces. In Europe, Thales was chosen by three
+major countries (France, United Kingdom and Germany) for the Mode 5
+renovation of IFF systems for aircraft. In export, the Group recorded significant
+orders for VHF and HF tactical radios in several countries in the Middle East
+and Asia. Thales confirmed its position among the leaders on the market for
+military vehicle intercommunication systems with the signature of contracts
+in the Middle East and in Australia for its Sotas system
+
+Finally, Thales took 100% control of APEC, which develops “command and
+control systems” and tactical radios in Spain and now operates under the
+name Thales Programas
+
+In Secure Infrastructure and Networks, Thales was chosen by the armed
+forces of Qatar to supply a satellite military communications system. This
+new system will provide long-distance communication capacity to the ground
+and naval forces for their missions of national security and protection of the
+country's vital interests. In France, for the new headquarters of the Ministry
+of Defence, Thales is already operating the critical information and security
+systems for the users that are already installed
+
+With respect to Protection Systems, in 2014 Thales had numerous successes
+in this fastgrowing segment. Mexico City decided to entrust the Group with
+doubling the size of its urban security system and with the maintenance
+of its solutions. Thales was awarded new contracts by new clients for the
+protection of critical infrastructure in the oil, port, and airport segment [first
+global supervision system signed in France with Aéroports de Lyon). The
+Group, which is in charge of security for the holy sites of Mecca, was
+awarded a new coniract to extend the system. It was also in charge of
+security for the G20 summit held in November in Brisbane, Australia. In the
+area of biometrics and identity management, Thales confirmed its strong
+position on the French market, with a doubling of biometric stations (Bionet
+contract extended to 400 stations) and supplied Switzerland's first biometric
+visa stations
+
+In defence, in France, the DGA launched the Scorpion programme and
+chose the group composed of Nexter, Renault Trucks Défense and Thales
+for the renewal of all of its armoured combat vehicles, including support
+equipment for information systems and for battlefield digitisation. Thales
+will be responsible for the electronic architecture of the vehicles. With this
+contract, combined with the contract already awarded for the Contact
+Software Defined Radio, Thales reinforces its position as the electronics
+provider of reference for the digitisation of the battlefield and for development
+and information within the Land Force's platforms
+
+Several clients renewed their confidence in Thales for their C41?! systems,
+in particular Canada, Australia and France, with the SIC21 for the Navy
+and the construction of the foundation for the Army Information System (SIA)
+
+In Critical Information Systems and Cyber Security, Thales acquired Alcatel
+Lucent's cyber security business and signed a commercial parinership giving
+it access to the market for telecommunications operators and infrastructure
+security. Thales reinforced its competitive position in the supervision of
+critical information systems security by obtaining a major contract from a
+global financial services leader. Several large providers of cloud computing
+services, as well as two American distributors of digital content, chose
+Thales’s nShield cyber security solution to secure their businesses.
+
+(1) International Security Assistance Force (ISAF]. The ISAF is the military component of the coalition, under the aegis of NATO and under UN mandate, operating in Afghanistan
+
+since 2001
+
+(2) Computerized Command, Control, Communications and Intelligence.
+
+THALES
+
+REGISTRATION DOCUMENT 2014
+
+127
+
+
+--- Page 7 ---
+
+128
+
+Business Review
+Operating segments
+
+Finally, several agreements were signed to create cyber security chairs, in
+particular with the University of Qatar and with the Naval Academy and
+Telecom Bretagne, in cooperation with DCNS and the Brittany region
+
+2133 Land and Air Systems
+
+21331 General overview
+
+Thales systems and equipment help to make airspace safer and more
+secure. In civil air traffic control, Thales's portfolio ranges from conventional
+navigational aids to radar and air traffic control centres, surveillance systems,
+satellite navigation and airport management solutions.
+
+Thales plays a key role as architect and integrator for the air traffic
+management of the future, mainly through initiatives such as ICAO's"”) Aviation
+System Block Upgrades in Europe and the NextGen programme in the
+United States. Thales remains the leading Industrial Partner of the SESAR?!
+project In Europe.
+
+In the military domain, Thales owns 50% of Thales Raytheon Systems, a
+leading international air defence company. Since its creation in 2001,
+Thales Raytheon Systems has sold air defence radars, including the GM200
+and GMA00 built by Thales, and cornmand and control centres for military
+airspace throughout the world, ensuring the protection and security of forces
+and resources deployed in over 60 countries. Thales Raytheon Systems is
+notably prime contractor for NATO's Air Command and Control System
+(ACCS).
+
+Moreover, Thales offers in all continents, one of the broadest lines of civil
+and military, ground based and naval radars on the market, for surveillance,
+air traffic management and fire control
+
+Thales offers a wide range of weapons systems for : medium-range
+(SAMP/T], shortrange (Crotale and RAPIDDefender) and very shortrange
+markets (RAPIDFire and RAPIDRanger). The Group also specialises in multrole
+weapons systems based on the new lightweight multirole missile (LMM)
+family, which includes a guided, freefall variant. Thales is also a major player
+in the munitions sector: rocket mortar systems, metric precision munitions,
+missile and bomb fuzing systems, vehicle close protection systems, soldier
+systems and battlefield protection systems.
+
+In optronics, Thales designs and manufactures components and systems
+for day and night surveillance, reconnaissance, protection and target
+acquisition on all types of land, sea (surface and subsurface] or air platforms
+for defence and security customers worldwide. Thales’s expertise in optics
+is also applicable to the commercial fields of zoom lenses for filrn-making
+and lasers for scientific research:
+
+Thales designs, manufactures and supports armoured military vehicles
+including the Hawkei and Bushmaster. Thales provides integrated capability
+solutions at all levels of the value chain from subsystem supplier, to system
+integrator, mission systems design authority and prime contractor. The open
+architecture systems of vehicles provides highly standardised “plug and
+play” capability for on-board subsystems and products, increasing vehicle
+capability and performance whilst reducing size, weight and operator
+workload and whole life system costs.
+
+{1} International Civil Aviation Organization (ICAO).
+(2) Single European Sky ATM Research:
+
+21.3.3.2 Competitive position
+
+Thales's expertise in all aspects of air traffic control (automation, navigation,
+surveillance and satellite communication) is widely recognised by the world’s
+civil aviation authorities. With over 40% of the world’s airspace controlled
+by TopSky-ATC, Thales is at the forefront of air traffic control systems and
+civilian radars
+
+Other major players in the civil sector are the US groups Lockheed Martin
+and Raytheon, European companies Indra and Finmeccanica (Selex}, and
+in some niche areas Saab, Frequentis and Exelis
+
+In the military segment, Thales's main competitors are the US groups
+Lockheed Martin, Northrop Grumman, and Raytheon, and Finmeccanica,
+Airbus Group, BAE Systems, Indra and Saab in Europe.
+
+Thales is one of Europe's leading suppliers of medium-range, shortrange
+and very shortrange missiles and weapon systems. Other principal players
+in this field in Europe (MBDA) and the US (Raytheon and Lockheed Martin}
+are also major customers of Thales's missile electronics and key partners in
+weapon systems
+
+Thales is one of Europe's foremost optronics suppliers facing competition in
+this segment from US suppliers (Raytheon and Flir Systems}. The protected
+vehicles systems market segment is dominated, on an international level, by
+BAE Systems, General Dynamics, Rheinmetall, Krauss Maffei Wegmann and
+Nexter, with Thales operating in Europe as an independent integrator both
+for its own and other suppliers’ equipment within complex mission systems.
+
+21333 — Significant events in 2014
+
+In air traffic management, Thales (joinily with NATS, through the dedicated
+The Aquila Air Traffic Management Systems joint venture) was awarded
+a 22-year contract with the UK Ministry of Defence to transform air traffic
+management at all its military airfields, including the provision of new
+equipment, system upgrades, maintenance, support services and training
+A number of contracts for civil air traffic control systems and radars were
+signed in Europe (Bulgaria, Belgium, Czech Republic, France, UK and
+COOPANS®}), in the Middle East, in Asia, in Africa and in Central and
+Latin America. Regarding navigational aids, the main contracts were signed
+in the United States, Africa and Asia. A leader of ATM innovation, first
+industry partner in the European single-sky programme SESAR, Thales has
+contributed to the success of }4D flight test, TOPMET prototype flight test and
+has successfully passed important validations. The Group also introduced
+SHAPE, its future vision of the Air Traffic Controller Working Position
+
+Thales delivered 15 radars from the Ground Master family to air forces and
+Thales Raytheon Systems signed contracts for 16 GM400 and GM200
+radars to insure low and medium altitude surveillance of French territory. Iwo
+additional Ground Master 60 have also been ordered by another country,
+In weapon locating radars, Thales signed a major contract with a customer
+in Middle Eastern countries for Cobra radar. In the naval domain, DCNS
+has selected SmartS Mk2 radars to equip Gowind frigates for Egypt. In
+addition, the French Ministry of Defence signed a development contract for
+the new Sea Fire 500 multifunction AESA radar, which has been officially
+launched during the Euronaval show.
+
+Various important system tests and onsite tests were successfully completed as
+a demonstration of the operational capabilities of the NATO Air Command
+and Control System (ACCS), including theatre missile defence capability.
+The deployment phase is currently under way in ltaly, France, Belgium and
+Germany,
+
+(3) COOPANS: air trafic management system involving Austria, Croatia, Denmark, Ireland and Sweden
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+www.thalesgroup.com
+
+
+--- Page 8 ---
+
+In the sphere of advanced weapons systems, 2014 was marked
+by the delivery of last SAMP/T to the Italian and French forces. Thales
+signed a contract for the ForceSHIELD Integrated Air Defence system and
+STARStreak missiles for the Indonesian Ministry of Defence, integrating
+radars, communications, engagement and fire control systems, launchers
+and missiles to meet frontline users’ needs. The Lightweight Multirole Missile
+(LMM) was selected to meet the UK MoD’s requirement for a Future Anti-
+Surface Guided Weapon which provides the Royal Navy with a versatile,
+rapidlydeployable and highly-effective capability to defeat the threat from
+small ships and inshore attack craft. In the context of the UK Multi-mission
+System Technical Demonstrator programme, successful missile firings from
+the RAPIDRanger multiole launcher have taken place.
+
+Thales also conducted a successful demonstration firing of its sub metric
+precision 68mm laserguided rocket incorporating induction technology, from
+a Tiger HAP helicopter for a programme overseen by the french Defense
+Procument Agency (DGA). The Group also signed a significant contract with
+the French Ministry of Defence to develop and qualify the next generation
+of insensitive ammunitions for both the 81mm and 120mm mortars family
+devoted to reinforce security, terminal effect and logistic performances.
+
+In 2014, several export contracts were won in the Optronics domain
+in particular in the Middle East and Asia. In France, Optrolead (a joint
+company of Thales and Safran) has been selected for the renovation of
+the Scorpion programme optronics suite. Thales also successfully launched
+its long range thermal imager with more than 600 units ordered and also
+recorded the first full operational flight of its MIRAS Missile Warner System
+‘on board A4O0M.
+
+In the field of lasers, Thales confirmed its market position on intense laser
+intended for scientific research with the notification of contracts in Romania,
+Germany and Japan
+
+For Armoured Vehicle Systems, Thales won two new export markets, Japan
+and Jamaica, for its Bushmaster vehicle, and also continued to progress on
+the development of the Hawkei for the Australian light armoured vehicle
+procurement programme. In the UK, a new vehicle mounted surveillance
+capability was delivered to the Ministry of Defence, additional mission
+systems for Foxhound patrol vehicles were ordered and further quantities of
+rifle sights were supplied through the Future Integrated Soldier Technology
+(FIST) programme
+
+2134 Defence Mission Systems
+
+21341 General overview
+
+Thales has recognised global positions in airborne combat, intelligence,
+surveillance and reconnaissance electronic systems as well as in naval
+surface and underwater combat systems:
+
+For airborne combat missions, Thales produces, in cooperation with
+Dassault Aviation, radar systems and equipment for the Rafale, the Mirage
+2000 and the future combat UAVs, as well as electronic radar Air French
+Radar Naval Aviation systems, designed to detect threats and to protect
+platforms
+
+(1) Inteligence Surveillance Reconnaissance
+
+THALES
+
+Business Review
+Operating segments
+
+For airborne intelligence, surveillance and reconnaissance missions,
+Thales designs naval patrol and surveillance, ground and air surveillance
+solutions, including a range of electromagnetic-based intelligence-gathering
+sensors. These systems, installed on airborne platforms, integrate surveillance
+radars, acoustical subsystems, electromagnetic support measure equipment,
+and data links. Thales also designs complete UAV systems with intelligence,
+surveillance, target acquisition and reconnaissance capabilities.
+
+In surface naval warfare, the Thales offering covers all combat systems
+with the integration of equipment (radar, electronic warfare, infrared sensors,
+etc.), weapons systems, communications and command equipment, as well
+as naval platforn engineering capabilities
+
+In underwater warfare, the Group offers a broad line of products including
+the submarine sonar suite, hultmounted and towed array sonar for surface
+ships, anti-mine systems incorporating multiple sonars, including using
+unmanned underwater vehicles, as well torpedo acoustic heads
+
+2.1342 Competitive position
+
+In electronic combat systems, Thales is one of the leading European players,
+competing with Finmeccanica (Selex}, BAE Systems, Lockheed Martin,
+Raytheon and Northrop Grumman in addition to Airbus Group, General
+Atomics and Elbit in intelligence, surveillance and reconnaissance systems.
+
+In surface naval systems, Thales is one of the principal European players,
+alongside Finmeccanica (Selex), Saab and BAE, and competes with
+Lockheed Martin. In underwater warfare, Thales is one of the principal
+European players along with Atlas Elektronik and Ultra Electronics, and is
+in competition with the American companies Lockheed Martin, Raytheon
+
+and 13
+
+Significant events in 2014
+
+Electronic Combat Systems. The ASTAC tactical reconnaissance pods were
+adapted for the French Mirage 2000s, in order to carry out reconnaissance
+missions heretofore carried out by Mirage Fs. Several demonstration flights
+of the complete renovated Mirage 2000 system for the Indian Air Force were
+successfully carried out. In addition, the first phase of studies relating to the
+suite of multifunction sensors for the future Franco British combat UAV began
+in collaboration with Finmeccanica. The French Ministry of Defence awarded
+Thales a technological studies contract concerning the future generation of
+active electronically scanned array. Finally, the first Rafale modernised to
+the F3 standard was delivered to the French Navy.
+
+2.1.3.4.3
+
+Airborne surveillance and intelligence systems. A memorandum of
+understanding with the armed forces of Qatar was signed to jointly develop
+an optionally piloted aircraft composed of a highperformance ISTAR systern
+The final standard for the maritime patrol aircraft for the Turkish Meltem 2
+programme was delivered. The Master radar now has a maritime mode that
+permits it fo visualise mobile targets on sea in addition to its ISR!" terrestrial
+capabilities. The British Watchkeeper tactical UAV system is currently in use
+in Afghanistan. It contributes to support and protect the British land forces
+The new multirole airborne surveillance radar Searchmaster was launched:
+the ATL2 mission aircraft from the Air French Naval Aviation will be the first
+to be so equipped
+
+REGISTRATION DOCUMENT 2014
+
+129
+
+
+--- Page 9 ---
+
+130
+
+Business Review
+Operating segments
+
+Surface naval systems. The Malaysian Royal Navy ordered six SMARTS
+Mk2 naval surveillance radars for patrol ships and second-generation
+coastline combat. The Netherlands acquired the new SCOUT Mk3 radar to
+equip an interservice support ship. Poland signed a contract for the delivery
+of the integrated combat system as well as sensors for a patrol ship. The
+Australian Department of Defence renewed for a term of five years its award
+of service management and ship-maintenance operations for the royal navy
+at the port facilities of Garden Island in Sydney. At the same time, Thales will
+perform maintenance on Australian frigates of the Adelaide class.
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+Underwater warfare systems. The Malaysian Royal Navy ordered six Mk2
+sonar for second generation patrol ships and coastline combat, Poland will
+equip the Komoran Il mine hunter with acoustic systems. The British Royal
+Navy awarded the contract for support of the 2050 sonar used on the
+13 Type 23 frigates. Three new products were launched: the BlueWatcher
+hul-mounted sonar and the related CAPTAS 1 sonar for warships and offshore
+patrol vessels of over 300 tonnes, as well as the mine detector SeeMapper,
+intended to secure maritime zones by mapping the seabed
+
+www.thalesgroup.com
+
+
+--- Page 10 ---
+
+2.2
+
+Thales needs to acquire increasingly sophisticated technologies, particularly
+in detection, analysis and decisionmaking fields, in order to design and
+develop critical information systems. These innovative solutions serve
+customers in the aeronautics, space, ground transportation, defence and
+security markets
+
+Thales's R&D strategy is based on the conviction that a successful high-tech
+company needs teams of high'level experts with the ability to understand
+
+2.2.1
+
+Some 25,000 Thales employees, over 70% of them engineers, are involved
+in the Group's technical operations, ranging from research to engineering
+In 2014 Thales spent €675m on selffunded R&D, representing 5.2% of
+sales.
+
+2.2.2 FOUR KEY TECHNICAL DOMAINS
+
+Governance of research and development of key technologies is split into
+four domains:
+
+= hardware technologies: electronics, electromagnetism, optronics,
+acoustics, radiofrequency techniques and management of thermal
+constraints;
+
+= software technology: signal and information processing computers, real-
+time on-board systems, distributed systems, service-oriented architectures,
+
+FO
+
+Business Review
+Research and innovation
+
+Research and innovation
+
+and evaluate the findings of the world’s best research centres. The durability
+of the alliances which the Thales group maintains with its strategic partners
+guarantees the construction of a solid technological foundation.
+
+The research is carried out in accordance with guidelines aimed at giving the
+Group's operating units the competitive edge they need to ensure sustainable
+growth.
+
+RESEARCH AND DEVELOPMENT - THE KEY TO COMPETITIVENESS AND GROWTH
+
+A significant part of this budget is dedicated to upstream research, conducted
+both at Thales Research & Technology (TRT] laboratories and the Groups
+centres of expertise, in order to develop:
+
+= new technologies;
+™ new system and product concepts;
+
+= new engineering tools and methods for critical information systems.
+
+modeldriven engineering, engineering tools, information systems safety
+and security;
+
+® information and cognitive sciences: data fusion, data mining, autonomous
+systems, synthetic environments, human factors;
+
+= systems: focused on architectural system design, this area provides support
+for methodology, processes and expertise
+
+NETWORK VIRTUALISATION SUPPORTING MORE RESILIENT NETWORKS
+
+SDN (Software-Defined Network) is a new approach to design network architectures, which allows applications to be liberated from the IT infrastructure;
+to this end, software, in particular virtualisation technology, is integrated into systems and equipment. This innovation enables Thales to increase the
+
+resilience and security of its solutions and products.
+
+This innovation takes advantage of the synergies between network architecture and cloud computing and is having an impact on the IT and
+telecommunications industries by speeding up the roll-out and integration of new services and facilitating their end-to-end management. SDN enables
+integration of key security technologies such as hypervisor security, encryption and traffic analysis tools at the heart of the solutions.
+
+The Thales R&D teams have developed an initial SDN solution. It illustrates the resilient interconnection between the various “cloud computing”
+platforms using distributed architecture capable of adapting to constrained environments.
+
+THALES
+
+REGISTRATION DOCUMENT 2014
+
+131
+
+
+--- Page 11 ---
+
+132
+
+Business Review
+Research and innovation
+
+2.2.3
+
+Wherever it has an industrial presence, Thales seeks to build partnerships
+within innovation ecosystems, with academic partners design centres and
+industrial groups to jointly innovate on applications, business models and
+technologies.
+
+To develop the technologies it needs, Thales relies heavily on cooperation
+between its research teams and the academic world. Thales Research &
+Technology (TRT), an international network of corporate laboratories, is
+responsible for building relationships with academic pariners
+
+TRT has facilities in France, the UK, the Netherlands, Singapore and
+Canada. In France, the Palaiseau laboratory, located on the campus of the
+Ecole polytechnique, is part of a unique environment of world-class research
+networks, “Digiteo" (information technologies) and “Triangle de la Physique”
+[Physics Triangle]. It is also heavily involved in the programme to build up
+the world-class science and technology complex in Saclay.
+
+Similarly, Thales’s research centre in the Netherlands is located at Delft
+University, while the Singapore centre has partnered with Nanyang
+Technological University and with France's national research institute CNRS,
+in one of the few joint international research units with an industrial partner.
+
+Thales has numerous strategic partnerships, for example, with the CNRS,
+ONERA, Ecole polytechnique, Telecom Paris Tech, Université Pierre et Marie
+Curie (UMPCParis VI) and Université Paul Sabatier (Toulouse Ill), to name
+but a few.
+
+The most advanced form of partnership is the joint laboratory operated by
+Thales with the CNRS for physics, with CEALETI in the 3-5 Lab (an EIG
+
+FO
+
+2
+
+INNOVATION HUBS, CATALYSTS FOR THE R&D STRATEGY
+
+THALES AT THE HEART OF INNOVATION ECOSYSTEMS
+
+whose members are Alcatellucent, Thales and CEAMETI), with CEALIST for
+artificial vision and with UPMC in data mining
+
+Thales is positioned as a major player in numerous high-tech clusters
+(including System@tic Paris Région, Aerospace Valley in the southwest, the
+Maritime clusters in Brittany and Provence Alpes-Céte d'Azur, the Images et
+Réseaux — images and networks — telecommunications cluster in the Brittany
+region, etc.) and the IRT (Institut de Recherche Technologique SaintExupéry),
+of which it is a founding member.
+
+In the United Kingdom, TRT has direct links to several major universities,
+including Cambridge and Bristol. Thalles is an active member of a number
+of centres of excellence: the MVCE (Mobile Virtual Centre of Excellence)
+in mobile communications; the CSIT (Centre for Secure Information
+Technologies) based at Queen's University Belfast; the IVHM (Integrated
+Vehicle Health Management} at Cranfield University, and the CSIC (Centre
+for Smart Infrastructure and Construction) based at Cambridge University.
+
+In Canada, the Group regularly works with research networks and institutions
+such as CRIAQ (Consortium de Recherche et Innovation en Aérospatiale au
+Québec], the University of Toronto, McGill University, the Ecole polytechnique
+de Montréal and Laval University, with which Thales concluded an agreement
+for a joint research unit in urban sciences in November 2014.
+
+In emerging countries, Thales is looking to spur its growth by establishing
+innovation platforms locally, using the tried and tested principles of joint
+innovation with local players, and in that way building close long-term
+relationships.
+
+In order to promote joint innovation with its clients, Thales is gradually rolling out “innovation hubs” in several regions of the world. These are based
+on new methodology approaches for collaborative design, combining simulation, visualisation and rapid prototyping. The innovation hubs of Thales
+are laboratories for identifying and analysing new operational requirements, creating and testing new applications.
+
+By going one step further than simply adapting existing solutions for local markets, Thales is able to differentiate its product range to respond to
+specific client requirements, whether these are based on business segment, market maturity, operating requirements or the country’s culture.
+
+Two new innovation hubs were set up in Asia this year. Singapore is the very first multidisciplinary hub outside of Europe; it addresses maritime
+surveillance, smart cities and defence. The Hong Kong hub focuses on ground transportation. Thanks to the multicultural and multidisciplinary teams of
+Thales in Asia, local clients have access to the Group's portfolio of research and high technology solutions to meet their civil and military requirements.
+
+Training also forms part of this overall strategy of creating links between the
+Group and the academic world. This is achieved by involvement in doctorate
+programmes and by the Group's support for teaching chairs.
+
+The Group supports around 200 PhD students worldwide. They work on
+subjects directly connected with a technical issue facing Thales, which thus
+reinforces the appeal for young scientists.
+
+Thales is already a pariner for ten university chairs, and in 2014 participated
+in the creation of wo new research and teaching chairs, thus confirming its
+commitment to higher education as the means of training the talent required
+by our industries. In September, together with Safran and Dassault Aviation,
+
+REGISTRATION DOCUMENT 2014
+
+THALES
+
+Thales created the “Aerospace and Defence” chair at the University of
+Bordeaux. In October, Thales, in partnership with Keyrus, Orange, Ecole
+polytechnique and the Ecole polytechnique Foundation created the Data
+Scientist chair to meet the challenge of training the talent to generate
+tomorrow's many innovations in “Big Data”
+
+Thales also supports foundations such as the Fondation Télécom and the
+Fondation de Recherche pour |‘Aéronautique et I'Espace, providing support
+for those training, research and innovation programmes, which fully match
+the Group's strategic orientation
+
+www.thalesgroup.com
+
+
+--- Page 12 ---
+
+Business Review
+
+Research and innovation | | 2 3
+
+2.2.4 ADYNAMIC APPROACH TO INTELLECTUAL PROPERTY MANAGEMENT
+Thales supports its R&D activities with a dynamic approach to intellectual = Company's commitment to innovation and its ability to translate research
+property management. results into competitive advantages.
+In terms of the number of patents granted for its inventions (close o 400 new The Thales portfolio included more than 15,000 patents and patent
+applications in 2014), Thales is on a par with most of its competitors. The applications at the end of 2014 and is regularly adapted to operational
+continued large number of patent applications in recent years reflects the requirements, particularly to protect Thales’s market share.
+
+FOCUS 3
+
+THE “BIG OPTICAL EAR”
+
+Underwater sonar antennas can “listen” to the sounds made by moving objects in the marine environment up to several kilometres away. These
+sounds are converted into electrical signals using ultra-sensitive piezoelectric hydrophones, amplified and digitised underwater and then transmitted
+to a processing centre above water, which detects, positions and identifies the nature of the source of the sounds.
+
+After studies lasting several years, the Thales research teams in cooperation with innovative SMEs have recently successfully tested in water an
+acoustic antenna demonstration platform using “All-Optical” technology. Made entirely from optical fibre and related components, this system does
+not require any underwater electronics. Information is transferred from the antenna solely by laser via a several kilometre long fibre optic cable
+with an extremely small diameter.
+
+This disruptive technology has been patented by Thales and offers the Group's clients affordable new underwater acoustic surveillance capabilities:
+a large coverage area, remote enquiry at very long distances, a compact format and ease of installation, compatible with use at extreme depths.
+
+THALES REGISTRATION DOCUMENT 2014
+
+133
+
+
+--- Page 13 ---
+
+y ——_
+©
+xR
+a
+
+Business Review
+Relations between Thales and its subsidiaries
+
+23 Relations between Thales and its subsidiaries
+
+2.3.1 SIMPLIFIED ORGANISATIONAL CHART OF THALES AT 31 DECEMBER 2014
+
+This simplified organisational chart includes, in the main countries in which the Group operates, fully consolidated companies that account for more than
+0.5% of consolidated sales
+
+The companies consolidated under the equity method are not included in this chart {with the exception of DCNS).
+
+a
+
+FRANCE GERMANY NETHERLANDS UNITED KINGDOM CANADA UNITED STATES AUSTRALIA
+100% 7 100% | 99% v 100% yv 55% 7 100% |
+Thales Systémes Thales Electronics Thales Nederland Thales UK 12% Thales Canada Thales Avionics Thales Australia
+Aéroportés SAS Systems GmbH BV limited [> Inc Inc lid
+89% y 1% 100% RR 100%
+Thales
+Thales Air i 2% 31% Thales Defense
+Systems SAS sae & Secutty Inc
+77% v 23% 100% 100%
+Thales Optronique Thales Avionics Thales Components
+P| SAS | Lid Corporation
+67% 100%
+Thales Alenia Thales Training
+[>| Space Sas [>| & Simulation Lid
+100% 100%
+Ll come ins {>| Thales Noval Lid
+& Security SAS
+100%
+yor || holes Underwater
+ly! Thales Underwater Systems Lid
+Systems SAS
+50% 100%
+Thales Optronics
+TholesRoyieon Pad
+|->| Systems Company
+SAS 100%
+100% Thales Transport
+Thao |g Security itd
+imements
+| SAS 100% 1
+100% 100% Thales Ground
+- — Transportation
+Thales Services Thales Training & Ps
+>} SASF) Simulation SAS Systems UK Ltd
+100% 51%
+
+Thales Electron
+[>| Devices SAS
+
+[>| Trixell SAS
+
+100%
+
+Thales Avionics
+Electrical Systems SAS
+
+100%
+
+Thales Avionics
+SAS
+
+35%
+
+>| DCNS
+
+134
+
+REGISTRATION DOCUMENT 2014
+
+THALES www.thalesgroup.com
+
+
+--- Page 14 ---
+
+2.3.2
+
+The parent company acts as a holding company for the Group:
+
+it holds shares in the Group's major subsidiaries;
+
+it manages Group/evel functions such as corporate strategy, trading policy,
+
+legal and financial policy, operational monitoring, human resources policy
+
+and communications;
+
+it provides subsidiaries with specialist assistance, including legal, fiscal
+and financial expertise, for which the subsidiaries pay a fee;
+
+it provides financing, cash pooling and, where necessary, guarantees
+
+2.3.3
+
+The parent company receives dividends from its subsidiaries, as approved
+by their respective General Meetings of Shareholders, and in accordance
+with the applicable legislation and regulations in their countries of operation
+
+In addition to these dividends and the payment of fees for shared services, the
+main financial flows between Thales the parent company and its subsidiaries
+relate to cash pooling
+
+THALES
+
+Business Review
+Relations between Thales and its subsidiaries
+
+ROLE OF THALES PARENT COMPANY WITHIN THE GROUP
+
+In addition to these functions, the parent company conducts its own research,
+described on page 131 ef seq. of this document.
+
+A list of the main consolidated companies can be found below.
+
+FINANCIAL FLOWS BETWEEN THE PARENT COMPANY AND ITS SUBSIDIARIES
+
+As a tule, the cash surpluses of subsidiaries are transferred to the parent
+company under a centralisation system known as cash pooling. In return,
+the parent company meets the cash flow requirements of the subsidiaries,
+conducting operations in financial markets to arrange the necessary
+investments and loans to meet its own requirements and those of its
+subsidiaries. Except in special cases, this system applies to all subsidiaries
+in which Thales has majority control
+
+REGISTRATION DOCUMENT 2014
+
+135
+
+
+--- Page 15 ---
+
+Business Review
+Information about major operational subsidiaries and manufacturing sites
+
+2.4 Information about major operational
+subsidiaries and manufacturing sites
+
+2.4.1 LIST OF THE MAIN CONSOLIDATED COMPANIES (AS OF 31 DECEMBER 2014)
+
+The materiality criteria used to prepare these tables have also been applied to the list of the main consolidated companies on note 17 to the consolidated
+financial statements
+
+241.1 Controlled companies (fully consolidated)
+
+% of capital % of voting
+Company name Registered office city Nationality held by Thales rights held
+live TV UC Melbourne, Florida United States 100% 100%
+TDA Armements SAS la Ferté Saint Aubin France 100% 100%
+Thales Alenia Space SAS CanneslaBocca France 67% 67%
+Thales Alenia Space Italia SpA Rome ltaly 67% 67%
+Thales Air Systems SAS Rungis France 100% 100%
+Thales Australia lid Potts Point Australia 100% 100%
+Thales Austria GmbH Vienna Austria 100% 100%
+Thales Avionics SAS Velizy-Villacoublay France 100% 100%
+Thales Avionics Inc Irvine United States 100% 100%
+Thales Avionics Electrical Systems SAS Chatou France 100% 100%
+Thales Canada Inc Saintlaurent Canada 100% 100%
+Thales Communications & Security SAS Genneviliers France 100% 100%
+Thales Defense & Security Inc Clarksburg United States 100% 100%
+Thales Electronic Systems GmbH Stuttgart Germany 100% 100%
+Thales Espana Grp SAU Madrid Spain 100% 100%
+Thales Electron Devices SAS Velizy-Villacoublay France 100% 100%
+Thales Italia SpA Milan ltaly 100% 100%
+Thales Nederland BV Hengelo Netherlands 99% 99%
+Thales Norway AS Oslo Norway 100% 100%
+Thales Optronique SAS Elancourt France 100% 100%
+Thales Transportation Systems GmbH Stuttgart Germany 100% 100%
+Thales Ground Transportation Systems UK lid Addlestone United Kingdom 100% 100%
+Thales-Raytheon Systems Company SAS!*) Massy France 50% 50%
+Thales Services SAS VelizyVillacoublay France 100% 100%
+Thales Solutions Asia Pte Lid Singapore Singapore 100% 100%
+Thales Systemes Aéroportés SAS Elancourt France 100% 100%
+Thales Transport & Security ltd Weybridge United Kingdom 100% 100%
+Thales Training & Simulation SAS Osny France 100% 100%
+Trxell SAS@! Moirans France 51% 51%
+Thales Underwater Systems SAS Valbonne France 100% 100%
+Thales UK ltd Weybridge United Kingdom 100% 100%
+
+{a} Following a modification of the shareholders’ agreement leading fo taking full control of ThalesRaytheon Systems Company SAS and Trixell SAS within the meaning of
+IFRS 10. See note 3 to the consolidated financial statements.
+
+{b) In 2014, Thales UK Lid included the activities of Thales Air Defence Lid, Thales Avionics Lid, Thales Naval ltd, Thales Optronics Lid, Thales Underwater Systems Ltd! and
+Thales Training & Simulation Lid.
+
+136 REGISTRATION DOCUMENT 2014 THALES www.thalesgroup.com
+
+
+--- Page 16 ---
+
+Business Review
+
+Information about major operational subsidiaries and manufacturing sites
+
+241.2 Joint ventures (consolidated by the equity method)
+
+% of capital % of voting
+Company name Registered office/city Nationality held by Thales rights held
+Air Command Systems International SAS (ACSI) Massy France 50% 50%
+Citylink Telecommunications Holding lid london United Kingdom 33% 33%
+DCNS Paris France 35% 35%
+Diehl Aerospace GmbH Uberlingen Germany 49% 49%
+Junghans Microtec GmbH Dunningen-Seedorf Germany 45% 45%
+Samsung Thales Co. Lid GumiCity South Korea 50% 50%
+Softadir SAS Chatenay:Malabry France 50% 50%
+241.3 Associated companies (consolidated by the equity method)
+
+% of capital % of voting
+Company name Registered office/city Nationality held by Thales rights held
+Aviation Communications & Surveillance Systems Wilmington United States 30% 30%
+Air Tanker Holdings lid Weybridge United Kingdom 13% 13%
+Cloudwatt Boulogne Billancourt France 22% 22%
+Elettronica SpA Rome Italy 33% 33%
+ESG Elektroniksystem & Logistik GmbH Furstenfeldbruck Germany 30% 30%
+ThalesRaytheon Systems Company LLC Fullerton United States 50% 50%
+Telespazio SpA Rome ltaly 33% 33%
+2.4.2 MAJOR MANUFACTURING SITES
+As of the end of 2014, there were fourteen sites employing more than 1,000 staff:
+‘At 31 December 2014 Headcount Owned Size (m’)
+France
+Bordeaux (South-west) 2,126 Leased (Le Haillan), and Owned (Pessac} 59,000
+Brest (Brittany) 1,399 leased 56,000
+Cannes |Provence} 1,899 Owned-Leased 83,000
+Cholet 1,150 leased 51,000
+Gennevilliers (Ile-de-France) 3,413 leased 86,000
+Elancourt {Ile-de-France} 2,987 leased 104,000
+Massy (Ile-de-France) 1,045 leased 26,000
+MeudonlaForét/Vélizy (lle-de-France] 4,551 leased 130,000
+Rungis {Ile-de-France} 1,095 leased 31,000
+Toulouse (South-west) 3,727 Owned-Leased 142,000
+United Kingdom
+Crawley 1,867 leased 34,000
+Netherlands
+Hengelo 1,348 Owned 87,000
+Australia
+Sydney 1,079 leased 60,000
+Germany
+Stuttgart 1,500 leased 59,000
+
+THALES
+
+REGISTRATION DOCUMENT 2014
+
+137

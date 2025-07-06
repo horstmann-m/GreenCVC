@@ -1,0 +1,1436 @@
+
+
+--- Page 1 ---
+
+a 4 RISK FACTORS
+Risk management
+
+186
+
+The diversity of the Group's businesses and its many sites across
+the globe expose it to a variety of risks that could have a material
+impact on its earnings, image or share price
+
+4.1 RISK MANAGEMENT
+
+411 Methodology
+
+Safran has defined an enterprise risk management (ERM) policy,
+the principles of which are consistent with the recommendations
+of the French financial markets authority (Autorité des Marchés
+Financiers - AMF), the provisions of the AFEP-MEDEF Corporate
+Governance Code (as revised in November 2016), and professional
+standards (COSO ERM).
+
+The Group's enterprise risk management system is applied across
+all of its businesses in accordance with the governance rules
+applicable to the Group's different entities.
+
+Risk management draws on a methodological approach common
+to all entities and rolled out through a network of experts.
+
+This system is designed to identify the Group’s major risk
+exposures, quantify their impact on the achievement of objectives,
+and ensure that adequate measures and actions are implemented
+to bring the Group's exposure to an acceptable level. The risk
+management policy falls under the responsibility of each entity
+and of the central corporate departments, and is embedded in all
+organizational processes.
+
+41.2 Organization
+
+The Risk and Insurance Department reports to the Group Chief
+Financial Officer and is responsible for implementing the Group's
+risk management policy. The Risk and Insurance Department
+develops methodological techniques and processes to ensure
+consistent handling of risks by companies and corporate
+departments. All people involved in risk management within the
+Group have the same risk manual organized by process, level of
+impact, frequency, probability and control. Detailed guidance is
+also prepared for the analysis of certain risks.
+
+The Risk and Insurance Department sets risk management
+maturity objectives for first-tier entities. Risk management in newly
+acquired entities forms part of the action plans that the Risk and
+Insurance Department requires first-tier entities to set up within
+the context of the integration plan.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+These risks are identified and managed as part of an enterprise
+risk management system and within the framework of audit and
+internal control procedures (see section 6.7).
+
+Each risk factor identified is analyzed and forms the basis for
+various risk scenarios charted along three axes: impact, probability
+of occurrence and level of control.
+
+The impact and probability of each risk are assessed in terms of
+their direct and indirect impact over the selected timeframe, based
+ona realistic worst-case scenario identified in the risk register. The
+level of control, essential in characterizing the risk and the way it
+is to be managed, is then determined.
+
+Risks are managed through action plans that may include steps to
+be taken, additional controls to be implemented or investigations
+into financial transfers or transfers of liability, particularly involving
+insurance policies which are reviewed on a recurring basis.
+
+An owner is designated for each risk identified and is responsible
+for drafting action plans and ensuring their implementation.
+The objective is to provide continuous risk oversight to ensure
+optimum treatment.
+
+The entire risk management approach is periodically reviewed
+
+The Risk and Insurance Department also coordinates the risk
+manager network. Regular meetings are held to share best
+practices and identify emerging risks. Task forces are set up on
+the basis of priorities approved by the Group Risk Committee.
+
+Each first-tier entity (see sections 1.1.3 and 1.1.4) has a risk manager
+who prepares a risk mapping that is subsequently reviewed during
+the two annual Risk Committee meetings also involving the Risk
+and Insurance Department.
+
+Each quarter, the risk managers of first-tier entities submit a
+series of indicators to the Risk and Insurance Department (major
+risk mapping with the corresponding level of control, maturity of
+the risk management process). Once a year, the risk managers
+also submit a report on the organization of the risk management
+process within their respective operational perimeter. The Risk
+and Insurance Department also periodically meets with the risk
+manager of each first-tier entity in order to discuss his/her work
+and risk metrics.
+
+
+--- Page 2 ---
+
+First-tier entity risk managers are tasked with implementing the
+risk management process for their entire operational perimeter,
+ie., in their companies as well as in their subsidiaries. They appoint
+a risk representatives’ network as appropriate to ensure coverage
+of the entire scope of their operations.
+
+Each of Safran’s central corporate departments also prepares
+a mapping of the main risks in its scope. They all have a risk
+representative who ensures that the risk management approach
+is respected by management and who verifies consistency of
+the risk mapping and the associated action plans of the different
+corporate departments within first-tier entities falling under his/
+her responsibility. The Risk and Insurance Department is also
+involved in this work.
+
+41.3 Risk management bodies
+
+The following bodies coordinate the integrated risk management
+system:
+
+F the Risk Committees of first-tier entities;
+F the Group Risk Committee;
+F the Board of Directors’ Audit and Risk Committee.
+
+Internal procedures require regular meetings of first-tier entities
+and Group Risk Committees.
+
+Risk Committees of first-tier entities
+
+Each first-tier entity has a Risk Committee comprising the entity's
+legal representative and its main senior managers. This Committee
+is chaired by the entity's legal representative and led by its risk
+manager.
+
+Entity Risk Committees are responsible for:
+
+F rolling out the Group's risk management policy within their
+operational perimeter;
+
+F validating the entity’s risk mapping and the corresponding
+control measures;
+
+F’ providing reasonable assurance that the risk management
+process is effective;
+
+F validating the crisis prevention, crisis alert and crisis
+management system.
+
+RISK FACTORS 4 |
+Risk management
+
+Finally, the Risk and Insurance Department prepares a consolidated
+mapping of major risks to which the Group is exposed using these
+risk mappings and the detailed analyses of the major risks facing
+first-tier entities, with input from the risk representatives of the
+central corporate departments.
+
+The Group risk mapping therefore guarantees the overall
+consistency of risk assessments and the associated action plans.
+
+The risk mapping and associated action plans are updated every
+six months and validated by the Group Risk Committee. The Risk
+and Insurance Department then presents this risk mapping to the
+Board of Directors’ Audit and Risk Committee.
+
+Group Risk Committee
+
+The Group Risk Committee is composed of the Chief Executive
+Officer and Group corporate officers. It is headed up by the Chief
+Executive Officer and led by the Risk and Insurance Department
+director.
+
+The Committee regularly reviews risk identification, assessment
+and treatment, and therefore the control of major risks.
+
+More specifically, its duties include:
+F approving the risk management policy;
+
+F- validating the Group risk mapping and the corresponding
+control measures;
+
+F- providing reasonable assurance that the risk management
+process is effective;
+
+F validating the crisis prevention, crisis alert and crisis
+management system.
+
+The Board of Directors’ Audit and Risk
+Committee
+
+The composition and duties of this Committee are set out in
+section 6.3.3 of this Registration Document.
+
+In terms of risk management, the Board of Directors’ Audit and
+Risk Committee reviews the risk mapping and the work related to
+the main risks faced by the Group, as presented to it twice a year
+by the Risk and Insurance Department.
+
+The Committee reports to the Board of Directors on its risk
+management work at the same intervals.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+187
+
+
+--- Page 3 ---
+
+a 4 RISK FACTORS
+Risk factors
+
+188
+
+4.2 RISK FACTORS
+
+The major risks identified that could impact the Group's businesses
+and financial position as of the date this Registration Document
+was filed are outlined below. Safran carries out its business in a fast-
+changing environment that exposes it to risks and uncertainties
+beyond those associated with its businesses.
+
+If the risks described below were to materialize, this could have
+a negative impact on Safran’s businesses, financial position,
+earnings, outlook or share price.
+
+Other risks not yet identified or whose occurrence the Group
+considers would not have a material adverse impact could also
+exist at the date of this Registration Document.
+
+The information set out below is based on assumptions and
+forecasts that may prove inaccurate owing to their very nature.
+
+The environment in which the Group operates generates:
+
+F risks relating to the changes in the competitive landscape;
+F financial market risks;
+
+F legal and regulatory risks.
+
+As the Group conducts its business, it is exposed to:
+
+F- operational risks;
+
+F' risks relating to the Group’s evolution;
+
+F human resources risks.
+
+4.21 Risks relating to the environment in which
+
+the Group operates
+
+4.2.1.1 Risks relating to the changes
+in the competitive landscape
+
+POLITICAL UNCERTAINTIES
+
+In the Aerospace, Defense and Security segments, certain
+contracts are closed to foreign competition or are awarded based
+on strategic national security and independence considerations.
+Moreover, the transfer and/or export of defense equipment
+is prohibited by law in several countries including France and
+may only take place further to governmental or other special
+authorizations which require strict compliance with export
+regulations.
+
+The development of Safran’s activities and sites worldwide
+exposes the Group to political risks specific to certain countries
+that could impact its activities and earnings.
+
+In the face of these political uncertainties, Safran has a Group
+International and Public Affairs Department that coordinates
+any measures that need to be taken, particularly in the fields of
+trade compliance, export and customs controls and ethics (see
+sections 5.211, 5.2.2, 5.2.3 and 5.2.4).
+
+CHANGES IN ECONOMIC CONDITIONS
+
+The macroeconomic and aeronautical program assumptions
+determined by the Group take into consideration the economic
+conditions observed as of the date of the Registration Document
+and are taken into account when preparing the budget and the
+medium-term business development plan.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+Action plans are elaborated on the basis of these assumptions and
+approved by the Group Risk Committee according to the approach
+set out in section 41.
+
+Changes in the global economy have a direct impact on demand
+for air transport and freight, which in turn directly affects market
+demand for commercial aircraft. To meet the fluctuations in aircraft
+demand from airline companies, aircraft manufacturers may adjust
+their output rates, which would have a direct impact on the original
+equipment business of suppliers of engines and aircraft parts
+like Safran. Similarly, the decrease in air traffic as a result of a
+deteriorating economic or geopolitical environment could also
+impact the volume of sales and Group services, including MRO
+and spare part sales.
+
+Should the economic climate deteriorate, Safran’s assumptions and
+action plans would be adjusted accordingly. In order to deal with
+this risk, periodic specific Steering Committees have been set up
+within the Group covering customers, suppliers and the market
+(see sections 1.2, 1.4, 1.5 and 1.8).
+
+IMPACT OF THE AVIATION CYCLE
+
+Commercial aircraft orders tend to by cyclical in nature, owing
+mainly to
+
+F changes in air traffic;
+F the rate at which aircraft fleets age and are replaced;
+Fairline companies’ investment decisions and financial capacity.
+
+Exceptional events such as terrorism, pandemics, aviation disasters,
+adverse meteorological or geophysical conditions could also cause
+a temporary drop in air traffic and hence impact the civil aircraft
+engine, aircraft equipment, maintenance and services markets.
+
+
+--- Page 4 ---
+
+Safran is currently enjoying strong cyclical demand, primarily as a
+result of many airline companies replacing their fleets.
+
+In 2016, civil aviation activities accounted for approximately 70%
+of the Group's adjusted consolidated revenue. Safran has a large
+fleet of engines in service, including some 29,400 CFMS6 engines
+which have equipped most of the 100+ seater single-aisle aircraft
+delivered to airline companies in the last 30 years. The increase in
+the age of the installed base of engines and associated equipment
+enables the Group to generate service revenue representing
+around 48% of Aerospace revenue.
+
+Safran’s capacity to ramp up production to fulfil orders will
+depend on its ability to manage its internal and external supply
+chain (see section 4.2.21, “Supplier and partner risks”). Robust
+investment programs and action plans have been deployed for
+this very purpose and in order to limit any malfunctions that could
+arise. Safran also seeks to ensure that its production resources are
+adapted to long-term trends in demand.
+
+Continuous improvement initiatives within the framework of
+Safran’s quality performance approach (see section 1.9) and
+the deployment of the Group's strategy (see section 1.2), aimed
+particularly at achieving optimal diversity of its portfolio of
+businesses, round out the measures put in place to limit the
+impacts of this risk.
+
+COMPETITION
+
+Safran faces fierce competition in all of its businesses, from both
+global and international players and from niche players in certain
+markets. It seeks to maintain and sharpen its technological edge at
+all times, thanks to sustained R&D spending with a particular focus
+on segments where the product development cycle is unusually
+long.
+
+To limit the impact of competition risk, Safran not only deploys
+its strategy with a view to diversifying the portfolio of businesses
+(see section 1.2), but also continues to make targeted investments
+in R&D (see section 1.5) and in select external growth transactions.
+It also develops partnerships on a number of programs (see
+section 1.3). These partnerships may take the form of joint ventures
+set up in full compliance with the anti-trust laws applicable in all
+markets and countries in which they operate.
+
+4.2.1.2 Financial market risks
+
+The main risks hedged using the Group's financial instruments are
+foreign currency risk, interest rate risk, listed commodity price risk,
+equity risk, counterparty risk and liquidity risk.
+
+FOREIGN CURRENCY RISK
+
+The Group is exposed to foreign currency risk, defined as the
+impact on its balance sheet and income statement of fluctuations
+in exchange rates during the conduct of its operating and financial
+activities.
+
+RISK FACTORS 4 |
+Risk factors
+
+Most Aerospace Propulsion and Aircraft Equipment revenue is
+denominated in US dollars, which is virtually the sole currency
+used in the civil aviation industry. The net excess of revenues over
+operating expenses for these activities totaled USD 7.5 billion for
+2016,
+
+To protect its earnings, the Group implements a hedging policy
+(see below) with the aim of reducing uncertainty factors affecting
+profitability and allowing it to adapt its cost structure to a volatile
+monetary environment.
+
+The Group's earnings are exposed to the risk of fluctuations in the
+EUR/USD exchange rate as a result of its US dollar-denominated
+assets and liabilities which are set out in section 3.1 of this
+Registration Document (Note 27, “Management of market risks
+and derivatives”).
+
+Shareholders’ equity is also exposed to the risk of fluctuations in
+the EUR/USD exchange rate on the Group’s investments in US
+businesses which are disclosed in section 3.1 (Note 33, “List of
+consolidated companies”) of this Registration Document.
+
+Hedging policy
+
+Two basic principles underscore the foreign currency risk
+management policy defined by Safran for most of its subsidiaries:
+
+F- to protect the Group's economic performance from random
+fluctuations in the US dollar;
+
+F to optimize the quality of hedging whenever possible,
+without jeopardizing the Group's economic performance (first
+principle),
+
+Protecting economic performance means setting a minimum
+USD exchange rate parity over an applicable term. Minimum parity
+corresponds to a USD exchange rate that allows Safran to meet its
+operating profit targets. Hedging arrangements have been made
+accordingly, over a four-year timeframe.
+
+Foreign currency risk on the Group's investments in US businesses
+is hedged using net investment hedges of some of these entities,
+as disclosed in section 3.1 (Note 27, “Management of market risks
+and derivatives”).
+
+Management policy
+
+The hedging policy is based on managing the financial instrument
+portfolio so that the exchange rate parity does not fall below a
+pre-defined minimum threshold.
+
+In building up its hedging portfolio, the Group primarily uses
+forward sales, accumulators and a combination of barrier options
+and other options.
+
+Optimization measures are also used with a view to improving the
+minimum exchange rate parity, and seek to protect the Group's
+economic performance at all times. They are based on products
+that allow the Group to take advantage of any improvement in the
+underlying exchange rate parities, without calling into question the
+original minimum threshold.
+
+These products consist chiefly of forward purchases, accumulators
+and a combination of barrier options and other options.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+189
+
+
+--- Page 5 ---
+
+a 4 RISK FACTORS
+Risk factors
+
+190
+
+Hedging portfolio
+
+The Group's hedging portfolio is described in section 3.1
+(Note 27, “Management of market risks and derivatives”) of this
+Registration Document.
+
+The Group has hedged its entire USD exposure for 2017 and 2018
+at a rate of 1.21 (2017) and 1.18 (2018).
+
+The Group has continued its exposure hedging strategy for 2019.
+At February 6, 2017, the hedging portfolio for 2019 amounted
+to USD 2.7 billion, of which USD 0.3 billion in forward sales and
+USD 2.4 billion in options with knock-out barriers set at various
+levels above 1.18. Provided that the EUR/USD exchange rate
+remains below 1.25 in 2017, the performance of all instruments
+in the portfolio should allow the Group to gradually increase the
+2019 portfolio to USD 8.0 billion, with a target hedging rate of
+between 115 and 118.
+
+The Group has begun to hedge its projected net exposure
+for 2020. At February 6, 2017, the hedging portfolio for 2020
+represented USD 1.5 billion in options with knock-out barriers set
+at various levels above 1.18. Provided that the EUR/USD exchange
+rate remains below 1.25 up to the middle of 2018, the performance
+of all instruments in the portfolio should allow the Group to
+gradually increase the 2020 portfolio to USD 5.5 billion, with a
+target hedging rate of between 1.13 and 118.
+
+The knock-out barrier option expires if the spot exchange rate
+climbs above the knock-out rate during the window in which the
+option is active, and the value of the hedging portfolio is then
+reduced by the notional value of the disabled option.
+
+For the record, the estimated annual exposure of approximately
+USD 7.5 billion for 2017 depends on budgeted sales figures, and is
+regularly reviewed for each year covered by the foreign currency
+risk hedging policy.
+
+A one-cent change in the EUR/USD exchange rate parity on the
+hedged rate has an impact of around €50 million on adjusted
+profit from operations.
+
+Sensitivity
+
+The following tables present the sensitivity of the main income
+statement aggregates to a 5% increase or decrease in the EUR-USD
+exchange rate (average and closing exchange rates). The first table
+
+shows adjusted data, the second consolidated data. The sensitivity
+analysis takes account of:
+
+F the translation effect, i.e., the impact of changes in the
+EUR-USD exchange rate on the translation into euros of the
+results of entities whose functional currency is the US dollar;
+
+F the transaction effect, i.e., the impact of changes in the
+EUR-USD exchange rate on USD transactions carried out by
+entities whose functional currency is the euro, and on the value
+of the EUR/USD hedging portfolio.
+
+The sensitivity of equity to a 5% increase or decrease in the
+EUR/USD closing exchange rate affecting the net investment
+hedge of some of its US entities is presented in section 3.1 (Note 27,
+“Management of market risks and derivatives") of this Registration
+Document.
+
+Adjusted data
+
+(in € millions) 2015* 2016
+EUR/USD exchange rate change assumptions -5% +5% -5% +5%
+Average exchange rate 111 111
+Average exchange rate used for sensitivity analysis 1.05 1.17 1.05 1.16
+Closing rate 1.09 1.05
+
+Closing exchange rate used for sensitivity analysis 1.03 114 1.00 1.11
+Revenue 338 (306) 356 (322)
+Profit (loss) from operations 9 (8) 9 (8)
+Financial income (expense) 13 a2) 4 (4)
+Profit (loss) before tax 22 (20) 13 (12)
+Non-adjusted consolidated data
+
+(in € millions) 2015* 2016
+EUR/USD exchange rate change assumptions -5% +5% -5% +5%
+Average exchange rate 111 111
+Average exchange rate used for sensitivity analysis 1.05 1.17 1.05 1.16
+Closing rate 1.09 1.05
+
+Closing exchange rate used for sensitivity analysis 1.03 114 1.00 1.11
+Revenue 644 (583) 660 (97)
+Profit (loss) from operations 315 (285) 314 (284)
+Financial income (expense) (2,068) 1,641 (2,114) 1,675
+Profit (loss) before tax (4,753) 1,356 (1,800) 1,391
+
+* The data published for 2015 have been restated to reflect the impact of applying IFRS 5 (see Note 3, “Restatement of 2015 comparative
+information” and Note 28, “Discontinued operations and assets held for sale”).
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+
+--- Page 6 ---
+
+INTEREST RATE RISK
+
+The Group's exposure to fluctuations in interest rates covers two
+types of risk:
+
+F price risk in respect of fixed-rate financial assets and liabilities.
+Interest rate fluctuations impact the market value of these
+assets and liabilities;
+
+F’ cash flow risk in respect of floating-rate financial assets and
+liabilities. Interest rate fluctuations have a direct impact on the
+Group's earnings.
+
+Within the framework of its general risk management policy, the
+Group arbitrates between these two types of risks using financial
+instruments specific to fixed-income markets (interest rate swaps
+and options, etc.).
+
+Euro interest rate risk
+
+An interest rate swap was taken out to convert the fixed rate
+payable on the €200 million bond issue carried out in the first-half
+2014 and maturing in April 2024 to a floating rate.
+
+Exposure to euro interest rate risk is presented in section 3.1
+(Note 27, “Management of market risks and derivatives”) of this
+Registration Document.
+
+USD interest rate risk
+
+The interest rate on the Group's February 9, 2012 issue of
+USD 1.2 billion in senior unsecured notes on the US private
+placement market has also been partially converted to a floating
+rate. Floating-rate borrower/fixed-rate lender USD swaps were
+set up on the 10-year and 12-year tranches, for USD 540 million
+and USD 505 million, respectively. The 7-year tranche for
+USD 155 million has been kept at a fixed rate,
+
+Exposure to USD interest rate risk is presented in section 3.1
+(Note 27, “Management of market risks and derivatives”) of this
+Registration Document.
+
+Sensitivity
+A 1% (100 basis point) rise in interest rates would have a minimal
+
+impact on the cost of debt (versus an increase of €5 million in the
+cost of debt in 2015).
+
+COMMODITY RISK
+
+Starting in 2009, the Group's policy had been to hedge its
+exposure to fluctuations in the price of certain listed commodities
+(nickel, platinum and oil). The policy sought to protect the Group's
+economic performance from commodity price volatility.
+
+The Group decided to unwind all of its commodity hedges ahead
+of maturity at the end of 2016 as this risk was not deemed material
+for the Group.
+
+EQUITY RISK
+
+Safran is exposed to fluctuations in the stock market price of the
+Embraer share, which is the only listed security held by the Group.
+
+A 5% decrease in the price of this share would have had a net
+negative impact of €2 million on equity at end-2016 (negative
+€3 million impact at end-2015).
+
+RISK FACTORS 4 |
+Risk factors
+
+COUNTERPARTY RISK
+
+The Group is exposed to counterparty risk on the following
+F short-term financial investments;
+
+F derivatives;
+
+I trade receivables;
+
+F financial guarantees granted to customers.
+
+Financial investments are diversified and consist of blue-chip
+securities that are traded with top-tier banks.
+
+The sole purpose of the Group's derivative transactions is to
+reduce the overall exposure to foreign currency, interest rate and
+commodity risks resulting from its ordinary business activities.
+Transactions are either carried out on organized markets or over-
+the-counter with top-tier intermediaries.
+
+The counterparty risk taken into account in pricing derivatives
+is not material (section 3.1 - Note 1y, “Derivatives and hedge
+accounting” of this Registration Document).
+
+Counterparty risk related to trade receivables is limited due to the
+large number of customers in the portfolio and their geographical
+diversity.
+
+The Group may be exposed to delayed payment risk on civil
+and military contracts, particularly as regards its government
+customers, and this may adversely impact its free cash flow
+targets.
+
+The maturity schedule for trade and other receivables is set out
+in section 3.1 (Note 16, “Trade receivables”) of this Registration
+Document.
+
+LIQUIDITY RISK
+
+The Group looks to ensure that it has broad access to liquidity in
+order to meet its obligations as they fall due. To do this, it borrows
+from banks and capital markets, thereby exposing it to liquidity
+risk if all or part of these markets were to dry up.
+
+Safran's business requires it to have access to external sources of
+financing and the availability of such financing depends ona variety
+of factors such as market conditions and the macroeconomic
+environment. A deterioration in the financial markets (capital or
+bank debt markets) could lead to an increase in borrowing costs
+or even restricted access to financing for both Safran and for its
+competitors.
+
+Furthermore, lenders and/or investors could develop a negative
+view of the Group's short- to medium-term financial prospects,
+particularly if it were to incur losses, which could also affect its
+future financing capacity.
+
+Treasury management is centralized within the Group. Where
+permitted by local legislation, all surplus cash is invested with,
+and the financing requirements of subsidiaries met by, the parent
+company on an arm's length basis. The central cash team manages
+the Group's current and forecast financing requirements, and
+ensures it has the ability to meet its financial commitments while
+maintaining a level of available cash funds and confirmed credit
+facilities commensurate with its scale and debt repayment profile.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+191
+
+
+--- Page 7 ---
+
+a 4 RISK FACTORS
+Risk factors
+
+192
+
+Surplus cash is managed with two principles in mind:
+I safeguarding the amounts invested at all times;
+
+F optimizing investment yields whenever possible, without
+jeopardizing the investments themselves.
+
+Since the Group had an undrawn, confirmed liquidity line at
+December 31, 2015, it is relatively insensitive to liquidity risk. This
+€2,520 million line was set up in December 2015 and expires in
+December 2020. It includes two successive one-year extension
+options, one of which was exercised in late 2016, extending
+maturity to 2021. This line is not subject to any financial covenants.
+
+A number of financial covenants apply to the EIB borrowings set
+up in 2010. The following two ratios apply:
+
+T net debt/EBITDA <2.5;
+F net debt/total equity <1
+
+The “net debt/EBITDA <2.5” covenant also applies to the senior
+unsecured notes issued on the US private placement market.
+
+The terms “net debt”, “EBITDA” and “total equity” used in
+connection with the EIB borrowings and the US private placement
+(USPP) are defined as follows:
+
+F net debt: borrowings (excluding borrowings subject to specific
+conditions) less marketable securities and cash and cash
+equivalents;
+
+F’ EBITDA: the sum of profit (loss) from operations and the
+net charge to depreciation, amortization and provisions for
+impairment of assets (calculated based on adjusted data);
+
+F total equity: equity attributable to owners of the parent and
+non-controlling interests.
+
+The maturity schedule for financial liabilities (excluding derivatives
+with a negative fair value) is set out in section 3.1 (Note 23, “Interest-
+bearing financial liabilities”) of this Registration Document.
+
+4.2.1.3 Legal and regulatory risks
+
+From a legal standpoint, Safran is exposed to the risk of claims
+resulting from alleged non-compliance with certain contractual
+obligations in its relations with third parties. If any such claims are
+made, they are examined by the Legal Department so that it can
+best defend the Group's interests.
+
+Aside from the main legal risks identified and disclosed in the
+“Contingent liabilities arising on ordinary activities” section of the
+note on off-balance sheet commitments (see section 3.1, Note 31)
+and in the section on “Disputes and litigation” (see section 3.1,
+Note 32) of this Registration Document, based on an analysis of
+the legal risks to which the Group is exposed, no other probable
+or material risks were identified.
+
+The Group is also exposed to the risk that it fails to comply with
+applicable regulations. Regarding export controls for example, the
+Group is bound by legislation and regulations issued by French and
+international authorities, particularly the European Union and the
+US. The same applies for anti-trust law, anti-corruption regulations,
+and any embargoes and sanctions taken against countries in which
+it does business.
+
+To ensure that it complies with French and international
+regulations, Safran has put in place action plans outlined in
+section 5.2, “Perpetuating the integrity culture” of this Registration
+Document. These action plans are designed to ensure that
+Group companies report all claims or any potential cases of
+non-compliance with applicable regulations, inform the authorities
+concerned of any such cases identified, and take all the necessary
+precautions to prevent similar cases arising in the future. To date,
+the few instances of non-compliance with export rules voluntarily
+brought to the attention of the authorities have been closed after
+investigation, without damages. Concerning embargoes and
+sanctions, particularly in the US, the Group ensures that it takes all
+adequate and necessary measures to comply with all such regimes
+affecting its operations.
+
+4.2.2 Risks relating to Group business sectors
+
+4.2.2.1 Operational risks
+AIRCRAFT ACCIDENTS
+
+Safran products are integrated in high-tech equipment with a
+high unit price, especially civil and military aircraft, helicopters
+and space launch vehicles. Safran may be held liable, for example,
+for the malfunction, loss or accident of an aircraft, the death of
+passengers, or the loss of operating capability by an airline or
+helicopter operator.
+
+As part of its risk management policy, Safran adopts a variety of
+measures to limit risks relating to aircraft accidents. A description
+of the focuses identified by the Group Quality Department is
+provided in section 1.9 of this Registration Document. Safran has
+huge obligations in terms of air safety and is required to have a
+highly effective, demanding quality-focused management system.
+The effectiveness of this system along with the related action plans
+have led to Safran obtaining airworthiness agreements (or having
+such agreements renewed) and 9100-certification for first-tier
+
+(@ Quick Response Quality Control.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+companies. In addition, dedicated progress plans, which include
+roll-out of the @RQC® method, allow quality issues to be dealt with
+close to source and remedied as quickly as possible.
+
+DELAYS, PROGRAM DEVELOPMENT
+AND INDUSTRIALIZATION
+
+Aircraft manufacturers may encounter difficulties in meeting
+their program schedules or even keeping programs going.
+Delays in production schedules for new aircraft may lead to the
+postponement of deliveries, including Safran equipment deliveries,
+and impact the timing of the Group’s revenue. In certain cases,
+delays specific to developments under Safran’s responsibility can
+lead it to pay damages to the stakeholders concerned. The Group
+may be held liable for these delays. Delays can also lead to Safran
+collecting cash later than forecast, thereby impacting the Group's
+cash and potentially its profitability. This may lead it to write off
+assets recognized in respect of those programs.
+
+
+--- Page 8 ---
+
+For example, the Silvercrest engine selected by Dassault Aviation
+to power its Falcon 5x jet incorporates leading-edge technologies
+to offer unrivaled performance, with very high targets in terms
+of fuel consumption, reliability and respect for the environment.
+Tests carried out on the engine revealed that further developments
+were needed, pushing the engine’s certification schedule back
+to the second half of 2018, 18 months later than the previous
+schedule. Safran took a write-off on the full amount of the
+property, plant and equipment and intangible assets relating to
+this program. The Group has also booked provisions to cover all
+of its contractual commitments, especially the fines due in respect
+of the development phase (see section 3.1, Note 20).
+
+Safran continued to deploy its program management initiatives,
+primarily through its “One Safran” quality management system (see
+section 1.9). This system provides project teams with a framework
+(known as “PROMPT"®) as well as methods and applications for
+enhancing program management processes. PROMPT is based on
+five “golden rules”: keeping the Program Management Plan (PMP)
+up to date, meeting expectations of all stakeholders, planning and
+meeting technical objectives, steering performance and managing
+risks. It has been rounded out by a Program Management guide
+of best practices and rules to be respected, charted on a maturity
+grid that enables each program manager to conduct an annual
+self-assessment of the risks faced and the measures taken
+
+PRODUCTS AND SERVICES
+
+The Group applies very strict quality and safety standards in the
+design and manufacture of its high-tech products and associated
+services.
+
+Thanks to robust processes and high-level oversight of certain
+key aspects (such as ramp-up), program management enables
+the Group to ensure a smooth transition between the different
+programs (see section 4.2.2.1 “Delays, program development and
+industrialization”). Details of the CFMS6/LEAP transition plan are
+set out in chapter 1 (see section 1.3.11, “Mid-thrust engines for civil
+aircraft") and chapter 2 (see section 21.3.1, “Mid-thrust engines for
+civil aircraft (short-to medium-haul)"). The CFMS6/LEAP transition
+plan has been subject to this high-level oversight. It has been
+presented to the markets, and more recently at Safran’s Capital
+Markets Day, held on March 14, 2016.
+
+Quality failures or shortcomings in Safran’s equipment, systems
+or technology could result in costly claims for damages from
+customers, partners or third parties (product recalls, upgrade
+campaigns or retrofits), lost revenue and/or a loss of its commercial
+standing. Safran's image may also be affected,
+
+In order to best manage this risk, Safran has deployed a range
+of quality-focused initiatives, as described in section 1.9 of this
+Registration Document.
+
+SUPPLIER AND PARTNER RISKS
+
+Generally speaking, Safran works in cooperation with partners
+and suppliers in the majority of its businesses. Events likely to
+
+(® Safran’s program management framework.
+
+RISK FACTORS 4 |
+Risk factors
+
+affect its partners and suppliers could have an impact on Safran's
+business activities.
+
+Supplier risks
+
+Supplier difficulties or default, even when robustness was one
+of the key criteria for Safran’s selection, could impact the supply
+chain, resulting in additional costs or production delays that would
+affect the Group.
+
+To address this risk, the Group Purchasing Department
+conducts a monthly review of potentially problematic suppliers
+with a designated manager and associated action plans. For
+non-production purchases, Safran has put in place a central
+purchasing strategy (see section 1.8) in the form of pooled facilities
+at a Shared Services Center in line with the Group's objectives of
+excellence, competitiveness and sustainable development.
+
+The Group is also exposed to commodity availability and price
+volatility risks, notably in respect of titanium, nickel alloys,
+composite fibers, ammonium perchlorate and oil. To limit the
+impact of these risks, the Group negotiates medium-term
+procurement contracts with its suppliers, setting up dual-source
+supply streams or building up appropriate inventories wherever
+possible.
+
+Since the end of 2014, for example, in order to reduce the risk of
+embargoes on titanium supplies from Russia, Safran has built up
+buffer stocks and systematic dual-source supply streams.
+
+The volume of commitments undertaken by Group entities
+corresponds to the planned increase in production over the
+coming years. To protect its LEAP program in particular, Safran
+has set up a dual-source supply approach, enabling it to secure
+the supply chain
+
+Partner risks
+
+Safran is involved in several major strategic partnerships. If any of
+these partnerships were not renewed, Safran’s businesses could
+be affected.
+
+A substantial proportion of Safran’s revenue is derived from
+certain civil aircraft engine programs developed and manufactured
+in cooperation with GE. In July 2008, Safran and GE signed an
+agreement to extend their civil Aerospace Propulsion partnership
+until 2040, which now includes operational maintenance services.
+They also entered into an agreement for the development,
+production and support of engine nacelles for future short- and
+medium-haul aircraft.
+
+To secure the supply chain, Safran and Albany (US) have two
+plants, one in Rochester (New Hampshire, US) and one in
+Commercy (Meuse, France), which manufacture composite parts
+for new-generation aircraft engines. A third plant has been built
+in Querétaro (Mexico) and is slated to start up production in 2017.
+
+Safran is also involved in other partnerships, namely with Airbus
+Group for space launchers (Airbus Safran Launcher joint venture),
+NPO Saturn (PowerJet joint venture), Avic, MTU, Thales (Sofradir
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+193
+
+
+--- Page 9 ---
+
+a 4 RISK FACTORS
+Risk factors
+
+194
+
+and Optrolead), and Rolls-Royce (Aero Gearbox International for
+power transmission systems for all future Rolls-Royce civil aircraft
+engines).
+
+These partnerships are set up in full compliance with the anti-trust
+laws applicable in all markets and countries in which they operate
+(see section 1.4).
+
+HEALTH, SAFETY AND ENVIRONMENTAL RISKS
+
+All industrial activities generate risks, particularly health, safety
+and environmental (HSE) risks. In each country where the
+Group has operations, its activities are subject to environmental
+legislation and regulations, particularly with respect to waste and
+air, water and soil pollution. Legal and regulatory requirements
+for environmental protection have become increasingly stringent
+and the Group may have to incur significant costs to comply with
+them. Due to its two Seveso facilities, the Group is also exposed
+to risks such as rehabilitation costs that could be quite high.
+Safran’s HSE policy is implemented within the framework of a
+continuous improvement drive which aims to bolster its strategy
+of anticipating and preventing potential risks in all of its activities.
+
+Chapter 5 of this Registration Document on Corporate Social
+Responsibility presents a range of HSE programs and initiatives,
+enabling Safran to assess the carbon footprint of its activities
+and to develop more innovative products and processes with
+minimal impact on the environment. Moreover, based on the
+analyses carried out, all risks are appropriately managed, including
+as regards France's low-carbon strategy to which the Group
+contributes via recent eco-friendly industrial investments. By
+adhering to a digitalization policy, the Group also plays it part
+in cutting back on greenhouse gas emissions (by encouraging
+tele-commuting, limiting physical travel, optimizing its production
+resources and therefore its energy consumption).
+
+PERSONAL SAFETY RISKS
+
+The Group's international scope may generate certain safety risks.
+The Safety Department has set up a specific oversight organization
+for each country to address these risks. The Group is constantly
+assessing the risks of terrorism, armed conflict and confrontation
+with criminal organizations. Its regions are classified according to
+risk, each of which is associated with a series of specific prevention
+and protection measures. The Group is assisted in this initiative
+by the French government as well as specialist service providers.
+An emergency operations center may be set up in response to a
+specific situation and provide exceptional resources to operating
+staff, for example resources to carry out an emergency repatriation.
+
+DATA CONFIDENTIALITY RISKS
+
+Safran is exposed to the risk of breaches of security in relation to
+its industrial premises or data processing systems.
+
+Data owned by the Group are critical in terms of technological
+innovation, as well as strategy and key assets. Safran therefore
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+needs to have reasonable assurance that its intangible assets (data,
+knowledge and expertise in particular) are adequately protected.
+
+Faced with risks of unlawful attempts to gain access to confidential
+information and threats to the security of installations, cyber threat
+prevention is essential to ensure that the Group can continue in
+operation
+
+These cyber risks could lead to disruptions in IT services, causing
+for example the loss of network on internal and external network
+exchange platforms and the unavailability of messaging services,
+or even breaches in the confidentiality or integrity of data hosted
+by or transiting through the Group's information systems (loss,
+destruction, theft, corruption).
+
+In order to limit the impact of this risk, Safran has defined an
+information system security policy which sets down a series of
+organizational, technical and governance guiding principles. This
+policy notably meets requirements set out in French regulations
+on the protection of intangible assets contained in information
+systems. Awareness-raising initiatives for all Group employees
+are organized on a regular basis. Lastly, to respond to emerging
+threats, Safran continually invests as needed in information system
+protection, incident detection and event response, and security
+warnings and alerts, and in regular reviews of their effectiveness.
+
+4.2.2.2 Risks relating to the Group’s
+evolution
+
+TECHNOLOGICAL RISKS
+
+The Group's markets typically undergo far-reaching technological
+changes. Safran designs, develops and manufactures products and
+services renowned for their advanced innovative and technological
+content. The Group is exposed to the risk of competitors
+developing products that offer a better technical performance, are
+more competitive or are marketed earlier than those it develops.
+This could affect Safran’s activities or financial position.
+
+The actions taken by the Group to limit the impact of such risks
+are outlined in section 1.5, “Research and development”.
+
+The Group draws on the complementary scientific and technical
+expertise provided by its partners (see section 1.5.2)
+
+Safran has set up a pooled research unit focusing on upstream,
+cross-functional technologies within Safran Tech, the Group's
+research and technology center. Safran Tech is home to over
+300 scientists and technologists and comprises several new
+research sites and hubs, including the facilities at Safran
+Composites (comprising around 100 specialists in composite
+materials and organic chemistry) and Paris-Saclay.
+
+In spring 2015, Safran created Safran Corporate Ventures, an
+investment vehicle for start-ups aimed at supporting the upstream
+development of innovative, high-potential technologies and
+capturing benefits for the applications used by the Group.
+
+
+--- Page 10 ---
+
+For Safran, intellectual/industrial property (“IP”) is an intangible
+asset of increasing importance in a context of globalized markets
+and ever-fiercer competition
+
+Safran may be exposed to a risk of breaches in its
+intellectual/industrial property, regardless of whether or not it
+is legally protected (unlawful use by a third party of products,
+services or software). Safran may be unable to enforce its rights
+(or to enforce its rights at a reasonable cost) and may therefore be
+exposed to a variety of risks such as the loss of market share and
+even damage to its reputation, particularly in the event of technical
+problems arising as a result of the use of counterfeit products.
+
+Safran’s efforts to protect its know-how and other confidential
+information may prove inadequate and any unlawful access to
+such information damaging for the Group.
+
+The patents filed by Safran may also fail to dissuade competitors
+from developing and marketing similar products and services.
+
+To protect itself against this risk, Safran has set up a program to
+raise awareness regarding IP protection and compliance, designed
+particularly for technical personnel in teams participating in
+international cooperation programs. An IP protection strategy has
+been rolled out for each geographical region and country, based
+on the classification of critical technologies and on an analysis
+of the cost of protection with regard to the added value of the
+particular IP for Safran.
+
+Like other high-tech companies, Safran may be the subject of
+claims for unintentional use of the intellectual/industrial property
+of third parties without their prior consent.
+
+Safran does its utmost to avoid such unintentional use,
+particularly when the third party concerned is a customer,
+partner, subcontractor or supplier. This risk could expose Safran to
+substantial financial costs (disputes, fines, royalty payments, etc.).
+
+To reduce the impact of this risk, Safran has put in place measures
+to source and consider existing IP under legal protection when
+it is developing its products, systems and services. Safran has
+also brought in IP experts and specialists to help it review its
+product design and technology readiness level (TRL). Measures
+are also rolled out providing active oversight of competitor IP and
+objection procedures are applied where necessary. Team training
+sessions are also held.
+
+These investments incurred to respond to the above actions are
+designed to support Safran’s technological excellence in the above
+fields that are crucial to its competitive edge.
+
+UNCERTAINTY REGARDING RETURNS
+ON INVESTMENTS
+
+Safran’s businesses, and particularly aerospace research, require
+investments that only produce returns in the long term. The
+market and profitability assumptions determined by the Group
+may not prove accurate, and the products resulting from these
+investments may not enjoy sufficient commercial success to ensure
+a return on the initial investment (drop in demand, shut-down
+of a program). Capitalized R&D assets (excluding goodwill and
+programs) recognized in the balance sheet at December 31, 2016
+totaled approximately €2.7 billion (see section 3.1, Note 11), and
+property, plant and equipment (mainly industrial investments)
+
+RISK FACTORS 4 |
+Risk factors
+
+amounted to approximately €3.2 billion (see section 3.1, Note 12).
+These amounts are net of accumulated depreciation, amortization
+and impairment loss provisions.
+
+Investment decisions are coordinated at Group level, based on
+tried and tested guidelines and numerous evaluation criteria,
+In addition, the Safran Innovation Department (see sections 1.5
+and 1.6) is tasked to oversee the phase between technological
+demonstrations and marketing.
+
+DEPENDENCE ON PUBLIC PROCUREMENT
+CONTRACTS
+
+Safran conducts part of its business with governments, especially
+in Defense markets in Europe, North America, Asia and the
+Middle East. Government spending in these markets is subject to
+trade-offs that are contingent on the geopolitical environment and
+ever-stricter budgetary constraints. Budget cuts affecting many
+of the Group's public customers can not only lead to delays in
+orders placed or curtailments, postponements or cancellations in
+the fulfillment of such orders and the related financing, but also
+to a deterioration in advance payment plans. This could affect
+Safran's businesses or financial position.
+
+Safran’s strategy is based on a balanced portfolio of Civil Aviation
+and Defense businesses. In 2016, approximately 20% of the Group's
+adjusted consolidated revenue was derived from government
+contracts. The broad geographical diversity of the Group's
+businesses, particularly through its international sites, reflects
+its customer diversification strategy which helps create a robust
+business portfolio. This global strategy is also a means of reducing
+the risk of dependency on government business.
+
+ACQUISITION AND RESTRUCTURING RISKS
+
+As part of its growth strategy, Safran may acquire, merge
+and/or set up companies, enter into joint venture-type strategic
+arrangements, or divest select non-core businesses. The Group has
+devised procedures and controls to limit the risks inherent in such
+transactions. Processes have been put in place to ensure that these
+transactions meet the Group's strict financial criteria (debt, return
+‘on capital employed, etc.). These may have a negative impact on
+the Group's business, expected earnings or image should Safran
+fail to integrate the businesses and employees of the acquired
+entities, unlock the expected synergies and cost savings, or
+maintain good trade or labor relations within the acquired entities
+following changes in management or control. The Performance
+and Competitiveness Department has put in place strict oversight
+processes for these transactions to ensure that the synergies and
+earnings obtained are in line with those forecast.
+
+4.2.2.3 Human resources risks
+
+The Group's different activities harness a wide range of employee
+expertise and skills across many different sectors. As a result,
+Safran is exposed to the risk of failing to find the appropriate skills
+at the right time and in the right place that it needs to deploy its
+strategy and complete its programs effectively.
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+195
+
+
+--- Page 11 ---
+
+a 4 RISK FACTORS
+Insurance
+
+196
+
+In order to limit this risk, the Group continually strives to acquire,
+retain, redeploy, bolster and renew the skills that it will need in the
+future. It has developed a partnership strategy with top graduate
+schools and scientific universities to recruit employees for its core
+businesses and has also worked on promoting the Safran employer
+brand. In addition, professional and geographical mobility
+programs, talent identification systems, training, monitoring
+
+4.3 INSURANCE
+
+The Risk and Insurance Department identifies the accident risks to
+which Group entities are exposed and puts in place the appropriate
+insurance policies. This does not include personal risk insurance
+or credit insurance.
+
+The key accident risks are covered by worldwide multi-risk
+policies spanning several years, negotiated with leading insurance
+companies:
+
+Fa “property damage and business interruption” policy providing
+coverage for damage to industrial installations (buildings,
+machines, inventories, etc.). The maximum payout under the
+policy is €300 million, or up to €1.3 billion for certain individual
+sites, excluding market-imposed sub-limits for certain risks
+such as flooding, earthquakes and natural disasters;
+
+PF’ “product third-party liability” policies covering the Group in the
+event it is held liable for damages to third parties as a result
+of an accident attributable to a delivered product no longer
+owned or controlled by a Group entity;
+
+SAFRAN REGISTRATION DOCUMENT 2016
+
+and career development are all used to boost the Group's
+attractiveness as an employer. In this respect, Safran University
+is essential in preparing the Group to meet the challenges of
+tomorrow. Safran has also introduced employee profit-sharing
+and equity and savings incentive schemes that foster employee
+buy-in and loyalty. This policy is outlined in section 5.4 of this
+Registration Document.
+
+= aviation products:
+
+the policies provide coverage totaling USD 2 billion per
+annum that can be used during the year for aviation
+products. Coverage for helicopter products is capped
+at USD 1 billion, while coverage for terrorism totals
+USD 1 billion;
+
+= “land” products (excluding aviation businesses).
+
+The policies provide coverage of €350 million per annum that can
+be used during the year.
+
+A captive reinsurance company owned by the Group participates
+in the risk coverage scheme within the framework of “civil aviation
+liability” and “property damage and business interruption”
+insurance policies.
+
+Local insurance programs are subscribed across the globe either
+to cover specific risks or in response to local regulatory insurance
+requirements
+
+
+--- Page 12 ---
+
+
+
+--- Page 13 ---
+
+| Delivery of the first LEAP-1A-powered A320neo to Pegasus Airlines (July 2016).
+
+EMPLOYEES WORLDWIDE
+at December 31, 2016
+
+66,490 a
+
+NEW HIRES WORLDWIDE
+IN 2016
+
+More than 7,000 ica
+
+HOURS OF TRAINING IN 2016
+More than 1.6 million
+
+FREQUENCY RATE OF OCCUPATIONAL
+ACCIDENTS RESULTING IN LOST
+WORKTIME IN 2016
+(down from 2015)
+
+2.2
+
+NUMBER OF OCCUPATIONAL ACCIDENTS
+RESULTING IN LOST WORKTIME
+PER 1,000 EMPLOYEES IN 2016
+
+(down from 2015)
+
+4
+
+SAFRAN AND SIX
+OF ITS TIER-ONE COMPANIES
+have received anti-corruption
+certification since 2012
+
+NUMBER OF EMPLOYEES WHO RECEIVED
+ON-SITE TRAINING WORLDWIDE IN 2016
+on Safran’s compliance programs
+
+More than 6,450
+
+SUPPLIER DEVELOPMENT PROJECTS
+managed by Safran
+
+104
+
+CORPORATE SOCIAL RESPONSIBILITY
+
+Safran’s social responsibility program features six strategic focuses based on the main guidelines of the
+ISO 26000 standard:
+
+F guaranteeing better relations with stakeholders;
+
+perpetuating the Group's integrity culture;
+
+involving suppliers and partners;
+
+developing human potential;
+
+always aiming for excellence in safety and the protection of individuals and property;
+
+11177
+
+developing innovative products and processes with a lower environmental impact.
+
+ETHICAL AND SOCIAL ENGAGEMENT
+
+Safran has a set of values and ethical standards that are embraced by all of its employees. The Group
+has a duty of vigilance that is integrated into all Company functions and guides the development of
+its businesses in accordance with the highest international standards of business ethics, integrity and
+professionalism. These values and ethical behavior are critically important and are intended to enable
+the Group to remain worthy of the trust placed in it by all of its stakeholders. This is reflected in the
+certifications obtained by Safran and its subsidiaries.
+
+INVOLVING SUPPLIERS AND PARTNERS
+
+With the understanding that its suppliers contribute to driving its success, the Group maintains enduring
+relationships with them built on trust, mutual expectations of high standards and a common quest for
+performance. Safran’s purchasing policy guides them to grow, acquire skills and develop their innovative
+capacity. The Group has also introduced a Responsible Supplier Relations label for all of its subsidiaries.
+
+SAFRAN’S HUMAN RESOURCES POLICY
+
+The Group's human resources (HR) policy focuses on three strategic areas:
+
+F nurturing the best talent to serve innovation;
+
+F’ promoting social responsibility;
+
+F driving the Group’s international expansion and transformation.
+
+The HR function has implemented major reforms to meet these goals and significantly boost its
+
+collective performance, offering managers and employees greater support, more solutions and a better
+understanding of the organization to which everyone contributes.
+
+HEALTH, SAFETY AND ENVIRONMENT (HSE)
+Safran aims for excellence in HSE.
+
+So as to achieve this, Safran applies a sustainable HSE policy and drives a culture of anticipation and
+prevention led from the highest level of the organization. This policy is in keeping with its approach to
+continuously improve performance and is structured into steadfast commitments: preserving health and
+safety for all, protecting the environment and integrating HSE requirements throughout the product life
+cycle in line with the sustainable development issues that apply to its business activities.
+
+CSR REPORTING METHODOLOGY AND INDEPENDENT
+THIRD PARTY REPORT
+
+Safran has elected to have the social, environmental and community involvement information presented in its
+report reviewed by one of its Statutory Auditors, Mazars, in accordance with Article 225 of the Grenelle 2 Act
+and its implementing legislation. The Statutory Auditors obtained reasonable assurance for 14 of the social
+indicators (identified by the symbol in this section) and limited assurance for a selection of 16 HSE indicators
+and one social indicator, as well as reviewing ten qualitative themes. The nature and scope of the work of
+the Statutory Auditors, and their conclusions, are presented in the report in section 5.7.2.
+
+198 SAFRAN REGISTRATION DOCUMENT 2016
+
+NA
+
+==
+
+c

@@ -1,0 +1,2445 @@
+
+
+--- Page 1 ---
+
+16
+
+Management Commentary
+Strategy and the environment
+
+Strategy and the environment
+
+Swisscom’s corporate strategy is aimed at securing its position as a market,
+technology and innovation leader, and offering its customers the best.
+Trustworthy, committed and never losing sight of what is important.
+
+Corporate strategy
+
+General
+
+Swisscom is the Swiss market leader for mobile telecommunications, fixed-line telephony and television. It also
+occupies a leading market position in a wide range of IT business segments. Fastweb is the leading alternative
+provider for both retail and business customers in the Italian fixed-line market.
+
+Megatrends such as digitisation and connectivity, customisation and demographic change are shaping and
+changing our society and the economy in the long run and have a long-term impact on the activities of Swisscom.
+The increasing proliferation of the Internet of Things, the 5G mobile telephony standard being ready for market
+and the advancements made in the field of artificial intelligence are short to medium-term trends that impact
+Swisscom’s business.
+
+The market environment in which Swisscom operates has changed radically in recent years. Characteristic exam-
+ples of this include increasing connectivity, exponential data growth, the growing significance of software, data
+and content, changing customer requirements and rapid technological progress. The competition on the satu-
+rated core market is becoming increasingly fierce, which is in turn intensifying price pressure. Global Internet
+companies are using their economies of scale and forcing themselves into local ICT markets, stepping up compe-
+tition even further. These developments have exerted pressure on the revenues generated in the Swisscom core
+business. The resulting lower revenue and income need to be offset in order to ensure that sufficient financial
+resources are available.
+
+As number 1, we are shaping the future.
+Together we inspire people in the networked world.
+
+at
+Best customer experience Operational excellence New growth
+
+In its capacity as a market, technology and innovation leader, Swisscom connects both residential and corporate
+customers. In an increasingly networked world, it is taking an active and assertive role in shaping the future.
+Swisscom focuses on the needs of the people in everything that it does. Its employees work in concert to provide
+inspirational experiences. Swisscom is committed and trustworthy in its actions, consistently takes a curious
+stance towards further development and never loses sight of what is important when pursuing its goals. Customer
+trust is at the heart of everything Swisscom does, and is reinforced by the reliability and sustainability of the
+company’s activities. In order to make its vision a reality, Swisscom has set out three strategic aspirations which
+help to define the strategy.
+
+The best customer experience
+
+In order to inspire its customers, Swisscom has to provide them with the best service at all times, regardless of
+their location. The customer experience is based on a high-performance infrastructure. Swisscom therefore aims
+to offer its customers the latest IT and communications infrastructure and therefore assert its position as a tech-
+nological leader. Customer requirements vis-a-vis the availability and performance of the networks are constantly
+growing. As a result, Swisscom is setting up and operating networks that are second to none in terms of security,
+
+
+--- Page 2 ---
+
+availability and performance. By expanding and upgrading its fixed telephone and mobile network infrastructure
+with the latest technologies (such as 5G), Swisscom is ensuring that its customers enjoy the best experiences
+when utilising the company’s offerings. The Swisscom Cloud is the key platform for the internal and external pro-
+vision of services and forms the basis for new, scalable offerings that are produced in Switzerland. Swisscom
+complements its own cloud with global solutions, thereby operating as a service provider that also integrates
+solutions into hybrid environments.
+
+The key to the success enjoyed by Swisscom is its relationships with its customers. The company’s main guiding
+principles are to provide the best service and inspirational experiences across the board. Swisscom customers can
+count on us as a competent, reliable partner and enjoy service that is individual, flexible and personal at all points
+of contact. For example, customers can have their damaged mobile phones repaired in no time at all in the nine
+Repair Centres, which meets a key customer requirement. Swisscom is thus reducing complexity and providing
+relevant, innovative offerings. In the TV segment, Swisscom is continually simplifying operability and offers each
+and every one of its customers a personalised entertainment service thanks to the further development of the
+user interface. Swisscom is also continually upgrading its service offerings, such as with My Service — the personal
+support offering for technical enquiries. When creating new digital services and experiences, Swisscom always
+focuses on meeting the needs of its customers. In this way, Swisscom is restoring the trust its customers have in
+the company, reinforcing customers’ loyalty to the brand and increasing agility and efficiency.
+
+Operational excellence
+
+Due to fierce competition, the revenues being generated by national telecommunications service providers are on
+the whole declining, resulting in even greater cost pressure. It is therefore key that Swisscom consistently opti-
+mises its cost base over the next few years in order to remain financially successful in the long term and to absorb
+the effects of price competition and margin erosion. This is the only way in which Swisscom can release the funds
+for developing new business opportunities and secure profitability. One of the main focuses in optimising costs is
+the creation of efficient operating procedures, for example by simplifying and adjusting the product portfolio,
+using agile development methods, modernising and consolidating the IT platforms, increasing the efficiency of
+staff deployments, and optimising processes being driven by initiatives such as All IP migration. Another key ele-
+ment is the internal digital transformation, which includes the virtualisation of network functions, improvement
+of the online channel, increasing the level of process automation and the greater use of artificial intelligence and
+analytics. In addition to this, Swisscom is increasing the efficiency of its investment activities, for example by
+utilising an intelligent mix of technologies and by reducing the number of partners involved in the expansion of
+the network.
+
+New growth
+
+Swisscom anticipates that the figures for the relevant markets in Switzerland and Italy will continue to grow
+steadily on the whole. The main driving forces behind this are modest population growth, the increase in use of
+ICT in a wide variety of industries and the relatively low broadband penetration in Italy. Nevertheless, price pressure
+remains at a high level, to the extent that a slight drop in market revenue is to be expected on the whole, particularly
+in the telecommunications market.
+
+Swisscom wants to realise growth opportunities by further developing its core business — for example by means
+of growth in entertainment (such as TV) and in Wholesale or by making use of opportunities that arise as a result
+of new consumer applications in the area of the Internet of Things (loT). There are further opportunities for growth
+in the medium term in other sectors, too, such as healthcare and banking — in which Swisscom provides vertical
+ICT services — as well as the solutions business relating to digital security and in the cloud segment. Swisscom is
+launching new digital services in selected areas. Some of these services are based on new business models, focusing
+on marketplaces (such as siroop and Mila), digital services for SMEs (such as localsearch), and support technologies
+and platforms (such as blockchain). When selecting growth areas, Swisscom is guided by future customer require-
+ments, focuses on future-oriented business models with substantial growth and is making increased use of
+partnerships. In addition to the activities mentioned above, Italian subsidiary Fastweb is playing a key role in the
+realisation of growth opportunities. Swisscom is improving Fastweb’s market position and achieving growth in
+Italy thanks to the further development of the mobile communications market, the expansion of the business
+customer portfolio by means of horizontal solutions in relation to the cloud and digital security, high-quality
+service, the utilisation of partnerships as well as a convergent product portfolio which cuts an impressive figure
+due to its transparency, fairness and simplicity.
+
+In order to both further develop the core business and also tap into new business areas, Swisscom is continuously
+striving to transform the corporate culture. To achieve this, it will focus on agile and customer-centric working
+models and organisational structures, the development of relevant key skills and technological transformation,
+for example.
+
+17
+
+Management Commentary
+Strategy and the environment
+
+
+--- Page 3 ---
+
+18
+
+Management Commentary
+Strategy and the environment
+
+Forerunner in corporate responsibility
+
+Swisscom is committed to developing a modern and future-oriented Switzerland. Its Corporate Responsibility
+
+activities focus on issues that have high relevance for stakeholder groups and at the same time are closely linked
+
+to the company’s core business. These activities are centred around the following seven action areas:
+
+> Networked Switzerland: By the end of 2021, some 90% of all homes and businesses will have a minimum
+bandwidth of 80 Mbps — with around 85% of connections achieving speeds of 100 Mbps or higher.
+
+> Energy efficiency and climate protection: By 2020, Swisscom plans to increase energy efficiency by another
+35% compared to 1 January 2016. Together with its customers, Swisscom is aiming to save twice as much CO,
+as it emits through its operations including the supply chain by 2020.
+
+> Attractive employer: Swisscom wants to be one of the most attractive employers in Switzerland by 2020.
+
+> Work and life: By 2020, Swisscom aims to be supporting one million people with its offerings in the healthcare
+sector and also provide one million people with the opportunity to use mobile working models.
+
+> Media skills and security: Swisscom aims to be the market leader in data security by 2020, helping one million
+people to use the media safely and responsibly.
+
+> Sustainability image: Swisscom wants to improve the way its sustainability efforts are perceived by the general
+public and achieve a “Citizenship” score of 70 out of 100 points (Reptrak standard) by 2020.
+
+> Fair supply chain: In the interests of a fair supply chain, Swisscom is committed to improving employment
+conditions for more than two million people by 2020.
+
+Climate protection includes the following activities in particular: analysis of the opportunities and risks caused by
+climate change; creation and implementation of a programme relating to the issues determined; and monitoring
+and reporting of the progress of this programme. Coordination and management of these activities lies with the
+Corporate Responsibility team. Clear governance exists for the activities mentioned. Swisscom applies the recom-
+mendations of the Task Force on Climate-related Financial Disclosures (TCFD). Further detailed information is avail-
+able in Swisscom’s sustainability and climate reports.
+
+Objectives and achievement of targets
+
+Based on its strategy, Swisscom has set itself various short- and long-term targets that take economic, ecological
+and social factors into consideration.
+
+Objectives Target achievement 2017
+Financial targets?
+Net revenue Group revenue for 2017 CHF 11,662 mn
+of around CHF 11.6 bn
+Operating income before depreciation EBITDA for 2017 CHF 4,295 mn
+and amortisation (EBITDA) of around CHF 4.2 bn
+Capital expenditure in property, plant Capital expenditure for 2017 CHF 2,378 mn
+and equipment and intangible assets of around CHF 2.4 bn
+Operational Excellence In 2017, reduction of cost base in Swiss business Achieved
+by CHF 75 mn
+Other targets
+Ultrafast broadband in Switzerland? Coverage of 90% by the end of 2021 55%
+in excess of 80 Mbps
+Ultrafast broadband in Italy Corverage of 13 mn households by the end of 2021 60% or 8 mn
+
+with FTTH and FTTS
+
++ As already announced in 2017, the financial targets for 2017 have been adjusted as follows as a result of compensation from legal proceedings involving Fastweb:
+EBITDA of approximately CHF 4.3 bn.
+? Basis: 4.3 million homes and 0.7 million businesses (Swiss Federal Statistical Office — FSO).
+
+
+--- Page 4 ---
+
+General conditions
+
+Market environment
+
+The three macroeconomic factors of the economy (Switzerland and Italy), interest rates and exchange rates (EUR
+and USD) have a considerable influence on Swisscom’s financial position, results of operations and cash flows and
+therefore on financial reporting.
+
+Unit 2013 2014 2015 2016 2017
+Change GDP Switzerland in % 19 24 12 14 1.04
+Change GDP Italy in% (1.7) 0.1 08 09 154
+Yield on government bonds (10 years) in % 1.25 0.38 (0.04) (0.14) (0.10)
+Closing rate CHF/EUR in CHE 1.23 1.20 1.08 1.07 117
+Closing rate CHF/USD in CHE 0.89 0.99 1.00 1.02 0.98
+
+* Forecast SECO
+? Forecast Istat
+
+Economy
+
+In the year under review, the Swiss economy grew by approximately 1% measured by gross domestic product
+(GDP), despite the unabated very low rate of inflation. Economic developments are having a wide range of impacts
+on customer segments. A high share of the revenues generated in the Residential Customers segment can be
+attributed to products with fixed monthly charges, meaning economic fluctuations are low. In contrast, revenue
+from roaming services is subject to increased volatility due to being reliant on trips made outside of Switzerland
+(inbound and outbound). Nevertheless, a large and ever-increasing proportion of the roaming services in terms of
+outbound traffic are included in the fixed monthly charges. Project business in the Enterprise Customers segment
+is more sensitive to cyclical factors.
+
+Economic fluctuations tend to have a larger impact on the sales and revenue generated by Italian subsidiary
+Fastweb for both residential and business customers.
+
+Interest rates
+
+The interest rate level has an impact on funding costs and also affects the valuation of long-term provisions and
+pension liabilities in the consolidated financial statements. In addition, interest rates are a key assumption for the
+impairment assessment of recognised goodwill and other items in the financial statements. Although the returns
+on ten-year government bonds increased slightly in 2017, they remain at a historically very low level. Swisscom
+exploited this in 2017 and reduced the average interest expense to 1.7% (prior year: 1.9%) by issuing bonds total-
+ling CHF 500 million. 84% of financial liabilities were charged a fixed interest rate. The average maturity is 5.3 years.
+In addition, Swisscom has in the past concluded interest rate swaps with long terms to maturity which are not
+designated for hedge accounting. Changes in market interest rates can result in high fluctuations in fair values
+recognised in the consolidated financial statements.
+
+Currencies
+
+The exchange rate trends for foreign currencies have very little impact on the Swisscom results of operations.
+Transaction risks exist primarily in the purchase of end devices and technical equipment as well as in the acquisi-
+tion of services from network operators outside of Switzerland. In the core business in Switzerland, the amount of
+money paid out in foreign currencies is higher than income. The net cash flows in foreign currency are partly
+hedged by foreign currency forward contracts. Swisscom funds itself for the most part in Swiss francs and to a
+lesser extent in EUR. Over the last three years, the share of the funding denominated in EUR has gradually increased
+to 25%. In addition to the transaction risks on the operational cash flows in foreign currencies, there is a currency
+translation risk in the balance sheet. Fastweb’s net assets, which totalled EUR 2.8 billion at the end of 2017, and
+those of the other foreign subsidiaries are translated into Swiss francs in the consolidated financial statements at
+the exchange rate applicable on the balance sheet date. Any differences from the foreign currency translation are
+recognised in equity and have no impact on the results. Cumulative currency translation adjustments in respect
+of foreign subsidiaries amounted to CHF 1.7 billion at the end of 2017. A portion of the financial liabilities in EUR
+has been classified as a currency hedge of the Fastweb net carrying amount.
+
+19
+
+Management Commentary
+Strategy and the environment
+
+
+--- Page 5 ---
+
+20
+
+Management Commentary
+Strategy and the environment
+
+see
+www.swisscom.ch/
+targets_2018-2021
+
+see
+www.admin.ch
+
+see
+www.admin.ch
+
+Legal environment
+
+Swisscom’s legal framework
+
+Swisscom is a public limited company with special status under Swiss law. Corporate governance is governed by
+company law and the Telecommunications Enterprise Act (TEA). In its capacity as a listed company, Swisscom also
+observes capital market law, including the provisions concerning management remuneration. The legal frame-
+work for Swisscom’s business activities is primarily the Federal Telecommunications Act (TCA) and the Federal
+Cartel Act (CartA).
+
+Telecommunications Enterprise Act (TEA) and relationship with the Swiss Confederation
+
+The TEA requires the Swiss Confederation to hold a majority of the capital and voting rights in Swisscom. Were the
+government to dispose of the majority holding, this would require a change in the corresponding law, which
+would be subject to a facultative referendum. Every four years, the Federal Council defines the goals which the
+Confederation as principal shareholder aims to achieve. These include strategic, financial and personnel policy
+goals as well as goals relating to partnerships and investments. In 2017, the Federal Council approved the goals for
+the period from 2018 to 2021. The goals for the previous period of 2014 to 2017 will to a large extent remain in
+place.
+
+Telecommunications Act (TCA)
+The TCA and the associated legislation primarily govern network access, basic service provision and the use of
+radio frequencies. The government is currently deliberating on revising the TCA.
+
+Network access
+
+Swisscom is required to grant other providers access to its fixed network and telecommunications services at
+cost-based prices. As part of this service provision, physical network access is restricted to copper-based technol-
+ogies. The supervisory authority only makes a decision about the specific access conditions (including price) if the
+provider seeking access cannot come to an agreement with Swisscom on the conditions (primacy of negotiation).
+The question of whether network access regulation should be expanded to include newly built fibre-opticbased
+and hybrid fixed networks (technology-neutral network access) is the subject of the ongoing TCA revision.
+
+Basic service provision
+
+The aim of the basic service is to provide reliable and affordable basic telecommunications to all sections of the
+population in all regions of the country. The scope of services as well as the related quality and pricing require-
+ments are determined periodically by the Federal Council. The current licence (2018 to 2022) comprises a multi-
+functional telephone line, Internet access with a minimum data transfer rate of 3 Mbps (download) and various
+services for the disabled. The law provides that the overall net costs of the basic service are compensated for via a
+sector-specific fund. Up until now, Swisscom has abstained from bringing the overall net costs to bear for the
+basic service.
+
+Mobile phone licence
+
+Mobile phone licences are usually awarded by means of public tenders. In 2012, all of the frequency ranges for
+mobile communications were sold in an auction. Swisscom acquired 42% of the frequency bands auctioned for
+CHF 360 million and paid the total amount in the same year. The licences run until the end of 2028 and can be used
+with all technologies. It is expected that there will be new mobile communication frequencies available from 2019
+onwards (frequency bands 700 MHz, 1,400 MHz and 3,400 to 3,800 MHz). The requisite awarding of frequency
+ranges will likely take place in 2018. No decision has been made as regards the way in which the ranges will be
+awarded and the future framework conditions for the use of the frequencies.
+
+Federal Cartel Act (CartA)
+
+Asa result of the company’s market position, competition law (Federal Cartel Act) for various products and ser-
+vices is highly relevant for Swisscom. The Federal Cartel Act allows for direct sanctions to be imposed for unlawful
+conduct by market-dominant companies. The Swiss competition authorities have classified Swisscom as being
+market-dominant in a wide range of submarkets. There are currently proceedings open for three issues, within the
+context of which the Competition Commission (COMCO) has classified Swisscom as being market-dominant and
+its conduct as being unlawful, and has thus imposed direct financial sanctions. The proceedings refer to the pro-
+vision of ADSL wholesale services, the broadcast of live sporting events on pay TV and the broadband connections
+of post office locations. The statuses of the proceedings and the potential financial effects are set out in the notes
+to the consolidated financial statements (Note 3.5).
+
+
+--- Page 6 ---
+
+Legal and regulatory environment in Italy
+
+The business activities of Fastweb are heavily influenced by Italian and European telecommunications legislation.
+Italy is required to have national legislation in line with the European legislative framework. The Italian regulatory
+authority, Autorita per le Garanzie nelle Comunicazioni (AGCOM), uses a market analysis as the basis for passing
+provisions and regulations for telecommunications companies, which have to be submitted to the European
+Commission and the regulatory authorities of other member states in advance. In 2017, AGCOM retroactively
+approved a wide range of reference offerings from TIM for 2015 and 2016. This will bring about a number of
+reductions, including in the wholesale prices charged for bitstream services as well as the one-off charges for the
+activation and deactivation of lines and for transferring fixed-line numbers. In 2017, AGCOM also opened new
+consultations on the reference offerings from TIM for the wholesale services for 2017.
+
+Swiss market trends in telecoms and IT services
+
+The Swiss telecommunications market is highly developed by international standards. It is characterised by inno-
+vation and a wide range of voice and data products and services. The constant advancement of digitisation and
+connectivity is a key trend. In addition to the established national telecommunications companies, more and
+more global competitors are entering the Swiss telecoms market, offering both free and paying Internet-based
+services around the world, including telephony, SMS messaging and streaming services. Cloud solutions are also
+playing an ever more important role, with storage capacity, processing power, software and services all relocating
+to an increasing degree to the Internet. These developments are generating constant growth in demand for high
+bandwidths that enable fast, high-quality access to data and applications. The uninterrupted availability of data
+and services, as well as the security involved in ensuring this availability, play a key role here. Modern, highly effec
+tive network infrastructures provide the ideal foundations for this. Swisscom is therefore setting up the networks
+of the future for both fixed-line and mobile communications.
+
+The Swiss telecoms market is broken down into the submarkets of relevance to Swisscom — mobile and fixed-line
+telephony. The total revenue it generates is estimated at around CHF 12 billion; however, this is being put under
+increasing pressure. Market saturation is ramping up the fierce competition in almost all submarkets. As a result
+of the increased price pressure, most market players are being confronted with a trend towards sinking revenues.
+Various market participants adjusted their portfolios of offerings during the course of 2017, with the focus of the
+changes on new, convergent offerings which can also contain one or more mobile lines in addition to a fixed
+broadband connection with Internet, TV and fixed-line telephony. Swisscom’s range likewise includes bundled
+offerings combining different technologies, while it also offers products and services from the core business using
+secondary and third-party brands.
+
+Market share Swisscom swiss telecommunication market
+100%
+
+75%
+
+67% 67%
+
+60% 60%
+50%
+
+32% 33%
+
+25%
+0%
+
+2016 2017 2016 2017 2016 2017
+
+Mobile subscribers Broadband WV
+
+Mobile communications market
+
+Switzerland has three separate, wide-area mobile networks on which the operators of those networks market their
+own products and services. Other market players additionally offer their own mobile services as MVNOs (mobile
+virtual network operators). Swisscom also makes its mobile communications network available to third-party
+providers so that they can make proprietary products and services available to their customers over the Swisscom
+network. Due to the high level of market penetration, the mobile communications market in Switzerland is
+showing signs of saturation. For this reason, the number of mobile lines (SIM cards) in Switzerland has stagnated
+at around 11 million. The penetration with mobile access lines in Switzerland remains about 130%. As in the
+previous year, the number of postpaid subscriptions taken out increased, while the number of prepaid customers
+fell. The proportion of mobile users with postpaid subscriptions now stands at 70% (prior year: 65%). Swisscom’s
+market share remains unchanged from the previous year at 60% (postpaid: 62%; prepaid: 57%).
+
+21
+
+Management Commentary
+Strategy and the environment
+
+
+--- Page 7 ---
+
+22
+
+Management Commentary
+Strategy and the environment
+
+Fixed-line market
+
+Switzerland has almost 100% coverage of fixed broadband networks. Alongside the fixed-line networks of tele-
+coms companies, there are also networks provided by cable network operators. Moreover, market players such as
+utilities operating in particular cities and municipalities are building and operating fibre-optic networks on their
+own initiative at a regional level. These network infrastructures are largely also made available to other market
+participants so that they can supply their products and services. The fixed broadband connection has increasingly
+developed into the key access point for customers. It is the basis for a wide-ranging product offering from both
+national and global competitors. Competition has gained momentum in the fixed-line segment owing to market
+participants launching new offerings throughout 2017.
+
+Broadband market
+
+The most widespread access technologies for fixed broadband connections in Switzerland are infrastructures
+based on the networks of telecommunications providers and cable network operators. At the end of 2017, the
+number of retail broadband access lines in Switzerland totalled 3.8 million, corresponding to 85% of households
+and businesses. As in the previous year, the number of broadband connections increased by around 3% in 2017.
+Growth in broadband access lines provided by cable network operators thus lagged behind that of the broadband
+access lines of telecom service providers. Telecom service providers accounted for more than two thirds of new
+broadband access lines in 2017, corresponding to a stable 67% market share of all broadband lines. Of these, 53%
+(prior year: 54%) were for Swisscom end customers and 14% (prior year: 13%) for Swisscom wholesale offerings
+and fully unbundled lines.
+
+TV market
+
+In Switzerland, TV signals are transmitted via cable, broadband, satellite, antenna (terrestrial) and mobile. They are
+almost completely digitised, as the large-scale broadcast of analogue TV signals has been discontinued. The Swiss
+TV market features a wide range of offerings from national market participants, and is now also playing host to
+offerings from other international companies. These international companies offer TV and streaming services
+that can be used over an existing broadband connection, regardless of the Internet provider. The level of compe-
+tition has increased, particularly in terms of TV content. Various national and international companies have
+secured the Swiss broadcasting rights for a wide range of sports that were for the most part previously held by
+Swisscom. This has given them the opportunity to position themselves on the market with their own new offer-
+ings.
+
+Approximately 90% of TV connections are provided via cable or broadband networks. Swisscom has steadily
+increased the market share of its own digital TV offering, Swisscom TV, over the past few years. Swisscom is the
+market leader and further expanded on this leading position throughout 2017, achieving a market share of 33% at
+the end of the year (prior year: 32%).
+
+Fixed-line telephony market
+
+Fixed-line telephony is mainly based on lines running over the fixed networks of the telecom service providers and the
+cable networks. The number of fixed-line telephony connections is steadily declining. This trend accelerated in 2017,
+with the number of Swisscom fixed-line connections falling by around 14% to 2.0 million. The main reason for the
+decline was the substitution of mobile phones for fixed-line connections.
+
+IT services market in Switzerland
+
+The market for IT services generated revenue of CHF 10 billion in 2017 and will continue to enjoy moderate growth
+over the next few years. Swisscom expects the strongest growth in business process outsourcing (BPO) and in
+segments offering application-based and infrastructure project-based services, most notably cloud and security
+services. This growth is a result of the increasing number of business-driven ICT projects as well as the ever-grow-
+ing willingness to procure external services. Customers usually expect services customised to their individual sec
+tor and business processes with related consultancy.
+
+The shifts in the market and IT innovations are creating new opportunities for Swisscom. As one of the few pro-
+viders of integrated digitisation solutions, Swisscom helps companies to improve customer experiences, simplify
+and automate processes and integrate existing solutions. Swisscom also co-creates new IT services with its cus-
+tomers. As a result, Swisscom is seen as a driver of digitisation in the Swiss economy. With a market share of
+around 11% (prior year: 9%), it remains one of the leading providers of IT services on the Swiss market.
+
+
+--- Page 8 ---
+
+(9)
+
+see
+www.swisscom.ch/
+dataprotection
+
+Italian market trends in telecoms services
+
+Italian broadband market
+
+Italy’s fixed broadband market is Europe’s fourth largest, with a revenue volume of EUR 12 billion. Broadband
+penetration in households has increased to 60%, but remains below the European average. This is driven by the
+growth of new fibre-optic networks and by the increasing use of online services, such as streaming and gaming
+services. Convergence offerings for the fixed network and mobile communications are also becoming increasingly
+popular. Due to the intensely competitive environment, the market is under considerable pricing pressure. Ultra-
+fast broadband network coverage has continued to rise, with some 70% of households now having access to the
+network. During the year under review, the situation regarding the ultrafast broadband infrastructure in Italy
+changed significantly. TIM significantly increased the expansion targets for its ultrafast broadband infrastructure
+and at the same time expanded and improved the wholesale fibre-optic offering, which is open to all operators.
+This development has been spurred by the ambitious expansion plans of Enel Open Fiber. The company aims to
+provide 270 towns and cities with a total of 9.5 million connections with FTTH and began work on the expansion
+in 2017. Enel Open Fiber intends to offer all telecommunications companies access to the access lines as wholesale
+services. Fastweb is the second-largest provider in the broadband business after TIM, with a market share of 16%
+in the residential customer segment and 29% in the major business customer segment. Thanks to the new whole-
+sale offerings from TIM, Fastweb has made significant progress with its ultrafast broadband coverage, totalling
+47% or 13 million households as at the end of 2017.
+
+Italian mobile communications market
+
+After the market consolidation in 2016, Italy has three major integrated providers on the market (TIM, Vodafone
+Italia, Wind Tre). These are increasingly marketing convergent offers to their large mobile customer bases in order
+to strengthen customer loyalty. The French telecommunications provider Iliad has announced that it will be enter-
+ing the market in early 2018. It will be the fourth provider to set up its own mobile network and attempt to suc
+cessfully gain a foothold in the Italian market. After a hard-fought price war in the past few years, revenue in the
+Italian mobile communications market has stabilised at EUR 16 billion. The relaunch of its mobile offering on the
+TIM network (as a “full MVNO”, including 4G) represents an important step in Fastweb significantly increasing the
+share of convergent customers in the customer base.
+
+Data protection
+
+As part of its business activities, Swisscom processes data relating to various people. Swisscom processes this
+data in order to provide and continuously improve its services, to offer customers an enhanced experience and to
+open up new areas of business. Swisscom is committed to protecting the privacy of the persons concerned. A large
+proportion of data processing requires the consent of the persons concerned. Whenever possible, data analyses
+are conducted on the basis of anonymised and aggregated data with no personal reference. Under no circum-
+stances is data containing personal references handed over or sold to third parties. Swisscom continuously
+expands its data protection measures. For example, all employee rights of access to critical data have been
+reviewed and redefined. Technical measures have also been implemented to further improve data protection and
+confidentiality. A central data governance organisation has the task of stipulating and enforcing framework
+conditions for data processing.
+
+Finally, Swisscom strives to provide information on issues relevant to data protection in non-technical language
+and in befitting detail. Part of the Swisscom website is dedicated to this.
+
+23
+
+Management Commentary
+Strategy and the environment
+
+
+--- Page 9 ---
+
+24
+
+Management Commentary
+
+Infrastructure
+
+Infrastructure
+
+Swisscom is unswervingly committed to meeting customer needs and delivering
+service and quality, and is also investing heavily in the networks of the future.
+
+Infrastructure in Switzerland
+
+Network infrastructure
+
+The telecommunication networks form the backbone of the Swiss information society. Swisscom pursues the
+same strategy both on the ground and in the air —to provide Switzerland with the best network and thus provide
+a solid foundation for the digital transformation. Swisscom currently operates three networks that help facilitate
+the achievement of this aim: the fixed network, the mobile network and the Low Power Network (LPN). The LPN
+is the latest addition to the Swisscom network family and is used to connect objects such as machines, vehicles,
+lifts, oil tanks and much more.
+
+A uniform basis for increasing demand
+
+Bandwidth requirements in the Swiss fixed and mobile telephone network continue to grow. This can be attributed
+to the fact that customers now use a wide range of devices for accessing the Internet. At the heart of the Swisscom
+network and its infrastructure is Internet Protocol (IP) technology, which can be used via copper and fibre-optic
+lines. As planned, Swisscom converted the services and products for almost all residential customers and the
+majority of corporate customers to All IP by the end of 2017. This means that around 2 million Swisscom custom-
+ers now benefit from the advantages offered by IP technology. As of 2018, Swisscom will start transferring all of
+its locations to IP. All IP enables faster and more flexible processes and operations, and is boosting the competitive
+strength of Swisscom, its customers and Switzerland as a business centre. The Swisscom All IP initiative thus
+forms the basis for the digitisation of the Swiss economy.
+
+Leading international position thanks to constant expansion
+
+International studies carried out by the OECD, the Institute for Advanced Studies (IHS) and Akamai regularly show
+that Switzerland possesses one of the best information and telecommunications infrastructures in the world.
+Rural regions benefit in particular from the high level of capital expenditure, almost two thirds of which is financed
+by Swisscom. According to a study carried out by the IHS (Broadband Coverage in Europe 2016), the availability of
+broadband in rural regions of Switzerland is twice as high as the EU average.
+
+In mobile communications, broadband LTE coverage now extends to 99% of the population. 80% of the population
+currently has 4G+ with speeds of up to 300 Mbps, and 60% 4G+ with speeds of up to 450 Mbps. In addition,
+Swisscom already provides speeds of up to 1 Gbps in 11 Swiss cities — and 30% of the Swiss population is set to
+benefit from these speeds by the end of 2018. This makes Swisscom the largest network operator in Switzerland
+by far, both in the fixed and mobile network. In the fixed-line segment, Swisscom continues to expand its ultrafast
+broadband coverage with minimum bandwidths of 80 Mbps. In doing so, it is focusing on establishing a globally
+unique mix of fibre-optic technologies as well as convergent approaches that harness both the mobile and fixed-
+line networks in combination. When talking about fibre-optic technologies, Swisscom is referring to Fibre to the
+Home (FTTH) as well as network architectures in which copper cables are used in the last few metres of the con-
+nection, i.e. Fibre to the Curb (FTTC), Fibre to the Street (FTTS) and Fibre to the Building (FTTB). Optical fibre is
+getting ever closer to the customer.
+
+
+--- Page 10 ---
+
+See
+www.swisscom.ch/
+networkcoverage
+
+Fibre to the Curb (FTTC)
+> Up to 100 Mbps
+
+Fibre to the Street (FTTS)
+> Up to 500 Mbps
+
+Fibre to the Building (FTTB)
+> Up to 500 Mbps
+
+Fibre to the Home (FTTH)
+> Up to 1,000 Mbps
+
+—— Fibreglass
+
+Copper
+
+Swisscom has set itself ambitious goals as regards network expansion: the majority of people living in any given
+Swiss municipality should have access to increased bandwidths by the end of 2021. To this end, some 90% of all
+homes and businesses will have a minimum bandwidth of 80 Mbps by the end of 2021 — with around 85% of
+those achieving speeds of 100 Mbps or higher. In remote regions of Switzerland, Swisscom will honour its univer-
+sal service provision mandate. Thanks to the new DSL+LTE Bonding technology, it is also noticeably improving
+broadband provision in certain regions. DSL+LTE Bonding combines the performance of the fixed-line network
+with that of the mobile network, thus ensuring a significantly better customer experience. As at the end of 2017,
+Swisscom had established around 3.9 million connections to its ultrafast broadband service (+8% in comparison
+to the prior year) with speeds in excess of 50 Mbps through continuous expansion. Of this number, over 3.1 million
+lines (+24% in comparison to the prior year) were equipped with the latest fibre-optic technology.
+
+Innovative technologies put us right at the cutting edge
+
+In terms of technology, Swisscom has maintained its leading international position. For example, Swisscom
+became the first European telecommunications provider to introduce the G fast technology globally in September
+2016. G.fast enables bandwidths of up to 500 Mbps on short copper cables (up to 200 metres in length). By way
+of comparison, a speed of 500 Mbps will ensure that customers can use cutting-edge services for many years to
+come, such as digital TV in HD quality which requires 10 Mbps or Netflix and YouTube in HD quality which needs
+6 Mbps.
+
+The Swisscom mobile network is one of the best by international standards. Swisscom currently supplies around
+99% of the Swiss population with 4G, 3G and 2G coverage. Expansion is continuing, with 80% of the Swiss popu-
+lation surfing the web with 4G+ at speeds of up to 300 Mbps and 60% with 4G+ at speeds of up to 450 Mbps. In
+addition, Swisscom already provides speeds of up to 1 Gbps in 11 Swiss cities — and 30% of the Swiss population
+will also benefit from these speeds by the end of 2018. The volume of data transferred on the mobile network
+doubles every year. As a result and owing to the stringent legal framework conditions, the mobile network has to
+be expanded with new mobile telephony sites. Microcells can enhance the mobile sites. Thanks to a Swisscom
+innovation, they can even be installed in the floor and also be used in business premises and indoor public areas
+by means of antennas. The good 4G coverage and the availability of WLAN in most buildings allows for Advanced
+Calling, i.e. IP telephony via VoLTE (Voice over LTE) and WLAN (WiFi Calling). Furthermore, the newly launched HD
+Voice Plus technology provides users with crystal-clear call quality.
+
+25
+
+Management Commentary
+
+Infrastructure
+
+
+--- Page 11 ---
+
+26
+
+Management Commentary
+
+Infrastructure
+
+Antennainthe — DSL/LTE Antennas for Macro- Micro- Mobil signal-
+cable duct Bonding in-house amplification antenna antenna amplifier
+=>
+hed =>
+—“~
+= =
+=> «
+4G 4G 2G | 3G| 4G 2G | 3G| 4G 2G|3G|4G 2G | 3G| 4G
+
+The rollout of 5G and replacement of 2G are both scheduled for 2020. 5G is the mobile communication standard
+of digitisation, enabling speeds of up to 10 Gbps, real-time reaction and much larger capacities. Swisscom is
+currently working together with Ericsson, the EPFL and Ypsomed on research into the new standard as part of the
+“5G for Switzerland” programme, and is also in discussions with other industrial partners. Swisscom expects 5G
+to create a great deal of advantages for the economy and companies, particularly in relation to the Internet
+
+of Things.
+
+Swisscom is continually expanding its broadband network, extending the product range and increasing the
+number of antenna sites. It coordinates site expansions with other mobile providers wherever feasible and already
+shares nearly a quarter of its approximately 8,400 antenna sites with other providers. At the end of 2017, Swisscom
+had around 5,800 exterior units and 2,600 mobile communication antennas in buildings. And with around
+5,500 hotspots in Switzerland, Swisscom is also the country’s leading provider of public wireless local area
+
+networks.
+The Internet of Things has long connected an immense numb
+
+er of objects and devices to one another and to
+
+people. Swisscom is the first provider in Switzerland to set up an additional network dedicated to the Internet of
+Things: the Low Power Network (LPN). Swisscom is also planning to roll out Narrowband-loT and the expanded
+LTE standard LTE Cat M1 in 2018. These technologies form the basis for the Internet of Things and thus for smart
+cities, energy-efficient buildings, machine-to-machine networking and new digital applications. The LPN reached
+
+more than 95% of the Swiss population by the end of 2017.
+
+IT infrastructure
+
+It’s not only bandwidths in the networks that are constantly increasing, but also the usage of cloud services.
+
+Swisscom positions itself as a trustworthy provider of private,
+
+ublic and hybrid cloud services. It is growing its
+
+portfolio thanks to partnerships with internationally renowned organisations. The myCloud and Storebox storage
+offerings resulted in data growth of 20 terabytes per day or 7 petabytes in total in 2017, which Swisscom stores
+for its customers securely in its data centres. The switch to data transmission only by means of Internet Protocol
+
+(AIL IP) is increasing the requirements imposed on locations that
+
+reviously provided telephony services. The virtu-
+
+alisation of network functions is bringing about the creation of new geographically redundant IT platforms that
+can process large volumes of data with short reaction times, in addition to those in Zurich and Lausanne. Among
+other things, they are laying the foundation for the rollout of the next generation of mobile technology — 5G. The
+constant state of change on the market backs up Swisscom’s efforts to use the latest technologies both internally
+
+and externally for the benefit of its customers. Instead of develo,
+
+ing its own infrastructures, Swisscom is increas-
+
+ingly making use of the standardised systems created by its partners and is turning its attention to developing
+
+market-specific, value-added services that are based on the res|
+
+ective infrastructure. The industrialisation of IT
+
+continues to make good progress, accompanied by the development of modern applications that benefit from the
+new opportunities offered by the platforms and cut costs. Nevertheless, the old and new technologies will con-
+
+tinue to exist and function side-by-side over the coming years.
+
+Swisscom can use specific services here, e.g. the
+
+“Journey to the Cloud” portfolio, to establish itself in the digital transformation. By combining different genera-
+tions of technology to meet its needs, Swisscom is building upon its experience and expertise to provide support
+
+to its customers as they make their way in the digital world.
+
+
+--- Page 12 ---
+
+Infrastructure in Italy
+
+Network infrastructure
+
+Fastweb’s network infrastructure consists of a fibre-optic network spanning approximately 47,500 kilometres,
+reaching some 60% of the Italian population. Its ultrafast broadband connections are used by around 8 million
+households and businesses, or 30% of the population, with FTTH and FTTS technologies enabling speeds of up to
+1 Gbps or 200 Mbps, respectively. In 2016, Fastweb concluded a strategic partnership with TIM (Flash Fiber) to the
+FTTH coverage in 29 cities. By the end of 2020, Fastweb will have over 13 million ultrafast broadband connections,
+with 5 million of these equipped with FTTH technology and 8 million with FTTC technology. In 2017, Fastweb also
+launched a new mobile service based on a full MVNO agreement with TIM.
+
+IT infrastructure
+
+Fastweb operates four large data centres in Italy with a total surface area of 8,000 square metres. The IT infrastructure
+consists of around 5,500 servers (4,000 virtual servers and 1,500 physical servers), 900 databases and 5 petabytes of
+storage capacity. One data centre is managed by a technology partner who is responsible for setting up, designing
+and adapting the centre as well as for the operational tasks of Fastweb’s IT infrastructure. Two data centres are
+mainly used for corporate business services, in other words for housing, hosting or other cloud-based services. One
+of the Fastweb data centres in Milan was the first in Italy to receive Tier IV certification, which recognises the highest
+level of reliability, security and performance. The data centre is fully operational and hosts services for business
+customers.
+
+27
+
+Management Commentary
+
+Infrastructure
+
+
+--- Page 13 ---
+
+28
+
+Employees
+
+Management Commentary
+
+Employees
+
+At the end of 2017, Swisscom had 20,506 full-time equivalent employees,
+of whom 17,688 or 86% were employed in Switzerland. Swisscom is also training
+959 apprentices in Switzerland.
+
+Employees in Switzerland
+
+Introduction
+
+Swisscom staff are employed under private law. The legal terms and conditions of employment in Switzerland are
+based on the Swiss Code of Obligations. General terms and conditions of employment which exceed the mini-
+mum standard defined by the Code of Obligations govern the employment law provisions applicable to Swisscom
+management staff in Switzerland, also known as the collective employment agreement. In the year under review,
+employees in Switzerland on open-ended contracts accounted for 99.6% of the workforce (prior year: 99.7%). Part-
+time employees made up 19.6% (prior year: 18.8%). Terminations of employment by employees in Switzerland
+amounted to 6.3% of the workforce (prior year: 5.8%). Further information on HR topics can be found in the
+Sustainability Report.
+
+Collective employment agreement (CEA)
+
+Swisscom is committed to fostering constructive dialogue with its social partners (the syndicom union and the
+transfair staff association) as well as the employee associations (employee representatives). The collective employ-
+ment agreement (CEA) and the social plan constitute fair and consensual solutions. Under the Telecommunications
+Enterprise Act (TEA), Swisscom is also obliged to draw up a collective employment agreement in consultation with
+the employee associations. In the event of any controversial issues, an arbitration commission must be convened
+which will support the social partners by providing suggestions for solutions. The current collective employment
+agreement (CEA) has been in force since 1 April 2015 and will be replaced by a new CEA on 1 July 2018. The CEA
+sets out the key terms and conditions of employment and the relationship between Swisscom and the social
+partners. At the end of December 2017, 83% of the Swisscom workforce were covered by the collective employ-
+ment agreement. The key terms and conditions of employment set out in the CEA govern working hours and
+working models, salaries and salary payments, professional developments, holidays and absences, among other
+aspects. The past core elements are set out in the Sustainability Report. The CEA grants the social partners and the
+employee associations rights of co-determination in various areas. The new CEA has been amended in view of the
+requirements of the working world of the future as well as to fall in line with market conditions. It takes particular
+account of employability, family-friendliness, work-life balance and the protection of privacy.
+
+Social plan
+
+The objective of the social plan is to formulate socially acceptable restructuring measures and avoid job cuts. It
+sets out the benefits provided to employees covered by the CEA who are affected by redundancy. Furthermore,
+the social plan makes use of the relevant means to increase the employability of employees and provides for
+retraining measures in the event of long-term job cuts. Responsibility for implementing the social plan lies with
+Worklink AG, a subsidiary of Swisscom. It provides employees with advice and support in their search for new
+employment and arranges temporary external or internal work placements. The offering provided by Worklink to
+employees also includes skill assessments, career advice and coaching sessions to enhance employability.
+Swisscom also supports special employment schemes, such as phased partial retirement or temporary place-
+ments in similar areas of expertise, in line with its commitment to providing fair solutions for older employees
+affected by changes in skill set requirements or redundancy. In 2017, 77% of those affected found a new job before
+the end of the social plan programme.
+
+
+--- Page 14 ---
+
+Employee remuneration
+
+Salary system
+Competitive pay packages help to attract and retain highly skilled and motivated specialists and managerial staff.
+Swisscom’s salary system comprises a basic salary, a variable performance-related component and bonuses. The
+basic salary is determined based on function, individual performance and the job market. The performance-re-
+lated salary component is contingent on business performance as well as individual performance in the case of
+executive functions. Business performance is measured based on achievement of the Swisscom Group’s overarching
+targets and the targets of the respective business segment or division. The targets primarily relate to key financial
+indicators and customer loyalty. Individual performance is measured according to the achievement of results- and
+see report conduct-related contributions. Details on remuneration paid to members of the Group Executive Board are
+pagesi provided in the Remuneration Report.
+
+Pay round and payroll development
+
+In 2016, Swisscom and its social partners signed a pay round agreement for 2016 and 2017. With effect from April
+2017, salaries for employees participating in the CEA were increased by 0.6% of the total salary. Salary adjustments
+were made based on individual employee performance and specifically for employees with salaries that needed
+to be increased in line with the market. The sum of salaries paid out to members of management was increased
+by 0.3% for individual salary adjustments. Salaries that needed to be brought in line with the market were specif-
+ically adjusted. In comparison with the previous year, the sum of salaries paid out in Switzerland fell by 2.7% to
+CHF 2.1 billion. Salary increases were more than offset by the decline in the number of jobs.
+
+Staff development
+
+Swisscom’s market environment is constantly changing. The company invests in targeted professional training for
+its employees and managers in order to maintain and improve their employability and the company’s competi-
+tiveness in the long term. Employees have the opportunity to attend internal and external training programmes.
+Asa pioneer in the field of digitisation in Switzerland, Swisscom is dedicated to getting to grips with the working
+models of the future so as to provide employees and management with a learning environment in which they can
+develop new skills and shape their own professional development. In 2017, every Swisscom employee spent
+3.1 days on learning, training and development.
+
+Employee satisfaction
+
+Swisscom employees submit their feedback with respect to a wide range of questions revolving around their per-
+sonal work situation several times a year. The results are available for everyone to access in real time and allow
+individual employees, individual teams and the entire organisation to respond to feedback and make improve-
+ments. The new survey promotes a culture of feedback which creates the shared basis to grow Swisscom together.
+Three survey rounds have taken place since October 2016. The response rate was 61% across the three rounds.
+79% of employees took part in at least one survey. The results so far show that 77% of participating employees
+rate their work situation as positive, 33% of them as very positive even. The Swisscom values for the dimensions
+surveyed are higher than or just as high as those of the benchmark.
+
+Diversity
+
+The different perspectives, experiences, ideas and skills provided by all of the employees when working together
+in their day-to-day work make Swisscom the successful and innovative company it is. To promote diversity,
+Swisscom aligns its activities to the dimensions of gender, inclusion, generations and language regions. In the area
+of gender for instance, Swisscom is placing the emphasis on flexible working models which help to promote a
+better balance between work and family as well as on a wide range of measures designed to increase the accep-
+tance of part-time work, on job-sharing and on the promotion of talent. This has resulted in a slight increase in the
+number of women in management positions from 11.1% to 11.7% since 2015. The number of employees working
+part-time has also risen marginally since 2015, from 18.8% to 20.0%. Part-time male employees amount to 11.1%.
+
+Employees
+
+Management Commentary
+
+
+--- Page 15 ---
+
+30
+
+Employees
+
+Management Commentary
+
+Employees in Italy
+
+Employment agreement for the telecoms sector
+
+Statutory terms and conditions of employment in Italy are based on the Contratto collettivo nazionale di lavoro
+(CCNL), a state collective employment agreement. The CCNL defines the terms and conditions of employment
+between Swisscom’s Italian subsidiary Fastweb and its employees. It also contains provisions governing relations
+between Fastweb and the unions.
+
+Employee representation and relations with the unions
+
+Fastweb engages in dialogue with the unions and the employee representatives and, in the event of major opera-
+tional changes, involves them at an early stage.
+
+Industry-wide collective agreement for employees
+
+The working week for employees covered by the CCNL is 40 hours. Benefits include five weeks’ annual leave,
+20 weeks’ maternity leave and one day of paternity leave. In the event of incapacity for work due to illness or
+accident, Fastweb guarantees full payment of the employee's salary for 180 days and half the salary for a further
+185 days.
+
+Working time model
+
+The company’s terms and conditions of employment enable employees to achieve a healthy balance between
+their work requirements and private needs. These include in particular the following measures agreed with the
+unions in the Conciliazione famiglia e lavoro in 2001: flexible office working hours, choice of shifts for mothers and
+temporary part-time work for mothers.
+
+Employee remuneration
+
+Fastweb offers competitive salary packages aimed at attracting and retaining highly qualified specialists and
+managers. The company’s salary system comprises a basic salary, a collective variable profit-sharing bonus for
+non-managerial staff and a variable performance-related component for managerial staff which is contingent on
+meeting individual goals and company targets. The basic salary is determined according to function, individual
+performance and the situation in the labour market. The variable profit-sharing bonus is based on the Premio di
+risultato agreed separately with the unions. Fastweb respects the legal minimum salary defined by the CCNL.
+
+
+--- Page 16 ---
+
+Brands, products and services
+
+Swisscom is committed to service and quality and to interacting with its
+customers in a personalised and value-adding manner.
+
+Swisscom brands
+
+The Swisscom brand is managed strategically as an intangible asset and an important element of the Group’s
+reputation management. It provides optimum support for Swisscom’s business activities, gives guidance to
+customers and partners, and also acts to attract and motivate current and potential staff.
+
+The brand is implemented across all units — in a consistent and high-quality manner. It also has to be extremely
+flexible at the same time, bridging the gap between known and new concepts, and likewise standing for network
+and infrastructure, best experiences and entertainment, as well as ICT and digitisation.
+
+Swisscom offers products and services from the core business under the Swisscom corporate branding, as well as
+under the secondary brands Wingo and SimplyMobile and the third-party brand M-Budget. It also has other
+brands in its portfolio which are associated with other themes and business areas. Outside Switzerland, Swisscom’s
+main market is Italy, where it operates under the Fastweb brand. The strategic management and development of
+the entire brand portfolio is an integral part of corporate communications.
+
+searchll cablex directoriespama FASTUVES wingo
+
+‘@ mila tiko % evita’ oa: nm
+
+swisscom
+
+°o a kp ©
+
+localsearch TELECLUB DATAs PORT ® BILLAG
+
+Extract of the brand portfolio.
+
+Swisscom wants to be perceived as being trustworthy, committed and curious, and aims to support its customers
+in today’s networked world. This is embodied by the successful mobile telephony and bundled offerings, as well as
+the ongoing success of the Swisscom TV business. The Teleclub, Kitag and Cinetrade brands, also operated by
+Swisscom, make a further contribution to positioning the Group in the entertainment market. Other progressive
+offerings with a market presence, such as cloud services under the Swisscom brand or — for example in the
+e-commerce sector — under the siroop brand, improve the company’s position on the market and reflect its
+commitment towards the continuous improvement of its services.
+
+Trustworthiness and service remain important factors in confirming to existing customers that they made the
+right decision in opting for Swisscom and in winning new customers, while also helping to underscore the impor-
+tance of Swisscom for Switzerland: Swisscom is part of a modern Switzerland, is always recognisable as a Swiss
+company and positions itself clearly and credibly through its stance on responsibility. All this rounds off the
+positive image of the Swisscom brand and enriches the Group’s multi-faceted customer relationships. This is one
+reason why the reputation values achieved by Swisscom are exceptionally high for a company in the telecommu-
+nications sector by global standards.
+
+External rankings also confirm this image. According to the “Best Swiss Brands” survey carried out by Interbrand,
+Swisscom sits in fourth place. This makes it one of the most valuable brands in Switzerland, with a monetary
+brand value of over CHF 5 billion.
+
+31
+
+Management Commentary
+Brands, products and services
+
+
+--- Page 17 ---
+
+32
+
+Management Commentary
+Brands, products and services
+
+Products and services in Switzerland
+
+Residential Customers
+
+Swisscom offers products and services from the core business under the Swisscom corporate branding, as well as
+under the secondary brands Wingo and SimplyMobile and the third-party brand M-Budget. In order to provide its
+customers with the best communications experiences, Swisscom is constantly adjusting its portfolio of offerings
+to meet customer needs. The offerings were further simplified following the launch of the inOne subscription
+packages in spring 2017. Their modular structure allows customers to select the individual components according
+to their needs.
+
+Offerings for private individuals
+
+Thanks to “inOne home”, Swisscom is able to offer private individuals a bundled offering tailored to customer
+needs with a choice of TV and/or fixed-line telephony on top of the broadband connection. For all three compo-
+nents, customers can select from three separately priced profiles with varying levels of service. The profiles differ
+mainly in terms of Internet speed, the number of TV channels available, the activation of the recording and replay
+functions, and the free call minutes/SMS allocation. Customers can also choose not to include the TV and fixed-
+line telephony components in their individual package.
+
+In “inOne mobile”, Swisscom has launched a new mobile subscription that provides customers with an even larger
+scope of service. This subscription allows Swisscom customers to make unlimited phone calls and send unlimited
+SMS messages to all Swiss networks, as well as unlimited Internet surfing at flat rates. The profiles in the offering
+mainly differ in terms of mobile data speeds and the inclusive services when abroad. “inOne mobile” customers
+can use their mobile line with the same telephone number on up to three devices at once. Swisscom offers occa-
+sional users of the mobile network prepaid services with no monthly subscription fee. The basic tariff of the
+“inOne mobile prepaid” subscription also offers faster surfing speeds and three new bundled packages to meet a
+wide range of customer needs. With “inOne XTRA mobile”, young people under the age of 26 will receive a dis-
+count on their subscription. The new “SimplyMobile” subscription, which is available in selected Coop sales chan-
+nels, is the first offering in Switzerland in which the data allowance does not expire at the end of the month.
+Customers can now hand their damaged mobile phones into Swisscom Repair Centres and have them repaired
+without the phone leaving the Swisscom Shop, while myCloud offers Swisscom customers a Swiss solution for the
+secure management and sharing of their personal data, such as photos, videos and documents. Customers can
+securely save their important documents, passwords and notes in Docsafe. Swisscom is also continually upgrad-
+ing its service offerings, thus catering to changing customer needs.
+
+Offerings for SMEs
+
+Swisscom offers companies with up to five employees “inOne SME office”, and companies with six employees or
+more “Smart Business Connect”. The two bundled offerings include a broadband connection, a fixed-line tele-
+phony service and additional services such as an Internet failover. The “inOne SME office” offering can be expanded
+to include the TV service. Within this offering, customers can choose the components and assemble them into a
+package that meets their needs. In addition, customers with “inOne SME mobile” can make unlimited phone calls
+and send unlimited SMS messages to all Swiss networks, as well as enjoy unlimited surfing, for an all-in flat rate.
+Customers can choose from a range of profiles with different prices and services. In this way, customers only use
+and pay for the services they actually need.
+
+Thanks to modern collaboration functions (UCC) and modular IT product components (Dynamic Computing Ser-
+vices and Business Network Solutions), SMEs are gaining a measure of flexibility in their everyday work, as they can
+modify their IT and communications infrastructure at any time to meet their requirements. Swisscom also offers
+software from the cloud (Storebox, Microsoft Office 365 and HomepageTool) as well as full service solutions.
+Through the digital solutions on offer, Swisscom gives its SME customers the option to work on any device or in
+any location, and sets them up to overcome the challenges of an increasingly interconnected world. Furthermore,
+Swisscom gives SMEs access to information and directory services in the form of localsearch, which makes it easy
+to find addresses, telephone numbers and detailed information on companies — on the Internet, via the mobile
+app and in the printed telephone directory (Local Guide).
+
+
+--- Page 18 ---
+
+Enterprise Customers
+
+Digitisation is substantially changing business processes, business models, the customer experience and the
+working world in companies. It therefore requires solid communication networks. Swisscom makes use of its
+many years of experience as an integrated telecommunications and IT company in providing customers with sup-
+port during the digitisation process. The company works together with customers to develop future-oriented
+solutions, supported by one of the most comprehensive ICT portfolios in Switzerland. This portfolio comprises
+cloud, outsourcing, workplace and UCC solutions, as well as mobile phone solutions, networking solutions, loca-
+tion networking, business process optimisation, SAP solutions, security and authentication solutions (mobile ID)
+and a full range of services tailored to the banking industry, ranging from IT and business outsourcing to trend
+research. Swisscom expanded its cloud offering, IT security, digital consulting and software development in par-
+ticular in 2017. In addition to this, Swisscom offers solutions relating to the Internet of Things, ranging from access
+to an international ecosystem to connectivity and service development. The company provides hospitals with
+support in the digitisation of processes and thus increases their efficiency levels. It also helps health insurance
+companies by assuming the operation of their core IT systems. Swisscom is driving digitisation in the healthcare
+sector by providing its networking solutions for service providers and implementing the electronic patient dossier
+system.
+
+Wholesale
+
+Swisscom provides a variety of copper- and fibre-optic based connectors as per customer requirements. With the
+Carrier Ethernet service, Carrier Line service and TCA leased lines, Swisscom Wholesale provides telecoms service
+providers with high-quality, transparent, point-to-point connections that meet their needs with a range of band-
+widths and interfaces and/or a flexible Ethernet service that allows for tailored bandwidths and service level
+agreements. Swisscom also provides basic offerings for the connection of telecommunication systems and
+services (interconnection) as well as infrastructure products such as the shared use of cable ducts.
+
+Products and services in Italy
+
+Fastweb provides its residential and corporate customers with voice and broadband services through its own
+ultrafast broadband network as well as via unbundled access lines and wholesale products of TIM. In 2017,
+Fastweb enhanced its convergence offerings by launching a mobile 4G service on the market, making its coverage
+and performance the best in Italy. Fastweb’s offerings are characterised by a sense of simplicity (three price plans),
+transparency (no promotions or hidden costs) and convergence (fixed network and mobile communications bun-
+dled together). Fastweb also affirmed its leading role in the corporate customers sector in 2017, most notably in
+the public administration segment. During the year under review, Fastweb continued upgrading and expanding
+its fibre-optic network. 70% of the Fastweb FTTS network now provides speeds of up to 200 Mbps downstream;
+in addition, the FTTH network has been upgraded to offer speeds of 1 Gbps, and thanks to the joint venture with
+TIM (Flash Fiber), has been expanded to five additional major cities (Catania, Padua, Palermo, Perugia and Venice).
+Finally, Fastweb has upgraded its WiFi sharing solution (WoW-Fi), which can turn a customer's home router into a
+potential Wi-Fi access point for the entire Fastweb community. The new customer modem — known as FastGate —
+has one of the best WiFi performances on the market, while the new mobile app further enhances the customer
+experience.
+
+33
+
+Management Commentary
+Brands, products and services
+
+
+--- Page 19 ---
+
+34
+
+Management Commentary
+Brands, products and services
+
+Customer satisfaction
+
+Swisscom Switzerland conducts segment-specific surveys and studies in order to measure general customer
+
+satisfaction. It measures customer satisfaction twice a year, in the second and fourth quarters of the year. The
+
+Wholesale segment measures customer satisfaction once a year. For all segments, the most important metrics
+
+are the extent to which customers are willing to recommend Swisscom to others and the related Net Promoter
+
+Score (NPS), which depicts the emotional aspects of customer loyalty as well as revealing customers’ attitudes
+
+towards Swisscom. The NPS is calculated from the difference between promoters (customers who would strongly
+
+recommend Swisscom) and critics (customers who would only recommend Swisscom with reservations or would
+
+not recommend the company). Swisscom also conducts the following segment-specific surveys and studies:
+
+> The Residential Customers segment conducts representative surveys to determine customer satisfaction and
+the extent to which customers are willing to recommend Swisscom to others. Callers to the Swisscom hotline
+and visitors to the Swisscom Shops are questioned regularly about waiting times and staff friendliness. Product
+studies also regularly survey buyers and users to determine product satisfaction, service and quality.
+
+> The Enterprise Customers segment conducts surveys among customers to measure satisfaction along the
+customer experience chain. Feedback instruments are also used at key customer contact points in order to
+determine customer satisfaction. After each interaction with the service desk or after placing orders, IT users
+can submit feedback or enter their comments in the order system. Customers can also assess the quality and
+success of their projects on completion.
+
+> The Wholesale segment measures customer satisfaction along the entire customer experience chain.
+
+The results of these studies and surveys help Swisscom to improve its services and products and they influence
+the variable performance-related component of employees’ pay.
+
+
+--- Page 20 ---
+
+Innovation and development
+
+In a dynamic environment in which the market situation and general conditions
+are constantly changing, a company must be innovative to ensure long-term
+success.
+
+Innovation as an important driver
+
+Innovation is a key driver in the bid to enter new markets and partake in up-and-coming technologies. Due to the
+rapidly changing nature of Swisscom’s business environment, innovation and development — in other words the
+commercially successful implementation of new ideas — are becoming increasingly important. Innovation is also
+an important lever in remaining relevant in the core business, in generating growth in new markets and in digitis-
+ing internal work processes. Swisscom strives to anticipate strategic challenges, new growth areas and future
+customer needs early on, so as to help actively shape the future of telecommunications and the Internet. At
+Swisscom, innovation takes place in all areas of the company as well as beyond. Within the company, Swisscom
+practises and promotes decentralised product development. New ideas are generated throughout the company.
+Outside the company, Swisscom promotes innovation throughout the industry. In particular, Swisscom is commit-
+ted to supporting young companies that offer progressive solutions in the fields of IT, communications and enter-
+tainment. It participates in start-ups as a project partner and investor, supports them by providing tailored products
+and services, and offers them access to infrastructures and markets. Swisscom works in collaboration with FinTech
+© _ start-ups and thus makes targeted investments in promising FinTech ventures. Swisscom is also present in Silicon
+See Valley. Its branch offices run targeted trend and technology scouting operations and help to remain at the fore-
+
+www.swisscom.ch/ ° . : ;
+innovation front of technological development via collaborations with start-ups.
+
+Targeted innovation
+
+Swisscom is focusing its innovation activities on the following seven areas of innovation, which in turn directly
+help the Group achieve its goals:
+
+Digital Business
+Set-up of data driven
+and software-based
+
+Internet of Things
+Added value beyond connectivity
+
+Network
+More efficient expansion
+
+and differentiation through
+the best network
+
+Digital Swisscom
+Digitising internal processes
+for simplification
+and automation
+
+platforms
+
+in the platform
+and application business
+
+Analytics & Artificial
+Intelligence
+
+Better customer service
+through artificial intelligence
+
+Entertainment Security
+Increasing the relevance Building security capabilities
+of the offer, for internal
+
+e.g. through new content
+
+and external use
+
+Management Commentary
+Innovation and development
+
+
+--- Page 21 ---
+
+Swisscom continually invests in progressive solutions in these areas of innovation. The aim is to provide the best
+ICT infrastructure for a digital Switzerland, tap new growth markets and offer its customers the best services and
+products:
+
+Network
+
+> 5G for Switzerland: As part of the “5G for Switzerland” programme, Swisscom and Ericsson are making prepa-
+rations for the new generation of mobile technology. Working together with the Federal Institute of Technol-
+ogy Lausanne (EPFL) as a research partner, their aim is to advance the development of 5G. They are also plan-
+ning to work together with industrial partners on developing and testing the potential applications in a wide
+range of different areas, such as smart transportation and virtual reality. The research results will influence the
+definition of the global 5G standard. Swisscom presented initial applications to journalists in June 2017.
+
+> G.fast: (pronounced “gee dot fast”): At the end of 2017, Swisscom became the first telecommunications company in
+Europe to integrate the innovative G.fast transmission standard into its fixed network. G-fast is an important element
+of Swisscom’s fixed network strategy and accommodates the continuous data growth within the network. Thanks
+to G-fast, customers can benefit from bandwidths of up to 500 Mbps
+
+Internet of Things
+> Nationwide networks in Switzerland for the Internet of Things (loT): Swisscom is laying the foundations for
+national Internet of Things applications. The expansion of the only Low Power Network in Switzerland continued to
+make strides in 2017. By the end of 2017, network coverage had already reached 90% of the Swiss population. The
+mobile communications-based loT networks Narrowband-loT (NB-loT) and LTE Cat M1 are then set to be expanded
+from 2018 to 2020. NB-loT is opening a whole new chapter for big data, enabling millions of networked devices, low
+data rates, low energy consumption, beneficial hardware, very good indoor network coverage and high security.
+It also offers global usability thanks to the 3GPP standard. With this, Swisscom will offer the right network for all loT
+& applications: be it for battery-operated sensors which send data sporadically or for applications that transmit large
+www.swisscom.ch/Ipn amounts of data regularly.
+
+> Smart City: In Pully, Canton of Vaud, and other pilot cities, anonymised, aggregated mobile phone data is helping
+to improve traffic flows in the town and relieve the burden on the town centre by displaying extremely accurate
+movement patterns. The project is intended to act as a pilot: Swisscom is helping towns and cities to plan their
+infrastructure in a more systematic manner and find easier ways to manage it. It is currently able to convert the
+20 billion or so datasets that are created daily on the mobile phone network into traffic indicators using a smart
+city solution. This solution will improve urban planning and accelerate the transformation of towns and cities as
+the data delivered increases public acceptance of projects. The first application examples are available. In the
+commune of Montreux, through traffic in the city centre was calculated precisely thanks to the Swisscom solu-
+tion. Its annual share of the total volume of traffic worked out at 22%. As a consequence, the commune took the
+decision not to go ahead with the construction of a tunnel that would have cost CHF 150 million. It follows that
+such new indicators, as supplied by Swisscom’s smart city solution among others, offer a progressive way of
+managing city development better than before. They are helping to overcome one of the biggest challenges of
+
+sustainable cities: trafic management.
+
+36
+
+Analytics & Artificial Intelligence
+
+> Artificial Intelligence: In 2017, Swisscom made targeted improvements to its expertise in the area of artificial
+intelligence across various fields of application (customer support, customer experience and document
+insights, etc.) and achieved major development steps in the data lake. In customer service, for example,
+Swisscom launched a product that automatically categorises e-mails, making it possible to organise customer
+service work far more effectively and efficiently.
+
+Management Commentary
+Innovation and development
+
+Security
+
+> Security thanks to artificial intelligence: The number of threats from the Internet continues to grow and the
+threats themselves are becoming increasingly intelligent. Swisscom plans to use algorithms and corresponding
+artificial intelligence to automatically identify attacks and threats as well as to initiate the corresponding
+countermeasures. Artificial intelligence thus makes a considerable contribution towards ensuring a safe and
+secure network. Since September 2017, Swisscom has been running the Computer Security Incident Response
+Team. This team is able to respond to threats or existing incidents with intervention measures. For residential and
+SME customers, Swisscom developed the “Internet Guard” in 2017 — network-based protection against phishing
+websites and viruses. This protection is more comprehensive than ever before as it is based on a global blacklist.
+
+
+--- Page 22 ---
+
+Entertainment
+
+>
+
+UHD TV-Box for a new era of picture quality and voice recognition: After eleven years, Swisscom discontinued
+Swisscom TV 1.0 at the end of 2017. The first generation of the IPTV offering is now only used by less than one
+percent of customers. When Swisscom TV came on the market in autumn 2006 it was ahead of its time. Back
+in 2006, high-definition television, which is commonplace these days, was still seen as an exception. Swisscom
+has been continuously pressing ahead with the development of Swisscom TV in recent years. An entirely new
+TV offering was developed with input from our own customers in Switzerland and by our own Swisscom
+designers and engineers. The UHD TV-Box is therefore a product for Switzerland which is developed and pro-
+duced in Switzerland in line with the wishes of its customers. The developers paid particular attention to low
+energy consumption, dispensing with a disruptive fan and ensuring a compact form. The latest generation of
+the TV-Box processes images in super-sharp UHD quality. It features voice recognition in dialect, is fully acces-
+sible for customers with a sensory impairment and includes a personal on-screen programme guide that
+points out favourite shows that have been missed over the last seven days.
+
+Digital Swisscom
+
+>
+
+Simplification of processes: To get ahead in a digital world, Swisscom must first digitise itself and become a
+model digital company. In 2017, Swisscom again took a series of targeted steps to take it closer to this goal.
+These include work in agile structures (for example, use of the SaFE framework for agile development), as well
+as the simplification of crucial processes such as those involved in customer activation and problem-solving in
+customer service. In 2017, for example, Swisscom succeeded in making the process for solving incidents much
+more proactive and in providing customers with efficient, digital self-care. With the completion of All IP in
+2018, Swisscom will take a giant step towards its own digitisation.
+
+Digital Business
+In the Digital Business innovation field, Swisscom supported key innovations in 2017, both within and outside the
+company, through the promotion of intrapreneurship as well as through Swisscom Ventures.
+
+>
+>
+>
+
+FinTech: Launch of two FinTech ventures (Swiss Credit Exchange, Swisscom Blockchain Ltd)
+
+siroop: Testing of the new marketplace Evero for consumer-to-consumer relationships
+
+Kickbox: Establishment and setup of an intrapreneurship programme providing employees with resources
+(for example, time and budget) to realise innovation projects.
+
+In addition to the activities it carries out in innovation fields, Swisscom is constantly investigating the opportunities
+offered by new technologies. In 2017, it focused on the potential of blockchain disruptive technology as well as
+virtual and augmented reality. The aim is for Swisscom to provide the best infrastructure for a digital Switzerland,
+tap new growth markets and offer its customers the best services and products.
+
+37
+
+Management Commentary
+Innovation and development
+
+
+--- Page 23 ---
+
+Management Commentary
+
+Financial review
+
+Financial review
+
+Net revenue in CHF million
+
+16,000
+
+11,678 11,643 11,662
+
+1,862 H 1,948 HH 2,155 |
+
+9,816 9.695
+
+12,000
+
+8,000
+
+4,000
+mi Fastweb
+
+Swisscom
+w/o Fastweb
+
+2015 2016 2017
+
+Capital expenditure in CHF million
+
+3,000
+2,409 2,416 2,378
+2,250 —— 81 633 692
+1,828 1,783
+1,500 1,686
+750
+mFastweb
+Swisscom
+0 w/o Fastweb
+2015 2016 2017
+
+Operating free cash flow in CHF million
+
+3,000
+
+2,250
+2,159
+
+1,844 1,791
+1,500
+
+750
+
+2015 2016 2017
+
+EBITDA in CHF million
+
+6,000
+4,500 —— 4,098 4,293 4,295
+619 721 845
+3,479 3,572
+3,000 : ae
+1,500
+mi Fastweb
+Swisscom
+0 w/o Fastweb
+2015 2016 2017
+Headcount in full-time equivalents
+24,000
+21,637 21,127 20,506
+2,401 2,468 2,504
+18000 —soo36 18,659 TE
+12,000
+6,000
+mi Fastweb
+Swisscom
+0 w/o Fastweb
+2015 2016 2017
+
+Net income in CHF million
+
+2,000
+
+1,500 —_________ 1,604. 1,561
+1,362
+
+1,000
+
+500
+
+2015 2016 2017
+
+
+--- Page 24 ---
+
+Summary
+
+In CHF million, except where indicated 2017 2016 Change
+Net revenue 11,662 11,643 0.2%
+Operating income before depreciation and amortisation (EBITDA) 4,295 4,293 0.0%
+EBITDA as % of net revenue 36.8 36.9
+
+Operating income (EBIT) 2,131 2,148 -0.8%
+Net income 1,568 1,604 2.2%
+Share of net income attributable to equity holders of Swisscom Ltd 1,570 1,604 2.1%
+Earnings per share (in CHF) 30.31 30.97 2.1%
+Operating free cash flow 2,159 1,791 20.5%
+Capital expenditure in property, plant and equipment and intangible assets 2,378 2,416 1.6%
+Net debt at end of year 7,447 7,846 5.1%
+Full-time equivalent employees at end of year (number) 20,506 21,127 2.9%
+
+Swisscom’s net revenue was level with the previous year at CHF 11,662 million. Reported revenue increased by
+0.2%, while on the basis of constant exchange rates it fell by 0.2%. Revenue in the Swiss core business decreased
+by CHF 199 million or 2.1% to CHF 9,058 million, mainly due to declining revenue from fixed-line telephony and
+lower income from roaming services. The Italian subsidiary Fastweb reported strong revenue and customer
+growth. Revenue rose by EUR 149 million or 8.3% to EUR 1,944 million and the number of broadband customers
+by 96,000 or 4.1% to 2.45 million.
+
+At CHF 4,295 million, operating income before depreciation and amortisation (EBITDA) remained on a par with the
+previous year. It was impacted by non-recurring items, including one-off income from legal disputes at Fastweb
+amounting to CHF 102 million (prior year: CHF 60 million) and net expenses associated with headcount reductions
+in the Swiss business of CHF 61 million. Excluding non-recurring items and on the basis of constant exchange
+rates, EBITDA fell by CHF 23 million or 0.5%. In the Swiss core business, a decrease of 2.4% or CHF 88 million resulted
+on a like-for-like basis. The drop in revenue was partially offset by savings in indirect costs. Fastweb’s EBITDA
+increased by EUR 58 million or 9.6% on an adjusted basis. Consolidated operating income (EBIT) contracted by
+CHF 17 million or 0.8% to CHF 2,131 million due to higher depreciation and amortisation, while net income was
+down CHF 36 million or 2.2% to CHF 1,568 million. Payment of an unchanged dividend of CHF 22 per share for the
+2017 financial year will be proposed to the Annual General Meeting.
+
+Capital expenditure fell by CHF 38 million or 1.6% to CHF 2,378 million. Progress continues to be made on expanding
+the broadband networks. In Switzerland, capital expenditure for the expansion of the broadband networks remained
+virtually unchanged at a high level. With other investments declining, capital expenditure in Switzerland fell overall
+by CHF 96 million or 5.4% to CHF 1,678 million. Capital expenditure at Fastweb rose by EUR 41 million or 7.1% to
+EUR 622 million, mainly as a result of higher customer-driven investment.
+
+Operating free cash flow increased by CHF 368 million or 20.5% to CHF 2,159 million, fuelled chiefly by the improve-
+ment in net working capital. At CHF 7,447 million, net debt was CHF 399 million lower than at the end of 2016. The
+ratio of net debt to EBITDA is 1.7 (prior year: 1.8).
+
+Headcount decreased year-on-year by 621 FTEs or 2.9% to 20,506 FTEs. In comparison with the previous year,
+headcount in Switzerland fell by 684 FTEs or 3.7% to 17,688 FTEs as a result of the declining core business. More
+than three quarters of the reduction was offset by natural fluctuation and vacancy management.
+
+For 2018, Swisscom expects net revenue of around CHF 11.6 billion, EBITDA of around CHF 4.2 billion and capital
+expenditure of less than CHF 2.4 billion. Subject to achieving its targets, Swisscom will propose payment of an
+unchanged dividend of CHF 22 per share for the 2018 financial year at the 2019 Annual General Meeting.
+
+39
+
+Management Commentary
+
+Financial review
+
+
+--- Page 25 ---
+
+40
+
+Management Commentary
+
+Financial review
+
+Segment results
+
+In CH million, except where indicated 2017 2016 Change
+
+Net revenue
+
+Residential Customers 6,053 6,265 -3.4%
+Enterprise Customers 2,508 2,540 -13%
+Wholesale* 944 979 3.6%
+IT, Network & Infrastructure 167 173 3.5%
+Intersegment elimination (614) (700) 12.3%
+Swisscom Switzerland 9,058 9,257 -2.1%
+Fastweb 2,164 1,957 10.6%
+Other Operating Segments 850 789 77%
+Group Headquarters 1 2 —50.0%
+Intersegment elimination (411) (362) 13.5%
+Revenue from external customers 11,662 11,643 0.2%
+
+Operating income before depreciation and amortisation (EBITDA)
+
+Residential Customers 3,512 3,651 -3.8%
+Enterprise Customers 832 848 19%
+Wholesale 446 379 17.7%
+IT, Network & Infrastructure (1,290) (1,262) 2.2%
+Swisscom Switzerland 3,500 3,616 3.2%
+Fastweb 845 721 17.2%
+Other Operating Segments 180 164 9.8%
+Group Headquarters (111) (114) 2.6%
+Reconciliation item pension cost? (92) (72) 27.8%
+Intersegment elimination (27) (22) 22.7%
+Operating income before depreciation and amortisation (EBITDA) 4,295 4,293 0.0%
+
++ Including intersegment settlements of services performed by other network providers.
+? Operating income of segments includes ordinary employer contributions as pension fund expense.
+The difference to the pension cost according to IAS 19 is recognised as a reconciliation item
+
+Swisscom’s reporting focuses on the three operating divisions Swisscom Switzerland, Fastweb and Other Operating
+Segments. Group Headquarters, which includes non-allocated costs, is reported separately. Swisscom Switzer-
+land comprises the customer segments Residential Customers, Enterprise Customers and Wholesale, as well as
+the IT, Network & Infrastructure division. Fastweb is a telecommunications provider for residential and business
+customers in Italy. Other Operating Segments primarily comprises the Digital Business division, Swisscom Broadcast Ltd
+(radio transmitters) and cablex Ltd (network construction and maintenance).
+
+The IT, Network & Infrastructure segment does not charge any network costs to other segments, nor does Group
+Headquarters charge any management fees to other segments. Other services between the segments are
+recharged between the segments at market prices. Network costs in Switzerland are budgeted, monitored and
+controlled by the IT, Network & Infrastructure division, which is managed as a cost centre. For this reason, no
+revenue is credited to the IT, Network & Infrastructure segment within the segment reporting, with the exception
+of the rental and administration of buildings and vehicles. The results of the Residential Customers, Enterprise
+Customers and Wholesale segments correspond to a contribution margin before network costs.
+
+Segment expenses comprise direct costs, personnel expenses and other operating costs less capitalised costs of
+self-constructed assets and other income. Segment expense includes ordinary employer contributions as pension
+fund expense. Under IAS 19, the difference between the ordinary employer contributions and the past service cost
+is reported as a reconciliation item between the operating incomes of the segments and Group operating income.
+
+
+--- Page 26 ---
+
+Swisscom Switzerland
+
+In CH million, except where indicated 2017 2016 Change
+
+Net revenue and results
+
+Telecom services 6,464 6,662 -3.0%
+Solution business 1,084 1,072 11%
+Merchandise 648 637 17%
+Wholesale 578 591 2.2%
+Revenue other 203 213 AT%
+Revenue from external customers 8,977 9,175 -2.2%
+Intersegment revenue 81 82 12%
+Net revenue 9,058 9,257 -2.1%
+Direct costs (1,943) (2,028) 4.2%
+Indirect costs (3,615) (3,613) 0.1%
+Segment expenses (5,558) (5,641) 1.5%
+Segment result before depreciation and amortisation (EBITDA) 3,500 3,616 3.2%
+Margin as % of net revenue 38.6 39.1
+
+Depreciation, amortisation and impairment losses (1,485) (1,473) 0.8%
+Segment result 2,015 2,143 6.0%
+
+Operational data at end of period in thousand
+
+Fixed telephony access lines 2,047 2,367 13.5%
+Broadband access lines retail 2,014 1,992 11%
+Swisscom TV access lines 1,467 1,418 3.5%
+Mobile access lines 6,637 6,612 0.4%
+Revenue generating units (RGU) 12,165 12,389 1.8%
+Bundles 1,907 1,672 14.1%
+Unbundled fixed access lines 107 128 16.4%
+Broadband access lines wholesale 435 364 19.5%
+
+Capital expenditure and headcount
+
+Capital expenditure in property, plant and equipment and intangible assets 1,654 1,755 5.8%
+
+Full-time equivalent employees at end of year (number) 15,157 15,876 45%
+
+Net revenue for Swisscom Switzerland fell by CHF 199 million or 2.1% to CHF 9,058 million as a result of fierce
+competition and the downward trend in fixed-line telephony. Revenue from telecommunications services
+decreased by CHF 198 million or 3.0% to CHF 6,464 million, with almost half of the drop due to the declining sub-
+scriber base in the fixed-line telephony business, which fell by 320,000 connections or 13.5% to 2.0 million. The
+other half of the decrease resulted from price cuts for new bundled offerings, increased promotions, the inclusion
+of roaming fees in basic subscription charges and lower prices in the Enterprise Customers segment. In the solu-
+tions business with large customers, revenue increased by CHF 12 million or 1.1% to CHF 1,084 million. In spite of
+the very competitive environment, Enterprise Customers saw a 7% rise in incoming orders to around CHF 2.7 bil-
+lion. For Wholesale, lower proceeds as a result of the reduction in termination tariffs on mobile networks were
+largely offset by higher inbound roaming volumes.
+
+The number of mobile subscribers rose by 25,000 or 0.4% year-on-year to 6.64 million in a saturated market.
+Swisscom increased the number of subscribers to its postpaid lines by 90,000 or 2.0% to 4.64 million, whereas the
+number of prepaid lines decreased by 65,000 or 3.2% to 2.0 million. The markets for broadband and TV are also
+becoming increasingly saturated, and customer growth has slowed. The number of broadband connections rose
+by another 22,000 or 1.1% to 2.0 million, while the number of TV connections grew by 49,000 or 3.5% to 1.47 mil-
+lion. By the end of December 2017, i.e. just nine months after launch, over 1.3 million customers representing approx-
+imately 2.7 million connections had opted for the inOne combined package . At the end of 2017, 1.9 million customers
+were using a bundled package, which represents a year-on-year increase of 14.1%. Revenue from bundled contracts
+increased year-on-year by CHF 335 million or 13.4% to CHF 2,837 million.
+
+Segment expense fell by CHF 83 million or 1.5% to CHF 5,558 million. Excluding non-recurring items such as provi-
+sions recognised for headcount reduction or regulatory risks and gains from the sale of properties, the decrease
+was 2.0% on a like-for-like basis. The decrease of CHF 85 million or 4.2% in direct costs to CHF 1,943 million is due
+to the lower termination tariffs on mobile networks and lower costs of purchasing goods. At CHF 3,615 million,
+
+41
+
+Management Commentary
+
+Financial review
+
+
+--- Page 27 ---
+
+42
+
+Management Commentary
+
+Financial review
+
+indirect costs were only marginally higher than the prior-year figure of CHF 3,613 million. Excluding non-recurring
+items, indirect costs fell by 0.7%, whereby the reduced costs resulting from the decrease in headcount were par-
+tially offset by the lower capitalised costs of self-constructed assets. Headcount fell year-on-year as a result of
+efficiency measures by 719 FTEs or 4.5% to 15,157. The segment result before depreciation and amortisation was
+CHF 116 million or 3.2% lower at CHF 3,500 million. A large portion of the drop in revenue was offset by cost savings,
+resulting in a decline of 2.4% on a like-for-like basis. Capital expenditure fell by CHF 101 million or 5.8% to
+CHF 1,654 million. Capital expenditure for the expansion of the broadband networks remained virtually unchanged
+at a high level, while customer-driven investment and investment in other infrastructure decreased.
+
+Fastweb
+
+In EUR million, except where indicated 2017 2016 Change
+Residential Customers 986 906 8.8%
+Corporate Business 710 706 0.6%
+Wholesale 240 175 37.1%
+Revenue from external customers 1,936 1,787 8.3%
+Intersegment revenue 8 8 0.0%
+Net revenue 1,944 1,795 8.3%
+Segment expenses (1,185) (1,134) 45%
+Segment result before depreciation and amortisation (EBITDA) 759 661 14.8%
+Margin as % of net revenue 39.0 36.8
+
+Capital expenditure in property, plant and equipment and intangible assets 622 581 7.1%
+Full-time equivalent employees at end of year (number) 2,504 2,468 15%
+Broadband access lines at end of period in thousand 2,451 2,355 41%
+Mobile access lines at end of period in thousand 1,065 676 57.5%
+
+Fastweb’s net revenue rose by EUR 149 million or 8.3% year-on-year to EUR 1,944 million. Despite difficult market
+conditions, Fastweb’s broadband customer base grew by 96,000 or 4.1% to around 2.5 million in 2017. Fastweb is
+also growing in mobile telephony: compared to the previous year, the number of mobile access lines increased by
+389,000 or 57.5% to 1.07 million due to the launch of attractive mobile offerings during 2017. The pressure on
+pricing in the Residential Customers segment as a consequence of fierce competition was more than offset by
+customer growth and the reduction in the billing period to four weeks introduced in the second quarter of 2017.
+Revenue from residential customers rose accordingly by EUR 80 million or 8.8% to EUR 986 million. Despite the
+high level of competition, Fastweb held its strong position in the market for business customers. Revenue from cor-
+porate business increased by EUR 4 million or 0.6% to EUR 710 million, while wholesale business revenue was up
+by EUR 65 million or 37.1% to EUR 240 million.
+
+The segment result before depreciation and amortisation totalled EUR 759 million, equivalent to a year-on-year
+increase of EUR 98 million or 14.8%. This includes one-off income from legal disputes amounting to EUR 95 million
+(prior year: EUR 55 million). Adjusted for these effects, EBITDA rose by EUR 58 million or 9.6%. This increase was
+mainly the result of higher revenue and improved regulatory conditions. The adjusted EBITDA margin rose by
+0.4 percentage points to 34.2%. The expansion of Italy’s fibre-optic broadband network is continuing as planned.
+Capital expenditure remained at a high level, totalling EUR 622 million. Headcount at Fastweb rose by 36 FTEs or
+1.5% to 2,504 FTEs, driven chiefly by the appointment of new employees in the corporate business segment.
+
+
+--- Page 28 ---
+
+Other Operating Segments
+
+In CHF million, except where indicated 2017 2016 Change
+Revenue from external customers 529 519 19%
+Intersegment revenue 321 270 18.9%
+Net revenue 850 789 7.7%
+Segment expenses (670) (625) 7.2%
+Segment result before depreciation and amortisation (EBITDA) 180 164 9.8%
+Margin as % of net revenue 21.2 20.8
+
+Capital expenditure in property, plant and equipment and intangible assets 58 49 18.4%
+Full-time equivalent employees at end of year (number) 2,580 2,493 3.5%
+
+The net revenue of the Other Operating Segments rose year-on-year by CHF 61 million or 7.7% to CHF 850 million.
+The increase was mainly due to higher revenue from construction services rendered by cablex for Swisscom
+Switzerland. The segment result before depreciation and amortisation improved year-on-year by 9.8% or
+CHF 16 million to CHF 180 million. This corresponds to a profit margin of 21.2%. Headcount rose by 87 FTEs or 3.5%
+to 2,580 FTEs, driven primarily by the hiring of new employees at cablex.
+
+Depreciation and amortisation, non-operating results
+
+In CHF million, except where indicated 2017 2016 Change
+Operating income before depreciation and amortisation (EBITDA) 4,295 4,293 0.0%
+Depreciation, amortisation and impairment losses (2,164) (2,145) 0.9%
+Operating income (EBIT) 2,131 2,148 0.8%
+Net interest expense (149) (155) 3.9%
+Other financial result (11) -
+
+Share of results of associates (11) (3)
+
+Income before income taxes 1,960 1,990 -1.5%
+Income tax expense (392) (386) 1.6%
+Net income 1,568 1,604 -2.2%
+Share of net income attributable to equity holders of Swisscom Ltd 1,570 1,604 2.1%
+Share of net income attributable to non-controlling interests (2) -
+
+Earnings per share (in CHF) 30.31 30.97 2.1%
+
+Depreciation and amortisation increased year-on-year by CHF 19 million or 0.9% to CHF 2,164 million; at constant
+exchange rates this represents a rise of 0.3%. The amortisation of intangible assets related to business combinations
+declined, amounting to CHF 50 million (prior year: CHF 104 million). Net interest expense declined by CHF 6 million
+to CHF 149 million as a result of lower average interest costs. Income tax expense was CHF 392 million (prior year:
+CHF 386 million), corresponding to an effective income tax rate of 20.0% (prior year: 19.4%).
+
+Net income fell by CHF 36 million or 2.2% to CHF 1,568 million. Earnings per share is calculated based on the share
+of net income attributable to equity holders of Swisscom Ltd and the average number of shares outstanding.
+Earnings per share fell from CHF 30.97 to CHF 30.31.
+
+43
+
+Management Commentary
+
+Financial review
+
+
+--- Page 29 ---
+
+44
+
+Financial review
+
+Management Commentary
+
+Cash flows
+
+In CHF million 2017 2016 Change
+Operating income before depreciation and amortisation (EBITDA) 4,295 4,293 2
+Capital expenditure in property, plant and equipment and intangible assets (2,378) (2,416) 38
+Change in net working capital and other cash flows from operating activities 242 (86) 328
+Operating free cash flow 2,159 1,791 368
+Net interest paid (155) (157) 2
+Income taxes paid (289) (328) 39
+Free cash flow 1,715 1,306 409
+Net expenditures for company acquisitions and disposals (106) 43 (149)
+Other cash flows from investing activities, net 120 (87) 207
+Issuance and repayment of financial liabilities, net (401) (101) (300)
+Dividends paid to equity holders of Swisscom Ltd (1,140) (1,140) -
+Other cash flows (9) (14) 5
+Net increase in cash and cash equivalents 179 7 172
+
+Free cash flow increased year-on-year by CHF 409 million to CHF 1,715 million, mainly due to higher operating free
+cash flow. Operating free cash flow increased by CHF 368 million to CHF 2,159 million. In the previous year, cash
+flow was affected by the payment of the penalty of CHF 186 million for the ongoing Competition Commission
+proceedings regarding broadband services. Swisscom does not consider the sanction justified and has lodged an
+appeal with the Federal Court. It paid the penalty of CHF 186 million in the first quarter of 2016, as no suspensive
+effect had been granted. Excluding this payment, operating free cash flow rose by CHF 182 million or 9.2% versus
+the previous year. This is attributable primarily to lower trade receivables, on the one hand, and prepaid expenses, on
+the other. In the second quarter of 2017, the Swisscom pension fund (comPlan) also received a one-time payment of
+CHF 50 million as a result of the pension fund changes communicated in October 2016.
+
+Net expenditure for company acquisitions and disposals amounted to CHF 106 million (prior year: net proceeds of
+CHF 43 million). This includes, in particular, the purchase of a Tiscali business division by Fastweb and the acquisi-
+tion of the remaining shares of Cinetrade (prior year: sale of stake in Metroweb). Other cash flows chiefly include
+the taking out and repayment of fixed-term deposits. In 2017, Swisscom issued debenture bonds with an aggre-
+gate nominal value of CHF 500 million and paid back debenture bonds and private placements totalling around
+CHF 900 million.
+
+Development of free cash flow in CHF million
+
+4,295
+
+-2,378
+204 36 2 2,159
+7155 ae | 1,715
+EBITDA Capital Change in Change in Other Operating Net interest Taxes Free
+expenditure networking defined free cash paid paid cash flow
+capital benefit flow
+
+obligations
+
+
+--- Page 30 ---
+
+See report
+pages 24—27
+
+Capital expenditure
+
+Swisscom remains committed to maintaining the high quality and availability of its network infrastructures. In
+Switzerland this involves making targeted investments in ultrafast broadband network expansion, migrating to
+an All-IP-based infrastructure, and modernising the mobile network to the latest mobile network standards. In
+Italy, Fastweb is also systematically expanding the network infrastructure.
+
+In CHF million, except where indic 2017 2016 Change
+Fixed access & infrastructure 486 511 4.9%
+Expansion of the fibre-optic network 469 476 15%
+Mobile network 269 231 16.5%
+Customer driven 109 176 —38.1%
+Projects and others? 321 361 11.1%
+Swisscom Switzerland 1,654 1,755 5.8%
+Fastweb 692 633 9.3%
+Other Operating Segments 58 49 18.4%
+Group Headquarters and eliminations (26) (21) 23.8%
+Total capital expenditure 2,378 2,416 -1.6%
+Thereof Switzerland 1,678 1,774 5.4%
+Thereof foreign countries 700 642 9.0%
+Total capital expenditure as % of net revenue 204 20.8
+
++ Including All IP migration.
+
+Capital expenditure decreased year-on-year by CHF 38 million or 1.6% to CHF 2,378 million, corresponding to
+20.4% of net revenue (prior year: 20.8%). Swisscom Switzerland accounted for 70% of 2017 capital expenditure,
+while Fastweb accounted for 29% and Other Operating Segments for 1%.
+
+Capital expenditure incurred by Swisscom Switzerland declined year-on-year by CHF 101 million or 5.8% to
+CHF 1,654 million, corresponding to 18.3% of net revenue (prior year: 19.0%). Capital expenditure for the expansion
+of the broadband networks with the latest technologies remained virtually unchanged at a high level, while
+customer-driven investment and investment in other infrastructure decreased.
+
+Fastweb increased its capital expenditure year-on-year by CHF 59 million or 9.3% to CHF 692 million. In local
+currency, the rise amounted to EUR 41 million or 7.1% to EUR 622 million. Fastweb is continuing the expansion of
+the broadband networks in Italy as planned. The rise in capital expenditure is primarily the consequence of higher
+customer-driven investment. The ratio of capital expenditure to revenue was 32.0% (prior year: 32.4%).
+
+45
+
+Management Commentary
+
+Financial review
+
+
+--- Page 31 ---
+
+46
+
+Financial review
+
+Management Commentary
+
+Net asset position
+
+In CHF million 31.12.2017 31.12.2016 Change
+Property, plant and equipment 10,697 10,177 520
+Goodwill 5,186 5,156 30
+Intangible assets 1,758 1,756 2
+Trade receivables 2,389 2,425 (36)
+Trade payables (1,753) (1,597) (156)
+Provisions (1,077) (962) (115)
+Other operating assets and liabilities, net (582) (601) 19
+Net operating assets 16,618 16,354 264
+Net debt (7,447) (7,846) 399
+Defined benefit obligations (1,048) (1,850) 802
+Income tax assets and liabilities, net (731) (447) (284)
+Equity-accounted investees and
+
+other non-current financial assets 253 311 (58)
+Equity 7,645 6,522 1,123
+Equity ratio at end of year 34.7 30.4
+
+Ratio net debt/EBITDA 17 18
+
+Operating assets
+
+Net operating assets rose by CHF 0.3 billion or 1.6% to CHF 16.6 billion. The higher volume of property, plant and
+equipment as a result of investing activity was offset by lower net working capital. The net carrying amount of
+goodwill was CHF 5.2 billion, the bulk of which relates to Swisscom Switzerland (CHF 4.3 billion). This goodwill
+arose primarily in 2007 in connection with the repurchase of the 25% stake in Swisscom Mobile Ltd sold to Vodafone
+in 2001. Following the repurchase, the mobile, fixed-network and solutions businesses were organisationally
+combined and merged to create the new company Swisscom (Switzerland) Ltd. The valuation risk of this goodwill
+item is extremely low. The net carrying amount of Fastweb’s goodwill is EUR 0.5 billion (CHF 0.6 billion). Fastweb’s
+carrying amount in the consolidated financial statements totals EUR 2.9 billion (CHF 3.4 billion).
+
+Net debt
+Swisscom targets a net debt/EBITDA ratio of around 1.9. Net debt comprises financial liabilities less cash and cash
+
+equivalents, current financial assets and non-current certificates of deposit, and derivative financial instruments
+for financing.
+
+Development of net debt in CHF million
+
+_ 7,846. a5 Te 7,447
+2,159 1,140 149
+Net debt Operating Dividends Net interest Taxes paid Other Net debt
+31.12.2016 free cash flow expense effects 31.12.2017
+
+The ratio of net debt to EBITDA was 1.7 at the end of 2017 (prior year: 1.8). In recent years, Swisscom has taken
+advantage of favourable capital market conditions with a view to optimising the interest and maturity structure
+of the Group's financial obligations. The share of the Group's variable interest-bearing financial liabilities amounts
+to 16%.
+
+
+--- Page 32 ---
+
+As at 31 December 2017, Swisscom’s financial liabilities amounted to CHF 8.3 billion. Around 80% of the financial
+liabilities have a residual term to maturity of more than one year. Financial liabilities with a term of one year or less
+amounted to CHF 1.7 billion at 31 December 2017. In 2017, the average interest expense on all financial liabilities
+was 1.7% (prior year: 1.9%), and the average residual term to maturity was 5.3 years. A large proportion of the
+financial liabilities will fall due for repayment if a shareholder other than the Swiss Confederation gains majority
+control over Swisscom.
+
+Duewithin Duewithin Duewithin Duewithin —_Dueafter
+In CHF million year 1to2years 3toSyears 6 to 10 years 10 years Total
+Bank loans - - 445 176 100 720
+Debenture bonds 1,385 - 1,670 2,085 960 6,100
+Private placements 72 278 - 150 500
+Finance lease liabilities 23 18 30 27 363 461
+Other financial liabilities 235 109 28 3 - 375
+Total interest-bearing financial liabilities 1,715 405 2,173 2,291 1,573 8,156
+
+Post-employment benefits
+
+Defined benefit obligations presented in the consolidated financial statements are measured in accordance with
+International Financial Reporting Standards (IFRS). Net defined benefit obligations amounted to CHF 1.0 billion,
+which represents a CHF 0.8 billion decline year-on-year, mainly due to the return on plan assets of CHF 0.9 billion.
+In accordance with the Swiss accounting standards applicable to the pension fund (Swiss GAAP ARR), the funding
+surplus amounts to CHF 0.8 billion, corresponding to a coverage ratio of 108%. The main reasons for the difference
+of CHF 1.8 billion compared with IFRS are the application of differing actuarial assumptions, for example with
+regard to the discount rate, life expectancy and risk sharing (CHF 1.1 billion), as well as a different actuarial mea-
+surement method (CHF 0.7 billion). Unlike Swiss GAAP, IFRS measurement takes into account future salary, contri-
+bution and pension increases and early retirements.
+
+Equity
+
+Equity rose by CHF 1.1 billion or 17.2% to CHF 7.6 billion, while the ratio of equity to total assets increased from
+30.4% to 34.7%. The CHF 1.6 billion in net income and net gains of CHF 0.8 billion recognised directly in equity
+exceeded dividend payments of CHF 1.1 billion to the shareholders of Swisscom Ltd. Net gains recognised directly
+in equity include non-cash actuarial gains from pension plans totalling CHF 0.7 billion as well as unrealised gains
+of CHF 0.1 billion resulting from currency translation of foreign Group companies. The CHF/EUR exchange rate
+climbed from 1.074 at the end of 2016 to 1.17 at the end of 2017. On 31 December 2017, cumulative currency
+translation losses recognised in equity amounted to CHF 1.7 billion (after tax).
+
+Distributable reserves are calculated on the basis of equity reported in the separate financial statements of
+Swisscom Ltd in accordance with Swiss company-law financial-reporting standards, rather than on the basis of
+equity as disclosed in the consolidated balance sheet prepared in accordance with International Financial Report-
+ing Standards (IFRS). On 31 December 2017, the equity of Swisscom Ltd totalled CHF 5.31 billion. The difference
+between this amount and equity disclosed in the consolidated balance sheet is essentially due to earnings retained
+by subsidiaries as well as different accounting and valuation methods. Under Swiss company law, share capital
+and that part of the general reserves representing 20% of the share capital may not be distributed. On 31 Decem-
+ber 2017, Swisscom Ltd held distributable reserves of CHF 5.25 billion.
+
+47
+
+Management Commentary
+
+Financial review
+
+
+--- Page 33 ---
+
+48
+
+Management Commentary
+
+Financial review
+
+Value-oriented business management
+
+Key performance indicators for planning and managing business operations are revenue, operating income before
+depreciation and amortisation (EBITDA) and capital expenditure. The enterprise value/EBITDA ratio also permits
+comparisons of Swisscom’s enterprise value derived from the share price on the balance sheet date with that of
+similar companies (European telecommunications companies) as well as with the prior year. The members of the
+Board of Directors and Group Executive Board are paid a portion of their remuneration in the form of Swisscom
+shares, which are blocked for a period of three years. They are also subject to a minimum shareholding require-
+ment. Variable remuneration based on financial and non-financial targets, the partial payment of remuneration
+in shares and the minimum shareholding requirement ensure that the financial interests of management are
+aligned with the interests of shareholders.
+
+In CHF million, except where indicated 31.12.2017 31.12.2016
+
+Enterprise value
+
+Market capitalisation 26,859 23,627
+Net debt 7,447 7,846
+Defined benefit obligations 1,048 1,850
+Equity-accounted investees and
+
+other non-current financial assets (253) (311)
+Non-controlling interests (11) 8
+Enterprise value (EV) 35,090 33,020
+Operating income before depreciation and amortisation (EBITDA) 4,295 4,293
+Ratio enterprise value/EBITDA 8.2 77
+
+Swisscom’s enterprise value increased by 6.3% or CHF 2.1 billion to CHF 35.1 billion in 2017. The rise in stock market
+capitalisation of 13.7% or CHF 3.2 billion was partially offset by a reduction in net debt of CHF 0.4 billion and in
+pension liabilities of CHF 0.8 billion. With EBITDA remaining practically unchanged, the higher enterprise value
+resulted in an increase in the ratio of enterprise value to EBITDA to 8.2 (prior year: 7.7). Swisscom’s relative market
+valuation is therefore well above the average for comparable companies in Europe's telecoms sector. The higher
+ratio is supported by the solid market position Swisscom has achieved thanks to a high level of investment and an
+attractive dividend policy, as well as the lower interest rates and lower corporate income tax rates in Switzerland
+as compared to other European countries.
+
+
+--- Page 34 ---
+
+Statement of added value
+
+Thanks to a modern, high-performance network infrastructure and a comprehensive, needs-driven service offering,
+Swisscom makes an important contribution to Switzerland’s competitiveness and economic success and generates
+direct added value. Operating added value is equivalent to net revenue less goods and services purchased, other
+indirect costs and depreciation and amortisation. Personnel expense in the statement of added value is treated as
+use of added value rather than as an intermediate input.
+
+2017 2016
+In CHF million Switzerland Abroad Total | Switzerland Abroad Total
+Added value
+
+Net revenue 9,476 2,186 11,662 9,665 1,978 11,643
+Capitalised self-constructed assets and other income 325 183 508 325 143 468
+Direct costs (1,946) (720) (2,666) (2,036) (723) (2,759)
+Other operating expenses* (1,594) (604) (2,198) (1,634) (467) (2,101)
+Depreciation and amortisation? (1,528) (586) (2,114) (1,493) (548) (2,041)
+Intermediate inputs (4,743) (1,727) (6,470) (4,838) (1,595) (6,433)
+Operating added value 4,733 459 5,192 4,827 383 5,210
+Other non-operating result? (72) (107)
+Total added value 5,120 5,103
+Allocation of added value
+
+Employees* 2,666 244 2,910 2,651 224 2,875
+Public sector® 376 18 394 308 13 321
+Shareholders (dividends) 1,148 1,148
+Third-party lenders (net interest expense) 149 155
+Company (retained earnings) ® 519 604
+Total added value 5,120 5,103
+
++ Other operating expense: excluding taxes on capital and other taxes not based on income.
+
+? Depreciation and amortisation: excluding amortisation of acquisition-related intangible assets such as brands or customer relations.
+
+> Other non-operating result: financial result excluding net interest expense, share of profits of investments in associates, and depreciation and amortisation of
+acquisition-related intangible assets. 49
+
+“ Employees: employer contributions are reported as pension cost, rather than as expenses according to IFRS.
+
+5 Public sector: current income taxes, taxes on capital and other taxes not based on income, as well as ComCo sanctions.
+
+© Company: including changes in deferred income taxes and defined benefit obligations.
+
+Financial review
+
+>
+Of the consolidated operating added value of CHF 5.2 billion, 91% or CHF 4.7 billion was generated in Switzerland, €
+which was 1.9% less than in the previous year. In contrast, added value per FTE was 1.2% higher at CHF 262,000. &
+In addition to direct added value, purchases from suppliers provide significant indirect added value for Switzer- §
+land’s economic development. Taking into account capital expenditure instead of depreciation and amortisation, ¢
+the purchasing volume in the Swiss business was around CHF 4.9 billion in 2017, with added value contributed by E
+suppliers in Switzerland of approximately 60% or CHF 2.9 billion. gp
+£
+=
+Swisscom development of added Allocation of added value in%
+value per employee in Switzerland in CHF thousand 3%
+400 Third-party lenders
+10%
+‘Company
+
+300
+
+57%
+
+8% ‘4 Employees
+
+272 259 262 Public sector
+200
+22%
+100 Shareholders
+i)
+
+2015 2016 2017
+
+
+
+--- Page 35 ---
+
+50
+
+Management Commentary
+
+Financial review
+
+Financial outlook
+
+2018 2018
+2017 2017 Change Impact 2018
+In CHF million, except where indicated reported pro-forma w/o IFRS 15 IFRS 15 outlook ?
+Net revenue
+Swisscom Group 11,662 11,662 <O0 (10) ~ CHF 11.6 bn
+Swisscom without Fastweb <0 ~ CHF 9.2 bn
+Fastweb >0 > EUR 2.0 bn
+Operating income before depreciation and amortisation (EBITDA)
+Swisscom Group 4,295 4,254* <O0 (50) ~ CHF 4.2 bn
+Swisscom without Fastweb <0 ~ CHF 3.4 bn
+Fastweb >0 ~ EUR 0.7 bn
+Capital expenditure
+Swisscom Group 2,378 2,378 <0 - < CHF 2.4 bn
+Swisscom without Fastweb <0 > CHF 1.6 bn
+Fastweb >0 ~ EUR 0.6 bn
+
++ Adjustment of CHF 41 million: Fastweb litigation income of CHF 102 million less termination benefits of CHF 61 million.
+? Echange rate CHF/EUR of 1.16 (CHF/EUR of 1.11 for financial year 2017)
+
+For 2018, Swisscom anticipates net revenue of around CHF 11.6 billion, EBITDA of around CHF 4.2 billion and capital
+expenditure of less than CHF 2.4 billion. Due to strong competition and price pressure, Swisscom’s revenue with-
+out Fastweb is expected to decline; however, this should be partially offset by a rise in Fastweb’s revenue. EBITDA
+for Swisscom, excluding Fastweb, is expected to be lower year-on-year. The expected reduction in EBITDA is attrib-
+utable to price pressure and continued declines in the number of fixed-line telephony connections. EBITDA will be
+positively affected by cost savings. Fastweb’s EBITDA is expected to be higher. From 2018 onwards, a new account-
+ing standard for recognising revenue (IFRS 15) is to be applied, which is likely to have a negative effect on EBITDA
+of around CHF 50 million. By contrast, at the current euro exchange rate, the currency translation of Fastweb
+should positively affect revenue and EBITDA. Capital expenditure is expected to be slightly lower in Switzerland
+and slightly higher at Fastweb. Subject to achieving its targets, Swisscom will propose payment of an unchanged,
+attractive dividend of CHF 22 per share for the 2018 financial year at the 2019 Annual General Meeting.
+
+
+--- Page 36 ---
+
+See
+www.swisscom.ch/
+shareprice
+
+Capital market
+
+Swisscom’s shares are listed on the SIX Swiss Exchange. The creditworthiness
+of Swisscom is regularly assessed by international rating agencies.
+
+Swisscom share
+
+Swisscom’s market capitalisation as at 31 December 2017 amounted to CHF 26.9 billion (previous year: CHF 23.6 bil-
+lion). The number of shares issued remained the same at 51.8 million. Par value per registered share is CHF 1. Each
+share entitles the holder to one vote. Voting rights can only be exercised if the shareholder is entered in the share
+register of Swisscom Ltd with voting rights. The Board of Directors may refuse to enter a shareholder with voting
+rights if such voting rights exceed 5% of the company’s share capital.
+
+Share performance 2017 in CHF
+
+550
+
+500
+
+450
+
+Sr
+400
+350
+8 8 g 3 8 Ss 5 s g S a S
+mSwisscom mI SMI (indexed) Stoxx Europe 600 Telcos (in CHF, indexed)
+
+The Swiss Market Index (SMI) rose by 14.1% compared with the previous year. The Swisscom share price increased
+by 13.7% to CHF 518.50, outperforming the Stoxx Europe 600 Telecommunications Index (+5.1% in CHF; —3.63% in
+EUR). Average daily trading volume grew by 16.9% year-on-year to 156,147 shares. The total trading volume of
+Swisscom shares in 2017 amounted to CHF 18 billion.
+
+Shareholder return
+
+On 7 April 2017, Swisscom paid out an ordinary dividend of CHF 22 per share. Based on the closing price at the end
+of 2016, this equates to a return of 4.9%. Taking into account the gain in share price, the total shareholder return
+(TSR) of the Swisscom share was 19.4% in 2017. The TSR for the SMI was 17.9% and for the Stoxx Europe 600
+Telecommunications Index 9.8% in CHF and 0.7% in EUR.
+
+Stock exchanges
+Swisscom shares are listed on the SIX Swiss Exchange under the symbol SCMN (Securities No. 874251). In the
+
+United States (Over The Counter, Level 1), they are traded in the form of American Depositary Receipts (ADR) at
+a ratio of 1:10 under the symbol SCMWY (Pink Sheet No. 69769).
+
+51
+
+Management Commentary
+
+Capital market
+
+
+--- Page 37 ---
+
+52
+
+Management Commentary
+
+Capital market
+
+Ownership structure
+
+31.12.2017 31.12.2016
+
+Number of Number of Share Number of Number of Share
+
+Shareholders Shares in% Shareholders Shares in%
+
+Confederation 1 26,394,000 51.0% 1 26,394,000 51.0%
+Natural persons 69,837 5,042,232 9.7% 74,224 5,497,806 10.6%
+Institutions 2,938 20,365,711 39.3% 3,205 19,910,137 38.4%
+Total 72,776 51,801,943 100.0% 77,430 51,801,943 100.0%
+
+The majority shareholder as at 31 December 2017 was the Swiss Confederation, which is obligated by current law
+to hold the majority of the capital and voting rights. As at 31 December 2017, some 20% of the shares were held
+in unregistered shareholdings.
+
+Analysts’ recommendations
+
+Investment specialists analyse Swisscom’s business performance, results and market situation on an ongoing
+basis. Their findings and recommendations offer valuable indicators for investors. 23 analysts regularly publish
+studies on Swisscom. At the end of 2017, 17% of the analysts recommended a buy rating for the Swisscom share,
+48% a hold rating and 35% a sell rating. The average price target at 31 December 2017, according to the analysts’
+estimates, was CHF 480 per share.
+
+Dividend policy
+
+Swisscom pursues a stable dividend policy that is focused on cash flow generation and capital allocation. At the
+forthcoming Annual General Meeting on 4 April 2018, the Board of Directors will propose an unchanged ordinary
+dividend of CHF 22 per share for the 2017 financial year. This is equivalent to a total dividend payout of
+CHF 1,140 million.
+
+Since going public in 1998, Swisscom has distributed a total of CHF 30.7 billion to its shareholders: CHF 18.7 billion
+in dividend payments, CHF 1.6 billion in capital reductions and CHF 10.4 billion in share buybacks. Swisscom has
+paid out a total of CHF 367 per share since the initial public offering. Together with the overall increase in share
+price of CHF 178 per share, this amounts to an average annual total return of 5.4%.
+
+Indebtedness
+
+Level of indebtedness
+
+Swisscom aims to have a net debt of around 1.9 times EBITDA (operating income before depreciation and amorti-
+sation). Net debt consists of total financial liabilities less cash and cash equivalents, current financial assets as well
+as non-current fixed interest-bearing certificates of deposit and derivative financial instruments on financing.
+
+As at 31 December 2017, net debt amounted to CHF 7.4 billion (prior year: CHF 7.8 billion), corresponding to a net
+debt/EBITDA ratio of 1.7 (prior year: 1.8).
+
+Credit ratings and financing
+
+With a rating of A (stable) and A2 (stable) respectively, Swisscom enjoys good ratings from the Standard & Poor’s
+and Moody's rating agencies. To avoid structural downgrading, Swisscom endeavours to raise financing at the
+level of Swisscom Ltd. Swisscom aims to have a broadly diversified debt portfolio. This involves paying particular
+attention to balancing maturities and a diversification of financing instruments, markets and currencies.
+Swisscom’s solid financial standing enabled it unrestricted access to money and capital markets again in 2017.
+
+
+--- Page 38 ---
+
+See report
+page 20
+
+Risks
+
+Swisscom’s risk management system is aimed at safeguarding the company’s
+enterprise value.
+
+Risk situation
+
+Risks are driven by changes in markets, competition, customer behaviour, technology, the regulatory environment
+and government policy. The importance of established telecoms services is continuing to decline. New services in
+the areas of digitisation and IT services, such as cloud services, security products and the communication between
+machines, should compensate for the loss of revenue from the traditional core business. Over the long term, the
+trend in the ICT market will necessitate fundamental changes in the approach to risks related to the business
+model, technology and human capital. Forthcoming regulatory decisions pose a latent risk which could impact
+Swisscom’s financial development, as illustrated by the following selected key risk factors. The main risk factors in
+the supply chain are reported separately in the Sustainability Report.
+
+Risk factors
+
+Telecommunications market
+
+Increasing competition driven by national infrastructure providers and service providers who do not have their
+own telecoms infrastructure is exerting transformation pressure on the business. During this transformation, the
+complexity resulting from the parallel operation of old and new technologies has to be reduced to enable new,
+attractive services. Here there is a risk that the revenue from the classic telecoms business will not be secured
+sustainably during the transformation process, while at the same time technical complexity remains undimin-
+ished. Moreover, a trend can currently be observed towards national and international cooperation among tele-
+communications providers, the purpose of which is to provide low-cost services internationally and exploit major
+synergies and economies of scale. There is a risk that Swisscom will not be able to align its cost structures with its
+current and future competitors, which would narrow the scope for investment, innovation and price reductions.
+If such risks materialise, this could delay implementation of the strategy or have a detrimental effect on customer
+satisfaction. Swisscom has initiated measures in various areas to manage these risks.
+
+Politics and regulation
+
+The manner in which regulations are implemented (e.g. in telecommunications and antitrust legislation) entails
+risks for Swisscom, which could have an adverse impact on the company’s financial position and results of opera-
+tions. The main risks concern the possibility of price regulation being extended to mobile communications (mobile
+termination and roaming services) and broadband (optical fibre), which would further reduce Swisscom’s income
+and restrict the company’s room for manoeuvre, as well as sanctions by the Competition Commission, which
+could reduce Swisscom’s operating results and cause reputational damage to the company. The forthcoming revi-
+sion of the Telecommunications Act heightens regulatory risk. Finally, excessively high political demands (e.g. those
+imposed on universal service provision) threaten to fundamentally undermine the current competitive system.
+
+Increased bandwidth in the access network
+
+Customer demand for broadband access is growing rapidly, as is the popularity of mobile devices and IP-based
+services (smartphones, IP TV, OTTs, etc.). Swisscom faces tough competition from cable companies and other
+network operators as it strives to meet current and future customer needs and defend its own market share. The
+network expansion that necessitates calls for major investments. To mitigate financial risks and ensure optimum
+network coverage, expansion is determined by population density and customer demand. Substantial risks would
+arise if Swisscom were forced to spend more on network expansion than planned, or if projected long-term earnings
+were to fall. Swisscom minimises the risks by adapting the broadband expansion of the access network to changing
+conditions as well as technical opportunities on an ongoing basis.
+
+53
+
+Management Commentary
+
+Risks
+
+
+--- Page 39 ---
+
+54
+
+Management Commentary
+
+Risks
+
+Employees
+
+Constant changes in background conditions and markets mean that corporate culture needs to adapt. The key
+challenges in this context lie in maintaining employee motivation and high staff loyalty despite cost pressure, as
+well as managing growth and efficiency, increasing employees’ ability to adapt and renew their skills and ensuring
+that Swisscom remains an attractive employer.
+
+Competitive dynamics, regulation and recoverability of Fastweb’s assets
+
+The competitive dynamics carry risks which could have a detrimental impact on Fastweb’s strategy and jeopardise
+projected revenue growth. The impairment test performed in 2017 confirmed the recoverable value of Fastweb’s
+assets. The recoverability of Fastweb’s net assets recognised in the consolidated financial statements is contin-
+gent above all on achieving the financial targets set out in the business plan (revenue growth, improvement in
+EBITDA margin and reduction in capital expenditure ratio). If future growth is lower than projected, there is a risk
+that this will result in a further impairment loss. Major uncertainty also surrounds the future interest rate trend
+and the country risk premium. An increase in interest rates or the country risk premium could lead to an impair-
+ment loss. Fastweb’s business operations are also influenced by the European and Italian telecommunications
+legislation. Regulatory risks can jeopardise the achievement of targets and reduce the enterprise value.
+
+Business interruption
+
+Usage of Swisscom’s services is heavily dependent on technical infrastructure such as communications networks
+and IT platforms. Any major disruption to business operations poses a high financial risk as well as a substantial
+reputational risk. Force majeure, natural disasters, human error, hardware or software failure, criminal acts by
+third parties (e.g. computer viruses, hacking) and the ever-growing complexity and interdependence of modern
+technologies can cause damage or interruption to operations. Built-in redundancy, contingency plans, deputising
+arrangements, alternative locations, careful selection of suppliers and other measures are designed to ensure that
+Swisscom can deliver the level of service that customers expect at all times.
+
+Information and security technologies
+
+Swisscom is in the midst of a transformation from line-switched TDM technology to IP technology. This trans-
+formation should enable Swisscom to produce more flexibly and efficiently than before. The experience acquired
+with IP technology to date has been positive. Swisscom’s complex IT architecture entails risks during both the
+implementation and operating phases. These risks have the potential to delay the rollout of new services, increase
+costs and impact competitiveness. The transformation is being monitored by the Group Executive Board.
+
+The area of Internet security has developed and changed with immense speed with respect to technology,
+economics and society and their interdependencies. New innovations and capabilities go hand in hand with new
+opportunities as well as new risks.
+
+The wider the variety of opportunities for attack, the more difficult prevention becomes. This means it is even
+more important for potential threats to be recognised at an early stage, systematically understood and quickly
+averted.
+
+Health and the environment
+
+Electromagnetic radiation (e.g. from mobile antennas or mobile handsets) has repeatedly been claimed to be
+potentially harmful to the environment and health. Under the terms of the Ordinance on Non-lonising Radiation
+(ONIR), Switzerland has adopted the precautionary principle and introduced limits for base stations which are ten
+times stricter than the EU’s limits. The public’s wary attitude to mobile antenna sites in particular is impeding
+Swisscom’s network expansion. Even without stricter legislation, public concerns about the effects of electromag-
+netic radiation on the environment and health could further hamper the construction of wireless networks in the
+future and drive up costs.
+
+Climate change poses risks for Swisscom. These risks are driven by legal and regulatory changes, changes to physical
+climatic parameters (increased levels of precipitation, higher average temperatures and temperature extremes, and
+the loss of permafrost) and other economic and reputational factors. The resulting developments could impact the
+operability of Swisscom’s telecoms infrastructure, particularly in view of the potential risk to base stations, transmit-
+
+er stations and local exchanges. The analysis of the risks posed by climate change is based on the official report o
+© terstati d local exchanges. The analysis of the risks posed by climate change is based on the official report of
+www.dp.net the Federal Office for the Environment (FOEN) on climate change, published in October 2011.

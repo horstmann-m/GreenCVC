@@ -1,0 +1,1414 @@
+
+
+--- Page 1 ---
+
+RISK MANAGEMENT
+
+1. INTRODUCTION
+
+Risk is the possibility of an event occurring that will have a
+negative impact on the people, assets, environment, reputation,
+or strategic objectives of the Group, including forgoing potential
+opportunities. Calculated risk-taking within a pre-established risk
+appetite endorsed by the Board is an inherent aspect of the
+activities of Solvay. This risk appetite is translated through a
+number of Group policies approved by the Comex, and especially
+through the 25 “red lines” set out in the Solvay Management Book
+as mandatory rules
+
+The Group's systematic risk management is integrated with
+strategy, business decisions and operations through the
+Enterprise Risk Management (ERM) approach, facilitated by the
+Internal Audit and Risk Management (IA/RM) department. This
+approach ensures that Solvay leaders identify, assess, and
+manage ll potentially significant business risks and
+opportunities. Risk management is integrated into strategic and
+operational decision-making; it is seen as an_ essential
+management tool and an important aid in making the decisions
+needed to achieve the Company's short, medium, and long-term
+objectives. In a context of global economic and_ political
+uncertainty, changing power balances, different growth
+dynamics, shortening market cycles, raw-material and energy
+price volatility, and quick technological evolution, Solvay also
+believes that monitoring and managing risks effectively is key to
+achieving its sustainability objectives.
+
+The ERM methodology was refined in 2014, and then rolled out
+across the whole Group in 2015. The revisions introduced
+improvements that allow a better prioritization of relevant risks
+and a more focused risk response by individual GBUs and
+functions, and at Group level.
+
+GBU Risk Coordinators were appointed in 2016, and their role
+has been clarified. They are part of a network facilitated by IA/
+RM to share best practices and methodology improvements. Also
+in 2016, GBUs updated their risk maps to take into account the
+status of the risk treatment actions launched previously.
+
+The key steps of the ERM process are:
++ an initial series of risk management exercises in which each
+GBU and each function, assisted by the IA/RM team, reviews
+
+and updates its own risk matrix, and also defines risk owners
+responsible for mitigating the most critical risks.
+
+S\souev + 2016 Annual Integrated Report
+58
+
+* asecond phase in which a risk identification is conducted with
+the Leadership Council: building on an IA/RM team analysis of
+individual GBU/function transversal or correlated risks, a list
+of Group risks is generated and then assessed. This year, the
+correlation analysis has been extended to ensure a better risk
+response;
+
+* ina further phase, Group risks (considered as the most critical
+risks for the Group) are closely reviewed by the Group Risk
+Committee (composed of the Executive Committee and the
+general managers of the Industrial, Legal & Compliance,
+Human Resources, and Sustainable Development functions).
+For each Group risk, a member of the Comex is appointed to
+be the risk sponsor and to ensure that the risk is adequately
+addressed.
+
+Finally, the Group risks update is presented at an extended
+Audit Committee session dedicated to this subject, where the
+Chairman of the Board, the CEO, and other Board members
+are present. The CEO presents and explains the key changes.
+
+The mitigating actions and their status are monitored and
+reported by the IA/RM team in a Group risk dashboard. This
+dashboard is updated, published and formally reviewed by the
+Group Risk Committee twice during the year. The committee
+assesses both progress on mitigating actions and new
+developments in the risk environment. Group risks are also
+considered annually by the Audit Committee of the Board of
+Directors.
+
+Internal control is one aspect of risk management. Please refer
+to section 8 of the Corporate Governance section of this Annual
+Report for a detailed description of the Solvay Group risk
+management and internal control system.
+
+Crisis Preparedness, another important aspect of the response
+to risk, operates a structured network within the Group. Assigned
+members perform tasks and implement programs to ensure the
+readiness of their business units and functions. These programs
+include crisis simulations, media training for potential
+spokespersons, maintenance of key databases, and analysis of
+relevant internal and external events. The risks identified through
+the ERM approach influence the scenarios used in the
+simulations.
+
+The description of the risks relevant to Solvay and the actions the
+Group takes to reduce those risks are listed below. The mitigation
+efforts described do not guarantee that risks will not materialize
+or impact the Group, but they show how Solvay is proactively
+managing risk exposures.
+
+
+--- Page 2 ---
+
+RISK MANAGEMENT
+
+2. MAIN RISKS
+
+The Group Risk Committee has assessed the impact and level
+of control of Group risks and the findings were considered and
+noted by the extended Audit Committee in December 2016. It
+uses four main types of impact: economic impact, impact on
+people, impact on the environment, and impact on reputation.
+
+The level of control of the risks was assessed by considering the
+following questions:
+
++ Are the mitigating/controlling actions defined?
+
+* Are the actions implemented, fully or partially?
+
++ Is the effectiveness of those actions monitored?
+
+Each of these criteria has been rated on a four-level scale.
+
+The criticality is determined by the combination of the risks two
+ratings (impact and level of control) at the time of the
+assessment.
+
+In the chart below, the trend reflects the direction of each risk’s
+criticality, taking into account the implementation of mitigating
+actions in 2016, as well as external developments. Each key risk is
+sponsored and monitored by a Comex member.
+
+Criticality Risk Trend
+Chemical product usage >
+
+Moderate to High Ethics and Compliance >
+Information protection and cyber-risk N
+
+comet Industrial safety >
+Environmental strategy* N/A
+
+* Emerging risk: newly developing or changing risks that may have on the long-term, a significant impact which will need to be assessed in the future.
+
+Climate change - emerging risk
+
+Description
+
+Climate change increases the occurrence of extreme natural
+events, significantly impacting Solvay’s sites and supply chain.
+These impacts could manifest themselves as one or more of the
+following consequences:
+
++ Inability to operate plants
++ Asset damage
+
++ Difficulty supplying customers
+
+* Disruption in the supply of raw materials, energy or utilities.
+
+Prevention and mitigation
+This risk has a long-term horizon; nevertheless, Solvay is creating
+a consistent mitigation plan, the details of which are as follows.
+
+* Build a methodology (type of impacts to be taken into account
+- major events, permanent changes, environmental, socio-
+economic impacts - level of impact, location, etc.)
+
+Consider the following impacts:
+
+- Greater frequency and higher amplitude of natural events
+such as floods and storms
+
+- Regulatory impact (intake water temperature, return water
+temperature)
+
+~ Sea level rise
+
+- Drought/Hydric stress => update previous study
+
+Deploy the methodology onto the Industrial footprint and
+supply chain flows.
+
+SOLVAY - 2016 Annual Integrated Reon
+59
+
+
+--- Page 3 ---
+
+RISK MANAGEMENT
+
+Security
+
+Description
+
+This heading includes intentional attacks on Solvay sites,
+information and people, with the intent to cause harm, damage
+or negative consequences
+
+Prevention and mitigation
++ Solvay has a threat-based security risk-based approach to
+protecting sites, information and people.
+
+A Group Security Director, appointed in 2016, coordinates all
+security activities globally in order to ensure efficient mitigation
+of security risks
+
+The Executive Committee has endorsed the creation of two
+
+governance bodies:
+
+- a Security Board, chaired by the CFO and another Comex
+member
+
+~ a Security Coordination Working Group, chaired by the
+Group Security Director, with the objective of driving a
+continuous security threat monitoring program and an
+optimized security program for the Group
+
+In response to the heightened terror threat in Europe,
+immediate measures were taken to increase protection at a
+number of sites.
+
+Solvay Business Services (SBS) has launched a number of
+initiatives to mitigate cyber security risks.
+
+A travel security program has been approved and
+implemented to increase protection for business travelers.
+
+Transport accident
+
+Description
+
+The risk of causing injury to neighbors or the public may be a
+consequence of an accident during transport activities.
+
+Prevention and mitigation
+
+The risk of an accident in connection with hazardous chemicals
+transportation is reduced by optimizing transport routes, relying
+on selected and audited hauliers, and calling upon worldwide
+emergency assistance from the Carechem service in the event
+of an accident. In addition, every effort is made to minimize the
+number of transportation activities by operating with integrated
+production units for hazardous intermediates. Solvay follows the
+safety recommendations of associations such as Eurochlor and
+CTEF (Comité Technique Européen du Fluor), and programs such
+as Responsible Care®.
+
+\souev + 2016 Annual Integrated Report
+
+Chemical product usage
+
+Description
+
+* Product-liability risk: Solvay’s exposure stems from the
+possibility of injury to third parties or damage to their property
+arising from the use of a Solvay product, as well as from the
+resulting litigation.
+
++ The possible consequences of a faulty product include
+exposure to liability for injury and damage, and product recalls.
+Product liability risk is generally higher for products used in
+healthcare and food & feed applications.
+
+Solvay is also exposed to adverse outcomes while developing
+new products and technologies or scaling up a process.
+
+Prevention and mitigation
+
+* Solvay Product Stewardship Management System (PSMS)
+manages product risks ensuring safety across the full-product
+life cycles.
+
+* In-house product stewardship experts identify and assess the
+hazards and risks of Solvay products.
+
+* The Group characterizes and manages risks related to the uses
+and applications of its products, and - in collaboration with
+the GBUs - prioritizes mitigation actions relating to potential
+inappropriate use.
+
+* Stewardship programs give adequate information and
+technical assistance to customers, ensuring a good
+understanding of safe use and handling.
+
+Solvay Safety Data Sheets (SDS) ensure harmonized content by
+implementing a common worldwide SAP system for the Group.
+Control by SDS shipping allows confirmation that any product
+marketed by Solvay is accompanied by a compliant SDS. Solvay
+monitors the discrepancies registered during checks and
+manages failures due to shipping.
+
+* The Group also develops and deploys recall procedures as
+prescribed by the product stewardship programs, a product
+stewardship management system, and a product safety
+management process that includes healthcare.
+
+Solvay takes out insurance to reduce the financial impact of a
+product liability risk, including for first and third-party product
+recall.
+
+
+--- Page 4 ---
+
+RISK MANAGEMENT
+
+Ethics and compliance
+Description
+Risk arises from a potential failure to comply with
+
++ The Solvay Code of Conduct
+
+* Supporting policies and procedures
+
+* Laws and regulations in the jurisdictions in which Solvay
+operates.
+
+Examples:
+
++ Failure to implement good governance in a joint venture
+* Direct or indirect involvement in human rights violations
+
++ Intentional misstatement of financial reporting, corruption and
+by-passing of internal controls.
+
+Prevention and mitigation
+
+The Code of Conduct, policies and procedures adopted to
+enhance good governance apply to all employees wherever they
+are located. In addition:
+
+Third parties are expected to act within the framework of the
+Code of Conduct.
+
+All critical suppliers must confirm that they adhere to the
+principles set out in the Solvay Supplier code.
+
+Majority-owned joint ventures are held to the Solvay Code
+of Conduct or to a separate code adopted based on similar
+principles.
+
+Compliance organization:
+
++ This organization operates under the leadership of the Group
+General Counsel to enhance a Group-wide culture based on
+ethics and compliance. It also monitors compliance with
+applicable laws, the Code of Conduct, and supporting policies
+and procedures.
+
+* Regional Compliance Officers serve in all four zones where the
+Group operates to ensure communication of the Code and the
+principles on which it is based.
+
+Every global business unit and function within Solvay appoints
+Compliance Liaisons to enhance adherence to compliance
+objectives and to instill a commitment to compliance
+throughout Solvay.
+
+Training:
+
+* Courses are developed internally and presented by the Legal
+& Compliance function to ensure understanding and adoption
+and to address behavioral risks in certain areas such as anti-
+trust, anti-bribery and corruption, human rights, and other
+aspects of Corporate Social Responsibility. Multi-lingual online
+training is also being developed
+
+* Special campaigns to maintain and/or enhance the level of
+awareness within the Group are identified and adopted
+annually.
+
++ New employee training is organized as part of the orientation
+process.
+
+Reporting violations
+
+* Is encouraged as a condition of employment through various
+internal avenues, including management, Human Resources,
+Legal & Compliance, and Internal Audit.
+
++ Anexternal third-party helpline active 24 hours a day, 365 days
+ayear allows employees to ask questions, raise concerns or file
+reports. The Solvay Ethics Helpline is available on the web or
+by phone, operationally via the internet in 46 specific regions
+in more than 40 languages, and via the phone in more than 20
+languages.
+
++ This Group-wide Speak Up program is overseen by the Audit
+Committee of the Board of Directors.
+
+SOLVAY - 2016 Annual Integrated Report”
+
+61
+
+
+--- Page 5 ---
+
+RISK MANAGEMENT
+
+Information protection and cyber risk
+
+Description
+
+Information and cyber risk includes theft, manipulation or
+destruction of information, and the inability to ensure continuity
+of services or to protect confidential, critical or sensitive
+information.
+
+Prevention and mitigation
+
+Cyber security program
+
+Solvays cyber security and confidential information loss
+prevention program was further enhanced in 2016:
+
++ Outside experts conducted independent assessments,
+including penetration tests.
+
++ Solvay Business Services (SBS) renewed its quality
+management program (ISO9001:2015) for all its activities and
+the 1S027001:2013 certification that encompasses
+cybersecurity for the majority of our information systems
+activities is ongoing (all SBS will be certified IS027001 by end of
+2017).
+
++ Training on information systems security policies and best
+practices was completed for all SBS information systems
+professionals.
+
++ End-user security training remains mandatory for all
+employees. Cybersecurity tips are published regularly to
+increase employee awareness.
+
++ New fraud management tools have been implemented to
+identify and preempt fraud attempts.
+
+In 2017, Solvay will continue to enhance its overarching cyber
+security strategy and governance, develop the corporate
+information security program, and explore other functions/
+capabilities to enrich the company’s security posture and ability
+to respond to a cyber-related threat.
+
+While the Company has a comprehensive, regularly updated
+cyber security program, a significant cyber attack could
+nevertheless result in the loss of critical business information
+and/or could negatively impact the company’s operations and
+results.
+
+Insurance
+
+Solvay is insured against the potential financial impact of a cyber
+event with respect to assets, business interruptions, and cases of
+fraud.
+
+Som + 2016 Annual Integrated Report
+
+Industrial safety
+
+Description
+
+* Accidents on industrial sites may cause injury to employees,
+contractors, or members of the public adjacent to those sites,
+especially in the context of major releases of chemical
+substances.
+
+* Accidents involving employees or third-party individuals on
+Solvay's sites are generally linked to a failure of safety
+management relating to risks at the workplace.
+
+* Accidents involving contractors include falls during work at
+height, in construction and maintenance activities, use of tools,
+and interaction with equipment during maintenance, as well
+as accidents due to non-compliance with work permit
+procedures.
+
+* Risks of causing injury to neighbors or the public are mostly
+a consequence of major process accidents at manufacturing
+sites or during transport activities.
+
+Prevention and mitigation
+
+Occupational safety is the highest priority in managing the
+activities of Solvay. The Group has a long track record of good
+safety performance, and has made significant progress by
+sharing good practices
+
+* Safety results are considered monthly both at Executive
+Committee and GBUs level.
+
+* The Health, Safety and Environment (HSE) department
+implements a management system entitled “Solvay Care
+Management System (SCMS)", integrating all Solvay
+requirements for HSE and fulfilling the international standards
+1S014001 and OHSAS 18001. A new version of the
+benchmarks will be released in 2017.
+
+* The HSE department supports sites and GBUs by collecting,
+validating, and distributing return on experience, lessons
+learned bulletins on typical accident scenarios and
+consequences. It is also part of external research, and
+academic and inter-company developments to identify new
+safety approaches: ICSI (Institut pour une Culture de Sécurité
+Industrielle), EPSC (European Process Safety Centre) and CEFIC
+(European Chemical Industry Council) initiatives
+
+* Some actions in 2016: the first Solvay Safety Excellence Plan
+2015-2016 to boost safety performance (being reviewed for
+the 2017-2018 period). The plan focuses on: defining clear
+expectations at management level, defining customized action
+plans through site and GBU roadmaps, and generating a safety
+excellence mindset. The most familiar initiative of this plan is
+the eight "Solvay Life Saving Rules", which address the eight
+most dangerous work-related activities (such as working at
+height).
+
+
+--- Page 6 ---
+
+RISK MANAGEMENT
+
+Environmental strategy - emerging risk
+This risk was added to the main risks in 2016 because it was
+becoming potentially significant for the Group
+
+Description
++ Solvay's activities impact the environment through:
+~ Use of raw materials based on fossil or non-renewable
+resources
+- Consumption of energy
+~ Use of water
+~ Production of waste (solid or liquid, hazardous or safe)
+- Greenhouse gases emission
+- NOx, SOx, Volatile Organic Compounds (VOC) or dust
+emission.
+
+Failure to adapt to changing market dynamics or to
+technological developments triggered by those environmental
+concerns may damage the Group's reputation. It may cause
+the Company to be undervalued by or unappealing to long-
+term investors, and cause it to lose competitiveness
+
+Prevention and mitigation
+The Group's strategy focuses on businesses with higher added
+value and less environmental exposure.
+
+Every year, the Sustainable Portfolio Management (SPM) tool
+assesses the environmental exposure of our sales and our
+innovation projects portfolio.
+
+The Carbon Intensity action plan has a 40% reduction target
+for 2025 (reference year 2014).
+
+Solvay has a new environmental plan and targets for 2020 on
+air emissions (SOx, NOx, VOC), water usage, and hazardous
+waste.
+
+Research & Innovation focuses on selected megatrends,
+including sustainability opportunities and concerns.
+
+3. OTHERRISKS
+
+Market and growth - Strategic risk
+
+Description
+
+* Strategic risk refers to Solvay’s exposure to developments in its
+markets or its competitive environment, and the risk of making
+erroneous strategic decisions
+
+» Examples of risks:
+
+- Economic downturn, drastic changes in energy and raw
+material prices and availability
+
+Reduction of demand in the Group’s main markets as a
+consequence of either new legislation or competitive
+actions, or events affecting its most important customers
+
+- New entrants in a market, a price war, or significant
+imbalances between supply and demand in its markets
+Technological leaps leading to the development of
+substitute products or more competitive manufacturing
+processes
+
+Lack of success of a new product.
+
+Prevention and mitigation
+
+The potential impact of adverse events is continuously assessed
+and managed at both the GBU and corporate levels. This year,
+there was a particular focus on:
+
+* Systematic and formal analysis of markets and marketing
+challenges on investments and innovation project ramp-ups.
+
++ Development of GDP+ growth markets: Automotive &
+Aerospace, Resources & Environment, Electrical & Electronics
+and Agro, Feed & Food.
+
+* Development of customized, mission-critical solutions with our
+key accounts.
+
+* Adaptation of operations to new energy and CO2 markets.
+
+Stronger focus on cash conversion and generation.
+
+SOLVAY - 2016 Annual Integrated Reon
+63
+
+
+--- Page 7 ---
+
+RISK MANAGEMENT
+
+The integration of Cytec has already delivered on its promise
+in 2016, significantly exceeding targets for synergies and cash
+generation. The addition has already enabled the Group to
+expand its presence in the fast-growing advanced aerospace
+materials market. In 2016 the development of new aircraft
+platforms with high composite content was offset by lower
+production rates of older generation aircraft. However, Solvay
+remains well-positioned for growth as production of new aircraft
+programs (growth expected on A320neo, B737 MAX, and Joint
+Strike Fighter) with higher composite content.
+
+The portfolio transformation continued in 2016, with the Group
+scaling back cyclical and low-growth businesses by selling stakes
+in Inovyn, Vinythai and Indupa, and by divesting the cellulose
+acetate business.
+
+Supply chain and manufacturing reliability risk
+Description
+
+Supply chain and manufacturing risk in production units and
+transportation refers to risks related to raw materials, energy,
+suppliers, production, storage units, and inbound/outbound
+transportation. Risks include major equipment failure or damage,
+natural disasters, strikes, and drastic shortages of raw materials,
+utilities or critical equipment.
+
+The geographic distribution of production units around the world
+reduces the overall impact of one production unit being
+damaged or interrupted. Some specialty products are, however,
+produced only in a single plant.
+
+Prevention and mitigation
+
+Key risk areas are addressed with relevant dedicated policies
+and risk control programs, such as the property loss prevention
+program, process safety management procedures, the supplier
+qualification and assessment process, integrated resource
+planning and supply chain optimization systems, ERP (Emergency
+Response Plans), corporate and local crisis management
+
+Suv + 2016 Annual Integrated Report
+64
+
+procedures, business continuity planning (including for pandemic
+risk), and networking groups for manufacturing and supply chain
+managers.
+
+Solvay takes out insurance to reduce the financial impact of
+events that could cause extensive damage and material
+business interruption. |t deploys a property loss prevention
+program with the support of a large network of risk engineers
+assigned by the insurers. The program focuses on the prevention
+and mitigation of damage to assets and loss of profit due to fire,
+explosion, accidental chemical release, and other adverse events.
+The program has been reinforced across the Group and includes:
+engineering visits to all locations, monitoring and providing
+updates on the status of agreed risk improvement actions for
+all locations, meetings with the GBUs on reducing property and
+business interruption risks, road maps designed to reduce
+property and business interruption risks, business impact
+analysis and, loss prevention training for plant employees.
+
+To identify supply chain risk, Solvay takes into account
+environmental, social, security of supply, and innovation criteria
+and identifies a mitigation action for each specific risk. These
+strategic management reviews take place on a regular basis.
+
+* Some suppliers are identified as critical based on their
+strategic importance or because they might represent a
+business, country, or product risk. Those suppliers have to
+engage in a CSR assessment and a continuous improvement
+process. All critical suppliers must also formally confirm that
+they adhere to principles that are consistent with those set out
+in the Solvay Supplier Code;
+
+* Solvay owns several mines and quarries for the extraction of
+trona, limestone, and salt. This reduces the risk of a disruption
+in its raw material supplies (availability, reliability, and price),
+as key suppliers are included in the property loss prevention
+program whenever possible
+
+
+--- Page 8 ---
+
+RISK MANAGEMENT
+
+In the field of energy supply, Solvay has consistently
+implemented programs to reduce its energy consumption for
+many years. While Solvay has industrial activities with high energy
+consumption, mainly in Europe (synthetic soda ash plants,
+polyamides), it also operates a range of industrial activities whose
+energy content is relatively low as a percentage of sales price,
+particularly in the fluorinated polymers business. The Group
+considers secure and reliable energy supplies to be particularly
+important and has taken the following strategic initiatives:
+
+technological leadership in processes and high-performance
+industrial operations to minimize energy consumption;
+
+diversification and flexible use of the different types and
+sources of primary energy;
+
+upstream integration in steam and electricity generation (gas
+cogeneration, biomass or secondary fuels cogeneration, etc.);
+
+periodic review of the condition of industrial sites’ energy
+assets and connections;
+
+a strategy of supply coverage with long-term partnerships and
+medium- to long-term contracts, with price-hedging protection
+mechanisms when needed;
+
+direct access to energy markets when possible (gas hubs,
+electrical grids, financial spot and futures exchanges);
+
+regular forecast reports on energy and raw material price
+trends sent to business to anticipate sales prices realignments.
+
+Solvay Energy Services optimizes energy purchasing and
+consumption for the Group and helps GBUs manage energy and
+CO2 emissions.
+
+Project selection and management
+
+Description
+
+The allocation of resources to projects (capital expendidure
+(capex), mergers and acquisitions) could be misaligned with
+Solvay's growth strategy, leading to an inefficient use of Group
+financial resources and resulting in poor cash conversion. Also, a
+major project could experience difficulties and so fail to reach its
+objectives.
+
+Prevention and mitigation
+
+To increase the likelihood that project objectives are met, the
+Group has set up processes to manage both capital investments
+and acquisitions, including risk identification, assessment, and
+mitigation steps.
+
+* The model of governance for major/medium-sized capex
+projects is designed to ensure that only the most effective
+capital projects are authorized and executed in the best
+possible way.
+
++ The Investment Committee provides the Comex an analytical
+view of the capex allocation efficiency for the Group and the
+capex plan, consistent with the Roadmaps and Business
+Strategy Reviews of the GBUs.
+
+* A performance analysis after implementation is conducted to
+assess the Capex efficiency. The lessons learned are used to
+continuously improve how the Group approaches the
+challenges inherent in the marketing, financial and industrial
+aspects of investment projects.
+
+The methodology used to tackle major capital projects has been
+extended to the GBUs: they can apply it for their medium-sized
+projects.
+
+The Group has progressively deployed a Capex Excellence
+methodology for project portfolio optimization on smaller
+projects.
+
+The combination of these actions has led to much better control
+
+over EBITDA conversion into cash and a conversion level
+comparable to similar companies in the Industry.
+
+SOLVAY - 2016 Annual Integrated Reon
+6
+
+
+--- Page 9 ---
+
+RISK MANAGEMENT
+
+Regulatory, political and legal risk
+
+Description
+
+Regulatory risk
+
++ Regulatory risk refers to Solvay’s exposure to changes in
+legislation and regulations. Solvay could be exposed to
+significant cost increases or business interruptions as a
+consequence of new legislation or regulations, or a more strict
+interpretation or application of current regulations by courts or
+authorities
+
++ Solvay must obtain and maintain regulatory approval to
+operate its production facilities and sell its products.
+Withdrawal of any previously granted approval or failure to
+obtain an authorization may have an adverse effect on its
+business continuity and operating results.
+
++ For Europe in particular, all chemical substances
+manufactured, imported, or used by Solvay require registration
+under the REACH Regulation and must meet the deadlines
+imposed by this regulation. This is in addition to other, already
+existing requirements. 451 dossiers were successfully
+registered with the European Chemical Agency between 2010
+and May 31,2013. Around 332 substances have to be
+registered before the next REACH registration deadline of
+May 31, 2018. With respect to these, the registration schedule
+is on track as of the end of 2016. 123 dossiers had already
+been registered as of December 1, 2016.
+
+Political risk
+
+Political risk refers to Solvay’s exposure to circumstances where
+the normal exercise of public authority is disrupted. This could
+be the consequence of a social crisis, political instability, civil
+war, nationalization, or terrorism in countries where the Group
+operates or sells products, resulting in delays or failure to deliver
+products, or an unavailability of raw materials or utilities, or
+logistical or transport facilities.
+
+Legal risk
++ Legal risk refers to the exposure to actual and potential judicial
+and administrative proceedings.
+
++ The simple fact of doing business exposes Solvay to disputes
+and litigation, and adverse outcomes are always possible (see
+the Important Litigation section below).
+
+owe + 2016 Annual Integrated Report
+
+* The Group may become a party to judicial or administrative
+proceedings in the conduct of its normal course of business,
+particularly in the areas of product liability, contractual
+obligations, antitrust laws, patent infringement, tax
+assessments, and environmental matters (see the Important
+Litigation section below).
+
++ The Group's operations depend on the control of its key
+technologies and on the capacity to innovate. Legal challenges
+to the right of Solvay to use certain technologies could have an
+impact on its operations.
+
+Prevention and mitigation
+* The Group's geographic spread around the world helps reduce
+the impact of adverse regulatory and political developments.
+
+Properly designing and testing products and their production
+processes helps contain regulatory and legal risks, as does
+making sure that applications for necessary approvals are
+timely and thorough.
+
+Regulatory and political risk both within and outside the
+European Union is reduced through the continuous work of
+Solvay's Government and Public Affairs department, which
+works with public authorities and through the local Belgian
+Embassy.
+
++ To manage its legal risk, Solvay maintains in-house legal and
+intellectual property professionals, as well as regulatory
+resources and tools. It also retains external professional
+resources when appropriate.
+
+Financial provisions are made based on Solvay’s awareness of
+legal risks. Awareness is raised by dedicated training, sharing of
+information, self-assessment procedures, and internal audits.
+
++ Trade secrets and patents protect Solvay's technological know-
+how on new products and processes, and continuous efforts
+are made to protect its proprietary information and its position
+as a leader in technological know-how for its production
+processes.
+
+* With respect to political risks, Solvay’s actions include risk-
+sharing with local or institutional partners, as well as
+monitoring of political developments in sensitive areas.
+
+All risks that could trigger an eventual exposure (irrespective of
+probability of outcomes) are monitored centrally and are shared
+with Comex and with the Audit committee every quarter,
+whereby developments in the intervening period are considered
+and suitability of financial provisions considered.
+
+
+--- Page 10 ---
+
+RISK MANAGEMENT
+
+Financial risk
+
+Description
+
+Below is a list of Solvay’s financial risks and how they apply to the
+Company:
+
+« Liquidity risk (see note F32 Financial instruments and financial
+risk management to the consolidated financial statements)
+
+- To repay and refinance financial debt on time
+
+- To fund its business operations and generate cash from
+operations
+
+- To extract cash from divestments and not over-pay
+acquisitions
+
+- To preserve the Group “Investment grade" rating.
+
++ Foreign exchange risk (see note F32 Financial instruments and
+financial risk management to the consolidated financial
+statements)
+~ The Group's largest forex exposure is to the euro and US
+dollar
+
+- The Group's overall activities generate an important net
+positive US dollar flow; thus, a depreciation of the US dollar
+will generally result in lower revenues and lower profit.
+
+~ Furthermore, and to a significantly lesser extent, the Group
+is also exposed to the euro/Japanese yen, euro/Chinese
+yuan and Brazilian real/US dollar rates
+
+« Interest-rate risk (see note F32 Financial instruments and
+financial risk managementto the consolidated financial
+statements)
+
+- Exposure to fluctuating interest rates
+
+* Counterparty risk (see note F32 Financial instruments and
+financial risk managementto the consolidated financial
+statements)
+
+~ Exposure to financial intermediates through its treasury
+activities and through the Group's commercial relationships
+
+Pension obligation risk (see note F32 Financial instruments
+and financial risk managementto the consolidated financial
+statements):
+
+- Exposure to a number of defined benefit plans subject to
+fluctuations in discount rates, expected inflation rates and
+social security coverage and expected longevity, as well as
+asset/liability matching, all of which may result in a major
+impact on the Group's net pension liability
+
+- Exposure of under-funded plans to interest rate and
+inflation risks
+
+Tax litigation risk (see note F32 Financial instruments and
+financial risk managementto the consolidated financial
+statements)
+
+- Exposure to increasing tax audit queries and the
+introduction of changing tax regulations.
+
+Prevention and mitigation
+Financial risks are analyzed, assessed, and managed by the
+Corporate Finance function broadly, and more specifically, by the
+Treasury, Group Accounting & Reporting, and Tax departments.
+Loss prevention and mitigation efforts guide the Group's financial
+policies and their strict monitoring:
+
+A prudent financial profile, conservative financial
+discipline and strong liquidity reserves
+
+A prudent financial profile and conservative financial
+discipline:
+
+» After the acquisition of Cytec in December 2015, the two
+leading rating agencies confirmed the Group's Investment
+Grade status, with a Baa2/P2 rating (negative outlook) by
+Moody's and a BBB-/A3 rating (stable outlook) by Standard &
+Poor's.
+
+Strong liquidity reserves:
+
+* As of the end of 2016, the Group has € 1.1 billion in cash
+and equivalents (namely, other current financial instruments),
+as well as €2.4billion in liquidity reserves composed of
+committed credit facilities (two syndicated credit facilities of
+€ 1.5 billion and € 550 million, respectively), and an additional
+€ 350 million from bilateral facilities with key international
+banking partners.
+
+* The Group has access to a Belgian Treasury Bill program for
+€1 billion, and alternatively, to a US commercial paper
+program for US$500 million
+
+Investment grade rating:
+
+* The Group aims at preserving its investment grade rating and
+in that context maintains a prudent financial profile. Moreover,
+the Group's portfolio management and investment decisions,
+as well as cash flow generation objectives, take explicit account
+of their impact on the Group's credit metrics. Solvay has also
+developed a comprehensive financial methodology, and is
+advised by independent experts, making it possible to
+understand and anticipate impacts on credit worthiness
+derived from prospective financial and business
+developments
+
+* Solvay promotes transparent and regular discussions with
+leading rating agencies.
+
+SOLVAY - 2016 Annual Integrated Reon
+67
+
+
+--- Page 11 ---
+
+RISK MANAGEMENT
+
+Geographic diversification and foreign exchange hedging
+policy
+
+Geographic diversification of the manufacturing footprint
+and sales naturally mitigates foreign exchange risk, as income
+streams are matched with expenses in the same currency.
+
+Currency hedging policy
+
+Solvay monitors the foreign exchange market closely and takes
+hedging measures, principally for terms shorter than one year
+and generally not exceeding 18 months, whenever deemed
+appropriate.
+
++ To hedge forex exchange exposure, Solvay uses forward and
+option contracts designed to secure the value of future cash
+flows in foreign currency.
+
++ The Group manages its foreign exchange risk for receivables,
+payables and borrowings centrally for all affiliates of the Group
+where it is possible to enter into such transactions, and
+through local financial affiliates for other regions.
+
+Interest rate hedging policy
+
+The Group locks the majority of its net indebtedness with fixed
+interest rates. Solvay monitors the interest rate market closely
+and enters into interest rate swaps whenever they are deemed
+appropriate.
+
+Monitoring of Group counterparties’ ratings
+
+For its treasury activities, Solvay works with banking
+institutions of the highest creditworthiness (selection based on
+major rating systems) and minimizes the concentration of risk
+by limiting its exposure to each of these banks to a certain
+threshold, set in relation to the institution’s credit rating. In
+addition, Solvay may invest money with highly-rated money
+market funds, as well as in short-term debt securities from highly-
+rated sovereign issuers when appropriate.
+
+For its commercial activities, Solvay’s external customer risk
+and cash collection are monitored by a strong network of credit
+managers and cash collectors located in the Group's various
+operating regions and countries. Their controls are supported by
+a set of detailed procedures and managed through Corporate
+and GBU Credit Committees. These loss mitigation measures
+have led, over the past few years, to a record low rate of customer
+defaults.
+
+Pension governance and pension plan optimization
+
+Pension governance: Solvay has set guidelines to maximize
+its influence over local pension fund decisions within the limits
+provided by domestic laws, including investment and funding,
+
+Som + 2016 Annual Integrated Report
+
+selection of advisors, appointment of employer-nominated
+trustees to local pension fund boards, and other cost
+management actions.
+
+Pension plan optimization: This consists primarily of reducing
+the Group's exposure to defined benefit plans by either
+converting existing plans into pension plans with a lower risk
+profile for future services or closing them to new entrants.
+Examples of such lower risk plans include hybrid plans that
+combine cash balance plans and defined contribution plans.
+
+A global ALM (Asset Liability Management) analysis of the Group's
+pension plans, representing about 90% of the Group's gross or
+net pension obligations, is performed on a triennial basis, in
+order to identify and manage corresponding risks on a global
+basis. Solvay conducted an ALM study in 2016.
+
+Control processes for tax regulation compliance and
+transfer pricing policies
+
+Control processes for tax regulation compliance include
+monitoring procedures and systems, thorough internal reviews,
+and audits performed by reputable external consultants. Efforts
+to prevent tax litigation risk include thorough analyses of the
+internal financing of affiliates, mergers, acquisitions, and
+divestments, or proposed changes in the business organization
+and operations. The Group seeks the assistance of external
+experts or law firms when the amounts at stake warrant it.
+
+Transfer pricing policies, procedures and controls are
+aimed at meeting the requirements of the authorities. Transfer
+pricing documentation is prepared annually for each relevant
+Group legal entity that requires such documentation, in line with
+local national laws and practices. This is done with the assistance
+of internal or external experts to demonstrate the arm's length
+nature of cross-company pricing. The Internal Audit department
+regularly verifies the existence and timeliness of the
+documentation. Internal transfer pricing specialists assist the
+business in setting intra-Group prices that comply with the
+transfer pricing policy.
+
+Moreover, Solvay’s Tax department pays close attention to the
+correct interpretation and application of new tax rules to avoid
+future litigation. In this regard, among other things it implements
+the G20/OECD base erosion and profit shifting (BEPS)
+recommendations at the country level in order to ensure that tax
+positions remain consistent with changing requirements.
+
+
+--- Page 12 ---
+
+RISK MANAGEMENT
+
+Occupational diseases and pandemic risk
+Description
+
+Occupational diseases are work-related diseases recognized as
+resulting from exposure to occupational hazards, generally
+repeated exposure. In most cases, health effects appear after a
+long period of latency, e.g. asbestos-related diseases or cancers
+
+Pandemic risk can affect employees, their families, and society at
+large.
+
+Prevention and mitigation
+
+* Conservative approaches to risk identification, assessment and
+management help avoid a real risk of exposure, including when
+new hazards are revealed.
+
++ Solvay monitors occupational disease standards worldwide
+and a strong industrial hygiene program focused on
+comprehensive assessments of compliance with occupational
+hygiene standards.
+
+* Conservative exposure limits are defined and shared by
+Solvay's worldwide toxicology team, supported by the internal
+"Solvay Acceptable Exposure Limit" Committee, which
+establishes Solvay Acceptable Exposure Limits (SAELs) for
+substances with no official occupational exposure limit (OEL)
+or an OEL considered insufficiently protective. High priority is
+given to nano-materials and technology, endocrine disruptors,
+SVHCs (Substances of Very High Concern) and health-related
+applications of Solvay products.
+
+All Solvay industrial sites and major administrative sites are
+required to ensure periodic medical monitoring of workers
+based on individual risk profiles and on Group
+recommendations, thereby helping to prevent the onset of
+occupational diseases and any other adverse health effects
+due to work.
+
+Internal industrial hygiene and occupational health IT tools are
+integrated at site level. With these tools, local teams benefit
+from easy and efficient management of - and access to -
+comprehensive hygiene assessments and medical surveillance
+data on their personnel. These tools help to identify and
+anticipate the occurrence of potential new occupational
+disease cases, improve the traceability of individual and
+collective exposure and medical data, and facilitate the daily
+work of Solvay physicians and hygienists.
+
+A global pandemic preparedness plan covering all plants and
+businesses, supported by a network of coordinators, has been
+developed. This plan can be reactivated to initiate a regional or
+local response.
+
+Environmental risk
+
+Description
+
+* Managing or remediating historical soil contamination at a
+number of sites and complying with future changes in
+environmental legislation are top priorities.
+
+* There is a global trend of legislation introducing an increasingly
+broader scope of environmental legal liabilities. However, in
+Europe, the legislation is reinterpreted in a pragmatic way
+using site-specific risk-based analyses to define intervention
+value and remedial objectives.
+
+Prevention and mitigation
+
+* ISO 14001 or integrated HSE management systems equivalent
+to ISO 14001 (Solvay Care Management System) for the
+environment are implemented in all manufacturing sites
+
+Policies and risk control programs are applied in all production
+units and other facilities, and are implemented progressively in
+newly acquired plants. The Group takes the necessary steps to
+meet and even exceed regulatory standards concerning major
+risks, which includes detailed accident prevention measures.
+
+* Sites facing historical soil contamination are carefully
+monitored and managed. A dedicated worldwide team is
+regularly trained and undertakes regular updates of
+appropriate provisions for monitoring and remediation
+according to a defined audit process.
+
+* AS a matter of policy, all concerned sites employ a risk
+characterization approach. It contains a diagnosis of potential
+problems based on hydrogeological studies and soil
+characterizations, an evaluation of the risks to aquifers, and
+the implementation of relevant remediation or confinement
+actions with authorities.
+
+Local regulatory monitoring is performed at all Solvay sites.
+Corrective actions are implemented whenever necessary, in
+close cooperation with environmental authorities.
+
+Solvay takes out insurance to reduce the financial impact of an
+environmental risk materializing. Solvay monitors the effects of
+climate change, as related risks and opportunities may affect
+the Group's business objectives. The risk is hedged to an
+extent through the geographic spread of both production
+units and markets for its products.
+
+SOLVAY - 2016 Annual Integrated Report”
+6
+
+
+--- Page 13 ---
+
+RISK MANAGEMENT
+
+IT risk
+
+Description
+
+For Solvay, information and information service-related risks refer
+to the inability to ensure continuity of services or provide
+information services adapted to the business needs.
+
+Prevention and mitigation
+
++ The Group uses a dedicated data network and regional
+internet gateways that are managed by a trusted service
+provider. The critical data and applications are hosted in a
+data center operating in accordance with professional good
+practices, ensuring recovery capabilities in the event of an
+incident.
+
++ In 2016, disaster recovery and crisis management tests were
+carried out for the data center as well as the main service
+centers and regional offices of Solvay’s Business Services (SBS),
+involving various crisis scenarios.
+
++ IT general controls are applied to critical information systems
+and are audited for compliance both internally and externally.
+Solvay has developed an annual IT audit program to ensure
+compliance with information systems security policies.
+
+>\owev + 2016 Annual Integrated Report
+
+IMPORTANT LITIGATION
+
+With its variety of activities and its geographic reach, the Solvay
+Group is exposed to legal risks, particularly in the areas of
+product liability, contractual relations, antitrust laws, patent
+disputes, tax assessments, and HSE matters. In this context,
+litigation cannot be avoided and is sometimes necessary so as to
+defend the rights and interests of the Group.
+
+The outcome of proceedings cannot be predicted with certainty.
+It is therefore possible that adverse final court decisions or
+arbitration awards could lead to liabilities (and expenses) that are
+not covered or not fully covered by provisions or insurance, and
+that could have a material impact on the revenues and earnings
+of the Group.
+
+Ongoing legal proceedings involving the Solvay Group that are
+currently considered to involve significant risks are outlined
+below. The legal proceedings described below do not constitute
+an exhaustive list.
+
+The fact that litigation proceedings are reported below is
+unrelated to the merits of the cases. In all the cases cited below,
+Solvay is defending itself vigorously and believes in the merits of
+its defenses.
+
+For certain cases, Solvay has created reserves/provisions in
+accordance with the accounting rules to cover financial risk and
+defense costs (see note 35D, “Provisions for litigation to the
+consolidated financial statements” of the present document).
+
+
+--- Page 14 ---
+
+RISK MANAGEMENT
+
+Antitrust proceedings
+
+In 2006, the European Commission imposed fines against Solvay
+(including Ausimont SpA, acquired by Solvay in 2002) for alleged
+breaches of competition rules in the peroxygens market,
+amounting after appeal to €139.5 million for Solvay SA and
+€12.8 million for Solvay Specialty Polymers Italy SpA. Joint civil
+lawsuits were filed before the Court of Dortmund (Germany) in
+2009 against Solvay and other manufacturers based on the
+alleged antitrust violation, claiming damages from the
+manufacturers on a joint and several basis. The value of the
+claims is approximately € 240 million (excluding interest) against
+all six defendants. Several questions on the jurisdiction of the
+Court of Dortmund have been submitted to the European Court
+of Justice, and proceedings before the Court of Dortmund are
+pending.
+
+In Brazil, Solvay is facing administrative claims related to alleged
+cartel activities in various markets. CADE (the Brazilian antitrust
+authority) issued fines against Solvay and others in May 2012
+relating to H202 activity and in February 2016 related to
+perborate activity (Solvay's shares of these fines amount to
+€ 29.6 million and € 3.99 million respectively). Solvay has filed a
+claim contesting these administrative fines before the Brazilian
+Federal Court.
+
+HSE-related proceedings
+
+In October 2009, the public prosecutor of the Criminal Court
+of Alessandria (Italy) charged several individuals (including
+employees and former employees of Solvay and Ausimont SpA,
+now Solvay Specialty Polymers Italy) in relation to alleged criminal
+violations of environmental laws (a failure to remediate) and
+public health legislation (intentional poisoning of potable waters).
+Solvay Specialty Polymers Italy - SSPI (formerly Solvay Solexis and
+Ausimont), a subsidiary of Solvay and legal successor to Ausimont
+SpA, named in the trial as the civilly liable party together with
+Edison SpA, may be exposed to claims for civil liability in the
+event of a negative outcome of the proceedings. The civil parties
+admitted to the trial have provisionally quantified their civil
+damages claims at about € 105 million. In December 2015 the
+Assize Court of Alessandria sentenced three SSPI managers to
+jail for 2.5 years and awarded civil damages of about € 400k. This
+judgment, which is not enforceable as it is not final, was appealed
+by all the parties and is currently pending before the Criminal
+Assize Court of Appeal of Turin.
+
+In May 2008, the public prosecutors of the Criminal Court of
+Pescara (Italy) charged several individuals in relation to alleged
+criminal violation of environmental laws (environmental disaster)
+and to alleged crimes against public health (intentional poisoning
+of potable waters) that had taken place before 2002 (i.e. before
+Ausimont SpA’s acquisition by Solvay). These individuals included
+former employees of Ausimont SpA, acquired by Solvay in 2002;
+no Solvay employee was charged, and Solvay SA and Solvay
+Specialty Polymers Italy were admitted to the trial as civil parties.
+The Assize Court of Chieti dismissed the intentional poisoning
+charge and found the former Ausimont employees guilty of
+culpable environmental pollution, but declared that this matter
+was time-barred. The public prosecutors and the civil parties
+lodged an appeal against this decision and the case is currently
+pending before the Criminal Assize Court of Appeal of L'Aquila.
+
+As of the end of 2016, 17 civil proceedings had been brought
+before the Civil Court of Livorno by past workers and relatives
+of deceased workers at the Rosignano Site seeking damages
+(provisionally quantified at €9 million) in relation to diseases
+allegedly caused by exposure to asbestos. The defendants in
+these civil proceedings are Solvay SA and Solvay Chimica Italia
+SpA, respectively the owner and manager of the Rosignano site
+
+Pharmaceutical activities (discontinued)
+
+In the context of the sale of the pharmaceutical activities in
+February 2010, the contractual arrangements have defined
+terms and conditions for the allocation and sharing of liability
+arising out of the activities before the sale.
+
+Subject to limited exceptions, Solvay's exposure for
+indemnifications to Abbott for liabilities arising out of sold
+activities is limited to an aggregate amount representing
+€ 500 million and is limited in duration.
+
+This includes indemnification against certain potential liabilities
+for the US hormone replacement therapy (HRT) litigation, re-
+activated Qui Tam litigation focusing on promotional and
+marketing practices that allegedly influenced sales of the drugs
+ACEON®, LUVOX®, and ANDROGEL®, and more recently filed
+testosterone replacement therapy (TRT) litigation also focusing
+on the drug ANDROGEL®. These claims are proceeding at varying
+rates of resolution.
+
+SOLVAY - 2016 Annual Integrated Repo 4°
+n

@@ -1,0 +1,2823 @@
+
+
+--- Page 1 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+1 Summary
+
+1.1. Introduction
+
+ear 2015 hlights (year ended December 31, 2015
+
+In Distribution, our travel agency air bookings increased 8.3%, to 505.0 million
+
+In IT Solutions, our Passengers Boarded increased 7.5%, to 747.3 million
+
+Revenue increased by 14.5%, to €3,912.7 million
+
+EBITDA’ increased by 12.2%, to €1,465.4 million
+
+Adjusted profit? increased by 10.4%, to €751.8 million
+
+Free Cash Flow increased by 10.5%, to €659.2 million
+
+Ordinary shareholder remuneration of €0.775 per share (10.7% increase)
+
+Covenant net financial debt was €1,611.6 million (1.09 times to covenant last twelve months’
+EBITDA) at December 31, 2015
+
+Amadeus continued to advance positively through the fourth quarter and delivered a successful set of results
+for the year. In 2015, Revenue and EBITDA’ grew by 14.5% and 12.2% respectively, supporting Adjusted
+Profit? growth of 10.4%. These results were driven by strong performances in our Distribution and IT Solutions
+businesses, by the contribution from our 2014/15 acquisitions and by a sustained positive foreign exchange
+impact, in line in the quarter, with what we have seen during the year.
+
+In Distribution, we continued to renew or sign content agreements during the fourth quarter, including 8
+carriers, securing and expanding comprehensive content for our travel agency subscribers. Our air volumes
+continued to grow driven by a 1.3 p.p. improvement of our competitive position? in the quarter, further
+increasing our relevance to travel providers. As in past quarters, North America continued to be our fastest-
+growing region, growing at a double-digit growth rate. Our overall air TA bookings grew 8.3% and Distribution
+Revenue increased by 11.5%, driven by a 1.7 p.p. enhancement of our competitive position in 2015.
+
+Merchandising is extremely important for airlines and we are committed to supporting our airline partners in
+achieving their goals. Our Amadeus Ancillary Services solution is deployable in almost all markets worldwide
+and has been contracted by 135 airlines (101 now implemented). Also, Amadeus’ Fare Families Solution,
+allowing airlines to distribute branded fares, currently has 29 airline customers of which 22 have been
+implemented. Adoption rates on the travel agency side are also progressing. In 2015, we saw an almost 100%
+increase in travel agency sales of ancillaries through the Amadeus system (albeit, from a small base). The
+number of online travel agencies (OTAs) subscribed to Amadeus having had airline ancillaries integrated into
+their systems tripled in 2015. At present, over 45% of air bookings made through our subscribing travel
+agencies can offer sales of merchandising products such as ancillary services or airline Fare Families.
+
+1EBITDA was impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million). Excluding these costs, EBITDA grew by 12.6%, to €1,472.1 million.
+
+2 Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses, (ii) changes in fair
+value of interest rate hedging agreements and non-operating exchange gains (losses) and (iii) other non-recurring items. Adjusted profit was
+impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 and with the acquisition of i:FAO in 2014.
+Excluding these impacts, Adjusted profit increased by 10.9% to €756.3 million.
+
+3 Competitive position as defined in section 3.
+
+Page 4
+
+
+--- Page 2 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+In 2015, IT Solutions revenue expanded by 22.1%. This growth was supported by PB increase of 7.5%,
+positively impacted by Korean Air’s migration in the latter part of 2014 and the migrations of All Nippon Airways
+(international passengers business) and the Thomas Cook Group Airlines, in the second and fourth quarters of
+2015, respectively. In 2015 we continued expanding our Altéa contracted pipeline, including among others and
+most importantly Brussels Airlines, which completed its implementation together with Swiss International Air
+Lines (both part of the Lufthansa Group) at month-end January 2016. All our activities within Airline IT had a
+positive evolution in the quarter, as in the year, supported by successful upselling activity with new customers
+for DCS, e-commerce and standalone solutions as well as by overall organic growth.
+
+Post-closing, we were pleased to announce receiving all the necessary regulatory approvals for the completion
+of our acquisition of Navitaire, which took place on January 26, 2016. A US-based PSS provider, Navitaire is
+focused on the low-cost and hybrid-carrier segments of the airline industry, with a global customer base of over
+50 carriers. The addition of Navitaire's portfolio of products and solutions will complement our own and give
+Amadeus the ability to serve a new airline segment more effectively.
+
+Our expansion into other verticals (Airport IT) or into additional transversal areas (Payments), also continue to
+deliver growth. We have recently announced our launch of the Amadeus B2BWallet, a full suite of virtual cards
+(from prepaid to credit) which provide travel sellers with considerable efficiencies in the payment process to
+travel providers and which are fully integrated to the travel sellers’ workflows.
+
+We also continue making positive progress in our Hotel IT strategy by integrating our recent acquisitions (Hotel
+SystemsPro and Itesso) and by advancing, together with InterContinental Hotels Group, in the development of
+a new-generation Guest Reservation System for the hotel industry.
+
+Investing in technology is fundamental to our success. In 2015, R&D at Amadeus amounted to 16.4% of
+revenue. R&D was devoted primarily to new customer implementations, product evolution and portfolio
+expansion - including new businesses, as well as to transversal projects such as our shift to open systems, all
+supporting the future growth of Amadeus.
+
+In 2015, our free cash flow grew 10.5% to €659.2 million and consolidated covenant net financial debt as of
+December 31, 2015 stood at €1,611.6 million, representing 1.09 times last twelve months’ EBITDA (an
+estimated 1.56x proforma for our Navitaire acquisition).
+
+In December 2015, the Board of Directors also proposed a 50% pay-out target ratio for 2015. Accordingly, the
+Board of Directors will submit a final gross dividend of €0.775 per share from the 2015 reported profit to the
+General Shareholders Meeting for approval in June 2016, representing an increase of 10.7% vs. the 2014
+dividend. An interim gross dividend of €0.34 per share was paid in January 2016.
+
+Page 5
+
+
+--- Page 3 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a M a D E u S
+
+1.2 Summary of operating and financial information
+
+Summary CLG Full year 2015 Full year 2014 % Change
+
+Operating KPI
+
+Air TA competitive posi
+Air TA bookings (m)
+
+Non air bookings (m)
+Total bookings (m)
+Passengers Boarded (m)
+
+inancial results
+
+Distribution Revenue 2,455.1
+IT Solutions Revenue 962.6
+Revenue 3,417.7
+Distribution Contribution 1,082.1
+IT Solutions Contribution 651.0
+Contribution 1,733.1
+EBITDA? 1,306.0
+EBITDA margin (%) 38.2%
+EBITDA excl. acquisition costs? 1,307.6
+EBITDA excl. acquisition costs margin (%) 38.3%
+Adjusted profit* 681.1
+Adjusted EPS (euros)> 1.53
+Adjusted profit® excl. acquisition costs 682.1
+Adjusted EPS® excl. acquisition costs 1.53
+Cash flow
+
+Capital expenditure 427.5
+Free cash flow” 596.3
+
+31/12/2015 31/12/2014 % Change
+
+Indebtedness®
+
+Covenant Net Financial Debt 1,738.5
+
+Covenant Net Financial Debt /
+LTM Covenant EBITDA
+
+1.32x
+
+1. Competitive position as defined in section 3.
+
+2. EBITDA was impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+
+3. EBITDA excluding the extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+
+4. Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses, (ii)
+changes in fair value of interest rate hedging agreements and non-operating exchange gains (losses) and (iii) other non-recurring
+items.
+
+5. EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average outstanding
+shares of the period.
+
+6. Adjusted profit and Adjusted EPS excluding the extraordinary costs associated with the acquisition of Navitaire incurred in 2015 and
+with the acquisition of i: FAO in 2014.
+
+7. Calculated as EBITDA less capital expenditure plus changes in our operating working capital less taxes paid less interests and finan-
+cial fees paid.
+
+8. Based on the definition included in the senior credit agreement covenants. Covenant net financial debt at December 31, 2014 in-
+cludes debt relating to the share buy-back programme announced on December 11, 2014 amounting to €288.8 million.
+
+Page 6
+
+
+--- Page 4 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+2 Operating Review
+
+2.1 Key business highlights for the year
+The following include selected business highlights for the full year 2015:
+Distribution
+
+On average over 80% of the airline bookings made through the Amadeus system worldwide are made with
+airlines that have a content agreement. During the year new signings, or renewals of existing content
+agreements, were reached with 37 carriers including Air Canada, which serves 38 million passengers a year,
+Aeromexico, the largest airline in Mexico, and Czech Airlines.
+
+Customers have continued contracting merchandising solutions. As of year end 135 airlines had signed-up
+to Amadeus Airline Ancillary Services with 101 customers having implemented the solution. Amadeus Airline
+Ancillary Services now supports airlines in deploying ancillary services in almost all markets globally. In
+turn, Amadeus Fare Families Solution, which allows airlines to distribute branded fares, had 29 contracts in
+place and 22 customers had already implemented the solution.
+
+Included within these was Air Canada, which will take advantage of both Amadeus Fare Families and
+Amadeus Ancillary Services, providing travel agency customers with access to the airline’s complete range
+of merchandising content via XML. This will enable full access to the airline’s products with the efficiency
+and transparency offered by the Global Distribution System (GDS). Additionally Amadeus will also work
+together with Air Canada to leverage existing features of the Amadeus Selling Platform.
+
+Additionally Etihad Airways, the national airline of the United Arab Emirates, announced it will become the
+first Middle Eastern carrier to implement Amadeus Fare Families in the indirect channel.
+
+Meanwhile both Lufthansa and Austrian implemented Amadeus Fare Families. They joined other Lufthansa
+Group airlines Swiss International Air Lines (SWISS) and Brussels Airlines as the first airlines to go live with
+ATPCo Branded Fares - a technology which Amadeus is the first provider to support. Amadeus subscribers
+can book Lufthansa and Austrian’s new branded fares, Light, Classic and Flex, across the direct and indirect
+channels through all Amadeus retailing interfaces, across worldwide points of sale, and for all customer
+segments to provide a consistent offer to both intermediaries and travellers.
+
+Travel agencies are playing a greater role in the sale of ancillaries as the number of online travel agencies
+(OTAs) with airline ancillaries integrated into their systems tripled year-on-year during 2015. During the full
+year of 2015 Amadeus saw an almost 100% increase in travel agency sales of ancillaries. For certain
+carriers, up to 40% of their bookings distributed by OTAs included an ancillary sale.
+
+Travellers are much closer to a door-to-door experience as Amadeus Selling Platform’s latest module now
+enables travel agents to sell airport express tickets as they book a flight or hotel. London’s Heathrow
+Express became the first to launch this Amadeus tool and it will be followed by Airtrain in Brisbane during
+2016.
+
+Deutsche Bahn (DB), one of the leading transportation and logistics companies worldwide that carried 4.3
+billion passengers in 2014, renewed its existing agreement with Amadeus for another three years. With this
+new agreement online travel agencies (OTAs) worldwide were able to access DB’s full range of routes and
+fares via Amadeus Rail Web Services, whilst corporate and traditional travel agencies continued to do so via
+
+Page 7
+
+
+--- Page 5 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+Amadeus Rail Display and Amadeus eTravel Management. Amadeus’ rail platform provides OTAs with a one-
+stop-shop to market leading rail content with over ten providers including DB.
+
+Travel Intelligence:
+
+Our Travel Intelligence business launched the Amadeus Agency Insight suite during the summer, for which
+customers already included leading players such as Costamar, Makemytrip, Despegar, Tije, Asiana Global
+Travel Service, Delfos, Travelfast and Nuevo Mundo. The Travel Intelligence suite helps travel agents to
+leverage Big Data technologies by transforming market and traveller data into unique and actionable
+insights. This data enables strategic decision-making in areas such as assessing profitable routes and
+markets to promote travellers’ search behaviour and compare performance against competitors. At the core
+of this offer is the Amadeus Travel Intelligence Engine, a cloud-based and scalable platform designed to
+deliver total flexibility and speed with no data limit.
+
+Later in the year Travel Intelligence’s latest solution - Amadeus Schedule Recovery - was launched with
+Australia’s largest carrier, Qantas Airways. Using data analytics to make rapid choices, such as whether to
+delay / cancel flights or reassign landing slots, the tool minimises disruptions caused by external events
+such as bad weather or air traffic control congestion. The tool is divided into three modules: Airport
+Resource Tracker, Schedule Manager and Schedule Optimiser.
+
+IT Solutions
+Airline IT:
+
+After the close of the 2015 year, on January 26, 2016 Amadeus announced that, following regulatory
+approval, it had closed the deal to acquire Navitaire, a provider of technology and business solutions to the
+airline industry, from Accenture for €766.5 million. The addition of Navitaire’s portfolio of products and
+solutions for the low-cost and hybrid segments complements Amadeus’ Altéa Suite of offerings for its
+largely full-service carrier customer base, giving the company the ability to serve a wider group of airlines.
+Amadeus will market and sell the two product portfolios separately and will continue to invest in both
+platforms, enhancing the services and functionality availability to all types of carriers.
+
+As of the close of the year 132 airlines globally were contracted for both Altéa Reservation and Altéa
+Inventory, 120 of which were contracted to use the full Altéa Suite (which additionally includes Altéa
+Departure Control). By the end of the year 124 airlines had already been implemented for Altéa Reservation
+and Altéa Inventory, 105 of which were already using the full Altéa Suite. The Altéa Suite facilitates closer
+integration between partner airlines that need to share availability, fares, customer and booking
+information, thus enabling the same customer experience across alliance members.
+
+The latest addition to the Altéa platform is Brussels Airlines, which contracted for the full Altéa Suite in
+2015. The airline represents approximately 7.5 million passengers on a yearly basis and already
+implemented Altéa Reservation and Altéa Inventory in January 2016 (in parallel with Swiss International Air
+Lines).
+
+Scandinavian Airlines (SAS) migrated to Amadeus Altéa Revenue Management Suite, laying the foundation
+for the most accurate and intelligent pricing of airline packages and offers. This followed a strategic
+partnership established in 2013 that saw SAS’ highly experienced revenue management experts join
+Amadeus to create a groundbreaking ‘Centre of Competence’. The Amadeus Altéa Revenue Management
+Suite is specifically designed to counter the ‘buy-down effect’ generated by traditional revenue management
+practices, whereby systems cannot adequately understand travellers that buy low price flight tickets.
+Lufthansa became the first airline to select Altéa Corporate Recognition, which allows airlines to identify
+corporate bookings at the moment of reservation. By providing tailor-made offers across all stages of the
+journey and enhancing both total spend and improved travel experience, airlines can actively focus on the
+
+Page 8
+
+
+--- Page 6 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+needs of corporates and offer services such as additional baggage and preferential seat options. This service
+is complemented by Amadeus’ existing loyalty and personalisation solutions, Loyalty Management Suite and
+Altéa Awards Suite.
+
+In response to the challenge faced by airlines of ever increasing flight search volumes - airline ‘look-to-
+book’ ratios can now easily run to 1,000:1 - Amadeus launched Airline Cloud Availability, a cloud-based
+dynamic availability solution that also applies dynamic revenue management strategies. This followed a
+successful pilot with Lufthansa and Google Cloud Platform. By synchronising the airline’s central systems
+and the distributed instances of the airline’s availability calculation in real-time, consumers can search and
+shop for Lufthansa’s offers more efficiently and receive results of the airline’s availability that are close to
+100% accurate, regardless of the technological set up of the travel seller. At the same time, the airline does
+not lose out on any sale opportunity by being able to respond accurately to these exponentially growing
+shopping requests, whilst protecting the airline’s own central systems.
+
+New Businesses
+Hotel IT:
+
+In the Hotel IT sector, InterContinental Hotels Group PLC (IHG) and Amadeus announced a partnership to
+develop a next-generation Guest Reservation System (GRS) that will revolutionise the technological
+foundations of the global hospitality industry. Working on a new cloud-based ‘Community Model’ similar to
+the model Amadeus developed for the global airline industry, the system will be a first in the hotel sector.
+Amadeus expanded its technology offering to the hotel industry with the acquisition of Netherlands-based
+Itesso BV, a provider of cloud-native property management systems (PMS). With its new cloud-native
+Itesso Enterprise Lodging System (Itesso ELS), the company is leading the industry towards a new
+generation of property management solutions and also currently provides PMS technology to 1,800
+properties worldwide. Characterised by an award-winning customer service and an ‘easy-to-do-business-
+with’ mentality, Itesso is a strong addition to the Hotel IT portfolio.
+
+In addition, the Amadeus sales and catering offering to the hotel industry was increased with the acquisition
+of Hotel SystemsPro by Newmarket, an Amadeus company. This acquisition brings a complementary
+product set targeted at mid-tier hotels. Hotel SystemsPro is a US-based provider of sales, catering and
+maintenance software to the hotel and hospitality industry and delivers high-performance, Application
+Server Provider (ASP)-based enterprise and property solutions to more than 4,500 hotels in North America
+and beyond.
+
+Together, these two deals brought Amadeus closer to its vision of uniting systems known today as Central
+Reservation Systems (CRS), Property Management Systems (PMS), Revenue Management Systems (RMS),
+Sales & Catering and others, into a cloud-based platform which is fully centered around the guest
+experience.
+
+Airport IT:
+
+In the largest airport IT market globally, North America, Amadeus accelerated its expansion through the
+acquisition of Florida-based Air-Transport IT Services Inc. (Air IT). Currently 30 of the top 50 busiest
+airports in the US use AirIT ’s solutions, along with a strong customer base of more than 70 airport
+operators in the US, Canada, and the Caribbean. Outside of North America, Amadeus will be able to
+complement its existing offering with the AirIT PROPworks® portfolio, which is already used by 4 of the 5
+busiest airports in the United States.
+
+Perth Airport, the fourth busiest airport in Australia by passenger traffic with over 14 million passengers
+annually, is forecast to cut passenger processing costs by 26% and help reduce carbon dioxide emissions
+through the implementation of the Amadeus Airport Common Use Service (ACUS) platform - a next-
+
+Page 9
+
+
+--- Page 7 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+generation common use solution which enables passenger processing systems to be accessed and deployed
+anywhere on demand.
+
+Amadeus contributed to Munich Airport reducing runway waiting time by 50% and inbound delays by 24%,
+whilst improving flight slot adherence by 22%, through the adoption of Amadeus Airport Sequence
+Manager. The solution improves flight departure sequencing and runway capacity to reduces environmental
+impact, bringing benefits to the whole airport ecosystem.
+
+Payments:
+
+Elavon, a leading global payments provider that works with more than 50 of the world’s leading airlines and
+the top global acquirer for the global travel industry, will integrate its payment processing solutions into the
+Amadeus Payments Platform (APP), which is used by more than 300 airlines and ensures a fast and easy
+authorisation process integrated into ticketing and selling.
+
+During the first quarter of 2016 Amadeus launched B2B Wallet Prepaid, a virtual card payment solution
+which allows travel agencies to improve cash flow management when paying for travel content. The solution
+consists of two virtual cards linked to the same account, one for earning a rebate on the amount spent, and
+one to help avoid payment card surcharges applied by some travel providers. B2B Wallet Prepaid
+complements Amadeus’ existing virtual credit card offer.
+
+Other news from the year:
+
+For the fourth consecutive year Amadeus was included in the Dow Jones Sustainability Indices (DJSI), listed
+within the IT & Internet Software and Services sector. The DJSI are composed of global sustainability
+leaders who are identified based on economic, environmental, and social criteria. Considered amongst the
+most renowned standards available to investors for evaluating sustainability and environmental
+performance, only those companies among the top 10% of scorers enter the DJSI.
+
+The European Commission (EC) ranked Amadeus as number one in the European travel and tourism
+category in its 2015 annual R&D investment Scorecard (which is based on the 2014 financial year). During
+2014 Amadeus invested €568.4 million in R&D, taking the total invested between 2004 and the end of 2014
+to over €3.5 billion. We invested an additional €660.7 million in 2015. The scoreboard, which examines R&D
+investment by both European and worldwide companies, ranks companies based on total investment.
+Amadeus joined forces with the World Tourism Organization (UNWTO) to advance the use of innovative
+technology in tourism in areas such as education and multi-modality. Amadeus has been a UNWTO Affiliate
+Member since 2007 and now signed a Memorandum of Understanding to consolidate the partnership in
+several areas. This included the development of a UNWTO Prototype on multi-modality - the door-to-door
+planning and ticketing of trips involving all possible transport options — to further integrate different means
+of transport between destinations around the world.
+
+Iberia and Amadeus renewed an alliance to support UNICEF in a bid to fight against deadly diseases. Via a
+platform developed by Amadeus, travellers purchasing tickets from the Iberia website can make donations.
+This forms part of the Amadeus Technology for Good program, which involves the use of our technology to
+drive sustainable, social development initiatives. Working in partnership with UNICEF and Iberia, plus other
+airlines such as Finnair and Norwegian, over USD 1 million has now been donated.
+
+In April Future Traveller Tribes 2030: understanding tomorrow's traveller- a report commissioned by
+Amadeus and written by global consumer trends consultancy The Future Foundation —- identified the six
+different traveller personalities and segments the industry can expect to emerge and become prominent
+over the next 15 years. This was used as the basis for a follow-up paper, launched in June, called Future
+Traveller Tribes 2030: Building a more rewarding journey - commissioned by Amadeus and written by Frost
+& Sullivan - offering practical advice for airlines and other travel providers seeking to develop strategies to
+create a more rewarding journey for emerging traveller segments.
+
+Page 10
+
+
+--- Page 8 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+2.2 Key ongoing R&D projects
+R&D investment in the year 2015 relates primarily to:
+Customer implementations:
+
+e Migration development efforts related to carriers implemented to Altéa during 2015: All Nippon
+Airways (the international passengers business) and the Thomas Cook Group Airlines, as well as
+airlines with expected implementation in 2016-2017 (such as Swiss International Air Lines, China
+Airlines, Southwest -the domestic passengers business-, and Japan Airlines). Additionally,
+implementation costs in relation to new customers adopting Altéa Departure Control System (Altéa
+carriers migrating to the full suite as well as Virgin Australia who contracted the Departure Control-
+Flight Management module as a standalone component), e-commerce or standalone solutions.
+
+e Implementation efforts in relation to our DCS solution for ground handlers and Amadeus Airport
+Common Use Service (ACUS) in the Airport IT space, as well as related to Payment solutions.
+
+e Implementation of customers to our portfolio of solutions for airlines, travel agencies, and
+corporations, including the expansion of our customer base in merchandising solutions and the
+migration of corporations to our self-booking tool.
+
+Product portfolio expansion:
+
+e For airlines, solutions related to cloud availability, XML connectivity, and e-retail, as well as the Altéa
+Revenue Management Suite (implemented with our launch partner Scandinavian Airlines in 2015).
+
+e For travel agencies, travel management companies and corporations, efforts linked to a new
+generation selling platform, search engines, front-office customisation and mobile tools.
+
+e Investment focused on merchandising solutions, ancillary services and fare families, as well as
+enhanced shopping and booking solutions.
+
+e Regionalisation investment, to better tailor our product portfolio to the needs of specific regions.
+
+Increased resources dedicated to the new initiatives’ product portfolio (Hotel, Rail, Airport IT, Payments and
+Travel Intelligence):
+
+e Development costs to build the next-generation Guest Reservation System under our partnership with
+IHG in Hotel IT.
+
+e Continued development and evolution of our Airport IT portfolio.
+
+e Enhanced distribution capabilities for Hotel and Rail.
+
+e Efforts dedicated to our partnership with Bene Rail and investment in Payments and Travel
+Intelligence, where we continue to work with different industry partners.
+
+Cross-area technology investment:
+
+e Ongoing TPF decommissioning, which involves the progressive migration of the company’s platform to
+next-generation technologies and open systems.
+
+e System performance projects to reach the highest possible reliability, availability, as well as service
+and security levels to our client base.
+
+e Projects related to our overall infrastructure and processes to improve efficiency and flexibility.
+
+Page 11
+
+
+--- Page 9 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+3 Presentation of financial information
+
+The source for the financial information included in this document is the audited consolidated financial state-
+ments of Amadeus IT Holding, S.A. and subsidiaries, which have been prepared in accordance with Internation-
+al Financial Reporting Standards as adopted by the European Union.
+
+Certain amounts and figures included in this report have been subject to rounding adjustments. Any
+discrepancies in any tables between the totals and the sums of the amounts listed are due to rounding.
+
+This document includes unaudited non-IFRS financial measures, including EBITDA and Adjusted profit, and the
+ratios based on these financial measures. We present non-IFRS measures when we believe it provides useful
+information about our performance. These measures are not standard and therefore may not be comparable to
+those presented by other companies.
+
+When we refer to our competitive position, we consider only our air TA bookings in relation to the air TA
+booking industry, defined as the total volume of travel agency air bookings processed by the global or regional
+CRS. It excludes air bookings made directly through in-house airline systems or single country operators, the
+latter primarily in China, Japan and Russia. Since the end of the third quarter of 2014, it includes the bookings
+processed by the travel agencies connected to the Amadeus platform, which were previously connected to the
+local CRS Topas in South Korea.
+
+3.1 Acquisitions completed in 2014
+e Newmarket
+
+On February 5, 2014, Amadeus acquired, 100% of the voting rights of NMTI Holdings, Inc. and its group of
+companies ("Newmarket”). The cash paid was €333.2 million. The transaction was fully financed by a new bank
+loan facility (this facility was refinanced in December 2014 with a Euro denominated bond issuance). The
+Newmarket results were consolidated into Amadeus’ books from February 5, 2014.
+
+A purchase price allocation exercise in relation to the consolidation of Newmarket into Amadeus’ books was
+carried out in the fourth quarter of 2014.
+
+e i:FAO
+On June 23, 2014, Amadeus acquired 69.07% of the voting rights of i:FAO AG and its group of companies
+
+(“i:FAO”) through a public takeover offer, for a total consideration paid in cash of €54.9 million. The transaction
+was fully financed with cash. The i:FAO results were consolidated in our income statement from July 1, 2014.
+
+The purchase price allocation exercise in relation to the consolidation of i:FAO into Amadeus’ books was carried
+out in the first quarter of 2015. The extraordinary costs of €1.6 million associated with the acquisition prior to
+the transaction were reported as indirect costs as of year-end 2014.
+
+e UFIS
+
+On January 24, 2014, Amadeus acquired 100% of the voting rights of UFIS Airport Solutions AS, and its group
+of companies (“UFIS”). The purchase consideration was €18.8 million. The transaction was fully financed with
+cash. The UFIS results were consolidated into Amadeus’ books from February 1, 2014.
+
+A purchase price allocation exercise in relation to the consolidation of UFIS into Amadeus’ books was carried out
+in the fourth quarter of 2014.
+
+Page 12
+
+
+--- Page 10 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+3.2 Acquisitions completed in 2015
+° Air IT
+
+On April 21, 2015, Amadeus acquired 100% of the voting rights of Air-Transport IT Services, Inc (“Air IT”), a
+US-based provider of airport technology solutions. The purchase consideration paid in cash was €13.0 million.
+The transaction was fully financed with cash. The Air IT results were consolidated into Amadeus’ books from
+May 1, 2015.
+
+A purchase price allocation exercise in relation to the consolidation of Air IT into Amadeus’ was carried out in
+the fourth quarter of 2015.
+
+« Itesso
+
+On July 21, 2015, Amadeus acquired 100% of the voting rights of Itesso B.V. and subsidiaries, a provider of
+cloud-based property management systems, to expand its technology offering to the hotel industry. The
+purchase consideration paid in cash was €32.7 million. The transaction was fully financed with cash. The Itesso
+results were consolidated into Amadeus’ books from August 1, 2015.
+
+A purchase price allocation exercise in relation to the consolidation of Itesso into Amadeus’ books will be carried
+out in the coming quarters.
+
+e Hotel SystemsPro
+
+On July 31, 2015, Amadeus acquired through Newmarket the business (assets acquired and liabilities assumed)
+of Hotel SystemsPro LLC, a leading provider of sales, catering and maintenance software to the hospitality
+industry. The purchase consideration paid in cash was €63.3 million. The transaction was fully financed with
+cash. The results of the business of Hotel SystemsPro were consolidated into Amadeus’ books from August 1,
+2015.
+
+A purchase price allocation exercise in relation to the consolidation of the business of Hotel SystemsPro into
+Amadeus’ was carried out in the fourth quarter of 2015.
+
+e Pyton
+
+On August 21, 2015, Amadeus acquired 100% of the voting rights of Pyton Communication Services B.V. and
+subsidiaries, a Netherlands-based leisure travel technology specialist. The purchase consideration paid in cash
+was €8.2 million. The transaction was fully financed with cash. The Pyton results were consolidated into
+Amadeus’ books in the fourth quarter, retroactively since the date of acquisition.
+
+A purchase price allocation exercise in relation to the consolidation of Pyton into Amadeus’ books will be carried
+out in the coming quarters.
+
+3.3 Navitaire
+
+On July 1, 2015, Amadeus announced its agreement to acquire Navitaire, a U.S-based provider of technology
+and business solutions to the airline industry, from Accenture. Amadeus received all the necessary regulatory
+approvals and the closing took place on January 26, 2016. The cash consideration transferred in relation to this
+acquisition amounted to €766.5 million. The acquisition was 100% debt-financed, partially through the drawing
+of the €500 million bank loan facility executed on July 3, 2015 (structured as a “club deal” financing entered
+into with twelve banks, with maturity dates in 2019 and 2020), and partially through the €500 million debt
+securities issued under our Euro Medium Term Note Programme in November 2015 (with maturity in 2021).
+The results of Navitaire will be consolidated into Amadeus’ books from January 26, 2016.
+
+Page 13
+
+
+--- Page 11 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+The extraordinary costs of €6.7 million associated with the acquisition, incurred in the second half of 2015,
+were reported as indirect costs as of year-end 2015.
+
+4 Main financial risks and hedging policy
+4.1 Foreign exchange rate risk
+
+Our reporting currency is the Euro. However, as a result of Amadeus’ global activity and presence, part of our
+results are generated in currencies different from the Euro and therefore are impacted by foreign exchange
+fluctuations. Similarly, part of our cash inflows and outflows are denominated in non-Euro currencies.
+
+Our revenue is mostly generated either in Euro or in US Dollar (the latter representing 25%-30% of our total
+revenue). Revenue generated in currencies other than Euro or US Dollar is negligible.
+
+In turn, 35%-45% of our operating costs* are denominated in many currencies different from the Euro,
+including the USD which represents 20%-25% of our operating costs. The rest of the foreign currency operating
+expenses are denominated in a variety of currencies, GBP, AUD, SEK, THB and INR being the most significant.
+A number of the currencies in this basket (e.g. HKD, INR and THB) tend to fluctuate vs. the Euro similarly to
+the US Dollar - Euro fluctuations, although the degree of this correlation may vary with time.
+
+Amadeus’ target is to reduce the volatility of the non-Euro denominated net cash flows due to foreign exchange
+fluctuations. Our hedge strategy is as follows:
+
+(i) The strategy for our exposure to the US Dollar is based on the use of a natural hedge of our net oper-
+ating cash flow generated in this currency with the payments of our USD-denominated debt and taxes.
+We enter into derivative arrangements when the natural hedge is not sufficient to cover the outstand-
+ing exposure.
+
+(ii) We also hedge a number of currencies, including the GBP, AUD and SEK, for which we enter into for-
+eign exchange derivatives with banks.
+
+When the hedges in place qualify for hedge accounting under IFRS, profit and losses are recognised within the
+revenue caption (under the non-booking revenue line of Distribution). Our hedging arrangements typically
+qualify for hedge accounting under IFRS.
+
+4.2 Interest rate risk
+
+Our target is to reduce the volatility of the net interest flows payable. In order to achieve this objective,
+Amadeus may enter into interest rate hedging agreements (interest rate swaps, caps, collars) to cover the
+floating rate debt.
+
+At December 31, 2015, 8.5%° of our total covenant financial debt was subject to floating interest rates,
+indexed to the EURIBOR. As of this date no interest rate hedges were in place.
+
+4 Including Cost of revenue, Personnel expenses and Other operating expenses. Excludes Depreciation and amortisation.
+
+5 This percentage includes the short term financing that we obtain under our European Commercial Paper (ECP) Programme. The interest rate
+of this commercial paper is fixed, however, given that it has to be refinanced very frequently, we deem that this type of financing is subject to
+interest rate risk and therefore for risk management purposes we include it under the floating rate debt category.
+
+Page 14
+
+
+--- Page 12 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+4.3. Own shares price evolution risk
+Amadeus has three different staff remuneration schemes which are settled with Amadeus’ shares.
+
+According to the rules of these plans, when they mature their beneficiaries will receive a number of Amadeus
+shares which for the outstanding plans will be (depending on the evolution of certain performance conditions)
+between a maximum of 2,210,000 shares and a minimum of 270,000 shares, approximately. It is Amadeus’
+intention to make use of its treasury shares to settle these plans at their maturity.
+
+5 Operating and financial performance by segment
+
+Segment reporting
+
+9
+
+Figures in million euros Full year 2015 Full year 2014 % Change
+Distribution revenue 2,737.8 2,455.1 11.5%
+IT Solutions revenue 1,174.9 962.6 22.1%
+Group Revenue 3,912.7 3,417.7 14.5%
+Distribution contribution 1,177.0 1,082.1 8.8%
+
+Distribution contribution margin (%) 43.0% 44.1% (1.1 p.p.)
+IT Solutions contribution 760.8 651.0 16.9%
+
+IT Solutions contribution margin (%) 64.8% 67.6% (2.9 p.p.)
+Total Contribution 1,937.8 1,733.1 11.8%
+Net indirect costs* (472.4) (427.1) 10.6%
+EBITDA 1,465.4 1,306.0 12.2%
+EBITDA Margin (%) 37.5% 38.2% (0.8 p.p.)
+
+1. Net indirect costs include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+Over the fourth quarter of 2015, we experienced a 13.8% revenue increase, confirming the solid growth trend
+seen during the first nine months of the year, which led to an increase of €495.0 million or 14.5% in revenue in
+2015. Though benefiting from foreign exchange effects and the consolidation of our acquisitions, this growth
+was primarily the result of solid performances in both our businesses:
+
+Distribution, supported by a 1.7 p.p. enhancement of our competitive position and the positive evolution of
+both booking and non booking revenue, reached total revenue growth of 11.5%.
+
+IT Solutions, driven by a 7.5% growth in passengers boarded, a 9.2% expansion in the IT transactional
+revenue per PB, as well as a 49.3% increase in non transactional revenue, contributed with total revenue
+growth of 22.1%.
+
+The 12.2% increase in EBITDA in 2015 was driven by growth in contribution from both Distribution (8.8%) and
+IT Solutions (16.9%), partially offset by an increase in net indirect costs (10.6%).
+
+Page 15
+
+
+--- Page 13 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+EBITDA margin represented 37.5% of revenue in 2015, negatively impacted by foreign exchange fluctuations
+and extraordinary cost items, such as acquisition costs linked to our M&A activity® and certain provisions to
+cover potential collection risks in countries in difficulties and local tax payments. Excluding these effects, our
+2015 EBITDA margin was slightly expansive with respect to 2014, supported by the increasing weight of our IT
+Solutions business, with higher margins.
+
+5.1 Distribution
+
+Full year 201. Full year 2014 % Change
+
+Operating KPI
+Air TA competitive position 42.5% 40.7% 1.7 p.p.
+Total bookings (m) 566.2 525.8 7.7%
+
+Profit & Loss
+
+Revenue 2,737.8 2,455.1 11.5%
+Operating costs (1,626.8) (1,433.9) 13.5%
+Direct capitalisations 66.1 60.9 8.6%
+Net operating costs (1,560.8) (1,373.0) 13.7%
+Contribution 1,177.0 1,082.1 8.8%
+As % of Revenue 43.0% 44.1% (1.1 p.p.)
+
+The core offering of our Distribution business is our reservations platform. It provides a global network that
+connects travel providers, such as full service and low-cost airlines, hotels, rail operators, cruise and ferry
+operators, car rental companies, tour operators and insurance companies, with online and offline travel
+agencies, facilitating the distribution of travel products and services (sometimes referred to as the “indirect
+channel”). We also offer technology solutions, such as desktop and e-commerce platforms and mid- and back-
+office systems to some of our travel agency customers and corporations. We have additionally expanded our
+product portfolio with Travel Intelligence solutions developed on the latest technologies to optimise the use of
+travel data.
+
+Our Distribution business posted solid growth during 2015, driven by higher bookings fuelled by a significant
+improvement in our competitive position and an increase in the average fee per booking, as well as growth in
+non-booking revenue. This positive performance was supported by foreign exchange impacts and the
+consolidation of i:FAO and Pyton.
+
+As a result, our Distribution revenue grew by 11.5% to €2,737.8 million in 2015. Contribution increased by
+8.8% to reach €1,177.0 million in the period. As a percentage of revenue, this represented 43.0%, impacted
+negatively by foreign exchange effects and certain extraordinary provisions to cover potential collection risks in
+countries in difficulties and local tax payments.
+
+© EBITDA was impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+
+Page 16
+
+
+--- Page 14 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+5.1.1 Evolution of operating KPI
+
+During 2015, Amadeus air bookings grew by 8.3% and our competitive position’ improved by 1.7 p.p.,
+supported by customer wins in North America and the migration of Topas in South Korea to our platform in
+September 2014. The air TA booking industry’, in turn, increased by 3.9% in 2015.
+
+Air bookings grew by 4.6% in the fourth quarter, while the air TA booking industry increased by 1.8%, both
+slowing down vs. the first nine months of the year , impacted by an overall deceleration. In addition, volumes
+in the fourth quarter did not benefit from the full-year impact of the migration of Topas, which ended in the
+third quarter of 2015.
+
+ot KPI Oct-Dec | Oct To % Full year | Full year %
+P 2015 2014 Change 2015 2014 Change
+
+Air TA booking industry” growth 1.8% 3.6% 3.9% 3.2%
+
+Air TA competitive position” 43.3% 42.0% 1.3 p.p. 42.5% 40.7% 1.7 p.p.
+Air TA bookings (m) 115.4 110.3 4.6% 505.0 466.5 8.3%
+Non air bookings (m) 14.8 14.9 (0.2%) 61.2 59.4 3.1%
+Total bookings (m) 130.2 125.2 4.0% 566.2 525.8 7.7%
+
+Air TA booking industry
+
+Air TA bookings increased by 1.8% in the fourth quarter of 2015, reaching 3.9% for the full year period. The
+industry decelerated in all regions except for Middle East and Africa, when compared to the first nine months of
+the year. In particular, Western Europe showed a remarkable slowdown, with countries such as Germany,
+France and Spain reporting negative declines. Central, Eastern and Southern Europe and Latin American
+markets posted negative growth. In turn, Asia and Pacific, which no longer benefitted from the extraordinary
+impact of the migration of travel agencies from Topas in South Korea to Amadeus, which ended in September
+2015, also posted lower growth rates than in the first nine months of the year.
+
+For the full year period, all regions performed positively, except for Latin America (mainly driven by the
+economic difficulties in Brazil and Venezuela). Middle East and Africa started reporting positive growth in the
+second half of the year, recovering from geopolitical issues and closed the year with an increase in volumes vs.
+previous year, though still very weak. The European region also posted limited growth overall, impacted by the
+macro-economic context, political issues and terrorism. In turn, North America had a solid performance during
+the year. Finally, Asia and Pacific was the fastest growing region, supported by the migration of travel agencies
+from Topas to Amadeus initiated late 2014.
+
+Amadeus bookings
+
+Amadeus air travel agency bookings increased by 4.6% in the fourth quarter of 2015, driving full year growth
+to 8.3%, supported by industry growth and a strong 1.7 p.p. enhancement of our competitive position.
+
+7 The air TA booking industry is defined as the total volume of travel agency air bookings processed by the global or regional CRS. It excludes
+air bookings made directly through in-house airline systems or single country operators, the latter primarily in China, Japan and Russia. Since
+the end of the third quarter of 2014, it includes the bookings processed by the travel agencies connected to the Amadeus platform, which
+were previously connected to the local CRS Topas in South Korea. Our competitive position is calculated as our air TA bookings over the air TA
+booking industry, as defined in this note.
+
+Page 17
+
+
+--- Page 15 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a Ma D EUS
+
+North America and Asia and Pacific were our best performing regions in 2015, benefitting from underlying
+growth, customer wins in the United States and the migration of Topas in South Korea to our platform, driving
+air bookings growth to 35.6% and 18.6%, respectively in each region. As a result, our exposure to these
+regions increased significantly. Our air bookings in Central, Eastern and Southern Europe and Latin America
+were negatively impacted by the industry decline in the second half of 2015. Finally, the industry weakness in
+Western Europe (and in particular the volume declines of certain countries where Amadeus has a significant
+presence such as Germany, France or Spain) and Middle East and Africa led to a limited bookings growth in
+2015 in these regions.
+
+Amadeus Air TA Bookings Fullyear | , Full year | , Q
+Figures in million 2015 20 CEL El] 2014 % of Total | % Change
+
+Western Europe 194.8 38.6% 192.5 41.3% 1.2%
+North America 85.9 17.0% 63.4 13.6% 35.6%
+Asia and Pacific 83.5 16.5% 70.4 15.1% 18.6%
+Middle East and Africa 62.2 12.3% 62.0 13.3% 0.3%
+Central, Eastern and Southern Europe 45.7 9.0% 45.8 9.8% (0.2%)
+Latin America S28) 6.5% S25 7.0% 1.4%
+Total Air TA Bookings 505.0 100.0% 466.5 100.0% 8.3%
+
+Regarding non-air distribution, even though bookings in the fourth quarter decreased slightly vs. previous year,
+volumes reached a 3.1% growth in 2015, driven by the positive performance of rail, hotel and car bookings.
+
+5.1.2 Revenue
+
+Distribution. Revenue Oct-Dec Oct-Dec % Change Full year % Change
+Figures in million euros 2015 2014 ° 9 2014 ° 9
+
+Revenue 650.2 593.6 9.5% 2,737.8 2,455.1 11.5%
+
+Revenue in the Distribution business increased by 9.5% in the fourth quarter of 2015, leading to a 11.5% full
+year growth. This increase was driven by both booking and non booking revenue.
+
+Booking revenue contributed to this positive performance with a 12.5% growth in 2015, driven by a 7.7%
+increase in total bookings combined with a 4.5% growth in the average fee per booking. This positive pricing
+impact was supported by the appreciation of the USD vs. the Euro and certain customer renegotiations
+resulting in a higher booking fee, offsetting the underlying dilutive effect from our significant growth in North
+America and South Korea (where the weight of local bookings is higher).
+
+Non booking revenue grew by 5.1% during the year, mostly supported by (i) search solutions provided to
+metasearch engines, (ii) enhanced functionalities for travel agencies, travel management companies and
+corporations, (iii) data and advertising solutions, as well as (iv) the contribution of our acquisitions i:FAO and
+Pyton. This positive performance was partly diminished by a negative hedging impact.
+
+Page 18
+
+
+--- Page 16 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+ey Cts LEER Full year 201 Full year 2014 % Change
+
+Booking revenue 2,378.6 2,113.5 12.5%
+Non booking revenue 359.2 341.6 5.1%
+Revenue 2,737.8 2,455.1 11.5%
+Average fee per booking (air and non-air) (€)* 4.20 4.02 4.5%
+
+1. Represents our booking revenue divided by the total number of air and non-air bookings.
+
+5.1.3. Contribution
+
+The contribution of our Distribution business is calculated after deducting from our revenue those operating
+costs which can be directly allocated to the business (variable costs, mainly related to distribution fees and
+incentives, and product development, marketing and commercial costs).
+
+The contribution of our Distribution business grew by 8.8%, leading to a total contribution of €1,177.0 million in
+2015. This positive performance was the result of 11.5% revenue growth, offset by an increase of 13.7% in net
+operating costs (as a combination of gross operating costs increasing by 13.5% and capitalisations by 8.6%).
+
+Gross operating costs were negatively impacted by foreign exchange effects (with a particular high impact on
+incentives), and certain provisions to cover potential collection risks in countries in difficulties and local tax
+payments. The underlying increase was driven by:
+
+Growth in incentives and distribution fees, driven by higher volumes (+8.3% increase in air bookings in the
+period) and an overall contained unit distribution cost increase.
+Moderate growth in fixed costs, slightly ahead of inflation, driven by:
+
+e An increase in R&D expenditure dedicated to new products and solutions for travel agencies,
+corporations and airlines, including sophisticated booking and search engines, enhanced
+merchandising and customisation capabilities, as well as XML-connectivity efforts, most of which are
+subject to capitalisation.
+
+e A limited increase in our core commercial costs, impacted by the annual salary and variable
+remuneration reviews.
+
+e The expansion of our activities, including the consolidation of i:FAO, increased resources dedicated to
+Travel Intelligence, as well as higher costs related to services (consulting, training).
+
+Page 19
+
+
+--- Page 17 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+IT Solutions
+
+mgsoludons Full year 2015 Full year 2014 % Change
+Figures in million euros
+
+Operating KPI
+Passengers Boarded (PB) (m) 747.3 695.4 7.5%
+Airlines migrated (as of December 31)! 124 124
+
+Profit & Loss
+
+Revenue 1,174.9 962.6 22.1%
+Operating costs (614.4) (479.2) 28.2%
+Direct capitalisations 200.2 167.6 19.5%
+Net operating costs (414.1) (311.6) 32.9%
+Contribution 760.8 651.0 16.9%
+As % of Revenue 64.8% 67.6% (2.9 p.p.)
+
+1. Airlines migrated to at least the Altéa Inventory module, in addition to the Reservations module. 2015 figures were negatively
+impacted by airlines ceasing operations.
+Through our IT Solutions business we provide a comprehensive portfolio of technology solutions that automate
+certain mission-critical business processes, such as reservations, inventory management and other operational
+processes for travel providers, as well as providing direct distribution technologies. We continue our
+diversification efforts, expanding our initial Airline IT portfolio with our new initiatives focused on Hotel IT, Rail
+IT, Airport IT and Payments.
+
+Our IT Solutions business continued delivering significant growth during 2015, with revenue growing by 22.1%
+in the full year period. This increase was supported by IT transactional revenue, driven by growth in our
+Passengers Boarded (+7.5%) and a higher average unit fee, as well as Direct Distribution and Non
+transactional revenue. The consolidation of our recent acquisitions and foreign exchange effects also impacted
+revenue growth positively.
+
+Contribution amounted to €760.8 million in 2015, growing by 16.9% vs. 2014. As a percentage of revenue, this
+represented 64.8%, a decrease relative to prior year, impacted negatively by (i) foreign exchange fluctuations
+and (ii) a mix effect driven by the growing weight of our new businesses, the consolidation of our acquisitions
+and the expansion of our services activities, with lower margins.
+
+5.2.1 Evolution of operating KPI
+
+Total number of passengers boarded increased by 5.3% to 185.0 million in the fourth quarter of 2015 vs. the
+same period of 2014, driven by organic growth as well as recent implementations, such as All Nippon Airways
+(the international passengers business) migrated in the second quarter of 2015 and the Thomas Cook Group
+Airlines, which finalized implementation in the fourth quarter of 2015. The full year impact of 2014 migrations
+was more limited in the fourth quarter as the larger one, Korean Air, migrated at the end of the third quarter of
+2014.
+
+During the full year 2015, the volume of passengers boarded reached 747.3 million, 7.5% higher than in 2014,
+fuelled by the above mentioned 2014-15 Altéa migrations and a 2.2% organic growth.
+
+Page 20
+
+
+--- Page 18 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a Ma D EUS
+
+q Oct-Dec | Oct-Dec % Full year | Full year %
+
+Passengers Boarded (PB) (m) 185.0 175.8 5.3% 747.3 695.4 7.5%
+Airlines migrated (as of Dec 31)* 124 124
+
+1. Airlines migrated to at least the Altéa Inventory module, in addition to the Reservations module. 2015 figures were negatively
+impacted by airlines ceasing operations.
+
+During 2015, the weighting of Asia and Pacific over our total PBs increased significantly (+3.0 p.p. vs. 2014),
+supported by the contribution of new airlines migrating to the Altéa platform (mainly Korean Air and All Nippon
+Airways - the international passengers business). The 2014 implementations of Southwest (the international
+passengers business), Seaport and Cape Air have also led to an increasing (+0.4 p.p. vs. 2014)-though still
+limited- weighting of North America. Both regions will continue raising their weighting in the coming years with
+the migration of Japan Airlines and Southwest (the domestic passengers business). Latin America performed
+positively in the year in spite of the economic deterioration in Brazil which impacted negatively, particularly in
+the fourth quarter of 2015. In turn, political instability remained a concern for many regional carriers in Middle
+East and Africa throughout 2015. Finally, the macro-economic situation, strikes and terrorist attacks affected
+the PB performance of our European client base.
+
+Amadeus PB % of Full year % of %
+Figures inm n Total 2014 Total Change
+
+Western Europe 324.2 43.4% 318.7 45.8% 1.7%
+Asia & Pacific 201.3 26.9% 166.6 24.0% 20.8%
+Middle East and Africa 103.7 13.9% 100.5 14.5% 3.2%
+Latin America 77.4 10.4% 73.2 10.5% 5.7%
+Central, Eastern and Southern Europe 37.0 5.0% 35.6 5.1% 4.0%
+North America 3.8 0.5% 0.8 0.1% n.m.
+Total PB 747.3 100.0% 695.4 100.0% 7.5%
+
+5.2.2 Revenue
+
+IT Solutions. Revenue Oct-Dec Oct-Dec % Full year Full year %
+Figures in million euros 2015 2014 Change 2015 2014 Change
+
+Revenue 297.7 239.1 24.5% 1,174.9 962.6 22.1%
+
+IT Solutions revenue grew by 24.5% in the fourth quarter of 2015, driving full year growth to 22.1% and
+reaching €1,174.9 million in 2015. This increase was fuelled by growth in both Transactional and Non-
+transactional revenue lines, and also supported by the contribution from recent M&A activity and foreign
+exchange impacts.
+
+Page 21
+
+
+--- Page 19 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+a solution Revenue Full year 2015 Full year 2014 % Change
+Figures in m
+
+IT transactional revenue 809.6 689.7 17.4%
+Direct distribution revenue 114.3 104.7 9.2%
+Transactional revenue 923.9 794.4 16.3%
+Non transactional revenue 251.0 168.2 49.3%
+Revenue 1,174.9 962.6 22.1%
+IT Transactional revenue per PB (€)* 1.08 0.99 9.2%
+
+1. Represents IT transactional revenue divided by the total PB figure.
+Transactional Revenue
+
+IT Transactional Revenue
+
+Under this category, we include revenues derived from (i) our Altéa offering for airlines, which provides
+inventory and departure control capabilities, in addition to integrated reservation solutions, delivered in a
+modular format on a community-based platform, (ii) our e-commerce solutions, which provide online shopping
+and booking engines for airline websites, along with related functionalities, (iii) our range of standalone IT
+solutions, which are complementary to, and fully compatible with, our Altéa solutions (such as Amadeus
+Revenue Integrity or Amadeus Ticket Changer), and (iv) other revenue from our Airport IT, Payment, or Rail IT
+solutions.
+
+IT Transactional revenue reached €809.6 million for the full year period, growing by 17.4% vs. 2014. This
+increase was supported by volume growth and an increase of 9.2% in the IT transactional revenue per PB.
+Excluding foreign exchange considerations, all main revenue lines reported strong growth:
+
+Altéa: driven by an increase of 7.5% in Passengers Boarded, as well as a higher average price from
+upselling activity which resulted in the implementations of new modules and solutions (such as Altéa
+Departure Control System, Altéa Revenue Management Suite).
+
+E-commerce: strong performance as a result of organic growth and new implementations, as well as a
+positive contribution from upselling activities.
+
+Standalone IT solutions: positive evolution driven by multiple products such as Amadeus Ticket Changer,
+revenue availability, self-services solutions, and ancillary services.
+
+New businesses: positive performance of Airport IT (including the consolidation of our acquisitions UFIS and
+Air IT) and Payments, though still both relatively small.
+
+Direct Distribution
+
+Direct distribution revenue includes (i) fees charged for bookings made through the direct sales channel of an
+airline using our Altéa Reservation solution and for certain types of air bookings made through the direct sales
+channel of Altéa customers for which we charge a booking fee, not a PB fee, and (ii) fees charged to airlines
+using our Altéa Reservation solution for complementary functionalities that are closely related to the booking
+process.
+
+Revenue from Direct Distribution increased by 9.2% in 2015 vs. 2014, mainly driven by organic volume growth.
+
+Page 22
+
+
+--- Page 20 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+Non Transactional Revenue
+
+Non-transactional revenue refers to (i) the customization and implementation fees of our Altéa PSS solutions,
+(ii) the provision of bespoke services, application hosting and other customer support services to airlines, and
+(iii) our Hotel IT solutions.
+
+Non transactional revenue increased by €82.9 million, or 49.3% in 2015 vs. 2014. Excluding foreign exchange
+impacts, this growth was a result of:
+
+Growth in our Hotel IT business, from its Sales & Catering area (through our acquisitions, Newmarket in
+2014 and Hotel SystemsPro in 2015) and to a lesser extent from PMS, via Itesso acquired in 2015. (See
+section 3 for further detail on these acquisitions.)
+
+Growth in revenue from Services (for example, bespoke services related to e-commerce).
+
+An increase in revenue from implementation fees, mostly driven by deferred revenues which start to be
+recognised after the customer implementation takes place.
+
+5.2.3 Contribution
+
+The contribution of our IT Solutions business is calculated after deducting from our revenue those operating
+costs which can be directly allocated to this business (variable costs, including certain distribution fees, and
+product development, marketing and commercial costs).
+
+The contribution of the IT Solutions business increased by 16.9%, amounting to €760.8 million in 2015. This
+increase was the result of a 22.1% revenue growth, partially offset by an increase of 32.9% in net operating
+costs (which in turn was a combination of gross operating costs growing at 28.2% and capitalisations at
+19.5%).
+
+Growth in gross operating costs was negatively impacted by foreign exchange fluctuations. The underlying
+increase was mainly due to:
+
+An increase in our R&D expenditure devoted to (i) customer implementations, (ii) Airline IT portfolio
+evolution and expansion (including improved merchandising functionalities, cloud and optimized
+availability), and (iii) our new initiatives (mainly related to the development of our next-generation Guest
+Reservation System under our agreement with IHG in Hotel IT).
+
+Higher commercial support driven by our portfolio diversification and customer base expansion.
+
+The increasing weight of our new initiatives, most of which are in development mode or still at an early
+stage and may generate costs at a faster pace than revenues. As some products enter into
+commercialization phase, the capitalisation ratio will tend to slow down while the commercial efforts
+increase in order for the revenue ramp-up to materialize. In addition, these new initiatives do not have the
+operational leverage of our more mature Airline IT business.
+
+Increased resources dedicated to Services, a lower margin activity, as we expand progressively in this area.
+The consolidation of our 2014-2015 acquisitions with lower margins.
+
+The annual salary and variable remuneration reviews.
+
+Page 23
+
+
+--- Page 21 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+5.3 EBITDA
+
+In 2015, EBITDA increased by 12.2%, to €1,465.4 million, driven by the positive underlying performance of
+both our Distribution and IT Solutions businesses. The consolidation of our 2014-2015 acquisitions as well as a
+positive foreign exchange impact also contributed to this growth.
+
+The Distribution and IT Solutions contributions were partially offset by an increase of 10.6% in net indirect
+costs, which was the result of gross indirect costs increasing by 17.1% and capitalisations by 44.2%. The
+increase in gross operating costs was mainly attributable to:
+
+An emphasized focus on cross area development and data centre related projects, as we are heavily
+investing in technological and organisational transformation to improve agility and maximise our system
+reliability, availability, and overall performance. Additionally, the shift to open systems which brings
+scalability and increased efficiency continued during 2015. Most of these projects are capitalised, explaining
+the increase in indirect capitalisation.
+
+Higher resources to ensure the right level of corporate support following our business expansion (e.g. new
+initiatives) and widened geographical reach (e.g. North America, Asia Pacific).
+
+An increase in costs related to security matters (our Security Office ensures our own and our customers’
+information assets are well protected and that mitigations are adequately implemented. The scope covers
+operations, applications, services and products as well as our internal IT systems).
+
+Legal and consultancy costs driven by our M&A activity, including integration costs related to our
+acquisitions.
+
+A reduction in R&D subsidies compared with 2014.
+
+The annual salary and variable remuneration reviews.
+
+ecucosts Full year 2015 | Full year 2014 % Change
+Figures in million euros
+
+Indirect costs? (618.9) (528.7) 17.1%
+Indirect capitalisations & RTC? 146.5 101.6 44.2%
+Net indirect costs* (472.4) (427.1) 10.6%
+
+1. Indirect costs include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+2. Includes the Research Tax Credit (RTC).
+Indirect costs were also negatively impacted by foreign exchange effects, acquisition costs linked to our M&A
+activity (mainly Navitaire)®, and certain provisions to cover potential tax payments. Excluding these impacts,
+net indirect costs increased at a mid-single digit rate.
+
+8 Indirect costs include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the acquisition
+of i:FAO in 2014 (€1.6 million).
+
+Page 24
+
+
+--- Page 22 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a M a D E u S
+
+6 Consolidated financial statements
+
+6.1 Group income statement
+
+ome Statement Oct-Dec Oct-Dec Full year | Full year
+Figures 2015 2014 2015 2014
+
+3,417.7
+(879.7)
+(970.4)
+(254.3)
+(357.6)
+
+955.7
+
+832.7
+(214.6)
+(265.2)
+
+(81.5)
+(112.1)
+159.2
+
+Revenue
+
+Cost of revenue
+
+Personnel and related expenses
+Other operating expenses*
+Depreciation and amortisation
+Operating income
+
+(56.3)
+(1.3)
+898.0
+
+(15.8)
+(0.3)
+143.2
+
+Net financial expense
+Other income (expense)
+Profit before income taxes
+
+Income taxes (30.9)
+
+112.3
+
+(268.7)
+Profit after taxes 629.4
+
+Share in profit from associates and
+JVs
+
+Profit for the period
+
+Key financial metrics
+
+EBITDA
+EBITDA margin (%)
+
+0.9 2.8
+
+113.2 632.2
+
+1,306.0
+38.2%
+
+681.1
+1.53
+
+Adjusted profit?
+Adjusted EPS (€)*
+
+1. Other operating expenses include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and
+with the acquisition of i: FAO in 2014 (€1.6 million)
+
+2. Excluding after-tax impact of the following items: (i) accounting effects derived from PPA exercises and impairment losses, (ii)
+changes in fair value of interest rate hedging agreements and non-operating exchange gains (losses) and (iii) other non-recurring
+items.
+
+3. EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average outstanding
+shares of the period.
+
+6.1.1 Revenue
+
+Revenue in the fourth quarter of 2015 reached €947.9 million, increasing by 13.8% vs. the fourth quarter of
+2014. For the full year 2015, revenue increased 14.5%, to €3,912.7 million. Revenue growth was driven by
+solid performances throughout the year in our Distribution and IT Solutions businesses, and also benefitted
+from a positive foreign exchange impact and the consolidation of our acquisitions. Overall, the increase was a
+combination of:
+
+Growth of 9.5% in our Distribution business in the fourth quarter of 2015, leading to a 11.5% increase for
+the full year period.
+
+Page 25
+
+
+--- Page 23 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a Ma D EUS
+
+An increase of 24.5%, in our IT Solutions business in the fourth quarter of 2015. IT Solutions revenue
+increased by 22.1% in the full year period.
+(See section 5.1.2 and 5.2.2 for more detail on revenue growth within Distribution and IT Solutions)
+
+Revenue Oct-Dec Oct-Dec | , Full year Fullyear | ,
+Figures inm in euros 2015 2014 vo Change 2015 2014 vo Change
+
+Distribution 650.2 593.6 9.5% 2,737.8 2,455.1 11.5%
+IT Solutions 297.7 239.1 24.5% 1,174.9 962.6 22.1%
+Revenue 947.9 832.7 13.8% 3,912.7 3,417.7 14.5%
+
+6.1.2 Cost of revenue
+
+These costs are mainly related to: (i) incentive fees per booking paid to travel agencies, (ii) distribution fees
+per booking paid to those local commercial organisations which are not majority owned by Amadeus, (iii)
+distribution fees paid to Amadeus Altéa customers for certain types of air bookings made through their direct
+sales channel, and (iv) data communication expenses relating to the maintenance of our computer network,
+including connection charges.
+
+Cost of revenue amounted to €253.1 million in the fourth quarter of 2015, an increase of 18.0% vs. the same
+period of 2014, leading to a 18.7% increase in the full year period, highly negatively impacted by foreign
+exchange effects. The underlying growth was mainly a result of higher air TA bookings (+8.3% in 2015), and a
+contained unit distribution cost increase.
+
+6.1.3. Personnel and related expenses and other operating expenses
+
+A large proportion of Amadeus’ employees are software developers. Amadeus also hires contractors to support
+its development activity, complementing the permanent staff. The overall ratio of permanent staff vs.
+contractors devoted to R&D fluctuates depending on business needs and project mix, therefore impacting the
+evolution of both “Personnel expenses” and “Other operating expenses” captions in our income statement.
+
+Our combined operating expenses cost line, including both Personnel expenses and Other operating expenses,
+amounted to €1,393.0 million in 2015, representing a 13.7% growth vs. 2014. The 7.0% increase in the fourth
+quarter of 2015 benefitted from a higher capitalisation ratio compared with the first nine months of the year.
+
+see ees eats © @Litar Oct-Dec Oct-Dec % Full year %
+P ig expe 2015 2014 Change 2014 Change
+Figures in million euros
+
+Personnel expenses + Other
+operating expenses*
+
+(371.1) (346.7) 7.0% (1,393.0) (1,224.7) 13.7%
+
+1. Other operating expenses include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and
+with the acquisition of i:FAO in 2014 (€1.6 million).
+
+The below factors contributed to our combined operating expenses cost growth in 2015:
+
+An increase of 8% in average FTEs (permanent staff and contractors), impacted by the integration of our
+2014 and 2015 acquisitions, combined with the salary and variable remuneration reviews undertaken yearly
+on a global basis.
+
+Page 26
+
+
+--- Page 24 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+Computing expenses from our data centre in Erding, dedicated to adapting our systems to next generation
+open-sourced technological capabilities and adopting a new Ultra High Availability architecture to ensure
+extremely quick responses and optimal availability, in a context of ever-growing transaction levels
+processed on a daily basis. (As an example, airline ‘look-to-book’ ratios - the average number of search
+requests before a flight booking is actually made - were previously as low as 10:1. Today, these can easily
+run to 1,000:1.)
+
+Increase in consultancy and integration costs driven by our M&A activity and internal security projects.
+These effects were partly offset by a higher capitalisation ratio driven by project mix.
+
+Our cost base was also impacted by a negative foreign exchange impact, as well as certain extraordinary
+impacts including (i) acquisition costs related to our M&A activity, most importantly Navitaire®, as well as (ii)
+certain provisions to cover potential collection risks in countries in difficulties and local tax payments. Excluding
+these impacts, our personnel and other operating expenses increased broadly in line with our FTEs.
+
+The growth in average FTEs was mainly driven by:
+
+Higher headcount in R&D, dedicated to customer implementations, ongoing portfolio expansion and product
+evolution (including the new initiatives), system performance projects and services (see further detail in
+sections 2.2 and 6.3.2).
+
+Reinforcement of our commercial, technical and corporate support, as a result of our expanding customer
+base, geographical reach (such as Asia and Pacific and North America) and product portfolio (including the
+new initiatives).
+
+The consolidation of our 2014-15 acquisitions.
+
+6.1.4 Depreciation and Amortisation
+
+Depreciation and amortisation post-capitalisations increased by 17.6% in the fourth quarter of 2015 vs. the
+same period of 2014, driving full year growth to 17.7%, mainly driven by higher ordinary depreciation and
+amortisation as well as higher amortisation derived from PPA.
+
+Ordinary depreciation and amortisation increased by 14.2% in the fourth quarter of 2015, leading to a 19.8%
+growth for the full year period, driven by:
+
+Increase in amortisation of intangible assets, as a result of the amortisation of capitalised development
+expenses on our balance sheet, as the associated product / contract started generating revenues (for
+example, previously capitalised costs related to the migration of customers which have been recently
+implemented, or certain product development projects).
+
+Higher depreciation expense related to (i) new hardware and software acquired for our data processing
+centre in Erding (Germany), (ii) finance lease agreements for office buildings in Nice (France) signed in
+March 2014 and Bad Homburg (Germany) in April 2015 as well as their associated new equipment.
+
+The consolidation of our 2014-2015 acquisitions.
+
+Following the PPA exercises in relation to the consolidation of our latest acquisitions, the amortisation derived
+from PPA increased by 16.5% in 2015. The decrease in the fourth quarter was driven by a seasonality impact
+as the PPA exercise related to Newmarket and UFIS was done in the fourth quarter of 2014 retroactively since
+the date of consolidation (see further explanation on the PPA exercises in section 3).
+
+° Other operating expenses include extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+
+Page 27
+
+
+--- Page 25 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+In compliance with IFRS, impairment tests are carried out every year (and, in the absence of any impairment
+indicator, we generally concentrate them in the second half of the year). During 2014 and 2015 we reported
+certain impairment losses in relation to products that we estimated would not deliver the expected economic
+benefits, due to either unforeseen efforts required to deliver the customer's needs, or a reassessment
+downwards of the expected demand.
+
+Depreciation and Amortisa Oct-Dec | Oct-Dec % Full year | Full year %
+Figures in million euros 2015 2014 hange 2015 2014 Change
+
+Ordinary depreciation and amortisation (86.8) (76.0) 14.2% (308.6) (257.6) 19.8%
+Amortisation derived from PPA (24.5) (25.6) (4.1%) (94.0) (80.7) 16.5%
+Impairments (19.9) (10.5) 89.2% (20.0) (19.4) 3.3%
+Depreciation and amortisation (131.3) (112.1) 17.0% (422.6) (357.6) 18.2%
+Capitalised depreciation and amortisation! 2.7 2.9 (4.0%) 10.2 7.3 40.3%
+
+Depreciation and amortisation post-
+
+9, 0)
+capitalisations (128.5) (109.3) 17.6% (412.4) (350.4) 17.7%
+
+1. Included within the other operating expenses caption in the Group Income Statement.
+
+6.1.5 EBITDA and Operating income
+
+EBITDA grew 19.5% in the fourth quarter of 2015, driving full year growth to 12.2%, driven by the positive
+underlying performances of our Distribution and IT Solutions businesses. The consolidation of our latest
+acquisitions and a positive foreign exchange impact also contributed to this growth (see section 4.1 for details
+on the exposure of our operating results to foreign exchange fluctuations).
+
+EBITDA margin in the fourth quarter of 2015 represented 33.9% of revenues, expanding 1.6 p.p. vs. the same
+quarter in 2014, supported by a higher capitalisation ratio in the fourth quarter. For the full year period,
+EBITDA margin reached 37.5% of revenues, negatively impacted by foreign exchange fluctuations and
+extraordinary cost items (such as acquisition costs linked to our M&A activity? and certain provisions to cover
+potential collection risks in countries in difficulties and local tax payments). Excluding these effects, our 2015
+EBITDA margin was slightly expansive with respect to 2014, supported by the increasing weight of our IT
+Solutions business, with higher margins.
+
+Operating Income increased by 20.8% in the fourth quarter of 2015 and reached a 10.2% growth for the full
+year 2015, driving our Operating Income to €1,053.0 million. The increase is a result of EBITDA growth offset
+by higher D&A charges.
+
+10 EBITDA was impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million).
+
+Page 28
+
+
+--- Page 26 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a Ma D EUS
+
+The table below shows the reconciliation between Operating income and EBITDA.
+
+EBITDA Oct-Dec | Oct-Dec % Full year | Full year %
+= . one. 2015 2014 ge 2015 2014 ange
+Figures in million euros
+
+Operating income* 192.4 159.2 20.8% 1,053.0 955.7 10.2%
+Depreciation and amortisation 131.3 112.1 17.0% 422.6 357.6 18.2%
+Capitalised depreciation and
+
+amottisation (2.7) (2.9) (4.0%) (10.2) (7.3) 40.3%
+EBITDA* 320.9 268.5 19.5% 1,465.4 1,306.0 12.2%
+EBITDA margin (%) 33.9% 32.2% 1.6 p.p. 37.5% 38.2% (0.8 p.p.)
+
+1. Operating income and EBITDA were impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015
+(€6.7 million) and with the acquisition of i:FAO in 2014 (€1.6 million).
+
+6.1.6 Net financial expense
+
+Net financial expense declined from €15.8 million in the fourth quarter of 2014 to €7.3 million in the same
+quarter of 2015. For the full year, net financial expense decreased by 9.6%, from €56.3 million in 2014 to
+€50.9 million in 2015, mainly as a result of (i) a lower interest expense and (ii) higher exchange gains.
+
+Interest expense in 2015 declined by 6.5%, mostly driven by a lower average cost of debt. Due to the
+refinancing we undertook in the first quarter of 2015, extending the maturity of the previous revolving credit
+facility and expanding its notional amount of €300 million to €1,000 million, we recognised outstanding
+deferred financing fees amounting to €1.7 million linked to the previous facility. Excluding this impact, interest
+expense in 2015 declined by 8.9% vs. 2014.
+
+Exchange gains were mainly a consequence of the appreciation of the US Dollar vs. the Euro in both 2014 and
+2015, impacting our USD-denominated assets and liabilities on our balance sheet which are not linked to the
+operating activity of the company.
+
+Net financial expense Oct-Dec Oct-Dec o Full year Full year | ,
+Figures in million euros 2015 2014 vo Change 2015 2014 % Change
+
+Financial income 0.4 0.7 (45.5%) 2.6 2.8 (9.2%)
+Interest expense (16.6) (18.8) (11.9%) (63.7) (68.1) (6.5%)
+Other financial expenses 0.9 (3.6) nm. (5.6) (5.6) (1.7%)
+Exchange gains (losses) 8.0 5.8 37.2% 15.8 14.6 7.9%
+Net financial expense (7.3) (15.8) (53.9%) (50.9) (56.3) (9.6%)
+
+6.1.7. Income taxes
+
+Income taxes for the full year 2015 amounted to €321.4 million vs. €268.7 million in 2014, representing a
+19.6% increase. The income tax rate for the full year 2015 was 32.0%, higher than the 29.9% rate reported in
+2014. (Excluding a non-recurring adjustment related to the new Spanish corporate tax rate, 2014 income tax
+rate was 32.2% in 2014). The 2015 income tax rate was negatively impacted by the settlement of a tax claim
+related to Corporate Income Tax for tax years 2005-2010, partly offset by the new (lower) corporate tax rate in
+Spain.
+
+Page 29
+
+
+--- Page 27 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a Ma D EUS
+
+The above non-recurring items, both in 2014 and 2015, were posted in the fourth quarter, driving income taxes
+of €30.9 million in the fourth quarter of 2014 and €68.0 million in the fourth quarter of 2015.
+
+6.1.8 Profit for the period. Adjusted profit
+
+As a result of the above, reported profit amounted to €685.9 million in 2015, an increase of 8.5% vs. the
+reported profit of €632.2 million in 2014.
+
+After adjusting for (i) non-recurring items and (ii) accounting effects related to the purchase price exercises and
+other non-operating mark-to-market items, adjusted profit increased by 15.8% in the fourth quarter of 2015
+and by 10.4%, to €751.8 million, in 2015.
+
+Adjusted profit Oct-Dec Oct-Dec Q Full year Full year | ,
+Figures in million euros 2015 2014 % Change 2015 14 % Change
+
+Reported profit? 120.4 113.2 6.3% 685.9 632.2 8.5%
+Adjustments
+
+Impact of PPA? 15.8 7.2 117.8% 63.1 44.9 40.5%
+Non-operating FX results (5.4) (4.0) 35.4% (10.7) (10.1) 5.8%
+Non-recurring items (0.9) 0.2 n.m. (0.1) 0.9 n.m.
+Impairments 13.5 7.2 88.6% 13.6 13.2 2.6%
+Adjusted profit* 143.4 123.8 15.8% 751.8 681.1 10.4%
+
+1. Reported and Adjusted profit were impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 and
+with the acquisition of i:FAO in 2014. Excluding these impacts, Adjusted profit increased by 10.9% to €756.3 million in 2015.
+
+2. After tax impact of accounting effects derived from purchase price allocation exercises.
+
+3. After tax impact of changes in fair value of interest rate hedging agreements and non-operating exchange gains / (losses).
+
+6.1.9 Earnings per share (EPS)
+
+Earninasipartehare Oct-Dec | Oct-Dec % Full year | Full year %
+9S PI 2015 2014 hange | 2015 014 | Change
+
+Weighted average issued shares (m) 438.8 447.6 444.0 447.6
+Weighted average treasury shares (m) (2.2) (4.5) (7.4) (3.2)
+Outstanding shares (m) 436.6 443.1 436.6 444.4
+EPS (euros)? 0.28 0.25 8.2% 1.57 1.42 | 10.2%
+Adjusted EPS (euros)*? 0.33 0.28 | 17.8% 1.72 1.53 | 12.2%
+
+1. EPS and Adjusted EPS were impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 and with
+the acquisition of i:FAO in 2014. Excluding these impacts, Adjusted EPS increased by 12.7% to €1.73 in 2015.
+
+2. EPS corresponding to the Profit attributable to the parent company. Calculated based on weighted average outstanding shares of the
+period.
+
+3. EPS corresponding to the Adjusted profit attributable to the parent company. Calculated based on weighted average outstanding
+shares of the period.
+
+The table above shows EPS for the period, based on the profit attributable to the parent company (after
+minority interests), both on a reported basis and on an adjusted basis (adjusted profit as detailed above). In
+2015, our reported EPS grew by 10.2% and our adjusted EPS by 12.2%.
+
+On December 11, 2014 the Board of Directors agreed to undertake a share buy-back programme. The
+programme was completed on May 12, 2015 as the maximum planned investment of €320 million was reached.
+A total of 8,759,444 own shares were acquired, representing 1.957% of share capital. The share capital
+
+Page 30
+
+
+--- Page 28 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+reduction through the amortization of the repurchased shares was approved by the General Shareholders
+Meeting on June 25, 2015 and was registered in the Commercial Registry of Madrid on August 4, 2015.
+
+The maximum investment under the share buy-back programme (€320 million) was recognised in the state-
+ment of financial position as a reduction of equity, as if it had already been carried out on the date of the an-
+nouncement of the programme, as well as the corresponding treasury shares under the programme.
+
+6.2 Statement of financial position (condensed)
+
+Statement of Financial Positio: 31/12/2015 31/12
+Figures in million euros
+
+Property, plant and equipment 448.0 359.0
+Intangible assets 2,612.3 2,352.9
+Goodwill 2,478.9 2,379.1
+Other non-current assets 148.3 150.7
+Non-current assets 5,687.6 5,241.7
+Current assets 604.9 550.7
+Cash and equivalents 711.7 373.0
+Total assets 7,004.1 6,165.4
+Equity 2,297.5 1,867.4
+Non-current debt 1,289.1 1,528.9
+Other non-current liabilities 1,218.1 1,105.7
+Non-current liabilities 2,507.2 2,634.6
+Current debt 1,033.8 294.7
+Other current liabilities 1,165.6 1,368.6
+Current liabilities 2,199.5 1,663.4
+Total liabilities and equity 7,004.1 6,165.4
+Net financial debt (as per financial statements) 1,611.2 1,450.6
+
+6.2.1 Property, plant and equipment (PP&E)
+
+This caption principally includes land and buildings, data processing hardware and software, and other PP&E
+assets such as building installations, furniture and fittings and miscellaneous.
+
+PP&E increased by €88.9 million in 2015. This increase was mainly the result of the combination of the following
+effects: (i) additions (+€201.8 million), mostly related to data processing hardware and software acquired for
+our data processing centre in Erding (Germany), a new finance lease agreement for an office building in Bad
+Homburg (Germany) which started in April 2015 and new furniture and equipment for such building, (ii)
+additions from the acquisitions (+€1.1 million), and (iii) depreciation charges (-€114.5 million).
+
+Page 31
+
+
+--- Page 29 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+6.2.2 Intangible assets
+
+This caption principally includes (i) the net cost of acquisition or development and (ii) the excess purchase price
+allocated to patents, trademarks and licenses!, technology and content!? and contractual relationships*?. In
+particular, it includes the excess purchase price derived from the business combination between Amadeus IT
+Group, S.A. (the former listed company) and Amadeus IT Holding, S.A. (the current listed company, formerly
+known as WAM Acquisition, S.A.), following the acquisition of Amadeus IT Group, S.A. by Amadeus IT Holding,
+S.A. in 2005.
+
+Intangible assets increased by €259.4 million in 2015. This increase was mainly the result of the combination of
+the following effects: (i) additions of software internally developed (+€405.3 million) and acquired assets
+(+€49.1 million), (ii) additions from the acquisitions, including the effects derived from the purchase price
+allocation exercises carried out as part of the consolidation process of i:FAO, Hotel SystemsPro and Air IT into
+Amadeus’ books (+€82.8 million), and (iii) amortisation charges and impairment losses (-€307.5 million).
+
+6.2.3 Goodwill
+
+Goodwill amounted €2,478.9 million as of December 31, 2015. Goodwill mainly relates to the unallocated
+amount of the excess purchase price derived from (i) the business combination between Amadeus IT Holding,
+S.A. and Amadeus IT Group, S.A. following the acquisition of Amadeus IT Group, S.A. by Amadeus IT Holding,
+S.A. in 2005, and (ii) the acquisitions of subsidiaries, most of them completed in 2014 and 2015. In particular,
+the acquisitions done in 2015 increased the goodwill by €72.3 million (Hotel Systems Pro, Air IT, Itesso and
+Pyton). Goodwill generated in the acquisitions of Itesso and Pyton is subject to changes as a result of the
+purchase price allocation exercises that will be carried out in the next quarters.
+
+6.2.4 Equity. Share capital
+
+As of December 31, 2015 the share capital of our Company was represented by 438,822,506 shares with a
+nominal value of €0.01 per share
+
+For information related to the capital reduction of 8,759,444 shares on August 4, 2015, see section 7.3.2
+“Share buy-back programme”.
+
+For information on dividend payments, see section 7.3.1 “Dividend payment and dividend policy”.
+
+6.2.5 Financial indebtedness
+
+Net financial debt as per the existing financial covenants’ terms amounted to €1,611.6 million on December 31,
+2015, a reduction of €126.9 million vs. December 31, 2014, as a result of the cash generated during the period,
+mainly offset by (i) the dividend payment amounting to €307.2 million, (ii) the acquisitions financed with cash
+
++1 Net cost of acquiring brands and trademarks (either by means of business combinations or in separate acquisitions) as well as the net cost of
+acquiring software licenses developed outside the Group for Distribution and IT Solutions.
+
+2 Net cost of acquiring technology software and travel content either by means of acquisitions through business combinations / separate
+acquisitions or internally generated (software applications developed by the Group, including the development technology of the IT solutions
+business). Travel content is obtained by Amadeus through its relationships with travel providers.
+
+13 Net cost of contractual relationships with travel agencies, as acquired through business combinations, as well as costs subject to
+capitalisations, related to travel agency incentives, that can be recognised as an asset.
+
+Page 32
+
+
+--- Page 30 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+and paid during the year, and (iii) the finance lease agreement for a new office building in Bad Homburg
+(Germany).
+
+As of December 31, 2015, our covenant net financial debt represented 1.09 times covenant net financial debt
+to EBITDA.**
+
+The main following changes to our debt structure during 2015 are detailed below.
+
+We fully amortised the Senior Credit Facility: voluntary repayment of €41.3 million from the EUR-
+denominated loan facility, and repayment of €183.6 million from the USD-denominated loan facility (adding
+voluntary and scheduled repayments). Due to the USD/EUR exchange rate evolution and in accordance with
+the conditions agreed in the senior credit agreement, Amadeus also paid €22.4 million in 2015.
+
+We repaid, according to schedule, €12.5 million related to the European Investment Bank loan.
+
+A €56.7 million finance lease agreement for a new office building in Bad Homburg (Germany) started in
+April 2015.
+
+We had used the Multi-Currency European Commercial Paper (ECP) programme, set up in December 2014,
+by a net amount of €196.4 million as of December 31, 2015.
+
+In November 2015, we issued a six-year bond amounting to €500 million under our Euro Medium Term
+Note Programme, with maturity in 2021, in part to finance the Navitaire acquisition.
+
+We also agreed the below facilities during 2015, both unused as of December 31, 2015.
+
+In March 2015, we agreed a new €1,000 million Dual Tranche (each tranche amounting to €500 million)
+revolving credit facility, substituting the previous €300 million revolving credit facility which was cancelled
+simultaneously. The new revolving facility will be used as (i) a back-stop facility for the refinancing of the
+€750 million notes maturing on July 15, 2016, as well as (ii) working capital requirements and general
+corporate purposes.
+
+In July 2015, we agreed a new €500 million credit facility for the acquisition of Navitaire. The facility has a
+five year term (July 3, 2020) with maturity dates in 2019 and 2020. This facility was fully drawn on January
+25, 2016.
+
+1 Our leverage pro-forma for the Navitaire acquisition closed on January 26, 2016, is 1.56x, based on the final cash consideration of €766.5
+million and an estimated Navitaire EBITDA of USD 60 million.
+
+Page 33
+
+
+--- Page 31 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a M a D E u S
+
+Indebtedness
+Figures in million euros
+
+31/12/2015 31/12/2014
+
+Covenants definition*
+
+Senior Loan (EUR) 74.4
+Senior Loan (USD)? 157.1
+European Commercial Paper 0.0
+Short term bonds 0.0
+Long term bonds 1,150.0
+EIB loan 350.0
+Other debt with financial institutions 46.5
+Obligations under finance leases 44.8
+Share buy-back programme 288.8
+Covenant Financial Debt 2,111.6
+Cash and cash equivalents (373.0)
+Covenant Net Financial Debt 1,738.5
+Covenant Net Financial Debt / LTM Covenant EBITDA? 1.32x
+Reconciliation with financial statements
+
+Net financial debt (as per financial statements) 1,450.6
+Interest payable (18.7)
+Deferred financing fees 8.3
+EIB loan adjustment 9.6
+Share buy-back programme 288.8
+Covenant Net Financial Debt 1,738.5
+
+1. Based on the definition included in the senior credit agreement.
+
+2. The outstanding balance denominated in USD as of Dec 31, 2014 has been converted into EUR using the USD / EUR exchange rate of
+1.2141. (official rate published by the ECB on Dec 31, 2014).
+
+3. LTM Covenant EBITDA as defined in the senior credit agreement.
+
+Reconciliation with net financial debt as per our financial statements
+
+Under the covenant terms, Covenant Financial Debt (i) does not include the accrued interest payable (€19.4
+million at December 31, 2015) which is treated as debt in our financial statements, (ii) is calculated based on
+its nominal value, while in our financial statements our financial debt is measured at amortised cost, i.e., after
+deducting the deferred financing fees (that correspond mainly to fees paid upfront in connection with the set-up
+of new credit agreements and amount to €12.5 million at December 31, 2015), and (iii) does not include an
+adjustment for the difference between the nominal value of the loan granted by the EIB at below-market
+interest rate and its fair value (€7.3 million at December 31, 2015).
+
+Page 34
+
+
+--- Page 32 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) a M a D E u S
+
+Debt structure as of December 31, 2015
+
+Description Maturity
+
+Bank financing
+
+Capital markets
+financing
+
+EIB Loans
+
+Revolving Cred
+Fa Ss
+
+1. As of December 31, 2015 the €500 million credit facility and the €1,000 million revolving credit fa remained undrawn. The €500
+million credit facility, agreed in July 2015 for the acquisition of Navitaire, was drawn on January 25, 2016.
+
+Debt maturity profile as of December 31, 2015 (in € million)
+
+mEuro Bond mEIBloans mECP
+
+196
+30
+750) aaa
+400
+15
+cs a o> ee 6S |
+
+2016 2017 2018 2019 2020 2021 2022
+
+Page 35
+
+
+--- Page 33 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+6.3. Group cash flow
+
+Consolidated SEUSS CGAL Oct-Dec | Oct-Dec % Full Year | Full Year %
+= . one. 2015 2014 Change 2015 2014 Change
+Figures in million euros
+
+EBITDA? 320.9 268.5 19.5% 1,465.4 1,306.0 12.2%
+Change in working capital 79.7 105.3 (24.3%) 82.8 71.1 16.6%
+Capital expenditure (156.8) (113.5) 38.1% (550.1) (427.5) 28.7%
+Pre-tax operating cash-flow 243.7 260.3 (6.4%) 998.2 949.6 5.1%
+Taxes (155.2) (134.1) 15.7% (275.7) (290.7) | (5.2%)
+Interest and financial fees paid (12.2) (6.8) 79.2% (63.3) (62.6) 1.2%
+Free cash-flow 76.4 119.4 (36.0%) 659.2 596.3 10.5%
+Equity investment 0.6 (1.1) nm. (116.9) (387.2) (69.8%)
+Cash-flow from extraordinary items 24.2 15.8 52.6% 7.5 11.8 (36.4%)
+Debt payment 173.5 (154.1) nm. 387.5 (22.2) nm.
+Cash to shareholders 0.1 (30.8) nm. (598.4) (316.5) 89.1%
+Change in cash 274.8 (50.7) n.m. 338.8 (117.8) n.m.
+Cash and cash equivalents, net?
+
+Opening balance 436.8 423.5 372.8 490.6
+
+Closing balance 711.6 372.8 711.6 372.8
+
+1. EBITDA was impacted by extraordinary costs associated with the acquisition of Navitaire incurred in 2015 (€6.7 million) and with the
+acquisition of i:FAO in 2014 (€1.6 million). Excluding these costs, EBITDA grew by 12.6%, to €1,472.1 million.
+2. Cash and cash equivalents are presented net of overdraft bank accounts.
+
+6.3.1 Change in working capital
+
+Amadeus typically works on negative working capital (i.e. cash inflows), driven by the fact that Amadeus
+collects payments from most airlines (more than 80% of our group collections) through IATA and ACH, with an
+average collection period of just over one month, whilst payments to providers and suppliers are made on
+average over a significantly longer period.
+
+Cash inflow in 2015 was higher than in 2014, mainly due to timing differences in incentive and VAT payments.
+
+6.3.2 Capital expenditure. R&D investment
+Capital expenditure
+
+The table below details the capital expenditure in the period, both in property, plant and equipment (“PP&E”)
+and intangible assets. Based on the nature of our investments in PP&E, the figures may show variations on a
+quarterly basis, depending on the timing of certain investments. The same applies to our investments in
+contractual relationships where payments to travel agencies may take place in different periods, based on the
+timing of the negotiations. In turn, our capitalised R&D investment may fluctuate depending on the level of
+capitalisation ratio, which is impacted by the intensity of the development activity, the mix of projects
+undertaken and the different stages in which the ongoing projects are.
+
+Capex in the fourth quarter of 2015 amounted to €156.8 million, increasing 38.1% vs. the same period of
+2014, mainly explained by higher capitalised R&D, signing bonuses, and investment in hardware in our data
+centre. The ratio of capitalised R&D over total R&D investment increased significantly in the fourth quarter of
+2015, driven by project mix as well as a relatively low base of comparison in the fourth quarter of 2014.
+
+Page 36
+
+
+--- Page 34 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+For the full year period, capex increased 28.7% vs. prior year driven by growth in both capex in PP&E and
+intangible assets:
+
+Capex in PP&E increased by €28.5 million or 36.7% in 2015, as a result of (i) hardware purchases for our
+data centre in Erding to enhance and optimize system performance and adapt to the growing transaction
+levels processed on a daily basis, as well as (ii) purchase of equipment required for our new buildings in
+Nice (France) and Bad Homburg (Germany).
+
+Capex in intangible assets increased by €94.1 million or 26.9% in 2015 mainly driven by (i) higher software
+capitalisations, due to higher R&D investment and a higher capitalisation ratio impacted by the mix and
+stages of the projects undertaken, (ii) higher signing bonuses, and (iii) the consolidation of our latest
+acquisitions.
+
+It is important to note that most of our investments do not have any revenue associated at this stage
+(particularly for our new diversification initiatives), or are investments for projects that will produce the
+revenues during the life of the contracts, on average 10 to 15 years in airline IT and 3 to 5 in Distribution,
+therefore affecting the capex as a percentage of revenue ratio in the short term. More importantly, a large part
+of our investments related to the migration of our clients is paid by the customer, although not recognised as
+revenue but deferred in the balance sheet. It is therefore capex which does not have a negative cash impact
+and where revenue does not get recognised as such, making the ratio of capex to revenue less relevant.
+
+Capital Expenditure Oct-Dec | Oct-Dec % Full Year | Full Year %
+Figures in million euros 2015 2014 ange 2015 2014 ange
+
+Capital Expenditure in PP&E 27.2 22.4 21.0% 106.3 77.8 36.7%
+Capital Expenditure in intangible assets 129.7 91.1 42.3% 443.8 349.7 26.9%
+Capital Expenditure 156.8 113.5 38.1% 550.1 427.5 28.7%
+As % of Revenue 16.5% 13.6%  2.9p.p. 14.1% 12.5% 1.5 p.p.
+
+R&D investment
+
+As a leading and differentiated technology provider for the travel industry, Amadeus undertakes significant R&D
+activities, which are the main driver for growth.
+
+R&D investment (including both capitalised and non-capitalised expenses) increased by 13.4% in the fourth
+quarter of 2015 vs. the same period in 2014, and by 17.8% growth in the full year period, impacted by
+negative foreign exchange effects as well as by reduced R&D subsidies. As a percentage of revenue, R&D
+investment amounted to 16.4% in 2015.
+
+The increase in R&D was mainly driven by:
+
+Higher level of investment related to our ongoing activities: (i) portfolio expansion and product evolution
+(such as merchandising and personalization solutions, cloud and optimized availability, XML connectivity),
+(ii) customer implementation efforts related to the contracted pipeline in Altéa, standalone and e-commerce
+solutions, and (iii) services (for example bespoke services related to e-commerce).
+
+Increased efforts dedicated to our new initiatives, mainly in (i) Hotel IT, with the development of our Guest
+Reservation System in coordination with IHG, (ii) Rail IT, with teams dedicated to our partner Bene Rail, (iii)
+Travel Intelligence, as well as (iv) additional R&D investment from the consolidation of our 2014-15
+acquisitions.
+
+Page 37
+
+
+--- Page 35 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+Growing investment in technological projects to optimise system performance (enhancing service levels,
+availability, reliability, and security) and shift towards open systems through next-generation technologies
+(TPF decommissioning).
+
+It should be noted that a significant part of our research and development costs is linked to activities which are
+subject to capitalisation. The intensity of the development activity and the different stages of the ongoing
+projects have an effect on the capitalisation ratio in any given quarter, therefore impacting the level of
+operating expenses that are capitalised on our balance sheet.
+
+R&D investment Oct-Dec Oct-Dec % Full Year | Full Year %
+Figures in million euros 2015 2014 Change 2015 2014 Change
+
+R&D investment? 171.4 151.1 13.4% 641.0 544.1 17.8%
+R&D as of % of Revenue 18.1% 18.1% (0.1 p.p.) 16.4% 15.9% 0.5 p.p.
+
+1. Net of Research Tax Credit.
+
+6.3.3 Taxes paid
+
+Taxes paid in the fourth quarter of 2015 amounted to €155.2 million, compared to €134.1 million in the same
+period in 2014. For the full year 2015, tax payments amounted to €275.7 million, lower than €290.7 million
+paid in 2014. The reduction in taxes paid in 2015 was mostly driven by higher amounts reimbursed by tax
+authorities associated with regularisations from previous years in comparison to reimbursements collected in
+2014.
+
+6.3.4 Interest and financial fees paid
+
+Interest payments under our debt arrangements amounted to €63.3 million in 2015, slightly higher than €62.6
+million paid in 2014. This increase was driven by (i) higher commissions paid in relation to new financing
+facilities signed or used in the year (the issuance of bonds under the EMTN programme, the use of the ECP
+programme, a new revolving credit facility), partly offset by (ii) lower amounts of debt interest paid as a
+consequence of the reduction in the average cost of debt in 2015 vs. 2014, as explained in section 6.1.6 of this
+report.
+
+6.3.5 Free cash flow
+
+Free cash flow reached €76.4 million in the fourth quarter of 2015, decreasing by €43.0 million vs. the fourth
+quarter of 2014. Full-year growth was €62.9 million, from €596.3 million in 2014 to €659.2 million in 2015.
+This increase was mainly driven by EBITDA growth, a higher cash inflow from working capital and lower taxes
+paid, partly offset by growth in capex in the period.
+
+6.3.6 Equity investments
+
+Equity investments amounted to €116.9 million in 2015. This cash outflow mainly corresponds to payments in
+relation to the acquisition of Air IT, Itesso, Hotel SystemPro and Pyton. Equity investments in 2014 mainly
+correspond to payments in relation to the acquisitions of Newmarket, UFIS and i:FAO.
+
+Page 38
+
+
+--- Page 36 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+6.3.7. Cash to shareholders
+
+The cash outflow to shareholders in 2015, amounting to €598.4 million, corresponds to (i) a payment of €307.2
+million related to the dividend of €0.70 per share (gross) on the 2014 profit, and (ii) €291.2 million related to
+the acquisition of treasury shares in the year, most of which were acquired as part of the share buy-back
+programme announced on December 11, 2014 (see section 7.3.2).
+
+7 Investor information
+
+7.1 Capital stock. Share ownership structure
+
+As of December 31, 2015 the capital stock of Amadeus IT Holding, S.A. is €4,388,225.06 represented by
+438,822,506 shares with a nominal value of €0.01 per share, all belonging to the same class, completely
+subscribed and paid in.
+
+The shareholding structure as of December 31, 2015 is as described in the table below:
+
+Shareholders | Shares % Ownership
+
+Free float 436,201,936 99.41%
+Treasury shares’ 2,214,916 0.50%
+Board members 405,654 0.09%
+Total 438,822,506 100%
+
+1, Voting rights suspended for as long as the shares are held by Amadeus IT Holding, S.A.
+
+7.2 Share price performance in 2015
+
+129
+124 +23.0%
+119
+114
+109
+104 +3.8%
+
+99 -0.7%
+
+-7.2%
+
+e
+SS RN oN SS
+
+Se &
+LS
+
+Ss a> gs yw g8 & oF of I
+yw &
+
+S A si
+RM BOP WO PM SP LW oh ws OO WSs
+AS PPS AB NY Ny of
+
+AMADEUS ——IBEX =—=EUROSTOXX =—=S&P 500 Rebased to 100
+
+Page 39
+
+
+--- Page 37 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+a
+
+Number of publicly traded shares (# shares) 438,822,506
+Share price at December 31, 2015 (in €) 40.69
+Maximum share price in Jan - Dec 2015 (in €) (May 21, 2015) 42.79
+Minimum share price in Jan - Dec 2015 (in €) (Jan 5, 2015) 32.36
+Market capitalisation at December 31, 2015 (in € million) 17,853
+Weighted average share price in Jan - Dec 2015 (in €)* 37.96
+Average Daily Volume in Jan - Dec 2015 (# shares) 2,734,288
+
+1. Excluding cross trades.
+
+7.3. Shareholder remuneration
+
+7.3.1 Dividend payments and dividend policy
+
+At the Shareholders’ General Meeting held on June 25, 2015 our shareholders approved the annual gross
+dividend from the profit of the year 2014. The total value of the dividend was €313.3 million, representing a
+pay-out of 50% of the 2014 reported profit for the year, or €0.70 per share (gross), a 12% increase over prior
+year. Regarding the payment, an interim amount of €0.32 per share (gross) was paid on January 30, 2015 and
+the complementary dividend of €0.38 per share (gross) was paid on July 30, 2015.
+
+The Board of Directors of Amadeus IT Holding, S.A held on December 10, 2015 proposed a 50% pay-out target
+ratio for the year 2015 (the maximum percentage within the 40%-50% approved pay-out range).
+
+In June 2016, the Board of directors will submit to the General Shareholders Meeting for approval a final gross
+dividend of €0.775 per share, representing a 10.7% increase vs. previous year. An interim dividend of €0.34
+per share (gross) was paid on January 28, 2016. Based on this, the proposed appropriation of the 2015 results
+included in our 2015 audited consolidated financial statements of Amadeus IT Holding, S.A. and subsidiaries
+includes a total amount of €340.1 million corresponding to dividends pertaining to the financial year 2015.
+
+7.3.2. Share buy-back programme
+
+The Board of Directors of Amadeus at the meeting of December 11, 2014 agreed to undertake a share buy-
+back programme, in accordance with the authorisation granted to it by the General Shareholders Meeting held
+on June 20, 2013, to reduce the share capital of the Company (subject to approval granted at the General
+Shareholders Meeting on June 25, 2015).
+
+The programme was completed on May 12, 2015 as the maximum planned investment of €320 million was
+reached. A total of 8,759,444 own shares were acquired, representing 1.957% of share capital. All own share
+acquisitions under the share buy-back programme were regularly disclosed in accordance with Article 4.4 of
+Regulation 2273/2003 and were carried out in accordance with the terms and conditions thereof.
+
+The share capital reduction through the amortization of the repurchased shares was approved by the General
+Shareholders Meeting on June 25, 2015 and registered in the Commercial Registry of Madrid on August 4,
+2015.
+
+Page 40
+
+
+--- Page 38 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+The share repurchase programme constituted an extraordinary shareholder remuneration event which together
+with the annual ordinary dividend brought substantial shareholder remuneration growth. Since our IPO,
+Amadeus’ shareholder remuneration has grown consistently, evidencing its importance within the Amadeus
+capital allocation process.
+
+8 Other additional information
+
+8.1 Expected Business Evolution
+
+8.1.1. Macroeconomic backdrop and Amadeus business model
+
+Amadeus is a leading technology provider and transaction processor for the global travel and tourism industry.
+Our business model is transactional and volume driven. We receive from our clients - airlines and other travel
+providers - a fee per transaction (mainly bookings made by online and offline travel agencies connected to the
+Amadeus system, or passengers boarded by airlines using our IT solutions). Our businesses and operations are
+therefore largely dependent on the worldwide travel and tourism industry, which is sensitive to general
+economic conditions and trends.
+
+As reported in the latest World Economic Outlook Update (January 2016) from the IMF, global economic growth
+projection stands at 3.4% for 2016, improving vs. the 3.1% global growth in 2015.
+
+This growth is a combination of:
+
+—  a0.2 p.p. increase in advanced economies, expected to reach 2.1% growth in 2016. Growth in the euro
+area (1.7% in 2016, vs. 1.5% in 2015) and the United States (2.6% in 2016, vs. 2.5% in 2015) should be
+supported by lower oil prices and accommodative financial conditions.
+
+—  animproving situation in emerging markets and developing economies: 4.3% growth in 2016, vs. 4.0% in
+2015. Specific countries which suffered in 2015, such as Brazil or Russia, are expected to slightly recover
+in 2016 (though still contracting), offsetting the expected Chinese slowdown.
+
+The WTTC anticipated in November 20151°a total Travel & Tourism GDP growth of 3.6%, outperforming the
+wider economy, forecasted at 2.9% at the time of the report.
+
+Given the existing correlation between GDP growth and global air traffic, we expect traffic figures to mirror the
+improvement in worldwide economic growth levels in 2016. IATA expects air traffic growth to reach 6.9% for
+2016, a record since 2010 and an improvement vs. the 6.7% growth in 20151°. Middle East and Asia Pacific
+should continue to be the fastest growing regions (12.5% and 8.0% respectively), in spite of the recent Chinese
+economic fragility. Latin America is expected to grow at 6.8%, though weaknesses in key countries such as
+Brazil may moderate future growth, while Europe and North America should both benefit from solid growth
+rates (4-6%). Additionally the financial performance of the Air transport industry in 2016 should continue
+improving, driven by a combination of volume growth, continued low energy costs and increasing ancillary
+revenues.
+
++8 Source: World Travel & Tourism Council - Economic Impact of Travel & Tourism 2015 - November 2015
+
+16 Source: IATA Airline Industry Economic Performance-December 10, 2015
+
+Page 41
+
+
+--- Page 39 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+8.1.2. Amadeus strategic priorities and expected business evolution in 2016
+
+Distribution is Amadeus’ original business. It is management’s goal to continue to profitably grow the business,
+continue to expand its addressable markets and deliver a best-in-class service to our clients. We continue to
+invest in our platform, in order to support our customers in adapting to the fast changing travel industry.
+Merchandising, personalisation tools and improved shopping solutions are examples of innovative solutions that
+are key to our development strategy.
+
+The term of our content agreements with airlines typically range 3-5 years. This provides the necessary
+visibility and allows us to ensure our platform holds the most comprehensive content possible supporting the
+enhanced value the travel agency brings as a distribution channel. During 2015 we successfully signed a new
+content agreement with Air Canada and renewed contracts with airlines such as Aeromexico or Czech Airlines.
+
+We foresee our air travel agencies bookings to grow healthily, driven by air traffic growth and an improvement
+in our competitive position in Distribution.
+
+We expect in 2016 high single-digit growth in Altéa Passengers Boarded, key driver of our IT Solutions
+business, as a result of: (i) new migrations in 2016 (ii) the full year effect of 2015 migrations (iii) and the
+organic traffic growth of our existing customer base. Our upselling and cross-selling capabilities should also
+contribute to revenue growth.
+
+This growth will be complemented by our acquisition of Navitaire, which accelerates our strategy of targeting
+new segments within the airline IT market. We have acquired an immediate positioning in the low-cost and
+hybrid carrier segments, with a strongly branded, successful and proven value proposition that matches these
+segments’ specific requirements. The low-cost and hybrid carrier segments are highly innovative and attractive
+for our strategy. In addition, we plan to strengthen in the future the functionality and flexibility of the current
+Navitaire offering to enhance its competitiveness in its market.
+
+Lastly, we continue to make good progress with regards to our new businesses within IT Solutions. In the Hotel
+IT space, we are steadily advancing, together with InterContinental Hotels Group in the development of a new-
+generation Guest Reservation System. We were also pleased to announce in 2015 our Itesso and Hotel
+SystemsPro acquisitions to accelerate our Hotel IT strategy, in the Property Management systems and sales and
+catering spaces, respectively. In Airport IT, we continue to see momentum in the market, particularly with our
+Amadeus Airport Common Use Service (ACUS) offering, the latest example being Perth Airport. We also made
+an acquisition in April 2015, Air IT, significantly expanding our presence and capabilities to serve the North
+American market, a key region for the airport IT sector. In Payments, we now have a solid product portfolio,
+both on the merchant and payer side, designed to help travel companies with all of their payment processing
+requirements.
+
+As a leading and differentiated technology provider for the travel industry, Amadeus will continue to invest in
+R&D, a key driver to the success of our existing businesses and of our future growth. Our investment will be
+related mainly to customer implementations, product evolution and portfolio expansion including non-air IT
+diversification, as well as internal technological projects.
+
+Finally, it is our objective to preserve a strong cash flow profile with a sound capital structure and ensure we
+are within our stated capital structure target range (1.0x - 1.5x net debt / EBITDA). In relation to our dividend
+policy, the Amadeus Board of Directors on December 10, 2015 (i) proposed a 50% pay-out target ratio for the
+year 2015 (the maximum percentage within the 40%-50% approved pay-out range), and (ii) approved the
+distribution of an interim dividend of €0.34 per share (gross), paid on January 28, 2016. The Board of Directors
+will submit a final gross dividend of €0.775 per share from the 2015 reported profit, an increase of 10.7% vs.
+
+Page 42
+
+
+--- Page 40 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+previous year, to the General Shareholders Meeting for approval. Since our IPO, Amadeus’ shareholder
+remuneration has grown consistently, evidencing its importance within the Amadeus capital allocation process.
+
+8.2 Research and Development Activities
+
+Research and development (R&D) is core to the company’s strategy and the key to a sustainable competitive
+advantage. In addition, R&D activities help increase efficiency and improve the Amadeus System functionality,
+as well as to reduce maintenance and operating costs.
+
+The Group is continuously investing in its systems, including in the development of new products and
+functionalities, as well as the evolution of the existing platform, based on the latest state-of-the-art technology
+available. The group has 16 development centres, including 3 regional centres and the central development
+sites in Nice and Bangalore.
+
+During the year ended December 31, 2015, Amadeus expensed €243.6 million for R&D activities and capitalized
+€417.2 million (before deducting any incentives), which compares to €237.6 million and €330.8 million,
+respectively, in 2014.
+
+Our R&D investment enables us to offer some of the most advanced, integrated and powerful business tools
+available in the market, in order to deliver a best-in-class service to airlines and travel agencies. Indeed,
+Amadeus offers enhanced functionalities, such as advanced search and booking engines, both for travel
+agencies and travel providers. In addition, our product offering addresses the Passenger Service Systems for
+airlines, enabling processes such as central reservation, inventory management, departure control and e-
+commerce, as well as providing direct distribution technologies. We are also expanding our airline IT Solutions
+offering and we are seeking to grow our market share within the non-airline IT Solutions markets, including the
+hotel, rail and airport IT markets.
+
+8.3. Environmental matters
+
+Amadeus’ operations involve relatively low environmental risks and impacts compared with other industries.
+Nonetheless, with a workforce of more than 13,000 people, presence in 195 countries and operating in a high-
+energy intensity industry, we acknowledge our responsibility to minimize the company’s environmental impact
+and at the same time make our contribution to the sustainability of the travel industry.
+
+Our environmental strategy is made up of three pillars:
+a) Minimising the environmental impact of Amadeus’ operations
+
+Our environmental strategy addresses the impact of our operations and the concerns of stakeholders in the
+travel industry, including customers, employees, partners, regulatory bodies and the society in general.
+
+We believe our first responsibility is to address the environmental impact of our operations. Fortunately, for
+most cases we find a common economic and environmental interest that facilitates action in reducing resource
+consumption and environmental impact. Amadeus Environmental Management System includes a systematic
+approach by which we:
+
+Measure resource consumption
+
+Identify best practices
+
+Implement actions for improvement and
+Follow up results
+
+Page 43
+
+
+--- Page 41 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+The items covered by the EMS include energy use, paper consumption, water use, waste generated and
+greenhouse gas emissions. On the other hand, the EMS scope includes the top 11 Amadeus sites by number of
+employees, that together represent more than 75% of the total workforce and an estimated 90% of the total
+resource consumption. Importantly, the Amadeus data centre in Erding, Germany, is included in the EMS.
+
+Additionally, our numerous sites across the world take their own environmental initiatives that range from
+activities as diverse as car-pooling for commuting, recycling campaigns, reduce paper used in office through the
+use of specific software, etc.
+
+b) Helping our customers improve their environmental performance
+
+A principal component of Amadeus’ value proposition is primarily based on increasing operational efficiencies for
+our customers through our IT solutions. Often, the increased efficiencies mean more productivity, reduced
+costs, better use of infrastructure and environmental benefits.
+
+In the following paragraphs we describe three examples of Amadeus solutions that contribute to improve the
+environmental performance of our customers.
+
+Amadeus Altéa Departure Control Flight Management
+
+Thanks to optimization tools, Amadeus Altéa Departure Control System (DCS) Flight Management (FM) allows
+customers saving a significant amount of fuel and greenhouse gas emissions, compared with less sophisticated
+technologies currently in the market.
+
+The savings achieved were measured analysing a sample of more than 40,000 flights from Finnair, of which
+approximately half were using Amadeus solution and the other half the previous system used by Finnair. The
+analysis proved a higher precision from Altéa DCS when estimating the estimated zero fuel weight of the
+aircraft (EZFW) which translates into improvements in the estimation of the fuel needed for each flight,
+resulting in significant savings in costs, fuel and emissions.
+
+Amadeus Sequence Manager
+
+Airport Sequence Manager optimises the flight departure process. The solution relies on sophisticated
+sequencing algorithms to calculate the Target Start-Up Approval Time (TSAT) for each departing flight. This
+allows the aircraft to leave the stand at the last possible moment, reducing fuel burn, economic costs and
+environmental impact, and it enables better allocation of resources. Runway capacity can therefore be
+optimised at times of congestion, or de-icing processes taken into account during winter season. As a
+collaborative tool, Amadeus Airport Sequence Manager creates a shared situational awareness among all airport
+partners.
+
+Amadeus launched Airport Sequence Manager in collaboration with Munich Airport - one of the busiest
+European airports, with nearly 400,000 aircraft movements per year.
+
+Amadeus Airport Common Use Service (ACUS)
+
+In 2014, we launched Amadeus’ cloud-based Airport Common Use Service (ACUS). With ACUS, airports are
+able to transfer hosting and development responsibilities to Amadeus. Our full, thin client solution and
+application virtualisation approach reduce the requirement for costly on-site hardware equipment, servers and
+local data centres, as well as IT maintenance. This generates substantial operational savings for the airport and
+reduces the overall environmental footprint. Energy consumption is substantially lower compared to traditional
+common use solutions.
+
+Page 44
+
+
+--- Page 42 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+In 2015, we launched Amadeus Schedule Recovery, which minimises disruptions to operations caused by
+external events such as bad weather or air traffic congestion. The solution, among other features, helps
+accommodate to the new situation minimising environmental impact.
+
+c) Cooperation with industry stakeholders in sustainability projects in our sector
+
+The environmental sustainability in our sector is a common objective for all industry stakeholders. In the
+environmental area we take advantage of our data management capability, technology, expertise and network
+to make our contribution towards industry sustainability.
+
+We include below some examples of our participation with other stakeholders in the industry in relation to
+environmental sustainability objectives.
+
+Industry standards for carbon calculation per passenger in aviation
+
+The calculation of emissions per passenger in aviation is complicated for various reasons and therefore,
+different calculation methodologies offer considerably different emissions estimations for the same itinerary. It
+is important that a standard calculation methodology complies with neutrality, global reach and legitimacy
+requirements.
+
+The International Civil Aviation Organisation (ICAO) and Amadeus reached an agreement by which Amadeus
+uses ICAO’s carbon calculator to show our customers the CO, estimations in our distribution platforms; and by
+doing this we promote the use of ICAO’s carbon calculator and help raising environmental awareness in the
+sector. The agreement was initially signed in 2009 and renewed in 2015.
+
+Participation in common projects with industry stakeholders
+
+It’s fundamental that industry stakeholders work together and agree on strategies and responsibilities towards
+sustainability. From Amadeus we participate in various forums and specific projects with trade associations like
+the World Travel and Tourism Council or United Nations World Tourism Organisation (UNWTO).
+
+Regarding our sustainability efforts, it’s important for us to receive feedback from external sustainability
+indices, in order to understand how we perform as compared to other companies, to identify areas of focus for
+the future and to improve the quality and transparency of our non-financial reporting. Since 2012 Amadeus has
+remained for four consecutive years among top sustainability scorers and therefore, members of the Dow Jones
+Sustainability Index (DJSI). Amadeus score in the Carbon Disclosure Project (CDP) was 98 in disclosure (range
+O - 100) and B in performance (range E-A).
+
+Finally, the Amadeus risk and opportunity analysis regarding climate change depicts that our main risks are
+physical, regulatory and reputational risks. On the other hand our opportunities are linked to the possibility of
+launching new products and services and improving our competitive positioning.
+
+Page 45
+
+
+--- Page 43 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+8.4 Treasury Shares
+
+The reconciliation of the carrying amounts for the years ended December 31, 2015 and 2014, of the treasury
+
+shares is set forth in the table below:
+ee
+
+Carrying amount at December 31, 2013 2,963,138 30.0
+Acquisition 7541133 ~~—~—~O~C*~“‘s“CS«~SSSCS
+Retirement (898,794) (7.8)
+Share buy-back programme - 277.6
+Carrying amount at December 31, 2014 3,605,477 349.3
+Acquisition 7508451 —~—~<“‘C*« OS
+Retirement (139,568) (2.5)
+Share buy-back programme - (277.6)
+Share capital reduction (8,759,444) (320.0)
+Carrying amount at December 31, 2015 2,214,916 29.3
+
+The Group holds treasury shares for the future specific share delivery commitments with the Group employees
+and management.
+
+8.5 Financial Risks
+
+The Group has exposure, as a result of the normal course of its business activities, to foreign exchange, inter-
+est rate, own shares price evolution, credit and liquidity risk. The goal of the Group is to identify, measure and
+minimize these risks using the most effective and efficient methods to eliminate, reduce, or transfer such expo-
+sures. With the purpose of managing these risks, in some occasions, the Group enters into hedging activities
+with derivatives and non-derivative instruments.
+
+8.5.1 Foreign exchange rate risk
+
+The reporting currency in the Group’s consolidated annual accounts is the Euro (EUR). As a result of the multi-
+national orientation of its business, the Group is subject to foreign exchange rate risks derived from the fluctua-
+tions of many currencies. The target of the Group’s foreign exchange hedging strategy is to reduce the volatility
+of the Euro value of the consolidated foreign currency denominated cash flows. The instruments used to
+achieve this goal depend on the denomination currency of the operating cash flow to be hedged:
+
+— The strategy for US Dollar (USD) exposures is based on the use of natural hedges and of derivatives. This
+strategy aims at reducing the exposure created by the USD denominated operating cash inflows of the
+Group with the USD payments of principals of the USD denominated debt and with derivatives, although as
+of December 31, 2015, there has no USD denominated debt.
+
+Page 46
+
+
+--- Page 44 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+— Aside from the USD, the foreign currency exposures are expenditures denominated in a variety of foreign
+currencies. The most significant of these exposures are denominated in Sterling Pounds (GBP), Australian
+Dollars (AUD) and Swedish Kronas (SEK). For these exposures, a natural hedge strategy is not possible. In
+order to hedge a significant portion of the aforementioned short exposures (net expenditures) the Group
+can engage into derivative contracts with banks: basically currency forwards, currency options and combi-
+nations of currency options.
+
+Provided that the objective in relation with the foreign exchange rate risk is reducing the volatility of the EUR
+value of the foreign currency denominated cash flows, the total exposure of the Group to changes in the foreign
+exchange rates is measured in terms of Cash-flow at Risk (CFaR). This risk measure provides an estimate of
+the potential EUR loss of the foreign currency denominated cash flows from the moment the estimation is calcu-
+lated to the moment the cash flow is expected to take place. These estimates are made using a 95% confidence
+level.
+
+The CFaR methodology is similar in many respects to the Value at Risk (VaR) methodology. However, whereas
+VaR is generally centred in the changes in the value of a portfolio of exposures in a given future interval of
+time, CFaR is focused on the changes in the value of the cash-flows of that portfolio from the calculation date to
+the moment in which these cash-flows effectively take place. CFaR is a more adequate measure of the risk of
+the Group given that the goal of our risk management strategy with relation to foreign exchange risk is reduc-
+ing the volatility of the EUR value of the foreign currency denominated cash-flows. An additional reason for
+focusing on cash-flows is that, eventually, the cash-flows of a company result in its level of liquidity which in
+the case of a non-financial corporation it is generally a scarce and valuable element.
+
+The main limitations of the CFaR methodology are very similar to the ones of the VaR methodology:
+
+— One of the limitations of this methodology is that its results are based on several of hypotheses on the fu-
+ture volatilities of the exchange rates and the future correlation among them which may correspond with
+the real evolution of the exchange rates or not’.
+
+— Additionally, the foreign exchange exposure estimates used as inputs to the model may deviate with re-
+spect to the exposures which will finally take place in the future?®.
+
+— Finally, it is important to mention that given a level of CFaR calculated with a 95% confidence level, the
+losses which could take place in the remaining 5% of the cases may be significantly greater than the level
+of risk as measured with the CFaR methodology.
+
+The CFaR of the foreign exchange exposures of the Group calculated with a 95% confidence level is set forth in
+
+the table below:
+
+2016 CFaR 2017 CFaR. 2018 CFaR 2015CFaR 2016 CFaR 2017 CFaR
+
+(20.3) (49.1) (75.9) (4.7) (28.6) (55.5)
+
+"The volatilities implicit in the market prices of currency options and the historic correlations among the main currencies in which Amadeus has
+exposures are used as inputs to the model.
+
+18 In order to calculate the foreign currency exposures of the Group we take into account the estimated cash flows in each currency according
+to the last available forecast and the foreing currency hedges contracted as of the CFaR calculation date.
+
+Page 47
+
+
+--- Page 45 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+There are two main reasons for the increase in the CFaR levels of the Group for the next three years with re-
+spect to the CFaR levels outstanding at the end of 2014. On one side, a greater US Dollar exposure as a conse-
+quence of the growth of Amadeus business in the United States and Asia. Additionally, the hedges in US Dollars
+(USD) have been kept at reduced levels for the next three years
+
+As it can be observed in the table above, the level of risk measured in CFaR terms tends to increase for the
+periods which are further away. The reasons for this are: (1) the further away the future cash-flows are, more
+adverse the effect of foreign exchange fluctuations can be potentially; (2) the level of hedging is smaller for the
+later periods; (3) in the later periods the size of the foreign exchange exposures tends to be greater.
+
+8.5.2 Interest rate risk
+
+The objective of the Group in terms of interest rate risk management is reducing the volatility of the net inter-
+est flows payable by the Group. In line with this goal as of December 2015 approximately 92% (87% as of De-
+cember 2014) of the debt contracted by the Group was fixed rate debt. Given the high proportion of fixed rate
+debt as of December 2015 no interest rate hedges were hedging this debt as of this date (as of December 2014
+the proportion of fixed rate debt after hedges was 94%).
+
+As of December 2015 the only outstanding interest rate derivative was hedging future debt that it is expected
+to be contracted during 2016 as part of the refinancing of the €750mill Eurobond maturing on July 2016.
+
+Although the interest rate hedge mentioned above fixes the amount of interests to be paid by Amadeus in fu-
+ture years, its fair value is sensitive to changes in the level of interest rates. In the table below you can see an
+estimation of the Group’s sensitivity to a 0.1% (10 bps) parallel shift of the interest rate curve:
+
+The sensitivity of fair value to parallel changes in the interest rate curve as of December 31, 2015 and 2014 is
+
+set forth in the table below:
+
+ne | toons | — Ea
+EUR denominated debt 5.34 (5.37) 4.21 (4.20)
+USD denominated debt - - - -
+EUR accounting hedges 1.48 (1.57) 1.41 (1.63)
+USD accounting hedges - - 0.06 (0.06)
+Total 6.82 (6.94) 5.68 (5.89)
+
+In 2015 there has been an increase in the sensitivity of the EUR denominated debt to the movements of the
+interest rate curve with respect to the previous year. This increase is due to the increase in the duration of the
+outstanding debt portfolio due to the issuance of a new 6 year Eurobond during 2015. Although the future flows
+of the fixed rate debt instruments are not sensitive to the changes in the level of interest rates, the fair value of
+the instruments are sensitive to these changes.
+
+According to the table above a 10 bps drop in the level of interest rates would cause a loss in the fair value of
+the debt (an increase of the liability) and the derivatives in the Amadeus hedging portfolio amounting to €6.95
+mill at December 31, 2015, and €5.89 mill at December 31, 2014 respectively. However, given that the chang-
+es in the fair value of the derivatives that qualify for hedge accounting are recognized directly in equity and the
+debt is measured at amortized cost, the impact of a 10 bps drop in the level of interest rates would imply no
+
+Page 48
+
+
+--- Page 46 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+loss recognized in the profit for the year at December 31, 2015 and 2014, since the derivative in the interest
+rate portfolio of the Group is to be accounted as a cash-flow hedge.
+
+In cash flow terms, in the case of a parallel drop (or rise) in the level of interest rates the lower (or higher)
+interests payable for the debt which is hedged, would be compensated by a similar amount of higher (or lower)
+debt interests to be paid during the life of the hedges (cash flow hedge concept).
+
+8.5.3. Own shares price evolution risk
+
+As of December 31, 2015, the Group has three different remuneration schemes outstanding which are settled
+with Amadeus shares; the Performance Share Plan (PSP), the Restricted Share Plan (RSP) and the Share Match
+Plan.
+
+According to the rules of these plans, when they mature their beneficiaries will receive a number of Company’s
+shares which for the outstanding plans will be (depending on the evolution of certain performance conditions)
+between a maximum of 2,210,000 shares and a minimum of 270,000 shares, approximately. It is Amadeus
+intention to make use of its 2,214,916 treasury shares to settle these plans at their maturity.
+
+8.5.4 Credit risk
+
+Credit risk is the risk that a counterparty to a financial asset will cause a loss for the Group by failing to dis-
+charge an obligation.
+
+Amadeus’ cash and cash equivalents are deposited in major banks on the basis of diversification and the credit
+risk of the available investment alternatives.
+
+The credit risk of Amadeus’ customer accounts receivable is mitigated by the fact that the majority are settled
+through the clearing houses operated by the International Air Transport Association (“IATA”) and Airlines Clear-
+ing House, Inc. (“ACH”). These systems guarantee that the cash inflows from our customers will be settled at a
+certain fixed date, and mitigate the credit risk partially by the fact that the members of the clearing house are
+required to make deposits that would be used in the event of default. Moreover, our customer base is large and
+unrelated which results in a low concentration of our credit risk.
+
+8.5.5 Liquidity risk
+
+The Corporate Treasury is responsible for providing the cash needed by all the companies of the Group. In or-
+der to perform this task more efficiently the Group concentrates the excess liquidity of the subsidiaries with
+excess cash and channel it to the companies with cash needs.
+
+This allocation of the cash position among the companies of the Group is mainly made through:
+— Acash pooling agreement with most of the subsidiaries located in the Euro area.
+— Through bilateral Treasury Optimization agreements between Amadeus IT Group, S.A. and its subsidiaries.
+
+Corporate Treasury monitors the Group’s cash position through rolling forecasts of expected cash flows. These
+forecasts are performed by the subsidiaries of the Group and later on consolidated in order to examine both the
+liquidity situation and prospects of the Group and its subsidiaries.
+
+In addition to other smaller treasury lines agreed with several banks, the Group has access to a Revolving
+Credit facility with two different tranches. One of these tranches has a notional of €500 mill which can be used
+to cover working capital needs and general corporate purposes. The other tranche also has a notional of €500
+mill and its use is restricted to the partial refinancing of the Eurobond issued by Amadeus Capital Markets,
+
+Page 49
+
+
+--- Page 47 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+S.A.U., amounting to KEUR 750.000, maturing on July 2016. As of December 31, 2015, all the outstanding
+Revolving Credit facilities are unused.
+
+Finally, in December 2014, Amadeus set up a Multi-Currency European Commercial Paper (ECP) program. This
+program can be used for raising short term financing up to a maximum notional of €500 mill. As of December
+31, 2015 €196.5 mill of this program are in use.
+
+8.6 Subsequent events
+
+On January 26, 2016, after receiving all the necessary regulatory approvals, the Group indirectly through its
+subsidiary Amadeus IT Group, S.A., acquired 100% of the ownership interest of Navitaire, LLC and certain as-
+sets and assumed certain liabilities primarily related to the Navitaire business, including 100% of the ownership
+interest of Navitaire Philippines Inc. (“Navitaire”). The transaction was structured as a carve-out from the pre-
+vious owner as the Navitaire business was embedded within the Accenture group. About 590 employees, includ-
+ing the senior management team, has joined Amadeus.
+
+Navitaire is based in Minneapolis, Minnesota, U.S.A. and it operates offices in London, Manila, Salt Lake City
+and Sydney. The addition of Navitaire’s portfolio of products and solutions for the low-cost segment comple-
+ments Amadeus’ Altéa Suite of offerings for its largely full-service carrier customer base, giving the company
+the ability to serve a wider group of airlines. Amadeus will market and sell the two product portfolios separately
+and will continue to invest in both platforms, enhancing the services and functionality availability to all types of
+carriers.
+
+Through separate agreements, Accenture will provide Amadeus with infrastructure outsourcing, application and
+R&D services. These agreements have a term from 5 to 10 years, and annual targeted service commitments
+and investment in joint developments with benchmark mechanisms to adjust to fair value of the services re-
+ceived.
+
+The cash consideration transferred in relation to this acquisition amounted to €766.5 mill ($844.4 mill). The
+acquisition-related costs incurred amounted to approximately €6.7 mill, all of which were recognised in “Other
+operating expenses” in the consolidated statement of comprehensive income for the year ended December 31,
+2015.
+
+Details of the assets acquired and liabilities assumed as of the acquisition date, revenue and profit for the peri-
+od are not disclosed, as the accounting for this transaction is still incomplete at the time of the consolidated
+annual accounts were authorized for issue. Under the acquisition agreements the seller has 120 days to provide
+information as at the acquisition date. Amadeus will consolidate Navitaire with effect from January 26, 2016.
+
+On January 25, 2016, the Group has disposed of in full the funds that were available on July 3, 2015, by means
+of a Term Loan Facility with a maximum principal amount of €500 mill. The purpose of this facility was to par-
+tially finance the acquisition of Navitaire. The loan has scheduled repayments for 2019 and 2020. The Term
+Loan Facility has a margin of 0.75% over the variable interest rate of EURIBOR.
+
+On February 12, 2016, the Group has received the formal notification from the Central Administrative Court
+(TEAC) allowing the appeal presented to the TEAC in July 2015 with regard to the tax assessment signed under
+protest related to the Non-Residents Income Tax for the year 2007.
+
+Page 50
+
+
+--- Page 48 ---
+
+Amadeus IT Holding, S.A. and Subsidiaries
+
+Consolidated Annual Accounts for the year ended December 31, 2015
+(Millions of euros) aMa DEUS
+
+9 Corporate Governance Information
+
+The Annual Corporate Governance Report is part of the Directors’ Report in accordance with the Spanish Capital
+Companies Act. The aforementioned report is submitted to the CNMV separately and it can be found on the
+website www.cnmv.es.
+
+Page 51

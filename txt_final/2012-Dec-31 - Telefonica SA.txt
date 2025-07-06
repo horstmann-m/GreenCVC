@@ -1,0 +1,3756 @@
+
+
+--- Page 1 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2012 Consolidated Management Report
+
+Financial results
+
+The Telefonica Group is one of the world's leading mobile and fixed communications services providers.
+Its strategy is to become a leader in the new digital world and transform the possibilities it brings into
+reality.
+
+Against this backdrop and with the aim of reinforcing its growth story, actively participating in the digital
+world and capturing the most of the opportunities afforded by its scale and industrial alliances, in
+September 2011 a new organizational structure was approved. This new structure, which was fully
+operational in 2012, is as follows:
+
+This new organization bolsters the Telefonica Group's place in the digital world, enabling it to tap any
+growth opportunities arising in this environment, drive innovation, strengthen the product and services
+portfolio and maximize the advantages afforded by its large customer bases in an increasingly connected
+world. In addition, the creation of a Global Resources operating unit aims to ensure the profitability and
+sustainability of the business by leveraging economies of scale and driving Telefonica's transformation
+into a fully global group.
+
+Telefonica Europe's and Telefonica Latin America's objective is to shore up the results of the business and
+generate sustainable growth through available capacity, backed by the Global Corporation. The two
+differentiated segments are as follows: (i) Telefonica Europe, which now includes Telefonica Spain as well
+as the operations already forming part of the Telefonica Europe segment before; and (ii) Telefonica Latin
+America. Group's results of 2011 and 2010 have been restated to reflect this organizational structure,
+wothout any impact on consolidated figures.
+
+The Telefonica Group's growth strategy for the next few years is geared towards:
+. Improving the customer experience to continue increasing the number of accesses.
+. Promoting growth:
+
+- Boosting the penetration of smartphones in all markets to accelerate the growth of mobile data,
+unlocking the value of its increased usage.
+
+Telefonica,S.A. 199
+
+
+--- Page 2 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+- Defending the competitive position in the wireline business with a focus on broadband, offering
+faster speeds, bundled offers and full IP voice and video services.
+
+- Leveraging growth opportunities arising in an increasingly digital environment: e.g. video, OTT,
+financial services, cloud computing, eHealth and media.
+
+. Continuing efforts to transform the Group's operating model:
+
+- Increasing network capacity in the markets where we operate through technological advances
+and acquisitions of spectrum.
+
+- Accelerating the transformation primarily through the systems area.
+- Proceeding towards becoming an international digital and online service provider group.
+. Maximizing economies of scale to boost efficiency.
+
+The Telefonica Group has operations in Spain, the United Kingdom, Germany, the Czech Republic, Ireland
+and Slovakia in Europe, as well as Brazil, Mexico, several countries in Central America, Venezuela,
+Colombia, Peru, Argentina, Chile, Uruguay and Ecuador in Latin America.
+
+Telefonica has an industrial alliance with Telecom Italia, S.p.A. and a strategic alliance with China Unicom,
+in which the Group holds a 5% stake. In addition, the “Partners Program” was created in 2011 in line with
+the objective of unlocking the value of Telefonica's scale. Three operators have signed up for this program
+(Bouygues, Etisalat and Sunrise). This initiative makes a host of services available to selected operators
+under commercial terms that allow the partners to leverage on Telefénica's scale and to cooperate in key
+business areas (e.g. roaming, services to multinationals, procurement, handsets, etc.)
+
+2012 highlights
+
+The Group's total accesses rose 3.0% year-on-year, to nearly 316 million at the 2012 year end, driven by
+access growth in Latin America (5.5% year-on-year).
+
+Telefonica Latin America's revenues rose 5.5% year-on-year and 6.7% in 2012 stripping out exchange
+rate differences and hyperinflationary adjustments in Venezuela, underpinned by growth in the customer
+base. The quality of the customer base itself has also improved, with a growing weight of contract and
+smartphone customers.
+
+Mobile data revenues continued to drive growth in 2012, drawing heavily from the steep rise in non-SMS
+data revenues.
+
+OIBDA in 2012 amounted to 21,231 million euros, with reported growth of 5.1%, affected by the
+recognition of 2,671 million euros of restructuring expenses at Telefonica Spain in 2011 and the 527
+million euros write-down made by the Telefonica Group against its stake in Telefonica Ireland in 2012,
+due to the slowdown in activities in the prevailing market uncertainty.
+
+Accesses
+Thousands of accesses 2010 2011 2012 %Var10/11 %Var 11/12
+Fixed telephony accesses
+(1) (2) 41,355.7 40,119.2 40,002.6 (3.0)% (0.3)%
+Internet and data
+accesses 18,6114 19,134.2 19,402.6 2.8% 14%
+Narrowband 1,314.1 909.2 653.2 (30.8)% (28.2)%
+Broadband (3) 17,129.6 18,066.3 18,596.2 5.5% 2.9%
+Other (4) 167.8 158.7 153.1 (5.4)% (3.5)%
+Mobile Accesses (5) 220,240.5 238,748.6 = 247,269.5 8.4% 3.6%
+
+Telefonica,S.A. 200
+
+
+--- Page 3 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Prepay (6) 151,273.9 162,246.9  165,759.7 7.3% 2.2%
+Contract (7) 68,966.6 76,501.7 81,509.8 10.9% 6.5%
+
+Pay TV (8) 2,787.4 3,309.9 3,336.2 18.7% 0.8%
+Unbundled loops 2,529.2 2,928.7 3,308.8 15.8% 13.0%
+Share ULL 264.0 205.0 183.5 (22.3)% (10.5)%
+
+Full ULL 2,265.3 2,723.7 3,125.3 20.2% 14.7%
+Wholesale ADSL (9) 687.4 849.3 800.6 23.6% (5.7)%
+Other (10) 1,420.7 1,518.0 1,621.8 6.8% 6.8%
+Final Client Accesses 282,994.9 301,311.8 310,010.8 6.5% 2.9%
+Wholesale Accesses 4,637.4 5,296.0 5,731.3 14.2% 8.2%
+Total Accesses 287,632.3 306,607.8 315,742.1 6.6% 3.0%
+
+(1) PSTN (including Public Use Telephony) x1; ISDN Basic access x1; ISDN Primary access; 2/6 Access x30.
+Company's accesses for internal use included and total fixed wireless included. Includes VoIP and Naked ADSL. Since the first quarter
+of 2012, fixed telephony accesses include 384 thousand VoIP lines in Germany and 65 thousand fixed lines in UK to homogenize
+these accesses to Group's criteria.
+
+(2) It includes the reclassification in the fourth quarter of 2012 in Argentina of 157 thousand “fixed wireless” previously included in
+mobile contract accesses.
+
+(3) DSL, satellite, optic fiber, cable and broadband circuits.
+
+(4) Retail circuits other than broadband.
+
+(5) Inthe first quarter of 2012, 2.0 million inactive accesses were disconnected in Spain.
+
+(6) Inthe first quarter of 2012, 1.2 million inactive accesses were disconnected in Spain. In the third quarter of 2011 360 thousand
+inactive accesses were disconnected in Chile. In Brazil, 1.0 million inactive accesses were disconnected in the fourth quarter of 2011
+and 1.6 million inactive accesses were disconnected in the second quarter of 2012.
+
+(7) First quarter of 2012 includes the disconnection of 800 thousand inactive accesses in Spain.
+
+(8) Includes 150 thousand clients of TVA in June 2011.
+
+(9) Includes ULL rented by Telefonica Germany and Telefonica UK.
+
+(10) Circuits for other operators. Includes Wholesale Line Rental (WLR) in Spain.
+
+Telefonica,S.A. 201
+
+
+--- Page 4 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Accesses by region
+
+316
+
+307
+
+2010 2011 2012
+
+m Europe
+
+SLatam
+
+The Telefonica Group's strategy is predicated on capturing growth in its markets and especially on
+attracting high-value customers.
+
+This strategy led to a 3.0% increase in total accesses, to nearly 316 million at the 2012 year end, driven
+primarily by contract, mobile broadband and fixed broadband customers. Accesses in Telefonica Latin
+America (67% of total) were particularly noteworthy, rising 5.5% compared to the December 2011 figure,
+despite the disconnection of inactive customers in Brazil (1.6 million accesses) and the implementation of
+more restrictive criteria concerning both new connections and disconnections. Total accesses in
+Telefonica Europe dropped 1.9% year-on-year, due to the disconnection of 2.0 million inactive mobile
+accesses in Spain in the first quarter of 2012.
+
+Mobile broadband accesses stood at 52.8 million at December 2012, reflecting a solid 38% year-on-
+year increase and representing 21% of mobile accesses (up 5 p.p. year-on-year).
+
+At December 31, 2012, the Telefonica Group holds significant direct and indirect stakes (of over 5% in all
+cases) in listed telecommunications companies other than in those in which it has control. These
+companies are China Unicom and Telecom Italia, S.p.A.
+
+Telefonica,S.A. 202
+
+
+--- Page 5 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2012 Consolidated results
+
+Year ended December 31 Percent Change
+
+Results of operations 2012 2011 2010 2012 vs 2011 2011 vs 2010
+
+% of % of % of
+Millions of euros Total revenues Total revenues Total revenues Total % Total %
+Revenues 62,356 100.0% 62,837 100.0% 60,737 100.0% (481) (0.8)% 2,100 3.5%
+Other income 2,323 3.7% 2,107 3.4% 5,869 9.7% 216 10.3% (3,762) (64.1)%
+Supplies (18,074) (29.0)% (18,256) (29.1)% (17,606) (29.0)% 182 (1.0)% (650) 3.7%
+Personnel expenses (8,569) (13.7)% (11,080) (17.6)% (8,409) (13.8)% 2,511 (22.7)% (2,671) 31.8%
+Other expenses (16,805) (27.0)% (15,398) (24.5)% (14,814) (24.4)% (1,407) 9.1% (584) 3.9%
+Operating income before
+depreciation and
+amortization (OIBDA) 21,231 34.0% 20,210 32.2% 25,777 42.4% 1,021 5.1% (5,567) (21.6)%
+Depreciation and
+amortization (10,433) (16.7)% (10,146) (16.1)% (9,303) (15.3)% (287) 2.8% (843) 9.1%
+Operating income 10,798 17.3% 10,064 16.0% 16,474 27.1% 734 7.3% (6,410) (38.9)%
+Share of profit (loss) of
+associates (1,275) (2.0)% (635) —_(1.0)% 76 0.1% (640) 100.8% (711) nm.
+Net financial expense (3,659) (5.9)% (2,941) (4.7)% (2,649) (4.4)% (718) 24.4% (292) 11.0%
+Corporate income tax (1,461) (2.3)% (301) (0.5)% (3,829) (6.3)% (1,160) nm. 3,528 (92.1)%
+Profit for the year 4,403 7.1% 6,187 9.8% 10,072 16.6% (1,784) (28.8)% (3,885) (38.6)%
+Non-controlling interests (475) (0.8)% (784) (1.2)% 95 0.2% 309 (39.4)% (879) nm.
+Profit for the year
+attributable to equity
+holders of the parent 3,928 6.3% 5,403 8.6% 10,167 16.7% (1,475) (27.3)% (4,764) (46.9)%
+
+n,m: non meaningful
+
+Year ended December 31, 2012 compared with year ended December 31, 2011
+
+The year 2012 was a key year in the transformation of Telefonica. Throughout the year, a number of
+initiatives were undertaken aimed at helping the Company begin growing again. Telefonica Latin America
+surpassed Telefonica Europe in revenues for the first time, continuing to be one of the group's two main
+levers of growth, along with mobile data revenues. In Telefonica Europe, there has been a recovery in
+sales activity in certain markets owing to the success of tariffs that have been launched, especially
+“Movistar Fusion" in Spain, which reflect an improvement of its competitive position across different
+markets, even though revenues of Telefonica Europe fell 6.5% with respect to 2011.
+
+In view of the sale of the Atento Group in the fourth quarter of 2012, the results of that business area
+were deconsolidated from the Telefonica Group as from the end of November 2012. This had an impact
+on the year-on-year comparison of Telefonica's economic results in reporting terms.
+
+OIBDA was also impacted by the 527 million euros write-down the Telefonica Group made against its
+stake in Telefonica Ireland.
+
+Revenues: Revenues for 2012 stood at 62,356 million euros, which represented a decrease of 0.8% on
+the 2011 figure. This decrease was due to less favorable conditions in some markets, and the prevailing
+economic situation, in which competition is steeper and regulatory changes have had adverse impacts.
+The exchange rate differences and the effect of hyperinflation in Venezuela contributed 0.1 p.p. to
+change in revenues; when stripping out this impact, the fall was 0.9% in 2012.
+
+The Company's strong diversification continues to be a key differential for the Group in the current
+market situation, as reflected by the revenues structure. In this regard, revenues showed solid growth in
+Telefonica Latin America (up 5.5% year-on-year) and accounted for 49% of consolidated revenues (up
+
+Telefnica,S.A. 203
+
+
+--- Page 6 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2.9 p.p. compared to 2011), outperforming those of Telefonica Europe (48% of the Group's total and
+down 6.5% year-on-year). Telefonica Spain's contribution to consolidated revenues decreased to 24%.
+
+The decline in revenue compared to the year-ago figure was caused by the lower average revenue per
+access for the Group, mainly due to lower average revenue per mobile access in Spain and the UK, and the
+overall fall in average revenue per fixed access in the Group, which undermined the growth in accesses.
+Revenues were hit hard by cuts to interconnection rates, which had a drag of approximately 1.1 p.p. on
+overall revenue growth.
+
+In terms of services, mobile data revenue continued to be the largest growth driver in 2012 (up 12.8%
+year-on-year), accounting for over 34% of mobile service revenues in the period (31% in 2011). Non-SMS
+data revenue climbed 24.1% year-on-year, raising its share of total data revenue by 5 p.p. to 57%.
+
+Other income: Other income comprises the gains on disposals of assets, 782 million euros in 2012 (down
+5.0% year-on-year). In 2012, other income primarily reflects: i) sales of non-strategic towers, with an
+impact of 643 million euros on Other income (and OIBDA), primarily in Brazil, Mexico, Chile, Spain and
+Peru; ii) the sale of software applications (gains of 39 million euros; 18 million euros recognized in
+Telefonica Spain); and iii) the fourth-quarter sales of the Atento Group (gains of 61 million euros), Rumbo
+(gains of 27 million euros) and Hispasat (partial sale, gains of 26 million euros). In 2011, this caption
+mainly reflected: i) the positive impact derived from the partial reduction of the Group's economic
+exposure in Portugal Telecom (184 million euros); and ii) the sale of non-strategic towers (541 million
+euros).
+
+Total expenses, which include supplies, personnel expenses and other expenses (mainly external
+services and taxes other than corporate income tax) stood at 43,448 million euros, down 2.9% on the
+2011 figure. These expenses were affected by exchange rate differences and hyperinflation adjustments
+(0.3 p.p.); when stripping out this impact, expenses were down 3.2%. The year-on-year variation reported
+is also affected by the provision for restructuring expenses in Spain, made in the third quarter of 2011
+(2,671 million euros). The year-on-year reduction in expenses is primarily explained by the absence of
+similar restructuring charges in 2012 and lower commercial expenditure, especially in Spain, as a result of
+anew commercial model in place from the end of 2011.
+
+* Supply costs amounted to 18,074 million euros in 2012, down 1.0% on 2011, reflecting the
+lower mobile interconnection costs and lower handset consumption in Spain resulting from the
+new policy doing away with subsidies and the lower volume of handset upgrades.
+
+¢ Personnel expenses were 8,569 million euros, down 22.7% on 2011. The year-on-year variation
+was affected by the provision for personnel restructuring in Spain, mentioned above. When
+stripping out the impact of this provision, which amounted to 2,671 million euros, personnel
+expenses were 1.9% higher than in 2011, reflecting the adjustments for inflation in certain Latin
+American countries.
+
+The average headcount was 272,598 employees, 13,547 less than the 2011 average. The
+decrease mainly reflects the sale of Atento in the fourth quarter of 2012. When stripping out the
+Atento business, Telefénica's average headcount was 131,468 employees, 2,480 less than in
+2011.
+
+* Other expenses rose 9.1% year-on-year to 16,805 million euros. This increase was primarily
+driven by the increase in external services caused by higher customer service costs, and network
+and systems costs as well as the 527 million euros write-down of the Telefonica Group made
+against its stake in Telefonica Ireland and by the capital loss (97 million euros) generated on the
+sale of China Unicom shares.
+
+OIBDA stood at 21,231 million euros, up 5.1% from 2011. When stripping out the negative impact of
+exchange rate differences and hyperinflationary adjustments (0.3 p.p.), OIBDA grew by 5.4%. The OIBDA
+
+Telefonica,S.A. 204
+
+
+--- Page 7 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+margin for 2012 was 34.0%, posting a year-on-year erosion of revenues that was not offset by cost
+savings.
+
+In terms of geographic segments, Telefonica Latin America had the largest contribution to consolidated
+OIBDA (52.3%, down 1.6 p.p. compared to December 2011). Telefonica Europe accounts for less than
+50%.
+
+Depreciation and amortization rose by 2.8% year-on-year, to 10,433 million euros. This variation was
+primarily due to amortization of new spectrum licenses acquired in Germany, Brazil, Colombia, Mexico
+and Venezuela, and to the overall increase in fixed assets. Total depreciation and amortization charges
+derived from purchase price allocation processes stood at 962 million euros in 2012 (down 14.1% year-
+on-year).
+
+Operating income in 2012 amounted to 10,798 million euros, a reported increase of 7.3%, helped by a
+5.1% increase in OIBDA and hurt partially by a 2.8% increase in depreciation and amortization.
+
+The share of profit (loss) of associates in 2012 reflects a loss of 1,275 million euros (vs. a loss of 635
+million euros in 2011), primarily due to the write-down of Telco, S.p.A.'s investment in Telecom Italia and
+the recovery of all the operating synergies considered at the time of this investment, with a net impact of
+-1,355 million euros in 2012 and -662 million euros in 2011.
+
+Net financial expense in 2012 totaled 3,659 million euros, 24.4% more than in 2011. This increase is
+due to two effects: first, an increase in average cost of net debt primarily due to the increase in average
+net debt (up 3.3% to a total of 58,187 million euros), the rise in credit spreads and the need to enhance
+liquidity (with very low returns compared to the cost of the debt) as a result of the financial market crises;
+and, secondly, to the increase in net exchange differences caused by the decline in estimated value of the
+Venezuelan bolivar. In spite of the increase in credit costs, the Group's average cost of gross financial debt
+held steady at 4.7%. Stripping out net exchange rate differences, such expenses implied an average cost
+of net debt of 5.37% in 2012.
+
+Corporate income tax in 2012 amounted to 1,461 million euros, implying an effect tax rate of 24.9%
+over the 5,864 million euros of profit before tax, lower than statutory rates, mainly due to the recognition
+of tax credits in several countries.
+
+Profit attributable to non-controlling interests reduced net profit by 475 million euros in 2012, and
+primarily reflects the share of Telefonica Brazil, Telefonica Czech Republic and Telefénica Germany's
+profits attributable to non-controlling interests. The year-on-year variation (a decrease of 39.5%) was
+due to reversal in the fourth quarter of 2011 of deferred tax liabilities recognized on the Vivo purchase
+price allocation (1,288 million euros) as a result of the change in the tax value of certain assets acquired.
+
+In all, the consolidated profit of 2012 amounted to 3,928 million euros (down 27.3% year on year).
+
+Year ended December 31, 2011 compared with year ended December 31, 2010
+
+Consolidated results in 2011 reflect the impact of consolidation of 100% of Vivo since October 1, 2010
+(50% prior to that date).
+
+Revenues: Revenues rose 3.5% in 2011, to 62,837 million euros. The full consolidation of Vivo had an
+impact of 2,396 million euros. Exchange rates and the impact of hyperinflation in Venezuela subtracted -
+0.7 p.p. from revenue growth in the year. Excluding both impacts, revenues are in line with those of the
+prior year, with Latin America as the region with the highest contribution to revenues (46%) as well as to
+its growth.
+
+Overall revenue growth was driven by the growth of accesses, as average revenue per access for the
+Group declined due to decreases in average revenue per mobile access in Europe and widespread
+
+Telefonica,S.A. 205
+
+
+--- Page 8 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+decreases in the fixed line voice business. Excluding the impact of declines in interconnection tariffs,
+revenue growth was slightly more than 1 p.p. higher.
+
+Other income: Other income totaled 2,107 million euros and reflects gains on disposals of non-strategic
+assets in the year, mainly in Latin America, in the amount of 541 million euros, and the positive impact
+derived from the partial reduction of the Group's economic exposure from its stake in Portugal Telecom
+(184 million euros). The variation in other income compared to 2010 is primarily due to the 2010
+recognition of a capital gain of 3,797 million euros arising from the remeasurement of the previously held
+investment in Brasilcel. Other income in 2010 also reflects gains on disposals of non-strategic assets and
+the sale of Manx, for 260 million euros and 61 million euros, respectively. Other income in 2011 also
+reflects the impact of lower ancillary income.
+
+Total expenses, which include supplies, personnel expenses and other expenses (mainly external
+services and taxes other than corporate income tax), were 44,734 million euros in 2011, up 9.6%
+compared to 2010. The increase reflects the impact of full consolidation of Vivo from October 2010,
+which amounted to 1,574 million euros, and the increase in personnel expenses due to the recognition in
+2011 of 2,671 million euros of restructuring costs related to the labor force reduction plan approved by
+the Group in Spain. In 2010, personnel expenses included 658 million euros of costs from the
+restructuring of workforces of several Group companies. Also in 2010, 400 million euros of firm
+commitments were recognized in relation to Telefonica Foundation's social program.
+
+Excluding the aforementioned effects, total expenses slightly exceeded revenue growth due to:
+
+* Supply and external services related to stronger commercial activity following the increasing
+adoption of smartphones in all regions, which implies higher handset costs in Latin America due to
+greater levels of commercial activity and to higher spending on 3G network deployment. However,
+total supplies were offset by lower mobile interconnection expenses.
+
+¢ Personnel expenses related to the increased headcount levels in Brazil and wage growth linked to
+higher inflation in some of the region's markets.
+
+¢ Increase in other expenses caused by higher customer service costs, higher commercial expenses
+due to increased commercial activity and higher spending on 3G network deployment.
+
+As a result of the above, OIBDA in 2011 decreased approximately 22% to 20,210 million euros from
+25,777 million euros in 2010.
+
+Depreciation and amortization increased by 9.1% in 2011, reflecting both the full consolidation of Vivo
+and the amortization of assets in Vivo's purchase price allocation (336 million euros in 2011 compared to
+84 million euros in 2010).
+
+Operating income fell by approximately 39% to 10,064 million euros in 2011 from 16,474 million euros
+in 2010. Excluding foreign exchange rate effects and the consideration of Venezuela as a
+hyperinflationary economy, operating income would have decreased by 38% in the year.
+
+The share of profit (loss) of associates reflects a loss of 635 million euros in 2011, compared to a profit
+of 76 million euros in 2010. The variation is due to the impact of the valuation adjustment made by Telco,
+S.p.A. to its stake in Telecom Italia, coupled with the impact of operational synergies considered in the
+investment made in this company and the deconsolidation of Portugal Telecom.
+
+Net financial expenses for 2011 increased by 11% year-on-year to 2,941 million euros, primarily a
+result of the 13% rise in average financial debt, to a total of 56,351 million euros. This implied an average
+cost of debt of 5.22% which, adjusting for exchange rate differences, fell to below 5% (4.91%). Net
+financial debt increased by 711 million euros in the year to 56,304 million euros at December 31, 2011.
+Foreign exchange gains and losses for the year ended December 31, 2011 increased financial expenses
+by 29 million euros.
+
+Telefonica,S.A. 206
+
+
+--- Page 9 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Corporate income tax in 2011 totaled 301 million euros (3,829 million euros in 2010), on a profit before
+tax of 6,488 million euros. In 2011, deferred tax liabilities recognized in the Vivo purchase price allocation
+of 1,288 million euros (952 million euros in profit for the year attributable to equity holders of the parent)
+were reversed as a result of the change in the tax value of certain assets upon the merger of Telesp and
+Vivo in October 2011, as they became tax deductible under Brazilian tax regulations.
+
+Profit attributable to non-controlling interests reduced net profit by 784 million euros in 2011. This was
+mainly due to non-controlling interests’ share in the profits of Telefonica Brazil (864 million euros), which
+was affected by the exchange of Telesp shares for Vivo Participacgoes, and Telefonica Czech Republic
+shares (95 million euros). These impacts more than offset the non-controlling interests’ share of losses of
+Telefonica Telecom in Colombia.
+
+As a result of all of the factors noted above, consolidated net profit for 2011 declined 46.9% to 5,403
+million euros compared with 10,167 million euros in 2010.
+
+Segment results
+
+Some of the figures in the table below are compared at a constant exchange rate in order to analyse
+yearly performance excluding the effect of exchange rate variation. For Financial Results comparison has
+been made using previous year average exchange rate to convert the figure. In these cases a comment of
+“excluding foreign exchange rate effect" has been indicated.
+
+Some figures have been compared in local currency, taking the financial magnitudes in the relevant local
+currency as they were registered in the corresponding periods.
+
+Var 10/11 Var 11/12
+Millions of euros 2010 %Total 2011 %Total 2012 %Total Reported Ex fx(*) Reported Ex fx (*)
+Revenues 60,737 62,837 62,356 3.5% 4.2% — (0.8)% (0.9)%
+Telefonica Europe 33,726 55.5% 32,066 51.0% 29,995 48.1% —(4.9)% (4.8)% —_(6.5)% (7.8)%
+Telefonica Latin America 25,476 41.9% 28,941 46.1% 30,520 48.9% 13.6% 15.2% 5.5% 6.7%
+OIBDA 25,777 20,210 21,231 (21.6)%(21.2)% 5.1% 5.4%
+Telefonica Europe 12,541 48.7% 9,278 45.9% 10,244 48.3% — (26.0)% (26.1)% 10.4% 9.5%
+Telefonica Latin America 13,630 52.9% 10,890 53.9% 11,103 52.3% —_(20.1)% (19.3)% 2.0% 3.1%
+OIBDA Margin 42.4% 32.2% 34.0%
+
+Telefonica Europe 37.2% 28.9% 34.2%
+
+Telefonica Latin America 53.5% 37.6% 36.4%
+
+Operating income 16,474 10,064 10,798 (38.9)%(38.1)% 7.3% 8.8%
+Telefonica Europe 7,455 45.3% 4,197 41.7% 5,233 48.5% — (43.7)% (43.8)% 24.7% 23.9%
+Telefonica Latin America _ 9,686 58.8% 6,120 60.8% 6,015 55.7% _(36.8)% (35.3)% —(1.7)% 0.7%
+Net income 10,167 5,403 3,928
+
+(*) Excluding foreign exchange rate effects and the consideration of Venezuela being considered a hyperinflationary economy
+
+Telefonica,S.A. 207
+
+
+--- Page 10 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+Revenues and OIBDA Contribution by Country
+
+We include below some charts showing the Revenues and OIBDA contribution by main countries, and
+segments, to total Consolidated Group Revenues and OIBDA for 2010, 2011 and 2012. By way of
+explanation, Telefonica Spain revenues in 2012 contribute by 24.0% to total Group revenues in 2012
+(that are 100%).
+
+Revenues 2010 Revenues 2011 Revenues 2012
+Telefonica Europe
+TSpain 30.8% 21.5% 24.0%
+United Kingdom 11.9% 110% 113%
+Germany 7.9% 80% 8%.
+Czech Republic 3.4% 3.2% 2.9%
+Slovakia 0.2% 0.3% 0.3%
+hreland 1.496 1.2% 1.0%
+Total 55.5% 51.0% 48.1%
+
+Telefonica Latam
+
+Brazil 18.3% 22.8%
+
+218% ||
+2.6% |
+5.4% | |
+2.8% |
+3.8% I
+som
+wae
+
+3.0% |
+
+Venezuela 3.8%
+Colombia 2.5% 25%
+Peru 3.2% 3.2%
+
+Argentina 5.1% 5.1%
+
+a
+vec 20% | 25%
+|
+|
+|
+I
+I
+
+chile 3.6%
+
+Total ase 46.1%
+
+Fil.» Rest.+Ell 25% | 2.9%
+
+3.7%
+
+Telefonica,S.A. 208
+
+
+--- Page 11 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+OIBDA 2010 OIBDA 2011 OIBDA 2012
+
+Telefonica Europe
+TSpain 33.1% 25.2% 32.2%
+United Kingdom
+
+Germany
+
+Czech Republic
+
+Slovakia 0.0% 0.2% 0.3%
+ireland 11% 1.0% 0.6%
+Total 48.7% 45.9% 48.2%
+
+Telefonica Latam
+
+Brazil 15.7% | 262% 2.0%
+
+Mexico 2.4% | 20% | 20% |
+
+Venezuela 42% | 5.8% | i
+
+Colombia 1 | 2.7% | I
+
+Peru 22% | 3.7%
+
+nd ee
+
+Chile 4.2% | 5.1% I 49% I
+
+Total 52.9% | | 30% 322%
+Fil.+ Rest. Eli. “15% | 0.2% | 0.5% |
+
+As the preceding charts show, the Telefonica Group has high geographic diversification, with Telefonica
+Europe (including Spain) and Telefonica Latin America showing similar shares in 2012. Spain and Brazil
+are the largest single contributors to OIBDA in the Group, and also to revenues , followed by the UK,
+Germany, Venezuela, Argentina and Chile. Together, these countries accounted for 87% of OIBDA and
+81% of Group revenue in 2012 (83% of OIBDA and 82% of revenue in 2011 and 72% of OIBDA and 81%
+of revenue in 2010, respectively), and are therefore those on which our discussion of segment results is
+focused
+
+Contribution to growth by country
+
+(Excludes the effects of exchange reates and hyperinflation in Venezuela)
+
+In the charts included below, we disclose the contribution to growth by country and segment excluding
+the effects of exchange rates and hyperinflation in Venezuela. It is the contribution to consolidated
+growth of Revenues and OIBDA of main countries and segments, for 2011 and 2012. By way of
+explanation the negative 3.7% of Telefénica Spain in 2012 means that Telefonica Spain's drop in
+revenues caused a -3.7 p.p. decrease in total consolidated revenues in 2012, and the addition of all
+countries’ contribution shown in the graph equals total group revenues drop in 2012 (-0.9% excluding the
+impact of exchange rates).
+
+Telefonica,S.A. 209
+
+
+--- Page 12 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Contributions
+
+Revenues 2011 Revenues 2012
+Telefonica Europe
+TSpain 24% 37%
+United Kingdom 0.3% 0.5% H
+Germany 0.3% 0%
+Czech Republic 0.3% 0.2%
+Slovakia 0.1% 0.1% |
+roland 0.2% 0.2% i
+Tot 2.7% i 40%
+Telefonica Latam Growth Ex Fx Growth Ex Fx.
+
+Brazil 5.3% 4.2% 0.5% 0.9%
+
+Venezuela 0.4% 10% ‘Actual Growth
+
+3.5% 0.0%
+
+Colombia 0.1% 0.8%
+Pen 0.2% 0.2%
+
+Argentina 0.7% Exchange Impact 0.9% Exchange Impact
+
+| 0.1
+
+Tot
+
+6.3%
+
+Le
+
+I
+
+|
+
+|
+
+|
+
+Chile 0.2% | -0.7 0.1%
+
+|
+
+I
+
+Fil.» Rest.+Eli 0.5% 0.1%
+
+OIBDA 2011 OIBDA 2012
+Telefonica Europe
+TSpain 133% 87%
+United kingdom 0.1% “17%
+Germany 11% 0.7%
+Czech Republic 0.3% 0.5%
+Slovakia 0.1% 0.1%
+ireland 0.3% 0.4%
+Total +12.7% Growth ExFx. 4.4%
+Telefonica Latam “21.2%
+Brazil 4.9% | | 1.3% I
+Mexico 0.1% | ee |
+|
+Venezuela 0.2% | Actual Growth 15% | Actual Grow
+Colombia 0.3% | -21.6% 0.0% | 5.1%
+Pew 0.2% | | 03% |
+Argentina 0.5% | Exchange Impact 0.0% |
+chile 0.2% | 0.4 cum |
+Taal so.» Zi an |
+Fil.* Rest. +Eli, 1.7% I 0.7% I
+
+Telefonica,S.A. 210
+
+
+--- Page 13 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Segment Outlook
+
+TELEFONICA LATIN AMERICA
+
+Accesses
+
+Thousands of accesses 2010 2011 2012 %Var 10/11 %Var 11/12
+Fixed telephony accesses (1) 24,403.6 23,960.7 24,153.3 (1.8)% 0.8%
+Internet and data accesses 7,679.1 8,244.2 8,732.5 T4% 5.9%
+Narrowband 577.9 304.6 209.1 (47.3)% (31.4)%
+Broadband (2) 6,983.2 7,828.9 8,415.3 12.1% 7.5%
+Other (3) 118.0 110.6 108.0 (6.3)% (2.3)%
+Mobile accesses 149,255.4 166,297.9  176,595.4 11.4% 6.2%
+Prepay 119,359.1 131,087.2  137,141.5 9.8% 46%
+Contract 29,896.3 35,210.7 39,453.9 17.8% 12.1%
+Pay TV (4) 1,792.7 2,257.7 2,426.8 25.9% 7.5%
+Final Clients Accesses 183,130.8 200,760.5 211,908.0 9.6% 5.6%
+Wholesale Accesses 55.9 50.9 47.0 (9.0)% (7.5)%
+Total Accesses 183,186.7 200,811.3  211,955.1 9.6% 5.5%
+Terra Accesses 556.1 641.7 604.7 15.4% (5.8)%
+
+Total Latin America
+Accesses 183,742.8 201,453.0 212,559.8 9.6% 5.5%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+(3) Remaining retail circuits other than broadband
+
+(4) Includes 150 thousand TVA customers as from June 2011.
+
+Evolution of competitive position
+Mobile Market Share (1)
+
+Telefonica Latin America 2010 2011 2012
+Brazil 29.7% 29.5% 29.1%
+Argentina 31.0% 29.8% 29.7%
+Chile 414% 39.1% 38.8%
+Peru 63.4% 61.4% 60.0%
+Colombia 22.4% 22.4% 21.6%
+Venezuela 32.7% 32.7% 32.9%
+Mexico 21.5% 20.9% 19.2%
+Central America na. 27.9% 29.7%
+Ecuador 28.2% 28.4% 29.3%
+Uruguay 38.5% 38.0% 37.4%
+
+n.a. : not available.
+
+(1) _ Internal estimates. (% of estimated market accesses)
+
+Telefonica,S.A. 211
+
+
+--- Page 14 ---
+
+SFelefonica 2012 Consolidated Financial Statements
+
+Evolution of competitive position
+
+Share of ADSL (1)
+Telefonica Latin America 2010 2011 2012
+Brazil 24.8% 21.9% 18.8%
+Argentina 31.9% 31.1% 30.9%
+Chile 45.5% 43.0% 41.2%
+Peru 91.2% 90.1% 90.1%
+Colombia 20.8% 18.1% 18.1%
+
+(1) Internal estimates
+
+Key trends in the mobile business
+
+* Mobile accesses stood at 176.6 million, up 6.2% year-on-year, despite the disconnection of 1.6
+million inactive pre-pay accesses in Brazil and the implementation of more restrictive criteria
+concerning both new connections and disconnections in several countries in the region.
+
+* Mobile broadband accesses soared 67.5% (down from 114% in 2011), representing 15% of the
+region's total accesses, helping drive overall growth in revenues.
+
+* The contract customer base grew 12.1% year-on-year and represented 22% of the total mobile
+accesses in Latin America, in line with the growth strategy laid down for the region.
+
+* Traffic in Telefonica Latin America grew 16% from 2011 to 2012, outperforming the growth of
+accesses.
+
+* — ARPU fell slightly (-0.2% year-on-year) despite the significant negative impact derived from the
+reduction of mobile termination rates. Outgoing ARPU increased by 3.1% year-on-year reflecting
+the Company's focus on maximizing customer value.
+
+* Both OIBDA and the OIBDA margin for both years reflect the sale of non-strategic towers: 583 million
+euros in 2012, and 541 million euros in 2011. The increase in expenses more than offset this impact.
+
+Key trends in the fixed line business
+
+* Broadband accesses grew 7.5% year-on-year, to 8.4 million, with a net addition of 586 thousand in
+2012.
+
+* Pay TV accesses were up 7.5% in 2012, to 2.4 million, with a net add of 169 thousand accesses in the
+year.
+
+* — Accesses in the fixed telephony business stood at 24.2 million, for year-on-year growth of 0.8%. This
+increase primarily derives from the launch of convergent service offers and the rise in market share in
+this service, thanks to "fixed wireless" technology.
+
+Results
+
+Millions of euros Var 10/11 Var 11/12
+Telefénica Latin America 2010 2011 2012 Reported Ex fx Reported Ex fx
+Revenues 25,476 28,941 30,520 13.6% 15.2% 5.5% 6.7%
+OIBDA 13,630 10,890 11,103 (20.1)% (19.3)% 2.0% 3.1%
+OIBDA Margin 53.5% 37.6% 36.4% (15,9 p.p) - (1.3) -
+Depreciation and amortization (3,944) (4,770) (5,088) 209% 19.0% 6.7% 6.3%
+Operating Income 9,686 6,120 6,015 (36.8)% (35.3)% (1.7)% 0.7%
+
+8
+
+Telefonica,S.A. 2
+
+
+--- Page 15 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2012 results
+
+Telefonica Latin America represented 49% of consolidated revenue (up 2.9 p.p. compared to 2011) and
+52.3% of consolidated OIBDA (a 1.6 p.p. decrease compared to 2011). The segment contributed 3.1 p.p.
+to the year-on-year variation in the Group's revenues stripping out the impact of exchange rates, mainly
+due to Venezuela's, Argentina's and Brazil's contribution.
+
+* Telefonica Latin America reported a 5.5% year-on-year increase in revenue to 30,520 million euros
+in 2012, despite the negative impact (-1.2 p.p.) of exchange rate differences and hyperinflationary
+adjustments in Venezuela. These figures reflect the strong mobile service revenues generated in the
+year 2012 (up 11.4%), despite the negative impact of regulations.
+
+The mobile broadband business posted a 24.1% rise in mobile data revenues compared to 2011,
+accounting for 29% of mobile services revenues (up 3 p.p. year-on-year). The increase in connectivity
+revenues underpinned growth in non-SMS data revenues (up 32.9% in the year, accounting for 57%
+of data revenues, up 4 p.p. year-on-year).
+
+Revenues from handset sales increased by 17.9% to 1,661.4 million euros.
+
+Brazil has shored up its role as the main regional market, accounting for 45% of the region's revenues
+in 2012.
+
+Revenue in the fixed line business was hit by the drop in fixed lines, which outweighed the growth in
+broadband and TV, with lower ARPUs due to intense commercial activity.
+
+¢ Total expenses in 2012 were 20,577 million euros, an increase of 6.8%. Exchange rate differences
+and hyperinflation had an impact on total expenses of 322 million euros. Stripping out this impact,
+the increase would have been 8.2%.
+
+Expenses for supplies were 7,670 million euros, up 2.8%, due mainly to increased demand
+for terminals related to the larger share of Smartphone sale, to higher content, digital and
+data services costs and higher site lease costs for the deployment of towers and due to our
+sale and leaseback of certain towers.
+
+Personnel expenses rose 13.5% to 2,908 million euros, driven mostly by increases in
+certain countries in the area with high inflation.
+
+Other expenses rose 8.3% year-on-year to 9,999 million euros, driven by larger growth in
+commercial activity and increased spending on customer services.
+
+¢  OIBDA was 11,103 million euros in 2012, for reported year-on-year growth of 2.0% (up 1.1 p.p. when
+stripping out the effect of exchange rate differences and hyperinflation in Venezuela). The OIBDA
+margin was 36.4% for the year, down 1.3 p.p. compared to 2011.
+
+* Both OIBDA and the OIBDA margin for 2011 and 2012 reflect the sale of non-strategic
+towers: 583 million euros in 2012, and 541 million euros in 2011.
+
+* — In 2012 a number of factors (integration expenses, brand changes and reversal of provisions
+in Brazil, service interruptions in Argentina, retroactive impact of the new Venezuela labor
+law, etc.) brought OIBDA down by 42 million euros.
+
+* Following a contractual change in the handset sales model in Chile, as from the fourth
+quarter of 2012, OIBDA is affected by the new accounting treatment given for revenues and
+expenses formerly linked to a mobile handset sales model involving lease without charge,
+with a negative impact of 22 million euros in the fourth quarter of 2012.
+
+Telefonica,S.A. 213
+
+
+--- Page 16 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2011 results
+
+Telefonica Latin America represented 46% of consolidated revenue and 54% of consolidated OIBDA in
+2011. It was also the largest contributor (6.3 p.p.) to revenue growth in the year. At the OIBDA level, the
+contribution declined 10.2 p.p. due to the recognition of 3,797 million euros in 2010, derived from the re-
+measurement of our previously held investment in VIVO at its fair value at the date of our acquisition of
+the 50% of Brasilcel held by Portugal Telecom.
+
+¢ Telefonica Latin America reported a 13.6% increase in revenue in 2011, to 28,941 million euros,
+despite the negative impact (-1.6 p.p.) of exchange rate differences and hyperinflation in Venezuela.
+Results for this region are also impacted by the full consolidation of Vivo since October 2010. When
+excluding Mexico, which was affected by the performance of pre-pay revenues and the sharp
+reduction in mobile termination rates, revenue growth was strong in the region. As shown herein, the
+growth in the mobile business was driven by significant increases in both the customer base and
+mobile ARPU in virtually all countries. Revenue in the fixed line business was hit by the drop in fixed
+lines, which outweighed the growth in broadband and TV, with lower ARPUs due to significant
+competitive pressures.
+
+Finally, revenue trends indicate higher growth in mobile service revenues due to the Group's efforts
+to boost commercial activity (e.g. increased spending by content and service providers, increased
+cost of high-end handsets, etc.) in a bid to tap the growth potential of the market despite the
+negative short-term impact on commercial expenses.
+
+Brazil represented 49% of total revenue in Latin America in 2011, reinforcing its status as the
+region's leading market and the main driver of Telefonica's organic revenue growth in Latin America.
+
+¢ Total expenses amounted to 19,258 million euros, 15% higher than in 2010. In 2010, total expenses
+were 16,677 million euros, although this would increase by 1,638 million euros if we added 50% of
+VIVO from January to September for purposes of comparison with 2011.
+
+In addition, 2010 included one-off costs from the restructuring of workforces of 410 million euros.
+Foreign exchange rates and hyperinflation contributed 261 million euros to total expenses. Like-for-
+like (i.e. stripping out these impacts), total expenses increased by 5.8%. The increase compared to
+2010 was mainly the result of increased commercial activity than in the same period a year earlier,
+aimed at boosting the Company's future revenue growth.
+
+Expenses in supplies rose in line with market trends, driven by growth of the new businesses,
+higher expenditure on content providers, circuits, sites and tower sales; and handsets costs, due
+to the growing weight of high-end handsets, such as smartphones.
+
+Personnel expenses rose as the result of the internalization of contractors in Brazil and higher
+inflation in some Latin American economies.
+
+The increase in other expenses was due to efforts to maintain high quality and customer
+service, which leads to larger fees and commissions, higher network and systems costs, larger
+energy costs related to both new sites and network deployment.
+
+*  OIBDA for Telefonica Latin America fell 20.1% in 2011 to 10,890 million euros, affected by:
+
+¢ The consolidation of the remaining 50% of Vivo, which would have added nearly 900 million
+euros had this taken place at the beginning of 2010.
+
+¢ Foreign exchange rates and hyperinflation in Venezuela, which reduced OIBDA in Latin America
+by 128 million euros.
+
+Telefnica,S.A. 214
+
+
+--- Page 17 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+¢ The recognition in 2010 of a 3,797 million euros gain deriving from the remeasurement of the
+previously held investment in Vivo at its fair value at the date of our acquisition of the 50% of
+Brasilcel previously held by Portugal Telecom.
+
+¢ The recognition in 2010 of non-recurring restructuring charges of 410 million euros.
+
+Excluding these effects, OIBDA for Telefonica Latin America was virtually flat in 2011, as revenue
+growth was offset by the increased commercial activity (larger share of high-end handsets), and
+efforts to enhance quality —affecting network and system costs- and customer service.
+
+BRAZIL
+Accesses
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+Fixed telephony accesses (1) 11,292.6 10,977.4 10,642.7 (2.8)% (3.0)%
+Internet and data accesses 3,848.2 3,942.6 3,964.3 2.5% 0.6%
+Narrowband 446.2 214.5 137.9 (51.9)% (35.7)%
+Broadband (2) 3,319.2 3,648.0 3,748.4 9.9% 2.8%
+Other (3) 82.8 80.0 78.1 (3.3)% (2.5)%
+Mobile accesses 60,292.5 71,553.6 76,137.3 18.7% 6.4%
+Pre-Pay 47,658.6 55,438.1 57,335.1 16.3% 3.4%
+Contract 12,633.9 16,115.5 18,802.2 27.6% 16.7%
+Pay TV (4) 486.3 698.6 601.2 43.7% (13.9)%
+Final Clients Accesses 75,919.6 87,172.1 91,345.4 14.8% 4.8%
+Wholesale Accesses 33.9 28.0 24.4 (17.3)% (13.0)%
+Total Accesses 75,953.5 87,200.1  91,369.8 14.8% 4.8%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+(3) Remaining retail circuits other than broadband
+
+(4) Includes 150 thousand TVA customers as from June 2011.
+
+The Brazilian telecommunications market continues to grow, particularly in mobile and broadband data.
+In this setting, the company's operations in Brazil performed well. We continue to hold leading market
+positions in terms of mobile accesses and revenues based on internal estimates, although the share of
+fixed broadband accesses has eroded due to aggressive commercial efforts by competitors.
+
+During the year, several new sales efforts were launched in the mobile segment, continually repositioning
+consumer plans in order to boost the market share in data services and voice traffic, as well as in the fixed
+business, rolling out convergent services and developing fixed wireless technology outside Sao Paulo.
+This technology is currently in place in the country's main metropolitan regions. In the television
+segment, the company launched the IPTV pay TV service in October and the OTT "Vivo Play" service (on
+demand video) in December 2012. The company also rolled out a 200 Mb fixed broadband offer through
+the fiber network, a notable market milestone.
+
+Telefonica,S.A. 215
+
+
+--- Page 18 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Results
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+Brazil 2010 2011 2012 € Currency € Currency
+Revenues 11,119 14,326 13,618 288% 28.7% (4.9)% 2.3%
+Wireless Business 4,959 8,437 8,573 n.c. n.c. 1.6% 9.4%
+Service revenues 4,649 8,014 8,167 n.c. nc. 1.9% 9.7%
+Wireline Business 6,843 5,890 5,045 n.c. nc. (14.4)%  (7.8)%
+OIBDA 4,074 5,302 5,161 30.2% 30.0% (2.7)% 48%
+OIBDA Margin 36.6% 37.0% 37.9% O4pp. O4pp. O9pp. 0.9 p.p.
+Capex 1,797 2,468 2444 37.4% 37.2% —(1.0)% 6.6%
+OpCF (OIBDA - Capex) 2,277 2,834 2,717 245% 24.3% (4.1)% 3.2%
+
+n.c.”:not comparable
+
+2012 results
+
+* Revenues amounted to 13,618 million euros in 2012, for year-on-year growth of 2.3% in local
+currency. Revenues from the mobile business came in at 8,573 million euros for the year, up 9.4% in
+local currency compared to 2011, where service revenues close at 9.7% in local currency compared
+to 2011 thanks to the good evolution of the outgoing revenues boosted by the average customer
+base growth and the growing weight in data revenues. This is partially offset by the incoming
+revenue fall (and consequent ARPU decrease) affected by the negative impact of the lower mobile
+termination rates. Additionally, our customer base in Brazil suffered a drop due to the disconnection
+in the second quarter of 1.6 million inactive prepay mobile accesses in Brazil.
+
+Brazil - Mobile
+% Var Local % Var Local
+
+Currency Currency
+
+2010 2011 2012 10/11 11/12
+
+Traffic (million minutes) 77,463 92,081 113,955 nc. 27.4%
+ARPU (euros) 11.0 10.2 8.9 n.c. (6.4) %
+
+n.c.": not comparable
+
+The fixed business reported revenues of 5,045 million euros, down 7.8% in local currency due to lower
+retail fixed-mobile rates and to steep competition in the fixed broadband and pay TV businesses.
+
+¢  OIBDA stood at 5,161 million euros in 2012, up 4.8% in local currency driven by mobile revenues
+growth, offset by fixed voice revenues drop as well as expenses growth due to higher personnel costs
+coming from the internalization of contractors and workforce restructuring expenses and the
+increase of external services costs, associated to a higher commercial activity. On the other hand,
+OIBDA was positively affected by the recognition of 445 million euros in other income derived from
+the sale of non-strategic assets, compared to 187 million euros in 2011. The overall OIBDA margin
+was 37.9%, a0.9 p.p. improvement on 2012.
+
+2011 results
+
+* Revenues: Revenues trends were impacted by a number of factors:
+
+Telefnica,S.A. 216
+
+
+--- Page 19 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+* — The consolidation of the additional 50% of Vivo since October 2010, which affected period-to-
+period comparisons.
+
+¢ — The full consolidation of TVA from June 2011, with retroactive effects from January 1, 2011. TVA
+contributed 81 million euros to revenue and 22 million euros to OIBDA in 2011.
+
+In addition, following the transfer of the long-distance license from Telesp to Vivo in the last quarter
+of 2011, long-distance revenues were reclassified such that long-distance revenues arising in the
+mobile network are attributed to the mobile business and those from the fixed network to the fixed
+line business, and shown net of eliminations. This has no impact at the consolidated level, but affects
+the year-on-year comparability of the mobile and fixed line businesses.
+
+Like-for-like mobile service revenues (i.e. including the impacts in both years) were 10.6% higher in
+2011, in line with the growth in our customer base, with ARPU falling 3.6% due to aggressive
+commercial activity in the region. Data business revenues, representing 24% of service revenues,
+reflected a solid performance and became a key driver of the company's future growth.
+
+In the fixed line business, revenue adjusted, reduced by the transfer of the long-distance license,
+decreased by 1.4% in local currency. Growth in broadband (11% in local currency) and TV (45% in
+local currency, but not comparable due to the addition of TVA) was insufficient to offset the decline
+in the traditional voice business, mainly because of the loss of open lines (not bundled or pre-pay or
+controlled usage).
+
+OIBDA: OIBDA in Brazil amounted to 5,302 million euros in 2011, and, as with revenues, is not
+comparable to prior year results due to the impact of consolidation of the additional 50% stake in
+Vivo since October 2010. The contribution to OIBDA in the first nine months of 2010 would be
+approximately 900 million euros. Excluding this impact and the 60 million euros recognized in 2010
+for workforce restructuring expenses, the OIBDA margin would be similar in 2011 and 2010. OIBDA
+also includes proceeds from the disposal of non-strategic assets of 186 million euros in 2011 and 117
+million euros in 2010.
+
+ARGENTINA
+Accesses
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+Fixed telephony accesses (1) 4,621.5 4,611.0 4,762.4 (0.2)% 3.3%
+Fixed wireless 35.5 38.2 234.6 7.6% 514.1%
+Internet and data accesses 1,505.4 1,630.7 1,755.5 8.3% 7.7%
+Narrowband 65.7 35.7 19.3 (45.7)% (46.0) %
+Broadband (2) 1,439.7 1,595.1 1,736.3 10.8% 8.9%
+Mobile accesses 16,148.9 16,766.7 17,604.0 3.8% 5.0%
+Pre-Pay 10,370.4 10,581.3 11,000.0 2.0% 4.0%
+Contract 5,778.5 6,185.4 6,604.0 7.0% 6.8%
+Final Clients Accesses 22,275.8 23,008.4 24,121.9 3.3% 4.8%
+Wholesale Accesses 13.0 13.9 14.1 7.0% 1.2%
+Total Accesses 22,288.8 23,022.3 24,136.0 3.3% 4.8%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+Telefonica,S.A. 217
+
+
+--- Page 20 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+In 2012, based on internal estimates, Telefonica Argentina maintained its market leadership,
+underpinned by a benchmark services portfolio with integrated fixed and mobile broadband bundles and
+added value services. The company applies a segmented approach in order to cover the diverse needs of
+its customer base. The key feature of the mobile business in 2012 was the heavy across-the-board
+increase in the mobile broadband service. In the fixed line business, the company retained its market
+leadership in both fixed line and broadband accesses in terms of market shares, based on internal
+estimates, maintaining growth in the number of lines, unlike the other operations in the region.
+
+Results
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+Argentina 2010 2011 2012 € Currency € Currency
+Revenues 3,073 3,174 3,697 3.3% 145% 16.5% 18.4%
+Wireless Business 1,979 2,039 2,431 3.0% 14.2% 19.2% 21.2%
+Service revenues 1,845 1,880 2,200 19% 12.9% 17.0% 19.0%
+Wireline Business 1,187 1,237 1,390 4.3% 15.6% 12.3% 14.2%
+OIBDA 1,082 1,085 1,076 0.2% 111%  (0.8)% 0.8%
+OIBDA Margin 34.3% 33.4% 28.5% (0.9) p.p. (0.9) p.p. (4.8) p.p. (4.8) p.p.
+Capex 398 449 519 12.6% 24.9% 156% 17.5%
+OpCF (OIBDA - Capex) 684 636 557 (7.0)% 3.1% (12.4)% (10.9)%
+
+2012 results
+
+The financial results in Argentina for the year were negatively affected by compensation paid to
+customers in respect of a software outage in Movistar's national network equipment, which affected
+service on April 2, 2012. In addition, results were also adversely affected by the heavy storm that hit the
+northern part of Buenos Aires on April 4, 2012.
+
+* Revenues: Service revenues from the mobile business grew sharply in 2012 (19.0% excluding
+foreign exchange rate effects), reflecting higher usage levels, driven by data usage and growth in the
+customer base. Data revenues are the main lever for growth (33.5%, excluding exchange rate
+differences).
+
+Argentina - Mobile
+% Var Local % Var Local
+
+Currency Currency
+
+2010 2011 2012 10/11 11/12
+
+Traffic (million minutes) 17,550 18,788 21,201 7.1% 12.8%
+ARPU (euros) 9.2 9.7 11.0 17.3% 14.6%
+
+Revenues in the fixed line business rose 14.2% in local currency due to the solid growth in revenues
+from broadband and new services (26.5%), reflecting the strong improvement in Internet and
+content revenues and revenues from data, IT and leasing of capacity.
+
+*  OIBDA at Telefonica Argentina stood at 1,076 million euros, a 0.8% rise in local currency, not fully
+reflecting the good evolution of revenues due to the general rise in prices that impacted operating
+expenses, (mainly personnel expenses and external services due to inflation).
+
+Telefonica,S.A. 218
+
+
+--- Page 21 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+2011 results
+
+* Revenues: Growth in mobile service revenues (12.9% in local currency) was driven by a base of
+higher value customers, as seen in the increase in ARPU and the weight of the contract segment.
+Mobile data ARPU growth was driven by both the positive performance of SMS and the higher
+
+number of customers with data rates.
+
+Revenues in the fixed line business rose 15.6% in local currency due to higher internet and content
+revenues (up 29.5%), propelled by the growth in broadband, and revenues from data, IT and leasing
+
+of capacity (up 18.1%).
+
+* OIBDA at Telefonica Argentina reached 1,085 million euros, an increase of 11.1% in local currency,
+not reflecting the growth percentages in revenue due to the general rise in prices that impacted
+
+operating expenses.
+
+VENEZUELA
+
+Accesses
+
+Thousands of accesses 2010
+
+Mobile accesses 9,514.7
+Pre-Pay 8,740.3
+Contract T7144
+
+Fixed wireless 966.2
+
+Pay TV 69.3
+
+Total Accesses 10,550.2
+
+2011
+
+9,438.7
+8,570.9
+867.8
+883.4
+1143
+10,436.4
+
+2012 % Var 10/11 % Var 11/12
+10,549.0 (0.8)% 11.8%
+9,514.8 (1.9)% 11.0%
+1,034.3 12.1% 19.2%
+900.3 (8.6)% 1.9%
+215.3 65.0% 88.3%
+11,664.6 (1.1)% 11.8%
+
+In 2012, Telefonica maintained a strong services offer in the market, strategically shoring up its
+leadership by maximizing the customer value, focusing on quality of service and innovation, and providing
+for the ongoing improvement of rates plans. Over the course of the year, results improved in both
+operating and financial terms. The company continued to focus on sales campaigns to promote mobile
+broadband, given the high percentage of smartphone customers.
+
+Results
+
+Millions of euros
+
+Venezuela 2010
+Revenues 2,318
+Service revenues 2,073
+OIBDA 1,087
+OIBDA Margin 46.9%
+CapEx 293
+OpCF (OIBDA-CapEx) 794
+
+2012 results
+
+2011 2
+2,688 3,
+2,435 2)
+1,177 1,
+43.8% = 4h.
+372
+805 1,
+
+% Var10/11
+
+Local
+012 € Currency
+338 15.9% 11.2%
+972 17.5% 12.8%
+500 8.2% 44%
+9% (3.1) p.p. (3.1) pp.
+463 26.9% 0.9%
+037 13% 5.6%
+
+% Var 11/12
+
+Local
+
+€ Currency
+24.2% 28.1%
+22.0% 25.6%
+27.5% 30.0%
+12pp. 0.7 pp.
+24.5% 31.2%
+28.8% 29.5%
+
+* Revenues: In 2012, revenues stood at 3,338 million euros, for a year-on-year growth of 28.1% in local
+currency. This improvement primarily reflected higher mobile service revenue (up 25.6%), driven by
+the larger customer base and the increase in ARPU, offset in part by lower interconnection rates,
+
+Telefénica, S.A.
+
+219
+
+
+--- Page 22 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+which had an impact of 28 million euros. Excluding this impact, service revenues would have increased
+by 26.9% year-on-year in local currency.
+
+Data revenues for the year 2012 grew 37.4% compared to 2011, representing 39% of mobile service
+revenues (up 3 p.p. year-on-year). Non-SMS data revenues climbed 78% year-on-year, accounting for
+53% of data revenues (up 12 p.p. compared to 2011).
+
+Venezuela - Mobile
+
+% Var Local % Var Local
+
+Currency Currency
+
+2010 2011 2012 10/11 11/12
+
+Traffic (million minutes) 14,195 14,529 16,408 24% 12.9%
+ARPU (euros) 14.3 16.7 21.2 24.8% 174%
+
+OIBDA: OIBDA stood at 1,500 million euros in 2012, for year-on-year growth of 30.0% in local
+currency. This growth is due to the service revenues good performance that compensates the
+expenses growth (26.5% in local currency) mainly impacted by the increase in personnel expenses
+following the reform of the labor law what resulted in higher personnel provisions, and the higher
+commercial costs related to the increased commercial activity in the year. The OIBDA margin was
+44.9% in 2012 (up 1.2 p.p. compared to 2011), driven by the ongoing focus on boosting efficiency
+levels.
+
+2011 results
+
+Revenues: Growth in mobile service revenue (12.8% excluding foreign exchange rate effects) was
+driven by higher ARPU despite reductions in interconnection tariffs, with a negative impact of 22
+million euros in the year.
+
+Data revenues remained a key growth driver, rising 23.7% in the year and representing 36% (up 3
+p.p.) of mobile service revenues.
+
+OIBDA: OIBDA for 2011 was 1,177 million euros, increasing 4.4% from the prior year. Telefonica
+Venezuela's OIBDA margin stood at 43.8% (down 3 p.p. year-on-year), with continued high levels of
+efficiency in an environment characterized by widespread price increases that translated into higher
+personnel and subcontractor expenses.
+
+Telefonica,S.A. 220
+
+
+--- Page 23 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+CHILE
+Accesses
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+Fixed telephony accesses (1) 1,939.3 1,848.1 1,737.9 (4.7)% (6.0)%
+Internet and data accesses 836.0 887.4 940.1 6.1% 5.9%
+Narrowband 6.6 5.8 5.5 (12.3)% (5.2)%
+Broadband (2) 821.5 878.1 932.0 6.9% 6.1%
+Other (3) 79 3.5 25 (55.9)% (27.0)%
+Mobile accesses 8,794.0 9,548.1 10,040.1 8.6% 5.2%
+Pre-Pay 6,179.3 6,732.7 7,385.0 9.0% 9.7%
+Contract 2,614.7 2,815.4 2,655.1 71.7% (5.7) %
+Pay TV (4) 341.2 390.8 424.0 14.5% 8.5%
+Final Clients Accesses 11,910.5 12,6744  13,142.1 6.4% 3.7%
+Wholesale Accesses 5.3 5.2 4.9 (2.2)% (5.9)%
+Total Accesses 11,915.8 12,679.6 = 13,147.0 6.4% 3.7%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+(3) Remaining retail circuits (broadband)
+
+Telefonica maintained its position as one of the leaders in the Chilean telecommunications market,
+strengthening its competitive advantage through an integrated and unique service offer, despite the stiff
+market competition. In 2012, Telefonica Chile's commercial activity was negatively affected by the
+nationwide introduction of number portability, in both the mobile and the fixed businesses.
+
+During the year, the company promoted mobile broadband and high-speed fixed broadband, both in
+VDSL and fiber optic technology, and continually enhanced its offers through bundled services. In late
+2012, the company launched the new IPTV platform, following an alliance with Microsoft that made it
+possible to bundle broadband services and improve its television offers.
+
+Results
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+Chile 2010 2011 2012 € Currency € Currency
+Revenues 2,197 2,310 2,569 5.2% 48% 11.2% 3.3%
+Wireless Business 1,266 1,399 1,559 10.5% 10.1% 11.5% 3.6%
+Service revenues 1,175 1,283 1,429 9.2% 8.9% 11.4% 3.5%
+Wireline Business 1,038 1,037 1,113 (0.1)%  (0.4)% 7.3%  (0.3)%
+OIBDA 1,092 1,035 1,033 (5.2)%  (5.5)%  (0.2)%  (7.3)%
+OIBDA Margin 49.7% 44.8% 40.2% (4.9)pp (4.9)pp (4.6)pp (4.6) pp
+Capex 516 529 606 2.4% 2.1% 146% 6.5%
+OpCF (OIBDA - Capex) 576 507 427 (12.0)% (12.3)% (15.7)% (21.7)%
+
+2012 results
+
+* Revenues: Mobile revenues rose 3.6% in local currency to 1,559 million euros fuelled by growth in
+service revenues. Service revenues were 3.5% higher in local currency, with the growth in the
+
+Telefonica,S.A. 221
+
+
+--- Page 24 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+customer base making up for the downtrend in ARPU in local currency caused by the drop in usage,
+mainly among pre-pay customers, in view of greater market competition.
+
+Fixed line revenues remained stable with respect to 2011, amounting to 1,113 million euros,
+underpinned by broadband and new services revenues (52% of revenues and up 10.9% in local
+currency), reflecting the growth in Internet, TV, content revenues, data, IT and capacity lease
+revenues, which offset the 9.9% decrease in voice and access revenues (in local currency).
+
+Chile - Mobile
+% Var Local % Var Local
+Currency Currency
+2010 2011 2012 10/11 11/12
+Traffic (million minutes) 11,791 12,218 13,064 3.6% 6.9%
+ARPU (euros) 12.1 11.6 12.0 (4.1)% (3.9)%
+
+OIBDA: OIBDA dropped 7.3% in local currency in local currency despite revenues are increasing 3.3%
+due to a higher commercial activity in the mobile business with the start-up of portability, which
+results in higher growth in supplies, content and interconnection expenses plus the negative effect in
+other revenues of the sale of towers (32 million euros compared to 50.1 million euros in 2011). In
+addition, following a contractual change in the handset sales model in Chile, OIBDA is affected by the
+negative effect of the new accounting treatment applicable to revenues and expenses formerly
+linked to a mobile handset sales model involving lease without charge that was previously accounted
+as Capex (negative impact of 22 million euros, all included in the last quarter of the year).
+
+2011 results
+
+Revenues: Mobile revenues rose 10.1% in local currency to 1,399 million euros in 2011, fuelled by the
+strong growth in service revenues. Service revenues increased by 8.9% in local currency, as a result of
+the growth in the customer base, offsetting the downtrend in ARPU caused by the drop in usage from
+pre-pay customers. Data revenues also had a positive performance, with a 34% increase in the year in
+local currency, representing 19% of total service revenues.
+
+Fixed line revenues in Chile remained stable with respect to 2010, with the 12.3% increase in Internet,
+TV and content revenues offsetting the 8% decrease in local currency in traditional business
+revenues.
+
+OIBDA: OIBDA decreased 5.5% in local currency, partly due to the recognition in 2010 of damage
+compensation received on insurance contracts following earthquake damage in February 2010 and
+gains from the disposal of non-strategic assets (15 million euros) in 2010. Gains on the sale of non-
+strategic assets in 2011 amounted to 50 million euros OIBDA for the year was also impacted by the
+24% increase in supply costs (excluding foreign exchange rate effects) caused by higher
+interconnection costs from increased traffic and greater equipment costs resulting from the increased
+commercial activity in the mobile business attributable to purchases of high-end handsets.
+
+Telefnica,S.A. 222
+
+
+--- Page 25 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+MEXICO
+
+Accesses
+
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+
+Mobile accesses 19,661.6 19,742.4 19,168.0 0.4% (2.9)%
+Pre-Pay 18,061.3 18,149.8 17,668.3 0.5% (2.7) %
+Contract 1,600.2 1,592.6 1,499.7 (0.5)% (5.8)%
+
+Fixed wireless 565.5 745.3 1,158.9 318% 55.5%
+
+Total Accesses 20,227.1 20,487.7 20,326.9 1.3% (0.8)%
+
+The company launched its "Zero Prepayment" campaign in the latter part of the year, allowing customers
+to call any fixed or mobile operator in Mexico, the US or Canada for 0.85 Mexican pesos/minute. This
+campaign was a milestone in the strategy to reduce rates within the "call anywhere" plans, rolled out
+following the drastic reduction in interconnection rates in the first half of 2011. In addition, through the
+year the company unveiled new data plans aimed at boosting the mobile broadband business. These
+plans include the LTE launch, with Movistar being the first operator to offer this service in Mexico. All
+these efforts reflect the companu's strategic focus on innovation and quality of service.
+
+It should also be noted that in the second half of 2012 the agreement on national roaming with lusacell
+came into effect, significantly reinforcing the coverage and capacity of the services that both companies
+provide (lusacell and Telefonica Méviles México).
+
+Results
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+México 2010 2011 2012 € Currency € Currency
+Revenues 1,832 1,557 1,596 (15.0)% (12.3)% 2.5% 0.4%
+Service revenues 1,651 1,387 1,416 (16.0)% (13.3)% 2.1% — (0.0)%
+OIBDA 623 572 432 (8.2)% (5.2)% (24.6)% (26.1)%
+OIBDA Margin 34.0% 36.7% 27.0% 27pp. 2.7 pp. (9.7) p.p. (9.7) p.p.
+CapEx 1,580 471 427 (70.2)% (69.2)%  (9.4)% (11.3)%
+OpCF (OIBDA-CapEx) (957) 101 5 Gs. cs. (95.2)% (95.3)%
+2012Results
+
+* Revenues amounted to 1,596 million euros in 2012, for 0.4% growth year-on-year in local currency.
+Mobile service revenues remained stable compared to 2011 in local currency amounting to 1,416
+million euros in 2012 thanks to an increase in data revenues, despite an estimated negative impact
+of 64 million euros from the lower interconnection rates approved by the regulatory authorities in
+the second quarter of 2011. Data revenues climbed 15.0% from 2011 to 2012, despite the 54%
+reduction in SMS interconnection rates in September 2012. Data revenues account for 33% of
+mobile service revenues (up 4 p.p. year-on-year). Non-SMS data revenues rose 61.8% year-on-year,
+accounting for 39% of data revenues (up 11 p.p. compared to 2011).
+
+* OIBDA: OIBDA was 432 million euros in 2012 (down 26.1% year-on-year in local currency), for an
+OIBDA margin of 27.0%, strongly impacted by the sale of non-strategic towers in 2011, which
+amounted to 240 million euros compared with the year-on-year comparison to 77 million euros for
+tower sales in 2012. Stripping out this effect, OIBDA grew 6.5%, slightly over revenue evolution. It is
+important to highlight the interconnection rates reduction which negatively impacted OIBDA by 14
+million euros. Such rate reduction is more than offset by a higher level of efficiency coming from the
+
+Telefonica,S.A. 223
+
+
+--- Page 26 ---
+
+lusacell roaming agreement and higher commercial efficiency. For 2012, OIBDA margin was 27.0%,
+due to the gradual improvement in margin throughout the year.
+
+2011 results
+
+* Revenues: Service revenues decreased by 13.3% in local currency to 1,387 million euros, principally
+as the result of the aforementioned reductions in interconnection tariffs and the impact of lower
+revenue from outgoing traffic in the pre-pay segment attributable to decreased usage. These changes
+prompted the Company to launch new commercial offers in the second half of the year.
+
+* OIBDA: The decrease in OIBDA was caused by increased costs associated with the Companu's overall
+commercial repositioning efforts and 3G network deployment, as well as the impact of the
+interconnection tariff reductions described above. The 2011 decrease in OIBDA was partially offset by
+the sale of non-strategic assets, which resulted in a gain 240 million euros.
+
+PERU
+
+Accesses
+Thousands of accesses
+
+Fixed telephony accesses (1)
+Fixed wireless
+Internet and data accesses
+Narrowband
+Broadband (2)
+Other (3)
+Mobile accesses
+Pre-Pay
+Contract
+Pay TV (4)
+Final Clients Accesses
+Wholesale Accesses
+Total Accesses
+
+2010
+
+2,871.2
+537.8
+885.4
+15.4
+850.8
+19.2
+12,507.1
+10,104.4
+2,402.7
+690.6
+16,954.3
+0.5
+
+16,954.8
+
+2011
+
+2,848.4
+444.6
+1,120.4
+94
+1,090.6
+20.4
+13,998.3
+11,079.6
+2,918.7
+799.0
+18,766.1
+0.4
+18,766.6
+
+2012
+
+2,883.4
+580.3
+1,317.6
+8.2
+1,288.3
+21.0
+15,196.9
+11,5553
+3,641.6
+901.6
+20,299.5
+0.4
+20,299.9
+
+% Var 10/11 % Var 11/12
+
+(0.8)% 1.2%
+(17.3)% 30.5%
+26.5% 17.6%
+(38.7)% (12.8)%
+28.2% 18.1%
+6.1% 3.1%
+11.9% 8.6%
+9.7% 4.3%
+21.5% 24.8%
+15.7% 12.8%
+10.7% 8.2%
+(3.7)% (8.0)%
+10.7% 8.2%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+(3) Remaining retail circuits (broadband)
+
+Telefonica consolidated its position as one of the key players shored up its leadership of the Peruvian
+market, boosting total accesses by 8.2%, driven by growth in the mobile, traditional fixed, pay TV and
+
+fixed broadband businesses.
+
+Telef6nica,S.A. 224
+
+
+--- Page 27 ---
+
+Results
+
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+Pera 2010 2011 2012 € Currency € Currency
+Revenues 1,960 2,030 2,400 3.6% 6.1% 18.2% 4.6%
+Wireless Business 1,001 1,088 1,314 8.7% 11.3% 20.8% 6.9%
+Service revenues 854 948 1,164 111% 13.7% 22.7% 8.6%
+Wireline Business 1,097 1,069 1,226 (2.5)%  (0.2)% 14.7% 1.5%
+OIBDA 812 751 909 (7.6)%  (5.3)% 21.0% 7.1%
+OIBDA Margin 41.4% 37.0% 37.9% (4.5)p.p. (4.5)pp. O9pp. O.9p.p.
+Capex 295 302 378 2.3% 48% 25.2% 10.8%
+OpCF (OIBDA - Capex) 517 449 531 (13.2)% (11.1)% 18.2% 4.6%
+
+2012 results
+
+¢ In 2012, revenues amounted to 2,400 million euros, up 4.6% year-on-year in local currency, due to
+growth in both the mobile and fixed businesses.
+
+Revenues in the mobile business (up 6.9%) were driven by voice and data revenues, with a year-on-
+year rise of 44.8% despite adverse regulatory impacts which affected fixed-mobile calls (due to a
+decrease in the regulated retail rate) and the mobile interconnection rate cuts in October 2011 and
+2012. On the other hand, handset revenues fall by 4.4% year-on-year. Revenues from the fixed
+business totaled 1,226 million euros in 2012, up 1.5% on the prior year. As in 2011, broadband and
+new services revenues were the primary growth drivers, with a year-on-year rise of 12.9%, offsetting
+a sharp decline in voice revenues.
+
+* OIBDA stood at 909 million euros in 2012 (up 7.1% year-on-year), mainly explained by the good
+revenue performance, partially offset by higher commercial costs driven by the increased commercial
+activity relating to higher-value customers, higher taxes related to the canon for the usage of radio
+electric spectrum and also the personnel expenses increase related to the employee participation of
+the company results (employees get a percentage of net income of the company). This OIBDA growth
+is positively affected by the recognition in 2012 of 23 million euros gains from the sale of non-
+strategic assets, compared to gains of 2 million euros in the fourth quarter of 2011. Finally the OIBDA
+margin places at 37.9% (up 0.9 p.p. compared to 2011).
+
+2011 results
+
+* Overall, the business performed well, resulting in a 6% increase in revenue in local currency despite
+the reduction in interconnection rates in the mobile network in October, 2011. The increase in
+revenue was due to the strong performance by the mobile business and the maintenance of the
+traditional fixed telephony business.
+
+* OIBDA is not comparable to the prior year due to the recognition in 2010 of gains from the sale of
+non-strategic assets (39 million euros) and workforce restructuring expenses (23 million euros).
+
+Telefénica,S.A. 225
+
+
+--- Page 28 ---
+
+COLOMBIA
+
+Accesses
+Thousands of accesses 2010 2011 2012 % Var 10/11 % Var 11/12
+Fixed telephony accesses (1) 1,586.9 1,480.6 1,420.4 (6.7)% (4.1)%
+Internet and data accesses 553.6 620.3 714.0 12.0% 15.1%
+Narrowband 5.6 7.9 8.5 415% 75%
+Broadband (2) 548.0 612.3 705.4 11.7% 15.2%
+Other (3) - - - na na
+Mobile accesses 10,004.5 11,391.1 11,703.6 13.9% 2.7%
+Pre-Pay 7,679.1 8,626.8 8,675.2 12.3% 0.6%
+Contract 2,325.5 2,764.2 3,028.4 18.9% 9.6%
+Pay TV 205.3 255.0 284.8 24.2% 11.7%
+Final Clients Accesses 12,350.3 13,746.9 14,122.8 11.3% 2.7%
+Wholesale Accesses 3.3 3.3 3.3 - -
+Total Accesses 12,353.6 13,750.2 14,126.1 11.3% 2.7%
+
+n.a.: not applicable
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and total fixed wireless accesses.
+
+(2) Includes ADSL, fiber optic, cable modem and broadband circuits.
+
+(3) Retail circuits other than broadband
+
+The year 2012 has meant a significant milestone in the development of Telefénica's operations in
+Colombia after the Telefonica Méviles Colombia, S.A. and Colombia Telecomunicaciones S.A. merger
+(completed at the end of June 2012), through which the company brought all of its operations in the
+country (fixed and mobile services) together under the Movistar brand. Telefonica shored up the
+integrated sale of products, bundling fixed and mobile services, while maintaining its focus on higher-
+value customers.
+
+Telefonica Colombia reported 14.1 million accesses at the 2012 year end, for a year-on-year growth of
+2.7%.
+
+Results
+Millions of euros % Var10/11 % Var 11/12
+Local Local
+Colombia * 2010 2011 2012 € Currency € Currency
+Revenues 1,529 1,561 1,765 2.1% 45% 13.0% 1.6%
+Wireless Business 859 906 1,070 5.5% 8.0% 18.1% 6.1%
+Service revenues 801 841 994 4.9% 74% 18.3% 6.3%
+Wireline Business 670 655 695 (2.3)% 0.0% 6.1% (4.7)%
+OIBDA 484 540 607) 11.6% 143% 124% 1.0%
+OIBDA Margin 31.7% 346% 344% 29pp. 2.9p.p. (0.2)p.p. (0.2) p.p.
+Capex 334 405 352 21.3% =—24.2% (13.2)% (22.0)%
+OpCF (OIBDA - Capex) 150 135 256 (9.9)% (7.7)% 89.2% 70.0%
+
+* Mobile and fixed telephone revenues for 2010 and 2011 have been restated in view of the merger carried out in June 2012, in order
+to assign the eliminations to the corresponding businesses.
+
+Telefénica,S.A. 226
+
+
+--- Page 29 ---
+
+2012 results
+
+Revenues totaled 1,765 million euros in 2012 (year-on-year growth of 1.6% in local currency),
+thanks to the strong performance of the mobile business, despite lower ARPU and the reduction in
+mobile termination rates. The fixed business reported revenues of 695 million euros, down -4.7% in
+local currency due to a lower number of accesses, the increase of competition in an already highly
+competitive environment and the reduction in termination rates.
+
+OIBDA was 607 million euros at the 2012 year end, up 1.0% compared to the prior year as a result of
+higher revenues (up 1.6% year-on-year) and operating expenses decreasing 2.2% year-on-year,
+thanks to the efficiency measures applied by the business operator in Colombia, which were mainly
+reflected in lower personnel and subcontract expenses. Supply costs also fell year-on-year due to the
+reduction in termination rates. These were offset by the year-on-year comparison affected by
+recognition of gains on the sale of non-strategic towers of 2 million euros in 2012 and 25 million
+euros in 2011.
+
+2011 results
+
+Solid business growth resulted in a 4.5% increase in revenues in local currency, underpinned by
+strong revenues from the mobile business.
+
+OIBDA increased by 14.2% in 2011 and was impacted by sales of non-strategic assets during 2011
+(25 million euros) and 2010 (71 million euros). The comparability at the OIBDA level was also
+impacted by the recognition in 2010 of 85 million euros of non-recurring workforce restructuring
+expenses, bad debts provisions, and third-party claims.
+
+Telefénica,S.A. 227
+
+
+--- Page 30 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+TELEFONICA EUROPE
+
+Accesses
+Thousands of accesses 2010 2011 2012 %Var10/11 %Var 11/12
+Fixed telephony accesses (1) 16,952.1 16,158.5 15,849.3 (4.7)% (1.9)%
+Internet and data accesses 10,376.2 10,248.3 10,065.4 (1.2)% (1.8)%
+Narrowband 639.3 519.8 444.1 (18.7)% (14.6)%
+Broadband 9,687.2 9,680.4 9,576.2 (0.1)% (1.1)%
+Other (2) 49.8 48.2 45.1 (3.2)% (6.4)%
+Mobile accesses (3) 70,985.1 72,450.7 70,674.1 2.1% (2.5)%
+Prepay (4) 31,914.7 31,159.7 28,618.2 (2.4)% (8.2)%
+Contract (5) 39,070.3 41,291.0 42,055.8 5.7% 1.9%
+Pay TV 994.6 1,052.2 909.3 5.8% (13.6)%
+Final Clients Accesses 99,308.0 99,909.7 97,498.1 0.6% (2.4) %
+Wholesale Accesses (6) 4,581.5 5,245.1 5,684.3 14.5% 8.4%
+Total Accesses 103,889.5 105,154.8 103,182.3 1.2% (1.9)%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and VOIP and naked ADSL. As from the first quarter of 2012, fixed telephone accesses include 384
+thousand VoIP customers in Germany and 65 thousand fixed lines in the UK, in order to standardize these accesses with Telefonica
+criteria.
+
+(2) Remaining retail circuits other than broadband.
+
+(3) Inthe first quarter of 2012, 2.0 million inactive accesses were derecognized in Spain.
+
+(4) In the first quarter of 2012, 1.2 million inactive accesses were derecognized in Spain.
+
+(5) In the first quarter of 2012, 800 thousand inactive accesses were derecognized in Spain.
+
+(6) Includes ULL rented by Telefonica Germany and Telefonica UK. In the fourth quarter of 2011, 78 thousand inactive accesses
+were derecognized in Germany.
+
+Competitive Positioning
+Mobile Market Share (1)
+
+Telefonica Europe 2010 2011 2012
+Spain 41.4% 39.6% 36.2%
+United Kingdom 26.6% 26.6% 26.6%
+Germany 15.7% 16.1% 16.7%
+Czech Republic 38.5% 38.0% 38.6%
+Ireland 32.0% 33.2% 33.0%
+Slovakia 14.7% 18.3% 21.1%
+ADSL Market Share (1)
+
+2010 2011 2012
+
+Spain 53.4% 49.7% 48.8%
+
+(1) Internal estimates.
+
+Following reorganization of the Telefonica Group in September 2011, two segments (business units) were
+defined in the Group. One of these segments is Telefonica Europe, which includes operations in Spain as
+well as those in the United Kingdom, Germany, the Czech Republic, Slovakia and Ireland.
+
+Telefonica Europe operators have aimed to set the groundwork for future growth in 2012 by leveraging
+the success of their sales efforts (e.g. “Movistar Fusion” in Spain) and the greater efficiencies derived from
+
+Telefonica,S.A. 228
+
+
+--- Page 31 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+the transformation initiatives rolled out during the year. These initiatives focus on improving resource
+allocation, costs and strategic investing.
+
+All these efforts have allowed Telefonica Europe to stabilize in 2012, by containing operating costs in
+several areas despite the pressure on revenues caused by declines in usage, the adverse economic
+environment, strong market competition and lower mobile interconnection and roaming rates.
+
+Key trends in the mobile business
+
+* Mobile accesses stood at 70.6 million, a year-on-year decrease of 2.5%. This figure was strongly
+affected by the disconnection of 2.0 million inactive accesses in Telefonica Spain in the first
+quarter of 2012. Growth in mobile accesses was especially strong in Germany in 2012 (up 5.0%),
+with 19.3 million customers, and to alesser extent in the United Kingdom (up 3.1%), with 22.9
+million customers.
+
+¢ Solid sales efforts translated into a growth in mobile contract customers of 1.9%. These
+customers accounted for 60% of the total mobile customer base at the 2012 year end (up 2 p.p.
+compared to the prior year).
+
+¢ Mobile broadband accesses increased 16% to 25.5 million, representing 36% of the region's
+total accesses and driving growth in revenues.
+
+¢ ARPUs of some European operators (mainly Spain and the UK) are under heavy pressure,
+affected by interconnection rates cuts, an adverse economic backdrop (with waning
+consumption) and, in some cases, decreases in prices amid fierce competitive pressure.
+
+Key trends in the fixed line business
+
+¢ Retail fixed line broadband accesses stood at 9.6 million, a year-on-year decrease of 1.1%.
+Nevertheless, this trend reversed in the fourth quarter of 2012 as these accesses increased,
+when net adds were obtained as a consequence of the launch of "Movistar Fusion,” a convergent
+product in Telefonica Spain
+
+e Fixed telephone accesses were down 1.9% year-on-year, to 15.8 million at December 2012.
+
+Results
+
+Millions of euros Var 10/11 Var 11/12
+Telefénica Europe 2010 2011 2012 Reported Ex fx Reported Ex fx
+Revenues 33,726 32,066 29,995 (4.9)%  (4.8)%  (6.5)%  (7.8)%
+OIBDA 12,541 9,278 10,244 (26.0)% (26.1)% 10.4% 9.5%
+OIBDA Margin 37.2% 28.9% 34.2% (8,3 p.p.) - 5,2 pp. -
+Depreciation and amortization (5,086) (5,081) (5,011) (0.1)%  (0.2)%  (1.4)%  (2.5)%
+Operating Income 7,455 4,197 5,233 (43.7)% (43.8)% 24.7% 23.9%
+
+2012 results
+
+Telefonica Europe represents 48% of the Group's 2012 revenues and OIBDA. Its revenues decreased by
+6.5% in 2012, contributing -4.0 p.p. to the year-on-year variation in the Group's revenues, excluding
+foreign exchange rate effects, primarily due to lower revenues in Telefonica Spain (contributing -3.7 p.p.).
+In addition, at 2012 year end, the Group recorded a 527 million euros write-down in the value of its stake
+in Telefonica Ireland in Telefonica Europe's OIBDA and in 2011, and the Group recognized personnel
+restructuring expenses of 2,591 million euros in Telefonica Spain's OIBDA.
+
+Telefonica,S.A. 229
+
+
+--- Page 32 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Telefonica Europe posted revenues of 29,995 million euros in 2012, down 6.5% on the 2011 figure
+(down 7.8% excluding foreign exchange rate effects). The year-on-year decrease in Telefonica
+Europe's revenues is primarily due to revenue trends in Telefonica Spain, which dropped 13.2% from
+2011, to 14,985 million euros in 2012. This reduction in revenues mainly reflects lower accesses and
+ARPU in the different services, all within an adverse and highly-competitive macroeconomic
+environment.
+
+At Telefonica Spain, revenues in the fixed line business plunged 10.2%. This reduction was
+primarily due to lower revenues from traditional accesses (caused by the loss of accesses), the
+16.7% decrease in voice services revenues (affected by the growing weight of flat-rate plans and
+traffic packages) and the 13.8% drop in retail broadband revenues (12.2% year-on-year decrease in
+broadband ARPU, affected by customer migration to new rates). Revenues from the mobile
+business fell 16.6% on the 2011 figure. This reduction reflects the 16.8% drop in mobile service
+revenues (chiefly pressured by trends in ARPU and the reduction in interconnection rates effective as
+from April and October, and in roaming rates, effective as from July). Telefonica Spain accounted for
+50% of Europe’s revenue.
+
+In the rest of Telefonica Europe's operations, revenues rose 1% year-on-year, driven by growth in
+revenues in Germany, but undermined by reduction to interconnection and roaming rates.
+
+The mobile strategy, based on boosting mobile broadband penetration and limited use data rates,
+was the main factor to promote revenue growth. As a result of this strategy, total data revenue
+increased 5.8% in 2012 and represented 41% of mobile service revenue (up 5 p.p. compared to
+2011). The growth in data revenue is primarily due to the 18.6% increase in non-P2P SMS revenues,
+which represented 58% of total data revenues in 2012.
+
+Total expenses at Telefonica Europe amounted to 20,465 million euros, down 12.7% on the previous
+year, affected by the recognition in 2011 of 2,591 million euros of restructuring expenses in
+Telefonica Spain, which affected the variance in personnel expenses. This impact represented 11 p.p.
+of the year-on-year decline. Excluding this effect, operating expenses would have fallen 1.8% year-
+on-year.
+
+¢ Supplies expenses decreased 4.6% year-on-year in 2012 to 9,821 million euros, mainly driven
+by lower interconnection costs, and, to a lesser extent, lower supplies, due to a new commercial
+strategy of subsidies in Spain.
+
+¢ Personnel expenses amounted to 3,497 million euros in the year, a decline of 45.4% compared
+with 2011, mainly due to the provision included in Spain mentioned above. Excluding this impact
+personnel expenses decreased by 8.9% year-on-year in 2012 mainly on the back of the increase
+of company savings related to the restructuring plan in Spain.
+
+¢ Other expenses were 7,147 million euros and increased by 6.1% as a consequence of including
+the 527 million euros write-down in the value of Telefénica’s stake in Telefénica Ireland, due to
+the slowdown in activities in the prevailing market uncertainty. Excluding this impact, other
+expenses would have dropped by -1.8% reflecting the higher commercial efficiency delivered by
+the leaner business model.
+
+OIBDA in Telefonica Europe stood at 10,244 million euros in 2012, up 10.4% year-on-year (9.5%
+when stripping out exchange rate differences). The 2012 figure includes the 527 million euros write-
+down of the Group's stake in Telefonica Ireland, while 2011 OIBDA reflects workforce restructuring
+expenses in Telefonica Spain in the amount of 2,591 million euros. OIBDA performance is also
+affected by pressures on revenues (including the impact of lower regulatory interconnection rates),
+partially offset by costs savings generated from the efficiency initiatives implemented throughout
+the Group.
+
+Telefonica,S.A. 230
+
+
+--- Page 33 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2011 results
+
+In 2011, Telefonica Europe represented 51% of the Group's revenues, and 46% of OIBDA. Telefonica
+Europe dragged -2.7 p.p. to Group's revenue growth on a constant euros basis. The main contributor to
+this negative contribution to Group revenues was Telefonica Spain, which contributed 2.4 p.p. to the
+Group's revenue drop. Reported OIBDA of Telefonica Europe showed a 26% year-on-year decline, but, it is
+important to highlight that OIBDA for 2011 reflected workforce restructuring expenses of 2,591 million
+euros in Telefonica Spain, while the 2010 figure included workforce restructuring expenses of 202 million
+euros for Telefonica Spain and 320 million euros for other Telefonica Europe operations (recognized
+under personnel expenses). The aforementioned impacts contribute to the year-on-year decrease by -17
+p.p. Excluding these effects, the year-on-year decrease in Telefonica Europe's OIBDA would be 9.2%,
+primarily derived from the 13% year-on-year decline in Telefonica Spain (excluding restructuring
+expenses).
+
+* Revenues (32,066 million euros at December 2011) were down 4.9% on 2010, mainly reflecting the
+drop in Telefonica Spain's revenues.
+
+In 2011, Telefonica Spain's revenue fell 7.7% to 17,269 million euros, pulled down by lower ARPU in
+the various services and lower accesses, amid waning consumption and stronger pressure on prices.
+
+Telefonica's Spain revenues in the fixed line business decreased by 6.8% year-on-year, mostly
+because of lower revenues from traditional accesses, voice services and retail broadband. Also,
+Telefonica's Spain revenues from mobile services were down 10.0%, primarily reflecting a 10%
+drop in ARPU following the reduction in interconnection rates, lower consumption, and pressure
+on retail prices.
+
+In the rest of Telefonica Europe's operations, revenues were down 1.5%, primarily due to lower
+interconnection rates. These decreased, coupled with the impact of exchange rates, adversely
+affected revenues. Excluding these effects, revenues would have increased by 2.1%.
+
+In Telefonica Europe, revenues from mobile data continued to grow steadily, up 10.4% year-on-
+year. At December 2011, these revenues accounted for 35.7% of mobile service revenues (up 5.4
+p.p. compared to the year-ago figure). This upward trend was underpinned by the solid year-on-
+year growth in non-SMS data revenues, which rose 29.3% over the course of 2011, to account
+for 51.8% of total data revenues (up 7.6 p.p. year-on-year). The mobile data strategy, focusing
+on expanding the Group's market share in mobile broadband and on limited-use data rates, was a
+key factor to this performance.
+
+* Total expenses at Telefonica Europe amounted to 23,432 million euros, up 7.6% on the previous
+year, affected by the recognition of 2,591 million euros of restructuring expenses in Telefonica Spain.
+This impact, recognized in personnel expenses, accounted for 12 p.p. of the increase.
+
+¢ Supplies expenses decreased 2.9% year-on-year in 2011 to 10,294 million euros, mainly driven
+by lower interconnection costs.
+
+* Personnel expenses amounted to 6,400 million euros in the year, an increase of 49.8%
+compared with 2010, mainly due to the provision included in Spain mentioned above. Excluding
+this impact personnel expenses decreased by 10.8% year-on-year in 2011.
+
+¢ Other expenses amounted to 6,738 million euros and decreased by 2.2% as a consequence of
+lower customer Service costs.
+
+¢  OIBDA stood at 9,278 million euros at December 2011, representing a reported year-on-year
+decrease of 26.0%. OIBDA was primarily affected by:
+
+Telefonica,S.A. 231
+
+
+--- Page 34 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+. Workforce reduction expenses in Spain (2,591 million euros in the third quarter of 2011, and
+202 million euros in the fourth quarter of 2010).
+
+. Restructuring expenses in other European countries, primarily in respect of personnel
+restructuring (320 million euros in the second half of 2010).
+
+Reported OIBDA of Telefonica Europe showed a 26.0% year-on-year decline, with the two
+aforementioned impacts accounting for -17 p.p. of the variance. The year-on-year decline in OIBDA
+was also due to pressure on revenues (including the impact of lower regulatory interconnection
+rates) and to the higher commercial expenditure generated on the launch of new high-end
+smartphones in the last quarter of 2011, among other sales efforts.
+
+TELEFONICA SPAIN
+
+Accesses
+Thousands of accesses 2010 2011 2012 %Var10/11 %Var 11/12
+Fixed telephony accesses (1) 13,279.7 12,305.4 11,723.0 (7.3)% (4.7) %
+Naked ADSL 38.1 34.4 25.0 (9.6)% (27.3)%
+Internet and data accesses 5,879.8 5,710.9 5,779.3 (2.9)% 1.2%
+Narrowband 136.1 84.4 54.0 (38.0)% (36.0)%
+Broadband (2) 5,722.3 5,608.6 5,709.3 (2.0)% 1.8%
+Other (3) 214 17.9 16.0 (16.6)% (10.5)%
+Mobile accesses (4) 24,309.6 24,174.3 20,531.2 (0.6)% (15.1)%
+Prepay (5) 7,919.8 7,359.4 5,118.3 (7.1)% (30.5)%
+Contract (6) 16,389.7 16,814.9 15,412.9 2.6% (8.3)%
+Pay TV 788.2 833.2 710.7 5.7% (14.7)%
+WLR (7) 294.5 440.6 481.2 49.6% 9.2%
+Unbundled loops 2,477.1 2,881.1 3,262.0 16.3% 13.2%
+Shared ULL 264.0 205.0 183.5 (22.3)% (10.5)%
+Full ULL (8) 2,213.1 2,676.1 3,078.5 20.9% 15.0%
+Wholesale ADSL 561.3 709.6 652.3 26.4% (8.1)%
+Other (9) 0.9 0.6 0.5 (29.2)% (20.8) %
+Final Clients Accesses 44,257.4 43,023.8  38,744.3 (2.8)% (9.9)%
+Wholesale Accesses 3,333.8 4,031.9 4,396.0 20.9% 9.0%
+Total Accesses 47,591.2 47,055.7 43,140.3 (1.1)% (8.3)%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and VOIP and naked ADSL.
+
+(2) ADSL, satellite, fiber optic and broadband circuits.
+
+(3) Remaining retail circuits other than broadband.
+
+(4) In the first quarter of 2012, 2.0 million inactive accesses were derecognized in Spain.
+
+(5) Inthe first quarter of 2012, 1.2 million inactive accesses were derecognized in Spain.
+
+(6) In the first quarter of 2012, 800 thousand inactive accesses were derecognized in Spain.
+
+(7) Wholesale line rental.
+
+(8) Includes naked shared loops.
+
+(9) Wholesale circuits
+
+Telefonica Spain continued with the transformation strategy rolled out in the second half of 2011. This
+strategy has led to major changes in the sales and operating model, beginning with improvements to the
+value proposition and service quality at year-end 2011 through the launch of a new rates portfolio, taken
+up by a wide percentage of the customer base by December 2012. In March 2012, the Company rolled
+out a new handset sales model, focused on building customer loyalty and phasing out subsidies to attract
+
+Telefnica,S.A. 232
+
+
+--- Page 35 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+customers. This generated considerable savings in sales costs, as did the greater efficiencies derived from
+the lower personnel expenses, among others.
+
+In October 2012, Telefonica Spain furthered this strategic approach with the launch of “Movistar Fusi6n,"
+a convergent product that bundles all home communications needs in a single product, at an attractive
+price, and features unique services such as fiber optics and special TV content. The launch of the "Fusion"
+product marked a change in the Company's sales focus, towards growth in high-value services. This
+allowed the Company to recover a net add in fixed broadband, and enabled a net add in fiber, while
+boosting smartphone adoption.
+
+All these measures have strongly contributed to the higher customer satisfaction reached in 2012 based
+on internal estimates, as well as to the lower number of customer claims and decreased churn, a
+fundamental aspect of the improvement in sales activity.
+
+Moreover, despite the strong investment for the roll-out of fiber, the 2012 investment was lower than
+that made in 2011, due to the greater efficiency derived from the quality increase, the lower churn, the
+streamlining of systems and the focus on prioritizing the development of new services.
+
+2012 results
+
+Results
+Millions of euros
+Spain 2010 2011 2012 %Var 10/11 % Var 11/12
+Revenues 18,706 17,269 14,985 (7.1)% (13.2)%
+Wireless business 8,545 7,739 6,453 (9.4)% (16.6)%
+Service revenues 7,264 6,540 5,442 (10.0)% (16.8)%
+Wireline business 11,397 10,624 9,541 (6.8)% (10.2)%
+OIBDA 8,522 5,095 6,830 (40.2)% 34.0%
+OIBDA Margin 45.6% 29.5% 45.6% (16.1) pp. 16.1 pp.
+Capex 2,021 2,912 1,692 44.1% (41.9)%
+OpCF (OIBDA - Capex) 6,501 2,184 5,139 (66.4)% 135.3%
+
+* In 2012, revenues totaled 14,985 million euros (down 13.2% year-on-year), primarily reflecting
+lower accesses and the lower ARPU across different services in a highly-competitive and adverse
+macroeconomic environment.
+
+Revenues in the fixed line business amounted to 9,541 million euros in 2012, a year-on-year
+decrease of 10.2%. This reduction was primarily due to lower revenues from traditional accesses
+(down 9.3% caused by the loss of accesses), a 16.7% decrease in voice services revenues (affected
+by the growing weight of flat-rate plans and traffic packages) and a 13.8% drop in retail broadband
+revenues (a 12.2% year-on-year decrease in effective broadband ARPU, affected by customer
+migration to new rates).
+
+Revenues from the mobile business totaled 6,453 million euros in 2012, down 16.6% on the 2011
+figure. This reduction reflects a 16.8% drop in mobile service revenues (due to negative trends in
+ARPU and the reduction in interconnection rates effective as from April and October, and in roaming
+rates, effective as from July).
+
+Mobile data revenues were down 4.6% year-on-year, despite the steady growth in non-SMS
+revenues (up 8.2% from 2011), accounting for 85% of total data revenues (up 10 p.p. year-on-year).
+The trends in these revenues primarily reflect the lower SMS revenues, the higher weight of fixed-
+rate data plans, driven in the last quarter by the "Fusion" product, and by the migration of customers
+
+Telefnica,S.A. 233
+
+
+--- Page 36 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+with USB modems toward more affordable multi-device options. In addition, data revenues continue
+to be affected by the shift in the Premium SMS sales strategy in November 2011 (70% year-on-year
+decrease in Premium SMS revenues in 2012).
+
+Mobile traffic dropped 9% from 2011 to 2012, as customers reduced their usage in line with the
+general contraction of household spending in an adverse macroeconomic environment.
+
+Total ARPU for 2012 was down 7.1% year-on-year. The 2011 ARPU figure is not comparable to
+2012 ARPU, as in 2012 it is affected by the disconnection of 2.0 million inactive mobile accesses in
+the first quarter of 2012. Therefore, in comparable terms, the year on year decrease would have been
+-14.9%, due to lower usage by customers, lower prices in the new rates portfolio, and reduction in
+interconnection rates. Voice ARPU decreased 20.0% from 2011 to 2012, while data ARPU fell 0.4%,
+the latter accounting for 31% of total ARPU. The growth in connectivity revenues, included in data
+ARPU was not sufficient to completely offset the lower SMS revenues.
+
+%Var %Var
+
+Spain 2010 2011 2012 10/11 11/12
+Traffic (million minutes) 41,700 39,909 36,355 (4.3)% (8.9)%
+ARPU (euros) 25.4 22.9 21.2 (10.2)% —(7.1)%
+Prepay 114 93 9.1 (18.7)% (2.0)%
+Contract 32.6 29.1 25.5 (10.8)% —(12.3)%
+Data ARPU 5.5 6.0 6.5 9.9% 8.6%
+% rev.non-SMS over data revenues 66.6% 74.6% 84.6% 7.9 pp. 10.0 p.p.
+
+¢ OIBDA totaled 6,830 million euros in 2012, compared to 5,095 million euros in the prior year, 34.0%
+increase. OIBDA in 2011 was affected by the provision for personnel restructuring made in the third
+quarter of 2011 (2,591 million euros). Excluding such impact, the year-on-year decrease would be
+11.1% due to the year-on-year decrease in revenues, partially offset by the sharp reduction of
+commercial expenses through the new model eliminating subsidies and also personnel expenses
+savings as a result of the workforce reduction plan approved in 2011.
+
+2011 results
+
+In 2011 the Spanish market was shaped by the economic downturn, with declines in the principal
+macroeconomic indicators in the latter months of the year, and a fiercely competitive environment with
+intense commercial pressure.
+
+At the end of 2011, Telefonica Spain managed a total of 47.1 million accesses, nearly the same as in 2010
+(-a 1% decline) despite heavy pressure from competitors. Against this backdrop, Telefonica Spain's
+market share fell slightly.
+
+Fixed broadband Internet accesses fell 2.0% in 2011 as our commercial strategy focused more on “value”
+amid stiff competition, with a slowdown in promotional activity in certain months of the year before the
+September launch of a new ADSL offer boosted activity and net adds in the latter part of the year.
+
+Telefonica Spain took a number of steps during the course of the year focused on reducing its operating
+costs (primarily the labor force reduction plan) and improving its competitive position. At the end of the
+third quarter, the company launched its new services catalog, which promotes customer exclusivity by
+offering cross discounts for customers whose entire telecommunications spend is with Movistar. The
+company also completed the repositioning of its commercial offerings in the fourth quarter of 2011 with
+the launch of new mobile rates for contract customers. The new rates combine voice, data and SMS
+offerings, increasing value to customers by eliminating the voice rate structure that varied depending on
+
+Telefonica,S.A. 234
+
+
+--- Page 37 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+time of call and call destination and include unlimited SMS in all data tariffs. Rates are now structured by
+usage in corresponding to the amount each customer wishes to spend. Also, in the fourth quarter of
+2011, voice tariffs were streamlined for pre-pay customers with a highly competitive and flexible offer.
+
+In the fixed line business, in the third quarter of 2011, Telefonica launched 10 mega ADSL with value-
+added services at 24.90 euros per month, while in the fourth quarter of the year it enhanced its offerings
+with a basic ADSL plan at 19.90 euros per month (excluding value-added services and fixed-to-mobile
+calls). Value-added services packages enjoyed greater adoption during the year.
+
+* Revenues fell 7.7% in 2011 to 17,269 million euros, pulled down by lower ARPU in the various
+services and lower accesses amid waning consumption and stronger pricing pressure.
+
+Revenues in the fixed line business decreased by 6.8% to 10,624 million euros, mostly because of
+declines in revenues from traditional access of 10.6% (7% fall in accesses and lower amounts
+recognized from universal service) a decrease in revenues from voice services of 9.0% (due to
+reduction in traffic carried and the increasing weight of flat rates) and a 10.1% decrease in revenues
+from retail broadband services (10.2% decrease in effective broadband ARPU due to lower effective
+prices from the promotions carried out and the new prices launched in the latter part of the year).
+
+Revenues from the mobile business decreased by 9.4% in 2011 to 7,739 million euros, due mainly
+to the 10.0% fall in mobile service revenues (due to a 10% drop in ARPU -explained below- and
+among a slightly reduced customer base).
+
+Mobile traffic continued to reflect lower customer usage, falling 4.3% in 2011.
+
+Total ARPU fell 10.2% in 2011 to 22.9 euros, undermined by a 15.7% fall in voice ARPU because of
+the interconnection rates cuts, lower usage and downward pressure on retail prices. Conversely, data
+ARPU rose 9.9% in 2011, representing 26% of total ARPU (+5 p.p.), fuelled by the rapid growth of
+mobile broadband.
+
+Non-P2P SMS revenues continue to be the biggest growth driver in the data business, increasing by
+24.1% in 2011 and representing 75% of total data revenue (+8 p.p.). Data revenue had a solid
+increase of 10.9% in 2011.
+
+* — OIBDA in 2011 amounted to 5,095 million euros, down 40.2% from 2010 due to the negative impact
+of expenses related to the labor force reduction plan. Excluding the workforce restructuring expenses
+recognized (2,591 million euros in the third quarter of 2011 and 202 million euros in the fourth
+quarter of 2010), OIBDA would have decreased by 12% in 2011, mostly due to the decline in
+revenues.
+
+Telefonica,S.A. 235
+
+
+--- Page 38 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+UK
+
+Accesses
+
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+
+Fixed telephony accesses (1) 86.7 216.1 377.4 ns 74.6%
+
+Internet and data accesses 671.6 620.3 560.1 (7.6)% (9.7)%
+Broadband 671.6 620.3 560.1 (7.6)% (9.7)%
+
+Mobile accesses 22,211.5 22,167.5 22,864.2 (0.2)% 3.1%
+Pre-Pay 11,712.3 11,227.3 10,962.9 (4.1)% (2.4)%
+Contract 10,499.2 10,940.3 11,901.3 42% 8.8%
+
+Final Clients Accesses 22,969.8 23,003.9 23,801.7 0.1% 3.5%
+
+Wholesale Accesses (2) - 26.7 40.5 na 51.5%
+
+Total Accesses 22,969.8 23,030.7 23,842.2 0.3% 3.5%
+
+ns. not significant
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and VOIP and naked ADSL. As from the first quarter of 2012, the figure for fixed line telephone accesses
+includes 65 thousand lines in order to standardize these accesses with Telefonica Group criteria.
+
+(2) Includes unbundled lines rented by Telefonica United Kingdom.
+
+n.a.: not applicable
+
+In 2012, Telefonica UK had high commercial activity, thanks to the ongoing success of its "On&On"
+smartphone rates. This has led to a solid net add in contract customers, shoring up the segmented data
+rates strategy and contributing to keep churn extremely low.
+
+Telefonica UK has prepared the commercial launch of 4G services in 2013, through a network sharing
+agreement with Vodafone. This agreement is expected to shore up the current network collaboration,
+expand coverage, and set the bases for the 4G network.
+
+As aresult of the commercial strategy, in late 2012, Telefonica UK had a total of 23.8 million accesses (up
+3.5% year-on-year), primarily drawing from the greater mobile customer base. This customer base grew
+3.1% over the course of the year, standing at 22.9 million in December 2012. The contract segment is the
+main lever for growth (up 8.8% year-on-year). In addition, the weight of contract customers raised 3 p.p.
+from 2011 to 2012, accounting for 52% of mobile accesses. The steady demand for smartphones
+increased the penetration of these handsets to 45% at the end of 2012, up from 38% the year before.
+
+Results
+Millions of euros % Var 10/11 % Var 11/12
+Local Local
+Telefénica UK 2010 2011 2012 € Currency € Currency
+Revenues 7,201 6926 7,042 (3.8)% (2.7)% 1.7%  (5.0)%
+Service revenues 6,513 6,198 6,060 (4.8)%  (3.7)%  (2.2)%  (8.6)%
+OIBDA 1,830 1,836 1,601 0.3% 1.5% (12.8)% (18.5)%
+OIBDA Margin 25.4% 26.5% 227% Ililpp. 1.lpp. (3.8)p.p. (3.8) p.p.
+Capex 717 732 748 2.0% 3.3% 2.2%  (4.5)%
+OpCF (OIBDA - Capex) 1,113 1,104 854 (0.8)% 0.3% (22.7)% (27.8)%
+
+* Revenues: Total revenues increased 1.7% year-on-year (or decreased 5.0% when excluding
+exchange rate effects) to 7,042 million euros. Mobile service revenues totaled 6,060 million euros, a
+year-on-year decrease of 2.2%. The impact of exchange rates accounted for 6.4 p.p. of the variance,
+
+Telefonica,S.A. 236
+
+
+--- Page 39 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+so excluding the effect of exchange rates, service revenue would have decreased 8.6%. These results
+were heavily impacted by reductions in interconnection rates and the new roaming rates, which
+dragged revenue growth by -4 p.p., excluding theses impacts, services revenues would have decreased
+by 4.7% year-on-year, due primarily to ARPU trends. Non-SMS data revenue rose 18.4% from 2011 to
+2012, underpinned by the higher presence of smartphones and the adoption of segmented data rates.
+Data revenues were up 2.4% compared to 2011, representing 51% of mobile service revenues (up 6
+p.p. year-on-year).
+
+Total ARPU slumped 9.3% year-on-year in local currency, heavily affected by the reduction in
+interconnection rates, which accounted for 3 p.p. of the decrease and a 7.7% decline in traffic. Voice
+ARPU fell 18.3% compared to 2011 due to lower interconnection rates, the new regulations on
+roaming rates, and the rates reduction made to stay competitive in the market. Data ARPU grew by
+1.5%, reflecting the success of limited-use data rates offers.
+
+Telefénica UK
+% Var Local % Var Local
+
+Currency Currency
+
+2010 2011 2012 10/11 11/12
+
+Traffic (million minutes) 58,143 52,250 48,250 (10.1)% (7.7)%
+
+ARPU (euros) 25.1 23.2 22.5 (6.6)% (9.3)%
+
+Prepay 11.8 10.3 9.6 (11.4)% (13.1)%
+
+Contract 40.6 37.1 35.0 (7.6)% (11.8)%
+
+Data ARPU 10.1 10.5 11.4 5.1% 1.5%
+% rev. non-SMS over data
+
+revenues 32.8% 40.5% 46.8% 7.7 p.p. 6.3 p.p.
+
+Mobile voice traffic was 7.7% lower than in 2011, primarily due to optimization of usage.
+
+OIBDA totaled 1,601 million euros in 2012, down 12.8% on the 2011 figure (down 18.5% on a
+constant euros basis), primarily as a result of the decreasing service revenue trends (derived from
+lower ARPU), partially offset by lower interconnection costs as a consequence of termination rate
+cuts. OIBDA drop is also affected by commercial costs increase in 2012 compared to 2011, especially
+in the first half of the year in response to the greater commercial activity undertaken in late 2011.
+
+2011 results
+
+¢ Revenues: Telefonica UK reported a 3.8% decrease in revenue to 6,926 million euros, with
+foreign exchange rates contributing a negative 1.1 p.p. Mobile service revenue was down 4.8% (-
+3.7% excluding foreign exchange rate effects), at 6,198 million euros. These results were heavily
+impacted by reductions in interconnection rates, excluding this impact, service revenues would
+have only fallen by 0.4%, because of lower customer growth and lower ARPU.
+
+* Total ARPU slumped 6.6% or 3.5% excluding the interconnection price cuts. Voice ARPU
+plunged 14.6% (or decreased 9.2% excluding interconnection price cuts) because of the
+optimization of traffic consumption outside of minute bundles, the reduction in rates amid stiff
+competition and the adverse macroeconomic climate Data ARPU growth held steady at 5.1%,
+with more than 80% of contract customers with data tariffs opting for limited data usage.
+
+Mobile voice traffic was 10% lower in 2011, due to the decrease in the pre-pay customer base
+and the optimization of usage.
+
+Telefonica,S.A. 237
+
+
+--- Page 40 ---
+
+SFelefonica 2012 Consolidated Financial Statements
+
+* OIBDA at Telefonica UK increased by 0.3% to 1,836 million euros in 2011 and increased by 1.5%
+excluding the impact of foreign exchange rates. That said, 72 million euros of non-recurring
+restructuring expenses were recognized in 2010. Excluding this impact as well, OIBDA would have
+fallen by 2.3% due to lower revenue.
+
+GERMANY
+Accesses
+Thousands of accesses 2010 2011 2012 %Var 10/11 % Var 11/12
+Fixed telephony accesses (1) 1,916.4 2,055.1 2,249.0 7.2% 9.4%
+Internet and data accesses 2,914.7 2,922.3 2,678.9 0.3% (8.3)%
+Narrowband 385.7 334.6 302.6 (13.2)% (9.6)%
+Broadband 2,529.1 2,587.7 2,376.3 2.3% (8.2)%
+Mobile accesses 17,049.2 18,380.1 19,299.9 7.8% 5.0%
+Pre-Pay 8,795.2 9,144.5 9,191.3 4.0% 0.5%
+Contract 8,254.0 9,235.7 10,108.5 11.9% 9.5%
+Pay TV 77.2 83.3 57.2 7.9% (31.3)%
+Final Clients Accesses 21,957.5 23,440.9 = 24,284.9 6.8% 3.6%
+Wholesale Accesses (2) 1,116.5 1,042.4 1,087.9 (6.6)% 4.4%
+Total Accesses 23,074.0 24,483.2 25,372.8 6.1% 3.6%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+accesses for internal use and VOIP and naked ADSL. As from the first quarter of 2012, the figure for fixed line telephone accesses in
+Germany includes 384 thousand VoIP customers in order to standardize these accesses with Telefonica criteria.
+
+(2) Includes unbundled lines rented by Telefonica Germany. In the fourth quarter of 2011, 78 thousand inactive accesses were
+derecognized in Germany.
+
+The company's strong operating performance in 2012, with solid net adds, is reflected in its financial
+statements, with growth in revenues and higher year-on-year growth in OIBDA (see explanation of 2011
+results for Germany). Telefonica Germany reported favorable trends in the OIBDA margin and growing
+revenues, despite the new cuts in termination rates established in December 2012. As a result, the
+company remains the third-largest integrated operator in the German market based on our internal
+estimates of market share.
+
+Telefonica Germany continues to gear its investment toward LTE mobile technology, with a view to
+meeting future growth and ensuring one of the most advanced VDSL platforms in the country.
+
+Telefonica Germany achieved a 3.6% increase in accesses in 2012, fuelled by 5.0% growth in mobile
+accesses on the back of a 9.5% larger contact customer base. This strong contract customer net add
+reflects the strong demand for integrated data mobile rates (“O2 Blue" rates").
+
+Demand for smartphones remained strong in the year, raising mobile broadband penetration by 6 p.p. to
+26% at December 31, 2012. This reflects the success of the "My Handy" handset distribution model, with
+an increase in the number of pre-pay customers using smartphone handsets, as the unit cost of these
+handsets is beginning to become attractive for those customers.
+
+Telefonica,S.A. 238
+
+
+--- Page 41 ---
+
+SFelefonica 2012 Consolidated Financial Statements
+
+Results
+Millions of euros % Var 10/11 % Var 11/12
+Local Local
+Telefénica Germany 2010 2011 2012 € Currency € Currency
+Revenues 4,826 5,035 5,213 4.3% 4.3% 3.5% 3.5%
+Wireless Business 3,414 3,606 3,845 5.6% 5.6% 6.6% 6.6%
+Service revenues 2,932 2,946 3,152 0.5% 0.5% 7.0% 7.0%
+Wireline Business 1,412 1,426 1,363 1.0% 1.0%  (4.4)%  (4.4)%
+OIBDA 944 1,219 1351 29.1% 29.1% 108% 108%
+OIBDA Margin 19.6% 24.2% 25.9% 47pp. 47pp. 1.7pp. 17pop.
+Capex 2,057 558 609 (72.9)% (72.9)% 9.2% 9.2%
+OpCF (OIBDA - Capex) (1,113) 662 743 nm. nm. 12.2% 12.2%
+
+n.m.:non meaningful
+
+Revenue: Total revenue rose 3.5% year-on-year to 5,213 million euros, primarily due to strong
+mobile revenues. Mobile services revenues increased by 7.0% year-on-year in 2012, drawing from
+the expanded contract customer base and the success of limited-use data rates. As a result, the
+30.7% year-on-year growth in non-P2P SMS data revenues continued to drive total data revenues.
+Mobile data revenues were up 16.1% compared to 2011, representing 44% of mobile service
+revenues (up 3 p.p. year-on-year).
+
+Revenue from the fixed line service fell 4.4% from 2011 to 2012, due mainly to the decrease in fixed
+broadband accesses.
+
+Total ARPU was up 0.9% in the year. Voice ARPU decreased 5% year-on-year; however, this
+decrease was offset by the strong data ARPU (up 9.3% compared to 2011), drawing from the greater
+share in mobile broadband and the increased adoption of integrated rates among the customer base.
+
+Telefénica Germany
+
+2010 2011 2012 %Var 10/11 % Var 11/12
+Traffic (million minutes) 25,543 27,993 29,519 9.6% 5.5%
+ARPU (euros) 14.8 13.6 13.8 (7.8)% 0.9%
+Prepay 6.1 5.7 5.5 (7.0)% (3.0)%
+Contract 23.8 21.9 215 (8.4)% (1.6)%
+Data ARPU 5.0 5.6 6.2 13.2% 9.3%
+% rev. non-SMS over data
+revenues 41.9% 50.4% 56.7% 8.5 pp. 6.3 pp.
+
+Mobile voice traffic rose 5.5% over the course of the year, underpinned by growth in the contract
+customer base.
+
+OIBDA rose 10.8% to 1,351 million euros, as a consequence of growth in mobile service revenues
+boosted by data revenue growth, combined with cost control as total operating expenses are nearly
+flat year-on-year. Supplies grow driven by increase in handset costs (higher commercial activity) and
+mobile interconnection expenses, personnel expenses increase due to general increase in salaries,
+and network costs also increase, partially offset by other expenses decrease with savings in
+administration expenses, bad debts and advertising costs.
+
+Telefonica,S.A. 239
+
+
+--- Page 42 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+2011 results
+
+Revenues: Total revenue rose 4.3% in 2011 to 5,035 million euros. Revenues for 2010 included the
+results of HanseNet as of mid-February 2010, while 2011 results included them for the full year.
+Excluding this impact, revenue would have increased by 1.6% during 2011.
+
+Mobile services revenues performed positively, especially at the end of 2011, although they were
+adversely affected by the reductions in interconnection tariffs. Excluding this effect, mobile services
+increased 7.1%, driven by growth in the customer base, and trends in ARPU Non-P2P SMS data
+revenue growth (49%) was a key driver of revenue, leveraging the increasing penetration of
+smartphones and the adoption of limited use data rates.
+
+Total ARPU fell 7.8% in the year due to the sharp reduction in interconnection rates in December
+2010. This impact accounted for 6.2 p.p. of the decrease. Excluding this impact, total ARPU would
+have only declined 1.6% mainly due to the weak performance of the pre-pay segment. Regulatory
+changes affected voice ARPU, with an 18.5% drop in the year. This was partly offset by the good
+performance of data ARPU (up 13.2%) thanks to increasing mobile broadband penetration and
+strong adoption of limited use data rates.
+
+Mobile traffic increased 10% in 2011 due to growth in the customer base and an overall increase in
+usage.
+
+OIBDA increased 29.1% to 1,219 million euros in 2011. Excluding the impact of the consolidation of
+HanseNet results from February 2010 and for 12 months in 2011 and the 202 million euros of
+restructuring provisions recognized in 2010, OIBDA in 2011 would have increased by 4.9% primarily
+due to higher revenues and efficiency gains achieved through the restructuring plan and other
+efficiencies, which offset the increase in commercial costs.
+
+Telefonica,S.A. 240
+
+
+--- Page 43 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+CZECH REPUBLIC AND SLOVAKIA
+
+Accesses
+
+Thousands of accesses 2010
+
+TELEFONICA CZECH
+
+REPUBLIC
+
+Fixed telephony accesses (1) 1,669.2
+Naked ADSL 163.7
+VoIP 38.6
+
+Internet and data accesses 898.8
+Narrowband 117.5
+Broadband 753.0
+Other (2) 28.3
+
+Mobile accesses 4,838.6
+Pre-Pay 1,975.0
+Contract 2,863.6
+
+Pay TV 129.2
+
+Final Clients Accesses 7,535.8
+
+Wholesale Accesses 131.2
+
+Total Accesses 7,667.0
+
+2011
+
+1,581.9
+237.4
+52.1
+970.6
+100.7
+839.6
+30.3
+4,941.7
+1,892.4
+3,049.3
+135.6
+7,629.8
+144.1
+7,773.9
+
+2012
+
+1,499.9
+285.9
+76.7
+1,016.1
+87.6
+899.4
+29.1
+5,082.9
+1,891.1
+3,191.7
+141.4
+7,740.3
+159.9
+7,900.1
+
+% Var 10/11 % Var 11/12
+
+(5.2)%
+45.0%
+35.0%
+8.0%
+(14.3)%
+11.5%
+6.9%
+2.1%
+(4.2)%
+6.5%
+5.0%
+1.2%
+9.8%
+1.4%
+
+(5.2)%
+20.4%
+47.2%
+4.7%
+(13.1)%
+7.1%
+(4.0)%
+2.9%
+(0.1)%
+4.7%
+43%
+1.4%
+11.0%
+1.6%
+
+(1) PSTN (including public use telephony) x1; ISDN basis access x1; ISDN primary access; 2/6 access x30. Includes the Group's
+
+accesses for internal use and VOIP and naked ADSL.
+(2) Remaining retail circuits other than broadband.
+
+Accesses
+
+Thousands of accesses 2010
+
+SLOVAKIA
+
+Mobile accesses 880.4
+Pre-Pay 545.9
+Contract 334.5
+
+Total Accesses 880.4
+
+2011
+
+1,164.1
+666.1
+498.0
+
+1,164.1
+
+2012
+
+1,354.2
+694.9
+659.3
+
+1,354.2
+
+% Var 10/11 % Var 11/12
+
+32.2%
+22.0%
+48.9%
+32.2%
+
+16.3%
+
+4.3%
+32.4%
+16.3%
+
+Accesses in the Czech Republic increased 1.6% in 2012 due to growth in mobile and fixed broadband
+accesses. The total mobile customer base rose 2.9% year-on-year, to 5.1 million customers at December
+31, 2012. This increase was driven by the steady growth in the contract segment (up 4.7% from 2011),
+which accounts for 63% of the total base (up 1 p.p. year-on-year). In Slovakia, the number of accesses
+
+continued to rise, largely underpinned by the contract segment.
+
+In respect of the 2012 performance of the fixed line telephone business:
+
+- Fixed line telephone accesses stood at 1.5 million at the 2012 year end, for a net loss of 82
+thousand customers during the course of the year.
+
+- Retail broadband accesses continue to rise (up 7.1% year-on-year), to 899 thousand at December
+31, 2012 (annual net add of 60 thousand accesses). VDSL continues to gain strength, with 260
+
+thousand customers subscribing to this service (32% of the residential xDSL customer base).
+
+- The number of pay TV customers reached 141 thousand at the 2012 year end (up 4.3% from
+
+2011).
+
+Telefénica, S.A.
+
+241
+
+
+--- Page 44 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+Results
+Millions of euros % Var 10/11 % Var 11/12
+Local Local
+Telefénica Czech Republic (*) 2010 2011 2012 € Currency € Currency
+Revenues 2,197 2,130 2,010 (3.0)%  (5.5)%  (5.7)%  (3.7)%
+Wireless Business 1,237 1,211 1,159 (2.1)% (4.4)% (4.3)%  (2.5)%
+Service revenues 1,182 1,145 1,097 (7.7)%  (54)% (4.2)%  (2.4)%
+Wireline Business 960 919 851 (4.2)% (6.9)% (7.4)% (5.4)%
+OIBDA 953 931 832 (2.3)%  (4.9)% (10.6)%  (8.7)%
+OIBDA Margin 43.4% 43.7% 414% O3pp. 0.3p.p. (2.3) p.p. (2.3) pp.
+Capex 224 229 248 2.1% — (0.5)% 8.6% 10.4%
+OpCF (OIBDA - Capex) 729 702 584 (3.7)%  (6.3)% (16.9)% (15.0)%
+
+(*) Includes Slovakia.
+
+2012 results
+
+Revenues in the Czech Republic and Slovakia amounted to 2,010 million euros, for a year-on-year
+decrease of 3.7% in local currency. Mobile service revenues amounted to 1,097 million euros (down
+2.4% year-on-year, in local currency), primarily reflecting weaker consumption across all segments
+and the lower mobile interconnection rates (which accounted for 3.4 p.p. of the year-on-year
+decline). When stripping out the impact of these rates cuts, mobile service revenues rose 1.0% from
+2011 to 2012.
+
+In Slovakia, revenue growth remained solid (up 22.1% compared to 2011), amounting to 192 million
+euros.
+
+Fixed line telephone revenues totaled 851 million euros (a 5.4% decrease from 2011), primarily due
+to pressures on fixed ARPU.
+
+OIBDA totaled 832 million euros, down 8.7% on 2011 in local currency. Pressure on revenues is the
+main reason for this drop, as operating costs are nearly flat year on year despite customer base
+growth and expansion of business activities. Efficiency measures have been implemented in both
+commercial and non-commercial areas of its operations, with personnel expenses declining
+significantly as a consequence of headcount reduction (excluding restructuring costs).
+
+2011 results
+
+Revenues in the Czech Republic and Slovakia amounted to 2,130 million euros, for a year-on-year
+decrease of 3%. In Slovakia, growth in the customer base led to higher revenues in 2011.
+
+OIBDA totaled 931 million euros in 2011, affected by major efficiency initiatives, sales of non-
+strategic assets and wide margins in Slovakia, which resulted in a smaller decrease in OIBDA than in
+revenue in the year.
+
+Telefénica,S.A. 242
+
+
+--- Page 45 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Services and products
+
+Mobile business
+
+Telefonica offers a wide variety of mobile and related services and products to personal and business
+customers. Although they vary from country to country, our principal services and products are as
+follows:
+
+* Mobile voice services: Our principal service in all of our markets is mobile voice telephony.
+
+¢ Value added services: Customers in most of the markets have access to a range of enhanced mobile
+calling features, including voice mail, call hold, call waiting, call forwarding and three-way calling.
+
+* Mobile data and Internet services: Current data services offered include Short Messaging Services,
+or SMS, and Multimedia Messaging Services, or MMS, which allow customers to send messages with
+images, photographs, sound recordings and video recordings. Customers may also receive selected
+information, such as news, sports scores and stock quotes. We also provide mobile broadband
+connectivity and Internet access. Through mobile Internet access, customers are able to send and
+receive e-mail, browse the Internet, download games, purchase goods and services in m-commerce
+transactions and use our other data and software services.
+
+* Wholesale services: Telefonica has signed network usage agreements with several MVNOs in
+different countries.
+
+* Corporate services: Telefonica provides business solutions, including mobile infrastructure in offices,
+private networking and portals for corporate customers that provide flexible online billing.
+
+* Roaming: Roaming agreements allow Telefonica customers to use their mobile handsets when they
+are outside their service territories, including on an international basis.
+
+¢ Fixed wireless. Telefonica provides fixed voice telephony services through mobile networks in
+Venezuela, Argentina, Peru, Mexico, Ecuador, El Salvador, Guatemala and Nicaragua.
+
+* Trunking and paging: In Spain and Guatemala, Telefonica provides digital mobile services for closed
+user groups of clients and paging services.
+
+¢ Mobile payment solutions: Through these services, customers can carry out banking transactions,
+purchases and mobile phone top-ups, among other financial transactions, using pre-paid accounts or
+through their existing bank accounts.
+
+Fixed business
+
+The principal services Telefonica offers in its fixed businesses in Europe and Latin America are:
+
+¢ Traditional fixed telecommunication services: Telefénica's principal traditional fixed
+telecommunication services include PSTN lines; ISDN accesses; public telephone services; local,
+domestic and international long-distance and fixed-to-mobile communications services; corporate
+communications services; supplementary value added services (including call waiting, call forwarding,
+voice and text messaging, advanced voicemail services and conference-call facilities); video
+telephony; business oriented value-added services; intelligent network services; leasing and sale of
+handset equipment; and telephony information services.
+
+¢ Internet and broadband multimedia services: the principal Internet and broadband multimedia
+services include Internet service provider service; portal and network services; retail and wholesale
+broadband access through ADSL, naked ADSL (broadband connection without the monthly fixed line
+fee); narrowband switched access to Internet for universal service, and other technologies. Telefonica
+
+Telefnica,S.A. 243
+
+
+--- Page 46 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+also offers high-speed Internet services through fiber to the home (FTTH) in certain markets (primarily
+Spain, Brazil and Chile) and VDSL-based services (primarily Spain, Czech Republic and Germany). The
+Company offers IPTV services, over-the-top network television services, and cable and satellite TV. In
+certain markets, advanced pay TV services are offered, such as high-definition TV (HDTV), Multiroom
+(allowing clients to watch different TV channels in different rooms) and Digital Video Recording (DVR).
+Telefonica provides VoIP services, as well as value-added services for the residential sector (including
+instant messaging, concerts and video clips by streaming video, e-learning, parental control, firewall
+protection, anti-virus protection, content download and personal computer sales). Value-added
+services for companies include "puesto integral/puesto informdtico", a comprehensive work station
+including ADSL, computer and maintenance for a fixed price, along with VoIP services
+
+Data and business-solutions services: the data and business-solutions services principally include
+leased lines; virtual private network, or VPN, services; fiber optics services; the provision of hosting and
+application, or ASP, service, including web hosting, managed hosting, content delivery and application,
+and security services; outsourcing and consultancy services, including network management, or CGP;
+and desktop services and system integration and professional services.
+
+Wholesale services for telecommunication operators: the wholesale services for
+telecommunication operators principally include domestic interconnection services; international
+wholesale services; leased lines for other operators’ network deployment; and local loop leasing under
+the unbundled local loop regulation framework). It also includes bit stream services, bit stream naked,
+wholesale line rental accesses and leased ducts for other operators’ fiber deployment.
+
+Cloud computing services, such as the Instant Servers services, Telefénica's new global public cloud
+service for corporate clients. This entails high-performance virtual servers that are optimized for
+mobile and corporate applications (both fixed and mobile).
+
+Telefonica,S.A. 244
+
+
+--- Page 47 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Share price performance
+
+The main European markets were severely affected by the performance of the debt markets in 2012. During
+the first half of the year, rising risk premiums of countries in Southern Europe drove the Ibex 35 index down
+to its lowest level since March 2003 on July 24, 2012, after the Spanish risk premium reached 627.7 points,
+situating the Spanish ten-year bond yield at 7.5%. Despite this, during the latter half of the year, decisions
+taken by the European Union and the statements of the Chairman of the ECB led to a gradual reduction in
+the risk premium and the equities markets rebounded, ending 2012 with gains across Europe: EStoxx-
+50 +13.8%; DAX +29.1%; CAC-40 +15.2%; FTSE-100 +5.8% and FTSEMIB: +7.8).
+
+The Spanish ten-year bond yield closed 2012 at 5.2% (5.0% at year-end 2011), while the spread
+compared to the German bond was 388.7 basis points (317.0 basis points at year-end 2011). This was
+reflected in the performance of the Spanish stock market which, despite gains in the second half of the
+year (+37% from lows in July), posted losses for the third consecutive year. The Ibex-35 index contracted
+by 4.7% in 2012 affected by the euro zone crisis, the rising risk premium and doubts surrounding the
+health of the financial sector.
+
+Against this backdrop, Telefonica shares dropped by 23.9% (10.19 euros per share at year-end 2012),
+having performed more poorly than the sector in Europe (-10.7%). Other European operators also
+suffered declining share prices during the year: KPN: -59.8%; France Telecom: -31.3%; Telecom Italia: -
+17.8%; PT: -15.8; Vodafone: -13.7%; Deutsche Telekom: -3,0%. The total return on Telefénica shares in
+2012 was -17.8% (including the dividends distributed throughout 2012).
+
+At the 2011 year end, Telefonica featured among the world's ten largest telecommunications company
+by market cap (46,375 million euros).
+
+Daily trading volume in Telefonica shares on Spain's continuous market was 42.9 million shares in 2012
+(56.4 million shares in 2011).
+
+Telefonica,S.A. 245
+
+
+--- Page 48 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Research, Development and Innovation
+
+Telefonica remains firmly committed to technological innovation as an essential tool for achieving
+competitive advantages, anticipating market trends and differentiating its products. By introducing new
+technologies and developing new products and business processes, we seek to become a more effective,
+efficient and customer-oriented Group.
+
+Telefonica has developed an open innovation model for the management of technological innovation to
+boost the application of technical research in the development of new commercial products and services.
+Telefonica focuses on certain applied research and development (R&D) priorities that are aligned with its
+strategy. Open innovation initiatives driving this model include the creation of a venture capital fund and
+involvement in business collaboration forums, among others. The model also promotes the use of
+knowledge developed at technology centers, universities and start-ups, among other sources, and
+encourages innovation in conjunction with other agents (e.g. customers, universities, public
+administrations, suppliers, content providers and other companies), making them “technological
+partners.” Telefonica believes it cannot rely solely on acquired technology to differentiate its products
+from those of its competitors and to improve its market positioning. It is also important to encourage
+R&D initiatives in an effort to achieve this differentiation and make inroads in other innovation activities.
+The Group's R&D policy is geared towards:
+
+¢ developing new products and services in order to win market share;
+
+* boosting customer loyalty;
+
+¢ increasing revenue;
+
+* enhancing innovation management;
+
+¢ improving business practices;
+
+* increasing the quality of infrastructure services to improve customer service and reduce costs;
+* promoting global products;
+
+* supporting open innovation; and
+
+* creating value from the technology generated.
+
+In 2012, the technological innovation projects undertaken focused on sustainable innovation, process
+efficiency, creation of new revenue streams, customer satisfaction, consolidation of operations in new
+markets and technological leadership.
+
+Technical innovation activities are a key part of Telefonica's strategy of creating value through latest-
+generation network communications and services.
+
+In 2012, projects were undertaken to promote greater access to information technology, new services
+focused on new internet business models, advanced user interfaces, mobile television and other
+broadband services. These initiatives, among others, were undertaken based on our objective of rapidly
+identifying emerging technologies that could have a relevant impact on our businesses and pilot testing
+these technologies in new services, applications and platform prototypes.
+
+Most of our R&D activities are carried out by Telefonica Investigacion y Desarrollo, S.A.U. (Telefonica I+D),
+a wholly-owned subsidiary, which works mainly for the lines of business. In its operations, Telefonica I+D
+receives the assistance of other companies and universities. Telefonica I+D's mission is centered on
+enhancing the Company's competitive positioning by leveraging technological innovation and product
+development. Telefonica I1+D undertakes experimental and applied research and new product
+
+Telefonica,S.A. 246
+
+
+--- Page 49 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+development with the overriding goal of broadening the range of services offered and reducing operating
+costs.
+
+Telefénica |+D's technological innovation activities focus on certain areas:
+
+Telefonica |+D's works on new networks, primarily in collaboration with Telefonica's Global Resources
+team. These activities are related with new radio access technologies (LTE-Advanced); network
+virtualization technologies, in line with the technology trend known as software defined networks (SDN);
+and network optimization and zero touch developments making networks more flexible and moldable
+and able to adapt dynamically to new digital consumer and service requirements.
+
+R&D activities to develop new products and services are conducted as part of Telefénica Digital's
+strategy. Indeed, Telefonica I+D' forms the foundations of Telefonica Digital's Product Development &
+Innovation Department. These activities include the following:
+
+* Natural P2P communication of the future, using the Internet, Web 2.0 and smartphones.
+
+* Video and multimedia services (combining text, audio, images and video) offering a user experience in
+all connected devices.
+
+¢ Advanced solutions in emerging ITC businesses such as e-health, and remote patient support or
+monitoring.
+
+* M2M (machine-to-machine) service management associated with energy efficiency and mobility.
+
+¢ Making use of user communication profiles to exploit opportunities to operate different products and
+business models (marketing campaigns, target marketing, contextual services, churn reduction, cross-
+selling, etc.)
+
+Telefénica |+D's also boasts scientific work groups with a more medium- to long-term focus and aim to
+look into opportunities relating to new networks and services and solutions to the technological
+challenges that arise.
+
+At December 31, 2012, Telefonica |+D had 667 employees (653 employees in 2011).
+
+Total I+D expense for 2012 amounted to 1,071 million euros, up 9% from the 983 million euros incurred
+in 2011 (797 million euros in 2010). This expense represents 1.7%, 1.6% and 1.3% of the Group's
+consolidated revenue for 2012,2011 and 2010, respectively. These figures were calculated using
+guidelines of the Organization for Economic Co-operation and Development (OECD). Using these and
+other guidelines, there are R&D costs that, due to the length of projects and/or accounting classifications,
+are not entirely included in the consolidated statement of financial position.
+
+In 2012, Telefonica registered 87 patents (95 patents in 2011), 78 of which were registered with the
+Spanish Patent and Trademark Office and (OEPM for its initials in Spanish) and nine with the United
+States Patent and Trademark Office (USPTO). Of the patents pending with the OEPM, 45 are Spanish (ES)
+applications, 29 European (EP) applications, and four international (PCT) applications.
+
+Telefonica,S.A. 247
+
+
+--- Page 50 ---
+
+Telefonica
+
+2012 Consolidated Financial Statements
+
+Financing
+
+The main financing transactions carried out in the bond market in 2012 are as follows:
+
+Nominal (millions)
+
+Currency of
+
+Item Date Maturity Date Currency Euros (1) __ issuance Coupon
+EMTN Bonds 02/07/2012 02/07/2017 120 120 EUR 4.7500%
+02/21/2012 02/21/2018 1,500 1,500 EUR 4.7970%
+03/12/2012 03/12/2020 700 858 GBP 5.5970%
+03/30/2012 _ 03/30/2017 1,250 50 CZK 3.9340%
+07/11/2012 07/11/2018 10,000 88 JPY —4.2500%
+09/19/2012 _ 09/05/2017 1,000 1,000 EUR 5.8110%
+10/19/2012 01/20/2020 1,200 1,200 EUR 4.7100%
+12/14/2012 12/14/2018 250 207 CHF _2.7180%
+12/14/2012 12/14/2022 150 124 CHF 3.4500%
+Telefénica Emisiones,
+S.A.U.
+100% CDI +
+Debentures 09/10/2012 09/10/2017 2,000 742 BRL 0.75% a.a.
+Telefonica Brasil, S.A.
+Bonds 10/12/2012 10/12/2022 500 379 USD 3.8750%
+Telefonica Chile, S.A.
+Bonds 09/27/2012 _ 09/27/2022 750 568 USD 5.375%
+Colombia
+Telecomunicaciones, S.A.
+ESP
+Bonds 08/10/2012 _ 08/10/2019 50 15 PEN 5.5313%
+Telefonica Moviles, S.A.
+(Pera)
+Debentures 11/29/2012 11/29/2022 1,165 1,165 EUR 4.1840%
+Telefonica, S.A.
+(1) Exchange rate as at December 31, 2012
+The main financing transactions carried out in the bank market in 2012 are as follows:
+Nominal
+(millions of Arrangement
+Item Limit Currency euros) Date _ Maturity Date
+Telefénica, S.A
+Bilateral loan 200 EUR 200 02/27/12 02/27/15
+Syndicated loan Tranche D2 * 923 EUR 923 03/02/12 12/14/15
+Telefonica Europe, B.V.
+Syndicated loan Tranche D1 * 801 EUR 801 03/02/12 12/14/15
+Syndicated loan Tranche E1 756 EUR - 03/02/12 03/02/17
+Syndicated loan Tranche E2 *** 1,469 GBP - 03/02/12 03/02/17
+Vendor Financing ** 375 uUsD 284 01/05/12 01/31/22
+Vendor Financing ** 1,200 usD - 08/28/12 10/31/23
+Colombia
+Bilateral loan 318,475 cop 137 09/27/12 09/27/19
+Bilateral loan 600,000 cop 257 09/28/12 09/28/19
+Czech Republic
+Sindicated loan 3,000 CZK 119 09/27/12 09/27/16
+* Facility signed in GBP redenominated into EUR on 12/14/12 and available from 12/14/12
+** Facilities with amortization schedule
+*** Available from 12/13/13
+Telefénica,S.A. 248
+
+
+--- Page 51 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Transactions with treasury shares
+
+At December 31, 2012, 2011 and 2010, Telefonica Group companies held the following shares in the
+Telefonica, S.A. parent company:
+
+Euros per share
+
+Number of Acquisition Market
+shares price Trading price value* %
+Treasury shares at 12/31/12 47,847,810 10.57 10.19 488 — 1.05136%
+Treasury shares at 12/31/11 84,209,364 15.68 13.39 1,127 1.84508%
+Treasury shares at 12/31/10 55,204,942 17.01 16.97 937 —1.20957%
+
+(*) Millions of euros
+
+Telefonica, S.A. directly owns all treasury shares in the Group, except 1 share that is held by Telefonica
+Moviles Argentina, S.A. at December 31, 2012 and 2011 (16,896 treasury shares held by Telefonica
+Moviles Argentina, S.A. at December 31, 2010).
+
+In 2010, 2011 and 2012 the following transactions involving treasury shares were carried out:
+
+Number of shares
+
+Treasury shares at 12/31/09 6,329,530
+Acquisitions 52,650,000
+Disposals (810,151)
+Employee share option plan (2,964,437)
+Treasury shares at 12/31/10 55,204,942
+Acquisitions 55,979,952
+Disposals (24,075,341)
+Employee share option plan (Note 20.a) (2,900,189)
+Treasury shares at 12/31/11 84,209,364
+Acquisitions 126,489,372
+Disposals (76,569,957)
+Employee share option plan (Note 20.a) (2,071,606)
+Capital reduction (84,209,363)
+Treasury shares at 12/31/12 47,847,810
+
+The amount paid to acquire treasury shares in 2012 was 1,346 million euros (822 million euros and
+897 million euros in 2011 and 2010, respectively).
+
+On May 25, 2012, pursuant to the resolutions adopted in the General Shareholders’ Meeting of May 14,
+2012, capital was reduced by redeeming 84,209,363 treasury shares, thereby reducing this caption by
+1,321 million euros.
+
+Treasury shares disposed of in 2012, 2011 and 2010 amounted to 801 million euros, 445 million euros
+and 14 million euros, respectively. The main disposals are as follows:
+
+In November 2012, Telefonica submitted an offer to acquire and redeem the preference shares that it had
+indirectly issued in 2002 through its subsidiary Telefonica Finance USA, LLC totaling 2,000 million euros.
+The offer entails acquiring these shares at their par value, subject unconditionally and irrevocably to the
+simultaneous reinvestment in Telefonica, S.A. shares and the subscription of newly issued plain-vanilla
+bonds, in the following percentage:
+
+Telefnica,S.A. 249
+
+
+--- Page 52 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+a) 40% of the amount in treasury shares of Telefonica, S.A.
+c) 60% of the amount of the bond subscription, of 600 euros nominal value, issued at face value.
+
+97% of the holders of the preference shares accepted the offer, and therefore 76,365,929 treasury
+shares with a carrying amount of 815 million euros (exchange value of 776 million euros) were handed
+over, which are included under “Disposals” in 2012.
+
+In addition to these disposals, on July 27, 2012, Group employees received 2,071,606 shares upon
+maturity of the first edition of the Global Employee Share Plan (GESP). In December 2012, the second
+phase of the GESP started, and 116,443 treasury shares were earmarked to meet the demand for shares
+of employees that have adhered to this plan.
+
+The sales for 2011 included 371 million euros in respect of the Strategic Partnership Agreement with
+China Unicom.
+
+Also in 2011, following the end of the third phase of the Performance Share Plan, a total of 2,446,104
+treasury shares were added, corresponding to two derivative financial instruments arranged by the
+Company to meet its obligations to deliver treasury shares to managers and executives. A net 2,900,189
+shares (33 million euros) was finally delivered. The fourth phase expired on June 30, 2012, with no shares
+being awarded.
+
+At December 31, 2012, 2011 and 2010, Telefonica held 178 million, 190 million and 160 million purchase
+options on treasury shares, subject to physical settlement.
+
+The Company also has a derivative financial instrument on approximately 28 million Telefonica shares,
+subject to net settlement, recognized under “Current financial assets” of the accompanying consolidated
+statement of financial position (26 million euros recognized under “Current interest-bearing debt”).
+
+Telefonica,S.A. 250
+
+
+--- Page 53 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Risks and uncertainties facing the company
+
+The Telefonica Group's business is conditioned by a series of intrinsic risk factors that affect exclusively
+the Group, as well as a series of external factors that are common to businesses of the same sector. The
+main risks and uncertainties facing the Company which could affect its business, financial position and
+results, are as follows:
+
+Group-related risks
+Country risk (investments in Latin America)
+
+At December 31, 2012, approximately 48.9% of the Telefonica Group's revenue (approximately 49.6% of
+its assets) is generated by the Latin American segment (primarily in Brazil, Argentina, Venezuela, Chile
+and Peru); 78.3% of those assets are generated in countries classified as investment grade (Brazil, Chile,
+Peru, Colombia, Mexico, Uruguay and Panama) by some of the credit rating agencies. The Telefonica
+business is especially sensitive to any of the risks related to Latin America described in this section,
+particularly if they affect or arise in Brazil, which at December 31, 2012 accounted for 50.6% of assets
+and 44.6% of revenue from Latin American operations.
+
+The Group's investments and operations in Latin America could be affected by a series of risks related to
+economic, political and social factors in these countries, collectively denominated “country risk,”
+including risks related to the following:
+
+* government regulation or administrative polices may change unexpectedly, including changes
+that modify the terms and conditions of licenses and concessions and their renewal (or delay
+their approvals) which could negatively affect the Group's interests in such countries;
+
+¢ the effects of inflation, currency depreciation or currency restrictions and other restraints on
+transfer of funds may be imposed. For example, in Venezuela, the official US Dollar to Bolivar
+fuerte exchange rate is established by the Central Bank of Venezuela and the Minister of Finance.
+Additionally, the acquisition of foreign currencies by Venezuelan companies to pay foreign debt
+or dividends is subject to the pre-authorization of the relevant Venezuelan authorities;
+
+* governments may expropriate or nationalize assets or increase their participation in the
+economy and companies; and
+
+* economic downturns, political instability and civil disturbances may negatively affect the
+Telefonica Group's operations in such countries.
+
+Foreign currency and interest rate risk
+
+The Telefonica Group's business is exposed to various types of market risks, above all the impact of
+changes in interest rates or foreign currency exchange rates.
+
+At December 31, 2012, 23% of the Group's net debt was at floating rates, while 20% was denominated in
+a currency other than the euro.
+
+To illustrate the sensitivity of financial expenses to a change in short-term interest rates at December 31,
+2012: (i) a 100 basis points increase in interest rates in all currencies in which Telefonica has a financial
+position at that date would lead to an increase in financial expenses of 96 million euros, (ii) whereas a 100
+basis points decrease in interest rates in all currencies except the euro, dollar and the pound sterling, in
+order to avoid negative rates, would lead to a reduction in financial expenses of 36 million euros. These
+calculations were made assuming a constant currency and balance position equivalent to the position at
+that date and bearing in mind the derivative financial instruments arranged.
+
+Telefnica,S.A. 251
+
+
+--- Page 54 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+As for the impact on the income statement, specifically exchange gains and losses in the financial result
+at December 31, 2012, the impact of a 10% increase or decrease in the exchange rate would be 159
+million euros (assuming a constant currency position with an impact on profit or loss at that date
+including derivative instruments arranged and that Latin American currencies would fall against the US
+dollar and the rest of the currencies against the euro by 10%).
+
+The Telefonica Group uses a variety of strategies to manage this risk, mainly through the use of financial
+derivatives, which themselves are also exposed to risk, including counterparty risk. Furthermore, the
+Group's risk management strategies may not achieve the desired effect, which could adversely affect the
+Group's business, financial condition, results of operations and cash flows.
+
+Dependence on external sources of financing
+
+The performance, expansion and improvement of networks, the development and distribution of the
+Telefonica Group's services and products, as well as the development and implementation of new
+technologies or the renewal of licenses require a substantial amount of financing.
+
+The performance of financial markets in terms of liquidity, cost of credit, access and volatility, continues
+to be overshadowed by persisting uncertainty regarding certain factors such as the pace of economic
+recovery, the health of the international banking system or the concerns regarding the burgeoning
+deficits of some European countries. The worsening international financial market conditions caused by
+some of these factors could make it more difficult and more expensive to refinance existing financial debt
+(at December 31, 2012, gross maturities in 2013, including the net position in derivative financial
+instruments, certain current payables and expected early redemptions amounted to around 10,074
+million euros, or 9,574 million euros should Telefonica elect not to exercise expected early redemptions,
+and in 2014 to 7,850 million euros) or arrange new debt if necessary, and more difficult and costly to
+raise funds from our shareholders.
+
+Furthermore, obtaining financing on the international capital markets could also be restricted (in terms of
+access and cost) if Telefonica's credit ratings are revised downwards, either due to lower solvency or
+operating performance, or as a result of a downgrade in the rating for Spanish sovereign risk by rating
+agencies. Any of these situations could have a negative impact on our ability to honor our debts.
+
+Moreover, market conditions could make it harder to renew existing undrawn bilateral credit lines, 18% of
+which, at December 31, 2012, initially mature prior to December 31, 2013.
+
+Risks related to the Company's industry
+Current global economic situation
+
+The Telefonica Group's business is impacted by general economic conditions in each of the countries in
+which it operates. The uncertainty about whether economic recovery will continue may negatively affect
+the level of demand from existing and prospective customers, as customers may no longer deem critical
+the services offered by the Group. The main macroeconomic factors that could have an adverse impact
+on consumption and, accordingly, demand for our services and the Telefonica Group's results include the
+dearth of credit as banks adjust their balance sheets, trends in the labor market, further erosion of
+consumer confidence, with an immediate increase in saving rates, or needs for greater fiscal adjustment,
+which would undermine household income levels. This risk is higher in Europe, but less relevant in other
+countries where the Telefonica Group operates.
+
+Similarly, the sovereign debt crisis in certain euro-area countries and rating downgrades in some of these
+countries should be taken into account. Any further deterioration in sovereign debt markets or greater
+restrictions on credit in the banking sector could have an adverse impact on Telefénica's ability to raise
+financing and/or obtain liquidity. This could have a negative effect on the Group's business, financial
+
+Telefnica,S.A. 252
+
+
+--- Page 55 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+condition, results of operations or cash flows. In addition, there could be other possible follow-on effects
+from the economic crisis on the Group's business, including insolvency of key customers or suppliers.
+
+Lastly, in Latin America, the exchange rate risk in Venezuela (as reflected by the recent currency
+devaluation in February 2013) and Argentina (with a constant devaluation of the Argentinean peso
+against U.S. dollar) exists in relation to the negative impact any unexpected weakening in their currencies
+could have on cash flows from these countries. On February 8, 2013, the Venezuelan bolivar fuerte was
+devalued from 4.3 bolivar fuertes per U.S. dollar to 6.3 bolivar fuertes per U.S. dollar. The exchange-rate
+situation of the Bolivar fuerte affects the estimates made by the Group of the net asset value of the
+foreign currency position related to investments in Venezuela, which translates to an approximate pre-
+tax loss of 438 million euros on the 2012 financial statements.
+
+Highly regulated markets
+
+As a multinational telecommunications company that operates in regulated markets, the Telefonica
+Group is subject to different laws and regulations in each of the jurisdictions in which it provides services
+and in which supranational regulators such as the European Union and national, state, regional and local
+authorities intervene to varying degrees and as appropriate. This regulation is strict in the countries in
+which the Company holds a significant market power position.
+
+In Europe, wholesale mobile network termination rates came down in 2011. There were considerable
+reductions in many of the countries where the Group operates, notably in the UK (with a final reduction
+scheduled for 2015 and a decrease in prices of over 83% compared to the end of 2010) and Germany
+(cuts of over 50% since December 2010). In Spain, the schedule for reducing mobile call termination rates
+came into play on April 16, 2012, and the target price (1.09 euros) will be attained in July 2013, with a
+decrease of approximately 75% in wholesale prices. Other countries where rates will fall as from 2012 are
+the Czech Republic (slightly more than 49%), Ireland (approximately 72%) and Slovakia (approximately
+58%).
+
+Other services with regulated prices in Europe include call roaming, SMS and data services. The European
+Parliament and Council has approved the new Roaming Ill regulation which replaces all previous
+regulations. The objective of this Regulation is to set maximum prices for voice and SMS retail and
+wholesale services between July 2012 and July 2014, which will then be progressively reduced. It also
+regulates retail and wholesale data roaming charges for the first time.
+
+Additionally, according to Roaming III, from July 2014, mobile operators would be forced to separate the
+sale of roaming services from their domestic services. This would allow users to choose a different
+operator for calls made in other Member States. Lastly, in relation to net neutrality, the new European
+regulatory framework establishes as a general principle the importance of ensuring European citizens
+have free internet access. Nevertheless, regulators could also adopt at any time measures or additional
+requirements to reduce roaming prices and fixed and/or mobile termination rates, and force Telefonica to
+provide third-party access to its networks.
+
+Moreover, in Latin America there is tendency to review —and reduce— mobile network termination rates.
+For instance, reductions of 61% and 60% have been approved in Mexico and Chile, respectively. In Brazil,
+in October 2011, the regulator (Anatel) approved the fixed-mobile rate adjustment regulation, which
+entails a gradual reduction of these rates through to 2014 by applying a CPl-factor, which results in a
+reduction of approximately 29% in 2012-2014. The absolute decrease in public rates must be passed on
+to mobile interconnection rates (VU-M). In addition, there is a trend towards reductions in termination
+rates in Peru, Venezuela and Colombia.
+
+The new regulatory principles established in Europe's common regulatory framework, adopted in 2009
+and transposed in the national legislation of each Member State in which Telefonica operated during
+2011 and 2012 could result in increased regulatory pressure on the local competitive environment.
+Specifically, this framework supports the possibility of national regulators, in specific cases and under
+
+Telefonica,S.A. 253
+
+
+--- Page 56 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+exceptional conditions, establishing the functional separation between the wholesale and retail
+businesses of operators with significant market power and vertically integrated operators, whereby they
+would be required to offer equal wholesale terms to third-party operators that acquire these products.
+
+The recommendation on the application of the European regulatory policy to next-generation broadband
+networks drawn up by the European Commission (EC) could also play a key role in the incentives for
+operators to invest in net fixed broadband networks in the short-term and medium-term, thus affecting
+the outlook for the business and competition in this market segment. Nonetheless, the EC is currently
+drafting respective recommendations on cost accounting and non-discrimination, and it is expected that
+these recommendations, which will affect the earlier recommendation, will be approved in mid-2013.
+According to statements by Commissioner Kroes, initial evaluations are that the Commission could make
+the regulation for new generation networks more flexible in exchange for stricter measures on new
+operators concerning non-discrimination.
+
+Meanwhile, as the Group provides most of its services under licenses, authorizations or concessions, it is
+vulnerable to economic fines for serious breaches and, ultimately, revocation or failure to renew these
+licenses, authorizations or concessions or the granting of new licenses to competitors for the provisions
+of services in a specific market.
+
+The Telefonica Group pursues their renewal to the extent provided by the contractual conditions, though
+it cannot guarantee that it will always complete this process successfully or under the most beneficial
+terms for the Group. In many cases it must satisfy certain obligations, including, among others, minimum
+specified quality standards, service and coverage conditions and capital investment. Failure to comply
+with these obligations could result in fines or even revocation or forfeiture of the license, authorization or
+concession.
+
+Additionally, the Telefonica Group could be affected by regulatory actions carried out by antitrust of
+competition authorities. These authorizations could prohibit certain actions, such as new acquisitions or
+specific practices, create obligations or lead to heavy fines. Any such measures implemented by the
+competition authorities could results in economic and/or reputational loss for the Group, in addition to a
+loss of market share and/or in harm to the future growth of certain businesses.
+
+Highly competitive markets and markets subject to constant technological development
+
+The Telefonica Group operates in markets that are highly competitive and subject to constant
+technological development. Therefore, it is subject to the effects of actions by competitors in these
+markets and its ability to anticipate and adapt to constant technological changes taking place in the
+industry.
+
+To compete effectively, the Telefonica Group needs to successfully market its products and services and
+respond to both commercial actions by competitors and other competitive factors affecting these
+markets, anticipating and adapting promptly to technological changes, changes in consumer preferences
+and general economic, political and social conditions. Failure to do so appropriately could have an adverse
+impact on the Group's financial condition, results of operations and cash flows.
+
+New products and technologies arise constantly, while the development of existing products and
+technologies can render obsolete the products and services the Telefonica Group offers and the
+technology it uses. This means that Telefénica must invest in the development of new products,
+technology and services so it can continue to compete effectively with current or future competitors, and
+which may result in the decrease of the Group's revenue margins. In this respect, margins from traditional
+voice and data business are shrinking, while new sources of revenues are deriving from mobile internet
+and connectivity services that are being launched. Research and development costs amounted to 1,071
+million euros and 983 million euros in 2012 and 2011, respectively, representing 1.7% and 1.6% of the
+Group's consolidated revenue, respectively.
+
+Telefonica,S.A. 254
+
+
+--- Page 57 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+One technology that telecommunications operators, including Telefonica (in Spain and Latin America),
+are focused on is the new FTTx-type network, which offers broadband access using optical fiber with
+superior services, e.g. internet speed of up to 100mb or HD television services. However, substantial
+investment is required to deploy these networks, which entails fully or partially substituting copper loop
+access with optic fiber. As things stand today, scant demand for the capabilities offered by these new
+networks to end users could make it difficult to quantify the return on investment and justify the high
+investment.
+
+In addition, many of the aforementioned works directed to network upgrade and to offer new products or
+services are not entirely under the Telefonica Group's control and could be constrained by applicable
+regulation.
+
+Limitations on spectrum capacity could be costly and curtail growth.
+
+Telefonica’s mobile operations in a number of countries may rely on the availability of spectrum. The
+Company's failure to obtain sufficient or appropriate spectrum capacity or its capacity to assume the
+related costs, could have an adverse impact on the quality on the launching and provision of new services
+and on the Companys ability to maintain the quality of existing services, which may adversely affect the
+Group's financial condition, results of operations and cash flows
+
+In 2012, Telefonica Ireland invested 127 million euros to obtain spectrum in the 800, 900 and 1800 MHz
+bands. On February 20, 2013, Telefonica UK was granted two blocks of 10 MHz in the 800 MHz spectrum
+band for the rollout of a nationwide 4G network, total investment was of approximately 645 million
+euros. Meanwhile, in 2012, an investment was made in spectrum capacity in Nicaragua amounting to 5
+million euros. In Brazil, Vivo was awarded a block of band with “X” of 2500 MHz (20+20 MHz), including
+the 450 MHz band in certain states in 2012. In Venezuela, in August 2012, a concession agreement was
+signed between Telefonica Venezuela and the regulator for the additional 20 MHz in the 1900 MHz
+frequency that had been granted to this company. Also in August 2012, Telefonica Moviles Chile, S.A. was
+awarded radiofrequencies for 4G technology. As regards new spectrum allocations in the countries where
+the Telefonica Group operates, in 2013 we are expecting auctions to take place in Slovakia, Colombia and
+Uruguay.
+
+Supplier failures
+
+As a mobile and fixed telephony operator and provider of telecommunications services and products, the
+Telefonica Group, like other companies in the industry, depends upon a small number of major suppliers
+for essential products and services, mainly network infrastructure and mobile handsets. Telefonica Group
+depends on 13 handset suppliers and five network infrastructure suppliers, which together accounted for
+80% of orders in 2012. These suppliers may, among other things, extend delivery times, raise prices and
+limit supply due to their own shortages and business requirements.
+
+If these suppliers fail to deliver products and services to the Telefonica Group on a timely basis, it could
+jeopardize network deployment and expansion plans, which in some cases could adversely affect the
+Telefonica Group's ability to satisfy its license terms and requirements or have an adverse impact on the
+Group's business, financial condition, results of operations and cash flows.
+
+Risks associated with unforeseen network interruptions
+
+Unanticipated network interruptions as a result of system failures, including those due to network,
+hardware or software or cyber-attacks, which affect the quality of or cause an interruption in the
+Telefonica Group's service, could lead to customer dissatisfaction, reduced revenues and traffic, costly
+repairs, penalties or other measures imposed by regulatory authorities and could harm the Telefonica
+Group's reputation.
+
+Telefonica,S.A. 255
+
+
+--- Page 58 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Telefonica attempts to mitigate these risks through a number of measures, including backup systems
+and protective systems such as firewalls, virus scanners and other physical and logical security. However,
+these measures are not always effective. Although the Telefonica Group has insurance policies to cover
+this type of incidents and risks, these policies may not be sufficient to cover all possible monetary losses,
+although the claims and loss in revenue caused by service interruptions to date have been covered by
+these policies.
+
+Electromagnetic radio emissions and possible health risks
+
+Currently, there is significant public concern regarding alleged potential effects of electromagnetic fields,
+emitted by mobile telephones and base stations, on human health. This social concern has caused certain
+governments and administrations to take measures that have hindered the deployment of the
+infrastructures necessary to ensure quality of service and affected the deployment criteria of new
+networks.
+
+In May 2011, the specialized cancer research body of the World Health Organization (IARC) classified the
+electromagnetic fields in mobile telephony as “possibly carcinogenic,” a classification which also includes
+products such as coffee and pickled foods. The World Health Organization subsequently indicated, in its
+fact sheet no. 193 published in June 2011, that to date it cannot be confirmed that the use of a mobile
+telephone has adverse effects on health.
+
+The most recent official study (to the best of our knowledge), published in 2012 by Advisory Group on
+Non-ionising Radiation (AGNIR), concludes that there are not convincing evidences showing that mobile
+phone technologies cause adverse effects in the health of individuals. It cannot be certain that future
+reports and medical studies establish a link between the electromagnetic signals or emissions of radio
+frequencies and health problems.
+
+Irrespective of the scientific evidence that may be obtained and even though the Telefonica Group has
+considered these risks and has an action plan for the various countries in which it provides services to
+ensure compliance with codes of good practice and relevant regulations, this concern, may affect the
+capacity to capture or retain customers, discourage the use of mobile telephones, or lead to legal costs
+and other expenses.
+
+Society's worries about radiofrequency emissions could reduce the use of mobile telephones, which could
+cause the public authorities to implement measures restricting where transmitters and cell sites can be
+located and how they operate, and the use of our mobile devices, telephones and other products using
+mobile technology. This could lead to the Company being unable to expand or improve its mobile
+network. Furthermore, if any relevant authorities request that the thresholds of exposure to
+electromagnetic fields be reduced, the Company may have to invest in reconstructing its network to
+comply with these guidelines.
+
+The adoption of new measures by governments or administrations or other regulatory interventions in
+this respect that may also arise in the future may adversely affect the Group's business, financial
+condition, results of operations and cash flows.
+
+Risk of asset impairment
+
+The Telefonica Group reviews on an annual basis, or more frequently when the circumstances require it,
+the value of assets and cash-generating units, to assess whether their carrying values can be supported
+by the future expected cash flows, including, in some cases synergies allowed for in acquisition cost.
+Potential changes in the regulatory, business, economic or political environment may result in the need
+to introduce changes to estimates made and recognize impairment losses in goodwill, intangible assets or
+fixed assets.
+
+Telefonica,S.A. 256
+
+
+--- Page 59 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Although the recognition of impairments of property, plant and equipment, intangible assets and
+financial assets results in a non-cash charge on the income statement, it could adversely affect the
+results of the Telefonica Group's operations. In this respect, the Telefonica Group has experienced
+impairment losses on certain of its investments, affecting the results of the year in which they were
+made. In 2012, an impairment loss was recognized on the stake in Telco, S.p.A. which, coupled with the
+impact of the recovery of all the operational synergies considered at the time of the investment and the
+profit contribution for the year, resulted in a negative impact of 1,277 million euros. In 2012, an
+impairment loss in goodwill was recognized amounting to 414 million euros for Telefonica operations in
+Ireland which, combined with the write-off of the intangible asset associated with the customer portfolio
+allocated to this market, resulted in a negative impact of 527 million euros.
+
+Risks associated with internet
+
+Our internet access and hosting services may involve us in civil liability for illegal or illicit use of the
+internet. In addition, Telefonica, like all telecommunications services providers, may be held liable for the
+loss, release or inappropriate modification of the customer data stored on its services or carried by its
+networks
+
+In most countries in which Telefonica operates, the provision of its internet access and hosting services
+(including the operation of websites with shelf-generated content) are regulated under a limited liability
+regime applicable to the content that it makes available to the public as a technical service provider,
+particularly content protected by copyright or similar laws. However, regulatory changes have been
+introduced imposing additional obligations on access providers (such as. blocking access to a website) as
+part of the struggle against some illegal or illicit uses of the internet, notably in Europe.
+
+Other risks
+Litigation and other legal proceedings
+
+Telefonica and Telefonica Group companies are party to lawsuits and other legal proceedings in the
+ordinary course of their businesses, the financial outcome of which is unpredictable. An adverse outcome
+or settlement in these or other proceedings could result in significant costs and may have a material
+adverse effect on the Group's business, financial condition, results of operations and cash flows.
+
+Telefonica,S.A. 257
+
+
+--- Page 60 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Trend evolution
+
+Telefonica is an integrated diversified telecommunications group that offers a wide range of services,
+mainly in Europe and Latin America. Its core business is the provision of fixed and mobile telephony,
+broadband, internet, data, pay TV and value added services, among others. The Group's operations in 25
+countries, managed through a regional organization geared towards certain businesses in global units,
+enable it to leverage the strong local positioning, as well as the advantages afforded by the scale, two
+features that have been reinforced by the opportunities arising from the Group's holdings in and strategic
+alliances with China Unicom and Telecom Italia.
+
+As a multinational telecommunications company that operates in regulated markets, Telefonica is
+subject to different laws and regulations in each of the jurisdictions in which it provides services.
+Telefonica expects the regulatory landscape to continue to change in Europe as a consequence of the
+revised regulations resulting from the implementation of the review of the common regulatory
+framework currently in place in the European Union. In addition, Telefonica may also face pressure from
+regulatory initiatives in some European countries regarding tariffs, the reform of rights of spectrum use
+and allocation, issues related to the quality of service, and the regulatory treatment of new broadband
+infrastructure deployments.
+
+Telefonica faces intense competition in the vast majority of the markets it operates in, and is therefore
+subject to the effects of actions taken by its competitors. The intensity of the competition may deepen,
+which could have an impact on tariff structures, consumption, market share and commercial activity and
+negatively affect the number of customers, revenues and profitability.
+
+However, Telefonica believes that it is in a strong competitive position in most of the markets where it
+operates, which it expects to help enable it to continue taking advantage of the growth opportunities that
+arise in these markets, such as by boosting both fixed and mobile broadband services and by furthering
+the development of services beyond connectivity, information technology services and related
+businesses. In this respect, Telefonica seeks to lead the industry by anticipating trends in the new digital
+environment.
+
+Telefonica embarked on a restructuring in September 2011 with the aim of reinforcing its growth story,
+actively participating in the digital world and capturing the most of the opportunities afforded by its scale
+and industrial alliances. This new organization gave rise to two cross-cutting areas, Telefonica Digital and
+Telefonica Global Resources, in addition to the Telefonica Europe and Telefonica Latin America business
+segments. This structure should bolster Telefénica’s place in the digital world, enabling it to tap any
+growth opportunities arising in this environment, drive innovation, strengthen the product and services
+portfolio and maximize the advantages afforded by its global customer bases in an increasingly
+connected world. In addition, the creation of a Global Resources operating unit ensures the profitability
+and sustainability of the business by leveraging economies of scale and driving Telefonica's
+transformation into a fully global company. Telefonica Europe's and Telefonica Latin America’s objective
+is to shore up the results of the business and generate sustainable growth through available capacity,
+backed by the Global Corporation.
+
+In Europe, customers remain at the core of the Group's strategy and management priorities in the region
+in order to provide a high level of customer satisfaction with our services. With the objective of offering
+our customers the best value, we aim to boost the mobile broadband services, adding new products and
+services to our current services. In such a competitive market such as presently prevails, we will dedicate
+our efforts on reinforcing our market positioning. Another objective in coming years is to improve
+operating efficiency, for which we are rolling out several local and regional initiatives, such as network
+sharing agreements, with the support of Telefonica Global Resources.
+
+In Telefonica Europe, in Spain, a transformation strategy was kicked off half way through 2011 to
+improve the Company's competitive position in the market and boost the efficiency of its business
+
+Telefonica,S.A. 258
+
+
+--- Page 61 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+model. This strategy has led to major changes in the sales and operating model, such as improvements to
+the value proposition and service quality by the end of 2011 through the launch of a new tariff portfolio,
+the elimination of subsidies to attract customers in March 2012, and the launch of Movistar Fusién
+(convergent offer meeting all home communication needs). Telefonica will continue to focus on service
+quality, improving the effectiveness of campaigns in the sales channel, and further increasing network
+quality and characteristics (by developing fiber optics). The aim of this strategy is to boost customer
+satisfaction by offering them a portfolio of products and services that best meets their communication
+needs.
+
+In Latin America, Telefonica’s strategy is based on a regional model that captures growth and efficiency
+of scale without losing sight of the local management of the client. Telefonica expects the mobile
+business to continue to play a fundamental role as an engine of regional growth. That is why we will
+continue to improve the capacity and coverage of our networks, adapting our distribution channel to
+enhance the quality of our offerings both in voice and data in order to keep and attract high-value
+customers. Regarding the fixed telephony business, we will encourage the increase of broadband speed
+and expand the supply of bundled services. Meanwhile, we will further advance efficiency, in operational
+and commercial terms, and attempt to achieve further synergies by implementing global, regional and
+local projects.
+
+In summary, in the context of intense competition and regulatory pressure on pricing, Telefonica aims to
+continue strengthening its business model to make it more efficient and capture the synergies arising
+from the integrated approach of businesses, processes and technologies, while focusing even more on
+the client and staying ahead of trends in the new digital world.
+
+Telefonica,S.A. 259
+
+
+--- Page 62 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+Events after the reporting period
+
+The following events regarding the Telefonica Group took place between December 31, 2012 and the
+date of authorization for issue of the accompanying consolidated financial statements:
+
+Financing
+
+On January 22, 2013, Telefonica Emisiones, S.A.U., as part of the European Medium Term Note
+(“EMTN") registered with the Financial Services Authority (FSA) in London and updated on June
+12, 2012, issued bonds for an amount of 1,500 million euros maturing on January 23, 2023.
+These bonds are guaranteed by Telefonica, S.A.
+
+In January 2013, repayments were made for a total amount of 1,830 million euros of the
+syndicated loan signed by Telefonica, S.A. on July 28, 2010.
+
+On February 4, 2013 Telefonica Emisiones, S.A.U. redeemed bonds that were issued on July 2,
+2007, for an amount of 750 million US dollars and 850 million US dollars (approximately 1,213
+million euros). These bonds were guaranteed by Telefonica, S.A.
+
+On February 14, 2013 Telefonica Emisiones, $.A.U. redeemed bonds that were issued on October
+31, 2004, for an amount of 1,500 million US dollars. These bonds were guaranteed by Telefonica,
+SA.
+
+On February 21, 2013, Telefonica, S.A. arranged financing for the purchase of capital goods from
+suppliers worth 206 million euros maturing in 2016. At the date of authorization for issue of
+these consolidated financial statements, no amount of this financing had been drawn down.
+
+On February 22, 2013, Telefonica, S.A. arranged financing for the purchase of capital goods
+worth 1,001 million US dollars (approximately 759 million euros). At the date of authorization for
+issue of these consolidated financial statements, no amount of this financing had been drawn
+down.
+
+On February 22, 2013, Telefonica, S.A. arranging refinancing of 1,400 million euros for Tranche
+A2 (initially for 2,000 million euros with expected maturity on July 28, 2014) of the 8,000 million
+euros syndicated loan arranged on July 28, 2010. This refinancing entails two tranches: a
+syndicated loan of 700 million euros maturing in 2017 and a syndicated loan of 700 million euros
+maturing in 2018.
+
+Devaluation of the Venezuelan bolivar
+
+On February 8, 2013, the Venezuelan bolivar was devalued from 4.3 bolivars per US dollar to 6.3 bolivars
+per US dollar.
+
+The new exchange rate of 6.3 bolivars per US dollar will be used from 2013 in the conversion of financial
+information on Venezuelan subsidiaries. The main aspects to be considered in 2013 are as follows:
+
+The decrease of the Telefonica Group's net assets in Venezuela as a result of the conversion to
+euros at the new exchange rate with a balancing entry in Group equity of approximately 1,000
+million euros, based on the net assets as at December 31, 2012.
+
+As part of the decrease mentioned above, the value in euros of the net financial assets
+denominated in bolivars will drop by approximately 873 million euros, considering the balance at
+December 31, 2012.
+
+Telefonica,S.A. 260
+
+
+--- Page 63 ---
+
+Selefonica 2012 Consolidated Financial Statements
+
+The income and cash flows from Venezuela will be converted at the new devalued closing exchange rate
+from January 1, 2013.
+
+UK spectrum auction
+
+On February 20, 2013, Telefonica UK Limited won two 10 MHz blocks in the 800 MHz spectrum band in
+the UK spectrum auction.
+
+Total investment by Telefonica UK in new frequencies amounted to 550 million pounds sterling
+(approximately 645 million euros).
+
+Telefonica,S.A. 261

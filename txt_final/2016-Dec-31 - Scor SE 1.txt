@@ -1,0 +1,3314 @@
+
+
+--- Page 1 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Introduction
+
+EXMI INTRODUCTION
+
+The information included in this section referring to the nature and
+extent of risks arising from financial instruments and insurance and
+reinsurance contracts as required by IFRS 7 — Financial Instruments:
+Disclosures and IFRS 4 — Insurance Contracts, is an integral part of
+the consolidated financial statements as at December 31, 2016.
+As such, the corresponding information is audited.
+
+The Group regularly conducts reviews of the risks that could have
+a material adverse effect on its activity, its financial situation or
+its results (or capacity to reach objectives), and considers that no
+other significant risk than those disclosed in the section below
+exists. This section outlines the management's current view
+of SCOR’s main risks and main risk management mechanisms
+currently in place.
+
+The Group has identified the following risk categories:
+e strategic risks;
+
+e underwriting risks related to the P&C and Life reinsurance
+businesses;
+
+e market risks;
+
+© credit risks;
+
+e liquidity risks;
+
+© operational risks.
+
+If the risks disclosed in this section were to occur, they could
+potentially have a significant impact on SCOR's business, present
+and future revenues, net income, cash flows, financial position,
+and potentially, on its share price.
+
+All risks described in Section 3 are managed through a variety
+of mechanisms in SCOR’s ERM (Enterprise Risk Management)
+Framework, whose main ones are also described below.
+
+SCOR’s ERM framework is further described in Appendix A —
+Report of the Chairman on the internal control which contains
+a description of the Group risk management procedures as well
+as the role and function of each administrative and management
+body and team involved in risk management and related control
+functions.
+
+Although risk management mechanisms have been designed and
+rolled out across the Group in order to prevent all risks from having
+
+112 ©—— Registration Document 2016 /SCOR
+
+a significant impact, there is no guarantee that these mechanisms
+achieve their intended objective. Many of SCOR’s methods for
+managing risks and exposures are based on observed historical
+market behavior, statistics based on historical models, or expert
+judgment. As a result, these methods may not fully predict future
+exposures, which may be significantly greater than estimated,
+particularly in unstable or volatile markets and environments.
+Other risk management methods depend upon the evaluation
+of information regarding markets, clients, natural catastrophes or
+other matters that is publicly available or otherwise accessible to
+SCOR. This information may not always be accurate, complete,
+up-to-date or properly evaluated.
+
+SCOR may also be exposed to emerging risks, which include new
+threats or constantly changing current risks with a high degree of
+uncertainty. They may arise from the numerous changes to the
+environment in which the Group operates, such as changes in
+professional practices, or in legal, jurisdictional, regulatory, social,
+political, economic, financial and/or environmental conditions.
+
+Emerging risks may adversely affect SCOR’s reinsurance business
+due to either a change in interpretation of the contracts leading
+to extensions of covers beyond what policyholders had expected
+(e.g. due to the inapplicability or interpretation of certain clauses)
+or by increasing the frequency and/or severity of claims. Such
+risks may also lead to higher fluctuations than expected in
+macroeconomic indicators such as interest rates and price level,
+or disruptions in financial markets, further impacting SCOR’s
+business. In addition, emerging risks may also have a direct impact
+on SCOR’s operations, for instance by generating unexpected
+additional expenses. Examples of emerging risks include: cyber-
+attacks, antimicrobial resistance, non-controlled bio-experiments,
+climate change, electromagnetic fields, extreme social unrest and
+Eurozone break-up.
+
+Therefore, the Group cannot exclude the possibility of exceeding
+SCOR‘s risk tolerance limits due to an incorrect estimation of its
+risks and exposures. This may have an adverse impact on SCOR’s
+business, present and future revenues, net income, cash flows,
+financial position, and potentially, on SCOR’s share price.
+
+
+--- Page 2 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+ERAN STRATEGIC RISK
+
+Strategic risk can arise either from the strategy itself (such as
+the accumulation of risks or development in lines of business
+or less known markets), from external risks (such as an adverse
+economic environment), or from internal risks (such as certain
+causes of operational risk). Therefore, many of the risks discussed
+
+Strategic risk <
+
+throughout Section 3, including emerging risks, could also impact
+the success of the strategy.
+
+The main strategic risks to which SCOR is exposed are described
+below.
+
+3.2.1. RISKS RELATED TO THE MACROECONOMIC ENVIRONMENT
+
+AFFECTING SCOR’S STRATEGY.
+
+The main risks are the uncertain economic recovery that may affect
+SCOR’s growth, in both emerging and advanced economies, and
+the poor returns on financial markets exacerbating the adverse
+competitive environment.
+
+3.2.1.1. DIFFICULT CONDITIONS IN THE
+GLOBAL CAPITAL MARKETS
+AND DIFFICULT ECONOMIC
+CONDITIONS MAY MATERIALLY
+ADVERSELY AFFECT SCOR’S
+BUSINESS AND OPERATING
+RESULT
+
+The Group's operating result could be materially affected by the
+economic and financial situations in France and other countries
+in continental Europe, the United Kingdom, the United States
+of America and elsewhere around the world, particularly in
+Latin America and Asia Pacific. Any continued deterioration
+in macroeconomic trends could have an adverse effect on
+SCOR’'s business and operating result, even more so as the
+global economy is still in convalescence since the 2008 financial
+crisis and remains vulnerable to negative economic, financial
+and geo-political shocks fueled by ongoing tensions or open
+conflicts in several global regions. In particular, the growing
+debt of governments in advanced economies and of private
+companies in emerging countries could generate significant
+adjustments if the main central banks were to raise interest
+rates. As a result, financial markets could enter a period of
+high volatility, which could lead to adverse consequences such
+as waves of company defaults, or a major liquidity crisis. The
+financial situation in many Eurozone countries remains unstable
+and downgrades of some states’ financial ratings have occurred.
+SCOR cannot predict whether any of the other government
+securities that it holds in its investment portfolio will be adversely
+affected in the future by ratings downgrades, the continuing
+debt crisis or other developments. For further information on
+investments, see Section 1.3.5.4 — Net investment income and
+investment income on invested assets and Section 4.6 — Notes
+to the consolidated financial statements, Note 7 — Insurance
+business investments.
+
+The global economy may suffer from a sharp shift in US monetary
+policy, which could spur a rise in interest rates along the entire
+yield curve. Financing conditions could thus deteriorate across
+
+sectors and economies. In particular, emerging and developing
+economies may suffer from capital outflows in the wake of any
+US monetary normalization.
+
+This difficult environment and the continuing market upheavals
+may have an adverse effect on SCOR, from both an investment
+and reinsurance business viewpoint. Furthermore, the economic
+uncertainty might be compounded by recent political changes
+such as the results of the Brexit referendum, the outcome of the
+elections in the USA, Germany and France.
+
+Impact on SCOR’s investment activities
+
+SCOR has a large investment portfolio. In the event of extreme
+prolonged market events, such as global credit crises, SCOR could
+incur significant losses in its investment portfolio.
+
+See Section 4.6 — Notes to the consolidated financial statements,
+Note 7 — Insurance business investments, which includes analyses
+of unrealized and realized investment losses.
+
+Even in the absence of a market downturn, SCOR remains
+exposed to a substantial risk of losses due to market volatility.
+See Section 3.4 — Market risk.
+
+Impact on SCOR’s reinsurance business
+
+SCOR is also dependent upon customer behavior and premium
+growth. The Group's premiums are likely to decline in such
+circumstances and its profit margins could erode. In an economic
+downturn characterized by higher unemployment, lower
+household income, lower corporate earnings, lower business
+investment and lower consumer spending, the demand for SCOR’s
+and its clients’ products could be adversely affected. Factors such
+as government and consumer spending, corporate investment,
+the volatility and strength of both debt and equity markets, and
+inflation, all affect the business and economic environment and
+ultimately, the size and profitability of SCOR’s business.
+
+In addition, the Group may experience an elevated incidence of
+claims or be impacted by a decrease in demand for reinsurance and
+increased surrenders of policies from the cedents (see paragraph
+on lapse risk in Section 3.3.2 — Life reinsurance) that could affect
+the current and future profitability of its business. Although
+written premiums have seen steady growth in prior years, a
+prolonged economic crisis could result in lower written premiums
+in the future.
+
+#3
+
+SCOR / Registration Document 201% ———@) 113
+
+
+--- Page 3 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Strategic risk
+
+3.2.1.2. SCOR IS EXPOSED TO
+SIGNIFICANT AND PROTRACTED
+DEVIATIONS OF THE GENERAL
+PRICE LEVEL FROM ITS TREND
+
+The Group’s liabilities are exposed to a significant increase in
+the rate of inflation (prices and salaries) which would require an
+increase in the value of reserves, in particular in respect of P&C
+long-tail business, e.g. general liability (medical among others)
+and motor bodily injury claims. In addition, SCOR is exposed to
+claims inflation over and above general inflation and in particular
+to the inflation of court awards in respect of general liability and
+bodily injury claims.
+
+For further information on P&C long-tail reserve deterioration,
+refer to Section 3.3.1 — P&C reinsurance.
+
+SCOR‘s assets are also exposed to increased inflation or inflationary
+expectations, accompanied by a rise in the yield curve with a
+subsequent reduction in the market value of its fixed income
+portfolios. Increased inflation could also have a negative impact on
+the solvency of bond issuers; a widening of credit spreads would
+lead to a loss of value for the issuers’ bonds. Finally, depending on
+the macroeconomic environment, an increase in inflation could
+also reduce the value of SCOR’s equity portfolio. Any negative
+fluctuations in equity values would lead to a similar decrease in
+shareholders’ equity.
+
+Conversely, the Group’s liabilities could be exposed to a protracted
+period of deflation which could exert a negative pressure on
+reinsurance prices and decrease the value of new premiums.
+
+A protracted period of deflation would also induce a decrease
+in interest rates all along the yield curve and may therefore
+negatively impact the returns on SCOR's fixed income assets. In
+addition, the value of SCOR’s equity portfolio might be reduced
+as deflation could reduce the future cash flows of the companies
+whose stocks are part of the Group’s portfolio.
+
+In conclusion, both high inflation and a protracted episode of
+deflation could have a material adverse effect on SCOR.
+
+3.2.1.3. MANAGEMENT
+OF RISKS RELATED
+TO THE MACROECONOMIC
+ENVIRONMENT
+
+These risks are monitored via a robust strategic planning approach
+and regular risk reporting mechanisms throughout the Group,
+including complementary risk analyses on ad-hoc topics, where
+deemed necessary. Potential impacts on SCOR‘s risk profile are
+managed through a variety of dedicated and transversal risk
+management mechanisms. For more details on risk reporting
+mechanisms and roles and responsibilities of SCOR’s main
+governance bodies, see Appendix A — Report of the Chairman
+of the Board of Directors.
+
+3.2.2. RISKS RELATED TO THE COMPETITIVE ENVIRONMENT.
+
+3.2.2.1. SCOR OPERATES IN A HIGHLY
+COMPETITIVE SECTOR AND
+WOULD BE ADVERSELY
+AFFECTED BY LOSING
+COMPETITIVE ADVANTAGE
+OR IF ADVERSE EVENTS
+HAD AN IMPACT ON THE
+REINSURANCE INDUSTRY
+
+Reinsurance is a highly competitive sector. As is the case for all
+other reinsurers, SCOR’s position in the reinsurance market is
+based on several factors, such as its financial strength as assessed
+by the rating agencies, its underwriting expertise, reputation and
+experience in the lines written, the countries in which it operates,
+the premiums charged, as well as the quality of the proposed
+reinsurance products and services offered, particularly in terms
+of claims payment. The Group competes for business in the
+European, American, Asian and other international markets with
+
+114 ©—— Registration Document 2016 /SCOR
+
+numerous international and domestic reinsurance companies,
+some of which have a larger market share than SCOR, greater
+financial resources, state backing, and, in certain cases, higher
+ratings from the rating agencies.
+
+Therefore, SCOR remains exposed to the risk of losing its
+competitive advantage. In particular, when available reinsurance
+capacity via traditional reinsurers or capital markets is greater
+than the demand from ceding companies. Its competitors, in
+particular (re)insurers benefiting from higher ratings than SCOR's
+or other competitors in alternative capital markets, may be better
+positioned to enter new contracts and gain market shares at
+SCOR's expense.
+
+Furthermore, the Group’s reputation is sensitive to reinsurance
+sector information. It can be affected by adverse events concerning
+competitors but also by its own business activity, such as financial
+difficulties following a major market event. Loss of reputation due
+to internal risks would also weaken SCOR’s competitive position.
+
+
+--- Page 4 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+3.2.2.2. CONSOLIDATION IN THE
+INSURANCE AND REINSURANCE
+INDUSTRIES COULD ADVERSELY
+IMPACT SCOR
+
+After a very active 2015 in terms of M&A, the first half of 2016
+was very calm, however, in September 2016 M&A activity in the
+insurance and reinsurance sector picked up again.
+
+Within the insurance industry, these consolidated entities may
+use their enhanced market power and broader capital base to
+negotiate price reductions for SCOR’s products and services,
+and reduce their use of reinsurance, and as such, the Group
+may experience price declines and possibly write less business.
+
+Within the reinsurance industry, such external growth activity
+could potentially enhance these players’ competitive position,
+
+Strategic risk <
+
+e.g. in terms of being able to offer greater capacity or broader
+product offerings, which could permit them to gain market shares
+at SCOR’s expense.
+
+3.2.2.3. MANAGEMENT OF RISKS
+RELATED TO THE COMPETITIVE
+ENVIRONMENT
+
+As for risks related to the macro-economic environment, risks
+related to the competitive environment are monitored via a
+robust strategic planning approach and regular risk reporting
+mechanisms throughout the Group, including complementary risk
+analyses on ad-hoc topics, where deemed necessary. For more
+details on risk reporting mechanisms and roles and responsibilities
+of SCOR’s main governance bodies, see Appendix A — Report of
+the Chairman of the Board of Directors.
+
+3.2.3. RISKS RELATED TO LEGAL AND REGULATORY DEVELOPMENTS.
+
+3.2.3.1. MAIN RISKS RELATED TO
+LEGISLATIVE AND REGULATORY
+DEVELOPMENTS
+
+SCOR is subject to comprehensive and detailed regulations and
+to the supervision of the insurance and reinsurance regulatory
+authorities in all countries in which it operates. Some of these
+authorities, especially in non-European countries, are considering
+or may in the future consider enhanced or new regulatory
+requirements intended to prevent future crises or otherwise
+assure the stability of institutions under their supervision and
+submit them to reinforced measures of control and higher capital
+requirements. These changes could affect the calculation of the
+local solvency ratio and have a material adverse impact on the
+Group. Insurance and reinsurance supervisory authorities have
+broad administrative power over many aspects of the reinsurance
+industry and SCOR cannot predict the timing or form of any
+future regulatory initiatives.
+
+The Solvency II regime applies since January 1, 2016, in the
+European Union. It has been transposed in French law in 2015.
+Actual implementation by supervisory and regulatory authorities
+could vary between these jurisdictions, which could place SCOR
+at a competitive disadvantage with regard to other European
+financial services groups.
+
+Furthermore, supervisory and regulatory authorities could make
+the protection of policyholders and financial stability prevail
+over shareholders or creditors of a reinsurer when designing
+new regulations, especially in developing countries. These new
+regulations may then increase solvency margin obligations, thereby
+restricting SCOR’s underwriting capacity.
+
+In November 2016, the Financial Stability Board (FSB) published
+the updated list of systemic direct insurers (G-Slls) based on a
+recommendation by the International Association of Insurance
+Supervisors (IAIS). As the IAIS is continuing to work on its
+methodology for assessing systemic (re)insurers, there is a risk
+that SCOR will receive such a designation in subsequent updates.
+The impact of receiving such a designation is a risk of a higher
+capital requirement, a Higher Loss Absorbency (HLA), and greater
+regulatory burdens such as the establishment of resolution plans.
+On the other hand, there is a possibility that G-Slls could benefit
+from a market perception of an implicit state guarantee. Were
+SCOR’s competitors to receive such a designation and SCOR were
+not, there could be a risk of SCOR’s market perception weakening
+relative to these peers.
+
+In the meantime, the International Association of Insurance
+Supervisors (IAIS) has been developing a common framework for
+internationally active insurance groups (IAIGs), the ComFrame.
+The IAIS intends to develop Insurance Capital Standards (ICSs)
+to be applied by all IAlGs with implementation in 2020. This
+development could jeopardize the extent of recognition of
+diversification effects or the use of internal models, and could
+have an impact on capital management. Moreover, these standards
+involve risks in terms of competition on a level playing field if
+they are not implemented simultaneously and consistently across
+different jurisdictions.
+
+Similarly, changes in tax legislation and regulations, or in their
+interpretation, may have a negative impact on SCOR’‘s results, e.g.
+due to the inability to recognize deferred tax assets in the future.
+
+#3
+
+SCOR / Registration Document 201% ———@) 115
+
+
+--- Page 5 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Strategic risk
+
+3.2.3.2. OTHER LEGAL AND REGULATORY
+DEVELOPMENTS
+
+The reinsurance sector has been exposed in the past, and may
+be exposed in the future, to involvement in legal proceedings,
+regulatory inquiries and actions by various administrative and
+regulatory authorities, as well as to regulation concerning certain
+practices used in the insurance sector.
+
+More generally, adverse changes in laws or regulations or an
+adverse outcome of any legal proceeding could have an adverse
+impact on SCOR. For further details on SCOR's current litigations,
+see Section 4.6 — Notes to the consolidated financial statements,
+Note 25 - Litigation.
+
+For further information on risks related to current legislation
+and regulations and their impact on SCOR’s operations, see
+Section 3.7.1.4 Risks related to external events.
+
+3.2.3.3. MANAGEMENT OF RISKS
+RELATED TO LEGAL AND
+REGULATORY DEVELOPMENTS
+
+SCOR monitors the legal and supervisory developments which
+could have an impact on the Group and its entities, ensuring in
+particular that it takes an active position vis-a-vis the requirements
+to which it is exposed or could be exposed in the different
+jurisdictions where it operates and that it prepares in due time
+for their implementation.
+
+In particular, developments in prudential regulations (such as
+Solvency Il, ComFrame or the regulations on systemic risk) are
+monitored at Group level by the Prudential and Regulatory Affairs
+Department. Regulations relating to corporate law and business
+compliance are monitored by the General Secretariat and, within
+it, the Legal Department.
+
+3.2.4. DOWNGRADE RISK_—__—
+
+3.2.4.1. OVERVIEW
+OF DOWNGRADE RISK
+
+Credit ratings are very important to all reinsurance companies,
+including SCOR, as ceding companies wish to reinsure their risks
+with companies that have a satisfactory financial position. For more
+details on the current rating of the Group, see Section 1.2.4 —
+Ratings information.
+
+Impact on SCOR’s reinsurance business
+
+Some of SCOR's cedents’ credit models or reinsurance guidelines
+face regulatory capital requirements or depend on their reinsurers’
+credit rating. If SCOR's rating deteriorates, cedents could be
+forced to increase their capital requirement in respect of their
+counterparty risk on SCOR. This could lead to a loss of competitive
+advantage for SCOR.
+
+The Group's Life reinsurance activities and the Business Solutions
+(large corporate accounts underwritten essentially on a facultative
+basis and occasionally as direct insurance) business area in P&C
+reinsurance are particularly sensitive to the way its existing and
+prospective clients perceive its financial strength, notably through
+its ratings.
+
+Many of SCOR‘s reinsurance treaties, notably in the US and in Asia,
+and also increasingly in Europe, contain clauses concerning the
+financial strength of the Company and/or its operating subsidiaries,
+and provide for the possibility of early termination for its cedents if
+the rating of the Company and/or its subsidiaries is downgraded.
+Early termination may also occur when the net financial position
+of the Company falls below a certain threshold, or if it carries
+out a reduction in share capital.
+
+116 ©@—— Registration Document 2016 /SCOR
+
+Impact on the Group’s letters of credit
+
+Many of the Group’s reinsurance treaties contain a requirement
+to put in place letters of credit (LOC) as a general requirement or
+when triggered by a downgrade of SCOR or one of its subsidiaries.
+In certain circumstances, the cedent has the right to draw down
+on a LOC issued by a bank in SCOR’s name.
+
+Some LOCs issued by banks providing such facilities may be
+collateralized with securities. The value of the collateral can be
+different from the amount of the LOC. For some facilities, initial
+collateral requirements may be increased following a downgrade
+of SCOR’s rating, impacting the Group's liquidity level. In the case
+of a LOC being drawn by a cedent, the bank has the right to
+request a cash payment from this collateral, up to the amount
+drawn by the cedent.
+
+In the case of a large number of LOCs being drawn simultaneously,
+SCOR could encounter difficulties in providing the total amount
+of required cash or fungible assets, thus exposing the Group to
+a liquidity risk.
+
+Moreover, some of SCOR’s facilities contain conditions about its
+financial situation which, if not met, constitute a default and might
+result in the suspension of the use of current credit facilities and/
+or a prohibition on obtaining new lines of credit or result in the
+need to negotiate new LOC facilities under adverse conditions.
+
+For more details about the Group’s lines of credit, see Section 1.3.6 -—
+Financial position, liquidity and capital resources. For more details
+on liquidity risk, see Section 3.6 — Liquidity risk.
+
+
+--- Page 6 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+3.2.4.2. MANAGEMENT
+OF DOWNGRADE RISK
+
+SCOR’s current ratings are at the highest levels within the
+reinsurance sector after Standard & Poor's and Fitch upgraded
+the Group's ratings to “AA-" from “A+” in 2015, followed by a
+Moody's upgrade to Aa3/Stable and an AM Best confirmation of
+positive outlook in September 2016. Therefore, a downgrade by
+one notch would not endanger its future business development,
+its liquidity position or its capacity to raise funds. For further
+information on SCOR‘s current rating, see Section 1.2.4 - Ratings
+information.
+
+SCOR monitors its ratings assigned by the top four rating agencies
+via a dedicated team placed under the supervision of the Group
+Chief Financial Officer.
+
+Strategic risk <
+
+This team analyses rating agencies’ methodologies, reports
+published on the reinsurance market, on SCOR and on its main
+competitors, in order to anticipate any potential rating actions. It
+also monitors specific qualitative and quantitative Key Performance
+Indicators developed by the four main rating agencies, and
+performs analyses of selected deterministic scenarios (for more
+details on ‘footprint scenarios’ process, see Appendix A — 2.
+Internal control and risk management procedures). It also monitors
+the capital adequacy level as measured by the capital models
+developed by rating agencies.
+
+3.2.5. THE VALUATION OF SCOR’S INTANGIBLE ASSETS AND DEFERRED TAX
+ASSETS MAY SIGNIFICANTLY AFFECT ITS SHAREHOLDERS’ EQUITY
+
+AND THE PRICE OF ITS SECURITIES.
+
+3.2.5.1. RISKS RELATED TO THE
+VALUATION OF SCOR’S
+INTANGIBLE ASSETS AND
+DEFERRED TAX ASSETS
+
+Asignificant portion of SCOR’s assets consists of intangible assets,
+the value of which depends on its expected future profitability
+and cash flows. The valuation of intangible assets is largely based
+on subjective and complex judgments concerning items that are
+uncertain by nature. If a change were to occur in the assumptions
+underlying the valuation of its intangible assets (including goodwill,
+value of business acquired and deferred acquisition costs), SCOR
+would have to reduce their value, in whole or in part, thereby
+reducing shareholders’ equity and its results.
+
+The recognition of deferred tax assets, i.e. the likelihood of
+recognizing sufficient profits in the future to offset losses,
+depends on the performance of each entity concerned as well
+as applicable tax laws, regulatory requirements and accounting
+methods. The occurrence of events, such as operational earnings
+lower than currently projected or losses continuing over a longer
+period than originally planned or changes in tax legislation,
+regulatory requirements, or accounting methods could lead to
+the derecognition of part of the deferred tax assets for accounting
+and/or regulatory purposes.
+
+Details of intangible assets, related impairment testing policy
+and recent acquisitions are included in Section 4.6 — Notes to
+the consolidated financial statements, Note 1 — Accounting
+principles and methods, Note 3 — Acquisitions and disposals,
+Note 5 — Goodwill, Note 6 — Value Of Business Acquired and
+Note 17 — Income taxes.
+
+3.2.5.2. MANAGEMENT OF VALUATION
+RISKS RELATED TO SCOR’S
+INTANGIBLE ASSETS AND
+DEFERRED TAX ASSETS
+
+Valuation risks related to SCOR’s intangible assets and deferred
+tax assets are managed through robust processes and controls
+throughout the Group.
+
+See Section 3.7 - Management of operational risk for further details
+on SCOR’s Internal control system approach, Appendix A — Report
+of the Chairman of the Board of Directors, Section 2.4.1 — Group
+functions for a description of some of the departments involved
+in the management of intangible assets and Appendix A — Report
+of the Chairman on the internal control, Section 2.7 — Financial
+reporting for further details on the production of SCOR‘s technical
+and financial results, including intangible assets.
+
+For further details on the management of valuation risks related
+to goodwill and Value of Business Acquired, see Section 3.2.6.2 —
+Management of risks related to acquisitions.
+
+#3
+
+SCOR / Registration Document 201% ———@) 117
+
+
+--- Page 7 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Strategic risk
+
+3.2.6. OTHER STRATEGIC RISKS.
+
+SCOR may be exposed to other less significant strategic risks
+further described below.
+
+3.2.6.1. RISKS RELATED TO CAPITAL
+
+Capital may not be completely fungible between
+different regulated legal entities, which may
+have negative consequences
+
+SCOR‘s regulated legal entities must satisfy local regulatory capital
+requirements. There could potentially be some local regulatory
+constraints, which in certain circumstances could affect SCOR’s
+ability to transfer capital from one legal entity to another, and
+in particular from one subsidiary or branch to another, or to the
+parent legal entity. This may have negative consequences for
+the legal entity concerned and could have a material adverse
+impact on SCOR.
+
+In addition, ongoing regulatory developments and discussions
+on global standards may impact SCOR in the future.
+
+Adverse capital and credit market conditions
+may significantly affect SCOR’s ability to access
+capital and/or liquidity and increase its cost
+
+of capital
+
+Disruptions, uncertainty or volatility in the capital and credit
+markets may also limit the Group’s access to capital required to
+operate its business, most significantly its insurance operations.
+Such market conditions may limit its ability to:
+
+e replace, in a timely manner, maturing debts;
+e access the capital needed to grow its business;
+
+e satisfy statutory capital requirements and maintain a solvency
+ratio in line with its risk appetite framework.
+
+As such, SCOR may be forced to delay raising capital, issue shorter
+term securities than it prefers, or bear an unattractive cost of
+capital which could decrease its profitability and significantly
+reduce its financial flexibility.
+
+Disruptions to financial markets, and more particularly credit
+market conditions, could also affect SCOR’s ability to access
+liquidity. Please see Section 3.6 — Liquidity risk, for further details.
+
+For further information on changes in the macro-economic
+environment that could impact SCOR, refer to Section 3.2.1 — Risks
+related to the macro-economic environment affecting SCOR’s
+strategy.
+
+118 ©@—— Registration Document 2016 /SCOR
+
+Management of risks related to capital
+
+Risks related to capital are managed via specific principles and
+processes throughout the Group. SCOR ensures maximum capital
+fungibility within the Group through:
+
+e a reduced number of subsidiaries enhancing fungibility while
+supporting local business presence. It is facilitated by the
+“Societas Europaea” (SE) structure supported by an efficient
+branch set-up in Europe, enabling integrated supervision at
+Group parent company level through SCOR SE, focusing on
+communication with a limited number of supervisors with whom
+SCOR can share its global strategy, while taking advantage of
+diversification benefits;
+
+© an integrated supervision of regulatory constraints at Group
+level and an optimal capital allocation.
+
+SCOR manages efficiently its capital allocation and fungibility
+among subsidiaries based on legal and regulatory constraints.
+SCOR is continuously leveraging, in its day-to-day activity, on
+various tools that are core to the reinsurance activity (such as
+intra-group retrocession, intra-group financing, portfolio transfer,
+capital transfer or collateral posting).
+
+3.2.6.2. RISKS RELATED TO ACQUISITIONS
+
+Overview of risks related to acquisitions
+
+SCOR has made a number of acquisitions around the world.
+Acquisitions involve risks that could adversely affect its operating
+results, including the substantial amount of management time
+that may be diverted from operations to pursue and complete
+acquisitions. Acquisitions could also result in additional
+indebtedness, costs, contingent liabilities, and impairment and
+amortization expenses related to goodwill and other intangible
+assets. In addition, acquisitions may expose SCOR to operational
+challenges and various risks.
+
+A failure to successfully manage such operational challenges
+could adversely affect the Group.
+
+The businesses SCOR has recently acquired are described in
+Section 1.2.2 — History and development of SCOR.
+
+
+--- Page 8 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Specific risks relating to the acquired businesses are as follows:
+
+Integration of the acquired activities may prove
+to be more difficult than expected
+
+Integrations may take longer, be more expensive or more difficult
+than expected. The success of integrations may depend on
+operational and commercial planning, execution of systems and
+procedures, and on the retention of key employees. Difficulties
+could result in higher integration costs or fewer synergies than
+expected.
+
+Retaining client relationships and related business
+volumes
+
+It may be outside the control and influence of SCOR to retain
+certain client relationships and business volumes related to
+acquired businesses. Related earnings and efficiencies may
+be lower than expected, which may dilute the return on such
+acquisition related investments.
+
+AEGON's insolvency might impair the value
+of business acquired (VOBA) of SCOR Global Life
+
+Since August 2011, the majority of the mortality reinsurance
+business in the US related to the former Transamerica Reinsurance
+Co. flows into SCOR via retrocession from AEGON companies.
+Not all underlying reinsurance agreements between cedents and
+AEGON have been novated; an AEGON insolvency might reduce
+or terminate cedent premiums passed on to SCOR, and impair
+the value of business acquired (“VOBA”) and have a material
+adverse effect on SCOR.
+
+Certain risks relating to acquired companies
+may not yet be known
+
+Due notably to the size and complexity of acquisitions, and
+despite pre-acquisition due diligence work carried out, there is
+a risk that not all financial elements (including litigation related
+
+Strategic risk <
+
+to prior periods) may have been fully and/or correctly evaluated.
+Unknown or unexpected financial risks could emerge, which may
+have significant consequences on the initially estimated impact
+of the relevant acquisition on the combined Group.
+
+Management of risks related to acquisitions
+
+SCOR adheres to high internal standards for acquisition processes,
+governance and integration, based on an approach approved by
+its Executive Committee.
+
+SCOR retains outside legal, accounting, tax, actuarial, regulatory
+and financial counsel for its due diligence, valuation and integration
+assessments and execution, led by experienced employees in
+various multi-jurisdictional disciplines, including but not limited
+to underwriting, structuring, valuation, accounting, tax, actuarial,
+risk management, legal, audit, strategy, claims management,
+regulatory, rating agencies, and asset management. SCOR's
+governance is overseen by a Group Steering Committee, chaired
+by its Chief Executive Officer and including various members of
+SCOR's Executive Committee. All progress, assessments and any
+offers made to third parties are generally presented and approved
+by the Strategy Committee of SCOR's Board of Directors.
+
+All planned acquisitions that may have an impact on SCOR’s
+risk profile are reviewed in collaboration with SCOR’s risk
+management teams. Integration of acquired businesses typically
+begins during the due diligence phase and is carefully planned
+between SCOR and the personnel of the acquired companies.
+SCOR integration plans typically take into account all systems,
+procedures, commitments and constraints, as well as employees,
+clients, suppliers and contractual third parties, and focuses on
+pre-closing, closing day and post-closing objectives. While SCOR
+has experience in managing acquisitions and takes care in planning
+and executing such operations, the outcomes may not always
+meet expectations.
+
+#3
+
+SCOR / Registration Document 201% ———@) 119
+
+
+--- Page 9 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Underwriting risk related to the P&C and life reinsurance business
+
+EX UNDERWRITING RISK RELATED TO THE P&C
+AND LIFE REINSURANCE BUSINESS
+
+For further details on the terminology used to describe the Group's
+activity, see Section 1.2.5 — Business overview.
+
+The main risk the Group faces in relation to insurance and
+reinsurance contracts is that the actual amounts of claims and
+indemnity payments, or the timing thereof, differ from estimates.
+The frequency of claims, their severity, the actual payments
+made, the development of long-tail claims (whether they be
+litigated or not), and long-term mortality trends as well as external
+factors such as those listed below, are all beyond the Group's
+control. Additionally, the Group is dependent on the quality
+of underwriting of its cedents for certain reinsurance treaties,
+and on the quality of claims management by these companies
+and the data provided by them. Under these uncertainties, the
+Group seeks to ensure that sufficient reserves are available to
+cover its liabilities.
+
+Generally, SCOR’s ability to increase or maintain its portfolios
+of insurance and reinsurance risks in the P&C and Life divisions
+may depend on external factors such as professional practices,
+legal, jurisdictional, regulatory, social, political, economic,
+financial and environmental conditions. These factors create
+uncertainties and may adversely affect SCOR’s business due to
+either an interpretation of the contracts leading to an extension
+of coverage (e.g. through inapplicability or interpretation or
+overriding of treaty clauses) or by increasing the frequency and/
+or severity of claims beyond what was anticipated at the time
+of the underwriting.
+
+SCOR mitigates its underwriting risk related to the P&C and Life
+reinsurance business through the purchase of risk-mitigation
+covers, both on the traditional retrocession market and on the
+capital markets via alternative risk transfer solutions (e.g. the
+
+3.3.1. P&C REINSURANCE
+
+multi-year securitization of catastrophic and pandemic risk in the
+form of Insurance-Linked Securities (“ILS”) and the issuance of
+contingent capital facilities). However, there is a risk that SCOR may
+not be able to transfer its liabilities through the purchase of such
+instruments on economically viable terms and conditions in the
+future. For further details on retrocession and other risk mitigation
+techniques within SCOR, see Section 3.3.1.4 — Management of
+underwriting risk related to the P&C and 3.3.2.7 - Management
+of underwriting risk related to Life reinsurance business and
+Appendix A — 2 Internal control and risk management procedures —
+paragraph on capital shield strategy.
+
+Consistent with the Group's strategy of selective market and
+business division development, SCOR seeks to maintain a portfolio
+of business risks that is strategically diversified geographically, by
+line and class of business and over time (short and long-tail). The
+Group's insurance risk exposure is mitigated by diversification
+across a large portfolio of reinsurance contracts. The volatility
+of risks is reduced by careful business selection, implementation
+of underwriting guidelines, the use of retrocession and other
+tisk transfer arrangements and proactive claims handling as
+well as underwriting, claims and administration audits at ceding
+companies.
+
+SCOR underwrites reinsurance covers in P&C and Life and
+occasionally in direct P&C insurance.
+
+SCOR writes direct insurance, primarily on a business-to-business
+basis to cover large corporate risks through the Business Solutions
+domain of SCOR Global P&C and through the participation in
+Lloyd's syndicates including Channel 2015, for which SCOR is
+the sole capital provider as well as through some participations
+in business ventures and partnerships.
+
+The main risks linked with the P&C reinsurance business (and
+direct insurance activity) underwritten by SCOR'’s P&C division
+are P&C long-tail reserves deterioration, natural and man-made
+catastrophes, including terrorism, and other risks beyond its direct
+control such as systematic crisis or the cyclicality of the business.
+
+3.3.1.1. P&C LONG-TAIL RESERVE
+DETERIORATION
+
+This is the risk that the P&C claims inflation is higher than
+assumed in the calculation of the Best Estimate Liabilities (BEL)
+and mostly affects the long-tail lines of business, such as all
+
+120 ©—— Registration Document 2016 /SCOR
+
+casualty, professional liability and financial lines, inherent defect
+and construction warranty, medical malpractice, motor (first and
+third party liability) and workers’ compensation. Claims inflation
+is influenced by, but not directly linked to general inflation.
+
+For SCOR‘s casualty business, the frequency and severity of claims
+and the related amounts of indemnity paid can be affected by
+several factors. The most significant factors are the changing legal
+and regulatory environment, including changes in civil liability
+law and jurisprudence.
+
+For further information on risks related to reserves, see
+Section 3.3.4 — Risks related to reserves.
+
+
+--- Page 10 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Underwriting risk related to the P&C and life reinsurance business <
+
+3.3.1.2. NATURAL AND MAN-MADE
+CATASTROPHES
+
+SCOR's property business underwritten by SCOR Global P&C is
+exposed to multiple insured losses arising from single or multiple
+events, which can be catastrophic, being either caused by nature
+(e.g. hurricane, typhoon, windstorm, flood, hail, severe winter
+storm, earthquake) or man-made (e.g. explosion, fire at a major
+industrial facility, act of terrorism). Any such catastrophic event
+can generate insured losses in one or several of SCOR's lines of
+business.
+
+Natural Catastrophes
+
+The most material catastrophes in SCOR’s risk profile are related to
+natural events, mainly tropical cyclones, windstorms, earthquakes
+and floods arising in North America and Europe and affecting
+property, engineering and possibly other lines of business.
+
+SCOR manages its gross exposure to catastrophes through a
+comprehensive risk transfer and capital protection program which
+combines traditional retrocession and non-traditional solutions,
+including catastrophe bonds and a contingent capital equity line.
+
+For further information on management of underwriting risks
+within the P&C division, refer to Section 3.3.1.5 - Management
+of underwriting risks related to the P&C business. For further
+information on SCOR’s retrocession and other risk mitigation
+techniques, refer to Section 3.3.5 — Retrocession and other risk
+mitigation techniques.
+
+Man-Made Catastrophes
+
+SCOR is exposed to insured losses, arising from single or multiple
+events, which can be catastrophic, caused by the occurrence
+of a man-made event. The lines of business mostly exposed
+to man-made catastrophe are property (other than natural
+catastrophe), marine, motor, casualty, credit and surety, aviation
+and space.
+
+Property
+
+Man-made catastrophes refer to negligent or deliberate human
+actions, e.g. conflagration, a large explosion and fire at a major
+industrial site, and terrorism. These events can cause great damage
+to property and lives. Malicious man-made events often target
+large cities and illustrious landmarks such as international airports
+and governmental facilities.
+
+In particular, SCOR is exposed to single or multiple terrorist attacks
+through some P&C treaties and national terrorism pools. Terrorism
+exposures are monitored on a worldwide basis as a fully integrated
+part of the Underwriting Management Framework. Underwriting
+
+guidelines stipulate the rules and procedures for terrorism risk for
+Treaty P&C, Specialty lines and SCOR Business Solutions (SBS).
+SCOR monitors this risk using a very conservative approach.
+
+SCOR's exposure to terrorism arises from participation in the
+protection of existing national terrorism pools and exposure from
+some markets that do not permit the exclusion of terrorism from
+insurance policies due to local regulation, such as in the US, or
+due to market practice. Furthermore, the US insurance market
+is exposed to significant risks due to the insurance obligation
+created by the law. However federal aid is also provided by the
+Terrorism Risk Insurance Program Reauthorization Act (“TRIPRA”).
+
+A terror event could also have an impact on SCOR’ life portfolio.
+Although in past events the life claims incurred have been
+comparatively small compared to the non-life claims, a terrorist
+act might claim a large number of insured lives.
+
+Casualty
+
+SCOR is also exposed to man-made casualty catastrophes whose
+underlying nature and key specificities can vary widely, from
+commonly used products (with Asbestos as a typical example),
+massive product liability losses emanating from items produced by
+asingle manufacturer, to a single disastrous event (e.g. Deepwater
+Horizon oil rig explosion).
+
+The amount of information available on casualty catastrophes
+is limited. In contrast to property catastrophes, which are short
+term in nature (limited number of days between insured event
+and loss emergence), at which point reasonable estimates of the
+size of the loss can be calculated, most casualty catastrophes
+emerge gradually and the full extent of the losses is often not
+known for decades.
+
+SCOR is engaged in the development of advanced liability
+catastrophe analytics, and data mining and modeling techniques
+for improving its prediction capabilities for man-made casualty
+event losses.
+
+Property and Casualty
+
+The extent of the loss event and the affected lines of business
+will vary depending on the man-made event. SCOR can be
+affected from a man-made event simultaneously in the property
+and the casualty lines of business, e.g. if the explosion at a large
+industrial site destroys the industrial facility, but also pollutes the
+environment, given its proximity to vulnerable landscape (e.g.
+river, lake), and causes property damages and bodily injuries
+affecting the population.
+
+For further information on management of underwriting risks
+within the P&C Division, refer to Section 3.3.1.4 - Management
+of underwriting risks related to the P&C business.
+
+#3
+
+SCOR / Registration Document 201% ———€@) 121
+
+
+--- Page 11 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Underwriting risk related to the P&C and life reinsurance business
+
+3.3.1.3. OTHER RISK CONSIDERATIONS
+
+In addition to the two main risks of SCOR’s P&C underwriting risk
+as listed above, other factors could have an adverse impact, such
+as systemic crisis, cyclicality of the business and concentration
+risks related to its broker business.
+
+Systemic Crisis
+
+Historically, reinsurers have experienced significant fluctuations in
+operating income due to volatile and unpredictable developments,
+many of which are beyond the control of the reinsurer including
+general economic conditions, levels of capacity offered by the
+market, and the level of competition with regards to pricing. In
+particular some SCOR‘s lines of business which are directly linked to
+financial activities are more exposed to global economic recessions
+(e.g. systemic crisis post Lehman Brothers): as an example specialty
+lines such as credit and surety or liability risk such as Errors &
+Omissions and Directors & Officers Liability.
+
+Cyclicality of the business
+
+P&C insurance and reinsurance businesses are cyclical. The primary
+consequences of the market softening are a reduction in the
+volume of P&C reinsurance premiums on the market, an increase in
+competition within the reinsurance market, and also a preference
+for those operators who are most attentive to the specific needs
+of the cedents and the most capable of answering them. This
+could lead potentially to a loss of competitive advantage for SCOR.
+
+Beyond the general trends, the premium rate cycle affects certain
+geographic markets and/or certain lines of business in different
+ways and different levels, independently of each other.
+
+Concentration risk related to its broker business
+
+SCOR produces out its P&C business both through both brokers
+and through direct relationships with insurance company clients.
+For the year ended December 31, 2016, P&C wrote approximately
+61% of gross written premiums through brokers and 39% through
+direct business, while Life wrote approximately 6% through
+brokers and approximately 94% through direct business. For
+P&C, the largest brokers that the Group wrote gross premium
+with were Aon Group with approximately 19% MMC with
+approximately 15% and Willis Group with approximately 10% of
+total gross written premiums. See Section 1.2.5.4 — paragraph on
+distribution by production source. The risk for SCOR is mainly the
+concentration of premiums written through a limited number of
+brokers. A significant reduction in the business generated through
+these brokers could potentially reduce premium volume and net
+income.
+
+122 ©—— Registration Document 2016 /SCOR
+
+3.3.1.4. MANAGEMENT OF
+UNDERWRITING RISK RELATED
+TO THE P&C BUSINESS
+
+The P&C Division is organized in order to enable it to assess and
+control its risks at each level of its business.
+
+e Most of the business underwritten is renewed on agreed dates.
+This enables SCOR to establish annual underwriting plans, both
+qualitative (description of the environment) and quantitative
+(activity budget). These plans are approved by the Executive
+Committee.
+
+e The Property and Casualty Treaty underwriters manage client
+relationships and offer reinsurance support after a careful
+review and assessment of the cedents’ underwriting policies,
+portfolio profiles, exposures and management procedures.
+They are responsible for writing treaty business as well as
+associated support on small and medium-size facultative risks
+in their respective territories within the limits of their individually
+delegated underwriting authority and the scope of underwriting
+guidelines.
+
+Most of SCOR’s facultative underwriters work in the Business
+Solutions domain of SCOR Global P&C, which operates
+worldwide. This business area is dedicated to large corporate
+businesses and is geared to provide the clients of SCOR Global
+P&C with solutions for coverage of large conventional risks.
+
+Underwriting and pricing guidelines, defined by SCOR Global
+P&C, specify the underwriting capacities delegated to each
+underwriter in each entity, as well as the underwriting rules
+and principles to be complied with. These guidelines are subject
+to a regular review and approval process. SCOR’s underwriting
+guidelines are more restrictive regarding certain areas with
+difficult or uncertain legal environments.
+
+— Underwriting guidelines in place within SCOR Global P&C
+specify (i) the underwriting rules and principles to be complied
+with: (ii) underwriting capacities individually delegated to the
+underwriters in each of the markets and lines of business
+in which the Group operates as well as (iii) the relevant
+maximum acceptable commitments per risk and per event.
+They are reviewed and updated annually by the Underwriting
+Management function and approved by the Chief Executive
+Officer and Chief Risk Officer of SCOR Global P&C.
+
+Pricing guidelines and parameters apply to all treaties priced
+within SCOR Global P&C. There are additional guidelines
+related to Natural Catastrophes and others specific to certain
+products which include Agriculture and Credit & Surety.
+These guidelines seek to ensure that the analyses provide: a
+best estimate of the costs and profitability of a treaty as well
+as the uncertainty surrounding estimates; assistance with
+underwriting decisions; suitable outputs needed for the risk
+management process, in particular the internal model, such
+as probability distributions for losses/NPV, cash flow patterns
+
+
+--- Page 12 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Underwriting risk related to the P&C and life reinsurance business <
+
+for premium/losses, etc. They are set to provide consistency
+and continuity across the organization but also to take into
+account differences between markets and lines of business
+as well as the geographical location of the client and the
+risks insured. Parameters are revised at least once a year to
+consider, as the case may be, changing market conditions and
+environment. Contracts that meet certain risk thresholds are
+subject to mandatory peer reviews that have to be performed
+and documented before pricing is completed. SCOR Global
+P&C uses a data system that allows management to monitor
+and review the results from pricing tools.
+
+e The underwriting teams are supported by the SCOR Global
+P&C Underwriting Management function located in Paris and
+represented in the four Hubs. This function provides worldwide
+treaty and facultative underwriting guidelines, policies regarding
+the delegation of capacity, underwriting support to specific
+lines of business or individual risks when required, ceding
+company portfolio analysis and risk surveys and is responsible
+for monitoring and referral of non-standard business and for
+authorizing exceptions to the underwriting guidelines.
+
+Business opportunities going beyond the stipulations of the
+guidelines thus defined are subject to special referral procedures
+at two levels: (1) by the Underwriting Management function;
+and, where applicable, by the Legal Department and/or the
+Finance department; (2) and for cases which may have a
+significant impact on the balance sheet (thresholds and/or
+conditions defined in a procedure or specific guidelines) by the
+Group Risk Management Department and the Chief Executive
+Officer of SCOR Global P&C.
+
+SCOR Global P&C Actuarial Pricing Department is responsible
+for the pricing of the reinsurance business which is done by
+individual treaty. Guidelines, methods and tools are set and
+maintained at the global level which are used by the pricing
+team across the SCOR offices. Delegation authorities specify
+criteria under which the underwriters may price certain contracts
+still subject to the use of the Pricing Guidelines and tools.
+Pricing results quantify expected underwriting statistics (such
+as loss and expense ratios), volatility measures, and profitability
+measures (such as NPV, RORAC, and Profit Excess Targets). The
+results are also used as criteria for referrals within Underwriting
+Departments. Pricing actuaries, team up with underwriters and
+modelers by market or by lines of business.
+
+The Risk Modeling & Global Natural Hazards Department is in
+charge of monitoring accumulations. A “CAT” sub-group of
+the P&C Risk and Capital Committee meets regularly to review
+accumulations and decide on or arbitrate the allocation of
+CAT capacities by country. Earthquake and storm risks gross
+exposures are measured using proprietary external models from
+industry-leading catastrophe model suppliers, including Risk
+Management Solutions RiskLink® (“RMS”) and AIR Worldwide
+Catrader® (“AIR”). These tools enable the Group to quantify
+its exposure in terms of a probable maximum loss (“PML”)
+
+at various levels of probability for each peril and geographic
+location. The overall aggregate annual PML per peril, allowing
+for potential multiple events, provides the information required
+to determine the level of retrocession and other alternative risk
+transfer solutions (e.g. catastrophe bonds) that are needed to
+ensure that the net aggregate exposure is optimized for the
+Group’s risk appetite and remains within predefined tolerance
+limits.
+
+In order to mitigate its property exposure, the Group retrocedes
+a portion of the risks it underwrites. See 3.3.5 — Retrocession
+and other risk mitigation techniques for further information
+on how these instruments are managed.
+
+The claims handling function is performed by the claims
+teams, which review, process and monitor reported claims.
+SCOR Global P&C’s Claims & Commutations Department is
+in charge of the implementation and overview of the overall
+claims handling and commutation management policy for the
+P&C division, implementing worldwide control and reporting
+procedures and managing commutation of portfolios and
+commitments. It supports and controls the day-to-day activity
+and takes over the direct management of large, litigious, serial
+and latent claims. In addition, periodic audits are conducted
+on specific claims and lines of business, and claims processing
+and procedures are examined at the ceding companies’ offices
+with the aim of evaluating their claims adjustment process,
+valuation of case reserves and overall performance. When
+needed, recommendations are given to underwriters and local
+management.
+
+The adequacy of SCOR Global P&C reserves are controlled
+based on specific procedures. For further information on how
+risks related to reserves are managed, see Section 3.3.4 — Risks
+related to reserves.
+
+Risks specific to the administration of contracts are subject to
+checks performed at the subsidiary and branch level. SCOR’s
+Group Information System includes multiple automatic checks
+and additional tools.
+
+A quarterly review of technical results is performed by business
+area (Property and Casualty Treaties, Specialty Lines, Business
+Solutions (Facultative), business ventures and partnerships) and
+region. The review enables the analysis of technical results by
+underwriting year, by nature and by line of business.
+
+SCOR Global P&C’s Risk Management organizes the quarterly
+P&C Risk and Capital Committee, which is responsible for
+highlighting the main risks to which the P&C division is exposed,
+regarding both assets and liabilities.
+
+Cross reviews are conducted by SCOR Global P&C’s Risk
+Management to assess the quality of underwriting, pricing
+and claims handling of particular business units or certain
+lines of business, to identify and assess risks, to evaluate the
+appropriateness and effectiveness of controls and to propose
+risk-management measures, including mitigating actions.
+
+#3
+
+SCOR / Registration Document 201% ———@) 123
+
+
+--- Page 13 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Underwriting risk related to the P&C and life reinsurance business
+
+3.3.2. LIFE REINSURANCE
+
+The main underwriting risks for SCOR’s life division are described
+below.
+
+3.3.2.1. LONG-TERM MORTALITY
+DETERIORATION
+
+This risk refers to potential negative deviations in future mortality
+patterns from current best-estimate assumptions due to a higher-
+than-anticipated number of deaths (i.e. increased mortality rates)
+among the portfolio lives reinsured by SCOR. This could result
+from inherent volatility, initial mispricing (level risk) or an adverse
+long-term trend. The latter could potentially be influenced by
+various emerging risks.
+
+SCOR's long term mortality reserves are based on a number of
+assumptions and information provided by third parties, which,
+if incorrect and/or incomplete, could have an adverse effect on
+the Group. For further information on risks related to reserves,
+see Section 3.3.4 — Risks related to reserves.
+
+3.3.2.2. PANDEMIC
+
+In Life reinsurance, a severe pandemic is a major risk. In the
+past century, three major outbreaks of influenza occurred and
+claimed millions of lives. The occurrence of a similar event could
+cause large losses to SCOR due to an increased mortality far
+beyond the usual volatility. A lethal virus strain not only of influenza
+but of any other communicable disease could lead to a heavy
+increase in mortality rates and increased medical costs which
+could significantly affect SCOR’s results.
+
+3.3.2.3. LONGEVITY
+
+Longevity risk refers to the risk of a negative deviation from
+expected results due to the insured or annuitant living longer
+than assumed in the pricing or reserves. This risk could have an
+impact on longevity swaps, annuity and long-term care covers
+and on other longevity protection products.
+
+3.3.2.4. POLICYHOLDER BEHAVIOR RISK
+
+SCOR Global Life is also exposed to risks related to policyholder
+behavior, including risks such as lapsation and anti-selection at
+policy issue.
+
+Lapses refer to either non-payment of premiums by the policyholder
+or to policies which are terminated by the policyholder before the
+maturity date of the policy. Depending upon the product design,
+higher or lower policyholder lapses than assumed in the pricing or
+reserving may reduce SCOR Global Life’s expected future income.
+
+Anti-selection refers to the problem of asymmetry of information
+between the insured and the insurer. An individual applying
+for life or health insurance cover usually has better knowledge
+about his or her own state of health than the insurer. The risk
+to the (re)insurer is of policyholders deliberately deciding among
+other things to:
+
+take out a policy in the knowledge that either their chance of
+claiming is high or higher than average;
+
+e terminate a policy in the knowledge that their chance of claiming
+is low or lower than average, or;
+
+124 ©—— Registration Document 2016 /SCOR
+
+e choose and exercise a policy option which increases the
+policyholder’s expected benefit.
+
+This might lead to a portfolio composition which differs from the
+one assumed during pricing and might imply lowerthanexpected
+profits for both the direct insurer and the reinsurer.
+
+3.3.2.5. MORBIDITY RISK
+
+Products such as critical illness, short-term and long-term
+disability and long-term care, which all contain morbidity risk,
+are subject to the risk of negative trends in health, as well as to
+the consequences of improved medical diagnoses capabilities
+which increase the number of claims due to conditions that
+otherwise would possibly have remained undetected. Medical
+progress may in the future enable better treatment, resulting in
+higher claims, since certain diseases would have otherwise led to
+amuch shorter life expectancy of the insured. Products providing
+cover for medical expenses are in particular subject to the risk of
+higher than expected incidence and inflation of medical costs.
+
+3.3.2.6. OTHER RISKS
+
+In addition to the main underwriting risks of SCOR Global Life as
+listed above, other factors could have an adverse impact, whether
+related to policyholder behavior such as resale or purchase of
+policies by third parties with no insurable interest, or other risk
+factors such as risks related to product guarantees.
+
+3.3.2.7. MANAGEMENT OF
+UNDERWRITING RISK RELATED
+TO THE LIFE REINSURANCE
+BUSINESS
+
+In addition to the transversal risk management mechanisms
+described in the introduction to this section, SCOR Global Life
+also implements mechanisms to mitigate certain risks specific
+to the division:
+
+© Claims deterioration risks are mitigated through yearly renewable
+terms for parts of the mortality business, and through premium
+adjustment clauses for some Disability, Long-Term Care (LTC)
+and Critical Illness (Cl) products. In the case of LTC, the premium
+adjustments are designed to offset worsening incidence or
+increasing longevity of disabled lives. In the case of Cl, premium
+adjustments mitigate potential negative impacts on future
+claims patterns due to a general deterioration in health and
+improved medical diagnosis.
+Lapse risks are mitigated through appropriate reinsurance treaty
+clauses, as well as product, client and market diversification.
+e Anti-selection risks are mitigated through careful product design
+and a well-defined medical and financial underwriting selection
+process.
+
+The Life division is organized in order to be able to assess and
+
+control its risks at each level of its business.
+
+e Generally, the Life reinsurance business is underwritten
+throughout the year. The Life business underwritten is monitored
+on a quarterly basis against prior year development as well
+
+as the business plan and regular updates are provided to the
+Executive Committee.
+
+
+--- Page 14 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Underwriting risk related to the P&C and life reinsurance business <
+
+e Underwriting of the Life business within the Group is under
+the worldwide responsibility of SCOR Global Life. Clients are
+worldwide Life, Pension or Accident and Health insurance
+companies. They are served by SCOR’s specialized underwriters
+and actuaries who are familiar with the specific features of
+the markets in which they operate, particularly with local lines
+of business and policy conditions, as well as the technical
+specifics such as mortality tables, morbidity incidence rates and
+persistency rates. In the Life underwriting process, consideration
+is typically given to the quality of the client's medical and
+financial underwriting standards, the target clientele of the
+ceding company, as well as past experience to the extent
+credible data is available.
+
+Life reinsurance treaties are underwritten by Life reinsurance
+experts familiar with the specific features of their markets. The
+Life business is underwritten following internal underwriting and
+pricing guidelines. Mandates for underwriting Life reinsurance
+business are assigned to teams on a mutually exclusive basis.
+
+In order to ensure that SCOR Global Life is continually up-to-
+date with biometric trends and scientific developments, SCOR
+Global Life uses the expertise of five dedicated Research &
+Development centers to analyze and assess the key factors
+underlying mortality, longevity, morbidity and policyholder
+behavior. These Research & Development Centers provide
+recommendations for the implementation of the research
+results into the pricing, underwriting and determination of
+exposure limits.
+
+Guidelines and other documents defined by SCOR Global Life
+specify the underwriting rules and principles to be complied
+with, underwriting capacities delegated to the underwriters and
+pricing actuaries in each of the markets in which the Group
+operates, as well as maximum acceptable commitments per risk
+and per event. These guidelines outline contract types and terms
+and conditions of acceptance. Furthermore, they set out the level
+of retention of SCOR Global Life for various risks and types of
+cover (for more information, see Section 3.3.5 — Retrocession
+and other risk mitigation techniques). Revisions and updates
+follow a formalized approval process.
+
+Business opportunities going beyond the stipulations of these
+guidelines and documents are subject to a special referral
+process in order to ensure that the business complies with
+established risk-adjusted return criteria and risk tolerance
+limits. These cases are examined at the SCOR Global Life level
+by the Regional and Global Pricing and Risk Management
+Department and, where applicable, the Finance Department.
+Cases which may have a significant impact on the balance
+sheet of the Group are additionally reviewed by the Group Risk
+Management. Thresholds or conditions for a referral to Group
+Risk Management are outlined in specific guidelines.
+
+Accumulations of risk particularly exposed to catastrophes in
+the Life business are regularly assessed in “footprint” scenarios
+and local CAT scenarios. Specific tools are used to monitor
+known Group cover accumulation in selected geographical
+areas. Specifically designed retrocession programs aim at
+protecting the Life reinsurance business. One program protects
+assumed catastrophe excess of loss acceptances; another one
+
+protects the net retained lines in respect of proportional and
+per risk acceptances. SCOR is making use of the RMS model
+for infectious diseases in order to assess the potential exposure
+to risk arising from global pandemics.
+
+Maximum underwriting capacities are established to limit SCOR
+Global Life’s exposure on various types of treaties underwritten,
+proportional and non-proportional, covering individual or Group
+policies. These capacities are reviewed each year, taking into
+account the capacities obtained by the retrocession coverage.
+These limits include: maximum commitment per life accumulated
+for all SCOR exposures, maximum annual commitments
+for non-proportional cover per life or per event, maximum
+commitment per country for nonproportional exposures by
+event. Aggregate portfolio exposures are continually monitored.
+Specialized software allows an accumulation control of insured
+lives and is fed with single risk information as received by the
+client companies. Based on this system, risks under which the
+accumulated exposure exceeds SCOR Global Life’s retention
+are identified and retroceded. The retention limits are reviewed
+regularly. The exposure is monitored throughout the year against
+SCOR's defined risk limits and used for decisions on mitigating
+measures. Monitoring of peak exposures is included in Life
+regular risk reporting. See Section 3.3.5 — Retrocession and
+other risk mitigation techniques for further information on
+how these instruments are managed.
+
+The Life division's claims handling is performed by local claims
+teams that handle and monitor claims. Claims exceeding a
+predefined threshold are reviewed by CREDISS, SCOR Global
+Life’s global medical underwriting and claims research center.
+In addition, where deemed appropriate, audits are conducted
+on claims or specific lines of business at the ceding companies’
+offices.
+
+The adequacy of SGL reserves is monitored based on specific
+procedures. For further information on how risks related to
+reserves are managed, see Section 3.3.4.2 - Management of
+reserving risk.
+
+Risks specific to the management of contracts are mitigated by
+specific controls supported by SCOR’s IT Systems which include
+numerous automatic controls and additional tools.
+
+A quarterly review of technical results is performed by region
+and by business area.
+
+SCOR Global Life’s Risk Management Department organizes
+quarterly meetings of the Life Risk Committee which is
+responsible for reviewing the main risks to which the Life
+division is exposed.
+
+In addition, cross reviews are commissioned by SCOR Global
+Life’s Chief Executive Officer to evaluate, on the one hand, the
+quality of underwriting, pricing, medical underwriting and claims
+handling of particular market areas or lines of business and,
+on the other hand, to identify and assess risks, to evaluate the
+appropriateness and effectiveness of controls and to propose
+risk-management actions.
+
+#3
+
+SCOR / Registration Document 201% ———@) 125
+
+
+--- Page 15 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Underwriting risk related to the P&C and life reinsurance business
+
+3.3.3. INTERDEPENDENCE AND ACCUMULATION RISKS
+BETWEEN SCOR’S AREAS OF BUSINESS
+
+3.3.3.1. OVERVIEW OF THE MAIN
+INTERDEPENDENCE AND
+ACCUMULATION RISKS BETWEEN
+SCOR’S AREAS OF BUSINESS
+
+P&C and Life reinsurance activities take place in two different
+market environments. They are subject to a range of external
+constraints, which generally benefit from a high diversification
+effect. The overall balance between the two business areas within
+the Group therefore provides stability. However, in some cases,
+changes in the P&C and Life activities are linked to each other
+as well as to those of the financial markets. This exposes SCOR
+to possible accumulation of risks between its lines of business
+and/or asset classes.
+
+Unforeseen events, such as natural catastrophes or man-made
+catastrophes, can make SCOR’s claims experience vary significantly
+from one year to the next, which can have a significant impact on
+its profitability and financial position. These types of risk primarily
+affect Non-Life business areas. However, in cases where SCOR
+faces a large number of casualties, the possibility of the losses also
+affecting its Life lines of business cannot be excluded. Similarly,
+unforeseen events such as terrorist attacks may materially impact
+the P&C business area, but also the Life business area, in the case
+of attacks resulting in many fatalities. Although in past events the
+Life claims incurred have been comparatively small in relation to
+the Non-Life claims incurred, a terrorist act might claim a large
+number of insured lives.
+
+In the event of a very large natural catastrophe or terrorist attack,
+the losses generated in the P&C and Life Divisions could potentially
+accumulate, with losses on financial assets related to the potential
+reaction of markets (i.e. movements in interest rates, exchange
+rates, spreads and/or equity market prices). In the same way, a
+major pandemic event may cause financial market turmoil and/
+or business interruptions.
+
+In addition, depending on the frequency and nature of losses, the
+speed with which claims are made and the terms of the policies
+affected, it may be required to make large claim payments within
+a short period. SCOR may be forced to fund those obligations
+by liquidating investments in distressed market conditions, or by
+raising funds under unfavorable conditions. For further information
+on such risks, see Section 3.6 — Liquidity risk.
+
+126 ©—— Registration Document 2016 /SCOR
+
+SCOR's ability to grow or maintain its portfolios in the P&C and
+Life reinsurance divisions may also be subject to external factors
+which may be interconnected, such as economic and political
+risks. For instance, slowdowns in economic growth or recessions
+in the major markets may lead households and companies to take
+out less insurance, to suspend certain premium payments, or to
+terminate the insurance policies underlying the existing P&C and
+Life treaties earlier than anticipated. Similarly, the risk of social
+and political instability is particularly significant in emerging
+markets, in which both divisions operate. These risks could lead
+to significantly reduced business growth in these target markets.
+See Section 3.2 — Strategic risk for further details.
+
+SCOR is also exposed to insurance risks in its investment portfolio
+either through publicly traded securities (e.g. CAT bonds), or Over-
+The-Counter (OTC) contracts (e.g. collateralized reinsurance). Such
+investments could be impacted by the occurrence of underwriting
+risks as described in the above paragraphs (e.g. natural catastrophe,
+mortality etc.) that could significantly result in changes in value, or
+even the full loss of the amount invested. In the case of publicly
+traded securities, these risks could also have a significant impact
+on the liquidity of these instruments.
+
+3.3.3.2. MANAGEMENT OF
+INTERDEPENDENCE AND
+ACCUMULATION RISKS BETWEEN
+SCOR’S AREAS OF BUSINESS
+
+The Group aims at diversifying its business and monitors its main
+accumulation risks and areas of dependencies across its business
+through regular risk monitoring and reporting mechanisms,
+including via its internal model.
+
+SCOR manages its exposure to catastrophes through selective
+underwriting practices, especially by limiting its exposure to
+certain events in certain geographic areas, by monitoring risk
+accumulation on a geographic basis and by retroceding a portion
+of those risks to other selectively chosen reinsurers.
+
+
+--- Page 16 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Underwriting risk related to the P&C and life reinsurance business <
+
+3.3.4. RISK RELATED TO RESERVES.
+
+3.3.4.1. SCOR’S RISK RELATED
+TO RESERVES
+
+The SCOR Group is required to maintain reserves to cover its
+estimated ultimate liability for losses and loss adjustment expenses
+with respect to reported and unreported claims, incurred as at
+the end of each accounting period, net of estimated related
+recoveries. Its reserves are established based on the information
+it receives from its cedent insurance companies, including their
+own reserving levels, as well as on the basis of its knowledge of
+the risks, the studies it conducts and the trends it observes on
+a regular basis. As part of the reserving process, SCOR reviews
+available historical data and tries to anticipate the impact of
+various factors, such as changes in laws and regulations, judicial
+decisions, social and political attitudes and trends in mortality
+and morbidity, and changes in general economic conditions.
+
+If some information were incorrect and/or incomplete, this could
+have an adverse effect on the Group. Despite the audits it carries
+out on the companies with which it does business the Group is
+still dependent on their reserves assessment.
+
+As is the case for all other reinsurers, the inherent uncertainties
+in estimating reserves are compounded by the significant periods
+of time that often elapse between the occurrence of an insured
+loss, the reporting of the loss to the primary insurer and ultimately
+to SCOR
+
+Another factor of uncertainty resides in the fact that some of
+SCOR's activities are long-tail in nature, such as long-term care,
+whole Life products, longevity, worker's compensation, general
+liability or medical malpractice, etc. It has, in the past, been
+necessary for SCOR to revise estimated potential loss exposure
+‘on such lines of business.
+
+See Section 3.3.1.1 — P&C long-tail reserve deterioration for
+further details.
+
+3.3.4.2. MANAGEMENT OF RESERVING
+RISK
+
+The adequacy of P&C and Life reserves is checked on a quarterly
+basis by internal actuaries at division level as well as at the Group
+level by the Group Chief Actuary who signs off on the adequacy
+of reserves and reports to the Executive Committee and the
+Audit Committee.
+
+External consulting firms can also be mandated to review the
+P&C reserves. Life reserving assumptions have been reviewed
+by an external firm as part of the embedded value calculation. If
+necessary, internal audits of its portfolios are performed.
+
+The Chief Reserving Actuaries of the divisions are responsible
+for overseeing the reserves of their respective divisions, to assure
+appropriateness in the reserving methods and parameters used
+and to enhance reserving governance. The Group Chief Actuary is
+
+in charge of the independent validation and testing of reserving
+tools, workflows, assumptions and processes.
+
+A centrally defined and tightly controlled reserving process, strong
+portfolio diversification, prudent reserving, sound reserving tools
+and, actuarial methods used by highly skilled professionals and a
+high level of transparency, both internally and externally, all tend
+to minimize the risk of inadequate reserves.
+
+P&C business
+
+Within SCOR Global P&C, in order to ensure an adequate and
+efficient monitoring of the reserves, a report is established on a
+yearly basis by the Group Actuarial Department, where the Group
+Chief Actuary, reporting to the Group Chief Risk Officer, gives his
+opinion on the year-end booked reserves’ adequacy. The main
+objective of this report is to provide SCOR’s Executive Committee
+and Audit Committee with an overall opinion on the adequacy
+of the P&C division's reserves but also to highlight the inherent
+uncertainties surrounding this assessment. The monitoring of
+the reserves by the division's and Group's Actuarial Department
+is centered on three mechanisms:
+
+© a quarterly follow-up of the claims activity and review of reserves
+for each segment through adequate reporting procedures;
+
+© an annual internal actuarial analysis, including a review of all
+segments together with a full analysis of the segments that may
+have a substantial impact on SCOR’s balance sheet. This analysis
+is performed by the SCOR Global P&C reserving actuaries and
+reviewed by the Group Actuarial Department which performs
+as well its own full analysis. These analyses are recorded in an
+annual actuarial report;
+
+regular external reviews of SCOR Global P&C division reserves
+adequacy are performed including those required by local
+regulators (Canada, Australia, Hong Kong, South Africa, China
+and SCOR Lloyd's syndicate).
+
+SCOR regularly reviews its methods for determining outstanding
+claims reserves and IBNR reserves. However, it is difficult to
+accurately value the amount of reserves required, especially in
+view of changes in the legal environment, which could have an
+impact on reserve development.
+
+When a claim is reported to the ceding company, its claims
+department establishes a reserve corresponding to the estimated
+amount of the ultimate settlement for the claim. The estimate
+is based on the cedent’s own evaluation methods. The ceding
+company reports the claim and its suggested reserve amount to
+the Group entity with which it concluded its reinsurance contract.
+The Group records the ceding company’s suggested reserve
+and is free to establish greater or smaller reserves based on the
+review and analysis by SGP&C’s claims team. Greater or smaller
+potential reserves are based upon the consideration of many
+factors, including the level of the commitments, seriousness of
+the claims and the SGP&C’s assessment of the ceding company’s
+claims’ management.
+
+#3
+
+SCOR / Registration Document 201% ———@) 127
+
+
+--- Page 17 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Underwriting risk related to the P&C and life reinsurance business
+
+In compliance with applicable regulatory requirements and in
+accordance with industry practices, the Group maintains IBNR
+reserves in addition to outstanding claims reserves. These reserves
+represent:
+
+e the estimated final amount that may be paid by the Group on
+losses or events that have occurred, but are not yet reported
+to the ceding company or to the SCOR entity concerned; and
+
+e the estimated cost variation on claims already reported to the
+Group.
+
+In determining the amount of its reserves, the Group generally
+uses actuarial techniques that take into account quantitative
+loss experience data, together with qualitative factors, where
+appropriate. The reserves are also adjusted to reflect reinsurance
+treaty terms and conditions, and any changes in claims processing
+that may potentially affect the Group’s commitment over time.
+
+A table showing historical changes in reserves for P&C claims
+is provided in Section 4.6 — Notes to the consolidated financial
+statements, Note 15 — Net contract liabilities.
+
+The Group continues to pursue the active commutations policy of
+its portfolios initiated in 2003, the main goals being to reduce the
+volatility of claims reserves and administrative costs, particularly
+of the oldest reserves, and to allow the reallocation of capital.
+This policy will be continued by focusing efforts on the US run-off
+activities and on some treaties written by the former Converium
+company acquired by SCOR in 2007.
+
+Life business
+
+Within SCOR Global Life, in order to ensure an adequate and
+efficient monitoring of the reserves, a report is established on a
+yearly basis by the Group Actuarial Department where the Group
+Chief Actuary gives his opinion on the year-end booked reserves’
+adequacy. The main objective of this report is to provide SCOR’s
+Executive Committee and Audit Committee with an overall
+opinion on the adequacy of the Life division's reserves but also to
+highlight the inherent uncertainties surrounding this assessment.
+
+The monitoring of the reserves by the division's and Group‘s
+Actuarial Department is centered on three mechanisms:
+
+e a quarterly follow-up of the claims activity and review of reserves
+for each segment through adequate reporting procedures;
+
+© an annual internal actuarial analysis, including a review of all
+segments together with a full analysis of the segments that may
+have a substantial impact on SCOR’s balance sheet. This analysis
+is performed by the SCOR Global Life reserving actuaries and
+
+128 ©—— Registration Document 2016 /SCOR
+
+reviewed by the Group Actuarial Department which performs
+as well its own full analysis. These analyses are recorded in an
+annual actuarial report;
+
+e regular external reviews of SCOR Global Life division reserves
+adequacy are performed including those required by local
+regulators.
+
+The Group Actuarial Department does not intend to provide
+an alternative best estimate but verifies the adequacy of the
+assumptions and methods and processes used by the teams of
+SCOR Global Life to determine the Life reserves. In some cases,
+the Group Actuarial Department applies a global approach and
+calculates a confidence range in order to check that the reserves
+booked are within said confidence range.
+
+For its Life business, SCOR is required to maintain adequate reserves
+to reflect the liability for future claims and benefit payments
+resulting from life reinsurance treaties, mainly mathematical
+reserves and claim reserves
+
+The mathematical reserves are generally calculated as the
+present value of projected future payments to cedents less the
+present value of projected premiums still payable by cedents. The
+calculation includes assumptions relating to mortality, morbidity,
+disability, lapses and expected future interest rates.
+
+The mathematical reserves are established on initial recognition
+of acontract on the basis of best estimate assumptions and allow
+for an adequate safety margin for the risks of change, error and
+random fluctuation. They are subject to a liability adequacy test.
+
+In determining its best estimates, the Group takes into
+consideration its past experience, current internal data, external
+market indices and benchmarks and other relevant information.
+The contracts’ liabilities established by the Group with respect
+to individual risks or classes of business may be greater or less
+than those established by ceding companies due to the use of
+different mortality tables or other assumptions.
+
+Claim reserves for losses are recognized for payment obligations
+from reinsurance losses that have occurred but have not yet been
+settled. They are recognized under reserves for reinsurance losses
+reported before the reporting date and IBNR. SCOR regularly
+reviews and updates its methods for determining outstanding
+claims reserves and IBNR Reserves.
+
+A table showing changes in the mathematical reserves in Life
+reinsurance is provided in Section 4.6 — Notes to the consolidated
+financial statements, Note 15 — Net contract liabilities.
+
+
+--- Page 18 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+Underwriting risk related to the P&C and life reinsurance business <
+
+3.3.5. RETROCESSION AND OTHER RISK MITIGATION TECHNIQUES.
+
+Reinsurers typically purchase reinsurance to cover their own
+risk exposures. Reinsurance of a reinsurer’s business is called
+retrocession. SCOR remains primarily liable to the direct insurer
+on all risks reinsured although the retrocessionaire is liable to the
+Group to the extent of the cover limits purchased.
+
+The level of retrocession is selected each year to ensure that
+SCOR‘s retained risk profile respects the specific Group risk appetite
+framework and to help the Group achieve its return on capital
+and solvency objectives.
+
+SCOR aims to diversify its retrocession and risk mitigation
+instruments as well as counterparties in order to take advantage
+of all different sources of capacities on the market. This enables
+the retrocession and risk mitigation program to be constructed
+with complementary mitigation effects offering optimal efficiency
+and also to avoid overdependence on a reduced number of
+counterparties.
+
+Beyond traditional retrocession, purchased for all main lines of
+business, SCOR has implemented a “Capital Shield Strategy,
+which combines the following solutions:
+
+traditional retrocession (proportional or non-proportional);
+
+capital markets solutions and alternative risk transfer solutions
+(collateralized retrocession, Insurance-Linked Securities including
+catastrophe and extreme mortality bonds, sidecars);
+
+e Solvency buffer; SCOR has set out a solvency scale with clear
+and well defined buffers safeguarding the Group's franchise;
+
+e contingent capital facilities, designed as tools of last resort, to
+partially replenish the Group's capital base in case of very remote
+pre-defined events. The current contingent capital guaranteed
+equity line is providing the Group with EUR 300 million coverage.
+It is innovative in that it protects the Group against both natural
+catastrophes and extreme mortality events.
+
+For information on the Atlas Special Purpose Vehicles, used as
+capital markets solutions and alternative risk transfer solutions in
+the capital shield policy, see Section 4.6 — Notes to the consolidated
+financial statements, Note 2 — Scope of consolidation. For
+information on the contingent capital used in the capital shield
+policy, see Section 4.6 — Notes to the consolidated financial
+statements, Note 12 — Information on share capital, capital
+management, regulatory framework and consolidated reserves.
+
+Retrocession procedures are centralized within the retrocession
+teams of the P&C and Life divisions:
+
+e within the P&C division, SCOR Global P&C Underwriting
+Management and Retrocession Department establishes and
+implements the external retrocession plan for P&C business.
+This department is responsible for proper application of the
+plan, for monitoring the solvency of the retrocessionaires, the
+related counterparty risks and, when necessary, recovery of
+balances due;
+
+e within the Life division, scenarios are established within the
+Actuarial & Risk Department of SCOR Global Life in order to
+define the need for retrocession coverage. The retention and
+the retrocession structure are revised every year.
+
+The availability and efficiency of SCOR’s retrocession and risk
+
+mitigation program is monitored at Group level on a regular
+
+basis in order to ensure that the Group’s overall exposure remains
+within pre-defined risk tolerances.
+
+For further information on how counterparty default risk related
+to retrocessionaires is managed, see Section 3.5 — Credit risk.
+
+An analysis of the share of retrocessionaires in contract liabilities by
+rating of the retrocessionaires and collateral from retrocessionaires
+in favor of SCOR at December 31, 2016 and 2015 is presented
+in Section 4.6 — Notes to the consolidated financial statements,
+Note 15 — Net contract liabilities and Note 19 — Net retrocession
+result.
+
+#3
+
+SCOR / Registration Document 201% ———@) 129
+
+
+--- Page 19 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Market risk
+
+EZ MARKET RISK
+
+3.4.1. MARKET RISK - AN OVERVIEW.
+
+Market risk is the risk that the fair value or future cash flows of
+a financial instrument fluctuates because of changes in market
+prices or macro-economic variables. This includes interest rate
+risk and currency risk, further described below, as well as equity
+risk and real estate risk, to which SCOR is exposed to through its
+investments. It also includes credit spread risk on these invested
+assets exposed to changes in spread due to general changes in
+market conditions as well as default risk arising from insolvency
+of an issuer or a counterparty. For further information on credit
+risk (counterparty default), see Section 3.5 — Credit risk.
+
+3.4.1.1. INTEREST RATE RISK
+
+Interest rates are very sensitive to a number of external factors,
+including monetary and budgetary policies, the national and
+international economic and political environment, and the risk
+aversion of economic actors.
+
+Interest rate risk is the risk that the fair value of future cash flows
+of a financial instrument fluctuates because of changes in interest
+rates. Interest rate fluctuations have direct consequences on
+both the market value and the return on SCOR’s investments as
+the level of unrealized capital gains or losses and the return on
+securities held in its portfolio both depend on the level of interest
+rates. Floating-rate instruments expose the Group to cash flow
+interest rate risk, whereas fixed interest rate instruments expose
+the Group to fair value interest rate risk.
+
+During periods of declining interest rates, income from
+investments is likely to fall due to investment of net cash flows
+and reinvestments of redemptions at rates lower than those of
+the existing portfolio (dilutive effect of new investments). During
+such periods, there is therefore a risk that SCOR’s return on equity
+objectives are not met. For callable bonds for which the issuer
+has an option to redeem earlier than the ultimate maturity, the
+probability of having to reinvest the early proceeds at lower
+interest rates is increased.
+
+On the other hand, an increase in interest rates could lead to
+a fall in the market value of fixed income securities that SCOR
+holds. In the case of a need for cash, SCOR may be obliged to
+sell fixed income securities, possibly resulting in capital losses.
+SCOR’s reinsurance business may also be exposed to interest
+rate risk. The Group has certain life insurance contracts which
+are sensitive to fluctuations in interest rates. Although in general
+all long-term liabilities are discounted, in most cases there is no
+accounting impact from a 100 basis point change in the interest
+rate because valuation interest rates are typically locked-in
+
+Finally, the interest rate risk depends on the duration mismatch
+between assets and liabilities. As such, changes in interest rates
+can affect the shareholders’ equity and the solvency ratio of
+the Group.
+
+For further information on the sensitivity of the Group's
+consolidated income and consolidated equity to interest rate
+risk, see Section 3.4.3 - Sensitivity analysis to market risk.
+
+130 ©—— Registration Document 2016 /SCOR
+
+3.4.1.2. CURRENCY RISK
+
+Currency risk is the risk of loss arising due to adverse changes
+in or volatility of foreign exchange rates. This would impact the
+value of SCOR‘s assets (e.g. through direct investments in assets
+denominated in various currencies) and liabilities (e.g. reinsurance
+treaties with liabilities denominated in specific currencies).
+
+The following types of foreign exchange risk have been identified
+by SCOR:
+
+Transaction risk
+
+Fluctuations in exchange rates can have consequences on
+SCOR's reported net income because of the conversion results
+of transactions expressed in foreign currencies, the settlement
+of balances denominated in foreign currencies and the lack of
+perfect matching between monetary assets and liabilities in foreign
+currencies. In this case, and to reduce the impact of imperfect
+matching, SCOR uses derivative financial instruments in order
+to hedge against currency fluctuations on sensitive currencies,
+particularly in times of greater volatility on the capital markets.
+Nevertheless, a perfect matching of monetary assets and liabilities
+can never be achieved and a potential profit or loss impact due
+to fluctuations in exchanges rates can arise.
+
+Translation risk
+
+SCOR publishes its consolidated financial statements in euros,
+but a significant part of its income and expenses, as well as of its
+assets and liabilities, are denominated in currencies other than the
+Euro. Consequently, fluctuations in the exchange rates used to
+convert these currencies into euros may have a significant impact
+on its reported net income and net equity from year to year.
+
+SCOR’s main non-French legal entities are located in Ireland,
+Switzerland, North America, the UK and Asia. The shareholders’
+equity of these entities is denominated mainly in Euros, US dollars,
+British pounds and Canadian dollars.
+
+Asa result, changes in the exchange rates used to convert foreign
+currencies into Euros, particularly the fluctuation of the US dollar
+against the Euro, have had and may have in the future, an adverse
+effect on the Group's consolidated shareholders’ equity. SCOR
+does not fully hedge its exposure to this risk. The impact of
+the fluctuation in the exchange rates used to translate foreign
+currencies into Euros on its consolidated shareholders’ equity is
+described in Section 4.5 — Consolidated statements of changes
+in shareholders’ equity.
+
+SCOR has issued debt instruments in currencies other than the
+Euro, currently Swiss Francs, and to the extent that these are not
+used as a hedge against foreign currency investments, it may be
+similarly exposed to fluctuations in exchange rates. Most debts
+are fully hedged. For more information on the forward sales and
+purchases and swaps of currencies used to hedge these risks see
+Section 4.6 — Notes to the consolidated financial statements,
+Note 7 — Insurance business investments. For more information on
+
+
+--- Page 20 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+debts issued in different currencies, see Section 4.6 — Notes to the
+consolidated financial statements, Note 13 — Financial liabilities.
+
+Some events, such as catastrophes, can have an impact on the
+matching of assets and liabilities in a currency, which can generate
+a temporary unmatched position which is not covered by currency
+contracts or hedges.
+
+For further information on the sensitivity of the Group's
+consolidated income and consolidated equity to currency risk,
+see Section 3.4.3 — Sensitivity analysis to market risk.
+
+3.4.1.3. EQUITY RISK
+
+Equity prices are likely to be affected by risks which affect the
+market as a whole (uncertainty on economic conditions in general,
+such as anticipated changes in growth, inflation, interest rate
+fluctuations, sovereign risk, etc.) and/or by risks which influence
+a single asset or a small number of assets (specific or idiosyncratic
+risk). This may lead to a decrease in prices of the equity held by
+SCOR and may impact its unrealized gains and losses. A material
+or long-lasting decline in the prices of SCOR’s equity holdings
+may also result in the impairment of its equity portfolio which
+would affect its net income.
+
+The Group's exposure to the equity market results from direct
+purchases of stocks or investments in equity funds and in convex
+equity strategies such as convertible bonds.
+
+For further information on the sensitivity of the Group's
+consolidated income and consolidated equity to currency risk,
+see Section 3.4.3 — Sensitivity analysis to market risk.
+
+3.4.2. MANAGEMENT OF MARKET RISK.
+
+The investment strategy complies with the prudent person
+principle. It is defined given the Risk Appetite and Risk Tolerance
+and takes into account the economic and market environment
+in line with a strong ALM process.
+
+Investment Guidelines at Group and local levels outline the
+investment universe and limits, including concentration ones, in
+line with the objectives of the strategic plan. They are approved
+by the Group Board/local Board or top management.
+
+SCOR has outsourced the implementation of its investment
+strategy to its asset management company “SCOR Investment
+Partners SE” and to external asset managers. They are provided
+with the investment guidelines.
+
+Exposures to major risks are monitored on a weekly basis and
+stress tests measure the impact of parametric or footprint
+scenarios on the invested assets portfolio. These scenarios cover
+changes in interest rates, inflation, equities, credit spreads and
+real estate market. Portfolio sensitivity analysis to major risks is
+an important management tool which is used when making
+portfolio reallocation or hedging decisions.
+
+Market risk <
+
+3.4.1.4. REAL ESTATE RISK
+
+Real estate risk, either for properties owned directly or through
+funds, are risks arising from a variation in the real estate market
+valuation or a change in rental market conditions, the two being
+closely linked.
+
+Rental income from the property portfolio is exposed to the
+variation in the indices on which the rents are indexed (for
+instance, the Construction Cost Index in France) as well as risks
+related to the rental market (changes in supply and demand,
+changes in vacancy rates, impact on market rental values or rent
+renewals) and lessee default. On the other hand the indexation
+may provide an attractive hedge against inflation
+
+The value of property assets is exposed to the risk of regulatory
+obsolescence of properties (regulatory developments related to
+the accessibility of buildings for people with a disability, on the
+reduction of energy consumption and the production of carbon
+dioxide, etc.) which would lead to losses of value in the event of
+a sale of the assets or to additional expenditure to restore the
+value of the property.
+
+3.4.1.5. CREDIT SPREAD RISK
+
+Credit spreads reflect the market's assessment of the credit quality
+of a financial instrument (e.g. a bond) and are derived from the
+market value of the instrument. Credit spread risk is the risk that
+the credit spread increases i.e. the market value deteriorates
+leading potentially to a loss on the financial instrument.
+
+3.4.2.1. MANAGEMENT OF INTEREST
+RATE RISK
+
+The Group's aim is to maintain an appropriate mix of fixed and
+variable rate instruments. It also manages the maturities of interest
+bearing financial assets.
+
+Interest rate risk is managed within the Group primarily at two
+levels. At the level of each entity, the Group takes into account
+the regulatory and accounting constraints. At the Group level,
+SCOR reviews its consolidated investment portfolios in order to
+identify the overall level of risk and return. It uses analytical tools
+which guide both its strategic allocation and local distribution
+of assets. Sensitivity to changes in interest rates is analyzed on
+a weekly basis.
+
+In addition, SCOR has entered into interest rates swaps to cover
+its exposure to financial liabilities with variable interest rates. For
+further details on these swaps, see Section 4.6 — Notes to the
+consolidated financial statements, Note 9 — Derivative instruments.
+
+For further information on the sensitivity of the Group's
+consolidated income and consolidated equity to interest rate
+tisk, see Section 3.4.3 — Sensitivity analysis to market risk.
+
+#3
+
+SCOR / Registration Document 201% ———€@) 131
+
+
+--- Page 21 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Market risk
+
+3.4.2.2. MANAGEMENT OF CURRENCY
+RISK
+
+SCOR has a balance sheet hedging approach whereby there
+is an objective to match monetary assets and liabilities in each
+foreign currency so that the fluctuation in the exchange rate has
+no material impact on the reported net income. The policy is to
+closely monitor the net monetary currency positions and, where
+appropriate, execute either cash arbitrages or forward hedges.
+
+The Group has one net investment hedge in place to reduce
+its exposure to variations in the net assets of a USD functional
+currency subsidiary.
+
+3.4.2.3. MANAGEMENT OF EQUITY RISK
+
+With regards to equity, the Group’s objective is to develop and
+manage a high-quality diversified portfolio.
+
+The Group’s equity selection is predominantly based on a
+bottom-up fundamental analysis with the goal to develop a
+diversified portfolio of stocks and convertible bonds directly or
+through mutual funds. Due to the inherent volatility of equities,
+this asset class (direct positions and mutual funds) is monitored on
+a daily basis, facilitating quick arbitrage or portfolio re-allocation
+decisions. On a Group level, the equity exposure is set and reviewed
+
+3.4.3. SENSITIVITY TO MARKET RISK.
+
+at least quarterly by the Group Investment Committee. The equity
+tisk is also monitored by establishing maximum exposures per
+stock or mutual fund and is reviewed regularly (e.g. exposure to
+large-cap stocks will generally be greater than exposure to mid-cap
+stocks). The holding’s ratios on mutual funds are also reviewed
+regularly, based on the mutual fund's portfolio.
+
+3.4.2.4. MANAGEMENT OF REAL ESTATE
+RISK
+
+SCOR has adopted an active strategy to select core buildings and
+focuses on high environmental quality.
+
+3.4.2.5. MANAGEMENT OF CREDIT
+SPREAD RISK
+
+SCOR applies strict limits in terms of asset concentration by asset
+class but also within a single asset class and actively diversifies
+its portfolio (by type of investment, by issuer, by country and by
+sector). These limits also enable to limit counterparty default
+risk arising from investments, as described in the Section 3.5.2 —
+Management of credit risk.
+
+For information on the ratings of the debt securities owned by
+SCOR, see Section 4.6 — Notes to the consolidated financial
+statements, Note 7 — Insurance business investments.
+
+The following table summarizes the accounting sensitivity of the
+Group’s consolidated income and consolidated equity to market
+risks based on reasonably possible movements in key variables with
+all other variables held constant. The assumptions included are:
+
+Interest rate risk
+
+The interest rate sensitivities for equity presented in the table
+below include movements on the bond portfolio, cash and cash
+equivalents, structured notes, the impact of changes in interest
+rates on variable rate financial liabilities and the GMDB business.
+
+The interest rate sensitivities of income presented in the table
+below show the impact of changes in fair value of financial assets
+at fair value through income held at closing date, and changes
+in income on variable rate financial assets held at the closing
+date, following an increase/decrease in interest rates of 100 basis
+points. An estimate of the impact on the future income following
+a change of 100 basis points is therefore included. However,
+SCOR does not include in this analysis the impact that changes
+in interest rates might have on the reinvestment of future cash
+flows, as future cash flows of SCOR business are difficult to predict
+and asset allocations might change over time.
+
+132 ©—— Registration Document 2016 /SCOR
+
+Equity price risk
+
+SCOR conducted an analysis of the sensitivity of net income and
+shareholders’ equity to the price of equity securities. The analysis
+considers the impact on both equities at fair value through
+the income statement and on equities classified as available
+for sale. For equities classified as available for sale, the impact
+on impairment is computed by applying the accounting policy
+and application guidance set out in Section 4.6 — Notes to the
+consolidated financial statements, Note 7 — Insurance business
+investments, to theoretical future market value changes. SCOR
+estimates that, excluding any impairment arising from duration,
+a further uniform decline of 10% from December 31, 2016
+market values would generate no further impairment of equity
+securities (2015: EUR 1 million; 2014: EUR 1 million). It should
+be noted that this figure should not be scaled up or down as the
+impairment rules are not a linear function of market value. For
+example, a scenario with a market value decline of 20% would
+not double the potential further equity impairment.
+
+Both Life and P&C businesses have minimal sensitivity to equity
+price movements.
+
+
+--- Page 22 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS 3
+Market risk < #
+
+The market sensitivities of the Group are estimated as follows:
+
+December 31, 2016 December 31, 2015 December 31, 2014
+
+In EUR million Income 2) Equity?) Income 2) Equity 2°) Income 2°) Equity
+Interest +100 basis point 20 (468) 14 (414) 12 (390)
+% of Equity 0.3% -7.0% 0.2% 6.5% 0.2% 6.8%
+Interest — 100 basis points (20) 402 (14) 310 (13) 324
+% of Equity -0.3% 6.0% -0.2)% 4.9% -0.2% 5.7%
+Equity markets +10%'” 6 34 7 28 5 26
+% of Equity 0.1% -0.5% 0.1% 0.4% 0.1% 0.5%
+Equity markets -10%"” (6) (34) (7) (28) (5) (26)
+% of Equity -0.1% -0.5% -0.1% -0.4% -0.1% -0.5%
+
+(1) Excludes investments in hedge funds which normally do not have a uniform correlation to equity markets and securities where SCOR has a strategic
+investment including where the Group has a substantial shareholding but does not meet the “significant influence" criteria in IAS 28.
+
+(2) The reduction in equity represents the estimated net asset impact including the additional impairment recognized in the income statement.
+
+(3) Net of tax at an estimated average rate of 27% in 2016 (21% in 2015 and 24% in 2014).
+
+Currency risk For currency translation risk, the following sensitivity analysis”
+. . . considers the impact on equity of a 10% movement in the
+
+The Group recognized a net foreign exchange gain of exchange rates of the Group’s two largest translation risk currency
+
+EUR 11 million for the year ended December 31, 2016 (2015: gain exposures, USD and GBP relative to the EUR.
+
+of EUR 16 million and 2014: gain of EUR 11 million).
+
+7 Currency Equity impact
+In EUR million movement aE 116 | 2015 2014
+USD/EUR 10% 365 347 271
+% of equity 5.5% 5.5% 4.8%
+USD/EUR -10% (365) (347) (271)
+% of equity 5.5% -5.5% 4.8%
+GBP/EUR 10% 30 41 37
+% of equity 0.4% 0.6% 0.6%
+GBP/EUR -10% (30) (41) (37)
+% of equity -0.4% -0.6% -0.6%
+
+(1) This analysis excludes the impact of hedging activity.
+
+SCOR / Registration Document 201% ———@) 133
+
+
+--- Page 23 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Credit risk
+
+EXE CREDIT RISK
+
+3.5.1. OVERVIEW OF CREDIT RISK.
+
+Credit risk is the risk of incurring a loss as a result of a change in
+the financial situation of a counterparty.
+
+This includes counterparty default risk which is the risk that one
+party to a financial instrument or other asset will cause a financial
+loss to the other party by failing to discharge an obligation. Credit
+risk also includes migration risk, which is the risk of a potential
+loss in the value of assets due to changes in the credit quality of
+our counterparties.
+
+SCOR is mainly exposed to the following credit risks or the
+accumulation of such risks in a single counterparty, in the same
+sector of activity or the same country: from bond and loan
+portfolios, liabilities retroceded also called share of retrocessionaires
+in contract liabilities, deposits with cedents, future cash-flows from
+Life reinsurance treaties, cash deposits at banks and default of
+members of pools which SCOR is a member of. SCOR may also
+be exposed to credit risk through its Credit and Surety reinsurance
+portfolio.
+
+Credit risk is actively monitored and managed. The processes for
+managing the respective credit risks and the methods used to
+measure these risks are further described below.
+
+3.5.1.1. CREDIT RISK RELATED TO BOND
+AND LOAN PORTFOLIOS
+
+A deterioration in the financial situation of an issuer (sovereign,
+public or private) or borrower can, for example, lead to its
+insolvency and to the partial or total loss of coupons and of the
+principal invested or lead to a loss in value.
+
+This risk applies also to loan transactions in which the Group
+invests. The borrower’ solvency deterioration may lead to a partial
+or total loss of the coupons and the nominal invested by SCOR.
+
+For information on the debt securities portfolio, see Section 4.6 —
+Notes to the consolidated financial statements, Note 7 Insurance
+business investment.
+
+3.5.1.2. CREDIT RISK RELATED TO
+RETROCEDED LIABILITIES
+
+SCOR transfers part of its risks to retrocessionaires via retrocession
+programs in exchange for the payment of premiums. The
+retrocessionaires then assume the losses related to claims covered
+by the retrocession contracts. If a retrocessionaire defaulted, or
+its financial situation deteriorated, SCOR could lose part or all of
+the coverage provided by its retrocessionaire whereas it would
+retain its liability towards the cedent for the payment of all claims
+covered under the reinsurance contract.
+
+SCOR could also lose receivables from the defaulting
+retrocessionaire (receivables are due to a timing difference
+between statement accounts received and real payment due for
+positive balances of retrocessionaire accounts).
+
+134 ©—— Registration Document 2016 /SCOR
+
+The retrocessionaires’ share in the reserves broken down by
+retrocessionaires’ financial rating is included in Section 4.6 — Notes
+to the consolidated financial statements, Note 15 — Net contract
+liabilities.
+
+3.5.1.3. CREDIT RISK RELATED TO
+DEPOSITS WITH CEDENTS
+
+SCOR may be exposed to credit risk in relation to amounts
+deposited with ceding companies in respect of reinsurance reserves
+which cover its liabilities. However, depositing these amounts
+does not a priori discharge the Group of its liability towards the
+cedent in cases where it is not able to recover all or part of these
+amounts in the event of a cedent default or a deterioration in the
+financial situation of that cedent. Hence, it is at least in principle,
+possible that the Group may remain liable for paying claims due
+under the reinsurance treaty without being able to offset all or
+part of the corresponding deposits.
+
+3.5.1.4. CREDIT RISK RELATED TO
+FUTURE CASH FLOWS FROM
+LIFE REINSURANCE TREATIES
+
+Under most of its Life reinsurance contracts, SCOR expects to
+receive premiums from its cedents over several years. These often
+exceed expected future payments for claims, commissions, etc.,
+meaning that SCOR expects to receive positive future cash flows.
+
+Credit risk on future cash flows from Life reinsurance policies
+arises from two risk factors:
+
+e the payment of future cash flows expected under Life reinsurance
+contracts requires that the cedent is financially sound. Therefore,
+SCOR risks a reduction in the value of its portfolio of Life
+contracts in the event of a deterioration in the financial strength
+of the cedent. This may lead to the impairment of SCOR’s
+intangible assets, ie. the value of business acquired (VOBA)
+and deferred acquisition costs (DAC);
+
+a reduction in the value of future cash flows could arise
+from material unexpected lapsation of policies following a
+deterioration of the cedent’s credit rating or standing or an
+event which has a negative effect on the cedent’s reputation.
+
+3.5.1.5. CREDIT RISK RELATED TO CASH
+DEPOSITS AT BANKS
+
+SCOR is exposed to the risk of losing all or part of any cash
+deposited with a retail bank in the event such a bank is no longer
+able, due to insolvency, to honor its commitments (e.g. following
+liquidation). The current main risk for the Group is the significant
+concentration of deposits in a small number of banks. This risk is
+a direct result of the selection of the most stable banks.
+
+
+--- Page 24 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+3.5.1.6. OTHER CREDIT RISKS
+
+For special, highly-technical risk categories such as terrorism,
+nuclear, aviation or pollution, SCOR chooses to participate in
+various market dedicated groups of insurers and reinsurers
+(“pools”) aimed at pooling the relevant risks among the members
+
+3.5.2. MANAGEMENT OF CREDIT RISK.
+
+Credit risk <
+
+of each group pools which offer best available expertise and risk
+sharing at market level. In the event of a total or partial default by
+one of the members of a group, it could be required to assume,
+in the event of joint liability of the members, all or part of the
+liabilities of the defaulting member.
+
+3.5.2.1. MANAGEMENT OF CREDIT RISK
+RELATED TO BOND AND LOAN
+PORTFOLIOS
+
+SCOR mitigates the credit risk related to bond and loan portfolios
+by careful analysis and selection of issuers, and by a policy of
+geographic sector diversification. SCOR maintains its investment
+policy in high-quality assets and in countries with the lowest
+sovereign risk.
+
+Exposure analyses are performed on a regular basis (sector,
+geographical area, counterparty and rating) and enables critical
+risks to be identified and evaluated in order to take appropriate
+actions.
+
+For details on the debt securities portfolio, see Section 4.6 — Notes
+to the consolidated financial statements, Note 7 — Insurance
+business investments.
+
+3.5.2.2. MANAGEMENT OF CREDIT
+RISK RELATED TO SHARES
+OF RETROCEDED LIABILITIES
+
+SCOR selects retrocessionaires carefully, taking into account their
+financial strength, and regularly monitors the Group’s exposure
+to retrocessionaires taking into account all relevant accounting
+balances (estimated and actual claims, premiums, reserves,
+deposits and pledges) and provides a summary reports to the
+Divisional and Group Risk Committees on a regular basis. SCOR
+typically requires that unrated retrocessionaires pledge assets
+or provide other forms of collateral (cash deposits or letters of
+credit) to the value of their maximum potential contract liability,
+even though the actual retrocessionaire liability to SCOR in the
+balance sheet is lower.
+
+The retrocessionaires’ share in the reserves broken down by
+retrocessionaires’ financial rating is included in Section 4.6,
+Note 15 — Net contract liabilities.
+
+3.5.2.3. MANAGEMENT OF CREDIT RISK
+RELATED TO DEPOSITS WITH
+CEDENTS
+
+SCOR favors deposit arrangements with the ability to offset
+liabilities against deposits with high legal certainty.
+
+Deposits with cedents are monitored through a quarterly analysis
+of exposure and associated risks. Actions aiming at reducing or
+limiting the exposure (e.g. ad-hoc legal opinions, introduction of
+offset clauses) can be implemented where needed.
+
+3.5.2.4. MANAGEMENT OF CREDIT
+RISK RELATED TO FUTURE
+CASH FLOWS FROM LIFE
+REINSURANCE TREATIES
+
+SCOR monitors the development of its cedents financial situation
+through regular contact, which enables to SCOR to take
+appropriate action when deemed necessary. In addition, credit
+risk on future cash flows from Life reinsurance policies is mitigated
+by industry-wide protection solutions in several countries, such
+as “Protektor” in Germany.
+
+For more details on the impact of the valuation of intangible assets,
+see Section 3.2.5 — The valuation of SCOR’s intangible assets
+and deferred tax assets may significantly affect its shareholders’
+equity and the price of its securities, and Section 4.6 — Notes to
+the consolidated financial statements, Note 6 — VOBA.
+
+3.5.2.5. MANAGEMENT OF CREDIT RISK
+RELATED TO CASH DEPOSITS
+AT BANKS
+
+SCOR selects bank counterparties according to their rating and
+credit quality. Concentration risk from cash deposits at banks is
+mitigated by setting counterparty exposure limits. SCOR takes
+into consideration the public assistance (e.g., loans, guarantees of
+deposits, nationalizations) which certain banks may benefit from
+during a financial crisis, as they are important in the economy of
+their respective country.
+
+For further information on how risks related to invested assets
+are managed, see Section 3.4.2 - Management of market risk.
+
+#3
+
+SCOR / Registration Document 201% ———@) 135
+
+
+--- Page 25 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Credit risk
+
+3.5.2.6. MANAGEMENT OF OTHER CREDIT RISKS
+
+In the event of joint liability of the members in pools to which SCOR participates, the risk of default of other pool members is carefully
+
+monitored by SCOR:
+
+e through its appointment as director and via the participation of its senior management in dedicated committees such as Audit and
+Risk Committees and Technical Committees, for the pools in which SCOR’s participation is the most significant; and
+
+e via the careful consideration of the financial situation of other pool members. This contributes to the application of sound and
+
+robust governance.
+
+3.5.2.7. AGING OF ASSETS
+
+The following table provides an overall analysis of the aging of financial assets and receivables as at December 31, 2016:
+
+1-12 12-24 24-36 > 36
+In EUR million Current months months months months Total
+Available-for-sale financial assets 16,553 - - - - 16,553
+Financial assets at fair value through income 812 - - - - 812
+Derivative instruments 187 - - - - 187
+Loans and receivables 9,815 - - - - 9,815
+Insurance receivables 5,330 871 34 11 31 6,277
+Tax receivables 164 - - - - 164
+Miscellaneous assets 292 4 - - - 296
+Cash and cash equivalents. 1,688 - - - - 1,688
+TOTAL 34,842 875 34 11 31 35,792
+The following table provides an overall analysis of the aging of financial assets as at December 31, 2015:
+1-12 12-24 24-36 > 36
+
+In EUR million Current months months months months Total
+Available-for-sale financial assets 15,381 - - - - 15,381
+Financial assets at fair value through income 744 - - - - 744
+Derivative instruments 221 - - - - 221
+Loans and receivables 10,492 - - - - 10,492
+Insurance receivables 4,929 369 36 11 33 5,378
+Tax receivables 138 - - - - 138
+Miscellaneous assets 208 3 - - - 211
+Cash and cash equivalents. 1,626 - - - - 1,626
+TOTAL 33,739 372 36 1 33 34,191
+
+Assets have been categorized within the above aging analysis
+according to their original due date. The due date for each of
+these instruments may vary depending on the type of asset.
+Insurance receivables business credit terms are typically based on
+normal terms of trade, as specified within contracts. Insurance
+receivables include estimates, which are presented as current.
+The available-for-sale investments and fair value through income
+categories presented above include fixed income securities and
+equity securities. For fixed income securities, amounts are only
+presented as non-current if the security has not been redeemed
+‘on the date of maturity and therefore the amount receivable is
+past due. For equity securities, due to the absence of a contractual
+
+136 ©—— Registration Document 2016 /SCOR
+
+date of redemption, these instruments are presented as current.
+Other assets presented in the above aging analysis, including
+derivative instruments, loans and receivables, cash and cash
+equivalents and other accounts receivable, are presented in a
+similar manner as those instruments described above, depending
+on the existence of a redemption date.
+
+Impairment information relating to financial assets is included
+in Section 4.6 — Notes to the consolidated financial statements,
+Note 7 — Insurance business investments, Note 8 — Accounts
+receivable from and payable on assumed and ceded insurance
+and reinsurance transactions and Note 18 — Investment income.
+
+
+--- Page 26 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+EXAILIQUIDITY RISK
+
+3.6.1. OVERVIEW OF LIQUIDITY RISK.
+
+Liquidity risk arises when available liquidity is not sufficient to
+meet liquidity needs. This liquidity shortfall can result either from:
+
+e a deviation from planned liquidity needs over either the short
+term, or the medium/long term;
+
+e a deviation from estimated liquidity capacities, e.g. due to
+adverse business conditions.
+
+3.6.1.1. LIQUIDITY NEEDS
+
+SCOR needs liquidity to pay claims, operating expenses, interest
+payments and redemptions on its debts and declared dividends
+on its share capital. Without sufficient liquidity, the Group may be
+forced to curtail its operations, and business will suffer. In the case
+of catastrophe claims, in particular, it may need to settle amounts
+which exceed the amount of available liquidity in a reduced
+timeframe. SCOR’s liquidity needs to cover catastrophe exposures
+is calibrated using the Group's gross (before retrocession) Nat
+Cat annual loss distributions, on top of other regular liquidity
+needs as listed above
+
+Liquidity needs may also arise from increased collateral
+requirements. Some facilities SCOR uses to grant letters of credit
+to cedents require 100% collateral in case of non-compliance
+with financial covenants or in case of a decrease in the Group's
+financial strength rating, which would result in a deterioration of
+the Group's liquidity level. Collateral arrangements are also used
+by SCOR when operating business in jurisdictions that demand
+a higher level of reserves than under IFRS in other jurisdictions.
+This is especially the case in the US for business falling under
+the NAIC Model Regulation XXX or Valuation of Life Insurance
+Policies Model Regulation, commonly referred to as Regulation
+XXX (or Triple X). Letters of Credit carry the risk of a duration
+mismatch, i.e. that short-term Letters of Credit are covering
+long-term business and might have to be renewed as less favorable
+conditions, creating additional cost.
+
+Information on SCOR’ letter of credit facilities, including related
+financial covenants, is included in Section 4.6 — Notes to the
+consolidated financial statements, Note 23 — Commitments
+received and granted.
+
+Liquidity risk <
+
+3.6.1.2. SOURCES OF LIQUIDITY
+
+The principal internal sources of the Group’s liquidity are
+reinsurance premiums, cash flows from its investment portfolio
+and other assets, consisting mainly of cash or assets that are
+readily convertible into cash.
+
+External sources of liquidity in normal markets include a
+variety of short and long-term instruments, such as repurchase
+agreements, commercial paper, medium and long-term debt,
+junior subordinated debt securities, capital securities and raising
+additional funds in the equity markets. For further information
+on SCOR's debt, including related financial covenants, see
+Section 4.6 — Notes to the consolidated financial statements,
+Note 13 — Financial liabilities.
+
+SCOR‘s ability to access external sources of liquidity may be subject
+to adverse capital and credit market conditions.
+
+Liquidity risks are increased when capital and credit markets
+experience extreme volatility or disruption, as SCOR may need to
+sell a significant portion of its assets quickly and on unfavorable
+terms, particularly if current internal resources do not satisfy its
+liquidity needs.
+
+This risk may be increased due to the characteristics of certain
+assets held by SCOR, whose liquidity may be limited due to
+contractual or regulatory constraints (e.g. investments in corporate,
+real estate or infrastructure loans).
+
+The availability of additional financing will depend on a variety
+of factors. These notably include market conditions, the general
+availability of credit, the volume of trading activities, the overall
+availability of credit to the financial services industry, SCOR’s credit
+ratings and credit capacity, as well as the possibility that customers
+or lenders could develop a negative perception of SCOR’s long- or
+short-term financial prospects if the Group incurs large investment
+losses or if the level of SCOR’s business activity decreases due to
+a market downturn. Similarly, access to funds may be impaired
+if regulatory authorities or rating agencies take negative action
+that could penalize SCOR. The liquidity of several asset classes
+owned by SCOR may also be negatively impacted by changes
+to regulations or by non-conventional monetary policies. If so,
+these factors could prevent SCOR from successfully obtaining
+additional financing on favorable terms, if any.
+
+#3
+
+SCOR / Registration Document 201% ———@) 137
+
+
+--- Page 27 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Liquidity risk
+
+3.6.2. MANAGEMENT OF LIQUIDITY RISK.
+
+Timing and transferability
+
+SCOR’ liquidity position is closely monitored from two points of
+view: timing and transferability.
+
+Timing
+
+SCOR assesses liquidity risks arising from both short-term and
+
+long-term liquidity needs. SCOR manages these risks via different
+
+mechanisms which consider:
+
+e actions to be taken by the insurance or reinsurance business
+areas to take into account both short term and long term
+liquidity risk (see maturity profiles in Section 3.6.3 — Maturity
+profiles); and
+
+e the appropriateness of the composition of the assets in terms
+
+of their nature, duration and liquidity in order to meet the
+obligations as they fall due.
+Short- term liquidity, or cash management, includes the day-to-day
+cash requirements under normal business conditions.
+
+Liquidity considerations over the long-term need must be assessed
+in a way which takes into consideration the possibility of various
+unexpected and potentially adverse business conditions where
+
+3.6.3. MATURITY PROFILES.
+
+assets may not be sold for current market values. SCOR has
+defined an internal methodology to estimate the level of its liquid
+free assets (i.e. non-pledged assets) which could be sold within
+a reasonable timeframe.
+
+Transferability
+
+In addition, SCOR monitors the level of transferability of liquid
+free assets between entities, depending on local and regulatory
+constraints.
+
+The Group has also been granted credit facilities from several
+banks to support the reinsurance activities of various subsidiaries.
+The Group regularly adapts and renews these facilities to support
+its business needs.
+
+Additional information on the timing of repayments and liquidity
+risk is included in Section 3.6.3 — Maturity profiles. For further
+information on liquid assets of SCOR Group, see Section 4.6 —
+Notes to the consolidated financial statements, Note 7 — Insurance
+business investments.
+
+Additional information on SCOR’s letter of credit facilities is
+included in Section 4.6 — Notes to the financial statement, Note 23 —
+Commitments received and granted.
+
+3.6.3.1. SCOR GLOBAL P&C (NON-LIFE)
+
+The technical reserves of SCOR Global P&C are established on an undiscounted basis (except workers compensation and payments
+in annuity on Motor Liability). The table below includes the estimated maturity profiles of the Non-Life insurance liabilities based on
+
+payment patterns derived from historical data.
+
+P&C insurance contact liabilities
+
+In EUR million 0-1 year 1-3 years 3-7 years > 7 years Total
+As at December 31, 2016 3,629 4,222 3,357 2,837 14,045
+As at December 31, 2015 3,619 4,409 3,350 2,611 13,989
+
+The analysis of the balance sheet reserve movements, including net paid losses, is included in Section 4.6 — Notes to the consolidated
+
+financial statements, Note 15 — Net contract liabilities.
+
+138 ©—— Registration Document 2016 /SCOR
+
+
+--- Page 28 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+3.6.3.2. SCOR GLOBAL LIFE
+
+The projections for insurance contract liabilities of the Life segment
+have been prepared on a best estimate basis. The amounts
+below represent the estimated maturity profile of the assumed
+contract liabilities. For long-term life reinsurance, benefit payments
+are typically settled net of premiums (for treaties with periodic
+premium payments). Where contract liabilities require to deposit
+
+The table below reflects gross cash outflows:
+
+Life insurance contract liabi
+
+Liquidity risk <
+
+cash to the cedent as collateral, the settlement normally also
+includes certain other account items, primarily the release of
+the deposits. For contracts where funds withheld are used to
+offset the amounts settled between SCOR and its cedents, funds
+withheld to cover the life insurance contract liabilities in the table
+below mature at the same date as the respective Life insurance
+contract liabilities.
+
+In EUR million <1 year 1-S5years 6-10 years > 10 years Total
+As at December 31, 2016 2,751 958 1,327 9,432 14,468
+As at December 31, 2015 1,868 1,128 639 10,109 13,744
+
+3.6.4. FINANCIAL LIABILITIES.
+
+Maturity profiles have been based on undiscounted contractual
+maturities and include contractual interest payments (including
+those from cross-currency and interest rate swaps). In the case
+of perpetual debt, or debt which is subject to multiple optional
+
+As at December 31, 2016
+
+reimbursement dates, the analysis below has been prepared
+based on the assumption that the Company does not make use
+of any of the early optional reimbursement dates. Perpetual debts
+are classified in the column “over 5 years” (no maturity date).
+
+Debt maturity profiles
+
+In EUR million Interest rate ranges <1 year 1-5 years > 5 years* Total**
+Subordinated debt 1.83% — 3.91% 75 278 3,306 3,659
+Real estate debt 0.78% — 4.47% 41 402 96 539
+Other financial debt 0.03% 5 2 4 11
+TOTAL 121 682 3,406 4,209
+As at December 31, 2015
+Debt maturity profiles
+
+In EUR million Interest rate ranges <1 year 1-5 years > 5 years* Total**
+Subordinated debt 1.02% - 6.98% 110 349 3,501 3,960
+Real estate debt 0.97% — 4.50% 59 341 175 575
+Other financial debt 0.19% 6 2 - 8
+TOTAL 175 692 3,676 4,543
+
+* Interest on perpetual debt as at December 31, 2016 of EUR 40 million, on a yearly basis (2015: EUR 84 million).
+** Of the amounts above, EUR 84" million (2015: EUR 98 million) relate to variable rate debt.
+
+Details on financial liabilities are presented in Section 4.6 — Notes
+to the consolidated financial statements, Note 13 — Financial
+liabilities.
+
+Maturity analyses of financial assets that are held for managing
+liquidity risk are presented within Section 4.6 — Notes to the
+consolidated financial statements, Note 7 — Insurance business
+investments.
+
+Various entities in the Group rent their office headquarters.
+The minimum payments relating to these operating leases are
+presented within Section 4.6 — Notes to the consolidated financial
+statements, Note 9 — Miscellaneous Assets (Tangible assets and
+related commitments).
+
+(1) These amounts exclude debt which has been swapped from a variable interest rate to a fixed interest rate.
+
+#3
+
+SCOR / Registration Document 201% ———@) 139
+
+
+--- Page 29 ---
+
+#3
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+> Operational risk
+
+ERA OPERATIONAL RISK
+
+3.7.1. OVERVIEW OF OPERATIONAL RISK.
+
+Operational risks are inherent to all businesses including SCOR’s.
+Operational risks may be split into four broad categories further
+described below: risks related to staff, systems or facilities,
+processes or external events.
+
+3.7.1.1. RISKS RELATED TO STAFF
+
+Risks related to staff can arise as follows:
+
+e the failure to attract or retain key personnel or the loss of
+crucial information/skills concentrated in a single person, or
+of a whole team;
+
+incidents due to mistakes or non-compliance with instructions,
+guidelines or policies;
+
+e internal staff mandated by SCOR having authorized access to
+SCOR's offices or systems taking advantage of SCOR’s assets
+for personal gain e.g. through misappropriation of assets, tax
+evasion, intentional mismarking of positions or bribery;
+
+e intentional damage to SCOR’s assets (including data) required
+to perform its operations by internal or external staff could
+lead to significant additional remediation costs (to rebuild
+databases or systems).
+
+3.7.1.2. RISKS RELATED TO SYSTEMS
+OR FACILITIES
+
+Risks related to systems can arise as follows:
+
+ea malfunction or a major breakdown in SCOR’s IT systems,
+outages, disruptions due to viruses, attacks by hackers and thefts
+or data breaches. This can occur within SCOR’s own environment
+or to a third party providing services or data to SCOR;
+
+e interruption of any of SCOR‘s IT systems leading to loss of data,
+delays in service or in a loss of efficiency of teams, which could
+lead to remediation costs, loss of contracts or damage to the
+Group's reputation. In addition, these incidents could increase
+other operational risks such as external fraud or human error
+(e.g. delay in the recognition of adverse business development).
+The interruption of these systems could damage commercial
+activities including underwriting, pricing, reserving, premium and
+claims payment, commercial support, and asset management;
+
+in addition, the facilities in which SCOR operates might be
+impacted by natural or man-made perils. The offices might
+need to be closed for a period of time potentially resulting
+in a loss of productivity and business opportunity, as well as
+remediation costs.
+
+140 ©—— Registration Document 2016 /SCOR
+
+3.7.1.3. RISKS RELATED TO PROCESSES
+
+SCOR’s risk management policies, procedures and controls may
+not be appropriate or sufficient. In particular, any additional
+workload to the planned activities could reduce the effectiveness
+of some processes and controls. For example, the creation of a
+new entity or development of a new Line of Business may lead
+to an accumulation of operational risks.
+
+Since SCOR remains responsible for commitments or services
+contracted, including for outsourced activities, an inappropriate
+client relationship management or inadequate level of service
+and/or product quality provided by SCOR to its clients or breach
+of contract may lead to a loss of profitable business relationships.
+
+In addition, SCOR may be involved in legal and arbitration
+proceedings due to non-protective terms of a contract, denounced
+either by third parties or internally which could lead to an
+unfavorable outcome. There are no governmental, judicial or
+arbitration proceedings, including any proceedings SCOR would
+be aware of, pending or which SCOR could be threatened with,
+likely to have or having a significant impact on SCOR‘s financial
+situation or profitability over the last 12 months. For information
+on this issue, see Section 4.6 — Notes to the consolidated financial
+statements, Note 25 — Litigation.
+
+Some of SCOR’s and SCOR’s subsidiaries’ processes are partially
+or fully outsourced. Failed outsourced processes could lead to
+direct losses and other operational incidents.
+
+
+--- Page 30 ---
+
+RISK FACTORS AND RISK MANAGEMENT MECHANISMS
+
+3.7.1.4. RISKS RELATED TO EXTERNAL
+EVENTS
+
+SCOR may be exposed to an unfavorable business environment
+such as evolving or additional regulatory constraints potentially
+hindering its business model.
+
+Legal and regulatory risk
+
+As an international group, SCOR must comply with national
+and international laws, regulations and accounting standards.
+This includes all applicable economic sanctions, anti-bribery
+as well as anti-terrorism laws and regulations applicable to its
+operations, such as the economic trade sanctions laws and
+regulations administered by the United States Department of
+the Treasury's Office of Foreign Assets Control (OFAC) as well
+as certain laws administered by the United States Department
+of State, the Foreign Corrupt Practices Act (FCPA) and other
+anti-bribery laws such as the UK Bribery Act that generally bar
+corrupt payments or unreasonable gifts to foreign governments
+or officials. The level of legal, regulatory, tax or accounting
+requirements depends on several factors including the type of
+business (e.g. primary insurance or reinsurance business), the
+location and the legal structure of the entity. The large number of
+regulatory environments, as well as changes in regulations increase
+the complexity of the related processes. Any violation of laws,
+regulations or accounting requirements could expose SCOR
+to fines, class actions with compensation payments, accounts
+restatements or business restrictions.
+
+For further details on current main regulatory developments which
+may have an impact on SCOR, see Section 3.2.3 — Risks related
+to capital and legal and regulatory developments.
+
+Other risks related to external events
+
+SCOR is also exposed to external fraud which is characterized by
+the fraudulent misappropriation of certain SCOR assets by third
+
+Operational risk <
+
+parties. External frauds may be perpetrated by various means
+including cyber-attacks, and usually target cash or data. Should
+they succeed in bypassing the controls or protection measures in
+place, this could generate a direct loss for the Group.
+
+SCOR is exposed to cyber-attacks which can be very diverse in
+their sophistication and execution. The main targets are system
+functions, data and cash management. Immediate repercussions
+include:
+
+© systems could be slowed down, corrupted or stopped potentially
+resulting in loss of productivity, corrupted data and remediation
+costs;
+
+e data could be stolen, deleted or corrupted, or made public in
+contradiction with SCOR’s regulatory or contractual obligations.
+
+Any of these could generate a reputational risk, give rise to a
+breach of SCOR’s legal responsibility, and may result in regulatory
+sanctions depending on the level of sensitivity of the data or
+system that is successfully attacked. The cyber-attack could also
+assist external fraudsters resulting in a financial loss.
+
+3.7.1.5. INSURANCE OF SPECIFIC
+
+OPERATIONAL RISKS
+
+Some of the above operational risks are transferred in whole or
+in part to direct insurers'as follows:
+
+e the properties and other assets of SCOR and its subsidiaries
+are covered locally through property and fire damage as well
+as IT risk policies;
+
+e liability risks are mostly covered at Group level and include civil
+liability risks related to the operation of the Company caused
+by employees and real estate, professional liability risks, civil
+liability risks of directors and officers, and cyber risks.
+
+Nevertheless, these insurance covers could prove to be insufficient.
+In case of a loss, the insurance companies could also possibly
+contest their liability towards SCOR.
+
+(1) Generally speaking, the insurance covers mentioned in this section illustrate the Group's policy of transferring some of its own risks. However, these insurance covers
+remain subject to the provisions of corresponding contracts, specifically those regarding possible sub-limits of cover, particular deductibles and geographic scope of
+
+cover and/or particular exclusions
+
+#3
+
+SCOR / Registration Document 201% ———@) 141
+
+
+--- Page 31 ---
+
+3.7.2. MANAGEMENT OF OPERATIONAL RISK.
+
+The two main principles driving the operational risk management
+approach are:
+
+e exhaustiveness: ensure that a complete and exhaustive
+identification of all risks within the Group is carried out to the
+extent possible;
+
+© proportionality: once operational risks are identified,
+management uses appropriate and proportionate responses,
+resources and procedures, focusing on key risks.
+
+The process owners are responsible for managing operational
+risks within the processes. To meet high quality standards, the
+Group relies on a highly qualified staff to manage processes and
+the risks within these processes.
+
+In order to support the staff, SCOR has developed Internal Control
+System (ICS) standards. According to the ICS standards, process
+owners should be in a position to identify the critical operational
+risks within the processes assigned to their area of responsibility.
+The process owners design, implement and operate appropriate
+key controls and maintain the net risk exposure at or below an
+acceptable level of possible damage.
+
+142 ©—— Registration Document 2016 /SCOR
+
+At Group level, experienced staff members collect relevant
+information and analyses on operational risks, on a qualitative
+and quantitative basis. When relevant, they develop key indicators,
+with support from Group Risk Management. The Group has also
+implemented regular risk reporting mechanisms in order to provide
+for an overview of risks across the Group, as well as mitigate and
+monitor risks identified
+
+At legal entity level, depending on local requirements, specific
+operational risk management processes are implemented, where
+relevant.
+
+In addition, through its assignments, Group Internal Audit (GIA)
+contributes to the oversight of operational risk management.
+
+Outsourcing some activities or processes may improve or streamline
+some aspects of a process, but SCOR is still expected to deliver
+the same level of service. Principles to properly manage potential
+operational risks stemming from outsourcing of certain functions
+are set out in dedicated policies and guidelines.
+
+On risks which may develop rapidly, such as external fraud, SCOR
+frequently adapts its risk management, for example by organizing
+specific training programs and sending regular warnings and
+detailed instructions to its employees.

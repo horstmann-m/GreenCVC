@@ -1,0 +1,1789 @@
+
+
+--- Page 1 ---
+
+50 Group management report
+
+Market development
+
+Significant economic recovery after historic recession
+
+After the vaccination campaigns had gained momentum in the spring of 2021, and COVID-19 infection rates began to decline,
+the business restrictions, which were tightened again towards the end of 2020, could be eased. This was accompanied by an
+economic upturn in the summer months. Though, supply bottlenecks weighed heavily on the industrial sector over the course of
+the year. Inflation rates reached multi-year highs, largely due to increased energy prices and supply chain problems. However,
+there was a renewed sharp rise in infection rates towards the end of the year. The restrictions subsequently reintroduced in
+many countries weighed on the economy in the final quarter of the year, albeit probably not to the same extent as in the previ-
+ous year.
+
+The gross domestic product of the euro area increased by around 5 per cent in 2021. The strong growth was marked by large
+fluctuations during the year. At the beginning of the year, the economy was in recession. The rebound in the second and third
+quarters pushed quarter-on-quarter growth rates to above 2 per cent. In the final quarter of the year, however, momentum
+again slowed significantly. In contrast, the inflation rate showed a steady upward trend. While year-on-year inflation was still
+minus 0.3 per cent in December 2020, the consumer price index showed an increase of 5 per cent at the end of 2021.
+
+The monetary policy of the European Central Bank (ECB) ensured that money market rates (Euribor) remained closely aligned
+with the ECB deposit rate of minus 0.5 per cent in 2021. In March, the ECB responded to an unwelcome rise in long-term interest
+rates by increasing the monthly volume of bond purchases. It reduced the volume again somewhat in the fourth quarter. To-
+wards the end of the year, the previously increased expectations of interest rate hikes declined moderately in light of renewed
+uncertainty relating to the pandemic. The ECB continued its large-volume asset purchase program, mainly government bonds,
+consolidating the dampening effects on capital market interest rates in the euro area.
+
+The Austrian economy continued to be affected by restrictions on account of the pandemic in the first quarter of 2021. How-
+ever, following the lifting of restrictions, a visible economic upturn set in during the second and third quarters that was
+stronger than in the euro area. In contrast to Germany, the industrial sector supported the economy into the autumn despite
+supply bottlenecks. However, a new lockdown was imposed at the end of November in response to sharply rising infections,
+which weighed heavily on the economy in the final quarter. Nevertheless, GDP for the entire 2021 year recorded an increase of
+just under 5 per cent (2020: decrease 6.7 per cent).
+
+CEE: Pressure on central banks to act due to inflation
+surge
+
+The CEE region also saw a significant rise in inflation rates in 2021. This reflected not only rising energy prices but also supply
+chain issues and the accompanying effects of the economic recovery (pent-up consumer demand and high investment). Infla-
+tionary pressure was strongest in Central and Eastern Europe, where price increases averaged 4.5 and 7.0 per cent p.a., respec-
+tively. In contrast, the average inflation rate in Southeastern Europe was just 4.0 per cent p.a. Price pressures are expected to
+ease somewhat by the end of 2022, albeit depending more on the global rather than local conditions, including supply bottle-
+necks and energy prices. A substantial tightening of monetary policy was observed in Central and Eastern Europe over the
+course of 2021. This was against the backdrop of less well-anchored inflation expectations than in Western countries, tradition-
+ally stronger correlations between producer and consumer prices, and the devaluation of local currencies. Particularly strong
+interest rate hikes by individual central banks (such as in the Czech Republic, Hungary or Russia), placed increased pressure on
+other central banks in the region - with a comparable environment - to take similar action. Moreover, use of unconventional
+monetary policy instruments and asset purchases in the CEE region has been limited to immediate crisis situations or already
+scaled back. Capital market interest rates are therefore not dampened by long-running asset purchases such as in the euro
+area.
+
+The economies in Central Europe (CE) posted a strong recovery in 2021. As a result, many countries had already returned to pre-
+pandemic GDP levels by the second half of 2021. The main drivers of the economic upturn proved to be foreign demand, private
+consumption as well as investment, with fiscal policy also having a supportive effect. However, due to manufacturing making
+up a large share of their economies, the countries of the CE region were particularly impacted by disruptions in global supply
+chains. Political disagreements delayed the disbursement of EU funds for Poland and Hungary; however, this is not expected to
+change the economic outlook for these countries.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 2 ---
+
+Group management report 51
+
+With an increase of 6.5 per cent in 2021, the economy in Southeastern Europe (SEE), saw a major rebound from the pandemic-
+induced slump of the previous year. This was due not least to the recovery of private consumption, which was supported by the
+resurgence of remittances in many countries (e.g. Albania, Kosovo) and the stronger-than-expected tourist season (e.g. Albania,
+Croatia). Most countries in the region reached pre-pandemic GDP levels earlier than elsewhere. However, the economic recovery
+in Bulgaria was comparatively moderate, which is related to the greater impact of the pandemic.
+
+Eastern Europe (EE) recorded only moderate GDP growth in 2021, compared to CE and SEE. However, this should also be seen in
+context of the less drastic economic slump in 2020. In Belarus, as the effects of the newly imposed sanctions had not yet fully
+materialized, they did not severely impact the economy in 2021 (GDP increase: 17 per cent). In Ukraine, cooperation with the IMF
+continued to be difficult, but support was ultimately secured through an agreement. Russia's economy was supported by fiscal
+policy, rising oil and gas prices, strong consumer demand as well as industrial production, while the agricultural sector had a
+dampening effect.
+
+Annual real GDP growth in per cent compared to the previous year
+
+Region/country 2020 2021e 2022f 2023f
+Czech Republic (58) 33 44 37
+Hungary’ (5.2) 65 45 35
+Poland (27) 57 43 40
+Slovakia (44) 30 44 60
+Slovenia (42) 71 45 35
+Central Europe (9) 5.1 43 40
+Albania (40) 88 44 40
+Bosnia and Herzegovina (32) 68 36 35
+Bulgaria (42) 45 40 40
+Croatia (3.0) 92 44 44
+Kosovo (53) 10.4 47 40
+Romania 37) 62 47 45
+Serbia (0.9) 65 45 40
+Southeastern Europe (40) 65 45 43
+Belarus (0.9) 17 0s 20
+Russia 3.0 39 15 14
+Ukraine (G8) 30 33 32
+Eastern Europe (3.0) 38 17 16
+Austria (6.7) 49 45 22
+Euro area (6.5) 5.2 40 25
+
+Source: Raiffeisen Research, as of beginning of February 2022, (e: estimate, f forecast subsequent revisions are possible for years already completed
+
+Banking sector in Austria
+
+Austrian banks' return on assets recovered significantly in 2021, toward the pre-pandemic level of 0.7 per cent. This was the
+result of a decline in risk costs, an improvement in fee and commission income, and a recovery in the profitability of large
+CE/SEE subsidiaries. Despite expiring loan repayment moratoriums, credit risks in the banking system remained subdued and
+the NPL ratio fell to below 1.5 per cent (Austrian loan portfolio). This was supported by brisk lending in a favorable funding envi-
+ronment, including access to the euro system's TLTROs. The volume of both retail and corporate loans reached growth rates of
+around 5 per cent p.a. during 2021, with raised demand for housing loans and recovery in corporate investment being key driv-
+ers. Despite the observed balance sheet growth, regulatory oversight of the banks’ capital allocation helped maintain the
+strong capital position of Austrian banks with a CET1 ratio of 16 per cent.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 3 ---
+
+52 Group management report
+
+Development of the banking sector in CEE
+
+In course of the general economic recovery, which aided a decline in risk costs and a normalization of lending, CEE banks had a
+strong recovery in 2021. Despite the renewed uptick in COVID-19 cases at the end of the year, the EE banks' return on equity was
+above 20 per cent and reached solid levels of between 10 to 13 per cent in CE/SEE. The revival of personal loans complemented
+the stable mortgage lending segment, while lending to businesses eventually also gained momentum as the investment cycle
+picked up steam. Government support measures kept NPL ratios low, though banks’ Stage 2 loans still present some degree of
+unresolved credit risk. In some countries, Stage 2 loans remained particularly high at 15 to 20 per cent (Romania, Slovakia), while
+fluctuating around 10 per cent in many others. With inflationary pressures mounting, monetary tightening became one of the
+main issues, particularly in Russia, Ukraine, the Czech Republic, Hungary and Poland. The increase in interest rates has so far
+proved favorable for the banks’ net interest margins, which showed signs of bottoming out in CE/SEE.
+
+Regulatory environment
+ECB supervisory priorities for banks under Single Supervisory Mechanism (SSM)
+
+= Credit risk managment: The ECB expected the COVID-19 pandemic and the resulting deterioration of the macroeconomic
+environment to have a negative impact on banks' asset quality. Noting that support measures, including monetary actions,
+as well as fiscal, regulatory and supervisory measures, have managed to avert a new financial crisis as intended. The ECB
+focused its banking supervisory efforts on assessing the adequacy of banks' credit risk management, as well as of their
+operations, monitoring and reporting.
+
+= Capital strength: Elevated credit risk combined with potential market adjustments may lead to the deterioration of banks’
+capital ratios. The ECB highlighted the necessity of sound capital planning that is based on capital projections and adapta-
+ble to a rapidly changing environment, especially during a crisis situation.
+
+= Business model sustainability: Profitability and banks’ business model sustainability remained a key concern. The supervisory
+authorities placed particular focus on banks' digital transformation processes.
+
+= Governance: The ECB sees strong governance by management bodies as an essential driver in overcoming a crisis. Govern-
+ance and crisis risk management frameworks were therefore closely monitored. Further focus areas included banks' risk
+data aggregation capabilities, IT and cyber risk management practices and governance, as well as on controlling risks aris-
+ing from outsourcing services to third parties, money laundering and the financing of terrorism.
+
+New regulations in 2021
+Finalization of Basel Ill (CRR Ill / CRD VI)
+
+The CRR Ill / CRD VI package (Basel IV) transposes the global standards bank capital (Basel III framework) into European law. It is
+based on the proposals of the Basel Committee for Banking Supervision. The chief focus is on the results of internal models,
+which had allowed for varying degrees of capital requirements in the past. This (heterogeneity) should no longer be possible.
+
+RBI as a universal bank is affected by the framework in various respects, though sees the regulation as a big opportunity for
+itself and its customers. Aspects like the expansion of national legislative programs toward a European approach, the continu-
+ation of beneficial support for SMEs, or the application of the output floor at the highest level of consolidation, are seen as
+great opportunities to support its customers. The proposals are being continually evaluated and political discussions closely
+followed to be able to respond accordingly.
+
+Digital Finance Package initiatives and focus on consumer protection
+
+Following publication of the European Commission's Digital Finance Strategy in September 2020, diverse regulatory initiatives
+from the strategy were further pursued or launched in 2021. The European Commission put forward proposals on the regulation
+of Artificial Intelligence (Al) and Digital Identity. Further initiatives by the Commission included a review of the Consumer Credit
+Directive (CCD) in light of digitalization (Data Governance Act) and holding a consultation on the expected Data Act regulation.
+
+The steady rise of European legislation focusing on digital services and new technologies will impact RBI in the coming years.
+
+The initiatives generally aim for an increased harmonization of the respective rules across the EU to achieve a Digital Single
+Market and simplification of cross-border business in the EU. Furthermore, the regulatory proposals would require/enable
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 4 ---
+
+Group management report 53
+
+changes to existing processes, e.g. for digitally onboarding customers with regard to the EU-wide Digital Identity. RBI closely
+monitors these developments, is engaged in discussions between policy makers and banking associations and has actively par-
+ticipated in relevant consultations.
+
+Austrian implementation of the Capital Requirements Regulation II as well as the Capital
+Requirements Directive V and Bank Recovery and Resolution Directive II
+
+The revised Capital Requirements Regulation (EU Regulation 2019/876) and Capital Requirements Directive (EU Directive
+2019/878), also known as CRR Il and CRD V, included amendments in areas such as Pillar 2 capital requirements and remunera-
+tion, leverage ratio, liquidity, market risk, counterparty credit risk, as well as reporting and disclosure requirements. The Bank
+Recovery and Resolution Directive Il (EU Directive 2019/879), also known as BRRD II, includes inter alia a new framework for mini-
+mum requirements for own funds and eligible liabilities (MREL).
+
+The legislative package for the implementation of CRD V and BRRD II transposed certain European requirements into national
+law (Austrian Banking Act and Bank Recovery and Resolution Act). Thereby introducing, for example, the additivity of macropru-
+dential buffers or extended rules to calculate MREL requirements.
+
+National macroprudential requirements were adjusted to ensure that economically unwarranted changes to capital require-
+ments were not triggered. Therefore, the implementation of the European framework into national legislation did not lead to
+increased capital requirements.
+
+Minimum requirements for own funds and eligible liabilities (MREL)
+
+The Single Resolution Board (SRB) published the updated MREL Policy on 26 May 2021. The multiple-point-of-entry (MPE) ap-
+proach, which RBI employs as its resolution strategy, requires that each resolution entity can be resolved independently without
+causing shortfalls in other resolution groups.
+
+The Single Resolution Mechanism Regulation II (SRMR II) introduced the concept of the Maximum Distributable Amount related
+
+to MREL (M-MDA), which will be applicable from 1 January 2022. M-MDA allows the SRB to set restrictions on dividend distribu-
+
+tions for banks. M-MDA has many similarities to the former MDA regime of Article 141 CRD, albeit is subject to the discretionary
+decision of the resolution authority.
+
+The MREL planning is an integral part of the budgeting process for RBI and its subsidiary banks in the EU. MREL levels are closely
+monitored. RBI and several of its bank subsidiaries in the EU, made issuances in order to fulfill their respective MREL require-
+ments (binding interim targets from 1 January 2022). It is worth highlighting that RBI covered a significant portion of its MREL
+requirements in 2021 through the issuance of green bonds.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 5 ---
+
+54 Group management report
+
+Significant events in the
+reporting period
+
+Re-contracting of ING's retail customers in the Czech Republic
+
+In February 2021, RBI's Czech subsidiary bank, Raiffeisenbank a.s. (RBCZ), signed a referral agreement with ING Bank NV. (ING) for
+the re-contracting of ING's Czech retail customers, which occurred in the second quarter following approval by the Czech Office
+for Protection of the Competition.
+
+Acquisition and integration of Equa
+
+The acquisition of 100 per cent of the shares of Equa (Equa bank a.s. and Equa Sales & Distribution s.r..) from AnaCap (AnaCap
+Financial Partners), through RBI's Czech subsidiary bank, Raiffeisenbank a.s., was closed on 1 July 2021. The consolidation of
+Equa into the balance sheet of RBI therefore occurred in the third quarter and had a negative impact of around 30 basis points
+on RBI's CET1 ratio.
+
+Equa contributed € 33 million towards RBI's net interest income in the 2021 financial year. At the same time, this added € 40
+million in general administrative expenses and € 15 million in impairment losses on financial assets (mostly Stage 1). The cus-
+tomer loans of Equa totaled € 2,107 million.
+
+Equa bank a.s. was merged into Raiffeisenbank a.s., RBI's Czech subsidiary bank, on 1 January 2022.
+Agreement on the acquisition of Crédit Agricole Srbija
+
+On 5 August 2021, RBI announced that its Serbian subsidiary bank, Raiffeisen banka a.d., had signed an agreement to acquire
+100 per cent of the shares of Crédit Agricole Srbija (Crédit Agricole Srbija a.d. Novi Sad and Crédit Agricole Leasing Srbija d.0.0.)
+from Crédit Agricole S.A. The closing of the transaction is subject to inter alia obtaining regulatory approvals.
+
+The acquisition of Crédit Agricole Srbija is expected to have a negative impact of approximately 16 basis points on RBI's CET1
+ratio. The final impact is dependent on the completion accounts at closing, which is expected by the end of the first quarter of
+2022.
+
+Crédit Agricole Srbija serves around 356,000 customers. The bank has a leading position in agricultural-business financing (over
+20 per cent market share) and thus complements the business profile of Raiffeisen banka a.d. very well. At the end of the sec-
+ond quarter of 2021, Crédit Agricole Srbija had total assets of € 1.3 billion, while Raiffeisen banka a.d. reported total assets of
+
+€ 3.4 billion.
+
+Following the successful closing of the transaction, it is planned to merge Crédit Agricole Srbija with Raiffeisen banka a.d.
+Agreement reached on the sale of Raiffeisenbank (Bulgaria) EAD
+
+In November 2021, the Management Board of RBI resolved to sell the Bulgarian subsidiary bank and its participation to KBC
+Bank, a fully owned subsidiary of the Belgian KBC Group NV. The primary motivation for the decision was the possibility to real-
+locate capital in order to seize attractive growth opportunities and gain scale in RBI's key markets. This operation is disclosed
+separately in the balance sheet under other assets as a disposal group classified as held for sale. The sale proceeds should be
+significantly higher than the carrying amount of the net assets and so no impairment was recognized from the classification of
+the operation as a disposal group held for sale.
+
+Additional dividend for 2020 of € 0.75 per share
+
+Following the ECB decision not to extend its recommendation on the restriction of dividends, the Extraordinary General Meeting
+on 10 November 2021 approved the distribution of an additional dividend of € 0.75 per share for the 2020 financial year. This led
+to a positive impact of 9 basis points on RBI's CET1 ratio. Thus for the 2020 financial year, a total of € 1.23 per share in dividends
+was distributed.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 6 ---
+
+Group management report 55
+
+Earnings and financial
+performance
+
+Consolidated profit increased a substantial 71 per cent to € 1,372 million. After the pandemic-driven recession in the previous
+year, the financial year 2021 was certainly a year of economic recovery. Net interest income was up 7 per cent, notably benefit-
+ing from the high level of customer loan growth (up 11 per cent, or 15 per cent without consideration of IFRS 5), as well as rising
+interest rates in several countries across Central and Eastern Europe. The net fee and commission income, with an increase of
+18 per cent to € 1,985 million, had reached an all time high. The increase in consolidated profit was also due to significantly
+lower loan loss provisions, which at € 295 million were 51 per cent down on the previous year's period. In addition to M&A activi-
+ties, the rise in general administrative expenses was also due to digitalization initiatives in implementation of RBI's Vision to
+become the most recommended financial services group by 2025. Key projects include the development of a digital retail bank-
+ing platform, the further development of the myRaiffeisen platform in Corporates, and the rollout of innovative trading solu-
+tions in Markets. The other result was impacted by the allocation of credit-linked and portfolio-based provisions for litigation,
+mainly in Poland
+
+Since the beginning of the year, supported by the economic upturn, total assets rose € 26,142 million or 16 per cent. From the
+second quarter particularly, almost all markets showed significant growth in demand for loans, which only starting to lose
+some momentum in the fourth quarter as the economy weakened again. Sustainable financing continued to grow in im-
+portance in this respect. In the reporting period, sustainable financing totaling € 4,335 million was granted.
+
+In contrast to the beginning of the year, when the income statement was still being impacted by the low interest rate environ-
+ment and the COVID-19 pandemic, both the interest rate environment and currency developments significantly recovered from
+the second quarter onwards. Nevertheless, the average exchange rates of the Russian ruble and Ukrainian hryvnia were both
+5 per cent, the Belarusian ruble 7 per cent, and the US dollar 3 per cent, below the respective level of the previous year.
+
+Comparison of results with the previous year
+
+in € million 2021 2020" Change
+Net interest income 3,327 3,121 207 6.6%
+Dividend income 42 21 21 104.2%
+Current income from investments in associates 46 41 5 125%
+Net fee and commission income 1,985 1,684 300 17.8%
+Net trading income and fair value result 53 1 (38) (41.8%
+Net gains/losses from hedge accounting ey a 2 247.3%
+Other net operating income 120 17 3 27%
+Operating income 5,570 5,073 497 9.8%
+Staff expenses (1,579) (1521) (58) 3.8%
+Other administrative expenses (992) (927) (65) 7.0%
+Depreciation (407) (384) (23) 6.0%
+General administrative expenses (2,978) (2,832) (146) 5.2%
+Operating result 2,592 2,241 351 15.7%
+Other result (295) (204) (1) 44.9%
+Governmental measures and compulsory contributions (213) (257) 44 (17.19%
+Impairment losses on financial assets (295) (598) 303 (50.7%
+Profit/loss before tax 1,790 1,183 607 51.3%
+Income taxes (368) (321) (a7) 147%
+Profit/loss after tax from continuing operations 1,422 862 560 65.0%
+Gains/losses from discontinued operations 86 48 38 79.9%
+Profit/loss after tax 1,508 90 598 65.7%
+Profit attributable to non-controlling interests (135) (106) (29) 27.9%
+
+1 Previous-year figures adapted due to changed allocation (IFRS 5 discontinued operation:
+notes, chapter principles underlying the consolidated financial statements under chang
+
+3 well as further adjust
+to the income statement.
+
+rents in order to increase transparency) Further information can be found in the
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 7 ---
+
+56 Group management report
+
+Operating income
+
+Net interest income was up € 207 million to € 3,327 million. This development was mainly facilitated by rising interest rates of
+several Eastern European currencies and strong loan growth with only slight negative currency effects. The largest increase, of
+€ 104 million, was recorded at head office, primarily due to € 50 million in COVID-19 bonus claims under the TLTRO III program,
+strong loan growth and lower financing costs from the deposit business and own issues. There was also a particularly strong
+increase in net interest income in the Czech Republic, where interest rate rises and the integration of Equa bank led toa € 54
+million increase in net interest income. Net interest income in Hungary was up € 40 million, supported by positive developments
+in both the corporate and retail customer business, as well as higher market interest rates. In Ukraine, higher income from both
+the corporate and retail customer business, as well as lower interest expenses due to changes in the product mix and maturity
+split, also resulted in an increase in net interest income of € 18 million. In Slovakia, net interest income increased € 8 million,
+mainly due to the COVID-19 bonus claims under the TLTRO III program.
+
+The average interest-bearing assets for the Group rose
+Net interest ma rgin 13 per cent year-on-year, mainly due to increases in short-
+term investments of excess liquidity. The net interest margin
+
+in € milion
+narrowed by 12 basis points to 2.01 per cent.
+165,227
+146,301 The rise in net fee and commission income was due to in-
+130,142 134,206 139.999 creased transactions by both retail and corporate customers
+248% 250% 248% in clearing, settlement and payment services - especially in
+
+213% payment services and credit card business - as well as in the
+YT ft eh 1% foreign exchange business, mainly through forward foreign
+exchange contracts. Net fee income from asset management
+also rose, with the strongest increase - due to higher retail
+customer volumes - at Raiffeisen Kapitalanlage-Gesellschaft.
+Despite currency devaluations in Eastern Europe, net fee and
+commission income increased € 300 million to € 1,985 million.
+The largest increase was recorded at head office, with fur-
+207 2018 2019 2020 2021 ther increases on a currency-adjusted basis in Russia, Roma-
+nia, Hungary and the Czech Republic.
+
+3,225 3,362 3412 321 3,327
+
+Net interest income
+
+Average interest-bearing assets ,
+9 ° Net trading income and fair value result was down € 38 mil-
+
+lion to € 53 million. The decrease was mainly due to interest
+rate-related valuation losses on government bonds and from
+foreign exchange business in Russia, in the amount of € 57
+million. There were also valuation losses at head office on foreign exchange derivatives and foreign currency exposures, which
+were partly offset by interest rate-related valuation gains on own issues measured at fair value.
+
+Hl Net interest margin
+
+Previous year's figures (2020) adapted due to changed allocation (IFRS 5)
+
+General administrative expenses
+
+General administrative expenses were up 5 per cent year-on-year, or € 146 million, to € 2,978 million despite currency devalua-
+tions. Despite this increase, significantly higher core revenues led to an improvement in the cost/income ratio from 55.8
+
+per cent to 53.5 per cent. Currency movements in the reporting period led to a € 37 million reduction, primarily as a result of the
+7 per cent depreciation of the Belarusian ruble, and 5 per cent
+
+depreciation of both the Russian ruble and Ukrainian hryvnia . .
+
+(based on the average rate for the period). Staff expenses rose Cost/income ratio
+
+€ 58 million to € 1,579 million, mainly due to increases in the in € million
+
+Czech Republic, Russia, at head office, and in Hungary. The in-
+
+crease at head office mainly resulted from higher current sal- 6342 5,439 5544 - 5570
+ary payments. In the Czech Republic from the integration of : 5.073
+
+Equa bank, and in Russia from higher salaries and social secu- 57.1% 55.4% 55.1% 55.8%
+
+rity costs and staff-related taxes, and in Hungary from the 53.5%
+
+lower staff expenses in the previous year's period due to
+
+short-time work schemes relating to the pandemic. Other ad- 2,994 3.015 3.052 2832 2978
+ministrative expenses increased € 65 million to € 992 million.
+This increase was mainly driven, besides higher advertising ex-
+penses (up € 28 million) primarily in Russia, by higher legal, ad-
+visory and consulting expenses (up € 26 million) at head office,
+in Poland and the Czech Republic. These expenses primarily re-
+lated to consulting services relating to M&A activities and legal
+fees in connection with the Swiss franc loan portfolio in Po- 2017 2018 2019 2020 2021
+land. There were further increases in IT expenses (up € 24 mil-
+lion), mainly at head office due to higher expenses for external
+IT consulting services and in the Czech Republic due to several
+integration projects. RBI has invested heavily in digitalization
+for the implementation of its Vision to become the most Previous years’ figures adopted due to changed allocation (transparency) and IFRS 5 (2020)
+
+1 Operating income
+I General administrative expenses
+
+I Cost/income ratio
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 8 ---
+
+Group management report 57
+
+recommended financial services group by 2025. Alongside numerous Group-wide digital solutions, this includes the develop-
+ment of a digital retail banking platform, the further development of the myRaiffeisen platform and of cash management and
+clearing, settlement and payment services systems in Corporates, and the rollout of innovative trading solutions in Markets.
+Further expenses were incurred for the introduction of cloud solutions, for process automation and for investing in a central
+security operations center. Currency effects in Eastern Europe reduced expenses. Depreciation and amortization of tangible
+and intangible fixed assets increased 6 per cent, or € 23 million, to € 407 million, mainly due to the recognition of software as-
+sets at head office and the integration of Equa bank in the Czech Republic.
+
+The number of business outlets fell by 86 year-on-year to 1,771. The largest declines were in Romania (down 33), Belarus (down
+14) and Slovakia (down 11). The average headcount decreased by 438 full-time equivalents year-on-year to 45,907, primarily in
+the Ukraine (down 525) due to branch closures in the previous year, and in Slovakia (down 185), Romania (down 179) and Bulgaria
+(down 128). Conversely, the integration of Equa bank resulted in an increase of 488.
+
+Other result
+
+The other result amounted to minus € 295 million in the reporting period, compared to minus € 204 million in the comparable
+period. The result was impacted by the allocation of credit-linked and portfolio-based provisions for litigation in the amount of
+€ 326 million (up € 266 million) in Poland, Croatia and Romania. In Poland, provisions in connection with mortgage loans denomi-
+nated in or indexed to a foreign currency were allocated in the amount of € 278 million (up € 235 million) as the result of
+changes in the parameters of the model calculation. Conversely, good business performance and rising stock market prices of
+listed equity investments resulted in reversals of impairment losses on investments in associates valued at equity in the report-
+ing period in the amount of € 66 million (UNIQA Insurance Group AG and LEIPNIK-LUNDENBURGER INVEST Beteiligungs AG). In the
+previous year's period, impairment losses of € 68 million were recognized on associates valued at equity due to the deteriorat-
+ing economic outlook caused by the pandemic. In the previous year's period, a goodwill impairment of € 27 million relating to
+Raiffeisen Kapitalanlage-Gesellschaft was also recognized to reflect the revised medium-term plan due to the pandemic, and
+impairment losses on non-financial assets in the amount of € 20 million were recognized, mainly relating to real estate in Rus-
+sia and Slovakia. Net modification losses of € 40 million were incurred in the previous year’s period due to the introduction of
+loan repayment moratoriums; these losses amounted to € 14 million in the reporting period. The bulk of the moratoriums ex-
+pired in the reporting period.
+
+Governmental measures and compulsory contributions
+
+Expenses from governmental measures and compulsory contributions decreased € 44 million to € 213 million. Bank levies de-
+clined € 64 million to € 39 million. This reduction mainly related to the discontinuation of the special bank levy in Austria (previ-
+ous year's period: € 41 million), which was introduced in 2016 and totaled € 163 million, booked in four tranches from 2017 to
+2020. In addition, the bank levy was abolished in Slovakia (previous year's period: € 26 million). Deposit insurance fees increased
+€ 12 million - mainly in Russia, in Slovakia, and at Raiffeisen Bausparkasse Osterreich Gesellschaft m.b.H. - to € 99 million.
+
+Impairment losses on financial assets
+
+The improved economic environment in the 2021 financial year was reflected in the significant decline in risk costs. Impairment
+losses on financial assets totaling € 295 million were recognized in the reporting period, compared to € 598 million in impair-
+ment losses in the previous year's period due to the substantial impact of the COVID-19 pandemic. The calculation of expected
+credit losses includes overlays (post-model adjustments and additional risk factors) totaling € 51 million in the reporting period
+(€ 62 million in net allocations of provisions relating to non-financial corporations and € 11 million in net releases of provisions
+relating to households), compared to mainly COVID-19-related post-model adjustments of € 282 million in the previous year's
+period (€ 236 million relating to non-financial corporations and € 46 million relating to households). In addition, impairment
+losses of € 28 million were recognized as a result of EU sanctions on Belarus, € 25 million due to geopolitical uncertainties in
+Ukraine, and € 20 million for the credit portfolio for potentially sanctioned Russian customers.
+
+In Stage 1 and Stage 2, net impairments of € 102 million were recognized in the reporting period (previous year's period: € 315
+million), including a net € 98 million relating to loans to non-financial corporations, mainly in Austria (€ 34 million), Ukraine (€ 27
+million), Belarus (€ 20 million) and Romania (€ 10 million). For defaulted loans (Stage 3), net impairments of € 180 million were
+recognized in the reporting period (previous year's period: net € 302 million). Of this, € 123 million related to households, primar-
+ily in Russia (€ 52 million), Romania (€ 16 million), Bosnia and Herzegovina (€ 13 million) and Slovakia (€ 12 million), while € 43 mil-
+lion related to non-financial corporations, mainly in Austria (€ 24 million) and Russia (€ 12 million).
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 9 ---
+
+58 Group management report
+
+The NPE ratio was down 0.3 percentage points to 1.6 per cent due to higher lending volumes and an increase in deposits at cen-
+tral banks. The NPE coverage ratio rose by 1.0 percentage points to 62.5 per cent.
+
+Income taxes
+Income taxes increased € 47 million to € 368 million, whereas the tax rate fell 6.6 percentage points to 20.6 per cent. This was
+
+mainly due to an improved earnings contribution from head office and valuations of investments in associates valued at eq-
+uity.
+
+Comparison of results with the previous quarter
+Quarterly results
+
+in € million 94/2020' 1/2021: 92/2021: Q3/2021° 94/2021
+Net interest income 735 736 773 843 976
+Dividend income 3 5 25 4 7
+Current income from investments in associates 3 16 6 12 12
+Net fee and commission income: 452 420 483 521 561
+Net trading income and fair value result 3 4 28 4) 24
+Net gains/losses from hedge accounting (8) 6 a fe) 1
+Other net operating income 24 28 26 29 36
+Operating income 1,201 4,215 1,335 1,402 1,618
+Staff expenses (380) (370) (383) (401) (425)
+Other administrative expenses (269) (208) (237) (234) (313)
+Depreciation (107) (94) (95) (01) (118)
+General administrative expenses (756) (672) (714) (736) (856)
+Operating result 446 543 620 666 763
+Other result 6 (3a) a7) (46) (75)
+Governmental measures and compulsory contributions (28) (123) ay (26) (32)
+Impairment losses on financial assets (135) (76) (24) (44) (150)
+Profit/loss before tax 289 306 528 550 406
+Income taxes (82) ez) (116) (98) ii)
+Profit/loss after tax from continuing oper 207 229 412 452 329
+Gains/losses from discontinued operations 23 14 19 29 24
+Profit/loss after tax 230 243 430 481 353
+Profit attributable to non-controlling interests (25) (28) (34) (38) (36)
+
+1 Adaptation of prior quarters’ figures due to changed allocation (IFRS 5 discontinued operations) and @4/2020 adaptation (further adjustments in order to increase transparency). Further information
+can be found in the notes, chapter principles underlying the consolidated financial statements under changes to the income statement.
+
+Development of fourth quarter of 2021 compared to third quarter of 2021
+
+Net interest income was up € 132 million to € 976 million. The increase of € 52 million at head office and of € 23 million in Slo-
+vakia were mainly due to COVID-19 bonus claims under the TLTRO Ill program. Rising interest rates and strong performance in
+both the corporate and retail customer business led to an increase in net interest income in the Czech Republic (up € 23 million),
+Russia (up € 16 million), and Hungary (up € 11 million).
+
+The net interest margin improved by 24 basis points to 2.22 per cent in the fourth quarter due to rising net interest income in
+numerous countries in the Group.
+
+Net fee and commission income increased 8 per cent, or € 41 million, to € 561 million. This was mainly driven by higher income in
+the custody business at head office and by early repayments in the lending business in Russia. Foreign exchange business, par-
+ticularly forward foreign exchange contracts in Russia, and the loan and guarantee business at head office, in the Czech Re-
+public, Slovakia and Russia, also recorded volume-related increases.
+
+The net trading income and fair value result increased € 28 million. The increase partly resulted from positive valuation effects
+
+from loans measured at fair value at head office. In addition, Raiffeisen Centrobank AG recorded positive valuation effects in
+the certificates business in the fourth quarter.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 10 ---
+
+Group management report 59
+
+General administrative expenses increased € 119 million quarter-on-quarter to € 856 million. Staff expenses rose € 24 million to
+€ 425 million, while other administrative expenses rose € 79 million to € 313 million and depreciation increased € 16 million to
+
+€ 118 million. The main drivers of the increase in staff expenses were a higher headcount in Russia (up € 15 million) and the inte-
+gration of Equa bank in the Czech Republic (up € 7 million). The increase in other administrative expenses primarily occurred in
+Russia (up € 46 million) due to higher advertising expenses, IT expenses, and legal and consulting expenses, and at head office
+(up € 21 million) due to increased external consulting services. Other administrative expenses also increased in Romania (up
+
+€7 million) mainly due to higher advertising expenses and in Ukraine (up € 6 million).
+
+The decline in the other result was mainly attributable to higher allocations to credit-linked and portfolio-based provisions for
+litigation (up € 100 million), predominantly in Poland. Furthermore, the valuation of shares in associates valued at equity re-
+sulted in an impairment loss of € 8 million in the fourth quarter, following a reversal of impairment losses of € 8 million in the
+previous quarter.
+
+Impairment losses on financial assets increased € 106 million compared to the previous quarter, with increases in almost all
+countries. In the fourth quarter, in particular, impairment losses totaling € 25 million were recognized due to the geopolitical
+uncertainties in Ukraine, and € 20 million for the credit portfolio for potentially sanctioned Russian customers.
+
+Statement of financial position
+
+Since the beginning of the year, total assets rose € 26,142 million, or 16 per cent. Currency movements were attributable for
+
+2 per cent of the increase, especially the US dollar appreciating 8 per cent and the Russian ruble appreciating 7 per cent. In the
+2021 financial year, there was a significant upward trend in demand for loans - supported by the economic upturn -in almost
+all markets, especially from the second quarter onward. This trend lost some momentum in the fourth quarter as the economy
+began to weaken. The strategy of expanding market share in selected markets was successfully continued in the financial year
+through both acquisitions and organic growth.
+
+RBI strives to offer its customers sustainable financial products and services as part of its sustainability strategy. Sustainable
+financing is increasingly in demand and harbors considerable growth potential. Sustainable financing totaling € 4,335 million
+were extended in the reporting period and now account for around 8 per cent of the credit portfolio of corporate customers
+and project finance. Two years ago, RBI launched a green bond program and is the largest Austrian provider of green bonds. A
+subordinated green bond, RBI's third green benchmark issue following bond issues in 2018 and 2019, was issued in June 2021
+with a volume of € 500 million.
+
+Assets
+
+in € million 2021 2020 Change Q3/2021 Q2/2021 Q1/2021
+Loans to banks 16,630, 11,952 4,678 39.1% 16,678 15,983 13,644
+Loans to customers 100,832 90,671 10,161 11.2% 100,659 94,052 91,861
+
+hereof non-financial corporations 50,156 44,951 5,205 11.6% 49,358 46,830 46,202
+
+hereof households (38,078 34,367 3,711 10.8% 38,638 35,998 34,783,
+Securities 22,902 22,162 741 3.3% 22,901 23,155, 23,015,
+Cash and other assets ‘51,736 41,174 10,562 25.7% 50,371 48,510 47,632
+
+In 2021, the ossets of Roiffeisenbank (Bulgaria) EAD and Raiffeisen Li
+Under the respective line items.
+
+Bulgoria EOOD are shown under cash and other assets, while in 2020 and in the 2021 quarterly reports, they are shown
+
+The increase in loans to banks mainly occurred in the Czech Republic (up € 3,863 million) due to a higher volume of repurchase
+agreements as well as in Hungary and Russia, largely attributable to short-term investments at the National Bank.
+
+The growth in loans to customers is primarily driven by lending to non-financial corporations (corporate customers), both in the
+long-term credit business and in short-term loans, and to households (retail customers), mainly for mortgage and personal
+loans. The largest increases in customer loans occurred in the Czech Republic (up € 3,575 million), including € 2,509 million for
+retail customers (mainly mortgage loans), and at head office (up € 2,901 million), which mainly related to lending to corporate
+customers (up € 2,408 million), especially in the long-term credit business. There were also significant increases in Russia, Slo-
+vakia and Ukraine. Market shares of retail and corporate customers were expanded through the acquisition of Equa bank (cus-
+tomers loans totaling € 2107 million) and organic growth in the Czech Republic, and in Slovakia primarily through organic
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 11 ---
+
+60 Group management report
+
+growth. Due to the planned sale of the Bulgarian subsidiary bank and its participation, loans to customers in the amount of
+€ 3,659 million were reclassified to other assets (IFRS 5) as of year-end 2021.
+
+The increase in securities came primarily from investments in debt securities (up € 598 million net) at head office (in particular
+government and bank bonds) and in Romania, mainly in government bonds.
+
+The significant increase in cash (up € 4,897 million) was attributable to the investment of liquidity - primarily deposits at na-
+tional banks - in Slovakia, at head office and in Hungary. Other assets include non-current assets and disposal groups classi-
+fied as held for sale totaling € 5,531 million, primarily due to the planned sale of Bulgarian subsidiary bank and its participation.
+
+Equity and liabilities
+
+in € million 2021 2020 Change 93/2021 2/2021 Q1/2021
+Deposits from banks 34,607 29,121 5,487 18.8% 39,143 36,730 37,242
+Deposits from customers 115,153 102,112 13,041 12.8% 114,651 108,808 104,211
+
+hereof non-financial corporations 44,523 39,663 4,860 12.3% 42,808 41,164 41,174
+
+hereof households 56,690 50,047 6,643 13.3% 58,353 55,184 52,007
+Debt securities issued and other liabilities 26,865 20,438 6,427 31.4% 21,384 21,269 20,124
+Equity 5 14,288 7 8.3% 15,432 14,892 14,576
+
+In 2021, the liabilities of Raiffeisenbank (Bulgaria) EAD and Raiffeisen Leasing Bulgaria EOOD are shown under debt securities issued and other liabilities, while in 2020 and in the 2021 quarterly
+reports, they are shown under the respective line items.
+
+The Group's funding from banks increased significantly with respect to short-term deposits and repo transactions and as a
+result of new borrowings under the TLTRO Ill program at head office and, in the latter case, also in Slovakia.
+
+The increase in deposits from customers was mainly attributable to short-term deposits. The largest gains in deposits were
+reported in the Czech Republic (up € 6,892 million, including € 5,197 million from retail customers), Russia (up € 2,439 million),
+Hungary (up € 1,227 million), Slovakia (up € 1,208 million), and Romania (up € 1,076 million). Of the increase in the Czech Republic,
+€ 2,594 million came from the integration of Equa bank and € 2,071 million from the acquisition of an ING portfolio. Due to the
+planned sale of the Bulgarian subsidiary bank and its participation, customer deposits in the amount of € 4,544 million were
+reclassified to other liabilities (IFRS 5) as of year-end 2021.
+
+The € 1,141 million increase in debt securities came primarily from MREL bond issues in the Czech Republic, Romania and Slo-
+vakia. Other liabilities include € 4,829 million from liabilities held for sale in the disposal groups due to the planned sale of the
+Bulgarian subsidiary bank and its participation.
+
+For information relating to funding, please refer to note (54) Liquidity management in the risk report section of the consoli-
+dated financial statements.
+
+Equity on the statement of financial position
+Equity including capital attributable to non-controlling interests rose € 1,187 million from the start of the year to € 15,475 million.
+
+In April 2021, the Annual General Meeting approved a dividend payment of € 0.48 per share for 2020. An additional dividend of
+€ 0.75 per share was approved at an Extraordinary General Meeting in November 2021. This amounted to a total dividend distri-
+bution of € 404 million. A dividend of € 92 million was distributed for additional tier 1 capital (AT1).
+
+Total comprehensive income increased € 1,555 million to € 1,658 million and comprised profit after tax of € 1,508 million and
+other comprehensive income of € 150 million. Currency movements had a positive impact of € 284 million, following a negative
+impact of € 1,007 million in the previous year. The 7 per cent appreciation of the Russian ruble led to a positive contribution of
+€ 135 million, the 5 per cent appreciation of the Czech koruna contributed € 107 million and the 11 per cent appreciation of the
+Ukrainian hryvnia resulted in income of € 52 million. This was partly offset by a valuation loss of € 64 million from the hedge of
+net investments, primarily in Russian rubles.
+
+Capital attributable to non-controlling interests rose € 190 million. This was primarily due to the proportion of total comprehen-
+
+sive income attributable to non-controlling interests of € 164 million and a capital increase of € 49 million in the Czech Republic.
+Dividend payments, in contrast, reduced the amount by € 39 million - mainly in Ukraine and Slovakia.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 12 ---
+
+Group management report él
+
+Total capital pursuant to the CRR/Austrian Banking
+Act (BWG)
+
+Common equity tier 1 (CET1) after deductions amounted to € 11,812 million, representing an increase of € 1,051 million compared
+to the 2020 year-end figure. The main driver of the increase was the higher profit for 2021. A dividend of € 115 per share was
+deducted for the 2021 financial year. Tier 1 capital after deductions increased € 971 million to € 13,460 million. The increase was
+mainly due to the increase in CET1. Tier 2 capital rose € 246 million to € 2,347 million. The increase was driven by the issuance of
+a Tier 2 bond in June 2021, offset by regulatory amortization of outstanding issues. Total capital amounted to € 15,807 million,
+representing an increase of € 1,217 million compared to the 2020 year-end figure.
+
+Total risk-weighted assets (RWA) increased € 11,063 million year-on-year to € 89,927 million. The major reason for the organic
+growth was new loan business. Inorganic growth was driven by both rating downgrades in the lending business as well as by
+increases in operational risk, largely attributable to the rise in internal and external loss data in the Advanced Measurement
+Approach (AMA model).
+
+This resulted in a (fully loaded) CET1 ratio of 13.1 per cent (down 0.5 percentage points), a tier 1 ratio of 15.0 per cent (down
+0.8 percentage points) and a total capital ratio of 17.6 per cent (down 0.8 percentage points). The consolidation of Equa had a
+negative effect of around 30 basis points on CET1
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 13 ---
+
+62 Group management report
+
+Research and development
+
+Digitalization
+
+Acentral theme for banks in the advancement of digitalization is the growing relevance of mobile banking. While the penetra-
+tion (rate of active mobile banking use) was at 44 per cent for RBI in 2020, it had reached 53 per cent by year-end 2021 (though
+this figure varies greatly between markets). The acceptance of online loans has remained high: In 2020, 48 per cent of loans
+were granted through digital channels and in 2021 this had increased slightly to 49 per cent.
+
+In its product range for retail customers and small businesses, RBI places a strong focus on the full end-to-end digitalization of
+core products (accounts, payments/cards and loans). RBI expects to achieve yearly cost savings and additional income through
+this as well as the branch network optimization which is taking place in parallel.
+
+Furthermore, plans to develop more products and individual product components centrally and to make these available to all of
+the Group's banks started to be implemented. RBI also expects lower costs as a result of this initiative. Aside from the cost ben-
+efit, this should lead to a substantial reduction in the time required for the full digitalization of the five most important prod-
+ucts across the entire Group (current accounts, credit cards, consumer loans, as well as current accounts and loans for SMEs).
+
+Digitalization is a key issue for corporate and institutional customers as well. Since the end of 2019, RBI has digitalized a series
+of products and services on the myRaiffeisen platform. This includes a digital KYC process (eKYC) for companies and institu-
+tional customers, digital account opening (eAccount Opening), digital export finance (eSpeedtrack), as well as further services
+such as eFinance, eGateway, eArchive, and the digital payment questionnaire for correspondent banking clients (ePIC).
+
+In 2021, eAccount opening was the first product to go live across the whole Group, which is an important milestone in achieving
+a harmonized digital offering and experience across the entire region for RBI's corporate and institutional clients. The latest
+figures in regards to usage demonstrate a broad acceptance and appreciation for RBIs digital offering - around 53 per cent of
+new accounts at RBI in Austria were initiated digitally in 2021 (2020: 39 per cent), and 56 per cent of new customers were veri-
+fied using the fully digitalized eKYC process (versus 42 per cent in 2020). Launched in the middle of 2021, ePIC has already been
+well adopted and was utilized in around 54 per cent of the payment questionnaires.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 14 ---
+
+Group management report 63
+
+Internal control and risk
+management system in relation
+to the Group accounting
+process
+
+Balanced and comprehensive financial reporting is a priority for RBI and its governing bodies. Compliance with all relevant stat-
+utory requirements is therefore a basic prerequisite. The Management Board is responsible for establishing and defining a suit-
+able internal control and risk management system that encompasses the entire accounting process while adhering to
+company requirements. This is embedded in the company-wide framework for the internal control system (ICS).
+
+The ICS should ensure effective and continuously improving internal controls for accounting. The control system is designed to
+comply with all relevant guidelines and regulations and to optimize conditions for specific control measures in order to prevent
+any unintentional misstatements.
+
+Control environment
+
+The Group has an internal control system pertaining to financial reporting, which includes directives and instructions on
+key issues as a central element. This includes:
+
+= The hierarchical decision-making process for approving Group and company directives, as well as departmental and
+divisional instructions,
+
+= process descriptions for the preparation, quality control, approval, publication, implementation and monitoring of di-
+rectives, and instructions including related controls, as well as
+
+= regulations for the revision and repeal of directives and instructions.
+
+The senior management of each Group unit is responsible for implementing the Group-wide instructions. Compliance with
+Group rules is monitored by Group Financial Reporting & Steering as well as through audits by Group and local auditors.
+
+The consolidated financial statements are prepared by Group Reporting & Consolidation, which belongs to the CFO area under
+the CEO. The associated responsibilities are defined for the Group within the framework of a dedicated Group function.
+
+Risk assessment
+
+Significant risks relating to the Group accounting process are evaluated and monitored by the Management Board. Complex
+accounting standards can increase the risk of errors, as can the use of differing valuation standards, particularly in relation to
+the Group's principal financial instruments. A difficult business environment can also increase the risk of significant financial
+reporting errors. For the purpose of preparing the consolidated financial statements, estimates have to be made for asset and
+liability items for which no market value can be reliably determined. This is particularly relevant for the lending business, equity
+participations and goodwill. Social capital, provisions for legal risks and the valuation of securities, are also based on estimates.
+
+Control measures
+
+The preparation of financial information on an individual Group unit level is decentralized and carried out by the respective
+Group unit in accordance with RBI guidelines; the calculation of parts of the impairment charges under IFRS 9 is, however, car-
+ried out centrally. The Group unit employees and the managers responsible for accounting are required to provide a full presen-
+tation and accurate valuation of all transactions. The local management is responsible for ensuring implementation of
+mandatory internal control measures, such as the separation of functions and the principle of dual control. The reconciliation
+and validation controls are embedded in the aggregation, calculation, and accounting valuation activities for all financial re-
+porting processes. Particular focus is placed on the controls for the core processes that play a fundamental role in the prepara-
+tion of the financial statements. This primarily relates to processes which are relevant for valuations, the results of which have
+a significant impact on the financial statements (e.g. valuation of credit risk provisions, derivatives, equity participations, provi-
+sions for personnel expenses and market risk).
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 15 ---
+
+64 Group management report
+
+The COVID-19 pandemic and associated lockdowns and partial physical absence (home office) had no impact on the internal
+control system.
+
+Consolidation
+
+The financial statement data are predominantly automatically transferred to the IBM Cognos Controller consolidation system
+in January of the subsequent year. The IT system is kept secure by limiting access rights.
+
+The plausibility of each Group unit's financial statements is initially checked by the responsible key account manager in Group
+Reporting & Consolidation. Group-level control activities comprise the analysis and, where necessary, modification of the finan-
+cial statements submitted by Group units. In this process, the results of meetings with representatives of the individual compa-
+nies, in which the financial statements are discussed, and comments from external reviews of the financial statements are
+taken into account. The discussions cover the plausibility of the reporting package as well as critical matters pertaining to the
+Group unit.
+
+The subsequent consolidation steps are performed using the consolidation system, including capital consolidation, expense
+and income consolidation, and debt consolidation. Finally, intra-Group gains are eliminated where applicable. At the end of the
+consolidation process, the notes to the financial statements are prepared in accordance with IFRS and the BWG/UGB.
+
+All control measures constitute part of the day-to-day business processes and are used to prevent, detect and correct any po-
+tential errors or inconsistencies in the financial reporting. Control measures range from managerial reviews of the results for
+the period, through to the reconciliation of accounts and analyzing accounting processes.
+
+The consolidated financial statements and management report are reviewed by the Audit Committee of the Supervisory Board
+and are also presented to the full Supervisory Board for its information.
+
+Information and communication
+
+The consolidated financial statements are prepared using Group-wide standardized data requirements. The accounting and
+valuation standards are defined and explained in the RBI Group Accounts Manual and must be applied when preparing the fi-
+nancial statements. Detailed instructions for the Group units on measuring credit risk and similar issues are provided in the
+Group directives. The relevant units are kept abreast of any changes to the instructions and standards through regular training
+courses.
+
+Each year the Annual Report contains the consolidated results in the form of a complete set of consolidated financial state-
+ments. In addition, the Group management report contains comments on the consolidated results in accordance with the stat-
+utory requirements.
+
+Throughout the year, consolidated monthly reports are produced for the Group's senior management. The published statutory
+interim reports conform to the provisions of IAS 34 and are produced on a quarterly basis. Before publication, the consolidated
+financial statements are presented to senior managers and Management Board members for final approval and then submit-
+ted to the Supervisory Board's Audit Committee. Analyses pertaining to the consolidated financial statements are also provided
+for management, as are forecast Group figures at regular intervals. The financial and capital planning process, undertaken by
+Group Business Performance Management, includes a three-year Group budget.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 16 ---
+
+Group management report 65
+
+Monitoring
+
+Financial reporting is a primary focus of the ICS framework, whereby financial reporting processes are subject to risk-based
+prioritization and control examinations with results regularly reported to the Management Board and the Supervisory Board for
+evaluation. Additionally, the Audit Committee is required to monitor the financial reporting process. The Management Board is
+responsible for ongoing company-wide monitoring. The internal control system is based on three lines of defense.
+
+The first line of defense consists of individual departments, whereby department heads are responsible for monitoring their
+business areas and ensuring that an appropriate control environment is established. The departments conduct plausibility
+checks and control activities on a regular basis, in accordance with the documented processes.
+
+The second line of defense is made up of specialist areas focused on specific topics. These include, for example, Compliance,
+Data Quality Governance, Operational Risk Controlling, and Security & Business Continuity Management. Their primary aim is to
+support specialist areas with their control processes, to review the carrying out of controls, and to introduce leading practices
+within the organization.
+
+Internal audits are the third line of defense in the monitoring process. Responsibility for auditing lies with Group Internal Audit
+and the respective internal audit departments of the Group units. All internal auditing activities are subject to the Group Audit
+Standards, which are based on the Austrian Financial Market Authority's minimum internal auditing requirements and interna-
+tional best practices. Group Internal Audit's internal rules also apply (notably the Audit Charter). Group Audit regularly and inde-
+pendently verifies compliance with the internal rules within the RBI Group units. The head of Group Internal Audit reports
+directly to the Management Board, with additional reporting obligations to the Chairman of the Supervisory Board and mem-
+bers of the Audit Committee of the Supervisory Board.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 17 ---
+
+66 Group management report
+
+Capital, share, voting, and
+control rights
+
+The following disclosures satisfy the provisions of § 243a (1) of the Austrian Commercial Code (UGB):
+
+(1) As at 31 December 2021, the company's share capital amounted to € 1,003,265,844.05 and was divided into 328,939,621 voting
+common bearer shares. As at 31 December 2021, 322,204 (31 December 2020: 322,204) of those were own shares, and conse-
+quently 328,617,417 shares were outstanding at the reporting date. Please see note (32) Equity for further disclosures.
+
+(2) The Articles of Association contain no restrictions concerning voting rights or the transfer of shares. The regional Raiffeisen
+banks and direct and indirect subsidiaries of the regional Raiffeisen banks are parties to a syndicate contract (syndicate agree-
+ment) regarding RBI AG. The terms of this syndicate agreement include not only a block voting agreement and preemption
+rights, but also a prohibition on sales of the RBI shares held by the regional Raiffeisen banks (with few exceptions) since the
+expiration of a period of three years (lock-up period) from the effective date of the merger between RZB AG and RBI AG, i.e.
+from 18 March 2020, if the sale would reduce the regional Raiffeisen banks' aggregate shareholding in RBI AG (direct and/or
+indirect) to less than 40 per cent (previously 50 per cent) of the share capital plus one share.
+
+(3) RLB NO-Wien Sektorbeteiligungs GmbH holds around 22.24 per cent of the share capital of the company. By virtue of the
+syndicate agreement regarding RBI AG, the directly or indirectly held voting rights attached to a total of 193,449,778 shares,
+corresponding to a voting interest of around 58.81 per cent, are mutually attributable to the regional Raiffeisen banks and their
+direct and indirect subsidiaries pursuant to §§ 130 and 133 7 of the Austrian Stock Exchange Act (BérseG) as parties acting in
+concert as defined in § 16 of the Austrian Takeover Act (UbG). The remaining shares of RBI AG are held in free float, with no
+other direct or indirect shareholdings amounting to 10 per cent or more known to the Management Board.
+
+(4) The Articles of Association do not contain any special rights of control associated with holding shares. According to the syn-
+dicate agreement for RBI AG, the regional Raiffeisen banks can nominate nine members of the RBI AG Supervisory Board. In ad-
+dition to the members nominated by the regional Raiffeisen banks, the RBI AG Supervisory Board should also include three
+independent representatives of free-float shareholders who are not attributable to the Austrian Raiffeisen Banking Group.
+
+(5) There is no control of voting rights arising from interests held by employees in the share capital.
+
+(6) Pursuant to the Articles of Association, a person who is aged 68 years or older may not be appointed as a member of the
+Management Board or be reappointed for another term in office. The rule for the Supervisory Board is that a person who is
+aged 75 years or older may not be elected as a member of the Supervisory Board or be re-elected for another term in office.
+Moreover, no person who already holds eight supervisory board mandates in publicly traded companies may be a member of
+the Supervisory Board. Holding a position as chairman of the supervisory board of a publicly traded company would count
+twice for this purpose. The Annual General Meeting may choose to waive this restriction through a simple majority of votes if
+permitted by law. Any candidate who has more mandates for, or chairman positions on, supervisory boards in publicly traded
+companies must disclose this to the Annual General Meeting. There are no further regulations regarding the appointment or
+dismissal of members of the Management Board and the Supervisory Board beyond the provisions of the relevant laws. The
+Articles of Association stipulate that the resolutions of the Annual General Meeting are, provided that there are no mandatory
+statutory provisions to the contrary, adopted by a simple majority of the votes cast. Where the law requires a capital majority
+in addition to the voting majority, resolutions are adopted by a simple majority of the share capital represented in the votes. As
+a result of this provision, members of the Supervisory Board may be dismissed prematurely by a simple majority. The Supervi-
+sory Board is authorized to adopt amendments to the Articles of Association that only affect the respective wording. This right
+may be delegated to committees. Furthermore, there are no regulations regarding amendments to the company Articles of
+Association beyond the provisions of the relevant laws.
+
+(7) Pursuant to § 169 of the Austrian Stock Corporation Act (AktG), the Management Board has been authorized since the Annu-
+al General Meeting of 13 June 2019 to increase the share capital with the approval of the Supervisory Board - in one or more
+tranches - by up to € 501,632,920.50 through the issuance of up to 164,469,810 new voting common bearer shares in exchange
+for contributions in cash and/or in kind (including by way of the right of indirect subscription by a bank pursuant to § 153 (6) of
+the AktG) by 2 August 2024 at the latest and to fix the offering price and terms of the issue with the approval of the Supervi-
+sory Board. The Management Board is further authorized to exclude shareholders’ subscription rights with the approval of the
+Supervisory Board (i) if the capital increase is carried out in exchange for contributions in kind, or (ii) if the capital increase is
+carried out in exchange for contributions in cash and the shares issued under the exclusion of subscription rights do not exceed
+10 per cent of the company's share capital (exclusion of subscription rights). The (i) utilization of authorized capital with exclu-
+sion of the statutory subscription right in the event of a capital increase in return for a contribution in cash, and the (ii) imple-
+mentation of the conditional capital resolved upon in the Annual General Meeting on 20 October 2020 in order to grant
+conversion or subscription rights to convertible bond creditors may not exceed 10 per cent in total of the share capital of the
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 18 ---
+
+Group management report 67
+
+company. The utilization of the authorized capital in the form of a capital increase in return for a contribution in kind is not cov-
+ered by this restriction.
+
+No use has been made to date of the authority granted in June 2019 to utilize the authorized capital.
+
+The share capital is conditionally increased (conditional capital) pursuant to § 159 (2) 1 of the AktG by up to € 100,326,584 by
+issuing of up to 32,893,962 ordinary bearer shares. The conditional capital increase will only be implemented to the extent that
+use is made of an irrevocable right of conversion into or subscription to shares which the company grants to the creditors hold-
+ing convertible bonds issued on the basis of the resolution passed at the Annual General Meeting on 20 October 2020, or in the
+event of having to fulfil a conversion obligation set out in the convertible bonds’ terms of issuance. In both cases, the Manage-
+ment Board does not decide to allocate own shares. The issue price and the conversion ratio are to be calculated in accordance
+with recognized quantitative financial methodologies and the price of the company's shares in a recognized pricing procedure
+(calculation basis of the issuance price); the issue price may not be below the proportionate amount of the share capital. The
+newly issued shares from the conditional capital increase are entitled to a dividend equivalent to that of the shares traded on
+the stock exchange at the time of issuance. The Management Board is authorized, with the approval of the Supervisory Board,
+to determine the further details of the implementation of the conditional capital increase.
+
+The Management Board was further authorized pursuant to § 174 (2) of the AktG by the Annual General Meeting on 20 October
+2020, within 5 years from the date of the resolution, i.e. until 19 October 2025, with the consent of the Supervisory Board, to is-
+sue also in several tranches, convertible bonds with rights to convert into or subscribe to shares of the company or convertible
+bonds with conversion obligations (contingent convertible bonds pursuant to § 26 of the Banking Act), including convertible
+bonds that meet the requirements for Additional Tier 1 capital instruments pursuant to Regulation (EU) No. 575/2013 of the Eu-
+ropean Parliament and the Council of 26 June 2013 on supervisory requirements for credit institutions and investment firms, as
+amended, with full exclusion of shareholders’ subscription rights. The authorization includes the issuance of convertible bonds
+in a total nominal amount of up to € 1,000,000,000 with rights to convert into or subscribe to up to 32,893,962 ordinary bearer
+shares of the company with a proportionate amount of the share capital up to € 100,326,584. The issue price and the conver-
+sion ratio are to be calculated in accordance with recognized quantitative financial methodologies and the price of the com-
+pany shares in a recognized pricing procedure (calculation basis of the issuance price); the issue price of the convertible bonds
+may not be below the proportionate amount of the share capital. In this respect, the Management Board is authorized to de-
+termine all further issuance and structural features as well as the issuance terms and conditions of the convertible bonds, in
+particular the interest rate, issue price, term of validity and denomination, provisions protecting against dilution, conversion
+period, conversion rights and obligations, conversion ratio and conversion price. The convertible bonds may also be issued -
+observing the limit of the corresponding equivalent value in euros - in the currency of the United States of America and in the
+currency of any other Organization for Economic Cooperation and Development (OECD) member state. The convertible bonds
+may also be issued by a company which Raiffeisen Bank International AG owns 100 per cent of, directly or indirectly. For this
+event, the Management Board is authorized to provide, with the consent of the Supervisory Board, a guarantee for the convert-
+ible bonds on behalf of the company and to grant the holders of the convertible bonds conversion rights into ordinary bearer
+shares of Raiffeisen Bank International AG and, if a conversion obligation is stipulated in the convertible bonds’ issuance terms,
+to enable the obligation of conversion into ordinary bearer shares of Raiffeisen Bank International AG to be fulfilled; with the
+exclusion of the rights of shareholders to subscribe to the convertible bonds.
+
+There have been no convertible bonds issued to date.
+
+The Annual General Meeting held on 20 October 2020 authorized the Management Board pursuant to § 65 (1) 8, § 65 (1a) and
+
+§ 65 (1b) of the AktG to purchase own shares and to retire them if appropriate without requiring any further prior resolutions to
+be passed by the Annual General Meeting, though with the approval of the purchase by the Supervisory Board can also be ef-
+fected off-exchange under the exclusion of the shareholders’ pro rata tender right. Own shares, whether already purchased or
+to be purchased, may not collectively exceed 10 per cent of the company's share capital. The authorization to purchase own
+shares expires 30 months after the date of the Annual General Meeting resolution, i.e. until 19 April 2023. The acquisition price
+for repurchasing the shares may be no lower than € 3.05 per share and no higher than 10 per cent above the average un-
+weighted closing price over the 10 trading days prior to exercising this authorization. The authorization may be exercised in full
+or in part or also in several partial amounts, for one or more purposes - with the exception of securities trading - by the com-
+pany, by a subsidiary (§ 189a 7 of the UGB) or by third parties for the account of the company or a subsidiary.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 19 ---
+
+68 Group management report
+
+The Management Board was further authorized, pursuant to § 65 (1b) of the AktG, to decide, with the approval of the Supervi-
+sory Board, on the sale of own shares by means other than the stock exchange or a public tender, to the full or partial exclusion
+of shareholders’ subscription rights, and to stipulate the terms of sale. Shareholders’ subscription rights may only be excluded if
+the own shares are used to pay for a contribution in kind, to acquire enterprises, businesses, operations or stakes in one or sev-
+eral companies in Austria or abroad. Furthermore, shareholders’ subscription rights may be excluded in the event that converti-
+ble bonds are issued in future, in order that (own) shares may be issued to such convertible bond creditors that have exercised
+their right of conversion into or subscription to shares in the company, and also in the event of a conversion obligation stipu-
+lated in the convertible bonds’ issuance conditions in order to fulfil this conversion obligation. This authorization may be exer-
+cised in whole, in part or in several partial amounts for one or more purposes by the company, a subsidiary (§ 189a 7 UGB) or by
+third parties for the account of the company or a subsidiary and remains in force for five years from the date of this resolution,
+ie. until 19 October 2025. This authorization replaces the authorization granted by the Annual General Meeting of 21 June 2018
+pursuant to § 65 (1) 8 of the AktG to acquire and utilize own shares and refers also to the utilization of own shares already ac-
+quired by the company. Since that time, there were no own shares purchased on the basis of the lapsed authorization from
+June 2018 nor on the basis of the current authorization from October 2020.
+
+The Annual General Meeting of 20 October 2020 also authorized the Management Board, under the provisions of § 65 (1) 7 of
+the AktG, to purchase own shares for the purpose of securities trading, which may also be conducted off-market, during a peri-
+od of 30 months from the date of the resolution (i.e. until 19 April 2023), provided that the trading portfolio of shares purchased
+for this purpose does not at the end of any given day exceed 5 per cent of the company's respective share capital. The consid-
+eration for each share to be acquired must not be less than half the closing price at the Vienna Stock Exchange on the last day
+of trading preceding the acquisition and must not exceed twice the closing price at the Vienna Stock Exchange on the last day
+of trading preceding the acquisition. This authorization may be exercised in full or in part or also in several partial amounts by
+the company, by a subsidiary (§ 189 7 UGB) or by third parties acting for the account of the company or a subsidiary.
+
+(8) The following material agreements exist, to which the company is a party, and which take effect, change, or come to an end
+upon a change of control in the company as a result of a takeover bid:
+
+= RBI AG is insured under a Group-wide D&0 policy. In the event of a merger with another legal entity, the insurance policy
+would automatically cease at the end of the insurance period in which the merger took effect. In such cases, insurance
+cover only exists for claims for damages arising from breaches of obligations that occurred before the merger, which are
+reported to the insurer prior to the termination of RBI's Group-wide D&O insurance cover.
+
+= RBI AG is a member of the Professional Association of Raiffeisen Banks. Upon a change in control of RBI AG which results in
+the attainment of control by shareholders outside of the Raiffeisen Banking Group Austria, membership of the Professional
+Association of Raiffeisen Banks, as well as that of the Raiffeisen-IPS pursuant to Art. 113 (7) of the CRR, the Osterreichische
+Raiffeisen-Sicherungseinrichtung eGen and of the Raiffeisen Customer Guarantee Scheme Austria may be terminated. RBI
+AG also serves as the central institution of the Raiffeisen Banking Group at a national level. Upon a change in control of RBI
+AG, related contracts (central institution of the liquidity group pursuant to § 27a of the BWG may end or change.
+
+= The company's refinancing agreements and agreements concerning third-party financing for subsidiaries, which are guar-
+anteed by the company, stipulate in some cases that the lenders can demand early repayment of the financing in the event
+of a change in control.
+
+(9) There are no indemnification agreements between the company and its Management Board and Supervisory Board mem-
+bers or employees that would take effect in the event of a public takeover bid.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 20 ---
+
+Group management report 69
+
+Risk management
+
+For information on risk management, please refer to the risk report in the consolidated financial statements.
+
+Corporate Governance
+
+Further information can be found in the Corporate Governance Report chapter of the Annual Report, as well as on the RBI web-
+site (www.rbinternational.com — Investors > Corporate Governance and Remuneration).
+
+Consolidated non-financial
+report
+
+Pursuant to the Sustainability and Diversity Improvement Act (NaDiVeG), the consolidated non-financial statement, which has
+to be prepared in accordance with § 267a of the Austrian Commercial Code (UGB), is issued as an independent non-financial
+report (Sustainability Report). The report containing detailed information on sustainability management developments, will be
+published online at www.rbinternational.com — Sustainability & ESG > Sustainability Reports and also contains the disclosure
+for the parent company in accordance with § 243b of the UGB.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 21 ---
+
+70
+
+Group management report
+
+Human Resources
+
+The Group People & Organisational Innovation division (P&O!)
+combines the areas of Human Resources and Strategy Devel-
+opment. P&O! plays a central role in the implementation of
+RBI's strategy and corporate goals.
+
+On the one hand, the focus is on the efficient execution of
+personnel processes such as data administration, contract
+preparation or recruitment, and on the other, the division is
+responsible for personnel development, career management,
+as well as professional education and training. Of particular
+note here would be the GO-IT Academy, which ensures the
+ongoing further development of IT skills across the Group. In
+October 2021, the payroll accounting unit was relocated from
+P&Ol to the Finance division due to the proximity of the oper-
+ational activities to parts of those of Finance, such as claims
+for travel expenses. Significant operational synergies are ex-
+pected from the integration of these areas.
+
+The handling of the ongoing COVID-19 pandemic was also a
+core issue in 2021. The already established options for mobile
+and hybrid working were further developed and defined, and
+the legal provisions relating to working from home (home of-
+fice), were implemented by means of an appropriate di-
+
+Number of staff by region
+
+49,700 47,079 46873 45,414 46,185
+”
+aa 81 73 40 6
+3,910 4,089 4227 4,449
+18,132
+18,750 18,356 17299 17,932
+
+14,646
+
+2017 2018 2019 2020 2021
+
+1) Central Europe J Southeastern Europe Eastern Europe
+
+Austria Other
+
+rective. This directive defines the framework conditions for working from home as well as the financial and technical support
+available for employees working in home office. The issue of working from home from abroad was of particular importance to
+RBI as an international company. RBI was one of the first companies in Vienna to offer individual home office solutions for
+cross-border commuters from 2021. On the whole, 2021 has shown that significant progress could be made in the management
+of uncertainties arising from the pandemic. As a result of this experience and the knowledge gained, RBI will be able to respond
+in a very flexible manner to new changes in future.
+
+Personnel development
+
+As at 31 December 2021, RBI had 46,185 employees (full-time equivalents), which was 771 more than at the end of 2020. The
+largest increases occurred in the Czech Republic due to the integration of Equa bank and in Russia.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 22 ---
+
+Group management report 71
+
+Outlook
+
+Economic outlook
+
+The restrictions that were reintroduced in several countries towards the end of 2021, in order to curb infection rates, turned out
+to be less stringent and more temporary than those in the winter of the previous year. The interplay between lockdowns and
+the easing of measures should not have the same economic impact in 2022, as was seen in 2020 and 2021, even if renewed re-
+strictions in the winter of 2022/2023 cannot be ruled out. The supply bottlenecks impacting the industrial sector are expected
+to ease over the course of 2022. Monthly inflation rates are expected to have already peaked or to do so at the beginning of
+2022, so long as the geopolitical risks in Eastern Europe do not materialize. In this case, inflation rates are expected to fall over
+the course of 2022, though to remain at levels that are sometimes noticeably higher than in prior years. In the event of a possi-
+ble military escalation of the conflict between Russia and Ukraine, the imposition of sanctions poses the greatest short-term
+risk to the economy and inflation. In a worst-case scenario, extensive (financial) sanctions being imposed on Russia without a
+transition period, a global systemic impact on financial and commodity markets is to be expected with tangible effects in the
+euro area, in particular, and more so in Central and Eastern Europe. The non-delivery or curtailing of oil and gas deliveries from
+Russia could be difficult to compensate for in the short term. Resulting production losses and reductions in growth from yet
+another significant hike in price increases for energy products and/or industrial metals could bring Europe at least close to a
+stagflation scenario. Disruptions in the supply of important industrial metals would further exacerbate the global industrial
+supply chain problems. The impact on individual European countries will depend on the scope of their bilateral trade relations
+with Russia, especially the level of their dependence on Russian energy imports.
+
+Central Europe
+
+The economies of the Central Europe (CE) region are expected to continue expanding dynamically again in 2022. Among other
+things, strong wage growth is expected to support a further significant increase in private consumption. However, the tighten-
+ing of monetary policy and the impact of inflation on private consumption harbor downside risks. The region as a whole is ex-
+pected to see GDP growth of 4.3 per cent in 2022, with Hungary and Slovenia leading the way (in each case 4.5 per cent) and
+the Czech Republic bringing up the rear (4.1 per cent). The outcome of the Hungarian elections could overshadow the partner-
+ship with the EU in the coming years and further increase tensions. The vaccination cover in the region is at a lower level than
+in Western Europe and so pandemic risks are considered somewhat greater, even with a certain reluctance to impose re-
+strictions. The economic impact of extensive (financial) sanctions would be more pronounced in CE than in the euro area due to
+its closer trade ties with Russia as well as greater reliance on Russian energy imports.
+
+Southeastern Europe
+
+The economic recovery in the Southeastern Europe (SEE) region is expected to continue at a solid pace in 2022. Key factors are
+private consumption, which should receive support from overseas remittances as well as from pent-up demand due to the
+pandemic. Investment (inter alia NGEU) is also expected to play a key role. The highest growth in 2022 is expected in Romania
+and Kosovo, both at 4.7 per cent. Vaccination coverage rates are again lower than in the CE region, resulting in higher pandemic
+risks, though governments have so far shown very little willingness to take restrictive measures. The economic impact of exten-
+sive (financial) sanctions would be more pronounced in SEE than in the euro area due to its closer trade ties with Russia as well
+as greater reliance on Russian energy imports.
+
+Eastern Europe
+
+Significantly lower GDP growth is forecasted for the Eastern Europe (EE) region in 2022, than the year prior, assuming the ab-
+sence of an increase or escalation of geopolitical tensions, and partly reflects the lesser impact of the pandemic but also mon-
+etary policy measures in the region. In Russia, the slowdown in economic growth is also attributed to the substantial reduction
+in fiscal support. In Belarus, the sanctions imposed by the EU and the US are expected to have a greater impact on the econ-
+omy in 2022 than in 2021. In Ukraine, on the other hand, growth is expected to accelerate due to the inflow of external funds
+from the IMF and the EU. Nevertheless, geopolitical tensions and potential losses from the Nord Stream 2 project pose risks to
+the Ukrainian economy. In view of the current potential escalation of the conflict between Russia and Ukraine, the effects on
+the economic outlook and financial system may be manifold and would largely depend on the future development of the con-
+flict and scale of sanctions which could be imposed in such a risk scenario. Furthermore, the escalation of the conflict has the
+potential to pull Ukraine into a deep recession, while the Russian economy (despite being more resistant than in 2014 and cer-
+tain relief provided by probable oil price increases in connection with exports possibly being redirected) would probably also fall
+into recession in face of extensive sanctions.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 23 ---
+
+72 Group management report
+
+Austria
+
+The back-and-forth between lockdowns and the easing of restrictions should no longer be an economic determinant in Austria
+from the second quarter. It is therefore assumed that economic trends will be less volatile in 2022, than was the case in the two
+years prior. Nevertheless, economic momentum is likely to remain above average. Considerable momentum is expected from
+the continuing decline in the savings rate, the good situation in the labor market, wage increases, as well as from private con-
+sumption. The encouraging investment trend is also expected to continue. GDP is expected to grow 4.5 per cent in 2022, though
+a military escalation of the conflict between Russia and Ukraine poses a downside risk to the economy.
+
+Banking sector in Austria
+
+The profitability of Austrian banks could weaken as government support measures expire amid the still persistent pressure
+from the low interest rate environment. Corporate lending could slow as corporate liquidity needs are declining, and banks are
+beginning to tighten their lending standards. In contrast, persistently favorable lending conditions should ensure continued
+strong demand for mortgage loans from private households, which may trigger action by regulators. The outlook for risk costs
+continues to be weighed down by the large inventory of Stage 2 loans (around 25 per cent for corporations). On a positive note,
+the solid capital position of Austrian banks provides an additional buffer, even for in the event of a stress scenario. The poten-
+tial increase of pressures from sanctions on Russia bears risks to the profitability of Austrian banks through indirect economic
+effects, however also as a result of the profit contributions from CE/SEE subsidiaries (38 per cent of consolidated profit of Aus-
+trian banks in the first half of 2021). The Austrian banking sector belongs to the three EU banking sectors with the most ties to
+Russia.
+
+CEE banking sector
+
+Despite pandemic risks, the overall outlook for CEE banks in 2022 is positive, so long as there is no escalation of the sanctions
+against Russia issue. Although some moderation in bank profitability is warranted (slowdown in economic recovery, reduction in
+policy incentives), the trend towards normalization of economic activity should continue to support the banks’ lending and
+transaction revenues. Higher interest rates are also positive for net interest margins in CE/SEE. At the same time, the expiration
+of loan repayment moratoriums could lead to insolvencies among borrowers, which would put moderate pressure on NPE ratios
+and risk costs. On a positive note, the capitalization ratios of banks in the region remain solid and the liquidity situation com-
+fortable. Credit and economic cycles are expected to become more aligned in the medium term. Nevertheless, selected EU
+countries are expected to receive additional support for lending growth from the Next Generation EU program (especially Ro-
+mania, Croatia, and Bulgaria). The potential escalation of the Russia-Ukraine conflict bears risk of new substantial sanctions
+against Russia, which - if imposed - could have a strong impact on both the Russian economy (directly) and on the broader CEE
+banking market (indirectly through economic developments). This therefore poses a downside risk to the performance of the
+CEE banking market in 2022. The Russian banking market remains the third largest banking market for Western banks in CEE
+(after Poland and the Czech Republic, and before Slovakia and Romania).
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 24 ---
+
+Group management report 73
+
+Outlook for RBI
+2022 Guidance
+
+In 2022, net interest income is expected to increase by high single digit per cent and net fee and commission income by mid-
+single per cent. We expect loan growth in the range of 7 to 9 per cent.
+
+We expect general administrative expenses to grow in the high single digit percentage area plus an additional approx. € 100
+million integration cost for acquisitions in the Czech Republic (Equa bank) and Serbia (Crédit Agricole Srbija).
+The cost/income ratio is expected to be around 55 per cent excluding the one-off integration costs.
+
+The provisioning ratio for 2022 is expected to be around 40 basis points.
+
+Consolidated return on equity is expected to be above our 11 per cent medium-term target, reflecting the gain on the sale of
+the subsidiary bank in Bulgaria.
+
+We expect a CET1 ratio of around 13 per cent by year end 2022.
+
+Potential geopolitical risks, especially in Eastern Europe, are not included in this guidance.
+
+Mid-term targets
+
+We are committed to a cost/income ratio of around 55 per cent and aim to improve further in the medium term.
+We target 11 per cent consolidated return on equity in the medium term.
+We confirm our CET1 ratio target of around 13 per cent.
+
+Based on the CET1 ratio target, we intend to distribute between 20 and 50 per cent of consolidated profit.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 25 ---
+
+Segment and
+country analysis
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 26 ---
+
+75
+
+Central Europe 76
+Southeastern Europe 78
+Eastern Europe 80
+Group Corporates & Markets 81
+Corporate Center 82
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 27 ---
+
+76 Segment and country analysis
+
+Segment reporting at RBI is based on the current organizational structure pursuant to IFRS 8. A cash generating unit within the
+Group is a country. For further information on segmentation, please refer to the chapter segment reporting in the consolidated
+financial statements as well as the RBI website (www.rbinternational.com — Investors — Reports).
+
+Central Europe
+
+in € million 2020' Change 3/2021 Change
+Net interest income 787 12.6% 227 25.0%
+Dividend income 5 133.2% 0 415.4%
+Current income from investments in associates 3 58.7% 0 -
+Net fee and commission income 410 16.3% 121 7.0%
+Net trading income and fair value result 19 1.0% 7 15.6%
+Net gains/losses from hedge accounting 0 500.0% 1 500.0%
+Other net operating income 49 (33.5% 2 (27.59%
+Operating income 1,272 12.8% 367 19.1%
+General administrative expenses (714) 9.9% (210) 8.1%
+Operating result 558 16.4% 158 33.8%
+Other result (62) 360.7% (9) 250.2%
+Governmental measures and compulsory
+
+contributions a) (23.8% 2) 33.6%
+Impairment losses on financial assets 77) (60.0% 8) 199.5%
+Profit/loss before tax 249 (3.19% 99 (81.70%
+Income taxes (68) 51.4% (23) 46.1%
+Profit/loss after tax 180 (23.8% 76 -
+Return on equity before tax 7.4% (0.6) PP 11.1% (9.1) PP
+Return on equity after tax 5.4% (1.5) PP 85% -
+Net interest margin (average interest-bearing
+
+assets) 1.87% (0.16) PP 1.67% 0.34 PP
+Cost/income ratio 56.2% (1.4) PP 57.1% (5.3) PP
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+The main reason for the year-on-year decline in profit after tax was the negative development of the other result in Poland,
+where credit-linked and portfolio-based provisions for litigation had a negative impact of € 278 million (up € 235 million) on the
+other result. In contrast, net interest income rose € 99 million due mainly to higher income in the Czech Republic (up € 54 million
+as a result of interest rate increases and the integration of Equa bank) and Hungary (up € 40 million, reflecting higher market
+interest rates and the positive trend in both corporate and retail customer business). Net fee and commission income was up
+
+€ 67 million, driven by higher income mainly in foreign exchange business and from clearing, settlement and payment services
+in the Czech Republic, Slovakia and Hungary. Other net operating income was down largely as a result of the release of a provi-
+sion for litigation in Slovakia in the comparable period of the previous year (€ 18 million). General administrative expenses were
+up € 71 million, primarily in the Czech Republic (up € 54 million) due to the integration of Equa bank (€ 34 million). In addition,
+legal and advisory costs increased in Poland and the Czech Republic, while IT expenses were up above all in the Czech Republic.
+The decline in governmental measures and compulsory contributions was due to the abolition of the bank levy in Slovakia in
+July of the previous year. The decrease in risk costs (down € 106 million) in all countries was attributable to improved economic
+conditions and rating improvements.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 28 ---
+
+Segment and country analysis
+
+7
+
+in € million
+
+Net interest income
+
+Dividend income
+
+Current income from investments in associates
+
+Net fee and commission income
+
+Net trading income and fair value result
+
+Net gains/losses from hedge accounting
+
+Other net operating income
+Operating income
+
+General administrative expenses
+
+Operating result
+
+Other result
+
+Governmental measures and compulsory contributions
+
+Impairment losses on financial assets
+
+Profit/loss before tax
+
+Income taxes
+
+Profit/loss after tax
+
+Poland Slovakia
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+‘year fig Ing i y ying
+
+consolidated statements under changes to the income statement.
+
+in € million
+
+Net interest income
+
+Dividend income
+
+Net fee and commission income
+
+Net trading income and fair value result
+
+Net gains/losses from hedge accounting
+
+Other net operating income
+
+Operating income
+
+General administrative expenses
+
+Operating result
+
+Other result
+
+Governmental measures and compulsory contributions
+
+Impairment losses on financial assets
+Profit/loss before tax
+
+Income taxes
+
+Profit/loss after tax
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+Czech Republic Hungary
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 29 ---
+
+78 Segment and country analysis
+
+Southeastern Europe
+
+in € million Change 93/2021? Change
+Net interest income (0.6% 183 37%
+Dividend income 199.3% 1 (99.87%
+Net fee and commission income 18.7% 106 (0.89%
+Net trading income and fair value result (44.2% 5 (55.71%
+Net gains/losses from hedge accounting 320.8% 0 (25.19%
+Other net operating income - 0 -
+Operating income 47% 295 0.2%
+General administrative expenses (25% 15.2%
+Operating result 13.3% 155 (13.39%
+Other result 129.5% (15) 79.9%
+Governmental measures and compulsory
+
+contributions (85% 6) 0.2%
+Impairment losses on financial assets 47) (77.4% 5 -
+Profit/loss before tax 294 51.5% 141 (38.21%
+Income taxes (50) 46.2% (20) (8.8%
+Profit/loss after tax from continuing operations 244 52.6% 121 (43.0%
+Gains/losses from discontinued operations 30 135.4% 25 (28.49%
+Profit/loss after tax 273 61.6% 146 (40.51%
+Return on equity before tax 8.9% 4.4 PP 16.2% (5.8) PP
+Return on equity after tax 8.3% 4.9 PP 16.8% (6.5) PP
+Net interest margin (average interest-bearing
+
+assets) 3.43% (0.36) PP 3.03% 0.01 PP
+Cost/income ratio 54.4% (3.8) PP 47.4% 7.1PP
+
+1 Previous-year figures adapted due to changed allocation (IFRS 5 discontinued operations as well as further adjustments in order to increase transparency). Further information can be found in the
+notes, chapter principles underlying the consolidated statements under changes to the income statement.
+2 Adaptation of prior quarter's figures UFRS 5 discontinued operations).
+
+The increase of € 128 million in profit after tax from continuing operations reflected the steep decline in risk costs combined
+with better economic conditions and rating improvements. At € 33 million, the risk costs were € 114 million lower than in the
+comparable period of the previous year, mainly as a result of developments in Romania, Croatia, Bosnia and Herzegovina, and
+Albania. The operating result also improved - driven mainly by the 19 per cent, or € 61 million, increase in net fee and commis-
+sion income, in particular as a result of increased transactions in clearing, settlement and payment services and foreign ex-
+change business - following COVID-19-related restrictions in the comparable prior-year period. General administrative expenses
+decreased primarily in Romania, especially due to lower staff expenses as a result of the decline in the number of staff follow-
+ing network optimization and various other administrative expenses. In contrast, the other result was impacted by higher
+allocations to credit-linked and portfolio-based provisions for litigation (up € 31 million) in Romania and Croatia.
+
+The decision to sell the Bulgarian subsidiary bank and its participation was made in the reporting period. Under IFRS 5, discon-
+tinued operations are to be reported under the line item profit/loss from discontinuing operations, this amounted to
+€ 70 million in the financial year.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 30 ---
+
+Segment and country analysis 79
+
+Bosnia and Herzegovina Kosovo
+
+in € million 2020" 2020'
+Net interest income 63 115
+Dividend income 1 0
+Net fee and commission income 61
+Net trading income and fair value result 3
+Other net operating income 2
+
+Operating income
+General administrative expenses
+
+Operating result
+
+Other result (13)
+Governmental measures and compulsory
+
+contributions C)
+Impairment losses on financial assets 27)
+Profit/loss before tax 21
+Income taxes @
+Profit/loss after tax 14
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+Bulgaria - discontinued
+Romania operation
+
+in € million 2020'
+Net interest income 114
+Dividend income 2
+Net fee and commission income 50
+Net trading income and fair value result 3
+Other net operating income 1
+Operating income 169
+General administrative expenses (89)
+Operating result 81
+Other result o
+Governmental measures and compulsory contributions: as)
+
+Impairment losses on financial assets
+Profit/loss before tax
+
+Income taxes
+
+Profit/loss after tax
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 31 ---
+
+80 Segment and country analysis
+
+Eastern Europe
+
+in € million 2020' Change 3/2021 Change
+Net interest income 1,060 1.9% 284 87%
+Dividend income 2 (45.9% 0 500.0%
+Current income from investments in associates 0 - 0 1.8%
+Net fee and commission income 519 10.5% 150 21.5%
+Net trading income and fair value result 56 - 2 -
+Net gains/losses from hedge accounting a (40.9% @ (50.61%
+Other net operating income @) 417.5% a” -
+Operating income 1,632 0.2% 427 14.0%
+General administrative expenses (615) 7.9% (153) 45.7%
+Operating result 1,017 (4.40% 274 (3.71%
+Other result 25) - a) -
+Governmental measures and compulsory
+
+contributions (42) 18.1% 4) 45%
+Impairment losses on financial assets (138) (13.6% (18) 249.8%
+Profit/loss before tax 811 (0.79% 243 (15.81%
+Income taxes (972) (6.1% 61) (44.59%
+Profit/loss after tax 639 0.7% 192 (8.20%
+Return on equity before tax 30.5% 3.7 PP 38.4% (3.6) PP
+Return on equity after tax 24.0% 3.3 PP 30.4% (0.4) PP
+Net interest margin (average interest-bearing
+
+assets) 5.33% (0.10) PP 5.42% 0.11 PP
+Cost/income ratio 37.7% 2.9 PP 35.9% 10.0 PP
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+As in the previous year, profit after tax was affected by currency volatility (the Belarusian ruble depreciated by 7 per cent year-
+on-year, while the Russian ruble and Ukrainian hryvnia both fell 5 per cent). In Ukraine, higher income from corporate and retail
+customer business, as well as lower interest expenses due to changes in the product mix and maturity split, resulted in an
+increase of € 18 million in net interest income. Net fee and commission income also increased in Russia as a result of higher
+volumes, mainly in customer resources distributed but not managed and foreign exchange business, primarily in forward for-
+eign exchange contracts. The net trading income and fair value result declined due to valuation effects relating to derivatives
+and debt securities, mostly in Russia. General administrative expenses were up as a result of higher advertising and IT expenses
+in Russia and Ukraine, as well as increases in salaries and social security costs and staff-related taxes. In the same period of
+the previous year, impairments on non-financial assets - mainly relating to real estate in Russia - totaling € 15 million were also
+recognized, the valuation thereof led to a reversal of € 12 million in the reporting period. Risks costs were down € 19 million due
+to improved economic conditions. In contrast, Belarus posted impairment losses of € 28 million as a result of EU sanctions. In
+addition, provisions of € 25 million were recognized to reflect geopolitical uncertainties in Ukraine and € 13 million for sanctions
+(credit portfolio for potentially sanctioned customers) in Russia.
+
+Belarus Russia Ukraine
+in € million 2020"
+Net interest income 236
+Dividend income 0
+Current income from investments in associates o
+Net fee and commission income 88
+Net trading income and fair value result 15
+Net gains/losses from hedge accounting 0
+Other net operating income 2
+Operating income 341
+General administrative expenses (149)
+Operating result 192
+Other result 8)
+Governmental measures and compulsory contributions ”
+Impairment losses on financial assets 4)
+Profit/loss before tax 163
+Income taxes (30)
+
+Profits ofr oe TT A
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 32 ---
+
+Segment and country analysis 81
+Group Corporates & Markets
+
+in € million 2020" Change Q3/2021 ‘Change
+Net interest income 582 42% 143 26.4%
+Dividend income 8 (39.5)% 1 90.9%
+Current income from investments in associates 2 129.3% i) =
+Net fee and commission income 417 28.4% 139 43%
+Net trading income and fair value result 93 (35.0)% i) =
+Net gains/losses from hedge accounting 3 - 0 153.6%
+Other net operating income 113 16.1% 28 40.9%
+Operating income 1,219 10.2% 310 24.0%
+General administrative expenses (678) 3.7% (172) 12.5%
+Operating result 541 18.3% 139 38.3%
+Other result (8) (38.4)% 1 =
+Governmental measures and compulsory
+
+contributions (35) 16.5% (6) 58.9%
+Impairment losses on financial assets (134) (41.4)% (15) 108.0%
+Profit/loss before tax 365, 41.6% 119 21.8%
+Income taxes (76) 44.0% (21) 42.0%
+Profit/loss after tax 288 41.0% 98 17.5%
+Return on equity before tax 10.8% 3.7 PP. 15.2% 1.0 PP.
+Return on equity after tax 85% 2.8 PP. 12.5% 0.4 PP
+Net interest margin (average interest-bearing
+
+assets) 1.07% 0.02 PP 1.03% 0.23 PP
+Cost/income ratio 55.6% (3.3) PP. 55.3% (5.2) PP
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+The year-on-year increase in profit after tax was mainly due to the € 124 million rise in operating income and the € 56 million
+decline in risk costs. The main driver of the improvement in operating income was a significant increase in net fee and commission
+income. This rise in income was predominantly generated in loan and guarantee business, clearing, settlement and payment ser-
+vices, investment banking at head office, as well as from higher income from investment fund management at Raiffeisen Kapita-
+lanlage-Gesellschaft. The increase in net interest income mainly resulted from loan growth and COVID-19 bonus claims under the
+ECB's TLTRO Ill program. The decline in risk costs mainly reflected lower Stage 2 und Stage 3 loan loss provisions year-on-year at
+
+head office.
+
+Raiffeisen Bank International | Annual Report 2021
+
+
+--- Page 33 ---
+
+82 Segment and country analysis
+
+Corporate Center
+
+in € million 2020' Change 3/2021 Change
+Net interest income a) (87.21% (4) -
+Dividend income 650 54.0% 35 >500.0%
+Current income from investments in associates 36 (2.7% 12 (27.1%
+Net fee and commission income 20 8.9% 9 (83.3%
+Net trading income and fair value result (78) (58.9% 3) (79.79%
+Net gains/losses from hedge accounting 4 - 1 -
+Other net operating income 113 21.1% 35 55.4%
+Operating income 668 72.2% 75 474.9%
+General administrative expenses 71) 9.1% (98) 15.9%
+Operating result 297 151.0% (23) -
+Other result (101) - 8 (51.7%
+Governmental measures and compulsory
+
+contributions (72) (51.60% 1 -
+Impairment losses on financial assets 2) - oO -
+Profit/loss before tax 122 >500.0% (15) =
+Income taxes 36 109.8% 18 80.1%
+Profit/loss after tax 157 446.1% 3 500.0%
+
+1 Previous-year figures adapted due to changed allocation (adjustments in order to increase transparency). Further information can be found in the notes, chapter principles underlying the
+consolidated statements under changes to the income statement.
+
+The year-on-year increase in profit after tax was driven primarily by a € 351 million rise in intra-Group dividend income. The other
+result improved due to reversals of impairment on investments in associates valued at equity totaling € 66 million, following an
+impairment on investments in associates valued at equity of € 74 million and a € 27 million goodwill impairment relating to
+Raiffeisen Kapitalaniage-Gesellschaft were recognized in the previous year. The reduction in expenses for governmental measures
+and compulsory contributions was largely due to the final payment of the special bank levy in Austria in the previous year (€ 41
+million).
+
+Raiffeisen Bank International | Annual Report 2021

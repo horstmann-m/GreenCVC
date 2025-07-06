@@ -1,0 +1,4428 @@
+
+
+--- Page 1 ---
+
+Corporate Profile
+
+Corporate Profile
+Business Model
+
+E.ON is an investor-owned energy company with approximately
+78,000 employees led by Corporate Functions in Essen. The Group
+has two operating segments: Energy Networks and Customer
+Solutions. Non-strategic operations are reported under Non-Core
+Business. In the prior year the Group also had a Renewables
+segment (see commentary below).
+
+Corporate Functions
+
+Corporate Functions’ main task is to lead the E.ON Group. This
+involves charting E.ON's strategic course and managing and
+funding its existing business portfolio. Corporate Functions’ tasks
+include optimizing E.ON's overall business across countries and
+markets from a financial, strategic, and risk perspective and
+conducting stakeholder management.
+
+Energy Networks
+
+This segment consists of E.ON's power and gas distribution
+networks and related activities. It is subdivided into three regional
+markets: Germany, Sweden, and East-Central Europe/Turkey
+(which consists of the Czech Republic, Hungary, Romania, Poland,
+Croatia, Slovakia, and the stake in Enerjisa Enerji in Turkey, which
+is accounted for using the equity method). This segment's main
+tasks include operating its power and gas networks safely and
+reliably, carrying out all necessary maintenance and repairs, and
+expanding its power and gas networks, which frequently involves
+adding customer connections and the connection of renewable
+energy generation assets.
+
+Customer Solutions
+
+This segment serves as the platform for working with E.ON's
+customers to actively shape Europe's energy transition. This
+includes supplying customers in Europe (excluding Turkey) with
+power, gas, and heat as well as with products and services that
+enhance their energy efficiency and autonomy and provide
+other benefits. E.ON's activities are tailored to the individual
+needs of customers across all categories: residential, small and
+medium-sized enterprises, large commercial and industrial,
+sales partners, and public entities. E.ON's main presence in this
+business is in Germany, the United Kingdom, the Netherlands,
+Belgium, Sweden, Italy, the Czech Republic, Hungary, Romania,
+and Poland. Businesses that provide innovative solutions (like
+E.ON Business Solutions and the eMobility business) are also
+part of this segment.
+
+Renewables
+
+Substantially all of the operations in this segment were classified
+as discontinued operations effective June 30, 2018, and decon-
+
+solidated effective September 18, 2019. Certain business oper-
+ations were not transferred to RWE and were reassigned to other
+segments (see “Special Events in the Reporting Period” below).
+
+This refers in particular to e.disnatur operations in Germany and
+Poland as well as a 20-percent stake in Rampion offshore wind
+
+farm in the United Kingdom (on Rampion, see Notes 5 and 37 to
+the Consolidated Financial Statements). This segment consisted
+of onshore wind, offshore wind, and solar farms. E.ON planned,
+built, operated, and managed renewable generation assets.
+
+Non-Core Business
+
+This segment consists of the E.ON Group's non-strategic activities.
+This applies to the operation and dismantling of nuclear power
+stations in Germany (which is managed by the PreussenElektra
+unit) and the generation business in Turkey.
+
+Special Events in the Reporting Period
+
+Resolution Adopted for Personnel Changes in the E.ON SE
+Management Board Effective April 1, 2021
+
+In December 2020, the E.ON SE Supervisory Board resolved to
+appoint Leonhard Birnbaum as Chairman of the Company's
+Management Board and CEO effective April 1, 2021. Birnbaum
+will succeed Johannes Teyssen. Teyssen joined the Group in 1989,
+has been a member of the Management Board since 2004, and
+has led E.ON for more than ten years.
+
+As part of the succession plan for the Group's top leadership,
+the Supervisory Board also announced that Victoria Ossadnik,
+currently CEO of E.ON Energie Deutschland GmbH, will be
+appointed to the EON SE Management Board effective April 1,
+2021. Ossadnik, who joined the E.ON Group in April 2018,
+previously spent seven years at Microsoft Corporation, where
+she most recently led its global Enterprise Service Data and
+Artificial Intelligence organization. In the future, she will be
+responsible for the E.ON Group's digitization.
+
+
+--- Page 2 ---
+
+Changes in Segment Reporting
+
+The innogy takeover successfully closed in 2019. Effective
+January 1, 2020, innogy's operations are no longer managed
+and disclosed as a separate segment but rather integrated into
+Energy Networks, Customer Solutions, and Corporate Functions/
+Other. innogy's network businesses were assigned to Energy
+Networks. Its power and gas sales along with new customer
+solutions (such as eMobility services) are reported at Customer
+Solutions. Corporate Functions/Other includes innogy's corporate
+functions and internal services. After substantially all of the
+Renewables segment was transferred to RWE, its remaining
+businesses are reported at Energy Networks in Germany,
+Customer Solutions in the United Kingdom, and Corporate
+Functions/Other.
+
+Customer Solutions’ Germany unit now includes the heating
+business formerly disclosed at its Other unit. In addition, three
+E.ON Business Solutions companies were transferred from
+Customer Solutions’ Other unit to its United Kingdom unit. Where
+necessary, the prior-year figures were adjusted accordingly.
+
+Merger Squeeze-out of innogy’s Remaining Minority
+Shareholders Concluded
+
+On March 4, 2020, the Extraordinary General Meeting of
+innogy SE adopted a resolution to transfer the remaining minority
+shareholders’ innogy stock. The merger squeeze-out adopted at
+the meeting took effect when the transfer resolution and merger
+were entered into the Commercial Register on June 2, 2020. In
+early June 2020 cash compensation totaling €2.4 billion was paid
+to minority shareholders. The resulting reduction in Group equity
+mainly affected the retained earnings of E.ON SE shareholders.
+
+At the conclusion of the squeeze-out, the €5 billion in acquisition
+financing E.ON originally arranged, which had been reduced to
+€1.75 billion in August 2018, was cancelled.
+
+Accounting of innogy Acquisition Finalized
+
+The accounting of the innogy acquisition was finalized in the third
+quarter of 2020. New insights gained by September 18, 2020,
+into the amount of acquisition costs and acquired assets,
+including goodwill and liabilities, led to retrospective adjustments,
+including resulting changes to the Consolidated Balance Sheets
+at December 31, 2019. Goodwill increased by €197 million
+relative to the figure recorded at year-end 2019, mainly because
+of changes in the valuation of certain assets acquired in the
+takeover.
+
+Transfer of innogy Bonds to E.ON Concluded
+
+On August 13, 2020, E.ON launched transactions to harmonize
+the new E.ON Group's funding structure. These transactions
+involve E.ON offering innogy bondholders the option to change
+the debtor of roughly €11.5 billion in bonds to E.ON. The offer
+gave innogy bondholders the option to hold bonds that have the
+same status as current E.ON bonds. It will also ensure that all
+debt investors are treated equally. The transaction was completely
+concluded in November 2020. 99.95 percent of outstanding
+innogy bonds were successfully transferred.
+
+European Commission's Conditions for innogy Takeover Fulfilled
+With regard to the innogy takeover, the European Commission,
+among other things, imposed conditions requiring the disposal
+of certain E.ON and innogy businesses in Eastern Europe.
+
+To fulfill one of these conditions, on July 10, 2020, E.ON and
+MVM Group signed an agreement regarding the sale of innogy
+Ceska republika a.s. and thus innogy SE's entire electricity and
+gas retail business in the Czech Republic. Pursuant to IFRS 5,
+E.ON had already reclassified these innogy operations in the
+Czech Republic as discontinued operations effective Septem-
+ber 30, 2019. The transaction was cleared by the European
+Commission at the end of October and subsequently closed on
+October 30, 2020.
+
+
+--- Page 3 ---
+
+Corporate Profile
+
+Another of the European Commission's conditions was the sale
+of E.ON Energie Deutschland's heating electricity business in
+Germany. The portfolio of contracts consists of all special con-
+tracts with customers supplied with heating electricity and, if
+such customers also procure household electricity for which there
+is a separate meter at the same premises, the corresponding
+household electricity contract. In preparation for the sale, the
+portfolio of contracts was separated into two newly founded
+companies, E.ON Heizstrom Nord GmbH (“EHN") and E.ON
+Heizstrom Stid GmbH ("EHS"). Pursuant to IFRS 5, due to the
+obligation to sell these operations, E.ON had reclassified the
+heating electricity business as a disposal group effective Septem-
+ber 30, 2019. The sale of EHN and EHS closed on April 28, 2020.
+
+In addition, on September 23, 2020, E.ON sold its subsidiary
+E.ON Energiakereskedelmi Kft. ("EKER"), which operates its
+non-regulated retail electricity business for commercial cus-
+tomers in Hungary, to Audax Renovables. Pursuant to IFRS 5,
+E.ON had already reclassified EKER's business as a disposal
+group effective September 30, 2019, owing to its obligation to
+dispose of these operations.
+
+Previously E.ON had withdrawn from the operation of a number
+of electric-vehicle charging stations located along motorways
+in Germany. By closing these transactions E.ON completely ful-
+filled the antitrust conditions in conjunction with the innogy
+takeover.
+
+Acquisition of Stake in VSE Holding Successfully Completed
+
+In August 2020 E.ON completed the acquisition of 49 percent
+of the shares in VSE Holding (VSEH") from RWE. Extensive
+decision-making powers over VSEH's business operations give
+E.ON a controlling influence pursuant to IFRS. VSEH is there-
+fore fully consolidated and accounted for using the acquisition
+method in accordance with IFRS 3 (see Note 5 to the Consoli-
+dated Financial Statements). The purchase price to be paid to
+RWE was not cash-effective in the 2020 financial year. It was
+offset against an open receivable in conjunction with the acqui-
+sition of RWE's innogy stake, which closed on September 18,
+2019. The transaction therefore had no material impact on cash
+flow in the 2020 financial year.
+
+Operations during the Covid-19 Pandemic
+
+E.ON's top priorities during the Covid-19 pandemic are a secure
+energy supply and the safety of employees and customers. E.ON's
+power, gas, and heat networks, which secure the energy supply
+in large parts of Europe, continue to run stably, even under
+these difficult conditions. E.ON was able to draw on previously
+prepared pandemic and crisis plans, which it implemented
+accordingly. This included updating risk assessments, adjusting
+rules in line with government regulations, and conducting
+timely communications to promote transparency and aware-
+ness regarding the Covid-19 pandemic and E.ON’s response
+measures. This made it possible to maintain all key functions.
+The most important measures included strict adherence to
+hygiene and social-distancing rules as well as the isolation of
+particularly sensitive work areas, such as network control cen-
+ters. In addition, technicians who do field work on the network
+have special equipment to minimize the risk of infection.
+
+In addition, EON SE Management Board members used various
+information channels on Connect, E.ON's intranet platform, to
+share their views on the pandemic and explain its impact on every-
+day working life as well as on the Company. The purpose was
+to inform employees swiftly and comprehensively. Connect not
+only provided information about the measures taken to contain
+the Covid-19 pandemic. It also created interactive opportunities
+for employees to ask questions and to discuss them in town hall
+meetings. Furthermore, helping employees deal with the impact
+of the pandemic was and remains one of E.ON's priorities. Where
+possible, the Company therefore made use of all forms of flexible
+working arrangements (such as home office and variable work-
+ing hours) in order to accommodate employees’ personal circum-
+stances and needs. Covid-19 also made it necessary to adjust
+meeting formats. Most meetings were held virtually and still are.
+In addition, managers have paid even more attention than usual
+to their employees’ well-being and, when needed, have pointed
+them toward company assistance and support services, such as
+a confidential social counseling service. This was ensured in
+several ways, including additional communications and individual
+coordination at the management level.
+
+
+--- Page 4 ---
+
+As many European countries relaxed the restrictions on public
+life and the economy in the summer of 2020, E.ON too took steps
+to enable many of its employees to return to their jobs respon-
+sibly. The third quarter of 2020 saw a renewed rise in Covid-19
+infections across Europe that continued into the fourth quarter
+and, in many cases, exceeded the peaks that had been recorded
+during the lockdown in the spring of 2020. This resulted in
+many cities and regions being classified as high-risk areas,
+which in such cases led to additional restrictions on daily life.
+E.ON is continuously analyzing the risk situation resulting from
+the Covid-19 pandemic and, if necessary, will take additional
+measures to contain the pandemic’s impact.
+
+During the Covid-19 pandemic, E.ON temporarily shortened
+work schedules, particularly in the United Kingdom, and availed
+itself of related government support, which for the E.ON Group
+is, on balance, negligible. Nevertheless, the employment situa-
+tion at E.ON has remained very stable over the course of the
+Covid-19 crisis. In this regard, there have been no noteworthy
+longer-term effects on employment in the E.ON Group.
+
+Other impacts of the Covid-19 pandemic on E.ON's business
+are described in the Business Report, the Forecast Report, and
+the Risks and Chances Report.
+
+Corporate Bonds Issued
+
+In 2020 E.ON issued various corporate bonds totaling €5 billion.
+The high level of investor demand enabled E.ON to secure
+favorable interest terms across all maturities (month of issuance
+in parenthesis):
+
+« €750 million bond maturing in December 2023
+with a coupon of 0 percent per year (January)
+
+¢ €1 billion green bond maturing in September 2027
+with a coupon of 0.375 percent per year (January)
+
+« €500 million bond maturing in December 2030
+with a coupon of 0.75 percent per year (January)
+
+¢ €750 million bond maturing in October 2025
+with a coupon of 1 percent per year (April)
+
+¢ €1 billion bond maturing in April 2023
+with a coupon of 0.375 percent per year (May)
+
+¢ €500 million bond maturing in February 2028
+with a coupon of 0.75 percent per year (May)
+
+« €500 million green bond maturing in August 2031
+with a coupon of 0.875 percent per year (May).
+
+Nord Stream Stake Transferred to Contractual Trust
+Arrangement ("CTA")
+
+E.ON Beteiligungen GmbH held all of the shares of PEG Infra-
+struktur AG ("PEGI") and thus an indirect, 15.5-percent stake in
+Nord Stream AG. Nord Stream AG, a project company founded
+in 2005, owns and operates two offshore gas pipelines, each
+with a length of 1,224 kilometers, that transport natural gas from
+Russia to Germany. In a contract dated December 18, 2019,
+E.ON Beteiligungen GmbH sold all of its PEGI shares and thus
+its indirect stake in Nord Stream AG to E.ON Pension Trust e.V.
+("EPT") with effect and for the account of the trust assets of
+MEON Pensions GmbH & Co. KG ("MEON"). The shares were
+transferred at the end of 2019. The purchase price of €1.1 billion
+was paid at the start of 2020.
+
+Agreement on Strategic Partnership with Kraken Technologies
+In March 2020 E.ON reached a contractual agreement ona
+strategic partnership with Kraken Technologies, a subsidiary of
+Octopus Energy. The strategic partnership, E.ONyex, uses
+Kraken Technologies’ technology platform and will transform
+E.ON UK's business with residential and small and medium
+enterprise customers.
+
+E.ON and Kraken Technologies will further improve the platform
+in order to offer outstanding customer service founded on the
+principles of customer orientation, simplicity, transparency, and
+cost-efficiency. In the first phase, npower's customers are cur-
+rently being migrated to the new platform; E.ON UK's customers
+will be migrated in the second phase. By the end of December
+2020, nearly 70 percent of npower's residential customer con-
+tracts had been transferred to E.ONnox-
+
+Sale of Real Estate Assets
+
+Fully consolidated E.ON Group companies E.ON NA Capital, Inc.
+and E.ON RE Investments LLC transferred real estate assets in
+the amount of roughly US$288 million to other entities in 2020;
+US$265 million was transferred to the trust assets of E.ON
+Pension Trust e.V., which is not fully consolidated. The payments
+of the purchase price were made primarily in 2020.
+
+
+--- Page 5 ---
+
+Corporate Profile
+
+Acquisition of Residual Power Output Rights
+
+In 2020 a total of 19 TWh of residual power output rights were
+acquired from the company that operates Kriimmel nuclear
+power plant ("NPP") and transferred to Grohnde (3 TWh in
+October 2020), Isar II (6 TWh in February 2020), and Brokdorf
+(5 TWh each in February and December 2020), NPPs managed
+by PreussenElektra. The legal framework ensures the supply of
+all NPPs operated by E.ON with additional amounts of residual
+power output (for more information, see pages 61 and 62 of
+the Risk and Chances Report as well as Notes 29 and 37 to the
+Consolidated Financial Statements).
+
+Reorganization of E.ON's Business in Hungary
+
+In early October 2019 E.ON acquired EnBW's 27-percent
+stake in ELMU Nyrt. (“ELMU") and EMASZ Nyrt. ("EMASZ").
+Subsequently, E.ON, MVM Magyar Villamos Miivek Zrt.
+("MVM," a shareholder of ELMU and EMASZ), and Opus Global
+Nyrt. ("Opus") signed a framework agreement. This agreement
+enables E.ON to give itself a balanced and optimized portfolio
+in Hungary that will also make it possible to swiftly integrate
+innogy's operations there.
+
+The agreement is expected to be fully implemented in 2021
+after clearance by the relevant agencies. This will give MVM
+100 percent of distribution operator EMASZ, EMASZ Halézati
+Kft. ("EMASZ DSO"), and a 25-percent stake in EON Hungaria
+Zrt. (including the innogy holding companies, ELMU Zrt. and
+EMASZ Zrt.). In addition, Opus is to acquire current E.ON sub-
+sidiary E.ON Tiszantuli Aramhalozati Zrt. ("E.ON ETI"). Pursuant
+to IFRS 5, EMASZ DSO as well as E.ON ETI were reclassified as
+a disposal group effective December 31, 2020. E.ON ETI assets
+and liabilities had already been reclassified as a disposal group
+in 2019.
+
+New Central Commodity Procurement Entity, E.ON Energy
+Markets, Founded
+
+On October 1, 2020, newly founded E.ON Energy Markets GmbH
+("EEM'") began operating as the Group's commodity procurement
+entity. EEM gives affiliated Group companies access to outside
+trading markets (which have previously been conducted decen-
+trally) and bundles the resulting risks. Alongside innogy Commod-
+ities GmbH, EEM provides market access for E.ON's portfolio in
+Germany. In the future, EEM will handle power and gas procure-
+ment for other E.ON companies in Germany and elsewhere.
+
+Management System
+
+E.ON's corporate strategy aims to deliver sustainable growth in
+shareholder value. E.ON has in place a Group-wide planning and
+controlling system to assist its in planning and managing the
+Group as a whole and its individual businesses with an eye to
+increasing their value. This system ensures that E.ON's financial
+resources are allocated efficiently. E.ON strives to enhance its
+sustainability performance efficiently and effectively as well.
+
+It embeds these expectations progressively more deeply into
+its organization—across all organizational entities and all pro-
+cesses—by means of binding Group-wide policies (for more
+information, see the Separate Combined Non-Financial Report
+on pages 100 to 115).
+
+Key Performance Indicators
+
+In the 2020 financial year, E.ON's most important key perfor-
+mance indicators ("KPIs") for managing its operating business
+were adjusted EBIT and cash-effective investments. Other KPls
+for managing the E.ON Group are cash-conversion rate, adjusted
+net income, earnings per share (based on adjusted net income),
+and debt factor. In the prior year, the Combined Group Manage-
+ment Report's presentation of sales and the KPIs relevant for
+management control also included the results of discontinued
+operations in the Renewables segment that were deconsolidated
+effective September 18, 2019. Pages 34 to 36 of the Combined
+Group Management Report and Note 35 to the Consolidated
+Financial Statements contain reconciliations of these indicators
+to the disclosures in the E.ON SE and Subsidiaries Consolidated
+Statements of Income, Consolidated Balance Sheets, and Con-
+solidated Statements of Cash Flows.
+
+Adjusted earnings before interest and taxes (“adjusted EBIT") is
+E.ON's most important KPI for purposes of internal management
+control and as an indicator of its businesses’ long-term earnings
+power. The E.ON Management Board is convinced that adjusted
+EBIT is the most suitable KPI for assessing operating performance
+because it presents a business's operating earnings independently
+of non-operating factors, interest, and taxes. The adjustments
+include net book gains, certain restructuring expenses, impair-
+ment charges and reversals, the marking to market of derivatives,
+and other non-operating earnings (see the explanatory infor-
+mation on pages 34 to 36 of the Combined Group Management
+Report and in Note 35 to the Consolidated Financial Statements).
+
+
+--- Page 6 ---
+
+In addition, the effects of the subsequent valuation of hidden
+reserves and liabilities that were identified as part of the pur-
+chase-price calculation and allocation for the innogy transaction
+are disclosed separately.
+
+Cash-effective investments are equal to the investment expen-
+ditures shown in the E.ON Group's Consolidated Statements
+
+of Cash Flows. In the prior year, these included the investments
+of discontinued operations in the Renewables segment until they
+were deconsolidated effective September 18, 2019.
+
+Cash-conversion rate is equal to operating cash flow before inter-
+est and taxes divided by adjusted EBITDA. It indicates whether
+E.ON's operating earnings are generating enough liquidity. The
+expenditures for the dismantling of nuclear power stations that
+are included in operating cash flow before interest and taxes are
+not factored into cash-conversion rate. To balance out fluctuations
+that result primarily from payments around the balance-sheet
+date, E.ON will manage its cash-conversion rate by means of a
+target figure over the three years of the medium-term plan.
+
+Adjusted net income is an earnings figure after interest income,
+income taxes, and non-controlling interests that has likewise
+been adjusted to exclude non-operating effects (see the explan-
+atory information on page 36 of the Combined Group Manage-
+ment Report).
+
+E.ON manages its capital structure by means of its debt factor
+(see the section entitled Finance Strategy on page 37). Debt
+factor is equal to economic net debt divided by adjusted EBITDA
+and is therefore a dynamic debt metric. Economic net debt
+includes net financial debt as well as pension and asset-retire-
+ment obligations.
+
+Other KPIs
+
+Alongside E.ON's most important financial management KPIs,
+the Combined Group Management Report includes other financial
+and non-financial KPls to present the performance of E.ON's
+operating business and as part of E.ON’s responsibility for all its
+stakeholders: employees, customers, shareholders, bond inves-
+tors, and the countries in which the Group operates. Operating
+cash flow, power and gas passthrough and sales volume, and
+selected employee information are examples of other KPls.
+
+In addition, some KPIs are important for E.ON as a customer-
+focused company. For example, E.ON's ability to acquire new
+customers and retain existing ones is crucial to the Company's
+success. Net promoter score ("NPS") measures customers’ will-
+ingness to recommend E.ON to a friend or colleague. Our The
+Sustainability Report and the Separate Combined Non-Financial
+Report describe how NPS fits into the Company's management
+approach.
+
+However, these other KPIs are not the focus of the ongoing
+management of E.ON's businesses.
+
+Innovation
+
+Innovations are an important element of E.ON's business oper-
+ations. The transition of today's energy system toward a distrib-
+uted, digital, and sustainable energy world goes hand in hand
+with the use of new technologies and the development of new,
+innovative business models. E.ON's focus is on its core busi-
+nesses: energy networks, regulated and market-based energy
+infrastructure, and customer solutions for its commercial and
+residential customers. Innovations in these businesses make a
+significant contribution to E.ON's future and competitiveness
+and the implementation of the energy transition in Europe.
+
+In a distributed energy system, E.ON will be even more of an
+energy service provider for its business partners and customers.
+In a world in which every household and every company can
+be an energy producer, roles established over many years will
+change. Tomorrow's customers will be partners who may be
+energy producers and traders as well as energy consumers. At
+the same time, more and more renewable power will be fed into
+the grid. These parallel trends—more market participants and
+more renewables feed-in—pose significant technical and organi-
+zational challenges for grid management. Increasingly, managing
+distributed feed-in requires new technologies like artificial intel-
+ligence. In addition, E.ON’s innovation activities are focusing
+increasingly on the Internet of Things (“lol”) and corresponding
+data processing systems. The purpose is to give E.ON the
+capability in the future to manage a much more complex energy
+system that can no longer be controlled by humans alone.
+
+
+--- Page 7 ---
+
+Corporate Profile
+
+In 2020 Group Innovation adopted a new 360-degree innovation
+approach. It combines E.ON's own innovation activities and
+outside collaborations in a single entity. This strengthens E.ON's
+partnerships with other innovative and global companies, start-
+ups, universities, other institutions, and thought leaders. The
+new 360-degree innovation approach has the following core
+elements:
+
+Forging Strategic Partnership with Startups, Blue Chips, and
+Technology Companies
+
+Together with innovative partners, E.ON is exploring which
+technologies, applications, platforms, and services will become
+relevant in the future and can provide the best and most sus-
+tainable solution for customers. Partnering with startups, tech-
+nology groups, and other innovative companies in the years
+ahead will enable E.ON to differentiate itself from competitors
+much more by means of innovation than productivity gains.
+E.ON already uses cross-industry knowledge sharing as a catalyst
+for progress and to accelerate the energy transition. In 2020,
+E.ON business units concluded commercial agreements totaling
+€12 million with 24 start-ups from E.ON’s investment platform
+to test new technologies and their customer acceptance in its
+operating business. If test results are successful, these solutions
+can be deployed at other E.ON business units, enabling E.ON to
+tap new growth areas for future business. E.ON focuses on
+areas like sustainability, customer centricity, eMobility, and loT
+services for the digitization of its network and sales businesses.
+
+Partnering with Universities and Other Scientific Institutions
+Together with the E.ON Energy Research Center at RWTH
+Aachen University, E.ON is pursuing a wide range of research
+and development activities to identify technology trends at
+an early stage and assess their economic potential for the Com-
+pany’s future business. E.ON and the E.ON Energy Research
+Center launched 12 new joint projects and 14 studies in 2020.
+The knowledge gained from them can be integrated more quickly
+into E.ON's ongoing innovation projects at its business units.
+The annual budget for the partnership with RWTH amounts to
+approximately €2 million. E.ON is also in contact with other
+
+10
+
+leading scientific institutions and universities in Germany in
+order to help shape the implementation of the country's energy
+transition. In addition, E.ON contributes its expertise to state-
+ments of the German science academies on policy, technological,
+and regulatory issues. In this way, E.ON and its partners also
+support the implementation of the European Green Deal, whose
+purpose is to make the European Union's economy climate-
+neutral by 2050.
+
+Expanding and Integrating In-house Innovations into E.ON's
+Existing Business
+
+E.ON is one of Europe's largest distribution system operators and
+energy suppliers. It is therefore well placed to play a key role
+
+in shaping the energy transition. Sector integration is expanding
+the energy supply business beyond its traditional boundaries.
+This is already enabling E.ON to establish new businesses in
+industry, transport, buildings, and infrastructure. E.ON’s innova-
+tive solutions are already helping a variety of industries embrace
+green growth and develop individually tailored solutions for
+industrial and residential customers. As part of this effort, Group
+Innovation conducts projects in four main areas: industrial
+automation and electrification, energy grids and city solutions,
+connected mobility, and connected lifestyle.
+
+[Electrix is a pilot project for innovative energy concepts in the
+distributed and digital energy system of the future. It is part of
+European Horizon 2020, the European Union's largest research
+and innovation initiative. E.ON is responsible for the technical
+management of Electrix, which will run for three and a half years.
+In lElectrix, E.ON is testing mobile storage systems for distribu-
+tion grids in Germany and demonstrating their advantages in
+
+a real-world setting. E.ON's lElectrix project partners—E.ON
+Hungaria in Hungary, Stadtwerke Giissing in Austria, and Tata
+Power in India—are conducting real-word demonstrations in
+their countries. The purpose of all these demonstration projects
+is to yield test results, by 2022, on the possibilities for making
+
+
+--- Page 8 ---
+
+greater use of renewable electricity in the immediate vicinity
+of its production. After successful piloting of the technologies,
+all major elements of energy control can be brought together:
+energy storage, locally generated renewable energy, smart grid
+control, flexibility services, and new commercial marketing
+models. IElectrix's objective is to demonstrate that storage
+systems can give distribution grids greater flexibility, thereby
+enhancing grid stability and supply security. IElectrix is one of
+the ways E.ON is making a significant contribution to developing
+technical solutions for a more environmentally friendly and
+resilient energy supply in all regions of Europe: for cities and
+districts as well as remote, rural areas.
+
+The future of mobility is another key innovation area for E.ON.
+
+In order for eMobility to become established in the marketplace,
+E.ON considers improvements in charging infrastructure and
+the use of new storage options to be key challenges. E.ON's
+innovation team is testing new technologies to increase the
+quality of charging processes. The technologies include artificial
+intelligence, robotics, and new approaches to distributed energy
+management. One result is OMNe, an innovative digital tool
+that provides E.ON's business customers with comprehensive
+advice on enlarging their charging infrastructure for electric
+vehicles ("EVs"). With the percentage of EVs in fleets growing
+continually, E.ON's digital advice tool meets the demand for
+swiftly adding significant charging infrastructure. However,
+installing EV charging stations changes a facility's power con-
+sumption and load profile. Finding the most cost-effective solu-
+tion requires a comprehensive view that takes into account all
+variables: the number of vehicles, parking duration, load profile,
+grid connection, and a company's energy consumption targets.
+OMNe enables any company to plan the installation or expansion
+of charging infrastructure in just a few minutes.
+
+Group-wide Transparency on Innovation Activities
+
+In order to continually leverage innovations to generate growth
+businesses for E.ON, Group Innovation initiates cross-divisional
+innovation and competence networks, which ensure that new
+innovative business activities are undertaken throughout the
+E.ON Group. In 2020 E.ON developed a new reporting system
+for this purpose, the Innovation Dashboard, which provides
+comprehensive transparency on all central innovation activities
+and product developments and displays information on their
+current status quo and expected monetization. It yields real-time
+insights for monitoring innovation performance and thus serves
+as an improved database for decision-making.
+
+11
+
+Inventions and Patents
+
+Partnerships and research and pilot projects of today become
+E.ON's innovations of tomorrow. These ideas also lead to a large
+number of inventions that result in patent applications. To protect
+intellectual property, E.ON has made patenting an integral part
+of its innovation strategy.
+
+E.ON's Equity Investment and Partnership Platform
+
+To help shape tomorrow's decarbonized, distributed, and digital
+energy system, it is important to have access to the latest tech-
+nologies and business models as well as entrepreneurs and
+startups in the world's leading innovation hubs. In 2020 E.ON
+founded Future Energy Ventures, a new equity investment and
+partnership platform that secures E.ON's access to outside
+innovation and combines E.ON and innogy’s co-investment port-
+folios. Future Energy Ventures has offices in Palo Alto (USA),
+Tel Aviv (Israel), and Berlin and Essen (Germany). It invests in
+digital and digitally enabled technologies and business models
+that have the potential to fundamentally change and shape the
+energy system of the future.
+
+Toward a Global Innovation Network
+
+E.ON supports its development of new business models by
+establishing networks. In 2020 the Company further expanded
+its international partnerships with leaders from other industries
+as well as leading universities, institutions, and startups. In
+October 2020, for the first time more than 5,000 participants
+from 63 nations took part in E.ON’s virtual Energy Innovation
+Days conference. The conference focused on the challenges
+facing the energy industry and the use of innovation to shape
+
+a sustainable energy world.
+
+
+--- Page 9 ---
+
+Business Report
+
+Business Report
+Macroeconomic and Industry Environment
+
+Macroeconomic Environment
+
+After growing moderately in 2019, the global economy slumped
+significantly in 2020, contrary to the original growth forecasts
+from 2019. The global Covid-19 pandemic was mainly respon-
+sible. The large number of possible scenarios for the pandemic’s
+spread makes it difficult to forecast global economic development
+in 2021 as well. Amid a global recession, the unemployment rate
+in OECD countries rose sharply. The closure of national borders
+intended to slow the spread of Covid-19 restricted freedom
+
+of movement, which had an adverse impact on global economic
+development. Industry, commerce, and trade had to reduce pro-
+duction worldwide in 2020. The degree of reduction depended
+on the pandemic’s spread and the restrictions on employees
+and consumers, which varied by country and region. As a result,
+energy consumption declined worldwide. For example, the
+European Network of Transmission System Operators for Elec-
+tricity ("ENTSO-E") reported that Germany's total electricity
+demand fell by 3 percent relative to 2019, Britain's by 6 percent,
+Spain and France's by 5 percent, and Italy's by fully 8 percent.
+
+GDP Growth in Real Terms in 2020
+
+Annual change in percent
+
+Germany
+
+United
+Kingdom
+
+Netherlands
+Sweden
+Euro zone
+OECD
+
+World
+
+-12 -10 -8 -6 -4 -2 0
+
+Source: OECD, 2020.
+
+12
+
+Alongside the pandemic, the Brexit negotiations were a key fac-
+tor in 2020. The Brexit transition period, which was supposed
+to provide time to work out exit arrangements, concluded at the
+end of December 2020. Effective the beginning 2021, the United
+Kingdom is no longer part of the EU single market. Shortly before
+this, the European Union and the United Kingdom concluded
+
+a trade and cooperation agreement that, among other things,
+avoids tariffs.
+
+Energy Policy and Regulatory Environment
+
+Global
+
+The United States’ withdrawal from the Paris Climate Agree-
+ment initiated by the President Donald Trump became official
+on November 4, 2020. One of the world’s largest industrialized
+nations and carbon emitters was therefore no longer part of the
+global climate dialogue. However, shortly after the new President,
+Joseph Biden, took office in January 2021, the United States
+rejoined the Paris Climate Agreement. Biden had indicated prior
+to his inauguration his intention of continuing the fight against
+climate change.
+
+The pandemic necessitated the postponement of the United
+Nations Framework Convention on Climate Change, 26th Confer-
+ence of the Parties ("COP 26") in Glasgow, which was originally
+scheduled for November 2020. COP 26 is now scheduled to
+begin on November 1, 2021. In addition, EU representatives and
+Chinese delegates had been planning to hold talks in Glasgow
+with the aim of bringing the People’s Republic of China closer
+to the Paris Climate Agreement. In September 2020 President
+Xi Jinping made a surprise announcement that China—one of the
+world's largest emitters of greenhouse gases ("GHGs")—would
+strive for carbon neutrality by 2060. This announcement itself
+is a sign of progress in international climate-protection efforts.
+
+Europe
+
+In March 2020 the European Commission proposed a draft
+European Climate Law as part of the European Green Deal. The
+draft initially foresaw a 40-percent reduction in GHG emissions
+by 2030 and climate neutrality by 2050. Following an evaluation
+of the GHG reduction target in September, the Commission
+proposed a higher target of at least 55 percent by 2030. The
+European Commission is currently developing strategies and
+proposals as a basis for implementing the measures necessary
+to reach this target. These include a European structural and
+investment fund, a hydrogen strategy, and the 2030 climate
+target plan.
+
+
+--- Page 10 ---
+
+Germany held the EU Council Presidency in the second half of
+2020. Work focused on the fight against the Covid-19 pandemic
+and its impact, the crafting of a multiannual financial framework,
+future relations with the United Kingdom, climate protection,
+digitization, and Europe's global role.
+
+In December 2020 the European Parliament and EU Council
+finally agreed on the €1.82 trillion financial framework for 2021
+to 2027 and the €750 billion EU economic stimulus package. The
+latter's purpose is to help member states’ economies recover from
+the repercussions of the Covid-19 pandemic. The Green Deal,
+which was unveiled at the end of 2019 and aims to reduce the
+European Union's net GHG emissions to zero, is the centerpiece
+of the EU's Covid-19 recovery package. The EU heads of state
+and government also endorsed the 55-percent reduction target.
+
+Germany
+
+The German government took a number of steps during 2020 to
+mitigate the economic slump resulting from the Covid-19 pan-
+demic. For example, in March the Bundestag passed legislation
+that applied to ongoing obligations, such as electricity and gas
+supply contracts. The legislation allows residential customers
+and small businesses to suspend payments for electricity and
+gas for three months if they can demonstrate that they face eco-
+nomic hardship as a result of the Covid-19 pandemic. In early
+June 2020 the German government adopted a €130 billion
+economic stimulus package for 2020 and 2021. It reduced the
+value-added tax in the second half of 2020 and allocates funds
+to energy, climate protection, and green mobility. Beginning in
+2021, €11 billion alone will be used to stabilize the renewables
+surcharge. The federal rebate for the purchase of an electric
+vehicle was doubled, and an additional €2.5 billion is earmarked
+to support the expansion of charging infrastructure. Other aid
+measures for trade and industry were enacted amid the restric-
+tions on public life imposed in November and December 2020.
+
+The climate action program adopted by the German federal
+government at the end of 2019, which included the pricing of
+carbon emissions in the building and transport sectors, was
+amended in November 2020. The Fuel Emissions Trading Act
+(German abbreviation: “BEHG") steepened the rate of increase
+for carbon allowances in particular. The starting price will be
+€25 per metric ton of carbon dioxide in 2021. This will gradually
+increase to €55 per metric ton in 2025. Proceeds from the BEHG
+will be used primarily to reduce the renewables surcharge.
+
+13
+
+Through the use of BEHG proceeds and general budget funds,
+the renewables surcharge is to be capped at 6.5 cents per kWh
+in 2021 and 6 cents per kWh in 2022.
+
+In June 2020 the German federal government announced its
+national hydrogen strategy, which aims to develop a market
+for hydrogen produced, in particular, from renewable sources.
+Its purposes are to help Germany achieve its climate targets
+and to incentivize investment in technologies suitable for export.
+It provides roughly €7 billion in funding, which will go toward,
+among other things, installing up to 5 GW of electrolysis capacity
+by 2030. Another €2 billion is to be made available for interna-
+tional partnerships.
+
+The Coal Exit Act (German abbreviation: “KAusG") adopted in
+August 2020 provides for the phaseout of coal-fired power
+generation in Germany by 2038. It includes a coal-replacement
+bonus, which is intended to promote the conversion of newer
+power plants in particular to gas (combined heat and power).
+E.ON plans to shut down its few remaining coal-fired power
+plants as early as year-end 2030.
+
+The Renewable Energy Sources Act (German abbreviation: "EEG"),
+which was amended at the end 2020, provides details on the
+expansion and promotion of renewables. Among other things, it
+includes growth trajectories for the construction of renewables
+facilities. The amendment also contains regulations for the con-
+tinued operation of renewables facilities whose subsidies would
+have expired on January 1, 2021.
+
+On September 29, 2020, the Federal Constitutional Court issued
+aruling: the judges of the First Senate called on lawmakers to
+make the compensation mechanism for the nuclear phaseout
+clear and legally robust and at the same time to regulate the
+handling of prorated residual power output rights. This could
+affect E.ON’s business.
+
+United Kingdom
+
+The United Kingdom exited the European Union effective Feb-
+ruary 1, 2020. Effective the close of December 31, 2020, it is
+no longer part of the EU's single market. This will not have a
+significant impact on E.ON’s business in the United Kingdom.
+The Brexit debate dominated Britain's political agenda, as did
+the Covid-19 pandemic, which resulted in the U.K. economy
+contracting by around 11 percent in 2020.
+
+
+--- Page 11 ---
+
+Business Report
+
+Nevertheless, combating climate change remains a high priority
+for the British government. In March 2020, for example, it
+announced subsidies for low-carbon heating systems and for the
+decarbonization of district heating networks. Up to €3 billion in
+investments are planned for 2020 and 2021 under green stim-
+ulus plans called the Green Homes Grant and the Public Sector
+Decarbonization Program. In November 2020 the Prime Minister
+published a Ten-Point Plan for a Green Industrial Revolution,
+which includes the installation of 600,000 heat pumps per year
+from 2028 onward and a ban on the sale of new gasoline and
+diesel cars from 2030 onward. The United Kingdom also adopted
+an ambitious 68 percent emissions reduction target for 2030.
+The retail price cap introduced by the U.K. government is expected
+to be reviewed by Ofgem, the U.K. energy regulator, in the second
+half of 2021. The final decision on the price cap rests with the
+government.
+
+Netherlands/Belgium
+
+Numerous government support measures, including tax breaks
+and loan guarantees for companies, limited the Covid-19 pan-
+demic's impact on the Dutch economy. The Netherlands’ main
+energy policy issue of 2020 was the implementation of the cli-
+mate agreement (Dutch: “Klimaatakkoord") adopted in 2019.
+The agreement consists of a set of measures to make the Nether-
+lands more sustainable by 2030 (target: a 49-percent reduction
+in carbon emissions). It encompasses the expansion of renew-
+ables, the phaseout of fossil energy production, and a more sus-
+tainable approach to the environment. The measures include
+building insulation and the use of gases made from renewable
+sources. The Energy Act and the Heat Act, which are to establish
+the rules for the country’s future energy supply, were still being
+drafted at the time of this report's preparation and are not
+expected to be completed before the election of members of
+the second chamber, which is planned for the second half of
+March 2021.
+
+Italy
+
+The Italian central government responded to the outbreak of
+the Covid-19 pandemic by issuing numerous decrees aimed
+at mitigating financial repercussions (such as from business
+closures) for companies and households. The measures included
+a temporary disconnection ban for insolvent electricity customers
+with low consumption.
+
+14
+
+The "Milleproroghe" decree of December 30, 2019, which was
+adopted as Law No. 8 on February 28, 2020, transposed into
+national law the provisions of the EU Renewable Energy Direc-
+tive II aimed at promoting the use of renewable energy. The
+degree also postponed the liberalization of Italy's energy market.
+
+Sweden
+
+The contact restrictions imposed by Sweden at the start of the
+Covid-19 pandemic were less strict than those of other countries.
+One result of this was a smaller reduction in energy demand.
+
+The government, which was formed at the start of 2019, created
+the Swedish Climate Policy Council, consisting of eight ministers
+and chaired by the prime minister. The council's purpose is to
+ensure that Sweden becomes the first country to stop using fossil
+fuels. The Ministry of the Environment and Energy is currently
+working on an electrification strategy. The Ministry of Infrastruc-
+ture established an electrification committee for the transport
+sector, which will be active until the end of 2022. In April 2020
+a waste-incineration tax took effect; its purpose is to increase
+revenues from environmental taxes. In addition, the formation
+of a parliamentary majority continues with regard to certain
+aspects of electricity grid regulation.
+
+East-Central Europe
+
+The Covid-19 pandemic considerably weakened the Czech
+economy. The introduction of a new energy law was announced
+but is not expected to take effect until January 2023. The gov-
+erning party's goal remains to support the completion of a
+nuclear power plant that will secure the country's energy supply
+over the long term.
+
+Hungary's government and parliament adopted and reaffirmed
+climate and energy strategies and plans with targets for 2030 and
+2050. These include phasing out coal production by 2030 and
+achieving climate neutrality in 2050. The start of the regulatory
+period for energy networks, originally scheduled for January 1,
+2021, was postponed until March 31, 2021. The government
+continues to foresee the introduction of smart meters and a
+plan for the mandatory implementation of energy-saving and
+energy-efficiency measures.
+
+
+--- Page 12 ---
+
+In view of the Covid-19 countermeasures, Poland postponed the
+imposition of consumer fees, which were to be part of the estab-
+lishment of a capacity market, from October 2020 to January
+2021. During 2020 Poland's government adopted a number of
+what it called Covid-19 safeguards, including tax exemptions
+and the granting of microcredit and loans to businesses. In Sep-
+tember the government and miners’ unions reached a tentative
+agreement to close the country’s coal mines by 2049.
+
+Croatia is expected to amend legislation relating to energy effi-
+ciency and renewable energy in 2021. Important developments
+in the energy sector relate to the gas market: an LNG terminal
+became operational on January 1, 2021, and in April 2021 the
+residential gas market is supposed to be opened to competition.
+
+In March 2020 a new government was formed in Slovenia under
+Prime Minister Janez JanSa after the previous prime minister
+and government resigned in January 2020. In October the gov-
+ernment presented a draft for a new Electricity Supply Act to
+transpose the EU electricity market directives into national law.
+This was followed in November by draft legislation to promote
+renewable energy. Neither draft was enacted by the end of 2020,
+and the consultations had not been completed at the time of
+this report's preparation.
+
+Romania's economy too was adversely affected by the Covid-19
+pandemic. The government and state agencies responded, for
+example, by awarding subsidies to small and medium-sized enter-
+prises. In 2020 Romania's parliament passed two amendments
+to the Energy Law that have implications for the activities of
+distribution system operators. These include the obligation to
+connect customers and to speed up the grid-connection process.
+The gas market was liberalized effective July 1, 2020 (which
+affects wholesale and retail prices). This was followed by the
+liberalization of the electricity market effective January 2021.
+The government unveiled a new energy strategy in November
+2020 but had not yet adopted it by the time of this report's
+preparation.
+
+15
+
+Business Performance
+
+The 2020 financial year was shaped by the Covid-19 pandemic.
+Factoring in countermeasures, the impact of the Covid-19 pan-
+demic adversely affected the Group's 2020 earnings by a figure
+in the low to mid three-digit million euro range. These effects
+occurred mainly at the U.K. sales business and the network
+business in Germany. They consist primarily of lower sales and
+an increase in other operating expenses. Despite these challenges,
+E.ON's operating business delivered a solid performance.
+
+Sales of €60.9 billion were €19.7 billion above the prior-year
+figure. The increase resulted largely from the inclusion of the
+innogy Group for the entire year.
+
+Adjusted EBIT for the E.ON Group of about €3.8 billion was
+about €0.6 billion above the prior-year level and thus below the
+forecast range of €3.9 to €4.1 billion. Adjusted net income of
+€1.6 billion was slightly above the prior-year level and thus like-
+wise below the forecast range of €1.7 to €1.9 billion. Earnings
+per share, which are based on adjusted net income, amounted to
+€0.63 in the reporting period (prior year: €0.67). These results
+are principally attributable to the Covid-19 pandemic’s economic
+repercussions. Adjusted EBIT and adjusted net income are both
+within the forecast ranges that were adjusted in August 2020.
+
+In addition, E.ON recorded a cash-conversion rate of 91 percent
+in the 2020 financial year. Cash-conversion rate is equal to
+operating cash flow before interest and taxes (€5.9 billion)
+divided by adjusted EBITDA (€6.9 billion), without factoring
+in payments for the dismantling of nuclear power stations
+(roughly -€0.4 billion). E.ON continues to expect to achieve an
+average cash-conversion rate of 95 percent for the 2020 to
+2022 financial years.
+
+
+--- Page 13 ---
+
+Business Report
+
+Cash-effective investments of €4.2 billion were significantly
+below the prior-year figure of €5.5 billion and the €4.5 billion
+forecast for 2020 in the E.ON 2019 Annual Report. This deviation
+from the original forecast is attributable to subsequent purchase-
+price reductions in conjunction with the innogy acquisition. These
+payments for E.ON's account reduce cash-effective investments.
+Including this effect, cash-effective investments were within the
+forecast range that was adjusted in August 2020.
+
+Cash provided by operating activities of continuing and discon-
+tinued operations of €5.3 billion was considerably above the
+prior-year level (€3 billion). The inclusion of the innogy Group
+for the entire year was the principal reason.
+
+Acquisitions, Disposals, and Discontinued Operations in 2020
+In 2020 E.ON executed the following significant transactions and
+made the following reclassifications pursuant to IFRS 5. Note 5
+to the Consolidated Financial Statements contains detailed infor-
+mation about them:
+
+¢ Accounting of innogy acquisition concluded
+
+¢ Acquisition of a 49-percent stake in VSE Holding
+
+¢ Disposal of innogy's sales business in the Czech Republic
+
+¢ Disposal of the heating electricity business in Germany
+
+¢ Disposal of E.ON's non-regulated commercial electricity
+end-customer business in Hungary
+
+¢ Disclosure of the 20-percent stake in Rampion offshore
+wind farm as an asset held for sale
+
+* Disclosure of both E.ON ETI and EMASZ DSO as a disposal
+group
+
+¢ Disposal of real estate assets.
+
+Cash provided by investing activities of continuing operations
+included cash-effective disposal proceeds totaling €2.8 billion
+in 2020 (prior year: €0.3 billion).
+
+16
+
+Earnings Situation
+
+Sales
+E.ON's sales in 2020 increased by €19.7 billion year on year to
+€60.9 billion.
+
+Energy Networks' sales of €18.3 billion surpassed the prior-year
+figure by €6.2 billion. This is principally attributable to the inclu-
+sion of innogy operations, primarily in Germany (+€5.4 billion).
+
+Customer Solutions’ sales rose by €16.5 billion to €48.3 billion.
+This increase likewise resulted mainly from the inclusion of
+
+innogy, in particular in Germany (+€9.6 billion), the United King-
+dom (+€4.5 billion), and the Netherlands/Belgium (+€2 billion).
+
+Substantially all of the Renewables segment was transferred to
+RWE in September 2019. Its operations that remain at E.ON
+are disclosed in other segments (see page 21). Effective 2020
+the Renewables segment therefore no longer exists.
+
+Sales at Non-Core Business increased significantly year on year,
+in particular because PreussenElektra benefitted from higher
+sales prices. This was partially offset by a decline in sales
+resulting from the transfer of stakes in power stations to RWE
+in September 2019.
+
+Sales recorded at Corporate Functions/Other of €2.7 billion
+were €1.9 billion above the prior-year figure. The increase is
+mainly attributable to in-house services performed for innogy
+companies and to E.ON Energy Markets and innogy Commod-
+ities GmbH (see page 24), the Company's entities for energy
+procurement, which are reported at this segment.
+
+Sales*?
+
+Fourth quarter Full year
+€ in millions 2020 2019 +1-% 2020 2019 +/-%
+Energy Networks 5,252 4,970 +6 18,284 12,098 +51
+Customer Solutions 13,996 14,845 -6 48,342 31,794 +52
+Renewables - - - - 948 -
+Non-Core Business 360 308 +17 1,388 1,174 +18
+Corporate Functions/Other 1,749 300 +483 2,702 784 +245
+Consolidation -3,727 2,537 - -9,772 -5,514 -
+E.ON Group 17,630 17,886 -1 60,944 41,284 +48
+
+Includes the discontinued operations in the Renewables segment until September 18, 2019. Sales from continuing operations amounted to €40.8 billion in 2019.
+2Adjustment of prior-year figures in the context of “failed-own-use"-accounting with no impact on earnings.
+
+
+--- Page 14 ---
+
+Other Line Items from the Consolidated Statements of Income
+Own work capitalized of €680 million was 40 percent above
+the prior-year figure of €487 million. The increase is mainly
+attributable to the inclusion of innogy for the entire year for the
+first time. Own work capitalized consisted predominantly of
+ongoing and completed IT projects as well as network invest-
+ments.
+
+Other operating income totaled €8,907 million in 2020 (prior
+year: €5,367 million). Income from currency-translation effects
+of €1,064 million and income from derivative financial instru-
+ments of €5,906 million were considerably above the prior-year
+figures (€327 million and €3,378 million, respectively). Corre-
+sponding amounts resulting from currency-translation effects
+and derivative financial instruments are recorded under other
+operating expenses. The sale of equity interests and securities
+resulted in income of €411 million (prior year: €525 million).
+
+Costs of materials of €47,147 million were substantially above
+the prior-year level of €31,434 million. Personnel costs rose by
+€1,765 million, from €4,101 million to €5,866 million. These
+developments resulted mainly from the inclusion, for the first
+time, of the innogy Group for the entire year in 2020.
+
+Depreciation charges rose from €2,489 million in 2019 to
+€4,166 million in 2020. This change mainly reflects the inclusion
+of innogy for part of 2019 and all of 2020. Planned depreciation
+charges in 2020 were recorded primarily at Energy Networks in
+Germany; impairment charges, principally in connection with
+the restructuring of the network business in Hungary, which is
+recorded at Energy Networks’ East-Central Europe unit.
+
+Other operating expenses increased by 44 percent, from
+€7,570 million to €10,919 million, chiefly because expenditures
+relating to derivative financial instruments (including changes
+in currency rates) rose by €1,488 million to €5,787 million.
+Expenditures relating to currency-translation effects were also
+higher, increasing by €216 million to €641 million.
+
+Income from companies accounted for under the equity method
+of €408 million was slightly below the prior-year figure of
+€421 million. Higher earnings from innogy subsidiaries resulting
+from their inclusion, for the first time, for the entire year were
+more than offset by the absence of equity income from the stake
+in Nord Stream, which was transferred to the CTA at the end of
+2019 (see page 23), and by the low earnings contributions from
+the shareholdings in Turkey.
+
+17
+
+Adjusted EBIT
+
+For the purpose of internal management control and as the most
+important indicator of businesses’ long-term earnings power,
+E.ON uses earnings before interest and taxes that have been
+adjusted to exclude non-operating effects (“adjusted EBIT").
+The prior-year figure includes the operating earnings of the dis-
+continued operations in the Renewables segment prior to their
+deconsolidation on September 18, 2019.
+
+The core business's adjusted EBIT in 2020 rose significantly
+—by €509 million—year on year. Energy Networks’ adjusted
+EBIT was €752 million above the prior-year level. The inclusion
+of innogy's operations in Germany was the principal reason.
+
+A lower regulated return in Sweden was the primary counter-
+vailing factor. In addition, earnings in Germany declined owing
+to milder weather and Covid-19 pandemic’s repercussions.
+However, these effects will be largely offset in subsequent years.
+
+Adjusted EBIT at Customer Solutions rose by €104 million year
+on year. The inclusion of innogy businesses, particularly in Ger-
+many and the Netherlands/Belgium, contributed to the increase.
+Adjusted EBIT also rose primarily because of significant cost
+savings in the previous E.ON business in the United Kingdom.
+These items were partially offset primarily by the negative
+earnings of innogy’s U.K. operations and weather-related effects
+at the previous E.ON sales business in Germany and the United
+Kingdom. In addition, the repercussions of Covid-19 had an
+adverse impact on earnings, primarily in Germany and the United
+Kingdom.
+
+Substantially all of the Renewables segment was transferred to
+RWE in September 2019. Its operations that remain at E.ON
+are disclosed in other segments (see page 21). Effective 2020
+the Renewables segment therefore no longer exists.
+
+Corporate Functions/Other's adjusted EBIT declined by
+
+€47 million year on year to -€350 million, especially because
+of the inclusion of innogy's corporate functions for the entire
+reporting period. Another adverse factor was that the prior-year
+figure included earnings on the stake in Nord Stream AG, which
+was transferred to the CTA at the end of 2019.
+
+The E.ON Group's adjusted EBIT was €556 million above the
+prior-year figure. The increase resulted primarily from the afore-
+mentioned items in the core business and at Non-Core Business.
+PreussenElektra's adjusted EBIT was slightly higher, in particular
+because of higher sales prices, which were partially offset by
+higher expenditures for residual power output rights and a decline
+in earnings resulting from the transfer of stakes in power plants
+to RWE. By contrast, equity earnings from Enerjisa Uretim in
+Turkey declined significantly.
+
+
+--- Page 15 ---
+
+Business Report
+
+18
+
+Adjusted EBIT
+
+Fourth quarter Full year
+€ in millions 2020 2019° +1-% 2020 2019" +/-%
+Energy Networks 922 907 +2 3,253 2,501 +30
+Customer Solutions 76 290 -74 454 350 +30
+Renewables - - - - 301 -
+Corporate Functions/Other -32 -222 +86, -350 -303 -16
+Consolidation 7 -3 - 6 5 -
+Adjusted EBIT from core business 973 972 - 3,363 2,854 +18
+Non-Core Business 115 40 +188 413 366 +13
+E.ON Group adjusted EBIT 1,088 1,012 +8 3,776 3,220 +17
+
+AIncludes the effects of retrospective changes in connection with the adjustment of the provisional recognition of the innogy acquisition until September 18, 2020; the previous year was adjusted
+
+accordingly.
+
+E.ON generates a large portion of its adjusted EBIT in very stable
+businesses. Regulated, quasi-regulated, and long-term con-
+tracted businesses accounted for the overwhelming proportion
+of E.ON's adjusted EBIT in 2020.
+
+E.ON's regulated business consists of operations in which reve-
+nues are largely set by law and based on costs. The earnings on
+these revenues are therefore extremely stable and predictable.
+
+E.ON's quasi-regulated and long-term contracted business
+consists of operations in which earnings have a high degree of
+predictability because key determinants (price and/or volume)
+are largely set for the medium to long term. Examples include
+the operation of industrial customer solutions with long-term
+supply agreements and the operation of heating networks.
+
+Merchant activities are all those that cannot be subsumed
+under either of the other two categories.
+
+Reconciliation to Adjusted Earnings Metrics
+
+Like net income, EBIT (earnings before interest and taxes) is
+affected by non-operating items, such as the marking to market
+of derivatives. Adjusted EBIT has been adjusted to exclude
+non-operating effects. The adjustments include net book gains,
+certain restructuring expenses, impairment charges and reversals,
+the marking to market of derivatives, the subsequent valuation
+of hidden reserves and liabilities identified as part of the purchase-
+price calculation and allocation for the innogy transaction, and
+other non-operating earnings.
+
+Derived from adjusted EBIT, adjusted net income is an earnings
+figure after interest income, income taxes, and non-controlling
+interests that likewise has been adjusted to exclude non-oper-
+ating effects. The adjustments include the aforementioned items
+as wellas interest expense/income not affecting net income
+(in each case after taxes and non-controlling interests). Non-
+operating interest expense/income also includes effects from
+the resolution of the difference between the nominal and fair
+value of innogy bonds.
+
+The disclosures in the Consolidated Statements of Income are
+reconciled to the adjusted earnings metrics below.
+
+Reconciliation to Adjusted EBIT
+
+E.ON recorded net income attributable to shareholders of EON SE
+of €1 billion and corresponding earnings per share of €0.39. In
+the prior year E.ON recorded net income of about €1.6 billion
+and earnings per share of €0.68.
+
+Pursuant to IFRS 5, income/loss from discontinued operations,
+net, is reported separately in the Consolidated Statements of
+Income. In the 2020 financial year, this item includes negative
+effects from the subsequent adjustment of certain components
+of the purchase price in conjunction with the innogy acquisition
+and positive earnings from innogy’s sales business in the Czech
+Republic (including deconsolidation results). The prior-year
+figure primarily includes the earnings from the discontinued
+operations at Renewables. Alongside the operating earnings
+of discontinued operations, this figure contains items resulting
+from the deconsolidation. In this context, items previously recog-
+nized in equity were recorded in income. This figure also includes
+the earnings from the transitional consolidation of Rampion
+wind farm following the reduction in E.ON's stake to 20 percent.
+
+
+--- Page 16 ---
+
+E.ON's tax expense on continuing operations rose from €43 mil-
+lion to €871 million. The tax rate on net income from continuing
+operations increased from 6 percent to 40 percent. The main
+reason for the high tax rate in the period under review was a
+one-off item related to the revaluation of deferred tax assets in
+the first half of 2020, which was partially offset by taxes for
+prior years. Tax-relief effects on non-operating earnings and the
+release of tax provisions and liabilities for prior years led to a
+lower tax rate in 2019.
+
+Financial results of -€0.7 billion were significantly below the prior-
+year level. The inclusion of innogy and the marking to market
+
+of securities held for trading purposes, which is disclosed in non-
+operating earnings, had an adverse effect. This could not be fully
+offset by a reduction in adverse items relating to the valuation
+of non-current provisions and income for prior years. Financial
+results also include a positive effect of €328 million resulting
+from the resolution of the difference between the nominal and
+fair value of innogy bonds (see also page 37).
+
+19
+
+Net book gains were significantly lower than in the prior year. In
+2020 they consist primarily of deconsolidation gains in conjunc-
+tion with the fulfilment of EU conditions relating to the innogy
+transaction (see pages 21 and 22). The prior-year figure princi-
+pally reflects the deconsolidation of the Company's stake in PEGI,
+the parent company of Nord Stream. Income from the sale of
+securities was lower than in the prior year as well.
+
+Restructuring expenses were significantly lower than in 2019
+and, as in the prior year, consisted primarily of expenditures in
+conjunction with the integration of innogy. The 2020 figure also
+includes restructuring expenditures for the U.K. retail business.
+
+The marking to market of derivatives in the 2020 financial
+year resulted in a positive effect of €1,128 million (prior year:
+-€630 million). Positive items in 2020 resulted primarily from
+hedging against price fluctuations, in particular at Customer
+Solutions and at Corporate Functions/Other due to the central
+energy procurement entities, which are reported at the latter
+(see page 23).
+
+Reconciliation to Adjusted EBIT
+Fourth quarter Full year
+€ in millions 2020 2019" 2020 2019"
+Net income/loss. 60 -513 1,270 1,792
+Attributable to shareholders of E.ON SE 15 -551 1,017 1,550
+Attributable to non-controlling interests 45 38 253 242
+Income/Loss from discontinued operations, net 2 696 40 -1,063
+Income/Loss from continuing oper 62 183 1,310 729
+Income taxes 159 -311 871 43
+Financial results 206 65 702 587
+Income/Loss from continuing operations before financial results and income taxes 427 ~63 2,883 1,359
+Income/Loss from equity investments -21 3 18 58
+EBIT 406 ~66 2,901 1,417
+Non-operating adjustments 682 1,078 875 1,503
+Net book gains (-)/losses (+) -40 -398 -258 -366
+Restructuring expenses 266 640 656 819
+Effects from derivative financial instruments -798 556 -1,128 630
+Impairments (+)/Reversals (-) 473 260 557 260
+Carryforward of hidden reserves (+) and liabilities (-) from the innogy transaction 328 162 802 317
+Other non-operating earnings 453 -142 246 -157
+Reclassified businesses of Renewables? (adjusted EBIT) - - - 300
+Adjusted EBIT 1,088 1,012 3,776 3,220
+Impairments (+)/Reversals (-) 21 65 27 67
+Scheduled depreciation and amortization 830 745 3,102 2,006
+
+Reclassified businesses of Renewables?
+(scheduled depreciation and amortization, impairment charges and reversals) = - = 271
+Adjusted EBITDA 1,939 1,822 6,905 5,564
+
+AIncludes the effects of retrospective changes in connection with the adjustment of the provisional recognition of the innogy acquisition until September 18, 2020; the previous year was adjusted
+
+accordingly.
+*Deconsolidated effective September 18, 2019.
+
+
+--- Page 17 ---
+
+Business Report
+
+In the 2020 financial year, E.ON recorded impairment charges
+principally at Energy Networks in Hungary (owing mainly to the
+current restructuring of the business there; see page 23), at
+Customer Solutions in the United Kingdom (mainly for software
+in conjunction with ongoing restructuring measures), and the
+Netherlands/Belgium (in particular as part of the planned dis-
+posal of the sales business in Belgium). In the prior-year E.ON
+recorded impairment charges primarily at Customer Solutions
+in the United Kingdom (in particular because of the decision
+made at that time to restructure E.ON and innogy’s U.K. sales
+business).
+
+Items resulting from the subsequent valuation of hidden reserves
+and liabilities as part of the preliminary purchase-price allocation
+until September 18, 2020, and newly recorded items resulting
+from the valuation of innogy’s financial assets are disclosed sep-
+arately. The latter were fully balanced out by year-end 2020.
+
+The decline in other operating earnings is partially attributable to
+valuation effects for repurchase obligations pursuant to IAS 32,
+non-current provisions, and realized earnings from hedging
+transactions for certain currency risks.
+
+20
+
+Reconciliation to Adjusted Net Income
+
+Adjusted net income of €1,638 million was 7 percent above the
+prior-year figure of €1,526 million. Besides the above-described
+effects in the reconciliation to adjusted EBIT, this reconciliation
+
+includes following items:
+
+Interest income/expenses includes non-operating items. These
+rose by €0.3 billion year on year. The prior-year figure primarily
+reflects items from the valuation of non-current provisions. The
+current-year figure includes, in particular, amounts from the
+resolution of the difference between the nominal and fair value
+of innogy bonds as well as income for prior years. This was par-
+tially offset by valuation effects on securities held for trading
+purposes.
+
+The tax rate on continuing operations was 24 percent (prior year:
+26 percent).
+
+Non-controlling interests’ share of operating earnings rose sig-
+nificantly year on year, principally because of the innogy takeover.
+
+Reconciliation to Adjusted Net Income
+
+Fourth quarter Full year
+€ in millions 2020 20197 2020 2019?
+Income/Loss from continuing operations before financial results and income taxes 427 ~63 2,883 1,359
+Income/Loss from equity investments -21 3 18 58
+EBIT 406 ~66 2,901 1,417
+Non-operating adjustments 682 1,078 875 1,503
+Reclassified businesses of Renewables? (adjusted EBIT) - - - 300
+Adjusted EBIT 1,088 1,012 3,776 3,220
+Net interest income/loss -185 -62 -720 -645,
+Non-operating interest expense (+)/income (-) -57 -231 -358 -33
+Reclassified businesses of Renewables? (operating interest expense) = - = -123
+Operating earnings before taxes 846 719 2,698 2,419
+Taxes on operating earnings -190 -199 -653 -580
+Operating earnings attributable to non-controlling interests -107 -171 -407 -317
+Reclassified businesses of Renewables? (taxes and minority interests on operating earnings) = - = 4
+Adjusted net income 549 349 1,638 1,526
+
+AIncludes the effects of retrospective changes in connection with the adjustment of the provisional recognition of the innogy acquisition until September 18, 2020; the previous year was adjusted
+
+accordingly.
+*Deconsolidated as of September 18, 2019.
+
+
+--- Page 18 ---
+
+Financial Situation
+
+Finance Strategy
+
+E.ON's finance strategy focuses on capital structure. At the
+forefront of this strategy is ensuring that E.ON always has
+access to capital markets commensurate with its debt level.
+
+With its target capital structure E.ON aims to sustainably secure
+a strong BBB/Baa rating.
+
+E.ON manages its capital structure using debt factor, which
+
+is equal to economic net debt divided by adjusted EBITDA; it is
+therefore a dynamic debt metric. Economic net debt includes
+not only financial liabilities but also provisions for pensions and
+asset-retirement obligations.
+
+The low interest-rate environment continued. In some cases this
+led to negative real interest rates on asset-retirement obligations.
+As in prior years, provisions therefore exceeded the actual amount
+of asset-retirement obligations at year-end 2020 without fac-
+toring in discounting and cost-escalation effects. This limits the
+relevance of economic net debt as a key figure. E.ON wants eco-
+nomic net debt to serve as a useful key figure that aptly depicts
+E.ON's debt situation. In the case of material provisions affected
+by negative real interest rates, E.ON has therefore used the
+aforementioned actual amount of the obligations instead of the
+balance-sheet figure to calculate economic net debt since year-
+end 2016.
+
+Pursuant to IFRS valuation standards, innogy's financial liabili-
+ties at the time of initial consolidation were recorded at their
+fair value. This fair value is significantly higher than the original
+nominal value because interest-rate levels have declined since
+innogy's bonds were issued. The purchase-price allocation
+yielded a difference between the nominal value and the fair
+value, which results in additional liabilities of €2.1 billion at
+year-end 2020. This amount will be recorded in financial earn-
+ings as a reduction in expenditures and spread out over the
+maturity period of the respective bonds. These balance-sheet
+and earnings effects do not alter the interest and principal pay-
+ments. To manage economic net debt, E.ON continues to use
+the nominal amount of financial liabilities, which deviates from
+the figure shown in its balance sheets.
+
+E.ON aims to reduce its debt factor to around 5 over the medium
+term. As anticipated, the debt factor of 5.9 at year-end 2020
+was above this medium-term target. E.ON expects to achieve a
+debt factor of around 5 over the medium term, in particular by
+earnings increases in its core business and the leveraging of
+synergies identified in conjunction with the innogy transaction.
+
+21
+
+Economic Net Debt
+Compared with the year-end 2019 figure of €38.9 billion, eco-
+nomic net debt rose by €1.8 billion to €40.7 billion.
+
+The increase in financial liabilities to €30.7 billion relative to
+year-end 2019 is mainly attributable to E.ON SE's issuance of
+€5 billion in bonds (see page 23). The issuance proceeds were
+used in part to finance the squeeze-out of innogy SE's minority
+shareholders and to repay, on schedule, bonds that had matured
+(innogy SE: €750 million; E.ON International Finance B.V.:
+
+€1.4 billion).
+
+E.ON's net financial position increased by -€1.1 billion relative
+to year-end 2019 to roughly -€24 billion. E.ON SE's dividend
+payout, investment expenditures, and cash compensation for
+innogy SE's minority shareholders as part of the squeeze-out
+(see page 21) were largely offset by items that included operating
+cash flow, the sales proceeds from the transfer of the (indirect)
+stake in Nord Stream AG to the CTA (see page 23), and the sales
+required under the antitrust clearance, in particular of innogy's
+sales business in the Czech Republic (see page 21).
+
+Despite an increase in plan assets, provisions for pensions were
+higher, due mainly to a significant reduction in actuarial interest
+rates, which led to an increase in defined benefit obligations.
+
+Economic Net Debt
+
+December 31
+€ in millions 2020 2019°
+Liquid funds 4,795 3,602
+Non-current securities 1,887 2,354
+Financial liabilities? -30,720 -28,947
+FX hedging adjustment 82 166
+Net financial position -23,956 -22,825
+Provisions for pensions -8,088 -7,201
+Asset-retirement obligations? -8,692 -8,869
+Economic net debt 40,736 -38,895
+
+Certain adjust ments to the preliminary accounting of the innogy acquisition, which was
+provisional until September 18, 2020, must be presented retroactively to the acquisition date.
+The prior-year figures were adjusted accordingly.
+
+2Bonds issued by innogy are recorded at their nominal value. The figure shown in the
+Consolidated Balance Sheets is €2.1 billion higher (year-end 2019: €2.5 billion higher).
+
+®This figure is not the same as the asset-retirernent obligations shown in the Consolidated
+Balance Sheets (€10,194 million at December 31, 2020; €10,571 million at December 31,
+2019). This is because economic net debt is calculated in part based on the actual amount
+of E.ON's obligations.
+
+
+--- Page 19 ---
+
+Business Report
+
+Funding Policy and Initiatives
+
+The key objective of E.ON's funding policy is for the Company to
+have access to a variety of financing sources at all times. E.ON
+achieves this objective by using different markets and debt
+instruments to maximize the diversity of its investor base. E.ON
+issues bonds with tenors that give its debt portfolio a balanced
+maturity profile. Moreover, large-volume benchmark issues
+may in some cases be combined with smaller issues, private
+placements, and/or promissory notes. Furthermore, from 2019
+onward E.ON has issued green bonds and has since established
+them in its financing mix. In the future, E.ON intends to cover
+more than 50 percent of its annual financing requirements with
+green bonds.
+
+At the beginning of March 2021, E.ON presented a new green
+bond framework. In addition to compliance with the ICMA Green
+Bond Principles, which until now set the standard for green
+bonds on the capital market, the new E.ON framework is one
+of the first in Europe to meet the criteria of the EU Taxonomy
+Regulation on sustainable economic activities. The EU Taxonomy
+Regulation defines which economic activity is to be classified
+
+as ecologically sustainable and thus sets a Europewide standard
+for sustainable investments. E.ON's green bond framework is
+geared toward sustainable projects in both Energy Networks and
+Customer Solutions.
+
+External funding is generally carried out by E.ON SE, and the
+funds are subsequently on-lent in the Group. In the past, external
+funding was also carried out by the Company's Dutch finance
+subsidiary, E.ON International Finance B.V. (“EIF"), under guar-
+antee of E.ON SE, and by innogy SE and innogy Finance B.V.
+under guarantee of innogy SE. As part of the process of inte-
+grating the innogy Group, E.ON harmonized the E.ON Group's
+funding structure. It offered innogy bondholders the option to
+change the debtor of their bonds to E.ON by means of consent
+solicitations or conversion offers. This offer was accepted for
+99.95 percent of the bond volume. All bonds transferred now
+have E.ON SE as debtor or guarantor (with EIF as issuer). In 2020
+E.ON paid back in full maturities of €2.2 billion. E.ON issued
+new debt totaling €5 billion (see page 23).
+
+22
+
+Financial Liabilities
+
+December 31
+€in billions 2020 2019
+Bonds* 26.9 24.6
+EUR 18.4 15.6
+GBP 7.2 7.6
+usD 08 0.9
+JPY 0.3 0.3
+Other currencies 0.2 0.2
+Promissory notes 0.0 0.0
+Commercial paper 0.0 01
+Other liabilities 38 48
+Total 30.7 29.5
+
+AIncludes private placements.
+
+With the exception of a U.S.-dollar-denominated bond issued in
+2008, all of E.ON SE and EIF's currently outstanding bonds were
+issued under a Debt Issuance Program ("DIP"). Similarly, innogy
+and innogy Finance B.V. bonds were formerly issued under the
+former innogy Group's DIP. A DIP simplifies a company's ability
+to issue debt to investors in public and private placements in
+flexible time frames. E.ON SE's DIP was last updated in March
+2020 with a total volume of €35 billion, of which about €16 bil-
+lion was utilized at year-end 2020. E.ON SE intends to renew
+the DIP in 2021.
+
+In addition to its DIP, E.ON has a €10 billion Commercial Paper
+
+("CP") program and a US$10 billion CP program, under which it
+can issue short-term notes. At year-end 2020 E.ON had no CP
+
+outstanding (prior year: €50 million).
+
+E.ON also has access to a five-year, €3.5 billion syndicated
+credit facility, which was concluded on October 24, 2019, and
+which includes two options to extend the facility, in each case
+for one year. The first option to extend the facility for another
+year was exercised in October 2020. The credit margin is linked,
+among other things, to the development of certain ESG ratings,
+which gives E.ON financial incentives to pursue a sustainable
+corporate strategy. The ESG ratings are set by three renowned
+agencies: ISS ESG, MSCI ESG Research, and Sustainalytics.
+The facility serves as a reliable, ongoing general liquidity reserve
+for the E.ON Group and can be drawn on as needed. The credit
+facility is made available by 21 banks which constitute E.ON's
+core group of banks.
+
+
+--- Page 20 ---
+
+23
+
+Maturity Profile of Bonds Issued by E.ON SE, E.ON International Finance B.V., and innogy Finance B.V.
+
+€ in billions
+
+12.0
+
+10.0
+
+8.0
+
+6.0
+
+40
+
+2.0
+
+At December 31, 2020
+
+2021 2022 2023 2024
+
+In conjunction with the acquisition of innogy SE, on April 6, 2018,
+E.ON originally secured a €5 billion acquisition facility, that it
+partially cancelled down to €1.75 billion in August 2018. At the
+conclusion of the squeeze-out, the facility was cancelled in
+June 2020; the facility was undrawn.
+
+Alongside financial liabilities, EON has, in the course of its busi-
+ness operations, entered into contingencies and other financial
+obligations. These include, in particular, guarantees, obligations
+from legal disputes and damage claims, as well as current and
+non-current contractual, legal, and other obligations. Notes 27,
+28, and 32 to the Consolidated Financial Statements contain
+more information about E.ON's bonds as wellas liabilities, con-
+tingencies, and other commitments.
+
+E.ON's creditworthiness has been assessed by Standard & Poor's
+("S&P") and Moody's with long-term ratings of BBB and Baa2,
+respectively. The outlook for both ratings is stable. In both cases
+the ratings were based on the expectation that, over the near
+to medium term, E.ON will be able to maintain a debt ratio
+commensurate with these ratings. S&P’s and Moody's short-
+term ratings are unchanged at A-2 and P-2, respectively.
+
+2025 2026 2027 2028
+
+E.ON SE Ratings
+Longterm Short term Outlook
+Moody's SCD Stable
+Stable
+
+Standard & Poor's BBB A-2
+
+2029+
+
+E.ON will continue to take into account the trust of rating
+agencies, investors, and banks by means of a clear strategy and
+transparent communications and therefore holds events that
+include an annual informational meeting for its core group of
+banks.
+
+Investments
+
+The E.ON Group's cash-effective investments in 2020 were
+below the prior-year level. Factoring out the reporting-year and
+prior-year payments in conjunction with the innogy transaction
+(see commentary under Corporate Functions/Other on page 40),
+there would have been a significant increase in investments in
+the core business. The E.ON Group invested about €4.4 billion
+in property, plant, and equipment and intangible assets (prior
+year: €3.8 billion). Share investments totaled -€0.2 billion versus
+€1.7 billion in the prior year.
+
+Investments
+
+€ in millions 2020 2019 +/-%
+Energy Networks 3,386 2,384 +42
+Customer Solutions 790 1,008 -22
+Renewables - 563 -
+Corporate Functions/Other -278 1,329 -
+Consolidation -2 1 -
+Investments in core business 3,896 5,285 -26
+Non-Core Business 275 207 +33
+E.ON Group investments 4171 5,492 -24
+
+
+
+--- Page 21 ---
+
+Business Report
+
+Energy Networks’ investments increased by 42 percent year on
+year, from €2.4 billion to €3.4 billion. Investments in Germany
+rose significantly, primarily because of the inclusion of innogy
+operations. In addition, the increase reflected in particular new
+connections. Investments in new connections and maintenance
+were made in Sweden as well. Investments in East-Central
+Europe/Turkey were also above the prior-year level. The inclusion
+of innogy's operations in Hungary and Poland as well as VSE
+Holding was one of the factors.
+
+Customer Solutions invested €0.2 billion less than in the prior
+year. Investments in Sweden declined significantly year on year
+owing to the completion of the Hégbytorp project. In addition,
+the prior-year figure included payments to acquire Coromatic,
+a leading provider of critical building infrastructure in Scandina-
+via. Investments in the United Kingdom were significantly lower
+as well, primarily because of postponed investments for smart
+meters. By contrast, the inclusion of innogy's operations in
+Germany and Poland resulted in higher investments. In addition,
+E.ON Business Solutions invested in significantly more distrib-
+uted-generation projects than in the prior year.
+
+After the transfer of substantially all of the Renewables segment
+to RWE in September 2019 and its remaining operations to
+other E.ON segments, effective 2020 the Renewables segment
+therefore no longer exists.
+
+Subsequent purchase-price reductions in conjunction with the
+innogy acquisition had a positive impact on investments recorded
+at Corporate Functions/Other in 2020. Because these payments
+are for E.ON's account, they reduce investments. The prior-year
+figure primarily reflects payments in conjunction with the public
+takeover offer and for the acquisition of additional innogy stock
+on-market.
+
+Investments at Non-Core Business were €68 million above the
+prior-year level. The prior-year figure reflects, in particular, pay-
+ments in conjunction with the innogy transaction recorded at
+PreussenElektra. By contrast, PreussenElektra’s investments to
+acquire residual power output rights were higher than in the
+prior year.
+
+Cash Flow
+
+Cash provided by operating activities of continuing and discon-
+tinued operations before interest and taxes of €5.9 billion was
+significantly above the prior-year level (€4.4 billion). Energy Net-
+works recorded an increase of €1.9 billion year on year thanks
+to positive working capital effects at the previous E.ON network
+business and the inclusion, for the first time, of innogy’s network
+operations for the entire year.
+
+24
+
+Customer Solutions’ cash flow of €0.4 billion was below the
+prior-year level, mainly due to the inclusion of innogy’s operations
+in the United Kingdom and to the changes in segment reporting,
+which, for comparative purposes, were also made to the prior
+year (see page 21). The absence of Renewables’ €0.2 billion con-
+tribution relative to the prior year was another factor.
+
+Cash provided by operating activities of continuing and dis-
+continued operations also rose because of lower tax payments
+(+€0.8 billion), whereas higher interest payments on innogy's
+debt had a negative impact (-€0.1 billion).
+
+Cash provided by investing activities of continuing and discon-
+tinued operations totaled -€1.9 billion versus -€5.8 billion in
+2019. Expenditures were recorded in the prior year for the acqui-
+sition of innogy stock, whereas in the 2020 financial year cash
+provided by investing activities benefited from a subsequent
+purchase-price payment from RWE. In addition, the payment
+received in the first quarter of 2020 for the indirect stake in
+Nord Stream AG that was transferred to the CTA in 2019, the
+sale of innogy’s sales business in the Czech Republic, an advance
+payment in connection with the agreed-on sale of the stake in
+Rampion, and the sale of substantial parts of the heating electricity
+business in Germany had a positive impact on cash provided by
+investing activities.
+
+Cash Flow*
+
+€in millions 2020 2019
+Operating cash flow 5,313 2,965
+Operating cash flow before interest and taxes? 5,948 4,407
+Cash provided by (used for) investing
+
+activities -1,864 -5,820
+Cash provided by (used for) financing
+
+activities -2,624 792
+
+From continuing and discontinued operations.
+2Excluding the innogy business in the Czech Republic reclassified in accordance with IFRS 5
+and deconsolidated on October 30, 2020.
+
+Cash provided by financing activities of continuing and discon-
+tinued operations of -€2.6 billion was €3.4 billion below the
+prior-year figure of +€0.8 billion, principally because of payments
+in conjunction with the compensation of innogy SE's remaining
+minority shareholders and E.ON SE's higher dividend payout
+relative to the prior year.
+
+
+--- Page 22 ---
+
+Asset Situation
+
+Total assets and liabilities of roughly €95.4 billion were
+
+€2.7 billion, or 3 percent, below the figure at year-end 2019.
+Non-current assets declined by €0.3 billion year on year to
+€75.5 billion. This is mainly attributable to an increase in assets
+and preliminary goodwill from the acquisition of VSE Holding.
+Areduction in financial assets, particularly companies accounted
+for using the equity method and non-current securities, had a
+countervailing effect.
+
+Current assets declined by €2.4 billion, or 11 percent, from
+€22.3 billion to roughly €19.9 billion. This resulted mainly from
+a decline in other operating assets and the deconsolidation of
+assets that had been reclassified as assets held for sale pursuant
+to IFRS 5: innogy's business in the Czech Republic, the heating
+electricity business in Germany, and a business in Hungary. This
+was partially offset by an increase in liquid funds.
+
+The equity ratio (including non-controlling interests) at year-
+
+end 2020 was 9 percent, which is 5 percentage points lower
+than at year-end 2019. The reduction in the equity ratio mainly
+
+Consolidated Assets, Liabilities, and Equity
+
+25
+
+reflects the merger squeeze-out of innogy SE's remaining minority
+shareholders (see page 21). Equity was also reduced by the
+dividend payout totaling €1.6 billion, the remeasurement of
+pension obligations, and other items not affecting net income
+recorded under other comprehensive income. By contrast, net
+income for the 2020 financial year served to increase equity.
+
+Non-current debt rose by €2.8 billion, or 5 percent, chiefly
+because of the development of non-current bonds and an
+increase in pension obligations.
+
+Current debt of €24.7 billion was 5 percent below the figure
+
+at year-end 2019. The reason was the deconsolidation of debt
+that had previously been reclassified pursuant to IFRS 5 at
+innogy's business in the Czech Republic, the heating electricity
+business in Germany, and a business in Hungary. The repayment
+of financial liabilities was another factor.
+
+Dec. 31, Dec. 31,
+€ in millions 2020 % 2019 %
+Non-current assets 75,484 79 75,786 77
+Current assets 19,901 21 22,294 23
+Total assets 95,385 100 98,080 100
+Equity 9,055 9 13,248 14
+Non-current liabilities 61,761 65 58,982 60
+Current liabilities 24,569 26 25,850 26
+
+95,385 100 98,080 100
+
+Additional information about E.ON's asset situation is contained
+in Notes to the Consolidated Financial Statements.
+
+
+--- Page 23 ---
+
+Business Report
+
+Business Segments
+
+Energy Networks
+
+Power and Gas Passthrough
+
+Power and gas passthrough in Germany in 2020 rose significantly
+owing to the inclusion of innogy operations. Gas passthrough of
+the previous E.ON network business was at the prior-year level,
+
+26
+
+whereas its power passthrough declined, in part because of the
+Covid-19 pandemic.
+
+Power passthrough in Sweden was almost unchanged from the
+prior year.
+
+Energy Passthrough
+East-Central Europe/
+
+Germany Sweden Turkey Total
+Billion kWh 2020 2019 2020 2019 2020 2019 2020 2019
+Fourth quarter
+Power 64.4 62.4 9.5 98 178 16.5 91.7 88.7
+Line loss, station use, etc. 2.0 19 0.3 0.3 09 1.0 3.2 3.2
+Gas 60.6 54.3 - - 16.1 14.4 76.7 68.7
+Full year
+Power 226.9 144.2 34.7 35.5 64.1 46.0 325.7 225.7
+Line loss, station use, etc. 71 48 11 11 3.9 29 12.1 8.8
+Gas 170.6 118.5 - - 46.2 44.5 216.8 163.0
+
+The inclusion of innogy's network business in Hungary and Poland
+and the acquisition of VSE Holding Slovakia led to a significant
+structural increase in East-Central Europe/Turkey's power pass-
+through. Gas passthrough rose slightly owing to the inclusion of
+the innogy business in Croatia. Power and gas passthrough at
+the previous E.ON network business was at the prior-year level.
+
+System Length and Network Customers
+
+E.ON's power system in Germany was about 705,000 kilometers
+long, roughly the same as in 2019. As in the prior year, at year-
+end it had about 15.1 million connection points for power in its
+service territory. E.ON's gas system was around 104,000 kilo-
+meters long and had 1.8 million connection points, likewise
+essentially unchanged from 2019.
+
+The length of E.ON's power system in Sweden was roughly
+139,000 kilometers (prior year: 138,000 kilometers). The
+number of customers in the power distribution system was
+about 1.1 million (prior year: about 1 million).
+
+E.ON operates electricity networks in East-Central Europe/
+Turkey with a total system length of 322,000 kilometers and
+supplies about 9.7 million network customers. System length
+and the number of network customers are thus significantly
+higher than the prior-year figures of 296,000 kilometers and
+
+9 million. The increase is principally attributable to the acquisition
+of VSE Holding. Gas networks operated by E.ON are roughly
+48,000 kilometers long (prior year: roughly 46,000 kilometers).
+This increase is primarily attributable to the acquisition of two
+distribution system operators in Croatia, which are not material
+for the Group as a whole. The number of gas network customers
+was unchanged at around 2.6 million.
+
+
+--- Page 24 ---
+
+Sales and Adjusted EBIT
+
+Energy Networks’ sales and adjusted EBIT in 2020 were
+significantly above the prior-year level, in particular due to
+the inclusion of innogy operations.
+
+Sales and adjusted EBIT in Germany were €14.6 billion and
+€2.2 billion, respectively. As described above, the year-on-year
+increase is principally attributable to the inclusion of innogy
+operations. Sales at the previous E.ON network business were
+at the prior-year level. A decline in power passthrough was
+offset by non-recurring regulatory items. By contrast, adjusted
+EBIT of the previous E.ON network business declined slightly
+owing in part to mild weather and Covid-19. However, these
+effects will be largely offset in subsequent years.
+
+27
+
+In Sweden sales and adjusted EBIT in 2020 were significantly
+below the prior-year level. Lower network fees in conjunction with
+the start of the new regulatory period constituted the primary
+reason for the decline in sales and earnings.
+
+Sales and adjusted EBIT in East-Central Europe/Turkey rose sig-
+nificantly, likewise because of the innogy takeover. The previous
+E.ON operations’ sales and earnings were slightly higher.
+
+Energy Networks
+East-Central Europe/
+
+Germany Sweden Turkey Total
+€ in millions 2020 2019 2020 2019 2020 2019 2020 2019
+Fourth quarter
+Sales 4,102 4,031 240 276 910 663 5,252 4,970
+Adjusted EBITDA? 1,028 958 137 183 296 262 1,461 1,403
+Adjusted EBIT* 626 592 96 145 200 170 922 907
+Full year
+Sales 14,563 9,161 889 1,024 2,832 1,913 18,284 12,098
+Adjusted EBITDA? 3,628 2,313 529 692 1,042 789 5,199 3,794
+Adjusted EBIT* 2,182 1,455 371 539 700 507 3,253 2,501
+
+AIncludes effects of retrospective changes in connection with the adjustment of the provisional recognition of the innogy acquisition until September 18, 2020; the previous year was adjusted
+
+accordingly.
+
+
+--- Page 25 ---
+
+Business Report 2 8
+
+Customer Solutions
+
+Power and Gas Sales Volume
+
+This segment's power sales in 2020 increased by 154.9 billion kWh
+to 369 billion kWh. Its gas sales rose by 124.3 billion kWh to
+381.6 billion kWh. The inclusion of innogy operations for the first
+time for the entire year was the main reason.
+
+Power Sales
+Netherlands/
+
+Germany United Kingdom? Belgium Other? Total
+Billion kWh 2020 2019 2020 2019 2020 2019 2020 2019 2020 2019
+Fourth quarter
+Residential and SME 77 9.6 6.3 65 2.3 2.1 8.1 8.2 24.4 26.4
+1&C 6.7 9.5 8.1 91 17 2.1 71 8.4 23.6 29.1
+Sales partners 20.2 36.3 06 06 - - 2.2 0.2 23.0 37.1
+Customer groups 34.6 55.4 15.0 16.2 4.0 42 174 16.8 71.0 92.6
+Wholesale market 20.3 3.3 3.9 5.0 2.2 49 3.5 23 29.9 15.5
+Total 54.9 58.7 18.9 21.2 6.2 9.1 20.9 19.1 100.9 108.1
+Fulyer
+Residential and SME 31.5 21.0 22.4 18.1 76 24 30.6 25.3 92.1 66.8
+1&C 30.9 20.3 31.5 18.9 6.2 2.3 29.4 28.3 98.0 69.8
+Sales partners 72.5 40.8 2.2 06 - - 3.8 0.7 78.5 42.1
+Customer groups 134.9 82.1 56.1 37.6 13.8 47 63.8 54.3 268.6 178.7
+Wholesale market 61.4 12.7 20.5 87 6.5 49 12.0 9.1 100.4 35.4
+Total 196.3 94.8 76.6 46.3 20.3 9.6 75.8 63.4 369.0 214.1
+‘The line item "wholesale market” includes changes made retroactively
+2Excludes E.ON Business Solutions
+Gas Sales
+
+Netherlands/
+
+Germany United Kingdom? Belgium Other? Total
+Billion kWh 2020 2019 2020 2019 2020 2019 2020 2019 2020 2019
+Fourth quarter
+Residential and SME 145 15.1 16.5 18.3 5.4 9.4 10.6 9.2 47.0 52.0
+1&C 79 8.6 2.7 3.8 76 5.2 6.2 6.9 24.4 24.5
+Sales partners 14.6 36.3 2.3 25 - - 0.5 0.6 17.4 39.4
+Customer groups 37.0 60.0 21.5 24.6 13.0 14.6 17.3 16.7 88.8 115.9
+Wholesale market 13.6 48 11.3 13.2 9.1 24.1 1.0 2.2 35.0 44.3
+Total 50.6 64.8 32.8 37.8 22.1 38.7 18.3 18.9 123.8 160.2
+Full year
+Residential and SME 40.7 27.3 49.1 39.5 21.6 9.7 29.6 27.7 141.0 104.2
+1&C 25.2 18.2 10.3 10.1 26.6 5.9 21.2 23.3 83.3 57.5
+Sales partners 45.3 37.5 6.8 25 - - 14 1.6 53.5 41.6
+Customer groups 111.2 83.0 66.2 52.1 48.2 15.6 52.2 52.6 2778 203.3
+Wholesale market 44.5 11.7 27.7 13.2 25.8 24.1 5.8 5.0 103.8 54.0
+Total 155.7 94.7 93.9 65.3 74.0 39.7 58.0 57.6 381.6 257.3
+
+The line item "wholesale market” includes changes made retroactively.
+2Excludes E.ON Business Solutions.
+
+
+--- Page 26 ---
+
+The sales business in Germany increased its power sales to
+196.3 billion kWh relative to 2019 owing primarily to the inclu-
+sion of innogy operations. On balance, the previous E.ON sales
+business in Germany sold more power as well. Power sales to
+residential and small and medium enterprise ("SME") customers
+were below the prior-year level due to the sale of the heating
+electricity business. Power sales to industrial and commercial
+("I&C") customers declined year on year, primarily because of
+changes in the customer portfolio and the repercussions of
+Covid-19. Power sales to the wholesale market were significantly
+above the prior-year level, mainly owing to reselling related to
+Covid-19 and to the optimization of the procurement portfolio.
+Gas sales of 155.7 billion kWh were 61 billion kWh above the
+prior-year level, principally because of the inclusion of innogy
+operations. The previous E.ON business's gas sales to residential
+and SME customers and to I1&C customers decreased owing
+to weather factors. Gas sales to 1&C customers also declined
+because of changes in the customer portfolio. The optimization
+of the procurement portfolio led to a significant increase in gas
+sales to the wholesale market.
+
+Power sales in the United Kingdom increased to 76.6 billion kWh
+in 2020, owing in particular to the inclusion of innogy operations.
+The previous E.ON business's sales to residential and SME
+customers and I&C customers declined, mainly because of the
+Covid-19 pandemic. Gas sales in the United Kingdom rose sig-
+nificantly as well (+44 percent), primarily because of innogy
+operations. Covid-19's repercussions led to lower gas sales at
+the previous E.ON U.K. business. In addition, warmer weather
+in 2020 had an adverse impact on gas sales to residential and
+SME customers.
+
+The Netherlands/Belgium unit, which consists exclusively
+
+of originally innogy business operations, sold 20.3 billion kWh
+of power and 74 billion kWh of gas in 2020 (prior year: 9.6 bil-
+lion kWh and 39.7 billion kWh, respectively).
+
+Power sales at the Other unit rose by 12.4 billion kWh, primarily
+owing to the inclusion of innogy operations in Hungary and
+Poland. Power sales in the other previous E.ON regions declined.
+Power sales to residential and SME customers were below the
+prior-year level, particularly in Italy. The impact of Covid-19 in
+the Czech Republic, Hungary, and Italy along with lower customer
+
+29
+
+numbers in Romania were the principal reasons for the decline
+in power sales to 1&C customers. Power sales to 1&C customers
+in Sweden were higher thanks to new sales contracts. Power
+sales to sales partners increased significantly as well, mainly
+because of a new customer relationship at the previous E.ON
+sales business in Hungary. Power sales to the wholesale market
+rose, primarily because of an increase in reselling in the Czech
+Republic and Italy. This was partially offset by a decline in whole-
+sale market sales in Sweden.
+
+Other's gas sales were 0.4 billion kWh higher. The inclusion of
+innogy operations in Hungary and Poland had a positive impact,
+whereas gas sales in nearly all other previous E.ON regions
+declined. Gas sales to residential and SME customers were
+slightly above the prior-year level. Slightly higher customer
+numbers and cold weather in Romania were the primary reasons.
+Gas sales to 1&C customers decreased, principally because of
+
+a decline in customer numbers in Romania, the sale of the LPG
+business in Sweden in the second quarter of 2019, and deterio-
+rated market conditions in Italy and the Czech Republic due to
+Covid-19. Gas sales to the wholesale market were at the prior-
+year level. Higher reselling in Italy was offset by lower sales
+volume in Sweden.
+
+Customer Numbers
+
+This segment's fully consolidated companies had about 40.7 mil-
+lion customers at year-end 2020, nearly at the prior-year level
+of 41.1 million. The sale of the heating electricity reduced the
+number of customers in Germany to 13.9 million (prior year:
+14.2 million). Customer numbers in the United Kingdom declined
+from 10.9 to 10.3 million amid the ongoing restructuring of the
+sales business. There were losses among power as well as gas
+customers. By contrast, the customer base grew in the Nether-
+lands/Belgium, mainly through new acquisitions; this unit had
+4.6 million customers at year-end 2020 (prior year: roughly
+4.3 million). The total number of customers in the other countries
+where this segment operates rose from 11.8 to 11.9 million,
+principally because of the successful acquisition of residential
+and SME customers in Romania.
+
+
+--- Page 27 ---
+
+Business Report
+
+Customer Solutions
+
+30
+
+Netherlands/
+
+Germany United Kingdom Belgium Other Total
+
+€ in millions 2020 2019 +2020 +=2019 «= «2020S 2019S «2020» 2019» 2020S 2019
+Fourth quarter
+
+Sales? 6669 7,033 3,917 4,299 940 933 2470 2,580 13,996 14,845
+
+Adjusted EBITDA? 154 436 96 -113 51 50 114 96 223 469
+
+Adjusted EBIT? 116 377 -127.— -162 35 36 52 39 76 290
+
+22,550 12,906 13,993 9,645 2,959 991 8840 8,252 48,342 31,794
+
+Adjusted EBITDA2 546 427 1 32 152 54 307 276 1,006 789
+
+Adjusted EBIT? 412 308-129-106 80 37 91 111 454 350
+
+Adjustment of prior-year figures in the context of “failed-own-use"-accounting with no impact on earnings.
+2Includes the effects of retrospective changes in connection with the adjustment of the provisional recognition of the innogy acquisition until September 18, 2020; the previous year was adjusted
+
+accordingly.
+
+Sales and Adjusted EBIT
+
+Customer Solutions’ sales of €48.3 billion in 2020 were about
+52 percent more than in the prior year. Adjusted EBIT rose by
+€104 million.
+
+The increase in sales in Germany is primarily attributable to the
+inclusion of innogy operations and to higher sales volume on the
+wholesale market and the passthrough of cost components at
+the previous E.ON business. The sale of the heating electricity
+business in Germany had an adverse impact. Adjusted EBIT was
+significantly higher due to the inclusion of innogy operations.
+The decline in the previous E.ON business's adjusted EBIT was
+mainly caused by Covid-19 and weather factors.
+
+Sales in the United Kingdom were likewise significantly above
+the prior-year level due to the inclusion of innogy operations.
+Sales declined at the previous E.ON business, primarily owing to
+weather factors and lower consumption resulting from Covid-19.
+Adjusted EBIT was significantly lower than in the prior year.
+This is attributable to the aforementioned decline in sales at the
+previous E.ON business and the inclusion of innogy operations.
+By contrast, cost savings had a positive impact.
+
+Sales and adjusted EBIT in the Netherlands/Belgium were
+
+€3 billion and €80 million, respectively (prior year: €1 billion
+and €37 million, respectively). The year-on-year increase is
+principally attributable to the inclusion of this unit for the first
+time for the entire year.
+
+Other's sales rose by €588 million, principally because of the
+inclusion of innogy operations. By contrast, sales in the previous
+E.ON regions declined. Lower prices in Italy and Hungary were
+the primary reasons. Adjusted EBIT decreased by €20 million
+to €91 million, mainly because of effects resulting from the
+Covid-19 pandemic in the Czech Republic and Hungary as well as
+the inclusion of innogy’s business with new customer solutions.
+This was partially offset by items that included the contribution
+from innogy operations in Poland.
+
+Non-Core Business
+
+Fully Consolidated and Attributable Generating Capacity
+As in the prior-year, PreussenElektra's fully consolidated and
+attributable generating capacity at year-end 2020 totaled
+3,828 MW and 3,319 MW, respectively.
+
+PreussenElektra's Power Generation
+
+Power procured (owned generation and purchases) in the 2020
+financial year was 2.8 billion kWh below the prior-year level.
+The year-on-year decline is primarily attributable to the transfer
+of minority stakes in Gundremmingen and Emsland nuclear
+power stations to RWE.
+
+
+--- Page 28 ---
+
+Power Generation
+
+31
+
+PreussenElektra
+
+Billion kWh 2020 2019
+Fourth quarter
+Owned generation 74 17
+Purchases 04 0.2
+Jointly owned power plants - -
+Third parties 0.4 0.2
+Total 78 79
+Station use, line loss, etc. - -
+Power sales 78 79
+Full year
+Owned generation 28.4 30.1
+Purchases 14 25
+Jointly owned power plants - 0.9
+Third parties 14 16
+Total 29.8 32.6
+Station use, line loss, etc. -0.1 -0.1
+Power sales 29.7 32.5
+
+Sales and Adjusted EBIT
+
+Sales at Non-Core Business of €1,388 mi
+above the prior-year figure. Adjusted EBIT increased by
+€47 million to €413 million.
+
+ion were €214 million
+
+PreussenElektra’s sales rose year on year, mainly because of
+higher sales prices. The absence of sales from Gundremmingen
+and Emsland was a countervailing factor.
+
+Non-Core Business
+
+Adjusted EBIT was significantly above the prior-year level.
+Higher sales prices were the principal factor in the significant
+increase in PreussenElektra's adjusted EBIT. They were partially
+offset by the absence of earnings from stakes in nuclear power
+stations that had been transferred and by higher expenditures
+for residual power output rights. By contrast, equity earnings on
+E.ON's stake in Enerjisa Uretim declined significantly. Operating
+improvements were more than offset by currency-translation
+effects resulting from the weakening of the Turkish lira and by
+impairment charges on certain legacy projects.
+
+PreussenElektra Generation Turkey Total
+
+€ in millions 2020 2019 2020 2019 2020 2019
+
+Fourth quarter
+
+Sales 360 308 - - 360 308
+
+Adjusted EBITDA 253 120 3 4 256 124
+
+Adjusted EBIT 112 36 3 4 115 40
+
+Full year
+
+Sales 1,388 1,174 - - 1,388 1,174
+
+Adjusted EBITDA 895 543 30 74 925 617
+292 30 74 413 366
+
+Adjusted EBIT 383
+
+
+--- Page 29 ---
+
+Business Report
+
+E.ON SE's Earnings, Financial, and Asset
+Situation
+
+E.ON SE prepares its Financial Statements in accordance with
+the German Commercial Code, the SE Ordinance (in conjunction
+with the German Stock Corporation Act), and the Electricity and
+Gas Supply Act (Energy Industry Act).
+
+Balance Sheet of E.ON SE (Summary)
+
+32
+
+The change in financial assets is mainly attributable to an
+increase in loans to affiliated companies. The increase in receiv-
+ables from affiliated companies and liabilities to affiliated
+companies resulted from the assumption of innogy SE's cash
+and cash equivalents accounts.
+
+The change in equity mainly reflects the fact that net income
+was higher in 2020 than in the prior year. The decline in other
+liabilities resulted from the transfer of innogy SE's renewables
+business, its gas-storage business, and its stake in Austrian
+energy utility KELAG Karntner Elektrizitats-Aktiengesellschaft to
+
+December 31
+Ein millions won 019 RWE in 2020, which fulfilled the obligation to RWE disclosed
+> Os ___ inthe prior year. Deferred income includes premiums from the
+Intangible assets 46 — transfer of non-current innogy SE bonds to E.ON SE.
+Property, plant, and equipment 15 10
+Financial assets CES 45,067 The issuance of bonds with a total nominal value of €5,000 mil-
+Non-current assets 45,749 45,077 lion and the €1,186 million increase in liquid funds were the
+Receivables from affiliated companies 10,798 5,934 main items affecting the Company's financial situation.
+Other receivables and assets 648 1,522
+Liquid funds 2,646 1,460 Information on treasury shares can be found in Note 20 to the
+Current assets 14,092 8,916 Consolidated Financial Statements.
+Accrued expenses 66 35
+Asset surplus after offsetting of benefit
+obligations 4 3 Income Statement of E.ON SE (Summary)
+Total assets 59,911 54,031 € in millions 2020 2019
+Equity 10,643 9,728 Income from equity interests 2,405 1,620
+Provisions 1,236 1,061 Interest income/loss 24 -127
+Bonds 11,621 6,000 Other expenditures and income -624 -763
+Liabilities to affiliated companies 35,683 31,040 Taxes 309 59
+Other liabilities 467 6,195 Net income 2,114 789
+Deferred income 261 7 Profit carryforward from the prior year 10 121
+Total equity and liabilities 59,911 54,031 Net income transferred to retained earnings - 300
+
+Net incom le for distribution 2,124 1,210
+
+As in the prior year, E.ON's earnings, financial, and asset situa-
+tion in the 2020 financial year was influenced primarily by the
+agreement reached between E.ON and RWE on March 12, 2018,
+to transfer business operations and the integration of innogy.
+
+
+
+--- Page 30 ---
+
+E.ON SE is the parent company of the E.ON Group. As such, its
+earnings situation is affected by income from equity interests.
+The increase in income from equity interests reflects, in partic-
+ular, profit transfers of €3,384 million from E.ON Beteiligungen
+GmbH and €267 million from E.ON Finanzanlagen GmbH. The
+profit transfer from E.ON Beteiligungen GmbH includes the
+gain of €2,821 million from the merger of innogy SE into E.ON
+Verwaltungs SE (which now does business as innogy SE). How-
+ever, this gain was almost entirely offset by impairment charges
+on equity interests recorded at innogy SE. Income from equity
+interests was adversely affected primarily by expenditures from
+loss transfers of €1,282 million. These were mainly attributable
+to a subsidiary that recorded significant impairment charges on
+equity interests in affiliated companies.
+
+The improvement in net interest income mainly reflects tax-
+related interest income. The negative balance of other income
+and expenses in 2020 resulted from €209 million in expenses
+for purchased third-party services, €153 million in personnel-
+related expenses, €131 million in consulting services and
+
+€128 million in net expenses from currency hedging. The final
+settlement of the overall transaction with RWE resulted in a total
+expense of €97 million at E.ON SE after internal passthrough.
+
+In the year under review, on balance the Company's income taxes
+yielded tax income of €309 million, which encompasses the
+year under review as well as prior years. Applying the minimum
+tax rate resulted in corporate taxes and solidarity surcharges
+totaling about €2 million in 2020. The Company did not record
+expenditures for trade taxes. For previous years the Company
+recorded tax income of €311 million.
+
+At the Annual Shareholders Meeting in 2021, the Management
+Board will propose that net income available for distribution
+be used to pay a dividend of €0.47 per ordinary share and the
+remaining amount of €899 million to be brought forward as
+retained earnings. Management's proposal for the use of net
+income available for distribution is based on the number of ordi-
+nary shares on March 15, 2021, the date the Financial State-
+ments of E.ON SE were prepared.
+
+The E.ON SE Management Board has decided on a dividend
+policy that foresees annual growth in the dividend per share of
+up to 5 percent through the dividend for the 2023 financial
+year. E.ON will aim for an annual increase in dividend per share
+after this as well.
+
+33
+
+The complete Financial Statements of E.ON SE, with an unqual-
+ified opinion issued by the auditor, PricewaterhouseCoopers
+GmbH, Wirtschaftspriifungsgesellschaft, Diisseldorf, will be
+announced in the Bundesanzeiger. The Financial Statements of
+E.ON SE are available on the internet at www.eon.com.
+
+Other Financial and Non-financial Performance
+Indicators
+
+ROCE
+ROCE is a pretax total return on capital and is defined as the
+ratio of adjusted EBIT to annual average capital employed.
+
+Annual average capital employed represents the interest-bearing
+capital invested in E.ON's operating business. It is calculated
+
+by subtracting non-interest-bearing available capital from non-
+current and current operating assets. Depreciable non-current
+assets are included at their book value. Goodwill from acquisitions
+is included at acquisition cost, as long as this reflects its fair
+value. In order to better depict intraperiod fluctuations in average
+capital employed, annual average capital employed is calculated
+as the arithmetic average of the amounts at the beginning of the
+year and the end of the year.
+
+Significant changes to E.ON's portfolio during the course of the
+year were factored into average capital employed. Consequently,
+the innogy Group's assets and debt relevant for capital employed
+were included effective the end of September 2019. The com-
+ponents of capital employed attributable to the discontinued
+operations at Renewables transferred to RWE were included
+until the end of September 2019 (footnote 4 of the ROCE table
+below contains more information).
+
+Annual average capital employed does not include the marking
+to market of other share investments and derivatives. The
+purpose of excluding these items is to provide us with a more
+consistent picture of E.ON's ROCE performance.
+
+
+--- Page 31 ---
+
+Business Report
+
+ROCE Performance in 2020
+
+ROCE decreased from 8.3 percent in 2019, to 6.2 percent in
+2020 owing mainly to the increase in average capital employed.
+The primary reasons are the inclusion of the innogy Group's
+assets for the first time for the entire year (including goodwill
+from the purchase-price allocation) and the innogy Group's debt.
+
+34
+
+innogy operations are fully included in capital employed, whereas
+the synergies associated with the transaction will only emerge
+over time. E.ON therefore assumes that ROCE will increase in
+the future.
+
+The table below shows the E.ON Group's ROCE and its derivation.
+
+ROCE
+
+€ in millions 2020 2019¢
+Property, plant, and equipment, right-of-use assets, intangible assets, and goodwill? 61,148 59,950
+Shares in affiliated and associated companies and other share investments 6,266 6,963
+Non-current assets 67,414 66,913
+Inventories 1,131 1,252
+Other non-interest-bearing assets/liabilities, including deferred income and deferred tax assets? -5,818 -2,187
+Current assets -4,687 935
+Non-interest-bearing provisions? -3,408 -3,557
+Capital employed in continuing and discontinued operations‘ 59,319 62,421
+Annual average capital employed in continuing and discontinued operations* 60,870 38,678
+Adjusted EBIT® 3,776 3,220
+ROCE® 6.2% 8.3%
+
+{Depreciable non-current assets are included at their book value. Goodwill from acquisitions is included at acquisition cost, as long as this reflects its fair value.
+
+2Examples of other non-interest-bearing assets/liabilities include income tax receivables and liabilities.
+
+®Non-interest-bearing provisions include current provisions, such as those relating to sales and procurement market obligations. In particular, they do not include provisions for pensions or
+
+nuclear-waste management.
+
+Asa rule, weighted capital employed is the arithmetical average of capital employed at the beginning and the end of the year. To adequately portray the innogy takeover in September 2019, capital
+employed in 2019 was weighted on the basis of a number of month-end figures. This calculation reflected the following parameters:
+a) Capital employed of continuing operations at December 31, 2018: €29.4 billion (includes the discontinued operations at Renewables).
+) Capital employed of continuing operations at June 30, 2019, projected to September 30, 2019, on the basis of net investments and depreciation charges: €32.4 billion (includes the discontinued
+
+operations at Renewables)
+
+©) Capital employed of continuing operations at October 1, 2019: €61.7 billion (includes innogy and excludes the discontinued operations at Renewables).
+4) Capital employed of continuing operations at December 31, 2019: €62.4 billion (includes innogy and excludes the businesses transferred to RWE). Due to retroactive changes in innogy's
+
+purchase-price allocation, this value was adjusted retrospectively.
+
+75 percent of the average of parameters a) and b) is factored into average capital employed, as is 25 percent of the mean of parameters ¢) and d).
+Adjusted for non-operating effects; for purposes of internal management control, adjusted EBIT includes the adjusted EBIT from the operations at Renewables classified as discontinued operations
+
+and deconsolidated in September 2019.
+“ROCE = adjusted EBIT divided by average capital employed.
+
+Employees
+
+Integration of innogy
+
+Following the legal integration of the innogy Group, a major
+focus in 2020 was on the transfer of innogy employees to their
+respective E.ON target companies. These transfers were imple-
+mented on schedule at the predefined transition dates and were
+thus almost completed in 2020.
+
+To implement these transfers, E.ON concluded numerous
+agreements with trade unions and employee representatives at
+the collective-bargaining and company level. The negotiations
+were conducted under challenging conditions owing to the
+Covid-19 pandemic. However, E.ON's proven social partnership
+
+made it possible to hold constructive discussions and to find
+suitable solutions that address the interests of employees who
+will be affected by the upcoming change process. The afore-
+mentioned cooperation between the Company and employee
+representatives also made it possible to find socially responsible
+solutions for the redundancies resulting from the innogy inte-
+gration. Numerous employees made use of the jointly defined
+mechanisms for voluntarily departing the Group.
+
+E.ON has a long tradition of maintaining a constructive, mutually
+trusting partnership with employee representatives. This rela-
+tionship lays the foundation for a successful social partnership,
+particularly in a continually changing business environment.
+
+
+--- Page 32 ---
+
+People Strategy
+
+In 2020 E.ON also focused on the development of its new Group
+People Strategy ("GPS"), which will serve as the compass to
+guide the Company's ongoing transformation and promote its
+lasting success amid a rapidly changing world. The development
+process reflected, in particular, the innogy integration, which
+necessitated a review and modification of E.ON and innogy's
+previous people strategies. The new GPS sets four people prior-
+ities for the entire Group: Future of Work, Diversity and Inclusion,
+Sustainability, and Leadership. These priorities will guide E.ON's
+human resources activities for the next three years. The new GPS
+will be brought to life by Group-wide and unit-level people activ-
+ities, especially by means of existing Group-wide initiatives, such
+as Grow@E.ON, a competency model for the professional and
+personal development of the Company's employees and man-
+agers. GPS's implementation is flexible and modular to accom-
+modate the differences between business units.
+
+Diversity
+
+Going forward, diversity will remain a key element of E.ON's com-
+petitiveness. Diversity and a mutually appreciative corporate
+culture promote creativity and innovation. Diversity is also a core
+E.ON value. E.ON brings together a diverse team of people who
+differ by nationality, age, gender, religion, sexual orientation and
+identity, and/or ethnic origin and social background. E.ON specifi-
+cally fosters and utilizes diversity and creates an inclusive work
+environment. This is an important factor in business success:
+only a company that embraces diversity and knows how to ben-
+efit from it will be able to remain an attractive employer.
+
+In addition, a diverse workforce enables E.ON to do an even
+better job of meeting customers’ specific needs and requirements.
+As far back as 2006 E.ON issued a Group Policy on Equal Oppor-
+tunity and Diversity. In late 2016 E.ON along with the SE Works
+Council of E.ON SE renewed this commitment to diversity. In
+April 2018 the E.ON Management Board, the German Group
+Works Council, and the Group representation for severely disabled
+persons signed the Shared Understanding of Implementing
+Inclusion at E.ON, creating an important foundation for integrating
+people with disabilities into the organization.
+
+35
+
+In 2008 E.ON publicly affirmed its commitment to fairness and
+respect by signing the German Diversity Charter, which now has
+about 3,500 signatories. E.ON therefore belongs to a large net-
+work of companies committed to diversity, tolerance, fairness,
+and respect. E.ON assumed innogy's membership in the German
+Diversity Charter and has thus been an active member since 2020.
+
+E.ON's approach to promoting diversity is holistic, encompassing
+all dimensions of diversity. In 2020 the Company again imple-
+mented numerous measures to promote diversity at E.ON.
+Fostering female managers’ career development remains an
+important dimension. E.ON set an ambitious target to increase
+the proportion of women in management positions. Over the
+long term, E.ON wants the proportion of women in management
+positions Group-wide to be roughly the same as the proportion
+of women in its overall workforce. At year-end 2020, 32 percent
+of E.ON employees were women. E.ON will increase the propor-
+tion of women in its talent pool accordingly.
+
+Support mechanisms that address employees’ differing needs
+have for years been firmly established at the E.ON Group.
+Examples include mentorship programs for next-generation
+managers, coaching, training to prevent unconscious bias,
+support for childcare, and flexible work schedules.
+
+Also, E.ON is continuing innogy's membership in Initiative
+Women into Leadership (“IWiL"), a non-profit initiative based
+in Germany. innogy was one of IWiL's founding members. The
+initiative's purpose is to recruit outstanding personalities from
+various social spheres—including business, culture, the media,
+and science—to serve as mentors to support highly qualified and
+successful women on their way to the top.
+
+More information about E.ON's compliance with Germany's Law
+for the Equal Participation of Women and Men in Leadership
+Positions in the Private Sector and the Public Sector can be found
+in the Corporate Governance Declaration on pages 70 to 79.
+
+
+--- Page 33 ---
+
+Business Report
+
+Workforce Figures
+
+At year-end 2020 the E.ON Group had 78,126 employees world-
+wide, almost unchanged (-1 percent) from year-end 2019.
+E.ON also had 2,494 apprentices and 231 board members and
+managing directors worldwide.
+
+Employees?
+December 31
+
+Headcount 2020 2019 +1-%
+Energy Networks 40,764 38,814 +5
+Customer Solutions 31,463 33,038 -5
+Corporate Functions/Other 4,029 5,218 -23
+Core business 76,256 77,070 a
+Non-Core Business 1,870 1,878 -
+E.ON Group 78,126 78,948 a
+
+*Does not include board members, managing directors, or apprentices.
+
+The increase in Energy Networks’ headcount is chiefly attributable
+to the acquisition of VSEH in Slovakia. The filling of vacancies to
+expand the business and to meet regulatory requirements (in
+
+Germany, predominantly with apprentices who had successfully
+
+36
+
+completed their training), the reintegration of certain IT functions,
+and other structural effects also contributed to the increase.
+The transfer of employees to Customer Solutions was a counter-
+vailing factor.
+
+The decline in the number of employees at Customer Solutions
+mainly reflects restructuring projects, principally in the United
+Kingdom. This was partially offset by acquisitions in the Nether-
+lands and elsewhere as well as the transfer of employees from
+Corporate Functions/Other and Energy Networks.
+
+The number of employees at Corporate Functions/Other declined
+significantly owing primarily to structural effects, such as the
+transfer of employees to other segments, in part because of the
+separation of innogy SE into subcompanies and their transfer
+to the operating segments, as well as the restructuring of IT
+functions. The sale of a company in Poland was another factor.
+
+Geographic Profile
+
+At year-end, 40,328 employees, or 52 percent of all employees,
+were working outside Germany, almost unchanged from year-
+end 2019 (51 percent).
+
+Employees by Country*
+Headcount FTE?
+Dec. 31, Dec. 31, Dec. 31, Dec. 31,
+2020 2019 2020 2019
+Germany 37,798 38,336 36,090 36,510
+United Kingdom 12,216 14,368 11,682 13,737
+Hungary 7,943 8,129 7,918 8,104
+Romania 6,710 6,579 6,559 6,410
+Netherlands 3,288 2,888 2,840 2,628
+Czech Republic 2,952 2,930 2,937 2,913
+Sweden 2,355 2,286 2,331 2,263
+Poland 1,816 2,018 1,802 2,003
+Other? 3,048 1,414 3,009 1,385
+Total 78,126 78,948 75,168 75,953
+
+Figures do not include board members, managing directors, or apprentices.
+2Includes Slovakia, Italy, Philippines, USA, Denmark, and other countries.
+Full-time equivalent.
+
+
+--- Page 34 ---
+
+Gender and Age Profile, Part-time Staff
+At the end of 2020, 32 percent of the Company's workforce
+were women, roughly at the prior-year level (33 percent).
+
+Proportion of Female Employees
+
+Percentages 2020 2019
+
+Energy Networks 22 22
+Customer Solutions 44 44
+Corporate Functions/Other 49 49
+Core business 33 33
+Non-Core Business 14 13
+E.ON Group 32 33
+
+At year-end 2020 the average member of the E.ON Group
+workforce was about 42 years old and had worked for the
+Company for 14 years.
+
+Apprentices in Germany
+
+37
+
+Employees by Age
+
+Percentages at year-end 2020 2019
+30 and younger 20 20
+31 to 50 50 50
+51 and older 30 30
+
+A total of 9,530 employees, or 12 percent of the E.ON Group
+workforce, were on a part-time schedule. Of these, 6,439, or
+68 percent, were women.
+
+The turnover rate resulting from voluntary terminations averaged
+3.5 percent across the organization, slightly lower than in the
+prior year (4.6 percent).
+
+Apprenticeships
+
+E.ON continues to place great emphasis on vocational training
+for young people. The E.ON Group had 2,395 apprentices and
+work-study students in Germany at year-end 2020. As in the
+prior year, this represented 6 percent of E.ON's total workforce
+in Germany.
+
+Headcount Percentage of workforce
+Atyear-end 2020 2019 2020 2019
+Energy Networks 2,098 2,149 76 8.0
+Customer Solutions 59 61 08 08
+Corporate Functions/Other 199 206 5.4 44
+Core business 2,356 2,416 6.2 6.2
+Non-Core Business 39 40 2.0 21
+E.ON Group 2,395 2,456 6.0 6.0
+
+E.ON provides vocational training in 28 careers and also offers
+training and practically oriented work-study programs in 35 degree
+areas in order to meet its own needs for skilled workers and to
+take targeted action to address the consequences of demographic
+change. In addition, E.ON offers young people the opportunity
+to receive training to qualify for an apprenticeship.
+
+
+--- Page 35 ---
+
+Forecast Report
+
+Forecast Report
+Business Environment
+
+Macroeconomic Situation
+
+Despite the availability of vaccines and countries’ various vacci-
+nation strategies, the Covid-19 pandemic seems unlikely to end
+in the near future. For the time being, therefore, the current
+phase of economic weakness can be expected to continue. This
+applies to the energy industry as well. For example, electricity
+consumption declined in 2020. Compared with other industries,
+however, the economic repercussions in the energy sector were
+marginal.
+
+The pandemic's barely predictable course makes precise eco-
+nomic forecasts almost impossible. In addition, forecasts must
+be assessed in temporal relation to the pandemic's course.
+For example, in September 2020 (when infection rates were
+relatively low) the ifo institute predicted that Germany would
+achieve GDP growth of 5.1 percent in 2021. In December, amid
+a renewed lockdown, it revised its growth forecast for 2021 to
+4.2 percent.
+
+The German Council of Economic Experts’ annual report,
+published in December 2020, forecasts tepid economic growth
+of around 0.5 percent in the first months of 2021. For the
+remainder of the year, it expects Germany's economy to grow
+by 3.7 percent. Germany's GDP for 2021 would thus be just
+below the pre-crisis level of 2019 (GDP 2019: €3.44 trillion).
+
+38
+
+The European Commission's autumn economic forecast
+published in November 2020 predicted that the EU's GDP will
+shrink by 7.4 percent in 2020. In February 2021 the Commission
+forecast euro zone GDP growth of 3.8 percent for both 2021
+and 2022. Furthermore, the EU as a whole is expected to grow by
+3.7 percent in 2021 and 3.9 percent in 2022. The EU economy
+is expected to reach its pre-crisis level from 2019 (EU28 GDP:
+€13.94 trillion) by mid-2022, resulting mainly from increased
+growth in the second half of 2021 and in 2022. The International
+Monetary Fund expects global GDP growth of 5.5 percent in
+2021.
+
+General Statement of E.ON's Future
+Development
+
+The integration of innogy successfully completed the E.ON
+Group's restructuring. Nevertheless, the next few years will
+reflect the new E.ON's ongoing efforts to build on this foundation
+to propel Europe's energy transition in the digital age. From
+April 2021 onward, Leonhard Birnbaum will become E.ON's new
+CEO and oversee the continuation of its strategy. The smooth
+transition at the top of the Company sets the stage for a seam-
+less implementation of operating tasks. The focus will be on
+expanding E.ON's business segments in order to generate addi-
+tional growth. Europe's economic stimulus packages give E.ON
+additional support. Around €60 billion of funding is earmarked
+for climate projects across E.ON's markets. These projects will
+promote decarbonization and thus the achievement of the EU's
+climate targets.
+
+
+--- Page 36 ---
+
+Another focus following the innogy takeover will be on con-
+tinuing to leverage synergies of around €740 million annually
+from the end of 2022 onward. E.ON will also further articulate
+its sustainability strategy. Combining all of E.ON’s U.K. sales
+businesses in a new company, E.ONwex, will continue in 2021
+as well. The new company will have state-of-the-art processes
+and an agile IT platform. The transfer of energy customers in
+Germany to a new digital platform will continue throughout 2021.
+This segment remains committed to its IT and digital agenda.
+This agenda's special significance was underscored by the
+appointment of Victoria Ossadnik to the EON Management Board
+effective April 1, 2021. She will be responsible for the Group's
+digitalization. The focus will be on developing advanced, power-
+ful support systems and continually safeguarding of E.ON's IT
+systems against cyberattacks. Energy Networks will make
+significant IT investments in 2021 to meet customers’ different
+demands and to continually make E.ON’s networks—the back-
+bone of the energy transition across Europe—more advanced
+and smarter.
+
+E.ON needs to achieve these objectives and implement these
+measures in a challenging economic environment. Low interest
+rates and keen competition for networks and customers are
+part of E.ON's daily business. Uncertainty remains regarding the
+future course of the Covid-19 pandemic and its economic impact.
+Although the energy industry and E.ON have proven resilient,
+there may be additional financial consequences depending on
+how the pandemic progresses. For example, the demand for
+electricity and gas could affect sales volume and prices, while
+there could be implications from customers and enterprise
+partners’ reduced ability to pay.
+
+39
+
+Anticipated Earnings Situation
+
+Forecast Earnings Performance
+
+Despite the ongoing pandemic, E.ON expects the Group's 2021
+adjusted EBIT to be between €3.8 and €4 billion and its 2021
+adjusted net income to be between €1.7 and €1.9 billion, or
+€0.65 to €0.73 per share (based on 2,607 million shares out-
+standing). In addition, the plan calls for the E.ON Group to
+achieve a cash-conversion rate of roughly 100 percent on aver-
+age for the 2021 to 2023 financial years (without factoring in
+the expenditures for the decommissioning of nuclear power
+stations). This metric will benefit significantly over the planning
+period from the Company's initiative to further optimize work-
+ing capital.
+
+Forecast by segment:
+
+Adjusted EBIT*
+
+€ in billions 2021 (forecast)
+Energy Networks 2.9t03.1
+Customer Solutions 0.8 to 1.0
+Corporate Functions/Other about -0.3
+Non-Core Business 0.2 to 0.4
+E.ON Group 3.8t0 4.0
+
+2Adjusted for non-operating effects.
+
+
+--- Page 37 ---
+
+Forecast Report
+
+E.ON expects Energy Networks’ earnings to be temporarily lower
+in 2021, mainly because of temporarily higher expenditures at
+the networks in Germany. Declining earnings in Hungary due
+to planned business disposals will continue to have an adverse
+impact. Also, new regulatory periods start in the Czech Republic,
+Hungary, and Turkey. The low interest-rate environment affects
+regulatory rates of return, but this will largely be offset by changes
+in the respective regulatory schemes and good operating results.
+The business in Slovakia acquired from RWE at year-end 2020
+will make a positive, full-year contribution. In addition, the net-
+work business will continue to benefit from additional investments
+in its regulated asset base.
+
+Customer Solutions’ earnings will be significantly above the
+prior-year level. The Company expects a positive performance in
+all of this segment's markets, especially through the leveraging
+of synergies. In particular, the ongoing restructuring in the
+United Kingdom will serve to increase earnings. In addition, EON
+assumes that the earnings decline in 2020 as a result of the
+Covid-19 pandemic—in particular due to resales and lower sales
+volumes, especially to industrial customers—will largely dis-
+appear in the 2021 financial year. The underlying operating
+business will perform according to plan as well. The anticipated
+improvement in customer numbers and margins in the cus-
+tomer solutions business in Germany is particularly noteworthy.
+
+The plan calls for earnings at Corporate Functions/Other to be
+above the prior-year figure. The implementation of planned
+synergies will have a positive impact.
+
+Non-Core Business’s earnings will be below the prior-year level.
+Higher costs to procure for residual power output rights and
+slightly lower sales prices will reduce earnings.
+
+Anticipated Financial Situation
+
+Planned Funding Measures
+
+In addition to planned investments for 2021 and the dividend
+for 2020, in 2021 E.ON will make payments for bonds that
+have matured. Over the course of the year, these payments will
+be funded with available liquid funds and the issuance of debt.
+
+40
+
+Dividend
+
+The E.ON SE Management Board decided to continue the current
+dividend policy, which foresees annual growth in the dividend
+per share of up to 5 percent through the dividend for the 2023
+financial year. E.ON will aim for an annual increase in dividend
+per share after this as well.
+
+Planned Investments
+
+E.ON plans to make cash-effective investments of about
+€4.9 billion in 2021. E.ON will continue its strategy aimed at
+delivering sustainable growth. Capital allocation will of course
+continue to be selective and disciplined.
+
+Cash-Effective Investments: 2021 Plan
+
+€inbillions Percentages
+Energy Networks 3.3 67
+Customer Solutions 1.0 21
+Corporate Functions/Other 0.2 4
+Non-Core Business 04 8
+Total 49 100
+
+Energy Networks’ investments will consist in particular of
+numerous individual investments to maintain and, above all,
+to expand networks, switching equipment, and metering and
+control technology in order to continue to ensure the reliable
+and uninterrupted transmission and distribution of electricity.
+
+Customer Solutions’ investments will mainly go toward the heat
+business and solutions for industrial and commercial customers
+in Sweden, Germany, and the United Kingdom. E.ON will also
+invest in IT, metering and upgrade projects, and integrated
+energy solutions.
+
+Non-Core Business's investments will include investments to
+acquire residual power output rights. Those at Corporate Func-
+tions/Other will encompass investments in Group-wide IT infra-
+structure and a planned payment from the innogy acquisition.
+
+
+--- Page 38 ---
+
+Risk and Chances Report
+
+Risks and Chances Report
+
+Enterprise Risk Management System in the
+Narrow Sense
+
+Objective
+
+E.ON’'s Enterprise Risk Management ("ERM") provides the
+management of all units as well as the E.ON Group with a fair
+and realistic view of the risks and chances resulting from their
+planned business activities. It provides:
+
+* meaningful information about risks and chances to the busi-
+ness, thereby enabling the business to derive individual
+risks/chances as well as aggregate risk profiles within the
+time horizon of the medium-term plan (three years)
+
+* transparency on risk exposures in compliance with legal
+requirements including KonTraG, BilMoG, and BilReG.
+
+41
+
+Govern
+and
+Consolidate
+
+Identify,
+Evaluate
+
+and
+Manage
+
+E.ON's ERM is based on a centralized governance approach
+which defines standardized processes and tools covering the
+identification, evaluation, countermeasures, monitoring, and
+reporting of risks and chances. Overall governance is provided
+by Group Risk Management on behalf of the E.ON SE Risk
+Committee.
+
+Allrisks and chances have an accountable member of the Man-
+agement Board, have a designated risk owner who remains
+operationally responsible for managing that risk/chance, and
+are identified in a dedicated bottom-up process.
+
+The innogy business operations acquired by E.ON are now fully
+integrated into E.ON's adequate, effective, and audited compre-
+hensive framework for managing chances and risks.
+
+
+--- Page 39 ---
+
+Risk and Chances Report
+
+Scope
+
+E.ON's risk management system in the broader sense has a
+total of four components:
+
+* aninternal monitoring system
+
+* amanagement information system
+
+* preventive measures
+
+* the ERM, which is a risk management system in the narrow
+sense.
+
+The purpose of the internal monitoring system is to ensure the
+proper functioning of business processes. It consists of organi-
+zational preventive measures (such as policies and work
+instructions) and internal controls and audits (particularly by
+Internal Audit).
+
+The E.ON internal management information system identifies
+risks early so that steps can be taken to actively address them.
+Reporting by the Controlling, Finance, and Accounting depart-
+ments as well as Internal Audit reports are of particular impor-
+tance in early risk detection.
+
+General Measures to Limit Risks
+
+E.ON takes the following general preventive measures to limit
+risks.
+
+Managing Legal and Regulatory Risks
+
+E.ON engages in intensive and constructive dialog with govern-
+ment agencies and policymakers in order to manage the risks
+resulting from the E.ON Group's policy, legal, and regulatory
+environment. Furthermore, the Company strives to conduct
+proper project management so as to identify early and minimize
+the risks attending new-build projects.
+
+E.ON attempts to minimize the operational risks of legal
+proceedings and ongoing planning processes by managing
+them appropriately and by designing appropriate contracts
+beforehand.
+
+42
+
+Managing Operational and IT Risks
+
+To limit operational and IT risks, E.ON continually improves
+
+its network management and the optimal asset dispatch of its
+assets. At the same time, E.ON implements operational and
+infrastructure improvements that will enhance the reliability of
+its generation assets and distribution networks, even under
+extraordinarily adverse conditions. In addition, E.ON has factored
+the operational and financial effects of environmental risks into
+its emergency plan. They are part of a catalog of crisis and sys-
+tem-failure scenarios prepared for the Group by the Incident and
+Crisis Management team.
+
+E.ON IT systems are maintained and optimized by qualified EON
+Group experts, outside experts, and a wide range of technologi-
+cal security measures. In addition, the E.ON Group has in place
+a range of technological and organizational measures to counter
+the risk of unauthorized access to data, the misuse of data, and
+data loss.
+
+Managing Health, Safety, and Environmental ("HSE"), Human
+Resources ("HR"), and Other Risks
+
+The following are among the comprehensive measures E.ON
+takes to address such risks (also in conjunction with operational
+and IT risks):
+
+* systematic employee training, advanced training, and quali-
+fication programs for employees
+
+¢ further refinement of production procedures, processes,
+and technologies
+
+¢ regular facility and network maintenance and inspection
+
+* company guidelines as well as work and process instructions
+
+¢ quality management, control, and assurance
+
+* project, environmental, and deterioration management
+
+* crisis-prevention measures and emergency planning.
+
+Should an accident occur despite the measures taken, E.ON has
+a reasonable level of insurance coverage.
+
+
+--- Page 40 ---
+
+Managing Market Risks
+E.ON uses a comprehensive sales-management system and
+intensive customer management to manage margin risks.
+
+In order to limit exposure to commodity price risks, E.ON con-
+ducts systematic risk management. The key elements of the
+Company's risk management are, in addition to binding Group-
+wide policies and a Group-wide reporting system, the use of
+quantitative key figures, the limitation of risks, and the strict
+separation of functions between departments. Furthermore,
+E.ON utilizes derivative financial instruments that are commonly
+used in the marketplace. These instruments are transacted with
+financial institutions, brokers, power exchanges, and third parties
+whose creditworthiness is monitored on an ongoing basis. EON
+local sales units and the remaining generation operations have
+set up local risk management under central governance standards
+to monitor these underlying commodity risks and to minimize
+them through hedging.
+
+Managing Strategic Risks
+
+E.ON has comprehensive preventive measures in place to
+manage potential risks relating to acquisitions and investments.
+These measures include, in addition to the relevant company
+guidelines and manuals, comprehensive due diligence, legally
+binding contracts, a multi-stage approvals process, and share-
+holding and project controlling. Comprehensive post-acquisition
+projects also contribute to successful integration.
+
+Managing Finance and Treasury Risks
+
+This category encompasses credit, interest-rate, currency, tax,
+and asset-management risks and chances. E.ON uses system-
+atic risk management to monitor and control its interest-rate
+and currency risks and manage these risks using derivative and
+non-derivative financial instruments. Here, E.ON SE plays a
+central role by aggregating risk positions through intragroup
+transactions and hedging these risks in the market. Due to
+E.ON SE's intermediary role, its risk position is largely closed.
+
+In the context of Group-wide credit risk management E.ON
+systematically assesses and monitors the creditworthiness
+
+of its business partners on the basis of Group-wide minimum
+standards. E.ON manages credit risk by taking appropriate
+measures, which include obtaining collateral and setting limits.
+The E.ON Group's Risk Committee is regularly informed about
+credit risks. A further component of E.ON's risk management
+is a conservative investment strategy for financial funds and a
+broadly diversified portfolio.
+
+43
+
+Note 31 to the Consolidated Financial Statements contains
+detailed information about the use of derivative financial instru-
+ments and hedging transactions. Note 32 describes the general
+principles of E.ON's risk management and applicable risk metrics
+for quantifying risks relating to commodities, credit, liquidity,
+interest rates, and currency translation.
+
+Enterprise Risk Management ("ERM")
+
+E.ON's ERM, which is the basis for the risks and chances
+described in the next section, encompasses:
+
+* systematic risk and chance identification
+¢ risk and chance analysis and evaluation
+
+* management and monitoring of risks and chances by
+analyzing and evaluating countermeasures and preventive
+systems
+
+¢ documentation and reporting.
+
+As required by law, E.ON's ERM's effectiveness is reviewed
+regularly by Corporate Audit. In compliance with the provisions
+of Section 91, Paragraph 2, of the German Stock Corporation
+Act relating to the establishment of a risk-monitoring and early
+warning system, E.ON has a Risk Committee for the E.ON Group
+and for each of its business units. The Risk Committee's mission
+is to achieve a comprehensive view of E.ON's risk exposure at
+the Group and unit level and to actively manage risk exposure in
+line with E.ON's risk strategy.
+
+The ERM applies to all fully consolidated E.ON Group companies
+and all companies valued at equity whose book value is greater
+than €50 million. E.ON takes an inventory of its risks and chances
+at each quarterly balance-sheet date.
+
+To promote uniform financial reporting Group-wide, E.ON has
+in place a central, standardized system that enables effective
+and automated risk reporting. Company data are systematically
+collected, transparently processed, and made available for
+analysis both centrally and decentrally at the units.
+
+
+--- Page 41 ---
+
+Risk and Chances Report
+
+Risks and Chances
+Methodology
+
+E.ON's IT-based system for reporting risks and chances has the
+following risk categories:
+
+Risk Category
+
+a4,
+
+Risk Category Examples
+
+Legal and regulatory risks
+
+Policy and legal risks and chances, regulatory risks, risks from public consent processes
+
+Operational and IT risks
+
+IT and process risks and chances, risks and chances relating to the operation of generation
+
+assets, networks, and other facilities, new-build risks
+
+HSE, HR, and other
+
+Health, safety, and environmental risks and chances
+
+Market risks
+
+Risks and chances from the development of commodity prices and margins and from changes
+in market liquidity
+
+Strategic risks
+
+Risks and chances from investments and disposals
+
+Finance and treasury risks Credit, interes
+
+E.ON uses a multistep process to identify, evaluate, simulate,
+and classify risks and chances. Risks and chances are generally
+reported on the basis of objective evaluations. If this is not
+possible, estimates by in-house experts are used. The evaluation
+measures a risk/chance's financial impact on the current earnings
+plan while factoring in risk-reducing countermeasures. The
+evaluation therefore reflects the net risk.
+
+For quantifiable risks and chances, E.ON then evaluates the
+likelihood of occurrence and the potential loss or damage. In
+the commodity business, for example, commodity prices can
+rise or fall. This type of risk is modeled with a normal distribution.
+Modeling is supported by a Group-wide IT-based system.
+Extremely unlikely events—those whose likelihood of occurrence
+is 5 percent or less—are classified as tail events. Tail events are
+not included in the simulation described below.
+
+This statistical distribution makes it possible for E.ON's internal
+risk management system to conduct a Monte Carlo simulation
+of these risks. This yields an aggregated risk distribution that is
+quantified as the deviation from the Company's current earnings
+plan for adjusted EBIT.
+
+ate, foreign-currency, tax, and asse
+
+anagement risks and chances
+
+E.ON uses the 5th and 95th percentiles of this aggregated
+
+risk distribution as the worst case and best case, respectively.
+Statistically, this means that with this risk distribution there is
+
+a 90-percent likelihood that the deviation from the Company's
+current earnings plan for adjusted EBIT will remain within these
+extremes.
+
+The last step is to assign, in accordance with the 5th and
+95th percentiles, the aggregated risk distribution to impact
+classes—low, moderate, medium, major, and high—according to
+their quantitative impact on planned adjusted EBIT. The impact
+classes are shown in the table below.
+
+Impact Classes
+
+Low x< €10 million
+Moderate €10 million < x < €50 million
+Medium €50 million < x < €200 million
+Major €200 million < x < €1 billion
+High x2 €1 billion
+
+
+--- Page 42 ---
+
+General Risk Situation
+
+The table below shows the average annual aggregated risk posi-
+tion (aggregated risk distribution) across the time horizon of the
+medium-term plan for all quantifiable risks and chances (excluding
+tail events) for each risk category based on E.ON's most import-
+ant financial key performance indicator, adjusted EBIT.
+
+45
+
+Risk Category
+
+Risk category Worst case (5th percentile) Best case (95th percentile)
+Legal and regulatory risks Major Major
+
+Operational and IT risks Medium Low
+
+HSE, HR, and other Low Low
+
+Market risks Major Medium
+
+Strategic risks Medium Moderate
+
+Finance and treasury risks Medium Medium
+
+The E.ON Group has major risk positions in the following cate-
+gories: legal and regulatory risks as well as market risks. As a
+result, the aggregate risk position of E.ON SE as a Group is major.
+In other words, the E.ON Group's average annual adjusted EBIT
+risk ought not to exceed -€200 million to -€1 billion in 95 percent
+of all cases.
+
+The E.ON Group's overall risk situation at the end of 2020 was
+influenced primarily by the ongoing Covid-19 pandemic. The
+main Covid-19 risk factors in the sales business are volume and
+price effects as well as credit losses. In addition, the customer
+solutions business could encounter delays in planned projects,
+while residential and business customers’ demand for various
+products is declining amid economic uncertainty.
+
+The network business could also experience a decline in sales
+volume and credit losses which result in lower earnings. The
+difference with the network business is that volume-driven
+declines in sales will largely be recovered in subsequent years.
+In addition, PreussenElektra's business could be adversely
+affected by the introduction of a ban or a limitation of work
+contracts due to Covid-19.
+
+Risks and Chances by Segment
+
+PreussenElektra
+
+PreussenElektra's business is substantially influenced by regu-
+lation. In general, regulation can result in risks for its remaining
+operating and dismantling activities. One example is the
+Fukushima nuclear accident. Policy measures taken in response
+to such events could have a direct impact on the further opera-
+tion of a nuclear power plant ("NPP") or trigger liabilities and
+significant payment obligations stemming from the solidarity
+obligation agreed on among German NPP operators. Further-
+more, new regulatory requirements, such as additional manda-
+tory safety measures or delays in dismantling, could lead to
+production outages and higher costs. In addition, there may
+be lawsuits that fundamentally challenge the operation of
+NPPs. Regulation can also require an increase in provisions for
+dismantling. These factors could pose major risks for E.ON.
+
+On December 6, 2016, Germany's Federal Constitutional Court
+in Karlsruhe ruled that the thirteenth amended version of the
+Atomic Energy Act (“the Act") is fundamentally constitutional.
+The Act's only unconstitutional elements are that certain NPP
+
+
+--- Page 43 ---
+
+Risk and Chances Report
+
+operators will be unable to produce their electricity allotment
+from 2002 and that it contains no mechanism for compensating
+operators for investments to extend NPP operating lifetimes.
+Lawmakers established a compensation mechanism in the six-
+teenth amended version of the Act. This version did not become
+law owing to a ruling by the Federal Constitutional Court on
+September 29, 2020. Lawmakers thus remain obliged to intro-
+duce a new mechanism. In addition, NPPs need to acquire
+residual power output rights in order to operate until their closure
+dates prescribed by law. In accordance with the agreement
+published at the beginning of March 2021 between the respon-
+sible federal ministries and the four NPP operators, it is also
+provided in particular that the residual power output rights
+corresponding to the ownership stake in the joint power plants
+with Vattenfall are to be transferred free of charge to Preussen-
+Elektra and can be used for generation in the Group's own
+power plants. The effectiveness of this agreement is still sub-
+ject to legal implementation. The additional quantities required
+to operate the NPPs until the final date stipulated by the Act
+have to be purchased. These matters could yield major chances
+and major risks.
+
+Customer Solutions
+
+The E.ON Group's operations subject it to certain risks relating to
+legal proceedings, ongoing planning processes, and regulatory
+changes. But these risks also relate, in particular, to legal actions
+and proceedings concerning contract and price adjustments to
+reflect market dislocations or (including as a consequence of the
+energy transition) an altered business climate in the power and
+gas business, alleged price-rigging, and anticompetitive practices.
+This could pose a major risk.
+
+Energy Networks
+
+The operation of energy networks is subject to a large degree
+of government regulation. New laws and regulatory periods
+cause uncertainty for this business. In addition, matters related
+to Germany's Renewable Energy Sources Act, such as issues
+regarding solar energy, can cause temporary fluctuations in cash
+flow and adjusted EBIT. This could create major chances as well
+as pose a major risk. The rapid growth of renewables is also
+creating new risks for the network business. For example, insol-
+vencies among renewables operators or feed-in tariffs unduly
+paid by grid operators lead to court or regulatory proceedings.
+
+Risks and Chances by Category
+
+E.ON's major risks and chances by risk category are described
+below. Also described are major risks and chances stemming
+from tail events as well as qualitative risks that would impact
+adjusted EBIT by more than €200 million. Risks and chances
+that would affect planned net income and/or cash flow by more
+than €200 million are included as well.
+
+46
+
+Legal and Regulatory Risks
+
+The political, legal, and regulatory environment in which the
+E.ON Group does business is a source of risks, such as the
+continued uncertainty that Brexit poses for the collaboration
+between certain E.ON business units. This could confront E.ON
+with direct and indirect consequences that could lead to possible
+financial disadvantages. New risks—but also opportunities—arise
+from energy-policy decisions at the European and national level.
+Foremost among them are the European Commission's Green
+Deal, which was presented in 2019 and revised and expanded
+in late 2020, and the German federal government's decision
+
+to phase out conventional, hard-coal- and lignite-fired power
+generation (the Coal Phaseout Law of August 2020). The achieve-
+ment of these objectives will require legal and regulatory
+implementation measures that themselves would pose new
+risks for certain E.ON Group business operations.
+
+In the wake of the economic and financial crisis in many EU mem-
+ber states, interventionist policies and regulations have been
+adopted in recent years, such as additional taxes and additional
+reporting requirements (for example, EMIR, MAR, REMIT,
+MiFID2). The relevant agencies monitor compliance with these
+regulations closely. This leads to attendant risks for E.ON's
+operations. The same applies to price moratoriums, regulated
+price reductions, and changes to support schemes for renew-
+ables, which could pose risks to, as well as create opportunities
+for, E.ON's operations in the respective countries.
+
+There may also be final risks from obligations arising from
+regulatory requirements following the Uniper split. This risk
+category also includes major risks arising from possible litigation,
+fines, and claims, governance and compliance issues, as well
+as risks and chances related to contracts and permits. Changes
+to this environment can lead to considerable uncertainty with
+regard to planning and, under certain circumstances, to impair-
+ment charges but can also create chances. This results in a
+major risk and chance position.
+
+
+--- Page 44 ---
+
+Operational and IT Risks
+
+The operational and strategic management of the E.ON Group
+relies heavily on complex information technology and complex
+operation technology ("OT"). This includes risks and chances in
+conjunction with information security and the security of oper-
+ating processes in E.ON's business segments.
+
+Cybersecurity and the continuous protection of IT and OT systems
+against cyberattacks is a focus area of E.ON's risk management.
+Examples include the analysis of attacks on the systems of the
+network business (which could affect the operation of E.ON's
+critical infrastructure), on the sales business (which could result
+in the loss of customer data), and on internal systems (which
+E.ON uses to control commercial processes in all its business
+segments). It is important that the operating units and the Cyber-
+security and Enterprise Risk Management divisions jointly and
+proactively evaluate and manage risks for E.ON.
+
+Technologically complex production facilities are used in the
+production and distribution of energy, resulting in major risks
+from procurement and logistics, construction, operations and
+maintenance of assets as well as general project risks. In the
+case of PreussenElektra, this also includes dismantling activities.
+E.ON's operations in and outside Germany face major risks of
+
+a power failure, power-plant shutdown, and higher costs and
+additional investments resulting from unanticipated operational
+disruption or other problems. Operational failures or extended
+production stoppages of facilities or components of facilities as
+well as environmental damage could negatively impact earnings,
+affect the cost situation, and/or result in the imposition of fines.
+In unlikely cases, this could lead to a high risk. Overall, it results
+
+in a medium risk position and a low chance position in this cate-
+gory. General project risks can include a delay in projects and
+increased capital requirements.
+
+E.ON could also be subject to environmental liabilities associated
+with its power generation operations that could materially
+
+and adversely affect its business. In addition, new or amended
+environmental laws and regulations may result in cost increases
+for E.ON.
+
+HSE, HR, and Other Risks
+
+Health and occupational safety are important aspects of E.ON's
+day-to-day business. The Company's operating activities can
+therefore pose risks in these areas and create social and environ-
+mental risks and chances. In addition, E.ON's operating business
+potentially faces risks resulting from human error and employee
+turnover. It is important that E.ON act responsibly along its
+entire value chain and that we communicate consistently,
+enhance the dialog, and maintain good relationships with key
+stakeholders. E.ON actively considers environmental, social,
+and corporate-governance issues. These efforts support the
+
+47
+
+Company's business decisions and public relations. E.ON's
+objective is to minimize reputational risks and garner public
+support so that the Company can continue to operate its busi-
+ness successfully. These matters do not result in a major risk or
+chance position.
+
+In the past, predecessor entities of EON SE conducted mining
+operations, resulting in obligations in North Rhine-Westphalia
+and Bavaria. E.ON SE can be held responsible for damage. This
+could lead to major individual risks that E.ON currently only
+evaluates qualitatively.
+
+Market Risks
+
+E.ON's units operate in an international market environment that
+is characterized by general risks relating to the business cycle.
+In addition, the entry of new suppliers into the marketplace along
+with more aggressive tactics by existing market participants
+and reputational risks have created a keener competitive environ-
+ment for the Company's sales business in and outside Germany,
+which could reduce margins. However, market developments
+could also have a positive impact on E.ON's business. Such fac-
+tors include wholesale and retail price developments, customer
+churn rates, and temporary volume effects in the network busi-
+ness. This results in a major risk position and a medium chance
+position in this category.
+
+The demand for electric power and natural gas is seasonal, with
+E.ON's operations generally experiencing higher demand during
+the cold-weather months of October through March and lower
+demand during the warm-weather months of April through
+September. As a result of these seasonal patterns, E.ON's sales
+and results of operations are higher in the first and fourth quar-
+ters and lower in the second and third quarters. Sales and results
+of operations for all of E.ON's energy operations can be negatively
+affected by periods of unseasonably warm weather during the
+autumn and winter months. E.ON expects seasonal and weath-
+er-related fluctuations in sales and results of operations to con-
+tinue. Periods of exceptionally cold weather—very low average
+temperatures or extreme daily lows—in the fall and winter months
+can have a positive impact owing to higher demand for electricity
+and natural gas.
+
+E.ON's portfolio of physical assets, long-term contracts, and
+end-customer sales is exposed to uncertainty resulting from
+fluctuations in commodity prices. After the Uniper spinoff, E.ON
+established its own procurement organization for its sales busi-
+ness and ensured market access for the output of its remaining
+energy production in order to manage the remaining commodity
+risks accordingly.
+
+
+--- Page 45 ---
+
+Risk and Chances Report
+
+Strategic Risks
+
+E.ON's business strategy involves acquisitions and investments
+in its core business as well as disposals. This strategy depends in
+part on the ability to successfully identify, acquire, and integrate
+companies that enhance, on acceptable terms, the Company's
+energy business. In order to obtain the necessary approvals for
+acquisitions, E.ON may be required to divest other parts of its
+business or to make concessions or undertakings that affect its
+business. In addition, there can be no assurance that E.ON will
+be able to achieve the returns expected from any acquisition or
+investment. It is also possible that E.ON will not be able to realize
+its strategic ambition of enlarging its investment pipeline and
+that significant amounts of capital could be used for other oppor-
+tunities. Furthermore, investments and acquisitions in new
+geographic areas or lines of business require E.ON to become
+familiar with new sales markets and competitors and to address
+the attending business risks.
+
+In the case of planned disposals, E.ON faces the risk of disposals
+not taking place or being delayed and the risk that E.ON receives
+lower-than-anticipated disposal proceeds. In addition, after
+transactions close E.ON could face major liability risks resulting
+from contractual obligations.
+
+The overall risk and chance position in this category was not
+major at the balance-sheet date.
+
+Finance and Treasury Risks
+
+E.ON is exposed to credit risk in its operating activities and
+through the use of financial instruments. Credit risk results from
+non-delivery or partial delivery by a counterparty of the agreed
+consideration for services rendered, from total or partial failure
+to make payments owed on existing accounts receivable, and
+from replacement risks in open transactions. For example, E.ON's
+historical connection with Uniper and RWE continues to pose
+a major, albeit unlikely, risk. In addition, in unlikely cases joint
+and several liability for jointly operated power plants could lead
+to a major risk.
+
+E.ON's international business operations expose it to risks from
+currency fluctuation. One form of this risk is transaction risk,
+which arises when payments are made in a currency other than
+E.ON's functional currency. Another form of risk is translation
+risk, which arises when currency fluctuations lead to accounting
+effects when assets/liabilities and income/expenses of E.ON
+
+48
+
+companies outside the euro zone are translated into euros and
+entered into E.ON’s Consolidated Financial Statements. Positive
+developments in foreign-currency rates can also create chances
+for E.ON's operating business.
+
+E.ON faces earnings risks from financial liabilities and interest-
+rate derivatives that are based on variable interest rates and
+from asset-retirement obligations.
+
+Refinancing terms on debt capital markets depend in part on
+rating agencies’ credit ratings. Rating agencies Moody's and S&P
+have given E.ON a strong investment-grade rating. EON has
+contracts that would trigger additional collateral requirements
+if certain rating levels were not met. Consequently, significant
+rating downgrades could lead to additional liquidity requirements.
+On the other hand, positive business performance or further
+debt reduction could have a positive impact on E.ON’s rating.
+
+In addition, the price changes and other uncertainty relating to
+the current and non-current investments E.ON makes to cover
+its non-current obligations (particularly pension and asset-
+retirement obligations) could, in individual cases, be major.
+
+Declining or rising discount rates could lead to increased or
+reduced provisions for pensions and asset-retirement obligations,
+including non-current liabilities. This can create a high balance-
+sheet risk for E.ON.
+
+In principle, E.ON could also encounter tax risks and chances.
+This category's overall risk and chance position is not major.
+
+Management Board's Evaluation of the Risk
+and Chances Situation
+
+The overall risk and chances situation of the E.ON Group's oper-
+ating business at year-end 2020 improved relative to year-end
+2019 owing to legal and regulatory risks and opportunities from
+a possible agreement on the transfer of residual power output
+rights. Although the average annual risk for the E.ON Group's
+adjusted EBIT is classified as major and despite the expansion of
+its risk and chance position through the innogy transaction, from
+today's perspective E.ON does not perceive any risk profile that
+could threaten the existence of E.ON SE, the E.ON Group or
+individual segments.
+
+
+--- Page 46 ---
+
+Internal Control System for the Accounting Process
+
+Disclosures Pursuant to Section 289,
+Paragraph 4, and Section 315, Paragraph 4 of
+the German Commercial Code on the Internal
+Control System for the Accounting Process
+
+General Principles
+
+E.ON applies Section 315e, Paragraph 1, of the German Commer-
+cial Code and prepares its Consolidated Financial Statements
+
+in accordance with International Financial Reporting Standards
+("IFRS") and the interpretations of the IFRS Interpretations
+Committee that were adopted by the European Commission for
+use in the EU as of the end of the fiscal year and whose appli-
+cation was mandatory as of the balance-sheet date (see Note 1
+to the Consolidated Financial Statements). Energy Networks
+(Germany, Sweden, and East-Central Europe/Turkey), Customer
+Solutions (Germany, United Kingdom, Netherlands/Belgium,
+Other), Non-Core Business, and Corporate Functions/Other are
+the Company's IFRS-reportable segments.
+
+E.ON SE prepares its Financial Statements in accordance with
+the German Commercial Code, the SE Ordinance (in conjunction
+with the German Stock Corporation Act), and the German
+Energy Act.
+
+E.ON prepares a Combined Group Management Report which
+applies to both the E.ON Group and E.ON SE.
+
+Accounting Process
+
+All companies included in the Consolidated Financial Statements
+must comply with E.ON's uniform Accounting and Reporting
+Guidelines for the Annual Consolidated Financial Statements and
+the Interim Consolidated Financial Statements. These guidelines
+describe applicable IFRS accounting and valuation principles.
+They also explain accounting principles typical in the E.ON Group,
+such as those for provisions for nuclear-waste management,
+the treatment of financial instruments, and the treatment of
+regulatory obligations. E.ON continually analyzes amendments
+to laws, new or amended accounting standards, and other import-
+ant pronouncements for their relevance to, and consequences
+for, the Consolidated Financial Statements and, if necessary,
+update its guidelines and systems accordingly.
+
+Corporate Functions defines and oversees the roles and respon-
+sibilities of various Group entities in the preparation of E.ON SE's
+Financial Statements and the Consolidated Financial Statements.
+These roles and responsibilities are described in a Group Policy
+document.
+
+E.ON Group companies are responsible for preparing their
+financial statements in a proper and timely manner. They
+receive substantial support from Business Service Centers in
+
+49
+
+Regensburg, Germany; Cluj, Romania; and Krakow, Poland.
+E.ON SE combines the financial statements of subsidiaries
+belonging to its scope of consolidation into its Consolidated
+Financial Statements using standard consolidation software.
+Group Accounting is responsible for conducting the consolidation
+and for monitoring adherence to the guidelines for scheduling,
+processes, and contents. Monitoring by means of system-based
+automated controls is supplemented by manual checks.
+
+In conjunction with the year-end closing process, additional
+qualitative and quantitative information relevant for accounting
+is compiled. Furthermore, dedicated quality-control processes
+are in place for all relevant departments to discuss and ensure
+the completeness of important information on a regular basis.
+
+E.ON SE's Financial Statements are prepared with SAP software.
+The accounting and preparation processes are divided into
+discrete functional steps. Bookkeeping processes have largely
+been outsourced to E.ON's Business Service Centers. Cluj has
+the primary responsibility for processes relating to subsidiary
+ledgers and several bank activities. Regensburg has the principal
+responsibility for processes relating to the general ledgers. Auto-
+mated or manual controls are integrated into each step. Defined
+procedures ensure that all transactions and the preparation of
+E.ON SE's Financial Statements are recorded, processed, assigned
+onan accrual basis, and documented in a complete, timely, and
+accurate manner. Relevant data from E.ON SE's Financial State-
+ments are, if necessary, adjusted to conform with IFRS and then
+transferred to the consolidation software system using SAP-
+supported transfer technology.
+
+The following explanations about E.ON's internal control
+system ("ICS") and its general IT controls apply equally to the
+Consolidated Financial Statements and to E.ON SE's Financial
+Statements. Page 67 contains information about the innogy
+Group's internal control system, which has not yet been adapted
+to E.ON's internal control system.
+
+Internal Control System
+
+The management of each unit in the E.ON Group is legally
+responsible for establishing and maintaining an adequate and
+effective internal control system ("ICS"). The ICS department
+
+at Corporate Audit is responsible for the oversight and coordina-
+tion of the overall ICS process in order to ensure an effective
+ICS in the E.ON Group. For this purpose, the ICS department at
+Corporate Audit provides the ICS framework and the necessary
+tools. An ICS Business Partner ("ICS BP") is assigned to each unit
+which is of particular importance to the E.ON Group and there-
+fore in the ICS documentation scope. The ICS BP is responsible
+
+
+--- Page 47 ---
+
+Internal Control System for the Accounting Process
+
+for coordinating and monitoring the unit's ICS activities and
+advises and supports management in implementing an effective
+internal control system. The unit's management remains respon-
+sible for the appropriateness and effectiveness of the imple-
+mented ICS. The ICS BP concept ensures a uniform approach as
+well as consistent and efficient collaboration and fosters con-
+tinuous improvement through extensive information-sharing in
+the Group.
+
+E.ON's ICS Framework
+
+E.ON's ICS is based on the globally recognized COSO framework
+from May 2013 (COSO: The Committee of Sponsoring Organi-
+zations of the Treadway Commission).
+
+The ICS Principles, which define the minimum requirements for
+an effective internal control system, are a key component of
+E.ON's ICS. They contain overarching principles such as autho-
+rization, segregation of duties, and master data management as
+well as specific requirements for managing potential risks in
+various areas and processes, such as supplier monitoring, project
+management, invoice verification, and payments. All fully con-
+solidated companies and majority-owned units are subject to
+the ICS Principles.
+
+In addition to the ICS Principles, certain units of special impor-
+tance to the E.ON Group must fulfill several additional ICS
+requirements for selected processes. These requirements relate
+to the documentation and assessment of the relevant processes
+and controls—the ICS model—as well as reporting to Corporate
+Audit. The ICS model, which incorporates company- and indus-
+try-specific aspects, defines potential risks for accounting
+(financial reporting) at the operating units, serves as a checklist,
+and provides guidance for the establishment of internal controls
+as well as their documentation and implementation, and is thus
+an integral part of the accounting processes.
+
+A functionally managed digital organization and third-party
+service providers provide IT and digital services for the EON
+Group. IT systems used for accounting are subject to the internal
+control system framework, which includes IT general controls,
+such as access controls, segregation of duties, processing con-
+trols, measures to prevent the intentional and unintentional falsi-
+fication of the programs, data, and documents as well as controls
+related to supplier monitoring. The documentation of the IT
+general controls is stored in E.ON's documentation system.
+
+50
+
+Each year, qualitative criteria and quantitative materiality aspects
+are used to determine which financial-reporting processes and
+controls must be documented and assessed by which E.ON units.
+
+E.ON units in the ICS documentation scope use a central docu-
+mentation system (SAP-GRC) for this purpose. The system
+contains the scope, detailed documentation requirements, the
+assessment requirements for process owners, and the final
+Sign-Off process.
+
+Management Self-Assessment and Control Tests
+
+After E.ON units have documented their processes and controls,
+the individual process owners conduct an annual assessment
+of the design and the operational effectiveness of the controls
+embedded in these processes. This is known as a management
+self-assessment.
+
+In addition, the effectiveness of the internal controls is audited
+by Internal Audit. These audits are conducted based on a risk-
+
+oriented audit plan. Any identified deficiencies are reported to
+
+the relevant companies.
+
+Furthermore, the general IT controls, the controls of the Business
+Service Centers in Regensburg and Cluj, the controls of the
+Human Resources Service Center in Germany (E.ON Country
+Hub Germany Gmbh), and the controls of the Pension Service
+Company in Germany (Energie Pensions-Management GmbH)
+were audited as part of the audit of the Group's Consolidated
+Financial Statements.
+
+Sign-Off Process
+
+Based on the self-assessment result and internal and external
+audit findings, the respective management of the unit conducts
+the final Sign-Off. The final step of the internal evaluation pro-
+cess is the submission of a formal written declaration confirming
+the ICS's effectiveness (ICS Sign-Off). The Sign-Off process is
+conducted at all levels of the Group companies before E.ON SE,
+as the final step, conducts it for the Group as a whole. The Chair-
+man of the E.ON SE Management Board and the Chief Financial
+Officer perform the final Sign-Off for the E.ON Group.
+
+
+--- Page 48 ---
+
+Disclosures Regarding Takeovers
+
+The purpose of the ICS framework and the annual ICS process
+is to provide sufficient assurance to prevent error or fraud from
+resulting in material misrepresentations in the Financial State-
+ments, the Combined Group Management Report, the Half-Year
+Financial Report, and the Quarterly Statements.
+
+Corporate Audit regularly informs the E.ON SE Supervisory
+Board's Audit & Risk Committee about the ICS over financial
+reporting and about any significant deficiencies identified in
+the E.ON Group's various processes.
+
+innogy's Internal Control System and its
+Integration into E.ON's ICS Framework
+
+innogy's ICS Framework
+
+A dedicated unit within the Accounting & Reporting division,
+Corporate Internal Controls (“CIC”), was responsible for designing
+and monitoring the ICS of the previous innogy Group. CIC was
+supported in the implementation, design, and monitoring by
+ICS coordinators and the employees responsible for ICS at the
+respective units.
+
+In 2020, the testing of the effectiveness of the implemented
+controls for accounting was performed as part of the annual
+
+ICS process, which is part of innogy companies’ established ICS.
+In addition to the ICS Coordinators, ICS testers were appointed
+and/or responsible for testing the appropriateness and effective-
+ness of the internal control system of the respective units in the
+ICS scope. Essentially, ICS testers are employees from Account-
+ing, Internal Audit, and/or are requested from external auditing
+firms. Once the centrally performed risk assessment was done
+taking the external audit scope in account, an overview about
+the controls in scope of the testing is provided to the respective
+ICS tester. The testing process and assessment of the controls
+is conducted technically in SAP-GRC.
+
+Unlike for the accounting process, for Finance, HR, procurement,
+IT, Tax, Retail Billing, and Grid Billing only the ICS quality standards
+were reviewed by the persons responsible for the ICS as part
+
+of the management self-assessment. Likewise, analogous to the
+above-described EON ICS principles, innogy's ICS quality stan-
+dards generally reflect the minimum ICS standards.
+
+The results of the management self-assessment are included
+in the ICS year-end report concerning the effectiveness of the
+entire E.ON Group's internal control system and are reported to
+E.ON's Management Board.
+
+51
+
+Integration of innogy Companies into the E.ON ICS Framework
+As part of innogy's integration into the E.ON Group, CIC started
+to report to E.ON Corporate Audit from July 1, 2020, onward.
+Effective November 1, 2020, CIC's tasks relating to the design
+and monitoring of innogy companies’ ICS were taken over by
+E.ON Corporate Audit's ICS department.
+
+For the 2020 financial year, the Chief Executive Officer ("CEO")
+and Chief Financial Officer ("CFO") of the former innogy affiliates
+who directly reported to innogy SE or E.ON SE were, in the con-
+text of the 2020 Consolidated Financial Statements, for the first
+time responsible for formally acknowledging their responsibility
+as well as the effectiveness of the ICS for their respective units.
+This formal Sign-Off process was performed in the same way as
+the E.ON Sign-Off ICS process was performed and included only
+innogy companies in the ICS scope. However, the innogy ICS
+framework including the design and monitoring function was still
+applicable in 2020. Furthermore, a comprehensive ICS integra-
+tion program was initiated to integrate innogy companies in the
+ICS documentation scope into E. ON's risk catalog (ICS model).
+From the beginning of 2021, E.ON's ICS framework is applicable
+to all innogy companies in the ICS scope without exception.
+
+Disclosures Pursuant to Section 289a,
+Paragraph 1, and Section 315a, Paragraph 1,
+of the German Commercial Code and Explana-
+tory Report
+
+Composition of Share Capital
+
+The share capital totals €2,641,318,800 and consists of
+2,641,318,800 registered shares without nominal value. Each
+share of stock grants the same rights and one vote at a Share-
+holders Meeting.
+
+Restrictions on Voting Rights or the Transfer of
+Shares
+
+Shares acquired by an employee under the Company-sponsored
+employee stock purchase program are subject to a blackout
+period that begins the day ownership of such shares is trans-
+ferred to the employee and that ends on December 31 of the
+next calendar year plus one. As a rule, an employee may not sell
+such shares until the blackout period has expired. The employee
+stock purchase program was not offered in 2020.
+
+Pursuant to Section 71b of the German Stock Corporation Act
+(known by its German abbreviation, “AktG"), the Company's
+treasury shares give it no rights, including no voting rights.
+
+
+--- Page 49 ---
+
+Disclosures Regarding Takeovers
+
+Legal Provisions and Rules of the Company's
+Articles of Association Regarding the Appoint-
+ment and Dismissal of Management Board
+Members and Amendments to the Articles of
+Association
+
+Pursuant to the Company's Articles of Association, the Manage-
+ment Board consists of at least two members. The Supervisory
+Board decides on the number of members as well as on their
+appointment and dismissal.
+
+The Supervisory Board appoints members to the Management
+Board for a term not exceeding five years; reappointment is per-
+missible. If several persons are appointed as members of the
+Management Board, the Supervisory Board may appoint one of
+the members as Chairperson of the Management Board. If there
+is a vacancy on the Management Board for a required member,
+the court makes the necessary appointment upon petition by
+
+a concerned party in the event of an urgent matter. The Super-
+visory Board may revoke the appointment of a member of the
+Management Board and of the Chairperson of the Management
+Board for serious cause (for further details, see Sections 84
+and 85 of the AktG).
+
+Resolutions of the Shareholders Meeting require a majority of
+the valid votes cast unless mandatory law or the Articles of
+Association explicitly prescribe otherwise. An amendment to
+the Articles of Association requires a two-thirds majority of the
+votes cast or, in cases where at least half of the share capital is
+represented, a simple majority of the votes cast unless manda-
+tory law explicitly prescribes another type of majority.
+
+The Supervisory Board is authorized to decide by resolution on
+amendments to the Articles of Association that affect only their
+wording (Section 10, Paragraph 7, of the Articles of Association).
+Furthermore, the Supervisory Board is authorized to revise the
+wording of Section 3 of the Articles of Association upon utiliza-
+tion of authorized or conditional capital.
+
+Management Board's Power to Issue or Buy
+Back Shares
+
+Pursuant to a resolution of the Shareholders Meeting of May 28,
+2020, the Management Board is authorized, until May 27, 2025,
+to have the Company acquire treasury shares. The shares acquired
+and other treasury shares that are in possession of or to be
+attributed to the Company pursuant to Sections 71a et seq. of
+the AktG must altogether at no point account for more than
+
+10 percent of the Company's share capital.
+
+52
+
+At the Management Board's discretion, the acquisition may be
+conducted:
+
+¢ through a stock exchange
+
+¢ by means of a public offer directed at all shareholders or a
+public solicitation to submit offers
+
+¢ by means of a public offer or a public solicitation to submit
+offers for the exchange of liquid shares that are admitted to
+trading on an organized market, within the meaning of the
+German Securities Purchase and Takeover Law, for Company
+shares
+
+¢ bythe use of derivatives (put or call options or a combination
+of both).
+
+These authorizations may be utilized on one or several occasions,
+in whole or in partial amounts, in pursuit of one or more objec-
+tives by the Company and also by its affiliated companies or by
+third parties for the Company's account or one of its affiliates’
+account.
+
+With regard to treasury shares that will be, or have been, acquired
+based on the aforementioned authorization and/or prior autho-
+rizations by the Shareholders Meeting, the Management Board
+is authorized, subject to the Supervisory Board's consent and
+excluding shareholder subscription rights, to use these shares
+—in addition to a disposal through a stock exchange or an offer
+granting a subscription right to all shareholders—as follows:
+
+* tobe sold and transferred against cash consideration
+* to be sold and transferred against contributions in kind
+
+¢ to be used in order to satisfy the rights of creditors of bonds
+with conversion or option rights or, respectively, conversion
+obligations issued by the Company or its Group companies
+
+¢ to be offered, with or without consideration, for purchase
+and transferred to individuals who are or were employed by
+the Company or one of its affiliates as well as to board mem-
+bers of affiliates of the Company
+
+¢ to be used for the purpose of a scrip dividend where share-
+holders may choose to contribute their dividend entitlement
+to the Company in the form of a contribution in kind in
+exchange for new shares.
+
+
+--- Page 50 ---
+
+In addition, the Management Board is authorized to cancel trea-
+sury shares, without such cancellation or its implementation
+requiring an additional resolution by the Shareholders Meeting.
+
+These authorizations may be utilized on one or several occa-
+sions, in whole or in partial amounts, separately or collectively,
+including with respect to treasury shares acquired by affiliated
+companies or companies majority-owned by the Company or by
+third parties for their account or the Company's account.
+
+In each case, the Management Board will inform the Share-
+holders Meeting about the utilization of the aforementioned
+authorization, in particular about the reasons for and the purpose
+of the acquisition of treasury shares, the number of treasury
+shares acquired, the amount of the registered share capital
+attributable to them, the portion of the registered share capital
+represented by them, and their equivalent value.
+
+By shareholder resolution adopted at the Annual Shareholders
+Meeting of May 28, 2020, the Management Board was autho-
+rized, subject to the Supervisory Board's approval, to increase,
+until May 27, 2025, the Company's share capital by a total of
+up to €528 million through one or more issuances of new regis-
+tered no-par-value shares against contributions in cash and/or
+in kind (authorized capital pursuant to Sections 202 et seq. of the
+AktG; “Authorized Capital 2020"). Subject to the Supervisory
+Board's approval, the Management Board is authorized to exclude
+shareholders’ subscription rights.
+
+At the Annual Shareholders Meeting of May 28, 2020, share-
+holders approved a conditional increase of the Company's share
+capital (with the option to exclude shareholders’ subscription
+rights) up to the amount of €264 million (“Conditional Capital
+2020"). Note 20 to the Consolidated Financial Statements con-
+tains more information about Conditional Capital 2020.
+
+Significant Agreements to Which the Company
+Is a Party That Take Effect on a Change of Control
+of the Company Following a Takeover Bid
+
+The underlying contracts of debt issued since 2007 contain
+change-of-control clauses that give the creditor the right of
+cancellation. This applies, inter alia, to bonds issued by E.ON SE
+and E.ON International Finance B.V. and guaranteed by E.ON SE,
+promissory notes issued by E.ON SE, and other instruments
+such as credit contracts. Granting change-of-control rights to
+creditors is considered good corporate governance and has
+
+53
+
+become standard market practice. More information about
+financial liabilities is contained in the section of the Combined
+Group Management Report entitled Financial Situation and in
+Note 27 to the Consolidated Financial Statements.
+
+Settlement Agreements between the Company
+and Management Board Members or Employees
+in the Case of a Change-of-Control Event
+
+In the event of a premature loss of a Management Board posi-
+tion due to a change-of-control event, the service agreements
+of Management Board members entitle them to severance and
+settlement payments (see the detailed presentation in the
+Compensation Report).
+
+To the extent that the Company has agreed to settlement pay-
+ments for Management Board members in the case of a change
+of control, the purpose of such agreements is to preserve the
+independence of Management Board members.
+
+Achange-of-control event would also result in the early payout
+of virtual shares under the E.ON Share Matching Plan and the
+
+E.ON Performance Plan. The vesting period of the last tranche of
+the E.ON Share Matching Plan ends in March 2021. Afterward,
+therefore there can only be early payouts under the E.ON Perfor-
+mance Plan, but no longer under the E.ON Share Matching Plan.
+
+Other Disclosure Relevant to Takeovers
+
+The Company has been notified about the following direct or
+indirect interests in its share capital that exceed 10 percent of
+the voting rights:
+
+* notification on December 10, 2020, by RWE Aktiengesell-
+schaft for 15 percent of the voting rights
+
+Stock with special rights granting power of control has not
+been issued. In the case of stock given by the Company to
+employees, employees exercise their rights of control directly
+and in accordance with legal provisions and the provisions of
+the Articles of Association, just like other shareholders.

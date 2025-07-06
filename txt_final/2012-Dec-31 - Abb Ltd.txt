@@ -1,0 +1,2887 @@
+
+
+--- Page 1 ---
+
+Chairman and CEO letter
+
+Dear shareholders,
+
+ABB performed well in 2012, demonstrating once again its agility and resilience in a difficult
+environment. The economic slowdown of recent years has given us opportunities to strengthen
+ABB in various ways, and we can confidently say that ABB has become one of the best
+companies in its sector.
+
+ABB’s power and automation businesses outperformed those of most competitors in
+2012 in terms of organic revenue growth and profitability (earnings before interest, taxes,
+depreciation and amortization, or EBITDA). Also, ABB has among the highest revenue and
+profitability levels per employee compared with peers.
+
+“One reason for ABB’s strength is our global reach matched
+with well-developed local capabilities”
+
+One reason for ABB’s strength is our global reach matched with well-developed local
+capabilities. We have built a strong presence in North America through acquisitions in the
+last three years, complementing our leading position in Europe, the Middle East and Asia. We
+are now a leader in most of the largest or fastest-growing markets on every continent. The
+positions that we have in these markets are also deep-rooted thanks to our local R&D and
+
+ior ‘ product development capabilities, which enable us to match and exceed local competitors
+— when it comes to speed of product development and deployment.
+y We therefore have a presence and insights into different markets that few can match, and
+irs we can use this to achieve consistent growth and results throughout the economic cycle.
+This helps to explain ABB’s resilience. We also have a truly international leadership team which
+Video: Joe Hogan comments gives us a real global perspective on the opportunities available.
+
+on the 2012 results
+To view the clip, install QR code
+reader on your mobile device,
+scan the code and see more.
+
+04 Chairman and CEO letter | ABB Annual Report 2012
+
+
+--- Page 2 ---
+
+Besides investing in acquisitions, we have committed an additional $1.9 billion since 2007
+to building or expanding factories, strengthening our sales teams in growth markets, and
+boosting R&D. Our outstanding success at managing costs, which yielded another $1.1 billion
+in annual savings in 2012, has given us the flexibility to make these investments and continue
+building ABB for the future.
+
+Investments in R&D have risen from 3 percent of revenues in 2007 to 3.7 percent in 2012,
+lifting annual spending by 68 percent over this period to almost $1.5 billion. This reflects
+the fact that technology remains one of our most significant competitive advantages, and it is
+therefore essential to our success that we stay at the forefront of technological developments.
+
+“Technology remains one of our most significant competitive advantages”
+
+Technological innovation
+
+The investment is paying off as we achieve genuine technological breakthroughs and bring
+advanced products to the market. We are pleased that 2012 was a particularly rich year
+
+for technological achievements. After years of research, our teams were able to report the
+development of the first hybrid high-voltage direct current (HVDC) circuit breaker, a break-
+through that removes a major hurdle in the evolution of interconnected grids based on direct
+current and that could speed up the deployment of renewable energy on a large scale.
+
+It is arguably the most significant scientific achievement in the field since ABB developed
+HVDC transmission 60 years ago, an innovation that created entirely new possibilities for
+transporting electricity over long distances.
+
+Other technological achievements in 2012 included the development and testing of an
+ultrahigh voltage direct current converter transformer, the commercialization of a new type of
+electric motor that is highly efficient, an order for the first-ever direct current power grid on
+board a ship, and the construction of Europe’s largest direct current data center.
+
+These successes are important to ABB because technological leadership is a pillar of our
+goal to stay competitive and to push technology that drives disruptive market changes,
+which are priorities of our strategic plan for the years 2011-2015. This leadership and expertise
+is highly valued by our customers. They consistently recognize and reward our industry and
+application knowledge, our engineering and design capability, and the quality of our products
+and systems.
+
+Priorities for 2013
+
+In 2012, we achieved local-currency growth of 7 percent in revenues and 4 percent in orders.
+Excluding Thomas & Betts, revenues rose 3 percent and orders were steady (in local
+currencies). Our results for 2012 reflected the difficult environment and the measures taken
+in the fourth quarter to refocus the Power Systems division, and illustrate why driving
+competitiveness remains our top goal for 2013.
+
+Deepening the integration of recent acquisitions will be one priority for this year. We
+have spent more than $10 billion on acquisitions since 2010 as part of our strategy to grow the
+business profitably and create value for shareholders. The value is being realized through
+a combination of cost and growth synergies, which in turn depend on the successful integration
+of the new businesses with those of ABB.
+
+With Thomas & Betts, the US low-voltage business we acquired last year, we are intensely
+pursuing opportunities to use T&B’s products in our ABB businesses and to sell them
+through our global distribution channels. We have some promising pilot projects and will be
+exploring how to get the most out of the opportunities that have been identified.
+
+ABB Annual Report 2012 | Chairman and CEO letter 05
+
+
+--- Page 3 ---
+
+We will also be looking at ways to scale up the new businesses that we have successfully
+developed. We have entered several new markets in recent years, such as electric vehicle
+infrastructure, energy storage, energy consulting and data center electrification, and we will
+make sure that the ones with the greatest potential have the resources and business
+models that will enable them to grow. A related priority will be to effectively commercialize
+the advances made in our R&D programs.
+
+We will keep customer satisfaction at the top of our priority list by continuing to address
+the areas they want us to improve, mainly responsiveness and delivery time. Importantly,
+we are improving in the eyes of our customers: Our Net Promoter Score (NPS) measure of
+customer satisfaction rose by more than 30 percent in 2012 compared with 2011. The
+score remains lower than we would like it to be but we are pleased at the progress we are
+making.
+
+As we strive to increase the satisfaction of our customers, the Executive Committee has
+introduced a systematic approach to addressing the top issues that they have raised, with
+EC members personally supervising the projects set up to address them. The project teams
+are responsible for determining the root causes of the issues and the measures that
+need to be taken, and will establish an implementation plan to ensure steady improvement.
+
+We are confident that we have the right projects in place with the right leaders to
+ensure that we achieve the Group targets that we have communicated.
+
+Shaping the future
+Looking ahead, we are confident that ABB is well placed to benefit from several long-term
+trends, and even to shape them through technological innovation.
+
+The major trends driving demand include the increasing use of electricity in areas such
+as data centers and electric vehicles; the rapid economic growth and urbanization in emerging
+markets; the need to use our natural resources more efficiently; and the integration of new
+sources of energy - such as wind and solar — into existing grids.
+
+Balancing electricity supply and demand at any time is becoming harder as renewable
+energy becomes more widespread, given that wind and solar power are highly intermittent as
+well as distributed across a very large number of sources. Ensuring frequency and voltage
+stability of the grid is therefore an increasingly complex challenge.
+
+In Europe, power networks will have to be better interconnected if the region is to make use
+of its natural power sources. Wind from the North Sea or the Atlantic, sun from the South,
+hydro facilities in Norway or the Alps, all need to be connected with energy-intensive industrial
+regions. Transmission grids need to be upgraded but they also need to become more flexible
+and intelligent. We expect HVDC to be deployed more widely as it is well suited to many of
+the emerging trends, and the hybrid HVDC breaker should pave the way for the development
+of an interconnected grid based on direct current.
+
+“ABB is one of the few global companies
+operating in the attractive sectors of power and automation”
+
+Manufacturing is also changing. Rising wages in emerging economies, higher transport
+and energy costs, and increasing levels of automation are driving manufacturers to look
+for ways to stay competitive other than by offshoring activities to markets with lower labor
+costs.
+
+06 Chairman and CEO letter | ABB Annual Report 2012
+
+
+--- Page 4 ---
+
+Among these, the ability to respond rapidly to changing customer needs stands out.
+Quick customer response, the need for mass customization, short lead times and low
+inventories favor the location of manufacturing facilities close to the customer, and recent
+advances in automation enable this change. Modern factory automation systems are
+flexible and allow manufacturers to respond quickly to changes in demand without sacrificing
+quality or consistency, with fewer, more skilled workers. Further, integration of automation
+systems and fast communication mean that supply chains can be kept lean despite the variety
+of products.
+
+These trends illustrate why power and automation continue to be dynamic segments
+with compelling growth prospects. ABB is one of the few global companies operating in these
+two attractive sectors.
+
+Unique strengths
+
+We remain confident because ABB has many strengths. ABB has been resilient in the recent
+slowdown thanks to the way our activities are balanced across geographies and across
+
+the business cycle. We have a unique and strong presence in most of the markets in which we
+operate thanks to the deep roots that we have established in leading mature and emerging
+markets alike.
+
+“Our strong balance sheet gives us ample flexibility’
+
+We have also been resourceful, penetrating geographic markets as diverse as the US
+and Indonesia and new industrial ones such as data centers, developing attractive business
+models such as our new approach to service, and continuing to drive sustainable savings
+across the business through greater efficiency. We have invested extensively in technology,
+sharpening our technological leadership in power and automation.
+
+What’s more, our strong balance sheet gives us ample flexibility to invest where we see
+an opportunity to grow the business profitably while maintaining our single-A credit rating.
+Thanks to the company’s excellent cash generation and prospects, the Board has once again
+proposed an increase in the dividend to shareholders.
+
+Most importantly ABB has become a company in which integrity and sustainability have
+evolved from top-down activities into ways of thinking that are becoming embedded in
+the way we do business. Our people have a passion for technology, a pragmatic common
+sense and the cultural diversity that helps us to find and exploit new opportunities.
+
+We are confident that all these factors make ABB a great company to work for, do
+business with and invest in, and are the promise of a great future.
+
+TEN wr e~ | am
+
+Hubertus von Griinberg Joe Hogan
+Chairman CEO
+
+March 14, 2013
+
+ABB Annual Report 2012 | Chairman and CEO letter 07
+
+
+--- Page 5 ---
+
+Highlights
+
+Resilient performance through the cycle:
+In local currencies, orders and revenues
+increased despite difficult business
+climate
+
+Actions under way to secure higher and
+more consistent earnings in the power
+businesses
+
+More profitable service revenues grew
+faster than total revenues, in line with our
+strategic initiative to increase the total
+share of service business
+
+Customer satisfaction increased
+by 32 percent, as measured by the
+Net Promoter Score survey
+
+Successful execution on costs again
+supported profitability in line with targets
+
+Investment in research and development
+rose to $1.5 billion, or 3.7 percent of
+revenues
+
+One of the strongest balance sheets
+
+in the sector on robust cash generation;
+Board proposes 5 percent increase in
+dividend
+
+Further strengthened our automation
+portfolio: Thomas & Betts, acquired in
+May, contributed about $280 million in
+operational EBITDA; integration on track
+
+Continued technology leadership,
+including circuit breaker for high voltage
+direct current and synchronous reluc-
+tance motors for high-efficiency industrial
+applications
+
+Total ABB Group ($ millions unless otherwise indicated)
+
+Orders E
+
+Revenues |
+
+Earnings before interest and taxes (EBIT)
+
+ree eee nee eS EET
+
+ee aN mn
+as % of operational revenues
+
+Net income (attributable to ABB)
+
+Basic earnings per share ($)
+Dividend per share in CHF (proposed)
+Cash flow from operating activities
+Free cash flow”
+
+as % of net income
+Cash return on invested capital
+
+Number of employees
+
+146,100 133,600
+
+© Please refer to Note 23 to ABB's Consolidated Financial Statements for a definition of operational EBITDA.
+
+# Please refer to page 154 for a definition of free cash flow and cash return on invested capital.
+
+08 Highlights | ABB Annual Report 2012
+
+
+--- Page 6 ---
+
+Revenues 2012 by division (unconsolidated) R&D expenses (% of total revenue)
+4.0
+
+@ Power Products, 25%
+
+Power Systems, 18%
+™ Discrete Automation 3.0
+and Motion, 22%
+© Low Voltage Products, 16%
+Process Automation, 19% 2. Target R&D
+spend 4%
+by 2015
+A
+oO.
+
+2007 2008 2009 2010 2011 2012 2015
+
+o
+
+o
+
+o
+
+Service (% of total revenue) Orders 2012 by region
+
+™@ Europe, 34%
+
+Impact of @ Americas, 30%
+service B Asia, 26%
+strategy
+™ Middle East and Africa, 10%
+20-25%
+ambition
+2007 +2008 2009 2010 2011* 2012** 2015
+*excl. Baldor “excl. Thomas & Betts
+Emerging vs mature market orders 2012 Dividend payout (CHF per share)
+
+0.8
+
+@ Emerging markets, 46%
+
+™@ Mature markets, 54%
+0.6
+
+2005 2006 2007 2008 2009 2010 2011 2012*
+(*proposed)
+
+0.
+
+B
+
+0.
+
+io
+
+ABB Annual Report 2012 | Highlights 09
+
+
+--- Page 7 ---
+
+As of March 1, 2013
+
+Executive Committee
+
+From left to right
+
+Ulrich Spiesshofer Head of Discrete Automation and Motion division
+Greg Scheu Head of Marketing and Customer Solutions
+
+Bernhard Jucker Head of Power Products division
+
+Prith Banerjee Chief Technology Officer
+
+Frank Duggan Head of Global Markets
+
+Eric Elzvik Chief Financial Officer
+
+10 ABB Group Executive Committee | ABB Annual Report 2012
+
+Joe Hogan Chief Executive Officer
+
+Tarak Mehta Head of Low Voltage Products division
+
+Brice Koch Head of Power Systems division
+
+Diane de Saint Victor General Counsel and Head of Legal and Integrity
+Veli-Matti Reinikkala Head of Process Automation division
+
+Gary Steel Head of Human Resources
+
+Eric Elzvik was appointed Chief Financial Officer with effect from
+February 1, 2013, to succeed Michel Demaré, who is leaving ABB.
+
+‘EWS:
+
+
+--- Page 8 ---
+
+As of March 1, 2013
+
+Regional and country managers
+
+North America Enrique Santacana
+Canada Daniel Assandri
+
+Mexico Daniel Galicia
+
+United States (including
+
+US Virgin Islands) Enrique Santacana
+
+South America Sergio Gomes
+Argentina Christian Newton
+Aruba Ramon Monras
+Barbados Guillermo Rodriguez
+Brazil Sergio Gomes
+
+Chile Jose Paiva
+
+Colombia Ramon Monras
+Ecuador Ramon Monras
+
+El Salvador Guillermo Rodriguez
+Guatemala Guillermo Rodriguez
+Panama Guillermo Rodriguez
+Peru Adolfo Samaniego
+Uruguay Christian Newton
+Venezuela Ramon Monras
+
+Mediterranean Barbara Frei
+Algeria Khaled Torbey
+Croatia Steffen Drausnigg
+France Pierre St-Arnaud
+Greece Apostolos Petropoulos
+israel Ronen Aharon
+
+italy Barbara Frei
+
+Morocco Christian Bogers
+Portugal Miguel Pernes
+Serbia Aleksandar Cosic
+Spain Carlos Marcos
+
+Tunisia Christian Bogers
+Turkey Sami Sevinc
+
+Northern Europe Trevor Gregory
+Denmark Claus Madsen
+
+Estonia Bo Henriksson
+
+Finland Tauno Heinola
+
+Ireland Tom O'Reilly
+
+Kazakhstan Altay Toyganbaev
+Latvia Bo Henriksson
+
+Lithuania Bo Henriksson
+
+Norway Steffen Waal
+
+Russian Federation Anatoliy Popov
+Sweden Johan Soderstrom
+
+United Kingdom Trevor Gregory
+
+Central Europe Peter Terwiesch
+Austria Franz Chalupecky
+Belgium Alfons Goos
+Bulgaria Peter Simon
+
+Czech Republic Hannu Kasi
+Germany Peter Terwiesch
+Hungary Tanja Vainio
+Luxembourg Alfons Goos
+Netherlands Alfons Goos
+Poland Miroslaw Gryszka
+Romania Peter Simon
+Slovakia Marcel van der Hoek
+Slovenia Boris Bozic
+Switzerland Remo Luetolf
+Ukraine Dmytro Zhdanov
+
+North Asia Claudio Facchin
+China Claudio Facchin
+Japan Tony Zeitoun
+
+Korea Yun-Sok Han
+
+Taiwan Kayee Ding
+
+© New country manager as of March 1, 2013
+
+South Asia Haider Rashid
+Australia Axel Kuhr
+
+Indonesia Hendrik Weiler
+Malaysia Stephen Pearce
+Myanmar Chaiyot Piyawannarat
+New Caledonia Axel Kuhr
+
+New Zealand Grant Gillard
+Papua New Guinea Axel Kuhr
+Philippines Min-Kyu Choi
+Singapore Haider Rashid
+Thailand Chaiyot Piyawannarat
+Vietnam Jian Peng Fu
+
+India, Middle East and Africa Frank Duggan
+Angola Antonio D’Oliveira
+Bahrain Mahmoud Shaban
+Bangladesh Joy-Rajarshi Banerjee
+Botswana Gift Nkwe
+
+Central Africa Naji Jreijiri
+Congo Thryphon Mungono.
+Céte d'Ivoire Magloire Elogne
+Cameroon Pierre Njigui
+
+Eastern Africa Jose da Matta
+Egypt Naji Jreijiri
+
+Ethiopia Nikola Stojanovic
+Gambia Pierre Njigui
+
+Ghana Hesham Tehemer
+
+india Bazmi Husain
+
+Jordan Maroun Zakhour
+
+Kenya Jose daMatta
+
+Kuwait Richard Ledgard
+Lebanon Maroun Zakhour
+Mauritius Ajay Vij
+
+Mozambique Paulo David
+Namibia Hagen Seiler
+
+Nigeria Naji Jreijiri®?
+
+Oman Saeed Fahim
+
+Pakistan Arfeen Khalid
+
+Qatar Juha Alopaeus
+
+Saudi Arabia Mahmoud Shaban
+Senegal Issa Guisse
+
+Southern Africa Leon Viljoen
+Tanzania Michael Otonya
+Uganda Norah Kipwola
+
+United Arab Emirates Carlos Pone
+Zambia Russell Harawa
+Zimbabwe Charles Shamu
+
+ABB Annual Report 2012 | Regional and country managers 11
+
+
+--- Page 9 ---
+
+12 Corporate governance report | ABB Annual Report 2012
+
+
+--- Page 10 ---
+
+Corporate governance report
+
+Contents
+
+1 4 Principles
+
+1 5 Group structure and shareholders
+
+1 1 Capital structure
+
+19 Shareholders’ participation
+
+20 Board of Directors
+
+23 Executive Committee
+
+25 Business relationships
+
+25 Employee participation programs
+
+25 Duty to make a public tender offer
+26 Auditors
+
+26 Information policy
+
+at Further information on corporate governance
+
+ABB Annual Report 2012| Corporate governance report 13
+
+
+--- Page 11 ---
+
+1. Principles
+
+1.1 General principles
+
+ABB is committed to the highest international standards
+
+of corporate governance, and supports the general principles
+
+as set forth in the Swiss Code of Best Practice for Corporate
+
+Governance, as well as those of the capital markets where its
+
+shares are listed and traded.
+
+In addition to the provisions of the Swiss Code of Obliga-
+tions, ABB’s key principles and rules on corporate gover-
+nance are laid down in ABB’s Articles of Incorporation, the
+ABB Ltd Board Regulations and Corporate Governance
+Guidelines (which includes the regulations of ABB’s board
+committees and the ABB Ltd Related Party Transaction
+Policy), and the ABB Code of Conduct and the Addendum
+to the ABB Code of Conduct for Members of the Board
+of Directors and the Executive Committee. It is the duty of
+ABB's Board of Directors (the Board) to review and amend
+or propose amendments to those documents from time to
+time to reflect the most recent developments and practices,
+as well as to ensure compliance with applicable laws and
+regulations.
+
+This section of the Annual Report is based on the Directive
+on Information Relating to Corporate Governance published
+by the SIX Swiss Exchange. Where an item listed in the direc-
+tive is not addressed in this report, it is either inapplicable
+to or immaterial for ABB.
+
+According to the New York Stock Exchange’s corporate
+governance standards (the Standards), ABB is required to
+disclose significant ways in which its corporate governance
+practices differ from the Standards. ABB has reviewed
+the Standards and concluded that its corporate governance
+practices are generally consistent with the Standards, with
+the following significant exceptions:
+
+- Swiss law requires that the external auditors be elected
+by the shareholders at the Annual General Meeting rather
+than by the finance and audit committee or the board of
+directors.
+
+- The Standards require that all equity compensation plans
+and material revisions thereto be approved by the share-
+holders. Consistent with Swiss law such matters are
+decided by our Board. However, the shareholders decide
+about the creation of new share capital that can be used
+in connection with equity compensation plans.
+
+14 Corporate governance report | ABB Annual Report 2012
+
+1.2 Duties of directors and officers
+
+The directors and officers of a Swiss corporation are bound,
+as specified in the Swiss Code of Obligations, to perform
+their duties with all due care, to safeguard the interests of the
+corporation in good faith and to extend equal treatment to
+shareholders in like circumstances.
+
+The Swiss Code of Obligations does not specify what
+standard of due care is required of the directors of a corporate
+board. However, it is generally held by Swiss legal scholars
+and jurisprudence that the directors must have the requisite
+capability and skill to fulfill their function, and must devote
+the necessary time to the discharge of their duties. Moreover,
+the directors must exercise all due care that a prudent and
+diligent director would have taken in like circumstances. Finally,
+the directors are required to take actions in the best interests
+of the corporation and may not take any actions that may be
+harmful to the corporation.
+
+Exercise of powers
+
+Directors, as well as other persons authorized to act on
+behalf of a Swiss corporation, may perform all legal acts on
+behalf of the corporation which the business purpose, as
+
+set forth in the articles of incorporation of the corporation, may
+entail. Pursuant to court practice, such directors and offi-
+cers can take any action that is not explicitly excluded by the
+business purpose of the corporation. In so doing, however,
+the directors and officers must still pursue the duty of due care
+and the duty of loyalty described above and must extend
+equal treatment to the corporation’s shareholders in like cir-
+cumstances. ABB's Articles of Incorporation do not contain
+provisions concerning a director’s power, in the absence of
+an independent quorum, to vote on the compensation to
+themselves or any members of their body.
+
+Conflicts of interest
+
+Swiss law does not have a general provision on conflicts
+
+of interest and our Articles of Incorporation do not limit our
+directors’ power to vote on a proposal, arrangement or
+contract in which the director or officer is materially interested.
+However, the Swiss Code of Obligations requires directors
+and officers to safeguard the interests of the corporation and,
+in this connection, imposes a duty of care and loyalty on
+directors and officers. This rule is generally understood and
+so recommended by the Swiss Code of Best Practice for
+Corporate Governance as disqualifying directors and officers
+from participating in decisions, other than in the shareholders’
+meeting, that directly affect them.
+
+
+--- Page 12 ---
+
+Confidentiality
+
+Confidential information obtained by directors and officers
+of a Swiss corporation acting in such capacity must be kept
+confidential during and after their term of office.
+
+Sanctions
+
+If directors and officers transact business on behalf of the
+corporation with bona fide third parties in violation of their
+statutory duties, the transaction is nevertheless valid, as long
+as it is not explicitly excluded by the corporation’s business
+purpose as set forth in its articles of incorporation. Directors
+and officers acting in violation of their statutory duties —
+whether transacting business with bona fide third parties or
+performing any other acts on behalf of the company — may,
+however, become liable to the corporation, its shareholders
+and its creditors for damages. The liability is joint and
+several, but the courts may apportion the liability among the
+directors and officers in accordance with their degree of
+culpability.
+
+In addition, Swiss law contains a provision under which
+payments made to a shareholder or a director or any
+person(s) associated therewith, other than at arm’s length,
+must be repaid to the company if the shareholder or
+director or any person associated therewith was acting in
+bad faith.
+
+If the board of directors has lawfully delegated the power
+to carry out day-to-day management to a different corporate
+
+body, e.g., the executive committee, it is not liable for the acts
+
+of the members of that different corporate body. Instead,
+
+the directors can be held liable only for their failure to properly
+
+select, instruct and supervise the members of that different
+corporate body.
+
+2.Group structure and
+shareholders
+
+2.1 Group structure
+
+ABB Lid, Switzerland, is the ultimate parent company
+
+of the ABB Group, which at December 31, 2012, principally
+comprised 380 consolidated operating and holding subsid-
+iaries worldwide. ABB Ltd's shares are listed on the SIX Swiss
+Exchange, the NASDAQ OMX Stockholm Exchange and the
+New York Stock Exchange (where its shares are traded in the
+form of American depositary shares (ADS) - each ADS repre-
+senting one registered ABB share). On December 31, 2012,
+ABB Ltd had a market capitalization of CHF 43 billion.
+
+The only consolidated subsidiary in the ABB Group with
+listed shares is ABB Limited, Bangalore, India, which is listed
+on the Bombay Stock Exchange and the National Stock
+Exchange of India. On December 31, 2012, ABB Ltd, Switzer-
+land, directly or indirectly owned 75 percent of ABB Limited,
+Bangalore, India, which at that time had a market capitaliza-
+tion of INR 150 billion.
+
+Stock exchange listings
+
+Stock exchange Security Ticker symbol ISIN code
+
+SIX Swiss Exchange ‘ABB Ltd, Zurich, share ABBN (CHO012221716
+
+NASDAQ OMX Stockholm Exchange ====~=S=~SCABBLLtd, Zurich, share. SS*~=<C*s«<C@W@SSSSSS™S™~™:™~™:CH DAIS
+New York Stock Exchange ‘ABB Ltd, Zurich, ADS ABB US0003752047
+
+Bombay Stock Exchange ‘ABB Limited, Bangalore, share ‘ABB INE117A01022
+
+National Stock Exchange of India ‘ABB Limited, Bangalore, share ABB INE117A01022
+
+* also called Scrip ID
+
+All data as of December 31, 2012.
+
+ABB Annual Report 2012| Corporate governance report 15
+
+
+--- Page 13 ---
+
+The following table sets forth, as of December 31, 2012, the name, country of incorporation, ownership interest and share
+
+capital of the significant direct and indirect subsidiaries of ABB Ltd, Switzerland:
+
+ABB Ltd’s significant subsidiaries
+
+ABB Share capital
+Company name/location Country interest % in thousands Currency
+ABB S.A., Buenos Aires ‘Argentina 400.00 56,72 ARS
+‘ABB Australia Pty Limited, Sydney Australia 100.00 422,436 AUD
+ABBAG, Viena Austria 100.00 1,000 EUR
+ABB NV., Zaventem Belgium 100.00 13,290 EUR
+ABB Lida., Osasco Brazil 400.00 94,396 BRL
+ABB Bulgaria EOOD, Sofia Bulgaria 100.00 3,010 BGN
+ABB Inc., St. Laurent, Quebec Canada 100.00 255,797 CAD
+‘ABB (China) Ltd., Beijing China 100.00 310,000 USD
+‘Asea Brown Boveri Ltda., Bogota Colombia 100.00 486,440 cop
+ABB Ltd., Zagreb Croatia 100.00 2,730 HRK
+ABB s.r.0., Prague Czech Republic 100.00 400,000 CZK
+ABB A/S, Skovlunde Denmark 100.00 400,000 DKK
+ABB Ecuador $.A., Quito Ecuador 96.87 325 USD
+‘Asea Brown Boveri S.A.E., Cairo Egypt 400.00 116,000 USD
+ABB AS, Jiiri Estonia 400.00 1,663 EUR
+ABB Oy, Helsinki Finland 100.00 10,003 EUR
+ABB S.A., Les Ulis France 100.00 38,921 EUR
+ABB AG, Mannheim Germany 100.00 467,500 EUR
+‘ABB Automation GmbH, Mannheim Germany 400.00 45,000 EUR
+ABB Automation Products GmbH, Ladenburg Germany 400.00 40,620
+‘ABB Betelligungs- und Verwaltungsges. mbH, Mannheim ——~=~=SSS*~*~«Grmany”—= joo00 61,355
+ABB Stotz-Kontakt GmbH, Heidelberg Germany 400.00 7,500
+Busch-Jaeger Elektro GmbH, Mannheim/Lidenscheid Germany 400.00 4,535
+‘Asea Brown Boveri S.A., Metamorphosis Attica Greece 100.00 4,721
+‘ABB (Hong Kong) Ltd., Hong Kong Hong Kong 100.00 20,000
+‘ABB Engineering Trading and Service Ltd., Budapest Hungary 100.00 444,090
+‘ABB Limited, Bangalore India 75.00 423,817
+‘ABB Ltd, Dublin Ireland 100.00 635
+ABB Technologies Ltd., Tirat Carmel Israel 99.99 420
+ABB S.p.A., Milan Italy 100.00 407,000
+ABB K.K., Tokyo Japan 100.00 1,000,000
+‘ABB Ltd., Seoul Korea, Republic of 100.00 18,670,000
+‘ABB Holdings Sdn. Bhd., Subang Jaya Malaysia 4,490
+‘Asea Brown Boveri S.A. de C.V., San Luis Potosi S.L.P Mexico 667,686
+ABB B\., Rotterdam Netherlands 9,200.
+Fae er Br iene mn eee cnn EO cc
+‘ABB Holdings B.V., Amsterdam Netherlands 119
+Pesca Pte NO cc
+Pa see oc sagen
+‘ABB Holding AS, Billingstad Norway 240,000
+aa sii enna
+‘ABB, Inc., Paranaque, Metro Manila Philippines . 423,180
+Fee eM on EES NRE cd Coc
+‘ABB (Asea Brown Boveri), S.A., Paco de Arcos Portugal 4at7
+‘Asea Brown Boveriltd, Moscow Russian Federation 941
+
+16 Corporate governance report | ABB Annual Report 2012
+
+
+
+--- Page 14 ---
+
+ABB Ltd’s significant subsidiaries, continued
+
+c
+ABB Contracting Company Lid., Riyadh
+ABB Holdings Pte. Ltd., Singapore
+ABB Holdings (Pty) Lid., Longmeadow
+Asea Brown Boveri S.A., Madrid
+
+ABB AB, Vasterds
+
+ABB Norden Holding AB, Vasteras
+
+Hoc:
+
+Share capital
+
+Country thousands
+Spe 000
+Sian er
+eat oe yee
+
+Spain 33,318
+ee cece “ype aae
+ee ern Sonne
+
+ABB Schweiz AG, Baden
+ABB Technology Ltd. Zurich
+ABB LIMITED, Bangkok
+
+ayi A.S., Istanbul
+
+ABB Industries (CLC), Dubai —
+
+Switzerland 55,000 CHF
+See net EEO ae at
+“Thailand —-100.00 1(034,000 THB
+
+Turkey 13,410 TRY
+
+ie ee gga
+
+United Arab Emirates. —~—~—-49.00 “5,000 AED
+
+ABB Limited, Warrington
+
+ABB Holdings inc., Cary, NC. ees srr
+
+ABB Inc., Cary, NC
+
+Thomas & Betts Corporation, Kenoxvilio, T™N
+
+ABB's operational group structure is described in the “Finan-
+cial review” section of this Annual Report under “Operating
+and financial review and prospects — Organizational structure”.
+
+2.2 Significant shareholders
+
+Investor AB, Sweden, held 182,030,142 ABB shares as of
+December 31, 2012. This holding represents approximately
+7.9 percent of ABB's total share capital and voting rights
+as registered in the Commercial Register on that date. The
+number of shares held by Investor AB does not include
+shares held by Mr. Jacob Wallenberg, the chairman of Investor
+AB, in his individual capacity.
+
+BlackRock Inc., New York, U.S., disclosed that as per
+July 25, 2011, it, together with its direct and indirect subsidiar-
+ies, held 69,702,100 ABB shares corresponding to 3.0 per-
+cent of ABB's total share capital and voting rights as registered
+in the Commercial Register on December 31, 2012. For
+a full review of the disclosure report pursuant to which Black-
+Rock reported its ABB shareholdings, please refer to the
+search facility of the SIX Swiss Exchange Disclosure Office
+at http://www.six-swiss-exchange.com/shares/companies/
+major_shareholders_en.htm!?fromDate=19980101&issuer
+=10881
+
+United Kingdom 60,000 GBP.
+United States 100.00 a) USD
+“United States «100.00 1 Usb
+United States 400.00 0 USD
+“United States «100.00. 0 Usb
+Ne BEES on OR cscs Bese es
+
+To the best of ABB’s knowledge, no other shareholder
+held 3 percent or more of ABB’s total share capital and
+voting rights as registered in the Commercial Register on
+December 31, 2012.
+
+Under ABB’s Articles of Incorporation, each registered
+share represents one vote. Significant shareholders do not
+have different voting rights.
+
+To our knowledge, we are not directly or indirectly owned
+or controlled by any government or by any other corporation
+or person.
+
+3. Capital structure
+
+8.1 Ordinary share capital
+
+On December 31, 2012, ABB’s ordinary share capital (in-
+cluding treasury shares) as registered with the Commercial
+Register amounted to CHF 2,384,185,561.92, divided into
+2,314,743,264 fully paid registered shares with a par value of
+CHF 1.03 per share.
+
+ABB Annual Report 2012| Corporate governance report 17
+
+
+--- Page 15 ---
+
+3.2 Changes to the share capital
+
+In 2011, ABB issued shares out of its contingent capital
+
+in connection with ABB’s Management Incentive Plan (MIP).
+For further details about the MIP see note 18 to ABB’s
+consolidated financial statements contained in the Financial
+review section of this Annual Report. The resulting share
+capital of CHF 2,384,185,561.92, divided into 2,314,743,264
+fully paid registered shares, was reflected in ABB’s Articles
+of Incorporation dated December 5, 2011.
+
+In 2010, ABB issued shares out of its contingent capital
+in connection with the MIP. The resulting share capital of
+CHF 2,378,045,525.92, divided into 2,308,782,064 fully paid
+registered shares, was reflected in ABB's Articles of Incor-
+poration dated December 20, 2010.
+
+In 2010, ABB paid its dividend relating to the year 2009
+by way of nominal value reduction in the par value of its
+shares from CHF 1.54 to CHF 1.03. Corresponding adjust-
+ments were made to the par value of ABB’s contingent and
+authorized shares. Furthermore ABB cancelled 22,675,000
+shares that had been repurchased under its share buyback
+program. The resulting share capital of CHF 2,375,849,290.91,
+divided into 2,306,649,797 fully paid registered shares,
+was reflected in ABB’s Articles of Incorporation dated as of
+April 26, 2010.
+
+Except as described in this section, there were no
+changes to ABB's share capital during 2012, 2011 and 2010.
+
+3.3 Contingent share capital
+
+As at December 31, 2012, ABB’s share capital may be in-
+creased by an amount not to exceed CHF 206,000,000
+through the issuance of up to 200,000,000 fully paid regis-
+tered shares with a par value of CHF 1.03 per share
+through the exercise of conversion rights and/or warrants
+granted in connection with the issuance on national or
+international capital markets of newly or already issued bonds
+or other financial market instruments.
+
+As at December 31, 2012, ABB’s share capital may be
+increased by an amount not to exceed CHF 10,300,000
+through the issuance of up to 10,000,000 fully paid registered
+shares with a par value of CHF 1.03 per share through
+the exercise of warrant rights granted to its shareholders. The
+Board may grant warrant rights not taken up by shareholders
+for other purposes in the interest of ABB.
+
+18 Corporate governance report | ABB Annual Report 2012
+
+The pre-emptive rights of the shareholders are excluded
+in connection with the issuance of convertible or warrant-
+bearing bonds or other financial market instruments or the
+grant of warrant rights. The then current owners of warrants
+will be entitled to subscribe for new shares. The conditions
+of the conversion rights and/or warrants will be determined
+by the Board.
+
+The acquisition of shares through the exercise of
+warrants and each subsequent transfer of the shares will be
+subject to the restrictions of ABB’s Articles of Incorporation
+(see section 4.2 in this Corporate Governance Report).
+
+In connection with the issuance of convertible or warrant-
+bearing bonds or other financial market instruments, the
+Board is authorized to restrict or deny the advance subscrip-
+tion rights of shareholders if such bonds or other financial
+market instruments are for the purpose of financing or refinanc-
+ing the acquisition of an enterprise, parts of an enterprise,
+participations or new investments or an issuance on national
+or international capital markets. If the Board denies advance
+subscription rights, the convertible or warrant-bearing bonds
+or other financial market instruments will be issued at the
+relevant market conditions and the new shares will be issued
+pursuant to the relevant market conditions taking into
+account the share price and/or other comparable instruments
+having a market price. Conversion rights may be exercised
+during a maximum ten year period, and warrants may be
+exercised during a maximum seven year period, in each case
+from the date of the respective issuance. The advance
+subscription rights of the shareholders may be granted indi-
+rectly.
+
+In addition as at December 31, 2012, ABB’s share
+capital may be increased by an amount not to exceed
+CHF 96,859,964 through the issuance of up to 94,038,800
+fully paid shares with a par value of CHF 1.03 per share to
+employees. The pre-emptive and advance subscription rights
+of ABB’s shareholders are excluded. The shares or rights
+to subscribe for shares will be issued to employees pursuant
+to one or more regulations to be issued by the Board, taking
+into account performance, functions, level of responsibility
+and profitability criteria. ABB may issue shares or subscription
+rights to employees at a price lower than that quoted on
+a stock exchange. The acquisition of shares within the context
+of employee share ownership and each subsequent transfer
+of the shares will be subject to the restrictions of ABB’s Articles
+of Incorporation (see section 4.2 of this Corporate Gover-
+nance Report).
+
+
+--- Page 16 ---
+
+3.4 Authorized share capital
+
+As at December 31, 2012, ABB had an authorized share
+capital in the amount of up to CHF 206,000,000 through the
+issuance of up to 200,000,000 fully paid registered shares
+with a par value of CHF 1.03 each, which is valid until April 29,
+2013, and the Board has decided to propose to the Share-
+holders at the 2013 Annual General Meeting that the authorized
+share capital be renewed through April 29, 2015. The Board
+is authorized to determine the date of issue of new shares, the
+issue price, the type of payment, the conditions for the
+exercise of pre-emptive rights and the beginning date for
+dividend entitlement. In this regard, the Board may issue
+new shares by means of a firm underwriting through a bank-
+ing institution, a syndicate or another third party with a sub-
+sequent offer of these shares to the shareholders. The Board
+may permit pre-emptive rights that have not been exercised
+by shareholders to expire or it may place these rights and/or
+shares as to which preemptive rights have been granted
+
+but not exercised at market conditions or use them for other
+purposes in the interest of the company. Furthermore, the
+Board is authorized to restrict or deny the pre-emptive rights
+of shareholders and allocate such rights to third parties if
+
+the shares are used (1) for the acquisition of an enterprise, parts
+of an enterprise, or participations, or for new investments,
+
+or in case of a share placement, for the financing or refinanc-
+ing of such transactions; or (2) for the purpose of broaden-
+ing the shareholder constituency in connection with a listing
+of shares on domestic or foreign stock exchanges.
+
+8.5 Convertible bonds and warrants
+
+ABB does not have any bonds outstanding that are convertible
+into ABB shares. For information about warrants on shares
+issued by ABB, please refer to note 19 to ABB’s consolidated
+financial statements contained in the “Financial review” part
+of this Annual Report.
+
+4. Shareholders’
+participation
+
+4.1 Shareholders’ voting rights
+
+ABB has one class of shares and each registered share car-
+ries one vote at the general meeting. Voting rights may be
+exercised only after a shareholder has been registered in the
+share register of ABB as a shareholder with the right to vote,
+or with Euroclear Sweden AB, which maintains a subregister
+of the share register of ABB.
+
+A shareholder may be represented at the Annual General
+Meeting by its legal representative, by another shareholder with
+the right to vote, a proxy nominated by ABB (Organvertreter),
+an independent proxy designated by ABB (unabhangiger Stimm-
+rechtsvertreter) or a depository institution (Depotvertreter).
+
+All shares held by one shareholder may be represented by one
+representative only.
+
+For practical reasons shareholders must be registered in
+the share register no later than 6 business days before the
+general meeting in order to be entitled to vote. Except for the
+cases described under section 4.2 below, there are no voting
+rights restrictions limiting ABB’s shareholders’ rights.
+
+4.2 Limitations on transferability of shares
+and nominee registration
+
+ABB may decline a registration with voting rights if a shareholder
+does not declare that it has acquired the shares in its own
+name and for its own account. If the shareholder refuses to
+make such declaration, it will be registered as a shareholder
+without voting rights.
+
+A person failing to expressly declare in its registration
+application that it holds the shares for its own account
+(a nominee), will be entered in the share register with voting
+rights, provided that such nominee has entered into an
+agreement with ABB concerning its status, and further pro-
+vided that the nominee is subject to recognized bank or
+financial market supervision. In special cases the Board may
+grant exemptions. There were no exemptions granted
+in 2012.
+
+The limitation on the transferability of shares may be
+removed by an amendment of ABB’s Articles of Incorporation
+by a shareholders’ resolution requiring two-thirds of the votes
+represented at the meeting.
+
+ABB Annual Report 2012| Corporate governance report 19
+
+
+--- Page 17 ---
+
+4.3 Shareholders’ dividend rights
+
+ABB Ltd may pay out a dividend only if it has been proposed
+by a shareholder or the Board and approved at a general
+meeting of shareholders, and the auditors confirm that the
+dividend conforms to statutory law and ABB’s Articles of
+Incorporation. Dividends are usually due and payable in Swiss
+francs and the ex-date for dividends is usually two trading
+days after the approving shareholders’ resolution.
+
+ABB has established, for tax purposes, a dividend access
+facility for its shareholders who are residents of Sweden. If
+such shareholders have registered their shares with Euroclear
+Sweden AB, then they may elect to receive the dividend
+in Swedish kronor from ABB Norden Holding AB without de-
+duction of Swiss withholding tax. For further information
+on the dividend access facility, please refer to ABB’s Articles
+of Incorporation, a copy of which can be found in the section
+“Corporate governance” at www.abb.com/investorcenter
+
+4.4 General meeting
+
+Shareholders’ resolutions at general meetings are approved
+with an absolute majority of the votes represented at the
+meeting, except for those matters described in article 704 of
+the Swiss Code of Obligations and for resolutions with
+respect to restrictions on the exercise of the right to vote and
+the removal of such restrictions, which all require the ap-
+proval of two-thirds of the votes represented at the meeting.
+
+As at December 31, 2012, shareholders representing
+shares of a par value totaling at least CHF 412,000 may
+request items to be included in the agenda of a general
+meeting. Any such request must be made in writing at
+least 40 days prior to the date of the general meeting and
+specify the items and the motions of such shareholder(s).
+
+ABB's Articles of Incorporation do not contain provisions
+on the convocation of the general meeting of shareholders
+that differ from the applicable legal provisions.
+
+20 Corporate governance report | ABB Annual Report 2012
+
+5. Board of Directors
+
+5.1 Responsibilities and organization
+
+The Board defines the ultimate direction of the business of
+ABB and issues the necessary instructions. It determines the
+organization of the ABB Group and appoints, removes and
+supervises the persons entrusted with the management and
+representation of ABB.
+
+The internal organizational structure and the definition of
+the areas of responsibility of the Board, as well as the infor-
+mation and control instruments vis-a-vis the Executive Com-
+mittee, are set forth in the ABB Ltd Board Regulations
+and Corporate Governance Guidelines, a copy of which can
+be found in the section “Corporate governance” at
+www.abb.com/investorcenter
+
+The Board meets as frequently as needed but at
+least four times per annual Board term. Board meetings are
+convened by the chairman or upon request by a director
+or the chief executive officer (CEO). Documentation covering
+the various items of the agenda for each Board meeting is
+sent out in advance to each Board member in order to allow
+each member time to study the covered matters prior to
+the meetings. Decisions made at the Board meetings are
+recorded in written minutes of the meetings.
+
+The CEO shall regularly, and whenever extraordinary
+circumstances so require, report to the Board about
+ABB’s overall business and affairs. Further, Board members
+are entitled to information concerning ABB’s business
+and affairs. Additional details are set forth in the ABB Ltd
+Board Regulations & Corporate Governance Guidelines
+which can be found in the section “Corporate governance”
+at www.abb.com/investorcenter
+
+5.2 Term and members
+
+The members of the Board are elected individually at the
+annual general meeting of the shareholders for a term of one
+year; re-election is possible. Our Articles of Incorporation,
+
+a copy of which can be found in the section “Corporate gov-
+ernance” at www.abb.com/investorcenter, do not provide
+
+for the retirement of directors based on their age. However,
+an age limit for members of the Board is set forth in the
+
+ABB Ltd Board Regulations and Corporate Governance Guide-
+lines (although waivers are possible and subject to Board
+discretion), a copy of which can be found in the section “Corpo-
+rate governance” at www.abb.com/investorcenter
+
+
+--- Page 18 ---
+
+As at December 31, 2012, the members of the Board (Board
+term April 2012 to April 2013) were:
+
+Hubertus von Griinberg has been a member and chair-
+man of ABB’s Board of Directors since May 3, 2007. He is
+a member of the supervisory boards of Allianz Versicherungs AG
+and Deutsche Telekom AG (both Germany). He is a member
+of the board of directors of Schindler Holding AG (Switzerland).
+Mr. von Grtinberg was born in 1942 and is a German citizen.
+
+Roger Agnelli has been a member of ABB’s Board of
+Directors since March 12, 2002. He was previously the presi-
+dent and chief executive officer of Vale S.A. (Brazil).
+
+Mr. Agnelli was born in 1959 and is a Brazilian citizen.
+
+Louis R. Hughes has been a member of ABB’s Board
+of Directors since May 16, 2003. He is the chairman of InZero
+Systems (formerly GBS Laboratories LLC) (U.S.). He is also
+a member of the boards of directors of Akzo Nobel (the Neth-
+erlands) and Alcatel Lucent (France). Mr. Hughes was born
+in 1949 and is a U.S. citizen.
+
+Hans Ulrich M&rki has been a member of ABB’s Board
+of Directors since March 12, 2002. He is the retired chairman
+of IBM Europe, Middle East and Africa (France), and a member
+of the board of directors of Mettler-Toledo International (U.S.)
+and Swiss Re Ltd and Menuhin Festival Gstaad AG (both
+Switzerland). He is also a member of the foundation board of
+Schulthess Klinik, Zurich (Switzerland) and the board of
+trustees of the Hermitage Museum, St. Petersburg (Russia).
+Mr. Marki was born in 1946 and is a Swiss citizen.
+
+Michel de Rosen has been a member of ABB’s Board
+of Directors since March 12, 2002. He is the chief executive
+officer of and a member of the board of directors of Eutelsat
+Communications (France). Mr. de Rosen was born in 1951 and
+is a French citizen.
+
+Michael Treschow has been a member of ABB’s Board
+of Directors since May 16, 2003. He is the chairman of
+the boards of directors of Unilever NV (the Netherlands), and
+Unilever PLC (U.K.). He is also a member of the board of
+directors of the Knut and Alice Wallenberg Foundation (Sweden).
+Mr. Treschow was born in 1943 and is a Swedish citizen.
+
+Jacob Wallenberg has been a member of ABB’s Board
+of Directors since June 26, 1999. From March 1999 to June
+1999, he served as a member of the board of directors of
+ABB Asea Brown Boveri Ltd, the former parent company of
+the ABB Group. He is the chairman of the board of directors
+of Investor AB (Sweden). He is vice chairman of Telefonaktie-
+bolaget LM Ericsson AB, SEB Skandinaviska Enskilda Ban-
+ken and SAS AB (all Sweden). He is also a member of the
+boards of directors of the Knut and Alice Wallenberg Founda-
+tion and the Stockholm School of Economics (both Sweden),
+and The Coca-Cola Company (U.S.). Mr. Wallenberg was born
+in 1956 and is a Swedish citizen.
+
+Ying Yeh has been a member of ABB’s Board of Direc-
+tors since April 29, 2011. She is a member of the boards of
+directors of InterContinental Hotels Group (U.K.), Volvo AB
+(Sweden) and Samsonite International S.A. (Luxembourg).
+Ms. Yeh was born in 1948 and is a Chinese citizen.
+
+As of December 31, 2012, all Board members were non-exec-
+utive and independent directors (see also section 7 below),
+and none of ABB’s Board members held any official functions
+or political posts. Further information on ABB’s Board
+members can be found by clicking on the ABB Board of Direc-
+tors CV link which can be found in the section “Corporate
+governance” at www.abb.com/investorcenter
+
+5.3 Board committees
+
+From among its members, the Board has appointed two
+Board committees: the Governance, Nomination and Compen-
+sation Committee (GNCC) and the Finance, Audit and
+Compliance Committee (FACC). The duties and objectives
+of the Board committees are set forth in the ABB Ltd
+
+Board Regulations and Corporate Governance Guidelines,
+
+a copy of which can be found in the section “Corporate
+governance” at www.abb.com/investorcenter. These commit-
+tees assist the Board in its tasks and report regularly to
+
+the Board. The members of the Board committees are required
+to be independent.
+
+5.3.1 Governance, Nomination and
+Compensation Committee
+
+The GNCC is responsible for (1) overseeing corporate
+governance practices within ABB, (2) nominating candidates
+for the Board, the role of CEO and other positions on the
+Executive Committee, and (3) succession planning, employ-
+ment and compensation matters relating to the Board and
+the Executive Committee. The GNCC is also responsible for
+maintaining an orientation program for new Board mem-
+bers and an ongoing education program for existing Board
+members.
+
+The GNCC must comprise three or more independent
+directors. The chairman of the Board and, upon invitation by
+the committee’s chairman, the CEO or other members of
+the Executive Committee may participate in the committee
+meetings, provided that any potential conflict of interest is
+avoided and confidentiality of the discussions is maintained.
+
+ABB Annual Report 2012| Corporate governance report 21
+
+
+--- Page 19 ---
+
+As at December 31, 2012, the members of the GNCC were:
+Hans Ulrich Marki (chairman)
+
+Michel de Rosen
+
+Michael Treschow
+
+Ying Yeh
+
+5.3.2 Finance, Audit and Compliance
+Committee
+
+The FACC is responsible for overseeing (1) the integrity of
+ABB’s financial statements, (2) ABB’s compliance with legal,
+tax and regulatory requirements, (3) the independent
+auditors’ qualifications and independence, (4) the performance
+of ABB's internal audit function and external auditors, and
+
+(5) ABB’s capital structure, funding requirements and financial
+risk policies.
+
+The FACC must comprise three or more independent
+directors who have a thorough understanding of finance and
+accounting. The chairman of the Board and, upon invitation
+by the committee’s chairman, the CEO or other members of
+the Executive Committee may participate in the committee
+meetings, provided that any potential conflict of interest is avoided
+and confidentiality of the discussions is maintained. In addi-
+tion, the Chief Integrity Officer, the Head of Internal Audit and
+the external auditors participate in the meetings as appro-
+priate. As required by the U.S. Securities and Exchange Com-
+mission (SEC) at least one member of the FACC has to be
+an audit committee financial expert. The Board has determined
+that each member of the FACC is an audit committee finan-
+cial expert.
+
+As at December 31, 2012, the members of the FACC were:
+Louis R. Hughes (chairman)
+
+Roger Agnelli
+
+Jacob Wallenberg
+
+22 Corporate governance report | ABB Annual Report 2012
+
+5.4 Meetings and attendance
+
+The Board and its committees have regularly scheduled
+meetings throughout the year. These meetings are supple-
+mented by additional meetings (either in person or by
+conference call), as necessary.
+
+The table below shows the number of meetings held
+during 2012 by the Board and its committees, their average
+duration, as well as the attendance of the individual Board
+members. In addition, members of the Board and the Execu-
+tive Committee participated in a two-day strategic retreat.
+
+Meetings and attendance Board GNCC  FACC
+Regular Additional :
+Average duration (hours): 6.2 0.8: 2.3 29
+Number of meetings : 6 3: 10
+Meetings attended: : :
+Hubertus von Grinberg 6 3 - -
+Roger Agnelli 6 3 - 5
+Louis R. Hughes 6 3 - 6
+Hans Ulrich Marki 6 3 10 -
+Michel de Rosen 6 3 10 -
+Michael Treschow 6 3 10 -
+Jacob Wallenberg 6 3 - 6
+Ying Yeh 6 3 10 -
+
+5.5 Board Compensation
+and Shareholdings
+
+Information about Board compensation and shareholdings
+can be found in sections titled “Components of compensation
+to Board of Directors”, “Board of Directors compensation in
+2012”, and “ABB shareholdings of members of the Board and
+the Executive Committee” of the Remuneration report con-
+tained in this Annual Report.
+
+5.6 Secretary to the Board
+
+Diane de Saint Victor is the secretary to the Board.
+
+
+--- Page 20 ---
+
+6. Executive Committee
+
+6.1 Responsibilities and organization
+
+The Board has delegated the executive management of
+ABB to the CEO and the other members of the Executive
+Committee. The CEO and under his direction the other
+members of the Executive Committee are responsible for
+ABB’s overall business and affairs and day-to-day manage-
+ment.
+
+The CEO reports to the Board regularly, and whenever
+extraordinary circumstances so require, on the course of
+ABB's business and financial performance and on all organi-
+zational and personnel matters, transactions and other
+issues relevant to the Group.
+
+Each member of the Executive Committee is appointed
+and discharged by the Board.
+
+6.2 Members of the Executive Committee
+
+As at December 31, 2012, the members of the Executive
+Committee were:
+
+Joe Hogan joined ABB’s Executive Committee as Chief
+Executive Officer in September 2008. Before joining ABB,
+
+Mr. Hogan was the CEO and President of General Electric’s
+GE Healthcare unit from 2000 to 2008. From 1985 to 2000,
+Mr. Hogan held various positions at General Electric.
+
+Mr. Hogan was born in 1957 and is a U.S. citizen.
+
+Michel Demaré joined ABB’s Executive Committee as
+Chief Financial Officer in January 2005. From October 2008
+to March 2011, he was also Head of Global Markets. From
+February 2008 to August 2008, he was appointed interim CEO
+in addition to his duties as CFO. He is also vice chairman of
+the board of directors of UBS AG and a board member of
+Syngenta AG and IMD Foundation (all Switzerland). From 2002
+until 2004, Mr. Demaré was vice president and chief finan-
+cial officer of Baxter Europe. From 1984 until 2002, he held
+various positions within Dow Chemical (U.S.). Mr. Demaré
+was born in 1956 and is a Belgian citizen.
+
+Gary Steel joined ABB’s Executive Committee as Head
+of Human Resources in January 2003. Mr. Steel is a member
+of the board of directors of Harman International Industries
+Inc. (U.S.) and a director of Aquamarine Power (U.K.). In 2002,
+he was the human resources director, group finance at Royal
+Dutch Shell (the Netherlands). Between 1976 and 2002, he
+held several human resources and employee relations positions
+at Royal Dutch Shell. Mr. Steel was born in 1952 and is a
+British citizen.
+
+Diane de Saint Victor joined ABB's Executive Commit-
+tee as General Counsel in January 2007. As of March 2013,
+she has been named as a non-executive director of Barclays
+Bank Plc. From 2004 to 2006, she was general counsel of
+European Aeronautic Defence and Space, EADS (France/
+Germany). From 2003 to 2004, she was general counsel of
+SCA Hygiene Products (Germany). From 1993 to 2003, she
+held various legal positions with Honeywell International
+(France/Belgium). From 1988 to 1993, she held various legal
+positions with General Electric (U.S.). Ms. de Saint Victor
+was born in 1955 and is a French citizen.
+
+Frank Duggan was appointed Executive Committee
+member responsible for Global Markets in March 2011. Since
+2008 he is also ABB’s region manager for India, Middle East
+and Africa. From 2008 to 2011, he was ABB's country man-
+ager for the United Arab Emirates. From 2004 to 2007, he
+was head of ABB’s Group Account Management and ABB's
+country manager for Ireland. Between 1986 and 2004, he
+held several management positions with ABB. Mr. Duggan
+was born in 1959 and is an Irish citizen.
+
+Greg Scheu was appointed Executive Committee mem-
+ber responsible for Marketing and Customer Solutions in
+May 2012. Mr. Scheu, a former executive at Rockwell Interna-
+tional, joined ABB in 2001 and was responsible for the inte-
+gration of Baldor Electric Co. which ABB acquired in January
+2011. Mr. Scheu was born in 1961 and is a U.S. citizen.
+
+Prith Banerjee joined ABB's Executive Committee as
+Chief Technology Officer in May 2012. From 2007 to 2012,
+Mr. Banerjee was Senior Vice President of Research Hewlett
+Packard and Director of HP Labs (U.S.). Prior to that, Mr.
+Banerjee was Professor of Electrical Engineering and Com-
+puter Science, as well as Dean of the College of Engineering
+at the University of Illinois, Chicago. Mr. Banerjee was born
+in 1960 and is a U.S. citizen.
+
+Bernhard Jucker was appointed Executive Committee
+member responsible for the Power Products division in January
+2006. From 2003 to 2005, he was ABB’s country manager
+for Germany. From 1980 to 2003, he held various positions in
+ABB. Mr. Jucker was born in 1954 and is a Swiss citizen.
+
+ABB Annual Report 2012| Corporate governance report 23
+
+
+--- Page 21 ---
+
+Brice Koch was appointed Executive Committee mem-
+ber responsible for the Power Systems division in March 2012.
+From January 2010 to March 2012, Mr. Koch was Executive
+Committee member responsible for Marketing and Customer
+Solutions. From 2007 to 2009 he was the Manager of ABB
+in China and of ABB’s North Asia Region. Between 1994
+and 2006, he held several management positions with ABB.
+He is also member of the board of directors of Rector S.A.
+(France) and ETH Zurich Foundation (Switzerland). Mr. Koch
+was born in 1964 and is a French citizen.
+
+Ulrich Spiesshofer was appointed Executive Commit-
+tee member responsible for the Discrete Automation and
+Motion division in January 2010. He joined ABB in November
+2005 as Executive Committee member responsible for Cor-
+porate Development. From 2002 until he joined ABB, he was
+senior partner, global head of operations practice at Roland
+Berger AG (Switzerland). Prior to 2002, he held various posi-
+tions with A.T. Kearney Ltd. and its affiliates. Mr. Spiesshofer
+was born in 1964 and is a German citizen.
+
+Tarak Mehta was appointed Executive Committee
+member responsible for the Low Voltage Products division
+in October 2010. From 2007 to 2010, he was head of the
+Transformers business. Between 1998 and 2006, he held
+several management positions with ABB. Mr. Mehta was
+born in 1966 and is a U.S. citizen.
+
+Veli-Matti Reinikkala was appointed Executive Com-
+mittee member responsible for the Process Automation
+division in January 2006. He is a member of the board of
+directors of UPM-Kymmene (Finland). In 2005, he was the
+head of the Process Automation business area. From 1993
+to 2005, he held several positions with ABB. Mr. Reinikkala
+was born in 1957 and is a Finnish citizen.
+
+In addition, as of February 1, 2013, Michel Demaré
+stepped down as ABB’s Chief Financial Officer and member
+of the Executive Committee and Eric Elzvik has succeeded
+him as Chief Financial Officer and member of the Execu-
+tive Committee. From 2010 to 2013, Mr. Elzvik was the Chief
+Financial Officer of ABB’s Discrete Automation and Motion
+division. Mr. Elzvik joined ABB in 1984 and has held a variety
+of other leadership roles in Sweden, Singapore and Switzer-
+land, including head of Corporate Development, and head of
+Mergers & Acquisitions and New Ventures. Mr. Elzvik was
+born in 1960 and is a Swiss and Swedish citizen.
+
+24 Corporate governance report | ABB Annual Report 2012
+
+Further information about the members of the Executive
+Committee can be found by clicking on the Executive
+Committee CV link in the section “Corporate governance”
+at www.abb.com/investorcenter
+
+6.3 Executive Committee Compensation
+and Shareholdings
+
+Information about Executive Committee compensation and
+shareholdings can be found in sections titled “Components
+of executive compensation”, “EC compensation in 2012”,
+“Compensation to former members of the Board and the EC”,
+and “ABB shareholdings of members of the Board and
+
+the EC” of the Remuneration report contained in this Annual
+Report.
+
+6.4 Management contracts
+
+There are no management contracts between ABB
+and companies or natural persons not belonging to the
+ABB Group.
+
+
+--- Page 22 ---
+
+7. Business relationships
+
+This section describes important business relationships
+between ABB and its Board and Executive Committee mem-
+bers, or companies and organizations represented by them.
+This determination has been made based on ABB Ltd’s
+Related Party Transaction Policy. This policy is contained in
+the ABB Ltd Board Regulations and Corporate Governance
+Guidelines, a copy of which can be found in the section
+“Corporate governance” at www.abb.com/investorcenter
+
+Vale S.A. and its subsidiaries (Vale) and ABB have
+entered into a framework agreement establishing general
+terms and conditions for the supply of products, systems
+and services among their respective group subsidiaries. ABB
+supplies Vale primarily with process automation products
+for mineral systems. The total revenues recorded by ABB in
+2012 relating to its contracts with Vale were approximately
+$140 million. Roger Agnelli was previously president and CEO
+of Vale.
+
+Atlas Copco AB (Atlas Copco) is an important customer
+of ABB. ABB supplies Atlas Copco primarily with drives and
+motors through its Discrete Automation and Motion division.
+The total revenues recorded by ABB relating to business with
+Atlas Copco were approximately $60 million in 2012. Jacob
+Wallenberg was vice chairman of Atlas Copco until April 2012.
+
+ABB has an unsecured syndicated $2-billion, revolving
+credit facility. As of December 31, 2012, SEB Skandinaviska
+Enskilda Banken AB (publ) (SEB) and UBS AG (UBS) had
+each committed to $71 million out of the $2-billion total. In
+addition, in February 2012, ABB entered into a $4-billion term
+credit agreement to provide bridge financing for the acquisi-
+tion of Thomas & Betts Corporation. SEB and UBS had each
+committed to lend ABB $250 million as of the completion
+of the primary syndication. The term credit agreement was
+never drawn and was cancelled in May 2012. In addition,
+ABB has regular banking business with UBS and SEB. Jacob
+Wallenberg is the vice chairman of SEB and Michel Demaré
+is the vice chairman of UBS.
+
+ABB has also retained Ortec Finance B.V. (Ortec) to
+provide pension modeling services. Michel Demaré’s spouse
+is an employee and the chairman of the board of directors
+of Ortec’s Swiss subsidiary.
+
+After comparing the share of revenues generated from
+ABB's business with Vale and Atlas Copco, after reviewing
+the banking commitments of UBS and SEB, and after consid-
+ering Ortec’s business relationship with ABB, the Board
+has determined that ABB’s business relationships with those
+companies are not unusual in their nature or conditions
+and do not constitute material business relationships. As a
+result, the Board concluded that all members of the Board
+are considered to be independent directors. This determina-
+tion was made in accordance with ABB Ltd’s Related Party
+Transaction Policy which was prepared based on the Swiss
+Code of Best Practice for Corporate Governance and the
+independence criteria set forth in the corporate governance
+rules of the New York Stock Exchange.
+
+8. Employee participation
+programs
+
+In order to align its employees’ interests with the business
+goals and financial results of the company, ABB operates
+
+a number of incentive plans, linked to ABB’s shares, such as
+the Employee Share Acquisition Plan, the Management
+Incentive Plan and the Long-Term Incentive Plan. For a more
+detailed description of these incentive plans, please refer to
+note 18 to ABB’s consolidated financial statements contained
+in the Financial review section of this Annual Report.
+
+9. Duty to make a public
+tender offer
+
+ABB's Articles of Incorporation do not contain any provisions
+raising the threshold (opting-up) or waiving the duty (opt-
+
+ing out) to make a public tender offer pursuant to article 32
+of the Swiss Stock Exchange and Securities Trading Act.
+
+ABB Annual Report 2012| Corporate governance report 25
+
+
+--- Page 23 ---
+
+10. Auditors
+
+10.1 Auditors
+
+Ernst & Young are the auditors of ABB’s statutory and
+consolidated accounts.
+
+10.2 Duration of the mandate and term
+of office of the auditor
+
+Ernst & Young assumed the auditing mandate of the ABB
+Group in 1994. The head auditor responsible for the mandate,
+Nigel Jones, began serving in this function in respect of the
+financial year ended December 31, 2008.
+
+Pursuant to the Articles of Incorporation, the term of
+office of ABB’s auditors is one year.
+
+10.3 Auditing and additional fees paid
+to the auditor
+
+The audit fees charged by Ernst & Young for the legally
+prescribed audit amounted to approximately $28.6 million in
+2012. Audit services are defined as the standard audit work
+performed each fiscal year necessary to allow the auditors to
+issue an opinion on the consolidated financial statements
+
+of ABB and to issue an opinion on the local statutory finan-
+cial statements.
+
+This classification may also include services that can be
+provided only by the auditors, such as assistance with the
+application of new accounting policies, pre-issuance reviews
+of quarterly financial results and comfort letters delivered
+to underwriters in connection with debt and equity offerings.
+
+In addition, Ernst & Young charged approximately
+$8.0 million for non-audit services performed during 2012.
+Non-audit services include primarily accounting consulta-
+tions and audits in connection with divestments, audits of
+pension and benefit plans, accounting advisory services, tax
+compliance and other tax services. In accordance with the
+requirements of the U.S. Sarbanes-Oxley Act of 2002 and rules
+issued by the SEC, ABB has, on a global basis, a process
+for the review and pre-approval of audit and non-audit services
+to be performed by Ernst & Young.
+
+26 Corporate governance report | ABB Annual Report 2012
+
+10.4 Supervisory and control
+instruments vis-a-vis the auditors
+
+The FACC prepares proposals to the Board for the appoint-
+ment and removal of the auditors. The FACC is also respon-
+sible for supervising the auditors to ensure their qualifications,
+independence and performance. It meets regularly with the
+auditors to obtain reports about the results of their audit
+procedures. The FACC reports the material elements of its
+supervision of the auditors to the Board.
+
+11. Information policy
+
+ABB, as a publicly traded company, is committed to commu-
+nicating in a timely and consistent way to shareholders,
+potential investors, financial analysts, customers, suppliers,
+the media and other interested parties. ABB is required to
+disseminate material information pertaining to its businesses
+in a manner that complies with its obligations under the
+rules of the stock exchanges where its shares are listed and
+traded.
+
+ABB publishes an annual report that provides audited
+financial statements and information about business results,
+strategy, corporate governance, human resources, sustain-
+ability (including health and safety) and technology. In addition,
+ABB also submits an annual report on Form 20-F to the
+SEC. In addition, ABB publishes its results on a quarterly
+basis as press releases, distributed pursuant to the rules
+and regulations of the stock exchanges on which its shares
+are listed and traded. Press releases relating to financial
+results and material events are also filed with the SEC on
+Form 6-K. An archive containing Annual Reports, Form 20-F
+reports, quarterly results releases and related presentations
+can be found in the “Reports and presentations” section
+at www.abb.com/investorcenter. The quarterly results press
+releases contain unaudited financial information prepared
+in accordance with U.S. GAAP. To subscribe to important
+press releases, please click on the “Contacts and Services”
+and choose “Subscribe to updates” at www.abb.com/
+investorcenter. Ad hoc notices can also be found in the press
+releases section at www.abb.com/news
+
+
+--- Page 24 ---
+
+ABB's official means of communication is the Swiss
+Official Gazette of Commerce (www.shab.ch). The invitation
+to the company’s Annual General Meeting is sent to regis-
+tered shareholders by mail.
+
+Inquiries may also be made to ABB Investor Relations:
+Affolternstrasse 44
+
+CH-8050 Zurich, Switzerland
+
+Telephone: +41 (0)43 317 7111
+
+Fax: +41 (0)44 311 9817
+
+E-mail: investorrelations@ch.abb.com
+
+ABB's Web site is: www.abb.com
+
+12. Further information on
+corporate governance
+
+The list below contains references to additional information
+concerning the corporate governance of ABB, which
+
+can be accessed in the section “Corporate governance”
+
+at www.abb.com/investorcenter
+
+- Articles of Incorporation
+— ABB Ltd Board Regulations and Corporate Governance
+Guidelines
+- Regulations of the Governance, Nomination and
+Compensation Committee
+- Regulations of the Finance, Audit and Compliance
+Committee
+- Related Party Transaction Policy
+— ABB Code of Conduct
+— Addendum to the ABB Code of Conduct for Members
+of the Board of Directors and the Executive Committee
+- Comparison of ABB’s corporate governance practices
+to the New York Stock Exchange rules
+— CVs of the Board members
+— CVs of the Executive Committee members
+
+ABB Annual Report 2012| Corporate governance report 27
+
+
+--- Page 25 ---
+
+28 Remuneration report | ABB Annual Report 2012
+
+
+--- Page 26 ---
+
+Remuneration report
+
+Contents
+
+30 Board remuneration
+
+32 Executive Committee remuneration
+
+39 Additional fees and remuneration
+
+39 Compensation to former members
+of the Board and EC
+
+39 Change of control provisions
+
+39 ABB shareholdings of members
+of the Board and EC
+
+ABB Annual Report 2012| Remuneration report 29
+
+
+--- Page 27 ---
+
+ABB's success depends on its ability to attract and retain
+people who will drive the business to outperform competitors
+and create value for shareholders over the long term. These
+are important considerations behind ABB’s remuneration
+policy. The Remuneration report presents the principles of
+this policy, the mechanisms for managing remuneration,
+
+and the compensation in 2012 for members of the Board
+
+of Directors (Board) and the Executive Committee (EC).
+
+For the compensation in 2011, see Notes 10 and 11 to the
+ABB Ltd statutory financial statements.
+
+30 Remuneration report | ABB Annual Report 2012
+
+1. Board remuneration
+
+1.1 Governance and principles
+
+The Board sets and periodically reviews compensation for its
+members based on a comparison of the compensation of
+non-executive board members of publicly-traded companies
+in Switzerland that are part of the Swiss Market Index.
+
+The Governance, Nomination and Compensation Committee
+(GNCC) is responsible for making recommendations to the
+Board.
+
+1.2 Components of compensation
+
+Members of the Board are paid for their service over a
+12-month period that starts with their election at the annual
+general meeting. Payment is made in two installments,
+
+one following the first six months of the term and one at the
+end. Board members do not receive pension benefits and
+are not eligible to participate in any of ABB’s employee incen-
+tive programs.
+
+To align the interests of Board members with those of
+ABB’s shareholders, half of each member's compensation is
+paid in the form of ABB shares, though Board members
+can alternatively choose to receive all their compensation in
+shares. The shares are kept in a blocked account for three
+years. Departing Board members are entitled to the shares
+when they leave the company unless agreed otherwise.
+
+The number of shares awarded is calculated prior to each
+semi-annual payment by dividing the sum to which the
+Board members are entitled by the average closing price of
+the ABB share over a predefined 30-day period.
+
+
+--- Page 28 ---
+
+The compensation amounts per individual are listed in the table below:
+
+Paid in 2012
+November May
+Board term 2012/2013 Board term 2011/2012
+
+Settled in shares - : Settled in shares - Total
+Settled number of : Settled number of compensation
+Name/Function i in cash” shares received : in cash” shares received” paid 2012041)
+: (CHF) : (CHF) i (CHF)
+
+Hubertus von Grinberg :
+Chairman of the Board - 23,298 - 22,685 | 4,200,000
+
+ee : Fo Taceaseeennasnesnen 22168
+Member of the Board 75,000 2,873 75,000 2,807 | 300,000
+
+Louis R. Hughes®
+Member of the Board and Chairman of the :
+
+Finance, Audit and Compliance Committee 100,000 3,840 100,000 3,751 | 400,000
+Hans Ulrich Marki i
+
+Member of the Board and Chairman
+
+of the Governance, Nomination :
+
+and Compensation Committee - 10,649 - 10,364 = 400,000
+
+Michel de Rosen”
+Member of the Board 75,000 2,873 - 5,614 300,000
+Michael Treschow” j
+
+Member of the Board 75,000 2,922 75,000 2,843 300,000
+Jacob Wallenberg®
+
+Member of the Board 75,000 2,873 75,000 2,807 300,000
+Ying Yeh”
+
+Member of the Board 75,000 2,905 75,000 2,807 300,000
+Totals ttC;C;73}Y Eee 475,000 52,233 400,000 53,678 3,500,000
+
+" Represents gross amounts paid, prior to deductions for social security, withholding tax etc.
+
+® Number of shares per Board member is calculated based on net amount due after deductions for social security, withholding tax ete.
+
+© For the 2012-2013 Board term, all members elected to receive 50% of their gross compensation in the form of ABB shares, except for Hubertus von Grinberg
+and Hans Ulrich Marki who elected to receive 100%
+
+“ For the 2011-2012 Board term, all members elected to receive 50% of their gross compensation in the form of ABB shares, except for Hubertus von Grinberg,
+Hans Ulrich Marki and Michel de Rosen who elected to receive 100%.
+
+© In addition to the Board remuneration stated in the above table, the Company paid CHF 211,008 in 2012 in employee social security payments.
+
+© Member of the Finance, Audit and Compliance Committee.
+
+” Member of the Governance, Nomination and Compensation Committee.
+
+ABB Annual Report 2012| Remuneration report 31
+
+
+--- Page 29 ---
+
+1.3 Board of Directors compensation
+in 2012
+
+Compensation for Board members is outlined in the table
+below and has been unchanged since the 2007/2008 term of
+office. Consistent with past practice, no loans or guarantees
+were granted to Board members in 2012.
+
+Board term
+2012/2013 | 2011/2012
+Function CHF CHF
+Chairman of the Board 1,200,000 } 1,200,000
+Member of the
+Board and Committee chairman 400,000 400,000
+Member of the Board 300,000 300,000
+
+2. Executive Committee
+remuneration
+
+2.1 Governance and principles
+
+The Board and GNCC have direct oversight of compensation
+policy at ABB. The GNCC is responsible for developing the
+general remuneration principles and practices of the ABB
+Group and for recommending them to the full Board, which
+takes the final decisions.
+
+The Board and GNCC are actively involved in the con-
+tinuous development of ABB’s executive remuneration system
+to reflect a remuneration philosophy that is based on the
+following principles:
+
+- Market orientation - ABB conducts regular benchmarking
+reviews to ensure compensation is at a level that will attract
+and retain top talent.
+
+— Performance - ABB ensures that performance drives all
+compensation elements. Performance metrics include
+financial objectives, individual performance and behavior,
+as well as the share price performance.
+
+- Shareholder value - ABB’s compensation elements focus
+on rewarding the delivery of outstanding and sustainable
+results without inappropriate risk taking.
+
+— Retention - ABB grants a portion of its compensation
+through long-term oriented elements to attract and
+retain the key talent that ABB needs to drive its success
+globally.
+
+32 Remuneration report | ABB Annual Report 2012
+
+The GNCC acts on behalf of the Board in regularly review-
+ing the remuneration philosophy and structure, and in review-
+ing and approving specific proposals on executive compen-
+sation to ensure that they are consistent with the Group’s
+compensation principles. In 2012, the GNCC hired Hostettler,
+Kramarsch & Partner (hkp), an independent consultant
+specializing in performance management and compensation,
+to provide advice on remuneration. At the GNCC’s request,
+the firm helped to redesign the Long-Term Incentive Plan de-
+scribed in section 2.2 of this Remuneration report. Hkp has.
+no other mandate with ABB.
+
+All senior positions in ABB have been evaluated using a
+consistent methodology developed by the Hay Group, whose
+job evaluation system is used by more than 10,000 compa-
+nies around the world. The Hay methodology goes beyond job
+titles and company size in assessing positions. It considers
+the Know-how required to do the job, the problem-solving com-
+plexities involved, as well as the accountability for results and
+the freedom to act to achieve results. This approach provides
+a meaningful, transparent and consistent basis for comparing
+remuneration levels at ABB with those of equivalent jobs
+at other companies that have been evaluated using the same
+criteria. The Board primarily uses Hay’s data from the Euro-
+pean market to set EC compensation, which is targeted to be
+above the median values for the market.
+
+Every year, the Board reviews the CEO’s performance and
+decides on any change in compensation. The CEO reviews
+the performance of other members of the EC and makes rec-
+ommendations to the GNCC on their individual remuneration.
+The full Board takes the final decisions on compensation
+for all EC members, none of whom participates in the delib-
+erations on their remuneration.
+
+Information on the meetings held by the GNCC in 2012 can
+be found in section 5.4 of the Corporate governance report.
+
+2.2 Components of EC compensation
+
+Compensation elements and performance
+considerations
+
+The compensation of EC members currently consists of the
+following elements: a base salary and benefits, a short-
+term variable component dependent on annual Group perfor-
+mance objectives, and a long-term variable component
+designed to reward the creation of shareholder value and
+
+an executive’s commitment to the company.
+
+
+--- Page 30 ---
+
+The main components of executive compensation are summarized in the following chart and described in detail below:
+
+Base salary Cash Paid monthly
+Competitive in respect to labor markets
+Annual revisions, if any, partly based on performance
+
+Short-term variable Cash Conditional annual payment
+
+compensation Payout depends on performance in previous year against predefined Group objectives,
+with a cap on the payout for over-performance
+
+Long-term variable Cash and shares Performance component: Retention component:
+
+compensation Conditional grant made annually Conditional grant made annually
+
+(Long-Term Incentive Plan 2012) Payout is in cash and depends on ABB's Payout is in shares (70%) and cash (30%)
+weighted cumulative earnings per share over and requires the executive to remain at ABB
+a three-year period for a three-year period from grant
+
+(Executives can elect to receive 100% in shares)
+
+In addition, members of the EC are required to build up a appointment. These required shareholding amounts are
+holding of ABB shares that is equivalent to a multiple of their reviewed annually, based on salary and expected share price
+base salary, to ensure that their interests are aligned with developments.
+
+those of shareholders. Since 2010, the requirement has been The chart below illustrates how performance consider-
+five times base salary for the CEO and four times base salary _ ations are reflected in each component of executive remunera-
+for the other members of the EC. New members of the EC tion.
+
+should aim to reach these multiples within four years of their
+
+Performance considerations in each component of remuneration
+
+Performance period Year of award Performance period
+or review
+
+Year -3 Year -2 Year -1 Year Year +1 Year +2 Year +3
+
+Individual Level of annual
+performance base pay
+and behavior
+
+Corporate and W Level of short-
+
+individual term variable
+
+performance compensation
+payout
+
+LTIP Corporate and individual performance over Size of
+prior three years retention
+component
+
+Performance Weighted cumulative earnings per share over
+component next three years
+
+ABB Annual Report 2012| Remuneration report 33
+
+
+--- Page 31 ---
+
+Annual base salary
+
+The base salary for members of the EC is set with reference
+to positions of equivalent responsibility outside ABB, as
+determined using the Hay methodology described above. It
+is reviewed annually principally on the basis of Hay’s annual
+Top Executive Compensation in Europe survey. When con-
+sidering changes in base salary, the executive’s performance
+during the preceding year against individual objectives is
+taken into account. Under its mandate with ABB, Hay also
+conducts job evaluations.
+
+Benefits
+
+Members of the EC receive pension benefits, payable into the
+Swiss ABB Pension Fund and ABB Supplementary Insurance
+Plan (the regulations are available at www.abbvorsorge.ch).
+The current level of pension benefits was set in 2006 on the
+basis of results from a survey of pension conditions for Swiss-
+based executives at Adecco, Ciba, Dow, Nestlé, Novartis,
+Roche, Serono, Syngenta and Sulzer that ABB commissioned
+from Towers Watson, a consultant. The survey was repeated
+in 2010 and a new benchmarking exercise will be conducted
+in 2013. Towers Watson also provides actuarial services to
+ABB, and pension advisory services in connection with merg-
+ers and acquisitions transactions.
+
+The compensation of EC members also includes social
+security contributions and other benefits, as outlined in the
+table in section 2.4 of this Remuneration report. The Board
+has decided to provide tax equalization for EC members
+resident outside Switzerland to the extent that they are not
+able to claim a tax credit in their country of residence for
+income taxes they have paid in Switzerland.
+
+Short-term variable compensation
+
+Payment of the short-term variable component is conditional
+on the fulfillment of predefined annual objectives that are
+specific, quantifiable and challenging. Short-term variable
+compensation for members of the EC and most other senior
+managers throughout the company is based on Group
+performance objectives. For some managers with regional or
+country-level responsibilities, short-term variable compen-
+sation is based on related objectives adapted to ABB’s goals
+in these markets. The CEO recommends the Group perfor-
+mance objectives to the GNCC, which may make or request
+amendments before it submits a proposal to the Board.
+
+The Board takes the final decision.
+
+34 Remuneration report | ABB Annual Report 2012
+
+The 2012 objectives, shown in the table below, were
+Group-wide metrics that were aligned with the Group’s 2015
+strategic targets that have been communicated to share-
+holders.
+
+Objective Weighting
+Orders received 12.5%
+Revenues 12.5%
+Operational EBITDA® 25%
+Ratio of operating cash flow to operational EBIT® 25%
+
+Net Promoter Score (NPS)
+Cost savings
+
+10%
+
+15%
+
+“The financial objectives exclude the impact of currency fluctuations.
+
+® See definition in Note 23 to ABB's Consolidated Financial Statements.
+
+| Operating cash flow is defined as net cash provided by operating activities, reversing
+the impact of interest and taxes. Operational EBIT is defined as Operational EBITDA
+before excluding depreciation and amortization
+
+“NPS is a metric based on dividing customers into three categories: Promoters, Passives,
+and Detractors. This is achieved by asking customers in a one-question survey whether
+
+they would recommend ABB to a colleague. In 2012, ABB had a target to increase the
+number of countries that have improved their NPS score.
+
+The payout for fully achieving the predefined annual objec-
+tives is equivalent to 150 percent of the base salary for
+
+the CEO and 100 percent of the base salary for other mem-
+bers of the EC. Underperformance results in a lower payout,
+or none at all if performance is below a certain threshold.
+
+If the objectives are exceeded, the Board has the discretion
+to approve a payout that is up to 50 percent higher (repre-
+senting up to 225 percent of the base salary for the CEO
+and 150 percent of the base salary for other members of the
+EC). For 2012, the Board exercised its discretion and awarded
+a 10 percent higher payout, reflecting the company’s perfor-
+mance against the objectives.
+
+
+--- Page 32 ---
+
+Long-term variable compensation
+
+An important principle of executive compensation at ABB is
+that it should encourage the creation of value for the com-
+pany’s shareholders and enable EC members to participate
+in the company’s success. The company’s Long-Term Incen-
+tive Plan (LTIP) is the principal mechanism through which
+members of the EC and certain other executives are encour-
+aged to create value for shareholders. Awarded annually,
+LTIPs comprise a performance component and a retention
+component whose proportions in relation to the base salary
+are explained below.
+
+Performance component
+
+The performance component of the plan is designed to
+reward participants for increasing earnings per share® (EPS)
+over a three-year period. EPS was adopted as the perfor-
+mance measure in the performance component of the LTIP.
+in 2012.
+
+EPS replaces relative total shareholder return (TSR),
+which was the performance measure used in previous LTIPs.
+EPS growth (based on net income excluding acquisitions)
+is one of the financial targets of ABB’s 2015 strategy and is
+therefore better aligned with published goals than relative
+TSR, which is the percentage change in ABB’s share price
+plus dividends over a three-year period, compared with peers.
+
+The payout of this part of the plan occurs after three
+years, based on the Group’s weighted cumulative EPS perfor-
+mance against predefined objectives. The weighted cumu-
+lative EPS is calculated as 33 percent of EPS in the first year
+plus 67 percent of EPS in the second year plus 100 percent
+of EPS in the third year. There is no payout if the lower thresh-
+old is not reached and payout is capped if performance
+exceeds the upper threshold. The payout factors are shown
+in the chart on the right.
+
+At each launch, participants are allocated a reference
+number of shares that is linked to a percentage of their base
+salary. In 2012, the percentages were 100 percent for the
+CEO and 42 percent for the other members of the EC. The
+payout at the end of the three-year period, if any, will be
+made in cash.
+
+Under the terms and conditions of the plan, the GNCC
+decides whether EC members who leave the company before
+the end of the three-year period forfeit the unvested award,
+or receive all or a position of such awards.
+
+© Earnings per share is defined in the terms of the LTIP as diluted earnings per share
+attributable to ABB shareholders calculated using income from continuing operations, net
+of tax, unless the Board decides to calculate using net income for a particular year.
+
+Payout % of performance
+
+component
+200%
+100%
+Weighted
+cumulative
+earnings
+0% Lower On target Upper per share
+° threshold threshold
+(no payout) (maximum
+payout)
+
+ABB Annual Report 2012| Remuneration report 35
+
+
+--- Page 33 ---
+
+Historical payout of performance component
+
+2006
+
+2007 2008 2009
+
+LTIP 2006 > No payout
+
+LTIP 2007
+
+LTIP 2008
+
+LTIP 2009
+
+Historical payout of performance component
+
+Of the LTIPs launched since 2006 that have also vested, the
+only one whose performance component has paid out is the
+2007 launch, under which participants, upon vesting, were
+entitled to receive 92 percent of the performance shares that
+they had been conditionally granted (see chart above).
+
+Retention component
+
+The second component of the LTIP is designed to retain
+executives at ABB. Members of the EC are conditionally
+granted shares, which are awarded after three further
+years of service to the company.
+
+The reference grant size for the CEO is equivalent to
+100 percent of base salary. The other EC members receive
+a grant from a pool whose reference size is equivalent to
+65 percent of their combined base salaries. The CEO recom-
+mends to the Board how to allocate shares from this pool
+to each individual EC member, based on an assessment of
+their individual performance in the previous calendar year,
+and the Board takes the final decision.
+
+Starting with the 2012 LTIP, the reference grant size
+for the CEO and the pool for the other EC members for any
+particular launch can each be increased or decreased by
+the Board by up to 25 percent, based on an assessment of
+ABB's performance over the three years preceding the
+launch of the plan. The assessment considers ABB’s perfor-
+mance against its peers according to financial metrics
+and non-financial measures related to customer satisfaction,
+integrity, and health and safety.
+
+36 Remuneration report | ABB Annual Report 2012
+
+2010 2011 2012 2013
+92% of
+shares granted
+> No payout
+> No payout
+
+Following its assessment of ABB’s performance in the
+period 2009-2011, the Board increased the size of the
+retention component in the 2012 LTIP by 20 percent for the
+CEO and by 10 percent in aggregate for the rest of the EC.
+
+EC members receive 70 percent of the payout in shares
+and the remainder in cash, unless they elect to receive
+100 percent in shares.
+
+Under the terms and conditions of the plan, the GNCC
+decides whether EC members who leave the company before
+the end of the three-year period forfeit the unvested award,
+or receive all or a portion of such awards.
+
+Severance provisions
+
+Employment contracts for EC members contain notice
+periods of 12 months, during which they are entitled to com-
+pensation comprising their base salary, benefits and short-
+term variable compensation. The Board has decided that,
+starting January 1, 2013, contracts for new members of the
+EC will no longer include a provision extending compensation
+for up to 12 additional months if their employment is termi-
+nated by ABB and if they do not find alternative employment
+within the notice period that pays at least 70 percent of
+their compensation.
+
+
+--- Page 34 ---
+
+2.3 Acquisition Integration
+Execution Plan
+
+In the past three years, ABB has invested more than $10 bil-
+lion in connection with acquisitions as part of its strategy to
+grow the business profitably and create value for ABB share-
+holders. The focus has been on companies that fill geo-
+graphic, end-market or product gaps.
+
+Strict financial criteria are applied to the investments, and
+the financial objectives are expected to be achieved through
+a combination of cost and growth synergies. Delivering these
+synergies depends on the successful integration of the new
+businesses with those of ABB.
+
+To this end, the Board has established a one-time
+Acquisition Integration Execution Plan (AIEP) whose goal is to
+maximize the return on the recent acquisitions of Baldor,
+Thomas & Betts and Ventyx, and to foster the collaborative
+behavior required to make the benefits sustainable.
+
+The plan has two parts. The first is intended to reward
+the achievement of predefined objectives for 2013 related to
+revenues, operational EBITDA, and customer and employee
+retention and development, at each of the three acquisitions.
+Each business accounts for one-third of the first part of the
+plan. The second part is intended to accelerate collaboration
+between ABB's business, technical, functional and local
+experts, a step which the Board considers vital not only to
+integrating the acquisitions but also to providing customers.
+with the kind of service and experience that will enable the
+company to meet the ambitious goals of its 2015 strategy.
+
+The plan was launched in the fourth quarter of 2012 for
+members of the EC who are expected to be in their positions
+throughout 2013, excluding the CEO who will participate in
+the assessment of participants. In addition, Michel Demaré,
+whose departure from ABB was announced in October 2012,
+and Eric Elzvik, who joined the EC in February 2013, are not
+participants in the plan.
+
+The plan consists of conditionally granted shares (capped
+at a maximum of 768,286 shares). The payout, if any, will
+occur in 2014 and will be made in shares (70 percent) and
+cash (30 percent), although participants can elect to receive
+100 percent in shares.
+
+2.4 EC compensation in 2012
+
+ABB discloses the compensation elements for each member
+of the EC, going beyond the requirements of the Swiss Code
+of Obligations.
+
+The table in this section provides an overview of the total
+compensation of members of the EC in 2012, comprising
+cash compensation and the estimated value of the conditional
+grants awarded under the AIEP and under the three-year
+LTIP launched in 2012. Cash compensation includes the base
+salary, the short-term variable compensation for 2012 and
+pension benefits, as well as the amounts paid by the company
+to cover other benefits comprising mainly social security
+contributions. The performance components of LTIPs and the
+AIEP are valued at grant using the ABB share price and
+Monte Carlo modeling, an accepted simulation method under
+U.S. GAAP (the accounting standard used by ABB). The
+compensation is shown gross (before deduction of employee’s
+social security and pension contributions).
+
+The base salary and benefits are fixed elements of the
+annual compensation packages, while the other compo-
+nents are variable. In 2012, fixed compensation represented
+27 percent of the CEO’s remuneration and an average of
+34 percent for the other EC members. The ratio of fixed to
+variable components in any given year will depend on the
+performance of the individuals and of the company against
+predefined Group performance objectives.
+
+The total of base salary and benefits, short-term variable
+compensation and LTIP awards was 42.5 million Swiss francs
+in 2012 compared with 37.8 million Swiss francs in 2011
+for individuals who were members of the EC at the end of
+the respective year. This change reflects the addition of
+one member to the EC as well as the higher award level under
+the 2012 LTIP. The conditional award in 2012 under the one-
+time AIEP resulted in an additional 8.4 million Swiss francs,
+bringing their total compensation to 50.9 million Swiss francs
+in 2012.
+
+ABB Annual Report 2012| Remuneration report 37
+
+
+--- Page 35 ---
+
+3 Be
+os o52
+os Lag
+fo Sous
+Bs 2
+238 o2s
+2 Zen Zee
+a oss oa
+Se 2 g 258 o>u
+65 3 2 Sage sac
+> -s 5 5 S$Pe ste
+i Es a fo a gs oss
+3 52 c s 23a 3 25%
+o ao 8 BaF £ wae
+Z3 2 ra € 8 € _
+° £ 7 5 oa a2 36 a3
+a ge § s Reo 52 %Bo aed
+= ra 5
+Name a a8 a fe} ges Ra was ae
+(CHF) (CHF) (CHF) (CHF)
+
+"971,450
+“805,002 885,500 286,938 172,054 851,003
+Ulrich Spiesshofer 865,673 962,500 235,680 je4948 1,363,655
+Di ~ 880,000 273,583 “899,193
+
+"896,656
+974,623
+891,085
+
+Gary Steel
+
+Diane de Saint Victor
+
+Bernhard Jucker "950,004 1,045,000. -280,872 179,220 1,067,784 3,522,380 1,058,174 4,580,554
+Veli-Matti Reinikkala. 770,006 847,000 263,892 145,236 865,483 2,801,617 «867,673. 3,749,291
+Brice Koch 816,669 913,000 284,425 212,479 1,099,345 3,275,918 924,511 4,200,429
+TarakMehta 718,837 -803,000.——-222,181 369,734 820,512 2,934,264 813,119 3,747,383
+a a
+Greg Scheu (joined on
+
+May 1, 2012) 450,002 495,000 161,816 42,727 713,574 1,863,119 751,851 2,614,970
+a
+
+ABB on May 7, 2012) 456,523 500,914 197,742 401,148 740,017 2,286,844 389,860 2,626,204
+
+Total Executive
+Committee members
+as of Dec. 31,2012 10,476,690 12,665,693 2,966,326 3,041,294 13,356,214 42,506,217 8,392,955 50,899,172
+
+Peter Leupp
+
+(retired from the EC on
+
+March 1, 2012)® 496,694 291,960 167,900 206,794 - 1,163,348 - 4,163,348
+Total former Executive
+
+Committee members
+as of Dec. 31, 2012 496,694 291,960 167,900 206,794 - 1,163,348 - 1,163,348
+
+Total 10,973,384 12,957,653 3,134,226 «3,248,088 13,356,214 43,669,565 «8,392,955 52,062,520
+
+The table above shows accruals related to the short-term variable compensation for the year 2012 for all Executive Committee members, except for Peter Leupp, who received in July
+2012 a pro-rata short-term variable compensation payment covering the period of his service as an EC member. For all other Executive Committee members, the short-term variable com-
+pensation will be paid in 2013, after the publication of the financial results. In March 2012, the current and former Executive Committee members received the 2011 short-term variable
+compensation payments totaling CHF 12,102,149. Short-term variable compensation is linked to the objectives defined in the ABB Group's scorecard. Upon full achievement of these
+objectives, the short-term variable compensation of the CEO corresponds to 150 percent of his base salary, while for all other Executive Committee members it represents 100 percent
+of their respective base salary. The Board has the discretion to approve a payout that is up to 50 percent higher (representing up to 225 percent of the base salary for the CEO and
+150 percent of the base salary for other members of the Executive Committee), if the objectives are exceeded. For 2012, the Board exercised its discretion and awarded a 10 percent
+higher payout, reflecting the Company's performance against the objectives.
+® Other benefits comprise payments related to social security, health insurance, children’s education, transportation, tax advice and certain other items.
+©The estimated value of the share-based awards is subject to performance and other parameters (e. g. earnings per share) and may therefore vary in value from the above numbers
+at the date of vesting, January 3, 2014 (AIEP) and May 31, 2015 (LTI Plan). The above amounts have been calculated using the market value of the ABB share on the day of grant and,
+in the case of the AIEP and the performance component of the LTI Plan, the Monte Carlo simulation model.
+“ Frank Duggan received 20 percent of his base salary in AED and 80 percent in EUR at a fixed AED/EUR exchange rate for the period January to December 2012. All AED payments were
+converted into Swiss franes at a rate of 0.2491288 per AED.
+©The above compensation figures for Peter Leupp include contractual payments for the period March 1, 2012 to July 31, 2012, but exclude payments to him, after his retirement from
+the Executive Committee, in his capacity as director of ABB in China and of ABB Limited, India.
+
+38 Remuneration report | ABB Annual Report 2012
+
+
+--- Page 36 ---
+
+Details of the share-based compensation granted to members
+of the EC during 2012 are provided in a table of their share-
+holdings in section 6.2 below. Consistent with past practice,
+no loans or guarantees were granted to members of the
+
+EC in 2012.
+
+Members of the EC are eligible to participate in the Em-
+ployee Share Acquisition Plan (ESAP), a savings plan based
+on stock options, which is open to employees around the
+world. In addition to the above awards, seven members of the
+EC participated in the ninth annual launch of the plan. EC
+members who participated in that launch are each entitled
+to acquire up to 580 ABB shares, except for one who is
+entitled to acquire up to 570 shares, at 17.08 Swiss francs per
+share, the market share price at the start of that launch.
+
+Members of the EC cannot participate in the Management
+Incentive Plan (MIP). Any MIP instruments held by EC mem-
+bers (and disclosed in section 6.2 of this Remuneration report)
+were awarded to them as part of the compensation they
+received in earlier roles that they held in ABB.
+
+For a more detailed description of ESAP and MIP, please
+refer to Note 18 to ABB’s Consolidated Financial Statements
+contained in the Financial review section of this Annual Report.
+
+3. Additional fees and
+remuneration
+
+In 2012, ABB did not pay any fees or remuneration to the
+members of the Board or the EC for services rendered to
+ABB other than those disclosed above. Except as disclosed
+in section 7 of the Corporate governance report, ABB did
+
+not pay any additional fees or remuneration in 2012 to persons
+closely linked to a member of the Board or the EC for ser-
+vices rendered to ABB.
+
+4. Compensation
+to former members of
+the Board and EC
+
+Except as disclosed in this Remuneration report, ABB
+did not make any payments in 2012 to a former member
+of the Board or the EC in connection with such role.
+
+5. Change of control
+provisions
+
+Following the spirit of ABB’s remuneration philosophy, none
+of ABB’s Board members, EC members or members of
+senior management receives “golden parachutes” or other
+special benefits in the event of a change of control.
+
+6. ABB shareholdings
+of members of
+the Board and EC
+
+As of December 31, 2012, the members of our Board and EC.
+owned less than 1 percent of ABB’s total shares outstanding.
+
+6.1 Board ownership of ABB shares
+and options
+
+The table below shows the number of ABB shares held by
+each Board member:
+
+Total number of shares held
+
+Name Dec. 31,2012] Dec. 31, 2011
+Hubertus von Grinberg 173,370 127,387
+Roger Agnelli 160,672 154,992
+Louis R. Hughes 63,928 56,337
+Hans Ulrich Marki 410,192 389,179
+Michel de Rosen 128,595 120,108
+Michael Treschow 97,506 91,741
+Jacob Wallenberg!” 174,882 169,202
+Ying Yeh 8,909 3,197
+Total 1,218,054 1,112,143
+
+Share amounts provided in this section do not include the shares beneficially owned
+
+by Investor AB, of which Mr. Wallenberg is chairman.
+
+Except as described in this section, no member of the Board
+and no person closely linked to a member of the Board held
+any shares of ABB or options in ABB shares.
+
+ABB Annual Report 2012| Remuneration report 39
+
+
+--- Page 37 ---
+
+6.2 EC ownership of ABB shares
+and options
+
+As of December 31, 2012, EC members held ABB shares
+(or ADSs representing such shares), the conditional rights to
+receive shares under the LTIP, options (either vested or
+unvested as indicated) under the MIP and unvested shares
+in respect of other incentive arrangements, as shown in
+
+the table below:
+
+Unvested at December 31, 2012
+
+D g g o
+
+2 2 8 8 2 E g 2 Be
+
+s S S ow oy oy z £2o
+
+é  & 8 8 pe 33 33 & 52
+
+2 2: 32 ga 28 ($3 (£3 < 85
+
+2 2S a 2S 856 956 255 5 25
+
+3° Bo > So 20a eva eva a Soa
+
+ra 32 2 22 SS S§Es SF Es £2
+
+5 $s 5 55 $362 §362 §26¢% y oS
+
+2 et = => 808§ 6085 8o8§ E =?
+
+£ os ° 6S ¢€5cp §5cen §5en = o8
+
+3 52 5 se 285% Saest Yeot ° 53
+
+© as 2 B85 €o2F EFF ERGEE 2 $2
+
+3g es € Ev 2252 e254 g252 ° Eo
+
+S 30 S S50 Doge Bog2 Boge 2 Ea
+
+Name e ze z z2 e328 ests «des s Ze
+(vesting (vesting (vesting (vesting (vesting (vesting (vesting
+
+2013) 2014) 2013) 2014) 2015) 2014) 2013)
+
+Joe Hogan 255,046 - - - 87,841 99,371 148,249 - 189,682
+
+Michel Demaré"
+Gary Steel
+
+“ 397,772
+"919,365
+
+. 164,191 -
+~ 479,189 -
+Bernhard Jucker 434118
+Veli-Matti Reinikkala—~—*122,763
+Brice Koch 30,424 = - - 21,036
+Tarak Mehta ’ :
+Frank Duggan
+
+Ulrich Spiesshofer
+
+Diane de Saint Victor
+
+Greg Scheu
+(joined on May 1, 2012) 32 544,920. 201,250 221,875 - - 29,664 56,008 -
+
+Prith Banerjee (joined
+
+ABB on May 7, 2012) - - - - - - 30,763 29,042
+
+Total Executive
+Committee members as
+of December 31, 2012 1,534,474 1,367,700 | 201,250 221,375 293,739 339,996 554,810 625,220 189,682
+
+© Options may be sold or exercised/converted into shares at the ratio of 5 options for 1 share.
+
+2'The LTI Plan foresees to deliver 30 percent of the value of the vested retention shares in cash, but participants have the possibility to elect to receive 100 percent
+of the vested award in shares.
+
+©The AIEP foresees to deliver 30 percent of the value of the vested shares in cash, but participants have the possibility to elect to receive 100 percent of the vested award in shares.
+‘The actual number of shares to be delivered could be increased up to a total maximum amount of 768,286 shares.
+
+Total number of shares held includes 4,500 shares held jointly with spouse
+
+40 Remuneration report | ABB Annual Report 2012
+
+
+--- Page 38 ---
+
+Furthermore, at December 31, 2012, the following members
+of the EC held conditionally granted ABB shares under
+the performance component of the LTIP 2012, 2011 and
+2010, which at the time of vesting will be settled in cash.
+
+Except as described in this section, at December 31, 2012,
+no member of the EC and no person closely linked to a
+member of the EC held any shares of ABB or options in ABB
+shares. For comparative information about share and
+option ownership of EC members in 2011, see Note 12 to
+the ABB Ltd statutory financial statements.
+
+Maximum number of conditionally
+granted shares under the
+
+performance component of the
+
+Name 2010 launch of LTI Plan
+(vesting 2013)
+
+Maximum number of conditionally
+
+granted shares under the Reference number of shares
+performance component of the
+2011 launch of LTI Plan
+
+(vesting 2014)
+
+under the performance component
+of the 2012 launch of LTI Plan
+(vesting 2015)
+
+Gary Steel
+Ulrich Spiesshofer
+
+Diane de Saint Victor
+
+Bernhard Jucker
+
+Greg Scheu
+
+(joined on May 1, 2012) - - 17,425
+Prith Banerjee
+
+(joined ABB on May 7, 2012) - - 18,071
+Total Executive Committee
+
+members as of Dec. 31, 2012 193,126 202,695 326,576
+
+ABB Annual Report 2012| Remuneration report 41

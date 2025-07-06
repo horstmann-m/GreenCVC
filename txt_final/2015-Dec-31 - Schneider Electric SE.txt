@@ -1,0 +1,3320 @@
+
+
+--- Page 1 ---
+
+1
+
+14
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+GROUP STRATEGY AND MARKET OPPORTUNITIES
+
+> 1. Group strategy
+and market opportunities
+
+Schneider Electric, the global specialist in energy management and automation with operations in over 100 countries,
+brings together its expertise and solutions to make sure that Life is On for its customers and that energy is safe,
+
+reliable, efficient, connected and sustainable.
+
+Urbanization, industrialization and digitization enrich our lives but they are also escalating energy and resource
+consumption worldwide. New technologies enabling for the first time distributed and connected energy, challenge
+us to redefine the way we live. As the leader in energy management and automation, Schneider Electric helps its
+customers achieve more with less resources in a more connected, distributed and smart world and where the need
+for energy will continue to increase. Schneider Electric provides innovative technologies, solutions and services for its
+customers to achieve the most efficient and sustainable use of their resources, assets, processes and infrastructures.
+
+11 Our mission
+
+At Schneider Electric, our mission is to serve our customers by
+developing innovative products and solutions that simplify the
+lives of those who use them. We bring together our expertise and
+solutions to drive new possibilities for efficiency and savings.
+
+As the global specialist in energy management and automation,
+we are committed to worldwide improvement in connectivity,
+sustainability, efficiency, reliability and safety in five primary areas:
+in our homes, in our cities, in our industries, in our buildings, and
+in the cloud.
+
+Our intent is to make sure that Life is On for everyone, everywhere
+and at every moment with our technology. We ensure that energy is
+on for our customers and that it is:
+
+© safe: protecting people and assets;
+
+reliable: guaranteeing ultra-secure, ultra-pure and uninterrupted
+power especially for critical applications;
+
+efficient: delivering solutions adapted to the specific needs
+of each market that simplify customers’ life and improve their
+efficiency and productivity;
+
+sustainable: helping customers build a sustainable future by
+using less of their resources and minimizing the impact on the
+environment; and
+
+connected: leveraging new opportunities with the convergence
+of Operational Technology (OT) and Information Technology (IT).
+
+1.2Megatrends in our environment are creating opportunities
+
+Urbanization, industrialization and digitization continue to shape
+our lives as new economies are built and established economies
+are transformed. These three megatrends will create many new
+opportunities for Schneider Electric.
+
+Urbanization
+
+Cities today are the home to 50% of the world’s population,
+consume 75% of global energy consumption and give off 80% of
+greenhouse gas emissions. Cities are growing: by 2050, they cities
+house an additional 2.5 billion people. Cities face urban challenges
+of unprecedented scale: scarcity of resources such as energy and
+water, environmental pressure and pollution, aging and overloaded
+infrastructure, traffic congestion; and security concerns.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+All over the world, cities need to become smarter: more efficient,
+more liveable and more sustainable. This means:
+
+° improving the efficiency of the city’s underlying urban
+infrastructures, from the electricity grid to water distribution
+systems, via public transportation systems, services... and
+exchange of data and information across departments;
+
+* becoming a better place to live, work and play;
+
+° reducing its environmental impact — lower carbon footprint,
+reduce energy consumption and urban regeneration.
+
+So what cities need today are solutions to their most acute pain-
+points that: deliver the services and savings that constituents deserve,
+provide visible, measurable results that promote attractiveness; and
+have a low upfront investment, because cities across the world need
+to balance their budgets.
+
+
+--- Page 2 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+Schneider Electric delivers urban efficiency as a trusted partner to
+drive collaboration and buy-in of all stakeholders - local and regional
+governments, private companies, utilities, real estate developers,
+and investors. We provide comprehensive solutions by bringing in
+proven technology, integrating operating and information systems,
+and enabling a connected, unified approach to decision-making.
+Schneider Electric already works with more than 250 cities across
+the world, and helps provide visible benefits to cities and their
+inhabitants:
+
+© up to 30% energy savings;
+© up to 15% reduction in water losses;
+© as well as environmental, social and economic benefits.
+
+Industrialization
+
+Industrialization is driven by the increase in the number of factories
+in New Economies, by higher demand for goods, and by efficiency
+improvements as well as retrofit in mature countries
+
+Manufacturing activities rise as new economies develop. In
+2015, new economies represented 39% of world GDP - and
+this should reach close to 52% by 2030. Industrialisation in these
+economies will continue in the medium term. Population growth in
+new economies is also driving increased needs for manufactured
+goods, with 1.8 billion people entering the global consuming class
+by 2025. Capex in new economies will also continue to increase in
+the medium term from 53% of world Capex in 2015 to close to 57%
+by 2030. At the same time energy needs will increase accordingly.
+The share of global energy demand of non-OECD countries will
+continue to rise — from 60% in 2014 to close to 66% by 2030 —
+increasing demographics growth, industrialization, urbanization,
+and reflecting affluence.
+
+In many mature countries, as most companies are looking for
+efficiency gains and facility upgrades, services and other attributes
+in manufacturing characteristics (e.g. innovation, time to market,
+loT) are also becoming more important and driving additional
+growth potential. Industries account for one-third of the total world
+energy consumption. This global industrial energy use is projected
+to double by 2050 in the absence of any new environmental
+measures. Even with the ambitious emissions reduction policy
+changes, the International Energy Agency estimates that we will still
+see an increase of at least 50% by 2050. In face of these challenges,
+over 100 companies committed to 100% renewable power during
+the COP21 through the RE100 initiative.
+
+The growing trend towards increasing of industrialization promises
+business growth and expansion opportunities. Schneider Electric
+will continue its focus on innovative solutions and to identify
+opportunities for further services development, in order to
+contribute towards efficiency and sustainability improvements
+in these markets. For long-term sustainable development in new
+economies, Schneider Electric will continue to focus on combining
+
+GROUP STRATEGY AND MARKET OPPORTUNITIES
+
+its global value chain with local partnerships to contribute toward the
+economic development through job creation and poverty reduction,
+in addition to investments in production capacity and physical &
+technological infrastructure to meet the growing demands for
+standardized and cost efficient offerings.
+
+Digitization
+
+In the past 20 years, the Internet has connected 3.2 billion
+people together. In the coming ten years, this number will double.
+Additionally the Internet will connect 50 billion devices over the
+next five years. The increase in connectivity and access to real-
+time information is changing our personal and professional lives:
+companies are digitizing their operations, often times through SaaS
+providers; customers are expecting to have everything online,
+from e-training to e-ordering and digital customer service centers;
+lastly, and employees are increasingly using online platforms and
+tools to collaborate more efficiently across different countries and
+time zones. Digitization is changing the way we work and creating
+opportunities for new services.
+
+In energy management, operational technology (OT), the world
+of physical equipment control, is converging with information
+technology (IT), the world of information processing. Products are
+now connected and can be remotely controlled and optimized.
+This results in the feasibility of actively implementing active
+energy efficiency, which creates new business models and new
+opportunities in smart products, systems and services — such as
+smart grid and smart factories.
+
+Asmarter grid combines smarter supply (the efficient integration of
+renewable and distributed energy sources and flexible distribution),
+smarter demand (energy-efficient sites and homes, connected to
+the grid), and demand response to balance the two. Schneider
+Electric is active in five key domains which form a smart grid:
+flexible distribution, renewable energy integration, efficient buildings,
+electric vehicle charging infrastructure and demand-response.
+Microgrids and distributed energy resources (DER) — small-scale
+renewable energy sources and energy storage — allow consumers
+to produce their own energy and shift to a greener energy mix. The
+costs of both solar and storage have been dropping by a factor
+of five in the past few years, and analysts expect the renewable
+sector to account for up to 50% of new capacity additions by
+2030. Schneider Electric is supporting the development of new
+battery storage technologies and in 2015 announced EcoBlade, a
+smart and scalable energy storage solution for all customer needs.
+Acquisitions have also considerably strengthened our offering, from
+Areva’s Distribution business to Energy Pool and Vizelia in 2010,
+and the acquisition of Summit Energy and Telvent in 2011.
+
+The smart manufacturing enterprise is made up of smart machines,
+plants and operations with higher levels of embedded intelligence.
+Connectivity based on open and standard Internet protocols
+and cloud technologies with integrated cybersecurity enables
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 15
+
+
+--- Page 3 ---
+
+1
+
+16
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+GROUP STRATEGY AND MARKET OPPORTUNITIES
+
+the use of advanced analytics and mobile technology to unlock
+higher efficiency and profitability, as well as improved security. For
+example, real time data analytics allows for predictive maintenance
+and improved Asset Performance Management, while augmented
+reality helps maintenance operators improve productivity and
+minimize downtime. Together with OT sensors and control devices,
+industrial software is the core of smart factories. With the acquisition
+of Invensys, Schneider Electric has significantly strengthened its
+industrial software offering, especially in operations management, for
+process management as well as industrial automation applications.
+
+In addition to continuously innovating and digitizing our offerings,
+Schneider Electric aims to provide the best-in-class digital
+experience to our customers and partners, such as a 24x7
+
+1.3 Group strategy
+
+As a leader in energy management and automation, Schneider
+Electric is at the forefront to capture these megatrends with an
+extensive energy management and automation offer that it delivers
+globally through complementary business models and access
+channels.
+
+Leveraging the world’s new energy challenges
+
+The quest for economic growth and development is straining our
+planet's resources. The world is facing many energy challenges:
+scarcity of natural resources, CO, emissions reduction requirements,
+integration of unpredictable and intermittent renewable sources of
+energy, higher in peaks of consumption and others. In its World
+Energy Outlook, the International Energy Agency (IEA) estimates
+that the various energy efficiency policies that are being introduced
+in many countries across the world could account for about 70%
+of the reduction in projected global energy demand in 2035,
+and 68% of the cumulative global savings in CO, emissions. This
+compares with a 46% increase in global energy demand by 2035
+if nothing changes.
+
+Boosting energy efficiency in the three major energy-consuming
+sectors (industry, buildings and residential) could help a country
+reduce its overall energy use by 15% to 25% — in effect, providing
+a very attractive business case in both mature and new economies.
+energy efficiency also offers an excellent payback: according to
+the IEA, every euro invested, in particular in buildings, would yield
+EUR1.60 in energy savings. Schneider Electric has developed a
+wide range of products and solutions that will provide homeowners
+and managers of industrial plants, data centers, infrastructure and
+buildings with significant levels of energy efficiency and savings.
+
+Our building automation solutions can save up to 30% of a
+building's energy needs, significantly improving a company’s carbon
+footprint, while delivering savings on its charges, with limited upfront
+investment.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+dynamic sales & marketing channel and a tailored customer service
+experience. Digitization is at the core of the Group’s strategy and
+Schneider Electric is committed to support the digital transformation
+of its customers and its partners.
+
+Urbanization, industrialization and digitization are creating many
+new opportunities for Schneider Electric, from the growing needs
+in terms of automation and connectivity to the massive entitlement
+of energy efficiency that recquires an optimized use of resources.
+Schneider Electric will continue to play a leading role in the
+movement toward a more efficient, sustainable, and connected
+world.
+
+Our smart grid solutions help electricity producers and distributors
+to improve the efficiency of their assets and to offer a better service
+to their customers. This also contributes to the improvement in
+the operation of the grid and the reduction in investment in new
+generation capacity.
+
+Serving our customers’ increasing need for
+automation in key market segments
+
+The rapid industrialization taking place in new economies and the
+need to modernize existing industrial facilities in mature economies
+create significant opportunities for growth. Coupled with this, large
+corporations are looking to improve operational efficiency across
+the whole enterprise, while at the same time improving security and
+safety for operators and the environment.
+
+With the recent acquisition of Invensys, Schneider Electric enjoys
+a strong position both in discrete and process automation and is
+well-placed to address these challenges. We leverages the Group
+extensive software capabilities to help customers in key industries,
+such as mining, oil & gas, food-processing or cement plants,
+improve their productivity and operational efficiency, reduce their
+energy consumption and optimize their use of resources.
+
+Schneider Electric also helps machine manufacturers in markets
+such as materials handling or packaging develop reliable, fast,
+precise and efficient machines. Our application design engineers
+optimise the machine's performance and reduce the length of the
+design cycle, shortening the machine builder's time-to-market.
+
+Supporting the digital transformation
+of customers and partners
+
+The convergence of operational technology (OT) and information
+technology (IT) creates many new opportunities for customers.
+It makes their life easier, increases productivity, creates new
+business models that provides new value propositions for their own
+customers. Digitization is at the heart of their future growth. Through
+
+
+--- Page 4 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+continuous innovation, Schneider Electric engineers products and
+solutions that help them unlock this potential.
+
+Schneider Electric builds native connectivity into its product
+offerings, delivers a full range of digital services to help customers’
+extract value from their data and provides and the best customer
+experience to its customers and partners.
+
+Leveraging the opportunity from new
+economies
+
+Countries in Asia (excluding Japan), Latin America (including
+Mexico), the Middle East, Africa and Eastern Europe (including
+Russia), which we refer to collectively as « new economies »
+will continue to experience accelerated development in the
+medium-term as they catch up with more mature economies.
+As a result of the industrialization, urbanization, digitization and
+development processes that these countries are experiencing, we
+expect these markets of their economies to continue to have a
+medium-term need for the products and solutions that we
+provide. Our goal is to leverage this opportunity by expanding
+our geographical coverage in these markets, by increasing our
+presence in new cities, and further penetrating these markets, with
+mid-market segment offerings that are supported by strong brands
+with wide local coverage. We have made a long-term commitment
+to, and investment in, these economies.
+
+As of December 31, 2015, the Group had over 92,338 employees
+in new economies and, during 2015, our new economies-based
+purchasing and manufacturing costs accounted for approximately
+54% of our industrial costs. Schneider Electric is well positioned to
+support the medium term needs of new economies in Asia, Africa,
+the Middle East, Latin America, Eastern Europe and Russia. The
+decision to split our Executive Committee into three management
+hubs, a pioneering management decision, allows us to be close to
+our customers in all markets — remaining local while being global.
+Our long-term commitment helps us build an intimate knowledge
+of these markets and we believe that the strength of our brands,
+our competitive local supply chain and the development of local
+marketing and R&D capabilities are our competitive advantages in
+these economies:
+
+Building two complementary business models:
+Products, and Solutions
+
+Products and, solutions are different and complementary business
+models and we aim to deliver profitable growth in both.
+
+GROUP STRATEGY AND MARKET OPPORTUNITIES
+
+Products allow the Group us to continue to achieve scale and pricing
+power. In order to reinforce our leadership position and continue to
+grow, we leverage technology to offer connected, market leading
+products and to create new opportunities for distributors and direct
+partners in a win-win relationship.
+
+Solutions and Services allow us to generate additional growth and
+profits, lower capital intensity and help reduce cyclicality. They
+provide significant opportunities to develop greater customer
+intimacy and stickiness through dialogue with final end users, which
+in turn helps inform our quest for continuous innovation. The Group
+has developed reference architectures for solutions in targeted end-
+markets in order to facilitate the smooth integration of our products
+and speed up project design and we have a unique software suite
+to optimize enterprise performance, StruxureWareTM, providing
+our customers with full but simple control and management of their
+operations. Schneider Electric also supports the productivity and
+peace of mind of our customers with an extensive range of digital
+services and maintenance services delivered by a network of over
+10,000 qualified technicians.
+
+Investing in profitable and responsible growth
+while driving efficiency
+
+We believe in the high long-term growth potential of our business
+and Schneider Electric continuously invests to drive that growth.
+This investment is focused on sustained spending on research and
+development, as well as on growing our commercial presence and
+skills, especially in the fields of high value-added technologies and
+services.
+
+In addition to our commitment to organic growth, the Group has
+invested in, companies, joint ventures, strategic alliances and
+mergers that have reinforced our global leadership, provided
+skills in geared towards energy management and automation, or
+related to local businesses in new economies. Certain of our recent
+acquisitions have been of significant size and scope, such as our
+purchase of Invensys in 2014, Telvent in 2011 or Areva’s Distribution
+division in 2010, while other acquisition targets have been more
+modest.
+
+In addition to the investments we make to foster growth, driving
+efficiency at all levels of our Company is an equally important focus
+for the Group. We continuously seek to generate savings from
+purchasing and manufacturing and through improving operational
+efficiency by reducing selling, general and administrative expenses,
+while maintaining best-in-class standards in environmental
+sustainability and social responsibility.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 1/7
+
+
+--- Page 5 ---
+
+1 OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+GROUP STRATEGY AND MARKET OPPORTUNITIES
+
+1.4 Group competitive strengths
+
+Schneider Electric is a leader in technology innovation and adapts
+to changing ecosystems and customer needs.
+
+Technological leadership in energy
+management and automation
+
+We are developing best-in-class technology in energy management
+and automation to meet growing customer needs and challenges.
+We estimate that nearly 80% of our revenue is derived from sales in
+businesses where Schneider Electric enjoy as number one or two
+market position: low voltage distribution, medium voltage distribution
+and grid automation, discrete industrial automation and control,
+critical power and cooling. We design products and solutions that
+we believe offer the best levels of safety, reliability and efficiency
+in our markets. This is achieved through significant investment in
+research and development, which supports our innovative product
+offerings and our ability to offer our customers market-leading
+solutions that seamlessly integrate the different technologies in our
+portfolio. As a result, our products and solutions meet the needs
+of our customers for simplicity, connectivity, flexibility, productivity
+and efficiency. Additionally, through an ongoing dialogue with our
+customers, we are able to maintain our very high standards of
+quality and to anticipate the innovation that will help drive our future
+growth. Thanks to this technological leadership, the Group's major
+brands are among the most recognized in our industry.
+
+Multiple access channels to a broad and diffuse
+user base
+
+We work with many types of partners, such as distributors, system
+integrators, contractors, panel builders, electricians, machine
+manufacturers and others, as well as with our end customers.
+
+1 8 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+The Group has developed the widest network of distribution and
+direct partners in its industry. This provides us with many access
+channels to a market comprised of a broad and diffuse user base.
+These diverse market access channels, which support our model
+with limited capital investment, help to ensure that we are not
+dependent on a limited number of large customers.
+
+Success in this industry requires strong, long-term relationships
+with our distribution partners and end customers and the Group
+is therefore constantly seeking to enhance the value that we add.
+For example, we provide training for our partners and participate
+in industry efforts to improve applicable regulations and safety
+certifications. These efforts and relationships also help to reinforce
+our reputation as a trusted partner and allow us to benefit from solid
+pricing power.
+
+Global reach with a unique local presence
+
+We have operations in more than 100 countries, providing a
+balanced geographical exposure on a global basis. Due to our large
+footprint, we are one of the few partners of multinational companies
+that look for the highest standards of technology and quality for
+their energy management equipment in all their operations around
+the world. This allows us to provide an optimal service to our global
+customers. In addition, we have deep-rooted local presence and
+strong partnerships in all countries to serve our highly-dispersed
+part of our customer base. Lastly, with 43% of our revenues in new
+economies in 2015, the Group believes it is positioned to capture
+the higher growth potential of these markets. Our presence in many
+diverse markets ensures that we understand local needs, which
+assists us in serving our customers in each country with dedicated
+products and solutions adapted to local requirements.
+
+
+--- Page 6 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+BUSINESSES, END-MARKETS AND CUSTOMER CHANNELS.
+
+> 2. Businesses, end-markets
+and customer channels
+
+Schneider Electric is organized in four businesses - Buildings & Partner, Infrastructure, Industry, and IT - and
+operates in four principal markets: non-residential & residential buildings, utilities & infrastructure, industry & machine
+
+manufacturers, and data centers & networks.
+
+The Group manages multiple market access channels built on strong partnerships.
+
+2.1. Leadership positions in our businesses
+
+Schneider Electric operations are organized in four businesses:
+Buildings & Partner, Infrastructure, Industry, and IT.
+
+The Buildings & Partner business: Number 1
+Worldwide in Low Voltage and Building
+Automation
+
+Low voltage ("LV") electrical distribution products and solutions
+address the needs of all end markets from residential to commercial
+buildings, spanning across industries, infrastructures and data
+centers. The offer portfolio is extensive and includes: protection
+functions (such as circuit breakers), power monitoring and control,
+power meters, electrical enclosures, busways, cable management
+systems, power factor correction, products for living spaces (such
+as wiring devices, network connectivity, home automation and
+building controls), as well as renewable energy conversion and
+connection equipment and electric vehicle charging infrastructures.
+
+Building Automation facilitates comfort and energy efficiency
+in non-residential buildings through automation and security
+systems, including Heating, Ventilation & Air-Conditioning (“HVAC”)
+controllers, sensors, valves and actuators, programmable
+regulators, centralized building management systems, space
+optimization solutions, access control, video cameras and security
+monitoring equipment.
+
+The Industry business: Number 1 Worldwide,
+in Process Safety Systems, Number 2
+
+in Discrete Industrial Automation and
+Number 4 in Discrete and Process Automation
+
+The historical Industry business scope is Discrete Automation,
+which provides comprehensive products and solutions for the
+automation and control of machines, manufacturing plants and
+industrial sites. It includes hardware, such as motion controllers,
+variable speed drives, motor starters and contactors, human-
+machine interface (“HMI”) operator panels, programmable logic
+
+controllers (“PLC”), push buttons and signaling devices and
+discrete sensors, as well as software for operations management
+and supervisory control systems. With the acquisition of Invensys
+in 2014, the Industry business has expanded in the field of
+Process Automation, gaining a strong installed base in Distributed
+Control Systems and Instrumentation, notably under the Foxboro
+brand, and Safety Systems (under the Triconex brand), as well
+as a strong industrial software offer for manufacturing operations
+management (Wonderware), modeling/simulation (SimSci) and
+asset management (Avantis).
+
+The IT Business: Number 1 Worldwide
+in Critical Power and Cooling
+
+The IT Business specializes in critical power products and solutions
+for data centers and other applications where power continuity
+and quality is essential. The portfolio includes single-phase and
+three-phase Uninterruptable Power Supplies (“UPS”), plug-in surge
+protection, IT enclosures, power distribution units, security and
+cooling systems, services and software management.
+
+The Infrastructure business: Number 1
+Worldwide in Medium Voltage & Grid
+Automation
+
+Infrastructure specializes in medium voltage (MV) and grid
+automation products and solutions. That includes primary and
+secondary medium voltage switchgear, transformers, electrical
+network protection and automation, remote control, and MV/LV
+complete substations. It also includes software for the integrated
+management of mission-critical infrastructure and Advanced Grid
+Solutions, such as Distribution Management Software (DMS),
+Operation Management Software (OMS), Supervisory Control And
+Data Acquisition (SCADA) software, pipeline management, and
+traffic management. This offer can be delivered both through direct
+and indirect channels leading to various delivery models ranging
+from transactional sale to complete project delivery.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 19
+
+
+--- Page 7 ---
+
+1
+
+20
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+BUSINESSES, END-MARKETS AND CUSTOMER CHANNELS
+
+2.2__Serving four attractive end markets
+
+Schneider Electric serves customers in four principal markets:
+© Non-residential & Residential Buildings;
+
+° Utilities and Infrastructures;
+
+® Industries and Machine Manufacturers;
+
+* Data Centers and Networks.
+
+Non-residential and residential buildings
+
+The non-residential buildings market includes public, commercial
+and industrial buildings such as offices, hotels, hospitals, shopping
+malls, schools, sports and cultural centers. Because this sector is
+energy intensive, energy efficiency is key and is subject to new and
+demanding regulations. Specific requirements have to be met in
+terms of occupant comfort, safety and environmental friendliness,
+as do the needs of owners and building managers seeking to
+reduce investment costs and optimize maintenance and operating
+costs. Schneider Electric’s non-residential customers include end-
+users, property developers, design firms, systems integrators,
+panel! builders and installers, electrical equipment distributors and
+building management companies.
+
+In the context of single-family homes and apartment buildings,
+Schneider Electric’s market is driven both by renovation and
+refurbishment needs, particularly in mature economies, as well as by
+construction, particularly in new economies. Whether for renovation
+or construction, the underlying challenge is to reconcile technical
+constraints, local standards and regulations with consumer
+preferences. They not only desire comfort and aesthetics, but
+increasingly, energy efficiency, connectivity, security and monitoring
+services as well. Residential customers include mainly electricians,
+architects and decorators, those involved in the home automation
+industry, lighting and security firms, construction firms, contractors,
+electrical equipment distributors and large do-it-yourself (“DIY”)
+stores, as well as end-users and home owners.
+
+Utilities and infrastructures
+
+Current global challenges in the utilities and infrastructure market
+include increasing energy demand, the need for increased energy
+efficiency to reduce environmental impact, and the development
+of renewable energy sources on the grid causing more stability
+concerns. This market also faces changes in regulations, particularly
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+those regarding demand response, and the growing need for
+security, reliability, and real-time control to ensure efficiency &
+stability. We believe these challenges provide long-term growth
+prospects for Schneider Electric. Our main customers in this market
+include energy operators, water utilities, the owners and operators
+of transportation and oil & gas infrastructure and municipalities.
+
+Industries and machine manufacturers
+
+Our energy solutions enable us to serve almost all segments
+of the industries and machine manufacturers market, including
+mines, cement plants, the food-processing industry and material
+handling and packaging machines. With Invensys, we have
+reinforced our presence in the refining, petrochemical and oil &
+gas industries. Energy efficiency is at the heart of the challenges
+facing these industries, which include the reduction of production
+costs, compliance with new regulations, and the reduction of the
+environmental impact of industrial activity. In addition, both the rapid
+industrialization taking place in new economies and the need to
+modernize existing industrial facilities in mature economies create
+significant opportunities for growth. Our customers include end
+users and professional intermediaries, engineering firms, systems
+integrators, OEMs, electro-intensive industries, pane! builders and
+electrical distributors.
+
+Data centers and networks
+
+Data centers are secure, precision-cooled sites containing
+Information Technology (IT) equipment that processes and
+stores very large quantities of digital data. These sites are the nerve
+centers of businesses and the public sector. The expansion of data
+centers requires a significant increase in electricity to accommodate
+the IT equipment's operation and cooling, as the amount of energy
+needed to cool these rooms has become comparable to the
+amount of energy needed to operate the equipment itself.
+
+Schneider Electric believes that data centers and networks are a
+high-potential market due to the growing digitalization of professional
+and personal activities. With the development of internet giants
+and cloud computing, the physical infrastructure of data centers
+tends to be increasingly the business of dedicated players with high
+performance expectations.
+
+
+--- Page 8 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+BUSINESSES, END-MARKETS AND CUSTOMER CHANNELS.
+
+2.3 Products and Solutions, two complementary business models
+
+The businesses in each of our four business segments offer
+products and solutions. Solutions are comprised of systems, such
+as highly customized products or combinations of our products,
+and services. Our Products and Solutions businesses have
+different revenue growth and profitability profiles, with our Solutions
+business complementing our Products business. Solutions is also
+an important platform to develop our presence in Services, where
+we can deliver higher added value more frequently and lower capital
+requirements.
+
+Product business model
+
+We believe our products offer best-in-class technology, strong
+channel access to markets and optimal quality and cost, which
+
+2.4 Multiple accesses to markets
+
+allows us to achieve scale and pricing advantages in the markets
+in which we operate. We market and sell our products principally
+through distributors and direct partners, such as contractors,
+system integrators and electricians, who provide us with the ability
+to reach large numbers of small and medium-sized customers.
+
+Solutions business model
+
+We believe our solutions offer leading technology, strong integration
+and service capabilities and segment-specific expertise. We market
+and sell our solutions through direct partners, such as contractors
+and system integrators, or directly to larger customers.
+
+Customer satisfaction
+
+Customer satisfaction is an integral part of Schneider Electric’s growth strategy. Every contact with Schneider Electric
+should be a positive experience that makes all customers, no matter who they are or where they are located, feel
+understood and satisfied. This commitment is an important differentiating factor, and customer satisfaction surveys
+are regularly carried out in all countries in which the Group operates, and employees attend related training programs.
+
+Customers also have access to online diagnostics and support services (an e-catalogue, downloadable software and
+
+online information and training).
+
+Alarge portion of Group revenues are made through intermediaries
+such as distributors, systems integrators, installers and purchasing
+advisors, who all bring their own added value and know-how,
+allowing the Group to access a number of different markets.
+
+Distributors & retailers
+
+Distributors account for approximately 40% of the Group's total
+revenues through an extensive network in 190 countries all over
+the world
+
+Schneider Electric works with many different types of distributors:
+local distributors, electrical wholesalers and generalist distributors,
+large international groups such as Rexel, Sonepar, Graybar and
+Grainger, and IT specialists such as Tech Data and Ingram Micro
+in the United States. In the residential renovation sector, Schneider
+Electric also sells products through large home improvement chains
+such as Home Depot and Lowes in the US, Kingfisher in the UK
+and Saint-Gobain Distribution in France. In addition, the Group
+uses specialized distribution channels for highly technical products
+such as automation solutions and industrial software, as well as for
+access control and security products.
+
+Schneider Electric assists its distributors in advising their customers
+and helping them to benefit from technical innovations. To maintain
+a high performance network, the Group works hand in hand
+with distributors on supply chain issues, technical training and
+marketing. Internet tools now occupy a dominant position for sales,
+and above all, provide up-to-date information. Through the e-Shop,
+distributors can link Schneider Electric's product database to their
+e-commerce sites so that customers have reliable 24/7 access to
+information.
+
+Other intermediaries & partners
+
+Panel builders
+
+Panel builders build and sell electrical distribution or control/
+monitoring switchboards, primarily for the buildings, energy and
+electricity infrastructure markets and industry. Their main customers
+are contractors. Panel builders mostly buy low and medium voltage
+devices, such as circuit breakers and contactors, and increasingly,
+prefabricated systems. There are more than 20,000 panel-builders
+throughout the world.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 21
+
+
+--- Page 9 ---
+
+1
+
+22
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+BUSINESSES, END-MARKETS AND CUSTOMER CHANNELS
+
+Contractors
+
+To design solutions tailored to end-users’ specific needs, Schneider
+Electric works closely with contractors, small specialists or generalist
+electricians, large companies that install equipment and systems.
+
+Electricians & DIY stores
+
+Electricians design and perform electrical installations, primarily in
+residential and small non-residential buildings. Schneider Electric
+supports electricians to operate more efficiently through a suite of
+digital tools and technical support. Schneider Electric strengthens
+its relationship with electricians by increasing their visibility to
+end-users through different marketing actions including “installer
+locators” on Schneider Electric's website. Schneider Electric has
+one of the most comprehensive network of electricians worldwide.
+
+DIY stores are a key channel to bring visibility of Schneider Electric’s
+offers to consumers as well as electricians. Schneider Electric
+ensures that it assists them in marketing programs digitally on their
+e-commerce sites as well as in their physical stores.
+
+All of the partners mentioned above add their own bring value for
+end-customers, first by advising them on the choice of solutions that
+best suit their needs and then by installing efficient systems thanks to
+a suite of web-based digital tools called “Building Life Management”.
+The main objective for Schneider Electric is to support them in the
+rapid development of solutions and technologies for the residential
+market: lighting, temperature and door/window management
+systems, recharging equipment for electric vehicles and renewable
+energy solutions.
+
+In order to strengthen a relationship based on mutual trust and
+added value, Schneider Electric partners actively with contractors,
+providing technical training and support. To maximize our business
+impact we have a multichannel communication model through
+personal and digital means, thanks to our Partner Relationship
+Management (PRM) platform.
+
+In this regard, the EcoXpert program aims to secure special
+partnerships with certain specialized contractors, with whom
+Schneider Electric shares all its expertise on renewable energy and
+energy efficiency solutions and services. The EcoXpert network is
+being developed in many countries throughout the world.
+
+Systems integrators
+
+System integrators design, develop and support automation
+systems to meet their customers’ needs for the performance,
+reliability, precision and efficiency of their operations. By providing
+global coverage and local contacts, they offer their clients a high
+degree of flexibility.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Schneider Electric has considerably expanded its automation
+line-up, giving systems integrators access to a powerful platform
+covering all areas of automation, from field control to Manufacturing
+Execution Systems (MES).
+
+Specialists
+
+To meet their customers’ growing demand for comfort, ergonomics
+and design, specialists (engineers, architects and design firms) are
+constantly looking for more efficient and better integrated solutions
+for energy management, as well as for access control, security, and
+building automation.
+
+They are therefore essential partners for Schneider Electric's growth,
+notably in the high-potential buildings and residential markets, which
+include the construction and renovation of single-family homes and
+apartment buildings.
+
+Schneider Electric provides many information and training tools for
+specialists, such as dedicated showrooms, electrical installation
+guides, installation design software and training methods.
+
+End-users
+
+Original Equipment Manufacturers
+
+Original Equipment Manufacturers (OEMs) continuously seek
+to improve machine price/performance and time-to-market in
+segments ranging from packaging to textiles, conveyors, materials
+handling, hoisting and HVAC. Schneider Electric is one of the
+market leader in these segments, and works closely with almost
+5,000 OEMs. The Group leverages its expertise and know-how to
+nurture these special partnerships. This is mainly achieved through:
+
+© an extensive knowledge of OEM applications;
+
+© acontinuous R&D effort to develop innovative, high-performance
+and cost-effective offers and solutions continues at a high pace.
+In 2015, no fewer than 30 brand new ranges were launched,
+more than double the pace of 2014;
+
+dedicated centers of excellence that offer the most competitive
+solutions for new machines, in particular, pre-tested, pre-
+developed and personalized solutions;
+
+international customer support to deliver high-performance after-
+sales service worldwide;
+
+a dedicated program for multi-site and/or global OEMs that
+enhances their ability to offer superior solutions on an international
+scale.
+
+
+--- Page 10 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+Other large end-users and strategic accounts
+
+Schneider Electric also addresses customers directly in a number of
+end-markets, including in particular:
+
+© Automotive, where the Group serves large automotive equipment
+manufacturers;
+
+Cloud & Finance, in which the Group provides comprehensive
+solutions for customers including internet giants, as well as in
+telecoms, co-location, and finance sub-segments;
+
+in Healthcare, the Group serves hospitals, clinics, labs, and life
+sciences manufacturing;
+
+Food & Beverage, in which the Group serves customers in
+various types of food processing industries;
+
+Mining, Minerals & Metals which includes customers in mining,
+cement, metals, and other bulk materials;
+
+Oil & Gas, in which the Group provides integrated solutions
+and high performance systems, software and services to oil
+companies and EPCs, from production to processing and supply
+chain;
+
+2.5 Competitive landscape
+
+The main global competitors of Schneider Electric, by technology,
+are:
+
+© low-voltage and building automation: ABB, Siemens, Eaton,
+Legrand;
+
+¢ medium voltage distribution & grid automation: ABB,
+Siemens;
+
+BUSINESSES, END-MARKETS AND CUSTOMER CHANNELS.
+
+in Utilities, the Group serves companies producing, delivering,
+and/or selling electricity to customers;
+
+° Water & Waste Water includes customers across the entire water
+cycle, from water resources to water distribution, sewerage and
+treatment.
+
+Schneider Electric has established a dedicated organization
+for global customers, so-called « strategic accounts », with the
+purpose of developing privileged relationships with them. To meet
+these customer expectations, the Group offers « preferred supplier
+contracts » and dedicated customer support to ensure that they
+receive services of the highest quality.
+
+This organization is based on short lines of communication and
+decision-making, rapid mobilization of Group resources throughout
+the world, and dedicated teams in which management is directly
+involved.
+
+Schneider Electric serves 89 global customers including Apple,
+BHP Billiton, EDF, ExxonMobil, Nestlé and Veolia Environnement.
+
+e discrete and process automation: Siemens, Rockwell
+
+Automation; ABB; Emerson;
+© critical power & cooling for IT and non-IT applications:
+Emerson, Eaton.
+Other regional and emerging market competitors include: Chint,
+Weg, Larsen & Toubro and Delta.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 23
+
+
+--- Page 11 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+AMBITIOUS LONG-TERM FINANCIAL TARGETS FOR ATTRACTIVE SHAREHOLDER RETURNS
+
+1
+
+> 3. Ambitious long-term financial
+targets for attractive shareholder
+returns
+
+Schneider Electric's opportunities, strategy and business positioning have led its management to define ambitious long-term targets for the
+company. Over the long term, the key priorities remain focused on profitable growth, cash conversion and capital efficiency.
+
+Two sets of targets have been defined: business performance targets and capital efficiency targets.
+
+Across the economic cycle ') performance targets:
+
+© Average organic revenue growth: 3 to 6% across the cycle
+
+¢ Adjusted EBITA: margin between 13% and 17% of revenues
+
+© Cash conversion: c.100% of net profit converted into free cash flow
+
+Across the business cycle capital efficiency targets:
+
+¢ ROCE ®: between 11% and 15%
+
+© Dividend: payout c.50% of net income
+
+© Capital structure: retain a strong investment grade credit rating
+
+At its Investor Day in February 2015, the company also highlighted
+its growth initiatives and near term business focus. The focus will be
+
+© Progressive dividend policy:
+In line with the objective of strong EPS growth, a progressive
+
+on organic growth, improving the returns on the recent investments
+and optimizing the portfolio and capital structure.
+
+Hence the following objectives were defined:
+
+dividend policy is set with no year-on-year decline of dividend,
+showing the Group’s confidence on its future growth prospects.
+The dividend payout ratio will remain c.50% of Net income. The
+
+base of calculation will exclude one offs such as capital gains or
+losses and, or assets impairments.
+
+Objective to improve ROCE in the next 2-3 years:
+
+Margin improvement targeted:
+
+The Group confirms its 13-17% long-term adjusted EBITA margin
+range and targets a margin improvement over the 3 years (2015-
+2017) driven by operating leverage and efficiency initiatives ©
+highlighted in the new company program.
+
+Profitable growth and capital efficiency will drive strong EPS
+growth:
+
+Strong EPS growth is targeted during the new company program
+coming from the organic growth objective and efficiency initiatives
+described in the program, a share buyback “! of EUR1.5 billion by
+the end of 2016 and bolt-on M8A in our core and most profitable
+businesses with strong EPS accretion and return on investment.
+
+The Group has set as an objective the ROCE improvement
+compared to the 2013 proforma ROCE including Invensys of
+10.9%. In 2015, the ROCE reached 11.0%.
+
+(1) Schneider Electric defines a business cycle as a period including a slowdown and an expansion, or a period in between. This concept allows
+investors to estimate the Group's long-term growth potential across a business cycle. The length of a business cycle can vary and can not be
+forecasted.
+
+(2) ROCE is defined as: adjusted EBITA after tax/Average capital employed. Capital employed is defined as: shareholders’ equity + Net financial
+debt + Adjustment for associates and financial assets. The tax rate will be adjusted for any tax advantages related to Invensys that ar not
+included in the income statement.
+
+(3) Includes industrial productivity and gross savings on support function costs.
+
+(4) Share buyback including share buyback in order to cover employees share plans.
+
+24 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 12 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+> 4. Company history and development Cj
+
+4
+
+Histor
+
+From its beginnings in steel during the Industrial Revolution
+over 175 years ago, to electricity and, more recently, to energy
+management, the Group has undertaken significant changes in its
+operations throughout its history.
+
+1836-1980: a Family Business becomes
+a Major Player
+
+1836: Brothers Adolphe and Joseph-Eugene Schneider take over
+an abandoned foundry in Le Creusot, France and, two years later,
+create Schneider & Cie, focusing primarily on the steel industry.
+Schneider & Cie grows rapidly, specializing in the production of
+heavy machinery and transportation equipment, and eventually
+becomes the Schneider Group, a diversified conglomerate.
+
+1975: the Schneider Group acquires an interest in Merlin Gerin,
+one of the top manufacturers of electrical distribution equipment in
+France that has been involved in the electricity sector since 1920.
+
+1981-2001: the Schneider Group refocuses
+on the Electricity Sector
+
+1981-1997: Schneider Group refocuses on the electrical industry
+by divesting its non-strategic assets, such as its public works
+
+COMPANY HISTORY AND DEVELOPMENT
+
+company, Spie Batignolles. Schneider Group undertakes a series
+of strategic acquisitions: Telemecanique in 1988, Square D in 1991
+and Merlin Gerin in 1992.
+
+1999: Schneider Group acquires Lexel, one of Europe's largest
+suppliers of installation systems and control solutions. In May 1999
+the Group is renamed Schneider Electric, to clearly emphasize its
+expertise in the electrical field.
+
+Since 2002: a Strategic Transformation
+
+At the turn of the 2000s, Schneider Electric radically rethinks its
+growth strategy, setting itself three goals:
+
+© ensuring a more balanced exposure to its strategic end markets;
+
+enhancing its portfolio of historical operations (electricity
+distribution, automation and industrial control) with adjacent
+and synergetic businesses in order to boost its organic growth
+potential; and
+
+anticipating the future energy requirements of companies and
+individuals.
+
+This strategy led Schneider Electric to conduct a number of
+strategic acquisitions both in mature countries and in new
+economies targeting companies offering complementary products
+and solutions.
+
+4.2 From Power & Control to Energy Management
+
+Strengthening its leadership in Low Voltage
+Distribution
+
+We have been a long-time leader through our Merlin Gerin and
+Square D brands.
+
+We have reinforced our Wiring Devices and ultra terminal offer
+with several acquisitions: Clipsal in 2003, OVA, Merten and GET
+in 2006, Marisio and Wessen in 2008.
+
+We grew our portfolio in renewables conversion with Xantrex
+in 2008.
+
+We grew our presence in new economies with the acquisition of
+Delixi in China, Conzerv in India (2009) and Steck group in Brazil
+(2011).
+
+Building a global leader in Medium
+Voltage & Grid Automation
+
+We have historically been one of the leading players in medium
+voltage electrical distribution products and equipment.
+
+With the acquisition of Areva T&D (Areva’s medium voltage
+distribution division) in June 2010, we became world leader in
+medium voltage and grid automation.
+
+In 2010, the Group acquired 50% of Electroshield-T Samara, a
+leading medium voltage company in Russia. In 2013, Schneider
+Electric acquired full ownership of this company, transforming
+Russia into a key market for the Group and enhancing our
+capacity to be a key player in the oil, gas and mining industry, as
+well as to develop energy efficiency and smart grid.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 25
+
+
+--- Page 13 ---
+
+1
+
+26
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+COMPANY HISTORY AND DEVELOPMENT
+
+¢ With the acquisition of Telvent in 2011, a Spanish software
+company with a strong presence in North America, we became
+global leader in ADMS, (Advanced Distribution Management
+Systems), supporting the monitoring and management of large
+electrical distribution networks.
+
+Developing a global leader in Industrial
+Automation and Control
+
+© We have been a long time leader in discrete automation through
+our Telemecanique brand.
+
+© We reinforced our Industrial Automation & Control portfolio with
+the acquisition of Citect in 2006, RAM Industries in 2008, Cimac
+and SCADA group in 2010 and Leader & Harvest in 2011.
+
+¢ In January 2014, we closed the acquisition of Invensys plc. This
+strategic move allows us to enter the process automation world
+and reinforces our position in integrated industrial automation
+and electro-intensive segments.
+
+Building a global leader in Critical Power
+
+© We identified Critical Power as a key technology for our portfolio
+and gained majority control of MGE UPS in 2004.
+
+¢ We became a world leader with the acquisition of American
+Power Conversion (APC) in 2007, the US-based world leader
+
+4.3 Recent external growth
+
+in single-phase and three-phase UPS with operations on all
+continents and USD2.5 billion in revenues
+
+e We expanded our operations in new economies with the
+acquisition of UPS manufacturer Microsol Tecnologia in Brazil
+in 2009 and the acquisition of APW in India in 2011.
+
+@ In 2011, we broadened our portfolio with cooling offers from
+Uniflair, data center services from Lee Technologies and backup
+power storage from Luminous.
+
+Creating a major player in Building
+Automation & Security
+
+¢ As the result of several acquisitions, in particular TAC in 2003,
+Andover Controls in 2004 and Invensys Building Systems
+in 2005, we became a major player in building automation.
+
+© We entered the video security market in 2007 with the acquisition
+of Pelco.
+
+In recent years we have further developed our operations in
+mature countries, in particular through the acquisition of two
+pioneering French companies in 2010: Vizelia, a provider of
+software that monitors the energy consumption of buildings in
+real time, and D5X, a specialist in solutions optimizing the use of
+commercial buildings.
+
+© The acquisitions of Summit Energy (2011) and M&C Energy group
+(2012) increased our expertise in energy procurement services.
+
+In 2014, Schneider Electric optimized its offer portfolio through one
+acquisition and two disposals.
+
+© In June 2014, Schneider Electric announced the sale of the
+Invensys Appliance division, renamed Robertshaw Controls
+Company, to an affiliate of Sun European Partners, LLP. The
+disposal follows a strategic review of the Appliance division that
+concluded the unit is not a core business to Schneider Electric;
+
+© In October 2014, Schneider Electric announced the sale of the
+entire shareholding in Custom Sensors & Technologies (« CST »)
+to private equity groups The Carlyle Group and PAI Partners.
+Schneider Electric has reinvested approximately USD100 million
+alongside Carlyle, PAl and CST management to hold a
+shareholding of circa. 30% of CST. The disposal is consistent
+with the Group’s practice to regularly review its strategic portfolio
+and focus on energy management and efficiency technologies,
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+integrating electrical distribution and automation offerings. CST
+had limited synergies with other businesses.
+
+In 2015, Schneider Electric further optimized its offer portfolio to
+strengthen its focus on core businesses and drive the Group's
+performance.
+
+© In October 2015, Schneider Electric reached an agreement to
+sell Juno Lighting to Acuity Brands. Juno is a North American
+supplier, specialized in recessed and track lighting fixtures, in
+both residential and commercial sectors. Schneider Electric
+finalized the sale in December 2015;
+
+© In December 2015, Schneider Electric reached an agreement
+to sell its Transportation business to Kapsch TrafficCom AG.
+The Transportation business targets major cities, highways and
+infrastructure operators in the world. It offers a large range of
+solutions and services in the areas of traffic, tolling, tunnel and
+transit, which make mobility more efficient, safe and sustainable.
+
+
+--- Page 14 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+COMPANY HISTORY AND DEVELOPMENT
+
+44 Change management through company programs
+
+Schneider is On, Schneider Electric’s company program
+
+(2015-2020)
+
+Schneider is On, Schneider Electric’s company program for the 2015-2020 period, is another
+major step in the ongoing deployment of the Group’s strategy.
+
+The company program is structured around five initiatives to deliver more value to customers and shareholders:
+
+1. Do more for the customers to create more opportunities for
+them, and for Schneider Electric
+
+The Group aims in this initiative to bring more value to customers
+and more business to partners, a better intimacy and an access
+to specialists, a consistent project execution and a unique and
+flexible delivery experience.
+
+2. Simplify the operations for increased efficiency
+
+Simplifying work and operations makes the difference to the
+customers. The Group targets to simplify its management setup
+to make the company leaner, further increase supply-chain
+productivity, optimize R&D effi ciency and solution execution
+and increase sales force effi ciency. Overall the Group targets
+to generate by the end of 2017 c. EUR1 billion of industrial
+productivity and c. EURO.4-0.5 billion gross ) SFC savings
+by 2017.
+
+3. Digitize for customers, for efficiency and simplicity
+
+The Group's offers will be more connected, enabling new
+services and improving its customers’ life. The digital customer
+experience will be improved to deliver an end-to-end simple and
+intuitive partner and customer experience.
+
+4. Innovate to support growth
+
+The innovation will focus on delivering the right products and
+solutions for customers in a focused and short timeframe. In
+addition, Schneider Electric will continue to be a partner of hoice
+in sustainability in its innovations and its operations and will be
+measuring its progress through the Planet & Society barometer
+2015-2017.
+5. « Step Up » people
+
+This initiative is focusing on increasing the competency of
+Schneider Electric employees through stronger collaboration,
+enhanced training and a culture of high performance while
+continuing to have a strong engagement for diversity and
+workspace satisfaction.
+
+(1) Before inflation and reinvestment.
+
+2015 marked the first year of the Group’s Schneider Is On company
+program, in which the following achievements were disclosed:
+
+tive:
+
+Within our Do Morei
+
+© services revenues up ~+7%;
+© orders from industrial software grew +6%;
+
+© project hit rate & gross margin at booking improved; gross margin
+deviation between booking and during execution reduced.
+
+Within our Simplify i
+© industrial productivity of ~€0.36bn achieved;
+
+® gross SFC savings of ~€0.3bn delivered, with targets upgraded
+to EURO.6bn for the period 2015-2017 (previous target: EURO.4-
+0.5bn).
+
+Within our Digitize initiative:
+
+* the number of connected assets increased +45%.
+
+Within our Innovate initiative:
+© successful launch of many new offers in our Buildings & Partner
+business across all businesses;
+
+® continued to increase OEM conversions by leveraging our
+innovative OEM solution offer;
+
+© Planet & Society Barometer reached 6.33/10.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 2/
+
+
+--- Page 15 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RESEARCH & DEVELOPMENT
+
+> 5. Research & Development
+
+Innovation is the key to our company’s growth. Schneider Electric has had a history of innovations in the past 100 years.
+
+During 2015, the Group worked on a new strategic plan for R&D based on the following ideas:
+
+¢ R&D Projects to have a better distribution of long term, medium term, and short term
+
+¢ Investing in a smaller number of Big Bet Strategic Initiatives
+
+Practicing Open Innovation with Universities, Startup Companies, Suppliers, and Customers
+
+© Creating a uniform R&D structure and a Technology Community to share best practices about innovation, and leveraging
+
+common platforms
+¢ Improving Ties between R&D and Marketing
+Incubation of New Businesses
+
+¢ Improving the R&D Footprint and R&D Talent in a Global Company
+
+The Group accomplished many « firsts » by implementing technology anticipations in effort coordination, by confirming
+a set of Big Bets grouped into six Strategic Disruptions through Upstream offer & Technology innovation portfolio
+
+reviews:
+
+© Internet of Things (IOT) Services through our Connected Products
+
+© Software Defined Automation
+
+Digital Customer Experience
+
+e Embedded Computing Platform
+
+¢ Micro Grid including Energy Storage
+© Cyber Security
+
+As a technology company, Schneider Electric is constantly seeking to leverage technology advances to deliver truly
+innovative solutions that improve the daily life of people and the efficiency of companies, while constantly improving
+
+the efficiency of its R&D.
+
+5.1 Leveraging technological advances
+
+Emerging trends that appeared in the last five years, like the
+Internet of things (« loT »), digitization and IT/OT convergence, are
+now shaping Schneider Electric’s R&D strategy and investments.
+They are impacting the way products and systems are architected,
+developed, delivered and serviced, with significant value added for
+our customers.
+
+Digitization and loT
+
+In addition to beyond personal devices, loT presents a huge
+opportunity in industrial systems. It enables significant increase in
+the number of measure and control points and, as a consequence,
+allowing for maximum energy efficiency and optimized asset
+availability and performance. Since 2000, Schneider Electric has
+invested in research programs to develop ultra-low power, wireless
+« pervasive sensing » devices, some of which have already reached
+the industrialization phase, just in time to contribute to such
+solutions.
+
+Sensors working up to ten years off a button-size battery while
+transmitting data over wireless « mesh » networks are now available.
+Their lifetime cost is up to ten times lower than classical wired
+sensors and will revolutionize the way buildings and factories are
+
+28 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+monitored and controlled. Other wireless, energy harvesting self-
+powered sensors measuring both the temperature and the power
+intensity, and complying with the tough mission profile imposed
+by the demanding environment of our customers are about to be
+launched on the market.
+
+All of the smart sensors rely on technology platforms providing
+proven components whether for the physical measure, data
+processing, power supply or harvesting and wireless transmission.
+On the latter topic, long range radio technologies like LoRa and
+SigFox have received a specific attention over the last two years
+leading to the first deployments by the end of 2015.
+
+R&D efforts are now focusing on the ease of deploying and
+running large networks of such sensors and the scalability and
+security of the infrastructure needed to harness the data coming
+from these networks. The cloud based Digital Services Platform,
+was developed by Schneider Electric over the last four years to
+address these two challenges. Dozens of pilots are underway with
+business units and external partners, leveraging a library of analytics
+modules developed in the context of the Operational Intelligence
+program. Using mobile technology, the insights delivered by these
+analytics are packaged into simple, yet powerful, « context aware »
+applications. Thanks to geo-localization, the information can literally
+
+
+--- Page 16 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+find its way to the person needing it most, depending on where he/
+she is. Once advised, another set of mobile based applications,
+including augmented reality, further guide the user to transform
+these insights into action.
+
+By combining three platforms: the Smart Sensor Platform, the
+Embedded Control Platform and the Digital Services Platform
+Schneider Electrics provide a consistent and interoperable value
+chain starting from data acquisition, continuing with data processing
+and transmission and up to data storage and analytics to present
+actionable dashboards to our customers.
+
+Optimization and Analytics
+
+In 2015, major evolutions occurred in Schneider Electric in the
+Optimization and Analytics domain: exchanges within the Group
+enabled a good characterization of the potential for future connected
+offers and related analytics, as well as a complementary view of
+relevant analytics for non-connected (or less connected) offers; the
+Digital Services Platform (DSP) reached a level of maturity which
+enables its use in applications managing significant amounts of
+data and integrating analytics.
+
+Technology anticipation addressed different types of actions:
+
+° Exploration of analytics for connected offers in a variety of
+contexts: homes, senior residences, commercial buildings, and
+industrial plants. In most cases, the exploration of new use cases
+builds on the premise that the analytics will be implemented
+on top of the Digital Services Platform and will enable (i) better
+understanding of correlations between data and (ii) use of
+understanding to improve operational and/or investment
+decisions. In some cases, this exploration led to a prototype
+of a brick that could be reused for other applications. External
+collaborations has been important, e.g., the Tribute European
+project, a PhD partnership with the University of Grenoble Alpes,
+on machine learning for virtual sensors, and joint work with Duke
+University on the use of a machine learning algorithm to optimize
+temperature control.
+
+Investigation of condition monitoring and diagnosis
+analytics for asset performance management, often but not
+necessarily, in the context of a connected offer. Both data-
+oriented (machine learning) models and explicit (more or less
+complex) physical models can be used for this purpose, inducing
+very different constraints on the data requirements and global
+solution architecture. The analytics are used to improve the
+reliability, availability, maintainability and safety of devices and
+systems. Important partners in 2015 included Uppsala University
+(IT Business), and the University of Grenoble Alpes.
+
+RESEARCH & DEVELOPMENT
+
+¢ Analytics for planning and control for electrical networks
+(Infrastructure Business), HVAC in buildings and data centers
+(Buildings & Partner and IT Businesses) or industrial systems such
+as mines, cement plants, water networks, pipelines, refineries,
+food and beverage plants (Industry Businesses). Following the
+acquisitions of the previous years, Schneider Electric already has
+a significant offer in this domain, but the frontiers continuously
+move as technology progresses and with the increasing
+availability of more and more data. In particular, progress on
+energy optimization in residential districts and in manufacturing
+plants has been enabled in the context of the Ambassador, Hyllie
+Smart Grid, and Arrowhead European cooperative projects, as
+well as with two PhD partnerships with the GIPSA and LIRMM
+laboratories. For electrical networks, our partnership with Mines
+ParisTech has been complemented by a new PhD collaboration
+with G2ELab and INRIA.
+
+Modeling and simulation
+
+Regarding lifetime cost, the design phase of industrial projects plays
+a critical role in reducing both time and cost of system deployment.
+Invensys, acquired by Schneider Electric in January 2014, is a
+leader in the simulation of complex continuous processes, such as
+refineries or chemical plants. During the design phase, the plant
+can be simulated to optimize its design, validate its performance
+and start operator training before it is even built. The IT division
+has developed a similar set of tools for data centers, including 3D
+thermal simulations to validate the design of the cooling system.
+
+R&D teams are working to generalize this offering to any kind
+of industrial system, including large and complex buildings like
+hospitals, in partnership with the leading CAD/CAE suppliers in
+these domains. Filling the gap between design and operational
+systems will not only decrease design-and-build costs but also
+those linked to maintaining and developing systems over the 30+
+years’ life expectancy that is common in some industries.
+
+Within five years, one can expect that industrial systems will be
+developed like modern software, starting from a model of the
+process, followed by a simulation based on this model, developed
+and tested « against » the model and finally deployed on totally
+standardized hardware.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 29
+
+
+--- Page 17 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+1
+
+RESEARCH & DEVELOPMENT
+
+5.2 Delivering truly innovative solutions
+
+The advances mentioned above generate innovation across market
+segments, all the way from homes to smart cities, as illustrated in
+these few examples.
+
+Homes
+
+The Wiser home control solution includes a battery powered
+wireless thermostat that can be easily installed to optimize the
+comfort and energy consumption of each room. The new version
+of this thermostat, leveraging the loT platform developed in the last
+three years has a five times longer battery life (up to ten years),
+costs 50% less and is three times thinner than a traditional wired
+thermostat. User experience is also an area of innovation. Our
+Wiser range now includes a connected smart thermostat with a
+touch screen color interface and schedule auto-learning feature for
+greater simplicity of use.
+
+LED introduces new challenges regarding control. In 2015, The
+Group delivered solutions with an unprecedented range of dimming
+and simplicity of installation thanks to our knowledge in this core
+area.
+
+Connectivity and open interfaces are also becoming natively
+embedded in our offers, opening the door to application innovations.
+
+Buildings
+
+Buildings represent 82% of the world’s potential energy efficiency
+gains and are a large opportunity for the Group. We are developing
+innovative space management solutions that allow energy savings
+while increasing comfort and making life user-friendly. Our building
+management systems connect facility managers to their buildings
+using cloud based software displaying data on interfaces like mobile
+phones or tablets. This software suite transforms data into valuable
+information for facility managers to better manage and optimize
+their assets.
+
+Energy
+
+Low voltage electrical distribution panels, in addition to ensuring the
+safety of the assets they power, collect a large amount of data which
+can be used to optimize their performance. For example, analyzing
+the frequency of a motor's electrical feedback can allow detection
+of wear and the potential failure of its bearings or the equipment
+they powers. Thanks again to the low cost of the loT platform, every
+distribution panel shipped by Schneider Electric or its partners is
+now connected to the cloud. Data experts and process experts
+collaborate to analyze the patterns in the data coming from the
+panels to come up with novel ways of optimizing their performance.
+Once developed in the cloud, the corresponding algorithms will
+be optimized and implemented in the smart meters and breakers
+built into the panel, thus making it smarter and smarter. The remote
+connection of distribution panels to platform enables services such
+as demand response, allowing the aggregation of multiple buildings
+and/or factories into significant capacity units that utilities can call
+upon at peak times.
+
+Medium voltage products are becoming smarter, for instance with
+the new generation of wireless thermal sensor contributing to the
+predictive maintenance of switchgear panels. Pilot projects in
+asset performance management have been executed in different
+
+30 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+applications segments relying on multiple condition monitoring
+algorithms for circuit breakers and transformers. Latest cyber-
+security standard developed for the substation environments are
+being integrated at product and system level and type tested with
+customers. Security of operation is being further developed through
+the usage of mobile technologies. Innovative services are being
+tested with utilities in order to improve grid performances. Electro-
+technical architectures have been optimized for data centers where
+power distribution increasingly uses medium voltage.
+
+Industry
+
+As End Users and OEMs re-examine their automation and operation
+management strategies to take advantage of the lol, enable
+operational excellence and improve overall business performance,
+PlantStruxure and MachineStruxure architectures play a key role
+in managing convergence between informational technology and
+operational technology. Schneider Electric Best-In-Class Smart
+Connected Products, such as the Altivar Process variable speed
+drive, leverage loT technologies to deliver real customer value.
+With its smart diagnostics based on dynamic QR codes, and its
+embedded optimization algorithms such as pump curves, the Altivar
+Process drive reduces downtime by up to 20%. Furthermore, its
+built-in energy management services and seamless integration with
+business management systems provide real operational insights
+contributing to operational efficiency improvements of up to +25%.
+
+Continuing to lead the world of Automation, the Modicon M580 is
+the world’s first ePAC - with Ethernet built right into its core, bridging
+the gap between the OT and IT worlds’. Thanks to Modicon
+M580 the customer can monitor and diagnose your installation
+in real-time from any location using standard tablet and smart
+phone, greatly improving the efficiency of maintenance teams. In
+automation projects enhanced with Foxboro Control Systems and
+Triconex Safety Systems, Schneider Electric is leading the way
+with Virtualized Engineering, also called Engineering in the Cloud,
+throughout the entire project. From the design phase to verification
+and testing, customers can utilize engineering resources and subject
+matter experts anywhere in the world increasing collaboration and
+reducing time to first production.
+
+Data Centers
+
+Very Large (>10MW) data center builds are driving most of this
+segment growth as internet service providers continue to bring
+more and more capability to public and private cloud offerings.
+These cloud enabling data center designs are highly optimized
+and efficient, leveraging scale, unique power systems and software
+resilience to deliver exceptional performance with minimum
+overheads. While efficient data storage and computation benefits
+can be realized within cloud based solutions, requirements for
+low latency « edge computing » that supports real-time control
+and deterministic data handling will continue to be necessary for
+multiple reasons including reliability, data security and sovereignty.
+
+Schneider Electric has continued its leadership in designing highly
+efficient UPS offerings with innovative ECOnversion mode (>98%)
+that are integrated into pre-fabricated power solutions which can
+be delivered ready to connect on-site, enabling cloud data centers
+to be reliably designed, built and commissioned in a matter of
+weeks vs. months or years. Additionally, expansion of the Group
+
+
+--- Page 18 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+edge computing offerings includes working with major IT players
+to develop packaged « micro data centers » that can be installed
+in just a few hours on a site, will « discover » their environment
+and self-configure, pulling functionality from Schneider Electric's
+cloud platform. Such micro data centers will be a key component
+
+5.3 Improving the efficiency of R&D
+
+While the deployment of technology platforms has allowed
+reductions in both cost and lead time of bringing new products to
+market, this new complexity requires an upgrade of development
+methods and tools. Schneider Electric's NextGen PLM program
+optimizes its Information Systems with a redefined architecture, data
+model, and tools for an end-to-end data flow. This will also reduce
+the risk of aging and obsolete Product Information Management
+Systems. The Group's pragmatic building block approach to PLM
+will be driven by building a strong data IT platform followed by
+incremental improvements based upon the identification of key
+capabilities; the choice of suitable solutions; and setting a feasible
+path to deliver the maximum impact on performance and costs in
+the shortest time.
+
+The Group also builds Model Based Systems Engineering (MBSE)
+framework including processes, tools and data models for
+Schneider Electric. This MBSE framework enables the application
+of advanced modeling techniques throughout systems engineering
+
+5.4 Growth through Innovation
+
+RESEARCH & DEVELOPMENT
+
+of the converged IT/OT industrial architectures that combine a
+large network of smart on-site devices with powerful cloud based
+analytics. The first version of this micro data center, developed with
+CISCO for traditional business applications is already commercially
+available.
+
+stages to represent and test dynamic and static properties of
+a system. Starting with customer requirements expressed by
+marketing, a model of the product and/or system is developed. This
+model can be used to generate mockups that can be validated and
+can evolve with customers before any R&D is committed.
+
+The validated model then becomes the reference from which the
+mechanics, electronics and software design team can work in
+parallel. From the model, engineers can query libraries of reusable
+components, developed on the technology platforms now common
+to all businesses, thus accelerating projects while reducing risks.
+Successive versions are tested against the model, and again
+with customers, ensuring that final integration and testing will go
+smoothly.
+
+Initial pilots have confirmed the potential of MBSE and full
+deployment started mid-2014, with the expectation that every
+program will apply this method by 2016.
+
+This year the Group have embraced several ideas to grow its
+business through innovation so that we can operate like startup
+companies but scale like a global company. This program consists
+of the following principles:
+
+Spending more time with customers at every stage
+
+Managers are entrepreneurs, their teams are trained, dedicated,
+accountable
+
+Speed up innovation by practicing Open Innovation with
+universities, start-up companies, supplier, and customers
+
+Faster with time-boxed projects and empowered teams
+
+R&D investments to be selective, focused on the best growth
+opportunities, and sliced in to small projects
+
+Collaborating, platforming, and using the best tools to out-
+innovate the competition on technology
+
+¢ Manufacturing and sales ‘engines’ turn innovation into growth
+¢ As aresult SE's innovative and patented offers are first to market
+
+To leverage the Growth by Innovation Program and boost our core
+business, we are setting the best practices in the Customer's Voice
+Process, in Lean Innovation and in applying a Start-up model for
+disruptive offers.
+
+Furthermore, we have stepped up our Open Innovation deployment
+with our eco-system (Universities; Start-ups and Venture Capitals;
+Customers and Suppliers) through incubating new businesses. We
+are practicing Open Innovation with startup companies such as
+OhmConnect, KGS, Autogrid, C3 Energy, VPS, and others. We are
+working with universities such as MIT, NC State University, Georgia
+Tech, Paris Tech, Uppsala University and the University of Grenoble
+Alpes.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 31
+
+
+--- Page 19 ---
+
+1
+
+32
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RESEARCH & DEVELOPMENT
+
+5.5_ Financing innovative start-ups
+
+In 2000, Schneider Electric created an investment structure
+called Schneider Electric Ventures to invest in high-tech start-ups
+whose innovations fit with the Group's future development. In
+2010, Schneider Electric Ventures became Aster Capital with the
+launch of a new capital investment fund to finance innovative start-
+ups operating within the areas of energy, new materials and the
+environment. This second fund received a capital subscription of
+EUR105 million, from Schneider Electric (EUR40 million), Alstom
+(EUR30 million), Solvay (EUR15 million) and in 2012 by the European
+Investment Fund (EUR20 million), a benchmark financial partner in
+Europe.
+
+Managing a portfolio of partnership
+opportunities
+
+The mission of Aster Capital is to purchase minority interests in
+innovative start-ups in the fields of energy and the environment
+based in Europe, Israel, North America and Asia. The scouting
+activities constitute a source of particularly productive partnerships
+and forge contacts with more than 1,500 small and mid-sized
+businesses around the world each year. In 2015, one new
+investment was realized, joining the first thirteen companies already
+in the portfolio, including Lucibel, Iceotope and Digital Lumens.
+
+After having successfully exited from Solairedirect (acquired by
+Engie in 2015), Aster’s first fund currently still holds about eight
+equity interests, notably in Agilence, Jet Metal Technologies, Tronics
+and Casanova.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Eco GTB - EUR1.3 million investment in
+October 2015
+
+Eco GTB provides a very light building management system to
+multi-site commercial buildings to save energy (average 1 to 2-year
+payback) and better operate and maintain distributed stores. The
+company, incorporated in 2013 and is headquartered in Paris,
+operates hundreds of stores in France.
+
+Identifying emerging trends and technologies
+and delivering relevant inputs
+
+Aster Capital is in touch with start-ups on a daily basis. This gives
+Aster Capital a unique perspective on emerging technologies,
+customer needs and new market segments. The work is shared
+at three levels:
+
+® by identifying emerging trends and weak signals which may
+have an impact on markets, customers and/or future Schneider
+Electric business, and sharing them on a regular basis with the
+leaders within Schneider Electric;
+
+© by introducing about 300 start-ups each year to Schneider
+Electric teams within relevant countries, businesses and
+corporate departments; and
+
+© by publishing market analyses that are presented to Schneider
+Electric teams. Again this year, more than 10 topics related to the
+energy and environment sectors have been covered and shared
+within Schneider Electric. An innovative element introduced last
+year is that the Aster Capital teams have made a dedicated
+web platform available to all Schneider Electric employees,
+which gives them even easier access to all of these resources,
+information and databases.
+
+
+--- Page 20 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+ORGANIZATIONAL SIMPLICITY AND EFFICIENCY
+
+> 6. Organizational simplicity
+
+and efficiency
+
+Schneider Electric's profile has undergone an unprecedented transformation in the past decade to become a global
+
+specialist in energy management.
+
+Under the One company program (2009-2011), the organization was redesigned to better serve its customers. This
+transformation continued with the Connect company program (2012-2014) as we refined our organization to improve
+cohesion, while initiating our digital transformation journey. Now with the current company program, Schneider is On
+(2015-2020), we will leverage these organizational simplifications and further empower our team members towards
+
+growth.
+
+6.1 Acustomer-focused organization
+
+Dual orientation - technologies
+and end-markets
+
+Schneider Electric is organized into four business segments. Each
+business segment is responsible for specific technologies and
+addresses targeted end-market segments. The organization was
+designed in order to support our two business models: products and
+solutions. Selling products requires clear technological leadership,
+while selling solutions requires close customer relationships and a
+deep understanding of end users’ needs.
+
+Buildings & Partner business technological scope is low voltage,
+building automation and renewables.
+
+Infrastructure business scope includes medium voltage and
+grid automation technologies.
+
+Industry business scope covers industrial automation, control
+and sensors technologies.
+
+IT business scope is critical power and cooling technologies for
+data centers as well as non-IT applications.
+
+Each of these business segments manages its R&D, marketing and
+sales teams and is responsible for its global results.
+
+A number of back-office functions such as Finance, Human
+Resources, IT systems and Global Marketing are handled by the
+Global Functions, which have a governance role and provide
+services internally.
+
+Rationalization and optimization of synergies
+
+The organization is deployed in accordance with three key concepts:
+specialization, mutualization and globalization. Specialization
+mainly concerns sales and front-office operations.
+
+Mutualization covers local back-office operations at the country and
+regional level. Globalization concerns the seven support functions,
+now known as Global Functions:
+
+© Finance;
+
+© Marketing;
+
+© Supply chain;
+
+° Human Resources;
+
+© Strategy;
+© Technology
+© Information systems.
+
+A substantial portion of the Global Functions’ costs are re-allocated
+to the businesses using distribution keys or application bases that
+are generally defined annually.
+
+© Specialization: in each country, each business has its own sales
+force and local leader as soon as it reaches critical mass. It also
+has a specialized front office in each host country to respond
+more effectively to customer demand for specific expertise. Each
+business segment is also responsible for its overall results, both
+for product sales (in its business lines) and the implementation of
+solutions (especially for end-market segments within its scope).
+As solutions can consist of products coming from different
+business segments and in order to define a single point of
+contact for customers, each business segment is responsible
+for solutions in certain defined end-markets. Business efforts
+have focused on implementing and strengthening existing teams
+dedicated to meeting the specific needs of these strategic
+customer segments with a strong focus on the collaboration
+between the business lines, in order to ensure these customer's
+needs are met as fully as possible.
+
+Mutualization: the business is organized around Organizational
+Regions: North America, China, France, Europe and the Rest
+of World which is comprised of seven international zones
+(South America, Africa, Middle East, CIS, India, SE Asia and
+Asia-Pacific. Each of these regions have empowered Zone
+Presidents and Country Presidents, which are appointed in each
+country to be the custodians of four Business in their countries:
+Industry, Infrastructure, Buildings & Partner and IT, including Field
+Services. In addition, they are responsible for monitoring the full
+transversal P&L of the country, deploying Schneider Electric's
+Strategy in the country (including all local cross-functional topics
+such as increasing cross-selling among businesses) and pooling
+the local back-office resources. These resources are gradually
+brought together in each country or region under the Country
+President's supervision and can include multiple local support
+functions ranging from administration to project execution,
+depending on the situation. In addition, the Country President
+serves as the mutualization driving force and Schneider Electric's
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 33
+
+
+--- Page 21 ---
+
+1
+
+34
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+ORGANIZATIONAL SIMPLICITY AND EFFICIENCY
+
+main representative in the country, most notably in dealings with
+employees and local officials.
+
+© Globalization: major support functions that are not specific to
+a given country or business are gradually globalized to increase
+experience and leverage a significant scale effect around cost
+and service. Manufacturing and supply chain operations, areas
+
+Geographic dimension and legal structure
+
+of shared services or expertise (such as finance or Human
+Resources), information systems, Group Strategy, Technology
+and global marketing functions are now included within the
+Group's Global Functions. Global Supply Chain is continuing to
+focus on the areas of global productivity, customer differentiation
+and customer satisfaction.
+
+The Group's goal is to establish, where ever possible, a single legal structure in each country.
+
+Schneider Electric's simplified legal organization chart is as follows:
+
+Operational
+
+companies
+
+The list of consolidated companies is provided in note 32 to the
+consolidated financial statements (see page 240). Boissiére Finance
+
+Schneider
+Electric SE
+
+Schneider Electric
+Industries SAS
+
+Boissiére Finance
+
+is the Group’s centralized cash-management structure; it also
+centralizes hedging operations for all subsidiaries.
+
+6.2 Manufacturing and supply chain: global redeployment
+
+Schneider Electric has more than 220 plants and 100 distribution
+centers around the world. Customer satisfaction is its top priority.
+
+While working constantly to improve occupational health and safety
+and environmental protection, Schneider Electric’s manufacturing
+policy aims to fulfill four key objectives, in order of priority:
+
+1) to achieve a level of quality and service that meets or exceeds
+customer expectations;
+
+2) to obtain cost-competitive products while continuing to deliver
+strong and consistent productivity;
+
+3) to develop system speed and efficiency and limit production
+sites’ risk exposure (currency parity, geopolitical risks and
+changes in cost factors);
+
+4) to optimize capital employed in manufacturing operations.
+
+A number of the production facilities and distribution centers are
+dedicated to the global market. The other units are located as close
+as possible to their end markets. Although design and/or aesthetic
+features may be adapted to meet local requirements, Schneider
+Electric standardizes key components as much as possible. This
+global/local approach helps Schneider Electric maximize economies
+of scale and optimize profitability and service quality.
+
+Drawing on its global scope, Schneider Electric is constantly re-
+balancing and optimizing its manufacturing and supply chain
+resources.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Continuous improvement ona global scale
+
+At the same time, an industrial excellence program called
+Schneider Production System (SPS) has been rolled out in all
+plants to substantially and continuously improve service quality
+and productivity. The program also takes into account high-level
+environmental and staff health and safety criteria. Based on a lean
+manufacturing approach, SPS is supported by the extension of Six
+Sigma and Quality and Value Analysis programs across the Group.
+By deploying these optimization methods globally and sharing best
+practices, the Group intends to raise the operational performance
+of all its plants to the same high standard.
+
+Schneider Electric's sites and products meet the strict requirements
+of both European regulations and international standards relating
+to the environment. A continuous assessment system to ensure
+compliance with regulations and their modifications is in place,
+relying mainly on internal and external auditors. On a regular
+basis, these norms and standards are exceeded by the specific
+requirements we set ourselves, for instance by replacing certain
+materials and substances used for our products well before the
+regulations require us to do so. Schneider Electric's plants and
+logistics centers are ISO 14001 (environment) certified, and almost
+half of these sites have also achieved ISO 50001 (energy efficiency)
+certification. In addition to the environment and energy efficiency,
+we implement an integrated management system also covering
+Quality [SO 9001) and Health and Safety (OHSAS 18001). In 2015,
+
+
+--- Page 22 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+Schneider Electric overhauled its Environmental Strategy, and
+defined some ten priority areas for action for the period 2015-2020.
+These attribute increasing importance, in particular, to eco-design
+by making it systematic and exhaustive, to our CO, reduction efforts
+for both ourselves and our customers, to our circular economy
+ambitions for our products and for the resources used, and to our
+ever-increasing energy efficiency objectives.
+
+This strategy covers our entire value chain, from R&D to purchasing,
+manufacturing and logistics, not to mention sales and marketing,
+where we make specific efforts to always give our customers
+more capacity to objectify the environmental added value which
+our solutions offer them (energy efficiency and CO,, lifetime and
+reparability, etc.). We take into account customer expectations
+concerning our products’ environmental profile, the transparency of
+access to information, and even end-of-life product management.
+
+Schneider Electric has implemented a policy to systematically
+identify and reduce its industrial risk in order to secure maximum
+service to its customers and to minimize any impact of disaster,
+whether it is internal in nature (fire) or external (natural disasters).
+This policy relies on local actions to remove the identified risks
+following audits led by an external firm recognized by insurers, as
+well an action plan for the continuity of production. If, after corrective
+actions, the risk remains too high, then the activity is repeated
+at another Schneider Electric site. Since 2014, this process has
+been extended to single-source suppliers in order to reduce the
+risk level in five areas (financial, geopolitical, industrial, quality and
+dependence on Schneider Electric activity), in addition to identifying
+the action plan in the event of a supply disruption.
+
+The segmented response to customer needs
+
+In 2012, Schneider Electric launched the Tailored Supply Chain
+program as part of the company program Connect, with the aim to
+better align the supply chain set-up with the needs and behaviors
+of each customer segment (distributors, partners, panel builders,
+etc).
+
+Six initiatives were defined to support the transformation of the
+supply chain:
+
+Purchasing: step up purchasing to drive proactive planning of
+procurement;
+
+Optimization of the industrial operation: manage the operation
+of critical components to improve lead-time to customers
+(suppliers, factories, and logistics);
+
+Supply chain flow redesign: reduce lead-time through
+optimization of plant and distribution center footprint and flow
+design;
+
+Transportation rationalization: increase partnerships with
+selected carriers to improve customer service;
+
+Industrial planning: build best-in-class planning process by
+customer segment;
+
+IT capability: align information systems strategy with this
+segmentation.
+
+This approach has required the implementation of a more dynamic
+industrial strategy to restructure customer service practices, and
+the configuration of products, equipment, delivery methods and
+services offered to Group customers. In parallel, the Group has had
+to simplify its working approaches and focus on creating value for
+
+ORGANIZATIONAL SIMPLICITY AND EFFICIENCY
+
+its customers by streamlining its decision-making processes and its
+organizational structure.
+
+This led to the announcement of a new Industrial Organization for
+2013, structured around eight regions (Europe, CIS, China, India,
+Pacific, Asia, North America, South America) which groups all of
+Schneider Electric industrial activities together in these regions. In
+addition, this also led to the verticalization of all Purchasing activities
+to simplify and unify its contact with suppliers.
+
+The digitization of the supply chain
+
+In 2013, Schneider Electric put emphasis on digitization as a way to
+accelerate and intensify its transformation.
+
+For the supply chain, this approach aims to synchronize suppliers
+and plants through distribution centers and carriers to improve
+service to customers. Many programs have been launched in order
+to offer new features and improve the responsiveness in relation to
+market demand supported by new technologies.
+
+Supply chain optimization will benefit from the flow model,
+combined with the integration of the IT systems of our logistics
+partners with cloud technology. Similarly, a partnership with Kinaxis
+will enable the « digitization » of industrial planning and extend the
+scope. This technology facilitates interaction loops between the
+different functions and improves our responsiveness to customers
+as well as significantly reducing the value of fixed assets in inventory.
+Finally, the development of new features tailored to each customer
+segment on our targeted computer systems (of the supply chain) is
+supported by a strengthened IT convergence plan.
+
+This digitization of the supply chain fully meets the priorities of the
+Group's industrial strategy targeting first customer satisfaction while
+reducing costs for increasing responsiveness and reducing capital
+employed.
+
+Akey competitive advantage for our
+customers
+
+All of these efforts to improve the supply chain have been recognized
+well outside the company. In September 2015, Gartner, a leading
+IT research and advisory firm, ranked Schneider Electric's supply
+chain 10th in Europe and 34th worldwide, an improvement of 12
+and 33 places respectively in one year.
+
+The Group's aim for the next few years is to turn this into a
+competitive advantage through customer recognition that we offer
+the best logistics solutions. The new 2015-2020 company program
+aims to drastically improve the capacity and response speed of the
+supply chain while strengthening economic and ecological efficiency
+in order to even better serve our customers by providing them with
+acustomized logistics response that meets their expectations while
+ensuring sustainability.
+
+To achieve this, the Group intends to adapt its value chain to the
+wide-ranging requirements of its customers by implementing nine
+keys for transformation during the 2015 2017 period:
+
+* reduce the release time to customers;
+© basic logistics offering, customized according to type of channel;
+industrial planning customized according to customer segment
+
+© development of the services offering, in line with our customers’
+installed base;
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 35
+
+
+--- Page 23 ---
+
+1 OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+ORGANIZATIONAL SIMPLICITY AND EFFICIENCY
+
+© improvement of the overall performance of the equipment
+logistics chain;
+
+© involvement of preferred suppliers in all aspects of this
+transformation approach;
+
+© continued optimization of the entire industrial system to offer
+customized customer service;
+
+© focus on excellence of the logistics chain for growth activities;
+© management of the release of new product offerings.
+
+6.3. Purchasing: selection and internationalization
+
+Purchasing corresponds to around 50% of revenue and plays a
+crucial role in the Group's technical and business performance.
+As part of the new company program to optimize Purchasing, the
+Group is continuing to pursue its plan, launched several years ago,
+to seek to source its purchases from the top-performing suppliers
+(« recommended » suppliers) and aims to increase local sourcing
+in the new economies to more than 50%. The Group is rolling out
+the « Purchasing Excellence System » with a view to involving
+suppliers, as a component in the ‘Complete Logistics Chain’, in the
+achievement of our performance objectives focused on customer
+satisfaction.
+
+36 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Schneider Electric primarily purchases prefabricated components,
+raw materials (silver, copper, aluminum, steel and plastics), electronic
+and electrical products and services. The diverse supplier list
+includes multinationals as well as small, medium and intermediate
+sized companies.
+
+Suppliers are selected for the quality of their products and services,
+their adherence to delivery deadlines, their competitiveness, their
+innovative capacity and their commitment to corporate social
+responsibility (CSR). As a participant of the UN Global Compact,
+Schneider Electric encourages its main suppliers to contribute to
+its sustainable development initiative according to the guidelines
+of standard ISO 26000, through ongoing improvement in the level
+required (to achieve 100% « recommended » suppliers by 2017).
+
+
+--- Page 24 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+> 7. Risk Factors
+
+As described in Chapter 3.9 Internal control and risk management,
+Schneider Electric regularly analyses the risks and threats it faces,
+which has revealed six major risk categories as follows:
+
+risk factors related to the Group's business, which also include
+the solutions business, supplier risks and competitive threats;
+
+® industrial and environmental risks that also include risks such as
+natural catastrophes and political disturbances, etc.;
+
+71 Operational risk
+
+Schneider Electric operates worldwide,
+in competitive and cyclical markets
+
+The worldwide markets for the Group’s products are competitive
+in terms of pricing, quality of products, systems and services,
+development and introduction time for new offers. Schneider Electric
+faces strong competitors, some of whom are larger than we are
+or are developing in certain lower cost countries. The Group is
+exposed to fluctuations in economic growth cycles and to the
+respective levels of investments within the different countries in
+which we operate. The Group's widespread geographic coverage
+and diversified end markets enable us to ride out downturns on
+specific markets.
+
+As 43% of the Group’s revenue is generated in emerging countries,
+we are exposed to the risks associated with those markets.
+
+The Group’s wide international presence exposes us to many
+economic, legal and political risks in the countries in which we
+operate. These include risks arising from social unrest (particularly
+strikes and walk-outs), political instability, unforeseen regulatory
+changes, restrictions on capital transfers and other obstacles to free
+trade, and local tax laws. All of these risks may have an adverse
+effect on the Group's operations, results or financial position.
+
+Schneider Electric has implemented procedures designed to
+protect it as far as possible from these risks, which are generally
+beyond our control, and to manage them as effectively as possible.
+These procedures include quarterly business reviews in which
+performance and projections are monitored, in terms of activity,
+action plans, results to date and forecasts, at all organizational
+levels of the Group (see section 3.9 Internal control and risk
+management). The Group also has the necessary competencies to
+manage these risks, mainly through our central functions (finance,
+legal, tax and customs).
+
+RISK FACTORS
+
+© information system risks and cyber threats;
+
+¢ market risks covering currency risks and raw material price
+fluctuation risks;
+
+© legal risks that also cover intellectual property;
+® litigation and related risks.
+
+The Group's main risks and threats are summarized in a chart
+of overall risks based on their impact and probability.
+
+The growth and success
+
+of the Group’s products depend on its ability
+to constantly adapt to and leverage new
+technologies to deliver high value products
+and solutions
+
+The markets in which Schneider Electric operates are experiencing
+rapid evolutions due to the introduction of innovative technologies,
+such as loT and Big Data. Customers expect smarter and smarter
+products with open interfaces enabling them to be tightly integrated
+into more and more complex software based solutions. The
+resulting digitization of products, including native Web connectivity
+opens numerous new opportunities, but will also accelerate the
+convergence of IT and OT technologies, thus making it possible
+for new players to enter our markets. The widespread usage of
+mobile devices creates new expectations from customers as far as
+the general usability of products. Last but not least, the increased
+connectivity of products increases the risk of cyber attacks.
+
+To meet these challenges, the Group has increased its investments
+in the areas of embedded control (hardware and software), and
+cyber-security. A Group-wide initiative aims at developing common
+control technologies, leveraging such advances as « controller on
+a chip », resulting in smart and open products that are « natively »
+secure. More and more, the development of products goes hand
+in hand with the development of life-cycle services leveraging Web
+connectivity to deliver superior lifetime value to our customers. Such
+services not only open new recurring revenue opportunities for
+Schneider Electric, but reinforce the Group’s competitive position
+versus potential new entrants.
+
+The increased software content of the Group's solutions has
+resulted in specific investments in the area of user experience.
+The standards and techniques developed for software solutions
+apply readily to smart phones and allow development teams to
+seamlessly complement products and solutions with state of the
+art mobile applications.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 37
+
+
+--- Page 25 ---
+
+1
+
+38
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RISK FACTORS
+
+Regarding cyber-security, a specific investment program has been
+launched to develop specific capabilities. Specialists embedded
+in the main development teams/centers are involved from the
+early phases of the design to make products inherently safe. A
+constant monitoring of emerging threats has been implemented in
+partnership with specialized firms and specific incident response
+processes have been established to support customers in case of
+cyber-attack against Schneider Electric products.
+
+The market for software-based solutions has faster cycles than some
+of Schneider Electric's hardware markets. As a provider of critical
+infrastructure management solutions, the Group nevertheless does
+not compromise its standards of outstanding reliability and security.
+As a consequence, a program is underway to generalize the latest
+standards of System Engineering, allowing different teams to work
+in parallel on complex products or systems, while assuring the
+highest quality standards. Coupled with techniques such as early
+prototyping, leveraging 3D printing, and simulation, these efforts
+contribute to the continued reduction of go-to-market lead times.
+
+To sustainably manage these challenges, the Group needs to
+constantly invest in the competencies of its 11,000 R&D engineers,
+both to reinforce its traditional domains of expertise and develop
+new ones. Worldwide competency networks, which extend into
+universities, research centers and partners remain the backbone
+of Schneider Electric's R&D organization. Each network constantly
+monitors emerging technologies and competitive trends in its
+domain, decides the launch of research efforts to position the
+Group ahead of those trends and ensures the related upgrade of
+the network's talent pool.
+
+Schneider Electric’s strategy involves growth
+through acquisitions and mergers that
+are potentially difficult to execute
+
+The Group's strategy involves strengthening its positions through
+acquisitions, strategic alliances, joint ventures and mergers.
+Changes in the scope of consolidation during 2015 are described
+in note 2 to the consolidated financial statements (Chapter 5).
+
+External growth projects are examined in detail by the businesses
+and corporate functions (strategy, finance, legal affairs, tax
+and Human Resources) concerned, under a rigorous internal
+process developed and led at Group level. A launch committee is
+responsible for initiating the review process to identify the risks and
+opportunities associated with each external growth project, while a
+number of validation committees review the results on an ongoing
+basis. Projects that successfully come through the review process
+are submitted for approval to the Group Acquisitions Committee
+made up of the main members of senior management. The largest
+projects require the prior approval of the Chairman and CEO, who
+refers to the the board of directors, if necessary.
+
+External growth transactions are inherently risky because of
+the difficulties that may arise in integrating people, operations,
+technologies and products, and the related acquisition,
+administrative and other costs.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+This is why an integration procedure for new acquisitions has been
+drawn up. The integration of acquisitions is a process that extends
+over a period of six to 24 months depending on the type and size
+of the newly acquired company. The integration scenario for each
+acquisition varies depending on whether the business was acquired
+to strengthen or extend the Group's existing line-up or enter a new
+segment. There are a number of different integration scenarios,
+ranging from total integration to separate organization. An
+integration plan is drawn up for each acquisition and submitted to
+the Acquisitions Committee for approval. The plan is implemented
+by an integration manager who reports to a Steering Committee
+that initially meets at monthly intervals and then on a quarterly basis.
+
+The unit that presents the acquisition project is accountable to the
+Group's senior management for meeting clearly defined business
+plan targets covering future performance and expected synergies.
+Actual performance is measured against business plan targets
+during quarterly business reviews and, for the largest acquisitions,
+by the board of directors.
+
+Value in use is determined by discounting estimated future cash
+flows that will be generated by the tested assets, generally over
+a period of not more than five years. These future cash flows are
+based on Group management's economic assumptions and
+operating forecasts. The discount rate corresponds to Schneider
+Electric’s weighted average cost of capital (WACC) at the valuation
+date plus a risk premium depending on the region in question
+(local risk-free rate), the nature of the target's business (appropriate
+beta), and the structure of the financing (taking into account the
+debt to equity ratio and risk premium on the debt). The Group’s
+WACC stood at 7.3% at December 31, 2015, slightly decreasing
+compared to the 2014 financial year. The perpetuity growth rate
+was 2%, unchanged on the previous financial year.
+
+Goodwill is allocated to a Cash Generating Unit (CGU) when initially
+recognized. The CGU allocation is done on the same basis as used
+by Group management to monitor operations and assess synergies
+deriving from acquisitions. Impairment tests are performed at
+the level of the cash generating unit (CGU), i.e. the Buildings &
+Partner, Infrastructure, Industry and IT businesses. Details on asset
+impairment are provided in note 1.11 to the consolidated financial
+statements (Chapter 5).
+
+Where the recoverable amount of an asset or CGU is lower than
+its book value, an impairment loss is recognized. Where the
+tested CGU comprises goodwill, any impairment losses are firstly
+deducted therefrom.
+
+The Group’s success depends on its ability to
+attract and retain qualified individuals, and
+engaging its workforce to support our Growth
+ambition for the future
+
+Competition for highly qualified management and_ technical
+personnel is intense in the Group's industry, and becomes a bigger
+challenge as the Group continues on its trajectory of growth in
+mature economies as well as in new economies. Future continued
+success depends in part on the Group's ability to hire, assimilate
+and retain engineers, sales people and other qualified personnel,
+especially in the area of energy efficiency solutions. This ability
+can only result from a strong employee-centric Human Resources
+strategy and its ability to prepare its workforce for the future through
+learning and identifying talent within the organization.
+
+
+--- Page 26 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+The Group's Human Resources strategy is strongly anchored
+in its « Total Employee Experience » philosophy, ensuring that
+Human Resources offers at every stage of an employee's life
+cycle within the company remain attractive in order to recognize,
+reward and retain employees. The Human Resources Function
+is valued as a backbone of support for the business, bringing
+efficiency and quality to the employee experience. Our entire
+HR Strategy is being developed to support our 2020 vision on
+leadership and culture at Schneider Electric. It defines the values
+and transformation we want to accomplish, one of them being
+to increase our diversity. We believe it is key if we want to keep
+on meeting the expectations of our customers through ongoing
+innovation. Our multi-polar organization with senior leaders in
+every continent has been created to facilitate the growth of talents
+in every part of the world.
+
+To nurture the resilient and innovative workforce required for its
+success, the Group encourages employees to take ownership
+of managing their performance and career development. From
+the point of joining, employees are immersed in a learning culture
+founded upon three pillars: Education, Experience and Exposure
+(SEs). Learning initiatives are actively driven by Human Resources;
+internal processes and programs are geared towards creating
+learning opportunities for employees; managers are encouraged
+to guide and coach employees in their individual development
+journeys. At the end, we want our employees to feel accountable
+for their development and success at Schneider Electric.
+
+During 2015 further steps were taken to reinforce the active
+management of talent at all levels and in all parts of the company.
+
+7.2 Industrial and environmental risks
+
+RISK FACTORS
+
+A state-of-the-art talent management system was introduced to
+support employees in planning their career development, while
+giving managers and HR specialists enhanced visibility to plan for
+longer-term career development and succession to critical roles in
+the organization. Our culture of systematically reviewing talent at
+every level of the organization gives fair opportunity to everyone
+to progress.
+
+The Group's acquisitions and growth ambitions have increased its
+global presence and internationalized the profile of its workforce.
+This and company reorganization highlighted the importance and
+necessity of working well together. Employee engagement efforts
+are therefore key to creating a common Schneider Electric identity
+while promoting diversity and inclusion. The Group introduced a
+global Diversity & Inclusion policy in 2014, and has for the past
+few years regularly sought both blue and white-collar feedback
+through bi-annual company-wide employee engagement surveys.
+Listening to our employees and acting upon their feedback is a
+key pillar of our HR Strategy and actions.
+
+These employee engagement efforts support employer branding
+initiatives; the Group has actively reached out to prospective
+employees through social media platforms and events for targeted
+groups, and has continued to gain accolades as an « Employer of
+Choice ».
+
+Work continues to be done in these and other areas so that HR is
+equipped to effectively deliver its employer value proposition and
+further support the Group in its future endeavours.
+
+Defective products or design flaws may cause
+bodily harm or property damage and subject
+us to product liability claims and other adverse
+effects.
+
+Despite its testing and quality procedures, the Group’s products
+might not operate properly or might contain design faults or defects,
+which could give rise to disputes in respect of our liability as seller or
+manufacturer, notably in Europe, where liability related to defective
+products could lead to a loss of revenue, claims under warranty
+and legal proceedings. Such disputes could reduce demand
+for our products or harm our reputation for safety and quality. To
+prevent or limit these risks, Schneider Electric immediately recalls
+
+products if there are any doubts whatsoever that a product or one
+of its components is not 100% safe for people and/or equipment.
+Another broad recall campaign involves our global recall of Vigi
+Compact NS/NSX circuit breakers produced between 2009 and
+2011, which began in 2011 and was continued in 2012 and 2013.
+It was concluded in 2014.
+
+As in 2014, no broad product recall was begun in 2015.
+
+Some of the expenses incurred by Schneider Electric in the context
+of product recalls are covered by the liability insurance program
+described in the « Insurance » section below.
+
+Provisions for product risk totaled EUR459 million as of December
+31, 2015 (see note 23 to the consolidated financial statements).
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 39
+
+
+--- Page 27 ---
+
+1
+
+40
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RISK FACTORS
+
+The Group’s plants and products are subject to
+environmental laws and regulations
+
+Our plants and products are subject to extensive and increasingly
+stringent environmental laws and regulations in all countries in
+which we operate.
+
+To limit risks related to the environment, the Group is involved in a
+process to continuously improve the environmental performance of
+its plants and industrial activities, as well as in a review and follow up
+of possible environmental risks. In 1992, Schneider Electric issued
+a formal environmental policy. This policy is designed to improve
+production processes, promote eco-design, and integrate customer
+expectations into our environmental protection approach. This
+policy also aims to identify, assess and prevent environmental risks,
+in order to guarantee full compliance with all environmental laws and
+regulations applicable to the Group's businesses, particularly those
+in force in the European Union and considered as quite stringent
+(e.g. those applicable to our Products, such as WEEE, RoHS and
+REACh Regulations). Regarding industrial activities , the Group has
+been deploying ISO 9001 , IS014001, OHSAS18001 management
+systems, globally. An Integrated Management System (IMS) is being
+deployed, bringing together these three management systems and
+this helping to drive efficiency and effectiveness. Moreover, already
+more than 90 sites have implemented an ISO 50001 Energy
+Management System.The Group records environmental provisions
+when the risks can be reliably measured, or it is likely that clean-up
+work will have to be performed and related costs can be reasonably
+estimated. Provisions for environmental risks related to the the
+Group's sites, totaled EUR348 million as of December 31, 2015.
+If no risk has been identified in a given location, Schneider Electric
+will not estimate the financial cost of environmental risks. We expect
+
+7.3 Information systems risks
+
+The Group operates, either directly or through service providers,
+a wide range of highly complex information systems, including
+servers, networks, applications and databases, that are essential to
+the efficiency of our sales and manufacturing processes. Failure of
+any of these hardware or software systems, a fulfillment failure by a
+service provider, human error or computer viruses could adversely
+affect the quality of service offered by the Group.
+
+The Group regularly examines alternative solutions to protect
+against this type of risk and has developed contingency plans to
+mitigate the effects of any information system failure. Dedicated
+governance structures have been set up to manage relations with
+service providers responsible for outsourced IT systems operations.
+
+Problems may also be encountered during the deployment of new
+applications or software. In particular, in the last few years, the
+Group has developed ERPs systems under SAP, which it started
+to roll out in 2008. This roll-out process has been carried out fully
+or partially in a number of countries since 2008, and is continuing in
+France, Brazil, the United States and other countries.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+our spend on environmental compliance programs to increase as
+a result of changes to existing environmental regulations and the
+introduction of new regulations.
+
+There can be no guarantee that Schneider Electric will not be
+required to pay significant fines or compensation as a result of past,
+current or future breaches of environmental laws and regulations
+by companies that are currently or were previously members of the
+Group. This exposure exists even if the Group is not responsible
+for the breaches, in cases where they were committed in the past
+by companies or businesses that were not part of the Group at the
+time.
+
+Schneider Electric may also be exposed to the risk of claims for
+breaches of environmental laws and regulations. Such claims
+could adversely affect Schneider Electric's financial position and
+reputation, despite the efforts and investments made to comply at
+all times with all applicable environmental laws and regulations as
+they change.
+
+If Schneider Electric fails to conduct its operations in compliance
+with the applicable environmental laws and regulations, the judicial
+or regulatory authorities could require the Group to conduct
+investigations and/or implement costly clean-up measures to
+deal with the current or past contamination of current or former
+production facilities or off-site waste disposal facilities, and to scale
+back or temporarily or permanently close facilities in accordance
+with the applicable environmental laws and regulations.
+
+Finally, the Group may be exposed to new risks related to recent
+acquisitions. In application of IFRS rules, these risks are assessed
+in the framework of the allocation of the purchase price, as specified
+in note 2 to the consolidated financial statements.
+
+In addition to the deployment of ERP systems, the Group is
+deploying various applications aimed at enhancing commercial and
+supply chain efficiency.
+
+In view of these projects’ complexity, extensive functionalities and
+their worldwide deployment, the Group has set up dedicated
+governance and cost control structures to manage these issues
+and limit the related risks.
+
+However, despite the Group's policy of establishing governance
+structures and contingency plans, there can be no assurance
+that information systems projects will not be subject to technical
+problems and/or execution delays. While it is difficult to accurately
+quantify the impact of any such problems or delays, they could
+have an adverse effect on inventory levels, service quality and,
+consequently, on our financial results.
+
+
+--- Page 28 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+74 Market risks
+
+Interest rate risk
+
+The Group is exposed to risks associated with the effect of
+changing interest rates in different countries. Interest rate risk on
+borrowings is managed at the Group level, based on consolidated
+debt and taking into consideration market conditions in order to
+optimize overall borrowing costs. Most bond debt is fixed rate. At
+December 31, 2015, 90% of the Group’s gross debt was fixed rate.
+
+Maturities of financial liabilities are presented in note 24.1 to the
+consolidated financial statements
+
+A 1% increase in interest rates would have a positive impact of
+around EUR28 million on the Group's net financial expense.
+
+The financial instruments used to hedge the exposure of the Group
+to fluctuations in interest rates are described in note 26 to the
+consolidated financial statements for the year ended December 31,
+2015.
+
+Exposure to currency exchange risk
+
+The Group's international operations expose it to the risk of
+fluctuation of exchange rates. If the Group is not able to hedge
+these risks, fluctuations in exchange rates between the euro and
+these currencies can have a significant impact on our results and
+distort year-on-year performance comparisons.
+
+We manage our exposure to currency risk to reduce the sensitivity of
+earnings to changes in exchange rates through hedging programs
+relating to receivables, payables and cash flows, which are primarily
+hedged by means of forward purchases and sales.
+
+Depending on market conditions, risks in the main currencies may
+be hedged based on cash flow forecasting using contracts that
+expire in 12 months or less.
+
+Schneider Electric's currency hedging policy is to protect our
+subsidiaries against risks on transactions denominated in a
+currency other than their functional currency. More than twenty
+currencies are involved, with the US dollar, Chinese yuan, Singapore
+dollar, Australian dollar, British pound, the Hungarian forint and
+Russian rubbles representing the most significant sources of
+those risks. The financial instruments used to hedge our exposure
+to fluctuations in exchange rates are described in note 26 to the
+consolidated financial statements for the year ended December 31,
+2015 (Chapter 5).
+
+In 2015, revenue in foreign currencies amounted to EUR21.2 billion,
+including around EUR7.0 billion in US dollar and 3.6 billion in
+Chinese yuan.
+
+The main exposure of the Group in terms of currency exchange risk
+is related to the US dollar, the Chinese yuan and to currencies linked
+to the US dollar. The Group estimates that in the current structure
+of its operations, a 5% appreciation of the euro compared to the
+US dollar would have a negligible impact on operating margin (a
+translation effect of EUR32 million on EBITA).
+
+Equity risk
+
+Exposure to equity risk primarily relates to treasury shares but
+remains limited. The Group does not use any financial instruments
+to hedge these positions.
+
+RISK FACTORS
+
+Anincrease in raw material prices could have
+negative consequences
+
+The Group is exposed to fluctuations in energy and raw material
+prices, in particular steel, copper, aluminum, silver, lead, nickel, zinc
+and plastics. If we are not able to hedge, compensate for or pass on
+to customers any such increased costs, this could have an adverse
+impact on our financial results.
+
+The Group has, however, implemented certain procedures to limit
+exposure to rising non-ferrous and precious raw material prices.
+The purchasing departments of the operating units report their
+purchasing forecasts to the Corporate Finance and Treasury
+Department. Purchase commitments are hedged using forward
+contracts, swaps and, to a lesser extent, options.
+
+The financial instruments used to hedge our exposure to fluctuations
+in raw material prices are described in note 26 to the consolidated
+financial statements for the year ended December 31, 2015.
+
+In 2015, purchases of raw materials totaled around EUR1.9 billion,
+including around EUR850 million for non-ferrous and precious
+metals, of which roughly 55% was for copper. The Group enters
+into swap and options agreements intended to hedge all or part
+of its non-ferrous and precious metals purchases in order to limit
+the impact of price volatility of these raw materials on our results.
+At December 31, 2015, the Group had hedged positions with a
+nominal value of EUR158 million on these transactions.
+
+Counterparty risk
+
+Financial transactions are entered into with carefully selected
+counterparties. Banking counterparties are chosen according
+to the customary criteria, including the credit rating issued by an
+independent rating agency.
+
+Group policy consists of diversifying counterparty risks and periodic
+controls are performed to check compliance with the related rules.
+
+In addition, the Group takes out substantial credit insurance and
+uses other types of guarantees to limit the risk of losses on trade
+accounts receivable.
+
+Liquidity risk
+
+Liquidity is provided by the Group’s cash and cash equivalents
+and undrawn confirmed lines of credit. As of December 31,
+2015, the Group had access to cash and cash equivalents
+totaling EUR3.0 billion. As of December 31, 2015, the Group
+had EUR2.7 billion in undrawn confirmed lines of credit, of which
+EUR2.5 billion matures after December 2016.
+
+The Group's credit rating enables it to raise significant long-term
+financing and attract a diverse investor base. The Group currently
+has an A- credit rating from Standard & Poor’s and an AS credit
+rating from Moody's. The Group's liabilities and their terms and
+conditions are described in note 24 of Chapter 5.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 41
+
+
+--- Page 29 ---
+
+1
+
+42
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RISK FACTORS
+
+In line with the Group's overall policy of conservatively managing
+liquidity risk and protecting our financial position, when negotiating
+new liquidity facilities the Group avoids the inclusion of clauses that
+would have the effect of restricting the availability of credit lines,
+such as covenants requiring compliance with certain financial ratios.
+As of December 31, 2015, Schneider Electric SE had no financing
+or confirmed lines of credit that were subject to covenants requiring
+compliance with financial ratios.
+
+The loan agreements or lines of credit for some of our liquidity
+facilities include cross-default clauses. If we were to default on any
+
+7.5 Legalrisks
+
+of our liquidity facilities, we could be required to repay the sums due
+on some of these facilities.
+
+Moreover, anticipated reimbursement provisions exist for certain
+financing and lines of credit in case of change of control. Under
+these provisions, the debt holders may demand repayment if
+a shareholder or shareholders acting together hold more than
+50% of the company’s shares, for the majority of contracts, and
+this event triggers a downgrading of the company’s rating. As of
+December 31, 2015, EURS.5 billion of the Group's financing and
+lines of credit had these types of provisions.
+
+Our products are subject to varying national
+and international standards and regulations
+
+Our products, which are sold in national markets worldwide, are
+subject to regulations in each of those markets, as well as to various
+supranational regulations (sales restrictions, customs tariffs, tax
+laws, security standards, etc.). Changes to any of these regulations
+or standards or their applicability to the Group’s business could lead
+to lower sales or increased operating costs, which would result in
+lower earnings and profitability.
+
+Our products are also subject to multiple quality and safety
+controls and regulations, and are governed by both national and
+supranational standards. The majority of our products comply with
+world-recognized International Electrotechnical Commission (IEC)
+standards as well as with the applicable rules in the European
+Union, and in particular the REACh and RoHs rules. Any necessary
+capital investments or costs of specific measures for compliance
+with new or more stringent standards and regulations could have a
+negative impact on Group operations.
+
+In addition, in the majority of the markets on which its products
+are sold, Schneider Electric is subject to national and supranational
+regulations governing competition. If the Group is implicated in
+these areas, this could have a significant impact on the Group's
+businesses, results and financial position. However, to mitigate
+these risks, the Group completed its « Principles of Responsibility »
+by implementing a global competition law policy that has been
+widely rolled out within the Group, together with a training program
+set up by the Legal Affairs Department.
+
+Risks related to products sold
+
+In addition, in case of malfunction or failure of one of its products,
+systems or solutions, Schneider Electric could incur liability arising
+from any resulting tangible or intangible damages, or personal
+injury. Similarly, the Group could incur liability based on errors in the
+design of a product, system or solution or because of a malfunction
+related to the interface with other products or systems. The failure
+of a product, system or solution may involve costs related to the
+product recall, result in new expenditures for development, and
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+launch technical and economic resources. Such costs could have a
+significant impact on the profitability and cash and cash equivalents
+of the Group. The business reputation of Schneider Electric could
+also be negatively impacted.
+
+To prevent these risks, Schneider Electric has implemented quality
+procedures at the level of design, development and production of
+its produvcts, systems and solutions. In case of product returns, the
+type and source of the failures are analyzed and corrective actions
+are implemented. The Group has also put in place insurance
+coverage to cover its civil liability and the risk of product recalls (see
+section 1.7 Risk factors on Insurance policy).
+
+The development and success of the
+Group’s products depends on its ability
+to protect its intellectual property rights
+
+The future success of Schneider Electric depends to a significant
+extent on the development and protection of patents, knowledge
+and trademarks (« intellectual property rights »). Third parties may
+also infringe its intellectual property rights, and the Group may
+have to expend significant resources monitoring, protecting and
+enforcing its rights. If we fail to protect or enforce our intellectual
+property rights, our competitive position could suffer, which could
+have a material adverse effect on our business. In addition, the
+unauthorized use of intellectual property rights remains difficult to
+control, particularly in foreign countries whose laws do not always
+effectively ensure the protection of these rights. They could be
+counterfeited or used without the consent of Schneider Electric,
+which could have a material adverse effect on our reputation and
+operating profit.
+
+To mitigate this risk, the patents developed or purchased by the
+Group are tracked by the Industrial Property team within the
+Finance and Control - Legal Affairs Department. All intellectual
+property queries are centralized and managed by this team for the
+whole Group and in coordination with the other Finance - Control
+- Legal Affairs Departments it ensures that the Group's interests
+are defended throughout the world. The same approach and
+organization applies for the Group’s brands portfolio.
+
+
+--- Page 30 ---
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+7.6 Disputes
+
+Following public offers launched in 1993 by SPEP (the holding
+company of the Group at the time) for its Belgian subsidiaries
+Cofibel and Cofimines, proceedings were initiated against former
+Schneider Electric executives in connection with the former Empain-
+Schneider Group’s management of its Belgian subsidiaries, notably
+the Tramico sub-group. At the end of March 2006, a criminal court
+in Brussels, Belgium, ruled that some of the defendants were
+responsible for certain of the alleged offenses and that some of the
+plaintiffs’ claims were admissible. The plaintiffs claimed damages
+representing losses of EUR5.3 million stemming from alleged
+management decisions that reduced the value of or undervalued
+assets presented in the prospectus used in conjunction with
+the offering, as well as losses of EUR4.9 million in relation to
+transactions carried out by PB Finance, a company in which Cofibel
+and Cofimines then held minority interests. In its ruling, the court
+also appointed an expert to assess the loss suffered by those
+plaintiffs whose claims were ruled admissible. The expert's report
+was submitted in 2008. The defendants and the companies held
+Civilly liable contest the amounts provided by the legal expert in their
+entirety on the basis of such reports drawn up by Deloitte. Schneider
+Electric and its Belgian subsidiaries Cofibel and Cofimines were
+held civilly liable for the actions of their senior executives who were
+found liable. Schneider Electric is paying the legal expenses not
+covered by the insurance of the former executives involved. After a
+settlement agreement was signed with a group of plaintiffs, the case
+now remains pending before the Brussels Appeals Court, due to (i)
+appeals against parts of the March 2006 ruling and (ii) a ruling made
+in 2011 by the Court of First Instance regarding the admissibility of
+the plaintiffs’ claims.
+
+In connection with the disposal of Spie Batignolles, Schneider
+Electric booked provisions to cover the risks associated with certain
+major contracts and projects. Most of the risks were closed during
+1997. Provisions were booked for the remaining risks, based on
+management's best estimate of the potential financial impact. One
+of the main issues concerns pending litigation in France with SNCF
+before the administrative court. However, the Group has been
+discussing the issue with SNCF and an agreement could settle the
+dispute in 2016.
+
+New files implicating the Group for Spie Batignolles’ past activities
+could still arise and result in costs associated with defending the
+Group's interests.
+
+Schneider Electric and other companies in the high voltage sector
+have been involved in legal proceedings with regard to an alleged
+agreement initiated by the European Commission concerning gas
+insulated switchgears (GIS). These procedures involve two former
+Group subsidiaries operating in the high voltage segment that were
+sold in 2001 and that are now part of the Siemens group. Schneider
+Electric did not appeal the decision made by the Commission
+with regard to this matter on January 24, 2007 and was fined
+
+RISK FACTORS
+
+EUR8.1 million and then introduced several legal actions in order
+to recover a total or partial reimbursement of the amount of this
+fine from its two former subsidiaries. After several legal actions, a
+decision on the entire issue was made on April 10, 2014, by the
+Court of Justice of the European Union (CJEU). A settlement was
+reached between Schneider Electric and its two former subsidiaries
+in 2015, ending this dispute trhough a balanced split of the fine
+between the three parties involved.
+
+In relation to the GIS disputes, on May 21, 2010, British company
+Power Networks (LPN - formerly EDF Energy UK) launched a claim
+against the same companies, including Schneider Electric, for
+damages of GBP15 million in the High Court in London, England.
+This claim is currently being investigated and there were no
+significant judicial developments in 2015. However, the defendants
+(including of wich Schneider Electric SE) have been conducting
+discussions with LPN and an agreement could settle the dispute
+in 2016.
+
+In addition, some Group entities worldwide, including in Brazil and
+Pakistan, are directly or indirectly cited in anti-trust proceedings
+without, however, the proven or serious risk of conviction in this
+regard having been identified to date.
+
+Schneider Electric was also among 2,000 companies worldwide
+that were mentioned in the Volcker report on the Oil for Food
+program published by the UN in October 2005. Schneider Electric
+Industries SAS was investigated by the French judiciary in 2010
+in relation to this report, which stated that the Group had entered
+into agreements with the Iraqi government between 2000 and
+2004 under which surcharge payments totaling approximately
+USD450,000 are alleged to have been made to the Iraqi
+government. In May 2013, in accordance with the indictment of
+the Public Prosecutor's Department, the judge referred Schneider
+Electric Industries SAS and 13 other French companies to the
+criminal court, which rended its decision on June 16 2015,
+discharging all the companies. However, the Bench appealed on
+this decision,wich is currently scheduled to judged by the Appeal
+Court of Paris in December 2016
+
+Various other claims, administrative notices and legal proceedings
+have been filed against the Group concerning such issues as
+contractual demands, counterfeiting, risk of bodily harm linked to
+asbestos in certain older products and work contracts.
+
+Although it is impossible to forecast the results and/or costs of
+these proceedings with certainty, Schneider Electric considers that
+they will not, by their nature, have significant effects on the Group's
+business, assets, financial position or profitability. The company is not
+aware of any other governmental, court or arbitration proceedings,
+which are pending or which threaten the company, that are liable to
+have or, during the last 12 months have had, a material effect on the
+financial position or profitability of the company and/or the Group.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 43
+
+
+--- Page 31 ---
+
+1
+
+44
+
+OVERVIEW OF THE GROUP’S STRATEGY, MARKETS AND BUSINESSES
+
+RISK FACTORS
+
+7.7_\nsurance policy
+
+Schneider Electric's general policy for managing insurable risks
+is designed to defend the interests of employees and customers
+and to protect the company’s assets, the environment and its
+shareholders’ investment.
+
+This strategy entails:
+
+identifying and analyzing the impact of the main risks;
+
+preventing risks and protecting industrial equipment; definition of
+protection standards for sites (including when those are managed
+by third parties) against the risk of fire and malicious intent, audits
+of the main sites by an independent loss prevention company,
+roll-out of a self-assessment questionnaire for the other Group
+sites;
+
+drawing up of business continuity plans, in particular for the
+Group main sites and critical suppliers;
+
+roll-out of crisis management tools by the Group's Security
+Department;
+
+carrying out hazard and vulnerability studies and safety
+management for people and equipment;
+
+implementing global insurance programs negotiated at the
+Group level for all subsidiaries with insurers meeting the criteria
+for financial position recognized by insurance and reinsurance
+players;
+
+optimization of financing for frequent, low amplitude risks through
+retentions managed either directly (deductibles) or through
+captive insurance companies.
+
+Liability insurance
+
+A new three-year insurance program was put in place effective
+January 1, 2015 with the same insurer. This program, deployed in
+more than 70 countries, provides coverage and limits in line with the
+current size of the Group and its evolving risks and commitments.
+
+Certain specific risks, such as aeronautic, nuclear and environmental
+risk, are covered by specific insurance programs.
+
+Property damage and business interruption
+insurance
+
+The global insurance program renewed in July 2014 for a duration
+of two years was continued in 2015. This is an « all risks except »
+contract which covers events that could affect Schneider Electric's
+property (including fire, explosion, natural disaster, machinery
+breakdown) as well as business interruption resulting from those
+risks. The EUR350 million global limit of indemnity has been
+increased for the largest sites. Certain guarantees, in particular,
+natural disasters and machinery breakdown, have lower insurance
+caps. These limits were determined on the basis of available
+capacity on the market, loss scenarios prepared by the prevention
+company that carries out the audits of our industrial sites and, for
+earthquake risk, modeling carried out by specialized companies.
+
+Assets are insured at replacement value.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Transport insurance
+
+The insurance program that covers all risks of loss or damage to
+goods while in transit, including intragroup shipments, renewed on
+January 1, 2014, was continued in 2015.
+
+Erection all risk insurance
+
+The erection all risk insurance program providing cover for damage
+to work and equipment for projects taking place at our clients’
+premises was continued in 2015.
+
+Other risks
+
+In addition, Schneider Electric has taken out specific cover in
+response to certain local conditions, regulations or the requirements
+of certain risks, projects and businesses.
+
+Self-insurance
+
+To optimize costs, Schneider Electric self-insures certain frequent,
+low-amplitude risks through two captive insurance companies:
+
+¢ A captive company based in Luxembourg provides property
+damage reinsurance worldwide capped at EURS million per year,
+and liability reinsurance outside the USA and Canada capped at
+EUR17 million per year;
+
+For the entities located in the USA and Canada, a captive
+insurance company based in Vermont (USA) is used to
+standardize deductibles for civil liability, workers’ compensation
+and automobile liability. These retentions range from USD1 million
+to USD5 million per claim, depending on the risk. An actuary
+validates the provisions recorded by the captive company each
+year.
+
+The cost of self-insured claims is not material at the Group level.
+
+Cost of insurance programs
+
+The cost (including tax) of the Group’s main global insurance
+programs, excluding premiums paid to captives, totaled around
+EUR23.5 million in 2015.

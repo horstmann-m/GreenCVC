@@ -1,0 +1,807 @@
+
+
+--- Page 1 ---
+
+4 BUSINESS REVIEW
+TRENDS IN SCHNEIDER ELECTRIC’S CORE MARKETS
+
+> 1. Trends in Schneider Electric’s
+
+core markets
+
+1.1 Industries and machine manufacturers
+
+Industry market struggled throughout 2015,
+headwinds:
+
+facing severe
+
+Falling commodity prices (mainly O&G, metals) have led a sharp
+drop in commodity sectors capex. This step down has generated
+strong negative impacts on global industry market: O&G sector is
+one of the first end-users in metals, construction engines, turbines,
+water treatment and professional services. Companies exposed to
+this O&G supply chain cut their own capex, opex and inventories to
+align them with lower demand.
+
+Companies which benefited from lower energy costs were reluctant
+to invest, given the generally weak economic environment,
+
+overcapacities and high level of debt. Companies preferred
+to restore the balance sheet, or to reduce selling prices (due to
+increasing competitive pressure).
+
+In China, industrial production and manufacturing investment
+have slowed markedly, depressed by deterioration in global trade,
+overcapacities and decrease in construction sector (which is the
+largest end-user of heavy industry).
+
+In other new economies, industrial markets recorded a slowdown
+on the back of lower commodity prices, declining demand from
+China, capital outflow and a high level of debt.
+
+1.2__Nonresidential and residential buildings
+
+Non residential buildings
+
+In the US, non residential market growth slowed down in 2015.
+Manufacturing buildings reported strong growth thanks to the
+chemicals and transportation equipment sectors. Construction
+in the office and retail sectors decelerated. Institutional buildings
+segments slightly rebounded in 2015, driven by the private sector
+component (mainly in healthcare facilities) as public spending
+remained under pressure.
+
+In Western Europe, non residential construction remained sluggish
+in 2015. Manufacturing, office and commercial buildings suffered
+from the deteriorated global economic environment. Education and
+healthcare segments were constrained by public-sector austerity.
+Non residential construction declined in two major markets,
+Germany and France. Spain and Ireland increased, benefiting from
+economic reforms. In Italy, the market stabilized after several years
+of decline.
+
+In China, non residential construction decreased further. The main
+reasons were the economic slowdown and new consumption
+patterns (e-commerce has a major negative impact on commercial
+buildings).
+
+In Australia, non residential construction declined. Industrial, office
+and commercial buildings all fall as well as social & institutional
+buildings (marked by a sharp plunge in the Health segment).
+
+In several new economies, non residential construction was
+hampered by several headwinds: lower demand from China,
+negative impact from lower oil and commodities prices on the
+
+178 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+revenues of commodity exporter countries, currency depreciation
+and capital outflow.
+
+Non residential activity accelerated in in India thanks to improvement
+in the regulatory and financing environment.
+
+Residential
+
+Residential markets marginally decreased in 2015, with varied
+positions among major regional blocks.
+
+In the US, residential construction increase, driven by multi-family
+market.
+
+In Western Europe, market improved gently. France, Italy and
+Denmark recorded a decline. Germany and Great Britain grew
+slightly whereas Ireland and the Netherlands surged.
+
+In China, residential construction continued to fall. At end of 2013,
+China's property sector had reached a turning point, due to strong
+construction oversupply and lower demand for property. Despite
+a gradual improvement in housing sales in 2015, developers have
+continued to reduce housing starts in order to reduce inventory.
+
+In other new economies, residential market declined as a whole.
+Residential construction has dropped, notably in Russia, Ukraine,
+Brazil and Venezuela, hit by gloomy economic situation and weak
+consumer confidence. On the contrary, Asian new economies and
+Africa continued to grow in 2015.
+
+
+--- Page 2 ---
+
+1.3. Utilities and Infrastructures
+
+Electrical Utilities
+
+In generation, renewables continued their expansion in 2015, fuelled
+by on-going cost declines. Wind and solar rapid growth spread to
+new territories in emerging countries. At the end of the year, COP21
+was the confirmation that electric utilities have to engage in a path to
+decarbonise their mix. Also that in this new energy world of energy
+efficiency they have to re-think their business models, strengthen
+their networks and digitize their operations.
+
+In networks, investments were thus sustained and those in software
+and smart grids accelerated.
+
+However pressure from regulators, investors and consumers did
+not relieve, driving operations and asset the optimisations projects
+across the board.
+
+These trends will positively affect Schneider Electric, widening its
+market for grid modernization or asset and operations management
+solutions. For a given capacity of power generation, renewables,
+with their often distributed nature, offer a larger accessible market
+for Schneider Electric products and solutions. They also imply a
+transformation of the system as a whole, opening new realms, for
+example in demand management.
+
+Oil and Gas
+
+The year 2015 has seen a normal demand growth (around
++1,2%), and supply growing and still higher than demand by about
++1.5mb/d. As a consequence crude and refined products stocks
+are continuing to pile up. The North American unconventional
+production has further increased through most of the year, to
+eventually start a gradual decrease of 0,1mb/d per month.
+Increased productivity and cost cuttings and previous upstream
+investments have enabled many operators to continue producing,
+despite the low barrel prices. Saudi Arabia continues its race for
+market share. lran now authorized back in the game may add half
+a million barrels per day (0,5% world production) could increase
+further tension on supply.
+
+This surplus situation has led most upstream players to significantly
+cut their investment in 2015, in particular in exploration. Similar cuts
+have been announced for 2016. These two consecutive years of
+upstream spending cuts could be considered as a new normal to
+a new level around USD500 billion a year, after 4 years of hyper-
+inflation
+
+Midstream and Downstream markets somewhere benefits from low
+oil prices and show increased profits for integrated majors |OCs.
+
+Schneider Electric Oil ,Gas and Petrochem sector with no exposure
+to the exploration, and historical position in midstream and
+
+BUSINESS REVIEW
+TRENDS IN SCHNEIDER ELECTRIC’S CORE MARKETS
+
+downstream acquired through recent acquisitions shows good level
+of resilience. In addition, with a less affected opex , we experienced
+growth on Field Services and Software. We also benefited from our
+customer intimacy to further improve customers’s uptime and ROI!
+with Our Solutions and Digital Services portfolio.
+
+Our value strategy based on - Solutions, Services , Software and
+Digital Services- toward Strategic majors considering business
+transformation through innovation and optimized architectures
+should support further resilience of Schneider Electric Oil ,Gas and
+Petrochem activity.
+
+Data centers and Networks
+
+The global IT market experienced slow but steady growth in 2015
+partly due to the worsened economic environment in emerging
+markets.
+
+Our transactional single phase market remained soft, as the
+demand of Small & Medium Business (SBM) for power protection
+products for servers and PC continued to stagnate. Growth in Asia
+and Europe was offset by the weakness in Russia, Latin America
+and China.
+
+Large Enterprises continued to deploy IT in a hybrid environment
+of on-premise, colocation, hosting and cloud in 2015. Due to data
+sovereignty and privacy concerns and regional demand for data
+center capacity, an increasing number of hyperscale data centers
+are being built in the North America market and in various locations
+in Europe, Asia and Latin America. Schneider Electric is leveraging
+its global presence and comprehensive data center solutions to
+accommodate our customer needs wherever they decide to locate
+their IT infrastructure.
+
+As internet use is trending towards bandwidth-intensive content
+and the increasing adoption of the « Internet of Things », computing
+power and storage is increasingly placed at the edge of the network
+closer to end users. The IT business is well positioned to penetrate
+in various edge computing applications with its micro data center
+and modular data center offers.
+
+Industrial markets achieved steady growth along with a moderate
+outlook for infrastructure investments in power generation, chemical
+production and semiconductor.
+
+The year of 2015 also marked the initial commercialization of energy
+storage solutions for home, commercial buildings, datacenters
+and _ utilities. Schneider Electric entered the lithium ion energy
+storage market with the presentation of Ecoblade™ at the COP21
+Conference on Climate Change in Paris in December 2015.
+The Ecoblade solution combines advanced software analytics,
+modularity, and IT-style server designs in a smart battery that can
+scale up from 1kw to more than 1MW for homes, commercial
+buildings and utility substations.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 1/9
+
+4
+
+
+--- Page 3 ---
+
+4 BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS,
+
+> 2. Reviewof the consolidated
+financial statements
+
+2:1 Review of business and consolidated statement of income
+
+Changes in the scope of consolidation
+Acquisitions & divestments occurred during the year
+
+On December 11, 2015, Schneider Electric announced that it had
+obtained all required regulatory approvals and subsequently finalized
+the sale of Juno Lighting, LLC (« Juno ») to Acuity Brands, Inc. for
+a consideration of approximately USD385 million (EUR343 million).
+The transaction generated a capital loss of EUR163 million recorded
+as Other operating expense.
+
+On December 14, 2015, Schneider Electric announced that it has
+signed an agreement to sell its Transportation Business, to Kapsch
+TrafficCom AG. The Transportation business generated revenues
+of EUR134 million in 2014 and is currently consolidated under
+the Infrastructure business of Schneider Electric. The terms of the
+agreement reflect a purchase price of about EUR35 million on a
+cash-free, debt-free basis. The agreement is conditioned upon the
+satisfaction of certain regulatory conditions and on other customary
+closing conditions. The transaction is expected to close in the
+coming months. The transaction would generate an impairment
+of EUR100 million that was recognized at December 31, 2015 as
+Other operating expense.
+
+No significant acquisition occurred during 2015.
+
+Acquisitions & divestments occurred in 2014
+with significant effect in 2015 ©
+
+On January 17, 2014, the Group took control of Invensys group.
+Invensys is fully consolidated, mainly in the Industry business,
+since January 2014, except for its Appliance division (divested in
+June 2014) reported as discontinued operation over the first half
+of 2014.
+
+On October 1, 2014 the Group finalized the sale of Custom
+Sensors & Technologies (CST) and the Group has reinvested
+approximately USD100 million alongside CST management to hold
+a shareholding of 30% of CST. CST was reported in the Industry
+Business of Schneider Electric. The CST activity was reclassified
+as discontinued operations in Group's consolidated financial
+statements from January to September 30, 2014 (for EUR24 million
+net income). From October 1, 2014 and for full year 2015, the 30%
+of CST share is accounted for by the equity method.
+
+Changes in foreign exchange rates
+
+Changes in foreign exchange rates relative to the euro had a
+material impact over the year. This positive effect amounts to
+EUR1,949 million on consolidated revenue and to EUR254 million
+on Adjusted EBITA ®.
+
+Revenue
+
+On December 31, 2015, the consolidated revenue of Schneider
+Electric totalled EUR26,640 million, an increase of 6.8% at current
+scope and exchange rates compared to EUR24,939 million on
+December 31, 2014.
+
+This variance breaks down into an organic decrease of -1.0%
+and a positive exchange rate effect of 7.8%, primarily due to the
+appreciation of the US dollar and Chinese yuan against the euro.
+
+2.2 Changes in revenue by operating segment
+
+The Buildings & Partner business generated revenues of
+EUR11,859 million, or 45% of the consolidated total. This represents
+an increase of +10.3% on a reported basis and an increase of
++0.4% on a like-for-like basis. Buildings & Partner observed organic
+growth across all regions except Asia Pacific. North America was
+slightly up, driven by the growth in the construction market in the
+US, helped by new product launches and increased cross-selling
+and a recovery in Mexico. In Western Europe, Spain, Italy and the
+U.K. grew, France performed well thanks to strong execution, while
+Germany was down mainly due to a high base of comparison. Rest
+
+of the World was up thanks to good project execution in the Middle
+East and strong growth in Africa and Central Europe. Asia Pacific
+was penalized by a weak construction market in China, despite
+growth in the rest of the region.
+
+The Industry business generated revenues of EUR5,696 million, or
+21% of the consolidated total. This represents an increase of +2.6%
+on areported basis and a decrease of -4.9% on a like-for-like basis.
+Organic growth was impacted by strong headwinds from Oil & Gas
+and China. Western Europe was flat, as the growth in Spain and
+
+(1) Dates disclosed correspond to dates on which control takeover of the entities was acquired.
+
+(2) Adjusted EBITA (Earnings Before Interest, Taxes, Amortization of Purchase Accounting Intangibles) is earnings EBITA before amortization
+and impairment of intangible assets from acquisitions, impairment of goodwill, other operating income and expenses and restructuring costs.
+restructuring costs and before other operating income and expenses, which includes acquisition, integration and separation costs.
+
+180 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 4 ---
+
+Italy driven by successful OEM offer launches in a favourable OEM
+export market offset declines in Switzerland and the Nordics. North
+America declined on weakness in industrial investments, notably in
+Oil & Gas and lower export-oriented OEM demand due to a strong
+dollar, and the focus remained on the improvement of the business
+performance. Asia Pacific was penalized by weakness in China.
+Rest of the world performed well.
+
+The Infrastructure business generated revenues of EUR5,428 milion,
+or 20% of the consolidated total. This represents an increase of
++2.9% on a reported basis and an increase of +0.3% on a like-for-
+like basis. Western Europe grew, driven by growth in Spain, Italy and
+the UK. Germany was down due to greater project selectivity. North
+America was up thanks to project execution in Canada, while the US
+was penalized by lower investment in Oil & Gas and delays in data
+center investments, which more than offset the growth from targeted
+
+2.3 Gross profit
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+initiatives. Asia-Pacific posted mixed trends with difficulties in China,
+weak utility market in Australia and growth in East Asia and India. The
+Rest of the World was up driven by project execution in the Middle
+East, while Russia was weak. Services were strong, up high single-
+digit.
+
+The IT business generated revenues of EUR3,657 million, or
+14% of the consolidated total. This represents an increase of
++8.9% on a reported basis and a decrease of -0.9% on a like-
+for-like basis. The US was about flat, thanks to project execution
+in a soft market. Western Europe was up, driven by successful
+execution of commercial initiatives in a positive IT market. Asia
+Pacific was dragged down by weakness in China and a high-base
+of comparison in India. Rest of the World was down as weakness
+in Russia more than offset the growth in the Middle East and Africa.
+Services posted good growth.
+
+Gross profit increased from EUR9,407 million for the year ended
+December 31, 2014 to EUR9,845 million for the year ended
+December 31, 2015, or +4.7%, mainly due to an increase in
+productivity and actions on prices and a positive foreign exchange
+translation effect. As a percentage of revenues, the gross margin
+
+decreased to 37.0% in 2015 (versus 37.7% in 2014), as the positive
+net pricing and productivity impacts partially offset the negative mix
+effect, increased R&D depreciation and cost inflation.
+
+2.4 Support Function Costs: research and development and selling, general
+
+and administrative expenses
+
+Research and development expenses, excluding capitalized
+development costs and development costs reported as cost
+of sales, decreased by 0.4% from EUR567 million for the year
+ended December 31, 2014 to EUR565 million for the year ended
+December 31, 2015. As a percentage of revenues, the net cost
+of research and development decreased to 2.1% of revenues for
+the year ended December 31, 2015 (2.3% for the year ended
+December 31, 2014).
+
+Total research and development expenses, including capitalized
+development costs and development costs reported as cost of sales
+(see note 4 to the Consolidated Financial Statements) increased by
+5.0% from EUR1,212 million for the year ended December 31, 2014
+to EUR1,272 million for the year ended December 31, 2015. As a
+percentage of revenues, total research and development expenses
+remained stable at 4.8% for the year ended December 31, 2015
+from 4.9% for the year ended December 31, 2014.
+
+In 2015, the net effect of capitalized development costs and
+amortization of capitalized development costs amounts to
+EUR145 million on operating income versus EUR175 million in
+2014.
+
+Selling, general and administrative expenses increased by 4.9%
+from EUR5,377 million for the year ended December 31, 2014
+to EUR5,639 million for the year ended December 31, 2015. As
+a percentage of revenues, selling, general and administrative
+expenses decreased from 21.6% in 2014 to 21.2% in 2015
+
+Combined total support function costs, that is, research and
+development expenses together with selling, general and
+administrative costs, totalled EUR6,204 million for the year ended
+December 31, 2015 compared to EUR5,944 million for the year
+ended December 31, 2014, an increase of 4.4%. The support
+functions costs to sales ratio decreased from 23.8% for the
+year ended December 31, 2014 to 23.3% for the year ended
+December 31, 2015 reflecting progress in simplification initiatives.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 181
+
+4
+
+
+--- Page 5 ---
+
+4 BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS,
+
+2.5 Other operating income and expenses
+
+For the year ended December 31, 2015, other operating income
+and expenses amounted to a net loss of EUR522 million, mainly due
+to net losses on sale of business (EUR228 million), notably on Juno
+divestment, and impairment of assets (EUR246 million), notably
+on Transportation business related to the expected divestment
+described above. Other main items included costs linked to
+acquisitions for EUR118 million (notably Invensys integration costs),
+a EURS3 million gain on the curtailment of employee benefit plans
+in the UK and in France.
+
+2.6 Restructuring costs
+
+For the year ended December 31, 2014, other operating income and
+expenses amounted to a net expensee of EUR106 million, including
+costs linked to acquisitions for EUR114 million, a EUR95 million
+gain on the curtailment of employee benefit plans in the UK, in
+France and in the US and miscellaneous other operating incomes
+and expenses amounting to a net expense of EUR69 million. Costs
+linked to acquisitions are acquisition, integration and separation
+costs on 2014 and 2015 acquisitions, notably Invensys. Net other
+operating expenses mainly includes mainly provisions for litigation
+or claims in 2014.
+
+For the year ended December 31, 2015, restructuring costs
+amounted to EUR318 million compared to EUR202 million for the
+year ended December 31, 2014. This increase in restructuring
+
+2.7. EBITA and Adjusted EBITA
+
+We define EBITA as earnings before interest, taxes and amortization
+of purchase accounting intangibles. EBITA comprises operating
+profit before amortization and impairment of purchase accounting
+intangible assets and before goodwill impairment.
+
+We define adjusted EBITA as EBITA before restructuring costs
+and before other operating income and expenses, which includes
+acquisition, integration and separation costs.
+
+Adjusted EBITA amounted to EUR3,641 million for the year ended
+December 31, 2015, compared to EUR3,463 million for the year
+ended December 31, 2014, representing an increase of 5.1%, mainly
+due to a favourable foreign exchange effect of EUR254 million. As a
+
+182 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+costs is linked to the Simplify initiatives that were announced in early
+2015 as part of the « Schneider is On » program.
+
+percentage of revenue, adjusted EBITA decreased from 13.9% for
+the year ended December 31, 2014 to 13.7% for the year ended
+December 31, 2015.
+
+EBITA decreased by 11.2% from EUR3,155 million for the year
+ended December 31, 2014 to EUR2,801 million for the year ended
+December 31, 2015, mainly linked to net losses on sales of business,
+impairment of assets and higher restructuring expenses in 2015
+that did offset the increase in Adjusted EBITA. As a percentage of
+revenue, EBITA decreased to 10.5% in 2015 compared with 12.7%
+in 2014, in line with the lower Adjusted EBITA margin and with
+losses on sales of business, impairments and restructuring costs
+higher than in 2014.
+
+
+--- Page 6 ---
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+2.8 EBITA and Adjusted EBITA by business segment
+
+The following table sets out EBITA and adjusted EBITA by business segment:
+
+Full year 2015
+
+Corporate
+(in millions of euros) Buildings & Partner Industry _ Infrastructure IT costs
+Revenue 11,859 5,696 5,428 3,657 - 26,640
+Adjusted EBITA* 2,132 975 495 644 (605) 3,641
+Adjusted EBITA % 18.0% 17.1% 9.1% 17.6% - 13.7%
+Other operating income
+and expense (240) (22) (240) ©) (15) (622)
+Restructuring costs (169) (22) (89) (8) (80) (818)
+EBITA 1,723 931 166 631 (650) 2,801
+EBITA % 14.5% 16.4% 3.1% 17.3% - 10.5%
+
+* Adjusted EBITA: EBITA before restructuring costs and before other operating income and expenses (including acquisition, integration and
+
+separation costs).
+
+Full year 2014
+
+Corporate
+(in millions of euros) Buildings & Partner Industry _ Infrastructure IT costs
+Revenue 10,754 5,551 5,277 3,357 - 24,939
+Adjusted EBITA* 1,913 1,023 454 630 (557) 3,463
+Adjusted EBITA % 17.8% 18.4% 8.6% 18.8% - 13.9%
+Other operating income
+and expense 7 (34) (86) 1 6 (106)
+Restructuring costs (93) (26) (76) (4) (3) (202)
+EBITA 1,827 963 292 627 (654) 3,155
+EBITA % 17.0% 17.3% 5.5% 18.7% - 12.7%
+
+* Adjusted EBITA: EBITA before restructuring costs and before other operating income and expenses (including acquisition, integration and
+
+separation costs).
+
+Buildings & Partner business recorded an adjusted EBITA
+margin of 18.0% for the year ended December 31, 2015, up 0.2%
+compared to 17.8% for the year ended December 31, 2014, thanks
+to better support function costs control.
+
+Industry business recorded an adjusted EBITA margin of 17.1%
+for the year ended December 31, 2015, down 1.3% compared to
+18.4% for the year ended December 31, 2014, penalized by volume
+decline, negative FX impact and higher R&D amortization costs.
+
+Infrastructure business recorded an adjusted EBITA margin of
+9.1% for the year ended December 31, 2015, up 0.5% compared
+to 8.6% for the year ended December 31, 2014, benefiting from
+
+2.9 Operating income (EBIT)
+
+project gross margin improvement in second semester and good
+control of support functions costs.
+
+IT business reported an adjusted EBITA margin of 17.6% for
+the year ended December 31, 2015, down 1.2% compared with
+18.8% margin for the year ended December 31, 2014, penalized
+by negative mix and FX impact.
+
+Corporate costs amounted to EUR605 million for the year ended
+December 31, 2015 or 2.3% of Group revenues, a similar level to
+the year ended December 31, 2014 (2.2% of Group revenues or
+EURS557 million).
+
+Operating income (EBIT) decreased from EUR2,896 million for
+the year ended December 31, 2014 to 2,229 million for the year
+ended December 31, 2015. This 23.1% decrease is explained by
+
+both the EBITA decrease and by an impairment of Pelco trademark
+amounting to EUR295 million in « Amortization and impairment of
+purchase accounting intangibles ».
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 1 83
+
+4
+
+
+--- Page 7 ---
+
+4 BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS,
+
+2:10 Net financial income/loss
+
+Net financial loss amounted to EUR446 million for the year ended
+December 31, 2015, compared to EUR467 million for the year
+ended December 31, 2014. The decrease of the net financial loss
+is mainly explained by the decrease of the cost of net financial
+debt from EUR312 million for year ended December 31, 2014 to
+
+2.11 Tax
+
+EUR295 million for year ended December 31, 2015 thanks to a
+lower average interest rate. The other financial incomes and costs
+are stable from a net expense of EUR155 million for year ended
+December 31, 2014 to a net expense of EUR151 million for year
+ended December 31, 2015.
+
+The effective tax rate was 21.8% for the year ended December 31,
+2015, decreasing compared to 22.7% for the year ended
+December 31, 2014. The corresponding tax expense decreased
+from EUR551 million for the year ended December 31, 2014 to
+
+2:12 Discontinued operations
+
+EUR389 million for the year ended December 31, 2015. The tax
+expense included in 2015 a EUR115 million deferred tax income
+related to the impairment of Pelco trademark.
+
+The net effect of discontinued activities totalled EUR169 million
+for the year ended December 31, 2014, including profit over six-
+months from the Appliance activity of Invensys, sold in June 2014,
+
+2:13 Share of profit/(losses) of associates
+
+and over nine-months from CST business, sold on October 1,
+2014, as well as the corresponding gain on sale.
+
+There were no segments reported as discontinued activities in
+2015.
+
+The share of profit of associates increased from EUR14 million for
+the year ended December 31, 2014 to EUR109 million for the year
+
+2:14 Non-controlling interests
+
+ended December 31, 2015 mainly thanks to a non recurrent gain
+realized on sale of assets reported by CST.
+
+Minority interests in net income for the year ended December 31,
+2015 totalled EUR96 million, compared to EUR120 million for the
+year ended December 31, 2014. This represented the share in net
+
+2:15 Profit for the period
+
+income attributable, in large part, to the minority interests of certain
+Chinese companies.
+
+Profit for the period attributable to the equity holders of our
+parent company amounted to EUR1,407 million for the year
+ended December 31, 2015, that is a 27.5% decrease over the
+
+EUR1,941 million profit for the year ended December 31, 2014,
+mainly due to significant losses on sales of business, impairments
+and higher restructuring costs higher than in 2014.
+
+2:16 Share of profit for the period attributable to the equity holders of the parent
+
+company on continuing operations
+
+The share of profit for the period attributable to the equity holders of
+our parent company of continuing operations (profit for the period
+attributable to the equity holders of our parent company excluding
+
+2.17 Earnings per share
+
+discontinued operations) amounted to EUR1,407 million for the
+year ended December 31, 2015, compared to EUR1,772 million for
+the year ended December 31, 2014, decreasing by 20.6%.
+
+Earnings per share decreased from EUR3.39 for the year ended December 31, 2014 to EUR2.47 for the year ended December 31, 2015.
+
+184 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 8 ---
+
+2.18 Consolidated cash-flow
+
+Operating Activities
+
+Net cash provided by operating activities before changes in
+operating assets and liabilities remained stable at EUR2,715 million
+for the year ended December 31, 2015, up 2.8% compared to
+EUR2,640 million for the year ended December 31, 2014, and
+represented 10.2% of revenue in 2015 compared with 10.6%
+in 2014.
+
+The change in working capital requirement generated EUR117 million
+in cash in the year ended December 31, 2015, compared to
+EUR107 million consumed in the year ended December 31, 2014,
+mainly thanks to the cash-in of trade receivables.
+
+In all, net cash provided by operating activities increased by 11.8%
+from EUR2,533 million in the year ended December 31, 2014 to
+EUR2,832 million in the year ended December 31, 2015.
+
+Investing Activities
+
+Net capital expenditure, which included capitalized development
+projects, decreased by 5.2% to EUR787 million for the year ended
+December 31, 2015, compared to EUR829 million for the year
+ended December 31, 2014, and represented 3.1% of revenues in
+2015 (3.3% in 2014).
+
+Free cash-flow (cash provided by operating activities net of net
+capital expenditure) amounted to EUR2,045 million in 2015 versus
+EUR1,704 million in 2014.
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Cash conversion rate (free cash-flow over net income attributable to
+the equity holders of our parent company on continuing operations,
+adjusted for business disposals impact and Pelco trademark
+impairment) was 113% in 2015 versus 96% in 2014.
+
+The effect of acquisitions and divestments during the year was
+a net cash inflow amounting to EUR232 million in 2015. Our
+acquisitions represented a cash outflow, net of cash acquired,
+of EUR2,490 million for the year ended December 31, 2014,
+corresponding mainly to the cash part of Invensys acquisition.
+
+Financing Activities
+
+In 2015, the Group reimbursed two bonds for EUR750 million and
+the Schuldschein credit line for EUR184 million and there were four
+bond issuances in euros for EUR1,850 million.
+
+The net decrease in other financial debts amounted to
+EUR1,262 million during the year ended December 31, 2015,
+compared to a net decrease in other financial debts amounting to
+EUR818 million during the year ended December 31, 2014. The
+dividend paid by Schneider Electric was EUR1,108 million in the year
+ended December 31, 2015, compared with EUR1,095 million in the
+year ended December 31, 2014.
+
+2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 1 85
+
+4
+
+
+--- Page 9 ---
+
+4 BUSINESS REVIEW
+
+REVIEW OF THE PARENT COMPANY FINANCIAL STATEMENTS
+
+> 3. Review of the parent company
+financial statements
+
+Schneider Electric SE posted total portfolio revenues of EUR4 million
+in 2015 compared with EUR1 million the previous year.
+
+Interest expense net of interest income amounted to EUR126 million
+versus EUR119 million the previous year.
+
+Current loss amounted to EUR141 million in 2015 compared to a
+current loss of EUR144 million in 2014.
+
+In 2014, Schneider Electric SE invoiced to Schneider Electric
+Industries SAS a EUR442 million consideration for the use of the
+Schneider Electric brand, recognized as non-recurring income.
+
+The net loss stood at EUR53 million in 2015 compared with a net
+profit of EUR341 million in 2014.
+
+Equity before appropriation of net profit amounted to
+EUR9,808 million at December 31, 2015 versus EUR10,806 million
+at the previous year-end, after taking into account 2015 loss,
+dividend payments of EUR1,098 million and share issues in an
+amount of EUR157 million.
+
+> 4. Review of subsidiaries
+
+Schneider Electric Industries SAS
+Revenue totalled EUR3.3 billion in 2015 (EUR3.4 billion in 2014).
+
+The subsidiary posted an operating loss of EUR38 million in 2015 compared with an operating loss of EUR136 million in 2014.
+Net profit amounted to EUR238 million in 2015 compared with EUR174 million of net profit in 2014.
+
+> 5. Outlook
+
+In 2016 the Group sees continued growth in Western Europe and
+the construction market in the US. At the same time, headwinds
+from O&G, overall weakness in the US industry markets, difficulties
+in China, though to a lesser degree than in 2015, and mixed trends
+in the rest of new economies are expected. Additionally, given the
+accelerated decline of several new economies’ currencies against
+the euro in the end of 2015, the Group should also face a material
+FX headwind in 2016.
+
+In this context the Group's priorities are margin improvement by
+working on costs, growing its partner network through the launch
+of many new integrated offers, accelerating services and software,
+and increasing selectivity on projects focusing on its sectors of
+expertise.
+
+186 2015 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Therefore, for 2016 the Group targets:
+* Organic revenue growth to be flat to down low single-digit,
+impacted by the Group's higher selectivity on project activities;
+
+© +20bps to +60bps improvement on adjusted EBITA margin
+before FX. The negative FX impact on margin is estimated at
+-40bps to -50bps at current rates.

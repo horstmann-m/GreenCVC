@@ -1,0 +1,2831 @@
+
+
+--- Page 1 ---
+
+Summary management report
+for fiscal year 2015/16
+
+THE CARL ZEISS MEDITEC GROUP.
+
+Group structure
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+The Carl Zeiss Meditec Group (Carl Zeiss Meditec Group, the Group, the Company) is a global company head-
+quartered in Jena, Germany, with additional subsidiaries in and outside of Germany. Carl Zeiss Meditec AG is
+
+the parent company of the Carl Zeiss Meditec Group and is listed on the German Stock Exchange. It is among
+the 30 largest technology equities in the TecDax index in Germany.
+
+The results of Carl Zeiss Meditec AG are influenced to a large extent by its subsidiaries and the development
+of its business is generally subject to the same opportunities and risks at that of the Carl Zeiss Meditec Group.
+The outlook for the Group also largely mirrors the expectations for Carl Zeiss Meditec AG, due to the links be-
+tween Carl Zeiss Meditec AG and its subsidiaries and due to the importance of Carl Zeiss Meditec AG within
+the Group. Therefore, for the purposes of more compact presentation, the business development of Carl Zeiss
+Meditec AG and the Carl Zeiss Meditec Group shall be presented as a summary management report from
+fiscal year 2015/16.
+
+Investment structure of the Carl Zeiss Meditec Group as of 30 September 2016
+
+Carl Zeiss Meditec AG
+
+100% 100%
+Carl Zeiss Meditec Inc., Carl Zeiss Meditec Asset
+Dublin, USA Management Verwaltungs-
+gesellschaft mbH,
+Jena, Germany
+100%
+Aaren Scientific Inc.,
+Ontario, USA
+100%
+Atlantic S.A.S.,
+Périgny/La Rochelle, France
+100% 100%
+HYALTECH Ltd., Carl Zeiss Meditec S.A.S.,
+Livingston, Périgny/La Rochelle,
+
+United Kingdom
+
+28
+
+France
+
+100%
+Carl Zeiss Meditec
+France S.A.S.,
+
+Matly-le-Roi, France
+
+100% 100%
+
+Carl Zeiss Meditec Carl Zeiss Meditec
+Medikal Céziimler Iberia S.A.,
+Ticaret ve Sanayi A.S., Tres Cantos, Spain
+Ankara, Turkey
+
+100%
+
+Carl Zeiss Meditec
+Vertriebsgesellschaft mbH,
+Oberkochen, Germany
+
+100%
+
+France Chirurgie
+Instrumentation S.A.S.,
+Paris, France
+
+100%
+Additional
+subsidiaries
+
+51%,
+
+Carl Zeiss Meditec
+Co. Ltd.,
+
+Tokyo, Japan
+
+
+--- Page 2 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+No changes were made to the Group's reporting entity or the structure of its consolidated financial state-
+ments in fiscal year 2015/16.
+
+Markets
+
+The Carl Zeiss Meditec Group has operations all over the world. With its headquarters in Jena (Germany) and
+additional plants and subsidiaries in Germany, France, Spain, the USA and Japan, the Company has a direct
+presence in the world’s most important medical technology markets. In addition, the Carl Zeiss Meditec Group
+utilizes the strong global sales network of the ZEISS Group, with more than 50 sales and service locations,
+thus ensuring itself customer proximity and a crucial advantage over international rivals. Aside from its own
+research and development locations, the Carl Zeiss Meditec Group also has access to the expertise of the
+ZEISS Group. Of the around 25 research and development locations of the ZEISS Group worldwide, in particu-
+lar China and India are important research centers for the Carl Zeiss Meditec Group. They offer the possibility
+of working with the customers on site, in order to gain a comprehensive understanding of the market and
+develop specific products that are tailored to market requirements.
+
+Organization and business activity
+
+A distinction is made within the Carl Zeiss Meditec Group essentially between two main areas in which the
+Company operates: Ophthalmology and Microsurgery. Up until 31 July 2016, the operative business was
+divided into three strategic business units (SBUs). In addition to Microsurgery (MSC), there were two strategic
+business units within Ophthalmology: Ophthalmic Systems (OPH) and Surgical Ophthalmology (SUR).
+
+The organizational structure was modified on 1 August 2016. Two of the former three strategic business
+units, the SBU OPH and the SBU SUR, were combined to form a new Ophthalmic Devices SBU, which com-
+prises the entire ophthalmic business. A distinction shall be made from now on between the two strategic
+business units Ophthalmic Devices (OPT) and Microsurgery (MCS), in which the operational business is
+condensed according to similar application areas and customer groups. The objective of this organizational
+change was to establish uniform management of the ophthalmic business as a whole and to strengthen the
+focus on customers and consolidate the range of integrated solutions from a single source.
+
+Ophthalmic Devices
+
+In ophthalmology, a distinction is made between conditions such as vision defects (refraction), cataracts,
+glaucoma and other retinal disorders, the incidence of which particularly increases with age and can become
+chronic in many cases.
+
+In the Ophthalmic Devices SBU, the Carl Zeiss Meditec Group offers a comprehensive portfolio of products
+and solutions for the diagnosis and treatment of eye diseases, as well as systems and consumables for cata-
+ract, retinal and refractive surgery. The Company's aim is to enable efficient diagnosis and treatment through
+integrated products and systems that are geared to the procedures of the attending physician. Customers
+here are both practicing ophthalmologists and optometrists, as well as physicians and surgeons in hospitals
+and outpatient surgery centers.
+
+In the area of ophthalmic diagnostics, the Carl Zeiss Meditec Group offers a comprehensive range of products
+for investigating all clinical pictures. Examples include optical coherence tomography (OCT) devices, perimetry
+devices and tonometers for measuring intraocular pressure for glaucoma diagnostics. The Company offers
+end-to-end solutions for the surgical treatment of eye diseases in the area of cataract and retinal surgery,
+including a comprehensive selection of intraocular lenses (IOLs) and consumables. The offering in the preop-
+erative area for cataract treatment includes optical biometers. In the operating room, the Company supports
+
+29
+
+
+--- Page 3 ---
+
+30
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+cataract surgery with ophthalmic surgical microscopes, an OR-assistance system and phacoemulsification/
+vitrectomy devices. The broadly diversified portfolio of microincision-capable intraocular lenses extends from
+the standard (monofocal lenses) to the premium segment (for example toric multifocal lenses) and is supple-
+mented by ophthalmic viscoelastics. The OR workstation is further completed by software-based assistance
+systems such as CALLISTO eye®, to assist with the implantation of toric intraocular lenses. The Company aims
+to deliver value-added to the customer by providing interconnected systems that are precisely tailored to
+
+the surgeon's workflow. One example of this is the ZEISS Cataract Suite markerless, with which the Company
+offers the surgeon a complete, one-stop range of devices for cataract surgery. The product portfolio in the
+area of refractive surgery primarily includes systems and consumables for minimally invasive refractive surgery.
+
+A further focus is the networking of systems and the integrated management of data, to make workflows in
+hospitals and medical practices efficient. For this purpose FORUM®, a scalable and flexible data management
+system, offers a comprehensive, cross-location solution for the evaluation of clinically relevant data from
+various diagnostic devices and direct access to the full examination history of the patient.
+
+Microsurgery
+
+In the Microsurgery strategic business unit the Carl Zeiss Meditec Group provides visualization solutions for
+minimally invasive surgical treatments. The state-of-the-art surgical microscopes for neurosurgery, ear, nose
+and throat (ENT), plastic and reconstructive (P & R) surgery, as well as dental surgery and spinal surgery,
+
+are essential tools, for example in the surgical treatment of tumors or vascular diseases, such as aneurysms.
+Innovative add-on functions, such as cutting-edge video technology, three-dimensional imaging or intraoper-
+ative fluorescence options, offer the surgeon assistance in complex treatments, by delivering diagnostic data
+and information during the procedure in the eyepiece or on screens. In surgical oncology, the innovative
+radiation device INTRABEAM® enables the Company to offer patients a gentle, intraoperative treatment
+option for certain types of tumors.
+
+Group strategy
+
+It is the strategy of the Carl Zeiss Meditec Group to achieve sustainable, profitable growth as market and
+technology leader in the field of ophthalmology and microsurgery. The product range is aimed at improving
+the treatment result and reducing treatment costs through efficient and effective approaches. The success
+factors are: customer focus, innovation and integrated solutions for diagnosis and treatment.
+
+Customer focus
+
+The customers of the Carl Zeiss Meditec Group are facing major challenges in managing rising case numbers,
+limited public funding and more demanding expectations of patients with respect to the treatment outcome.
+Integrated products and solutions can help customers to increase workflow efficiency and reduce costs, for
+example by providing clinical decision aids for the physician and options for easy outsourcing of routine tasks
+to medical auxiliary staff. Digitization offers us massive opportunities in this respect, for example in the field
+of data management solutions. A key prerequisite for the long-term success of the Carl Zeiss Meditec Group
+is having a deep understanding of the customers’ challenges and a service offering that is tailored to meeting
+these challenges.
+
+
+--- Page 4 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Innovation
+
+One of the goals is to make cutting-edge technology in medical application accessible for customers. The
+Group is therefore striving to establish its products as new gold standards in medical diagnostics and therapy.
+The Group ensures technology leadership by cooperating closely with its customers and by continuing to
+invest heavily in research and development (R&D).
+
+Integrated solutions
+
+Given the multitude of diagnostic and therapeutic devices typically used in medical practices and clinics,
+customers are offered the opportunity to make their workflows more efficient, and to achieve better clinical
+outcomes, by logically networking their devices and systems. Comprehensive system integration, including
+\T-assisted analysis functions, is a key prerequisite for this.
+
+Corporate governance
+
+The central governing bodies within the Carl Zeiss Meditec Group are the Management Board and the
+Executive Committee newly created as part of the organizational change on 1 August 2016. This Executive
+Committee is made up of the members of the Management Board of Carl Zeiss Meditec AG and the heads
+of the two strategic business units, Ophthalmic Devices and Microsurgery. The management levels below the
+Executive Committee perform their management responsibilities in accordance with the organizational struc-
+ture within the strategic business units across regions and company locations. Cross-organizational functions
+such as, for example, Group Finance, Group Communications or Human Resources are managed centrally.
+The strategies and projects are implemented locally at the regional companies themselves in accordance with
+prevailing laws and legislation, rules of procedure and articles of association, as well as the corporate values
+and principles applied globally within the Group.
+
+As a company of the ZEISS Group, the Carl Zeiss Meditec Group is also subject to the globally applicable Code
+of Conduct, which defines the basic principles of good and fair conduct in the competitive environment and
+in dealing with our employees and customers, and according to which business is carried out worldwide. This
+Code of Conduct sets out the fundamental ethical principles of good conduct and values which govern the
+actions of both management and employees in their day-to-day work at the Company.
+
+Corporate management
+
+The aim of corporate management is to achieve a long-term increase in value by consistently implementing
+the strategy. The tools for the financial management of the Carl Zeiss Meditec Group comprise a comprehen-
+sive system of key performance indicators. The greatest importance is attached to Economic Value Added®
+("EVA®")!, Free Cash Flow (FCF)’ the EBIT margin and revenue growth. These control ratios define the balance
+between growth, profitability and financial power, upon which sustainable growth of the Company is built.
+These are supplemented by strategic measures and projects in the areas of customer excellence, people/per-
+formance culture and operational excellence.
+
+' Calculation: EVA® = operating result after taxes minus capital costs of €43.5m for 2015/16 (calculation of capital costs: average committed
+business assets 2015/16 (€524.6m) multiplied by capital cost rate 2015/16 (8.3%)
+
+? Calculation Free Cash Flow: FCF = EBIT +/- changes in trade receivables +/- changes in inventories, including advance payments +/- changes
+in provisions (excluding provisions for pensions and tax provisions) +/- changes in current accrued liabilities +/- changes in trade payables +
+advance payments received — increase in investments in property, plant and equipment and intangible assets + write down of investments in
+property, plant and equipment and intangible assets
+
+31
+
+
+--- Page 5 ---
+
+32
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+BUSINESS REPORT
+Underlying conditions for business development
+
+Macroeconomic environment®
+
+During the reporting period, the global economy grew at a significantly slower rate than forecast. The rapidly
+developing economies in Asia, such as India and China, continued to grow at above-average rates, although
+growth in China cooled considerably. The markets in Latin America did not develop uniformly; a significant
+recession in Brazil offset moderate growth in Mexico. Market growth in the industrialized countries was mod-
+erate in fiscal year 2015/16, but was weaker than expected. The upturn in the U.S. and Japan was consider-
+ably smaller than expected; market growth in the eurozone was as expected.
+
+Uncertainties in the markets, particularly in China and Brazil, low oil prices, uncertainty due to Brexit, the
+situation in the Middle East and ongoing structural problems, were major political and economic issues,
+which impacted negatively on investment activity in industry and the public sector.
+
+Situation in the medical technology industry
+
+The Company believes that medical technology is one of the fast-growing sectors in the medium to long
+term. Growth drivers are medical progress and megatrends, such as the demographic trend due to increas-
+ing life expectancy and population growth. While a rising per-capita income is increasing demand for basic
+healthcare in rapidly developing economies, people in western regions are increasingly willing to pay more
+for better-quality services. As a result, the Company assumes that the total number of patients suffering from
+age-related illnesses will continuously rise. At the same time, it is expected that there will be a growing need
+for comprehensive and high-quality health care.
+
+In the traditional markets of western industrialized nations the Company assumes that the demand for medical
+technology innovations and a higher quality of treatment will continue to rise as a result of higher and higher
+consumer and patient demands, due to a growing tendency to use premium services as a self-paying patient
+At the same time, the cost pressure in the health care systems is increasing price pressure. In addition, tighter
+regulations and varying regulatory requirements regionally is a growing challenge with regard to product
+development and approval
+
+Equally high are the demands on manufacturers to offer products and solutions that increase the efficiency of
+workflows for customers and that offer effective treatment methods to patients.
+
+The demand for health care goods and services in the rapidly developing economies (RDEs) also creates
+significant future growth potential for the medical technology sector, due to the rising per capita income and
+growing prosperity in these countries. Increases in the volumes of conventional medical technology and basic
+health care products, in particular, shall play an increasingly more important role here, due to improvements
+in the standard of living.
+
+3 International Monetary Fund, "World Economic Outlook", July 2016, Washington D.C.
+
+
+--- Page 6 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+It can be assumed that the demand for diagnostic and therapeutic devices and systems will continue to grow
+in the long term, both in microsurgery and in ophthalmology, as well as implants and consumables.
+
+a) Market for ophthalmic products
+
+The market for ophthalmic products in the broader sense includes devices and systems for the diagnosis,
+treatment and post-treatment of eye diseases, implants for ophthalmic surgery and ophthalmic pharmaceu-
+ticals, contact lenses, contact lens care products, consumables — with the exception of glasses and glasses
+frames. According to the Company's estimates, the market had a global volume of around US$36.7b
+(about €31.9b) in 2015*. The Group's product range includes devices and systems, implants, consumables
+and instruments for ophthalmology and ophthalmic surgery. According to the Group's estimates, these
+sub-markets had a volume of around US$9.8b, or around €8.5b%, in 2015.
+
+The Carl Zeiss Meditec Group estimates its share of the "devices and systems for ophthalmology" market seg-
+ment, traditionally served by the Company, at about US$3.2b or €2.8b* or about 20% in 2015. In the market
+segment "implants, consumables and instruments for ophthalmic surgery", the Carl Zeiss Meditec Group
+estimates its global market share in 2015 at about 5%. However, our regional market shares in the countries
+the Company is currently focusing on range between 5% and 30%.
+
+As described in the section "Situation in the medical technology industry", the Carl Zeiss Meditec Group's
+medium-term forecast is further long-term growth in the market for ophthalmic products, regardless of annual
+fluctuations.
+
+Based on the information at hand, the Group estimates that it slightly increased its market share overall in the
+market segments it addresses, in comparison with the prior year.
+
+b) Market for microsurgery products
+
+Besides ophthalmology, the Company also operates in the market for microsurgery, particularly in the field of
+neuro/ENT surgery. The overall neuro/ENT surgery market is divided into three market segments: "Implants",
+"Surgical instruments" and "Visualization". In the "Visualization" market segment served by the Company
+
+a distinction can be made between the sub-segments "Surgical Microscopes" and "Other Visualization".
+According to the Group's estimates, this market segment had a total volume of around US$1.6b or €1.4b*,
+in 2015. With a market share that it estimates to be almost 20%, the Carl Zeiss Meditec Group is therefore
+one of the largest providers in this segment. According to own estimates, the Carl Zeiss Meditec Group
+continues to be the global market leader in the sub-segment "Surgical microscopes", with a market share of
+more than 50%
+
+As described in the section "Situation in the medical technology industry", the Carl Zeiss Meditec Group's
+
+medium-term forecast is further long-term growth in the market for microsurgery products, regardless of
+annual fluctuations.
+
+4 At average rate for fiscal year 2014/15 (€1 = US$1.1485)
+
+33
+
+
+--- Page 7 ---
+
+34
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Overall assertion on the financial position of the Group at the end of the fiscal year
+
+With revenue of €1,088.4m and growth of 4.6%, the Carl Zeiss Meditec Group achieved the forecast range
+of €1,080m to €1,120m for fiscal year 2015/16. Boosted by positive currency effects, the Ophthalmology
+sector and the Asia/Pacific region (APAC), in particular, contributed to this development of business.
+
+Primarily driven by the positive development in the refractive laser business, the SBU Ophthalmic Systems
+showed growth of 7.5%, and thus slightly exceeded the expectations of a low to mid-single-digit percentage
+growth, while currency effects also had a slightly positive effect. Nevertheless, the situation in Ophthalmic
+Diagnostics remains tense due to the strong competitive pressure. This is counteracted with corresponding
+initiatives in terms of product innovations, sales measures and cost reductions.
+
+Overall, the market for products of the Surgical Ophthalmology SBU was slightly weaker than expected.
+Growth in the Surgical Ophthalmology SBU was accordingly slightly lower compared with the prior year, at
+4.3%, but was in line with the forecast of an increase within at least the mid-single-digit percentage range.
+The SBU nevertheless grew faster than the corresponding market as a whole and further strengthened its
+competitive position, particularly in the area of intraocular lenses, which recorded a double-digit percentage
+increase.
+
+The growth of the Ophthalmic Systems SBU and the Surgical Ophthalmology SBU amounted to total growth
+of 6.0% for the newly created strategic business unit, Ophthalmic Devices. Currency effects had a positive
+impact on growth of this segment. Adjusted for currency effects, revenue increased by 4.1%.
+
+Growth momentum in the market environment of the Microsurgery SBU remained slow during the year. The
+strategic business unit nevertheless retained its leading market position, as expected, and achieved revenue
+growth in the low single-digit percentage range (1.3%).
+
+Earnings before interest and taxes (EBIT) increased to €154.3m. Relative to revenue, the Group achieved an
+EBIT margin of 14.2% (prior year: 12.6%) which was therefore within the range of 13% to 15% forecast for
+both fiscal year 2015/16 and the medium term. The significant increase in the EBIT margin is attributable to
+a strict cost discipline and a more favorable product mix with a higher proportion of case-number-dependent
+revenue.
+
+The EBIT margin in the Ophthalmic Systems SBU improved significantly, particularly as a result of the positive
+development in the field of refractive lasers, but was slightly below the group average, as expected. The
+Surgical Ophthalmology SBU achieved significant margin growth due to strict cost management and growth-
+related economies of scale, and was slightly higher than the Group average for the fiscal year as a whole.
+Accordingly, the development of the EBIT margin within the newly created Ophthalmic Devices SBU was
+positive overall. The EBIT margin of the Microsurgery SBU increased only slightly compared with the prior
+year, due, among other things, to higher research and development costs, and somewhat restrained revenue
+growth, but remained above the Group average, as expected.
+
+At €111.8m in fiscal year 2015/16, the Group's cash flow from operating activities is significantly higher than
+in the prior year (prior year: €56.7m).
+
+Free cash flow increased to €146.0m (prior year: €91.1m). EVA rose to €64.7m, compared with €42.0m in
+the prior year.
+
+
+--- Page 8 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+In order to maintain its innovative strength and ensure future growth, the Company has up to now invested
+around 10% to 11% of its revenue each year in research and development, as budgeted. In the past fiscal
+year R&D spending amounted to 11.3% of revenue.
+
+The Carl Zeiss Meditec Group's financial position remained stable. This is also contributing towards the
+achievement of the Company's objectives, which are geared to sustainable growth, and gives the Group
+
+additional stability.
+
+Comparison of actual business development with forecast development in fiscal year 2015/16
+
+Results Forecast
+
+2015/16 2015/16
+
+Group revenue €1,088m €1,080 - 1,120m
+Former Ophthalmic Systems SBU 7.5% Growth in low to mid-single-digit
+percentage range
+
+Former Surgical Ophthalmology SBU 4.3% Growth in mid-single-digit percentage range
+Microsurgery 1.3% Growth in low-single-digit percentage range
+EBIT margin 14.2% 13% - 15%
+Cash flow from operating activities €111.8m Substantial double-digit millions
+Research and development expenses/revenue 11.3% 10% - 11%
+Free cash flow (FCF) €146.0m High double-digit millions
+Economic Value Added® ("EVA®") €64.7m slight improvement
+
+Results of operations
+Presentation of results of operations
+
+Summary of key ratios in the consolidated income statement
+Figures in €k, unless otherwise stated
+
+2015/16 2014/15 Change
+
+& €k in%
+
+Revenue 1,088,365, 1,040,061 +4.6%
+Gross margin 53.2% 51.9% +1.3% pts
+EBITDA 174,558 149,753 +16.6%
+EBITDA margin 16.0% 14.4% +1.6% pts
+eBiT 154,332 130,591 +18.2%
+EBIT margin 14.2% 12.6% +1.6% pts
+Earnings before income taxes 141,961 101,720 +39.6%
+Tax rate 29.6% 35.5% “5.9% pts
+Consolidated net income after non-controlling interests 98,330 62,297 +57.8%
+Earnings per share after non-controlling interests €1.21 €0.77 +57.8%
+
+35
+
+
+--- Page 9 ---
+
+36
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Revenue
+
+The Carl Zeiss Meditec Group increased its revenue by 4.6% to €1,088.4m (prior year: €1,040.1m) in fiscal
+year 2015/16, and thus achieved the forecast range proposed in May 2016 of €1,080m to €1,120m. The
+Group benefited from positive currency effects. After adjustment for currency effects, growth amounted to
+2.7%. In particular the area of Ophthalmology and the APAC region contributed to this growth.
+
+Consolidated revenue in €k /growth in %
+
+2015/16 1,088,365/4.6%
+2014/15 1,040,061/14.4%
+2013/14 909,255/0.3%
+
+a) Consolidated revenue by strategic business unit
+
+Since the merging of the two former strategic business units Ophthalmic Systems and Surgical Ophthalmolo-
+gy on 1 August 2016, almost three-quarters of Group revenue has been generated in the newly established
+Ophthalmic Devices strategic business unit (72.8%; prior year: 71.9%). The Microsurgery strategic business
+unit accounted for 27.2% (prior year: 28.1%) of consolidated revenue. In the reporting year, 38.7%
+
+(prior year: 37.7%) of total revenue was attributable to the strategic business unit Ophthalmic Systems and
+34.1% (prior year: 34.2%) to Surgical Ophthalmology.
+
+Share of strategic business units in consolidated revenue in fiscal year 2015/16
+
+Ophthalmic Devices 72.8%
+
+Microsurgery 27.2%
+
+The revenue growth of the new Ophthalmic Devices strategic business unit amounted to 6.0% for fiscal year
+2015/16 (adjusted for currency effects: 4.1%). Revenue amounted to €791.9m (prior year: €747.2m).
+
+The refractive laser business once again proved to be the growth driver, benefiting in particular from high
+procedure-dependent revenue. The segment for devices and systems for diagnosis continued to be exposed
+to intense competitive and price pressure during the year. Measures aimed at improving the competitiveness
+continued in the past fiscal year. Business with intraocular lenses and consumables for cataract surgery and
+
+biometry developed positively, whereas the business with ophthalmic surgery microscopes moved sideways,
+after strong demand in the prior year.
+
+Revenue of the Ophthalmic Systems strategic business unit increased by 7.5%, from €392.0m to €421.2m.
+Assuming constant exchange rates, revenue grew by 5.2%.
+
+
+--- Page 10 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+In the former Surgical Ophthalmology strategic business unit, revenue increased from €355.3m to €370.7m
+This corresponds to growth of 4.3% (adjusted for currency effects: 2.9%).
+
+There was a slight downturn in business of -0.9% in the Microsurgery strategic business unit, after adjust-
+
+ment for currency effects. Business in Japan, in particular, was restrained. Boosted by currency effects, the
+SBU grew slightly, by 1.3%.
+
+Revenue by strategic business unit
+
+2015/16 2014/15 Change in %
+
+adjusted for
+
+& & currency effects
+
+Ophthalmic Devices 791,866 747,225 6.0 41
+Microsurgery 296,499 292,836 1.3 -0.9
+Carl Zeiss Meditec Group 1,088,365 1,040,061 46 2.7
+
+b) Consolidated revenue by region
+
+The Carl Zeiss Meditec Group has a very balanced range of business activities worldwide, with each of its
+three business regions generating around one third of its total revenue. In the past fiscal year, the region
+Europe, Middle East and Africa (EMEA) accounted for 32.4% (prior year: 34.5%) of consolidated revenue.
+The Americas and Asia/Pacific (APAC) regions accounted for 32.5% (prior year: 34.8%) and 35.1% (prior
+year: 30.7%), respectively, of the Group's total revenue. The APAC region provided the highest contribution
+to revenue for the first time and also achieved the highest revenue growth of 19.5% (adjusted for currency
+effects: 15.5%).
+
+Share of regions in consolidated revenue in fiscal year 2015/16
+
+EMEA 32.4%
+Americas 32.5%
+
+APAC 35.1% |
+
+Revenue in the EMEA region fell by a slight -1.7%, or -1.3% after adjustment for currency effects, from
+€358.8m in the prior year to €352.7m. Business in individual markets was very heterogeneous, however.
+Germany, France and the United Kingdom made good contributions to revenue, while declines were recorded
+particularly in Southern Europe and the Middle East.
+
+Business in the Americas region declined by -2.2%, or -4.9% after adjustment for currency effects. Revenue
+
+amounted to €354.0m (prior year: €361.9m). This was mainly attributable to declining revenue in Ophthalmic
+Diagnostics due to persistently intense competitive pressure.
+
+37
+
+
+--- Page 11 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+The APAC region made a substantial contribution to growth within the Group, increasing its revenue by
+19.5%, to €381.7m (prior year: €319.4m). Adjusted for currency effects, growth was of a similar magnitude
+of 15.5%, with China, Southeast Asia and South Korea as the strongest growth drivers.
+
+Consolidated revenue by region
+
+2015/16 2014/15 Change in %
+
+adjusted for
+
+& & currengy effects
+
+EMEA 352,691 358,753 17 1.3
+Americas 354,005 361,882 2.2 49
+APAC 381,669 319,426 19.5 15.5
+Carl Zeiss Meditec Group 1,088,365 1,040,061 46 2.7
+
+Gross profit
+
+In fiscal year 2015/16, gross profit increased from €539.7m to €579.6m. The gross margin for the reporting
+period increased to 53.2% (prior year: 51.9%). This growth is mainly due to the positive effect had by a more
+favorable product mix with a higher proportion of case-number-dependent business, particularly in Ophthal-
+mology.
+
+Functional costs
+
+Functional costs for the reporting year amounted to €425.2m (prior year: €409.1m), thus increasing by 3.9%,
+which is slightly disproportionate to revenue growth. The proportion of revenue decreased slightly year-on-
+year, from 39.3% to 39.1%.
+
+» Selling and marketing expenses: Selling and marketing expenses increased disproportionately to revenue
+growth in the fiscal year under review, by 3.0%, from €247.9m to €255.3m. Relative to revenue, selling and
+marketing expenses were slightly below the prior year's level, at 23.5% (prior year: 23.8%).
+
+» General administrative expenses: Expenses in this area decreased by 5.5%, to €46.5m (prior year: €49.2m).
+The ratio of these expenses to revenue decreased from 4.7% in the prior year, to 4.3%.
+
+» Research and development expenses: The Carl Zeiss Meditec Group continuously invests in R&D, in order
+to further develop its product portfolio and ensure further growth. R&D expenses increased by 10.2% in the
+reporting period, to €123.4m (prior year: €112.0m). At 11.3% of revenue, the R&D ratio increased slightly
+year-on-year (prior year: 10.8%).
+
+Development of earnings
+
+The Carl Zeiss Meditec Group uses earnings before interest and taxes (EBIT = operating result) as a key perfor-
+mance indicator. EBIT for the reporting period amounted to €154.3m (prior year: €130.6m). This corresponds
+to an EBIT margin of 14.2% (prior year: 12.6%). The significant increase in the EBIT margin is attributable to
+a strict cost discipline and a more favorable product mix with a higher proportion of case-number-dependent
+revenue.
+
+
+--- Page 12 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+EBIT in €k /EBIT margin in %
+
+2015/16 154,332/14.2%
+2014/15 130,591/12.6%
+2013/14 120,705/13.3%
+
+EBIT in fiscal year 2015/16 included special effects in a volume amounting to €5.2m, which were associated
+with acquisitions and restructuring and reorganization measures, among other things.
+
+Overview of special effects included in EBIT
+
+2015/16 2014/15 Change
+
+€m €m in %
+
+EBIT 154.3 130.6 +18.2
+Acquisition-related special effects* 38 47 -20.1
+Restructuring/reorganization® 14 33 57.3
+Total special effects 5.2 8.0 “35.4
+
+Accordingly, the development of the EBIT margin within the newly created Ophthalmic Devices SBU was
+positive. This is attributable, among other things, to a more favorable product mix, which primarily resulted
+from a higher amount of procedure-dependent revenue in the refractive laser business, operating economies
+of scale, as well as cost-cutting measures accompanied by a strict cost discipline. The EBIT margin of the for-
+mer Ophthalmic Systems SBU improved significantly compared with the prior year. Substantial increases in the
+EBIT margin were recorded in the former Surgical Ophthalmology SBU. The EBIT margin of the Microsurgery
+SBU increased only slightly compared with the prior year, due, among other things, to higher research and
+development expenses and the somewhat restrained revenue growth
+
+Earnings before interest, taxes, depreciation and amortization (EBITDA) amounted to €174.6m in the past
+fiscal year (prior year: €149.8m), resulting in an EBITDA margin of 16.0% (prior year: 14.4%)
+
+The balance of interest income and interest expenses amounted to €-1.1m in the reporting period
+(prior year: €-0.2m).
+
+Due to the recognition of currency hedges as of 30 September 2016, the financial result was impacted by
+foreign currency losses in the amount of €9.3m (prior year: foreign currency losses of €8.9m).
+
+The tax rate for the reporting period was 29.6% (prior year: 35.5%). In the prior year, the financial result
+was still impacted by write-downs in connection with the impairment testing of the investments in Oraya
+Therapeutics Inc. As a general rule, an average annual tax rate of between 31% and 33% is assumed.
+
+5 Write-downs on intangible assets arose from the purchase price allocation (PPA), mainly in connection with the acquisition of
+Aaren Scientific Inc. in fiscal year 2013/14.
+© Restructuring costs mainly relate to the reorganization of the Diagnostics unit within the Ophthalmic Devices strategic business unit.
+
+39
+
+
+--- Page 13 ---
+
+40
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Consolidated profit attributable to shareholders of the parent company for fiscal year 2015/16 amounted
+to €98.3m, thus increasing by 57.8% compared with the low basis of comparison in the prior year
+
+(prior year: €62.3m). Non-controlling interests accounted for €1.6m (prior year: €3.3m). In fiscal year
+2015/16, basic earnings per share of the parent company amount to €1.21 (prior year: €0.77).
+
+Financial position
+
+Objectives and principles of financial management
+
+A primary objective of financial management at the Carl Zeiss Meditec Group is to ensure the solvency of the
+Company and to manage this efficiently throughout the Group. The Group's main source of liquidity comes
+from the business operations of the individual business units, upon which the financial activities and the
+strategic orientation of the Group are also based. The Company therefore operates a global financial manage-
+ment system that encompasses all of its subsidiaries and is centrally organized at Group level. The Company
+also strives to continuously improve its financial power and reduce financial risks by keeping a constant check
+on the solvency of its debtors, which also involves the use of financial instruments.
+
+The Company deposits any liquidity it does not require at normal market conditions with the Group treasury
+of Carl Zeiss AG. When investing surplus liquidity, short-term availability mainly comes before the goal of
+maximizing earnings, so that funds can be accessed quickly if, for example, acquisition opportunities arise.
+The Group has production plants in the USA and Europe. This minimizes the effect of currency fluctuation
+The remaining currency risk is hedged by simple futures trading. Details on this can be found in the notes
+
+to the consolidated financial statements under "(2) (i) Financial instruments", "(27) Additional disclosures on
+financial instruments", "(35) Financial risk management", "(2) (u)" and "(33) Related party disclosures" and
+in the financial statements of Carl Zeiss Meditec AG in sections 5 "Information and explanatory notes on
+accounting and valuation principles", paragraph "Derivative financial instruments"”, 9 "Receivables from/
+
+liabilities to affiliated companies" and 26 "Financial result".
+
+Financial management
+The ratio of borrowed capital to equity amounts to 46.6% as of 30 September 2016
+(30 September 2015: 42.9%).
+
+The Group's dynamic gearing ratio stands at 0.3’ years for fiscal year 2015/16 (prior year: 2.4 years®).
+
+The interest coverage ratio, i.e., the coverage of interest income by the operating result before depreciation
+and amortization (EBITDA), amounted to 69.4 (prior year: 101.5).
+
+Cash inflows generated from operating activities provide an important source of financing for the Carl Zeiss
+Meditec Group. The Company can also create additional liquidity by issuing new shares on the capital market.
+Furthermore, the Company has the option to assume loans either from the Group treasury of Carl Zeiss AG or
+from banks.
+
+For further information on the financial liabilities of the Carl Zeiss Meditec Group please refer to note "(24)
+
+Non-current financial liabilities", "(25) Current accrued liabilities" and "(26) Other current non-financial liabil-
+ities" in the accompanying notes to the consolidated financial statements and in the financial statements of
+Carl Zeiss Meditec AG in sections 9 "Receivables from/liabilities to affiliated companies" and 17 "Liabilities"
+
+Calculation: borrowings excluding non-controlling interests, less cash and cash equivalents and less treasury receivables)/cash flow from
+operating activities
+
+® Calculation: borrowings excluding non-controlling interests, less cash and cash equivalents and less treasury receivables plus financial
+investments in the amount of €110m / cash flow from operating activities)
+
+
+--- Page 14 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Since the Group possesses sufficient cash funds to finance its operating and strategic objectives, changes in
+credit conditions do not currently have any material effect on its financial position.
+
+Separate reporting on financial instruments
+
+The Carl Zeiss Meditec Group is exposed to currency fluctuation risks, due to its international business activi-
+ties in numerous different currencies. Significant currency risks are hedged against with hedging transactions,
+based on a rolling business plan.
+
+Hedges are mainly transacted centrally by Carl Zeiss Financial Services GmbH. The services provided by
+
+Carl Zeiss Financial Services GmbH to Carl Zeiss Meditec AG and its subsidiaries are regulated by correspond-
+ing general agreements. The hedges are processed by Carl Zeiss Financial Services GmbH with external
+business banks. Hedges are processed exclusively by banks with a high credit rating from leading agencies.
+The business transactions are executed with strict separation of functions between the front office (trade),
+middle office (financial risk management, controlling) and back office (processing, documentation).
+
+Value-at-risk analyses, together with scenario, sensitivity and stress test analyses, are implemented in risk
+control and monitoring, to quantify the currency risks. Hedging rates are specified for operative control of all
+relevant currencies. In addition, limits were defined to limit risks relating to contracting parties and transaction
+types. Derivative financial instruments are not used for speculative purposes.
+
+Statement of cash flows
+
+The Carl Zeiss Meditec Group's statement of cash flows shows the origin and utilization of the cash flows
+within a fiscal year. A distinction is made between cash flows from operating activities and cash flows from
+investing and financing activities.
+
+Changes in individual items in the income statement and the statement of financial position are recorded in
+the statement of cash flows. In contrast, the consolidated statement of financial position presents the figures
+as they stood at the end of the reporting period on 30 September 2016. As a result, the statements in the
+analysis of the financial position may differ from the presentation of net assets based on the consolidated
+statement of financial position.
+
+Summary of key ratios in the statement of cash flows in €
+
+m 2015/16 2014/15
+
+Cash flows from operating 111,770 Es
+activities 56,744
+
+Cash flows from investing 77,332 Le
+activities “35,173
+
+Cash flows from financing -195,021 —— ee
+
+activities “19,290
+
+Change in cash and cash 4,331 t
+
+equivalents 2,314
+
+41
+
+
+--- Page 15 ---
+
+42
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Cash flows from operating activities amounted to €111.8m in the reporting period (prior year: €56.7m).
+This increase is primarily due to the higher consolidated profit, which is around €34m higher than the prior
+year. In addition, there was a less build-up of trade receivables at the end of the reporting period in fiscal year
+2015/16 than in the prior year.
+
+Cash flow from investing activities amounted to €77.3m in the period under review (prior year: €-35.2m).
+This amount is mainly due to the maturity of a fixed-term deposit on 30 September 2015, in the amount of
+€110m, which was processed via Carl Zeiss Financial Services GmbH.
+
+Cash flow from financing activities in the past fiscal year amounts to €-195.0m (prior year: €-19.3m). The
+difference compared with the year-ago period is primarily attributable to an increase in treasury receivables,
+resulting, among other, from the maturity of the above-mentioned fixed-term deposit of €110m.
+
+Free cash flow increased, primarily as a result of the higher cash flows from operating activities, to €146.0m
+(prior year: €91.1m)
+
+Investment and depreciation policy
+
+In order to further consolidate the good market position in the medical technology sector and strengthen
+our leading market position, the Company needs to make continued investments. A distinction is made here
+between two types of investment: capacity expansions and replacement investments. These investments are
+primarily financed from cash flow from operating activities.
+
+In terms of the production of devices and systems, the Company mainly confines itself to the integration of
+individual components to create system solutions. For this reason, investments in property plant and equip-
+ment are comparatively low. One exception, however, is the production of intraocular lenses, which generally
+demands higher investments due to a larger vertical range of manufacture.
+
+Nevertheless, the required investment of capital in real assets is limited within the Group, which is evident
+from the development of the capex ratio — the ratio of total investments? in property, plant and equipment
+(cash) to consolidated revenue. In fiscal year 2015/16 this ratio was 1.2% (prior year: 1.0%).
+
+At Carl Zeiss Meditec AG and its subsidiaries intangible assets and property, plant and equipment are subject
+to scheduled, straight-line amortization and depreciation, respectively, over their estimated useful lives.
+Further details on this can be found in note "(2) (g) Other intangible assets" and "(2) (h) Property, plant and
+equipment" in the accompanying notes to the consolidated financial statements and in section 6 "Fixed
+assets" of the financial statements of Carl Zeiss Meditec AG.
+
+In fiscal year 2015/16, investments in property, plant and equipment (cash) totaled €12.8m, compared with €9.8m the prior year.
+
+
+--- Page 16 ---
+
+Key ratios relating to financial pos’
+
+Key ratios relating to financial position
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Key ratio Definition 30 Sep 2016 30 Sep 2015 Change
+€k €k in%
+Cash and cash equivalents Cash-in-hand and bank balances 8,710 13,041 -33.2
+Net cash Cash-in-hand and bank balances 334,582 278,410 420.2
++ treasury receivables from Group treasury of Carl Zeiss AG6
+/. treasury payables to Group treasury
+of Carl Zeiss AG
+Net working capital Current assets including financial investments 236,984 254,498 69
+/. cash and cash equivalents
+/. treasury receivables from Group treasury of Carl Zeiss AG
+/. current liabilities excl. treasury payables
+to Group treasury of Carl Zeiss AG
+Working capital Current assets 571,566 532,908 473
+/. current liabilities
+Key ratio Definition 2015/16 2014/15 Change
+Cash flow per share Cash flow from operating activities €1.37 €0.70 +97.0%
+Weighted average of shares outstanding
+Capex ratio Investment (cash) in property, plant and equipment 1.2% 1.0% +0.2% pts
+
+Net assets
+
+Consolidated revenue
+
+Presentation of net assets
+Total assets increased to €1,247.7m as of 30 September 2016 (30 September 2015: €1,139.3m).
+
+Structure of the consolidated statement of financial posi
+
+i Current assets
+
+n — assets in €k
+
+HE Non-current assets
+
+including assets held for sale (excluding goodwill)
+
+Group's total assets
+
+30 Sep 2016
+
+Group's total assets
+
+30 Sep 2015
+
+1,247,730 858,833
+
+224,319
+
+164,578
+
+1,139,290 776,298
+
+198,647
+
+164,345
+
+Non-current liabilities increased to €388.9m as of 30 September 2016 (30 September 2015: €363.0m), due
+
+mainly to an increase in deferred taxes. This is the result of higher pension commitments due to an adjust-
+
+ment of the discount factor arising from the fall in the interest rate.
+
+43
+
+
+--- Page 17 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+There were significant changes in current assets as of 30 September 2016, which amounted to €857.5m
+(30 September 2015: €776.3m) resulting from an increase in treasury receivables, among others, due to a
+strong cash flow from operating activities. Inventories also increased as of 30 September 2016, due to a
+number of current product launches since the end of the past fiscal year, as well as to ensure delivery capacity
+for a number of top-selling products.
+
+Structure of the consolidated statement of financial position — liabilities in €k
+
+Mi Equity Ml Current liabilities Non-current liabilities
+Group's total assets 1,247,730 851,163 285,897 110,670
+30 Sep 2016 fe
+Group's total assets 1,139,290 797,450 243,390 98,450
+
+30 Sep 2015 a
+
+The equity recognized in the Carl Zeiss Meditec Group's statement of financial position amounts to €851.2m
+as of 30 September 2016 (30 September 2015: €797.5m). The equity ratio is 68.2% (30 September 2015:
+70.0%) and thus remains high.
+
+Non-current liabilities amounted to €110.7m as of 30 September 2016 (30 September 2015: €98.5m). This
+is the result of higher pension commitments due to an adjustment of the discount factor arising from the fall
+in the interest rate.
+
+As of 30 September 2016, current liabilities amounted to €285.9m (30 September 2015: €243.4m). This
+increase is primarily attributable to the change in trade payables relating to the end of the reporting period,
+as well the change in liabilities to related parties.
+
+Key ratios relating to net assets
+
+Key ratios relating to net assets
+
+Key ratio Definition 30 Sep 2016 30 Sep 2015 Change
+in% in % % pts
+Equity ratio Equity (including non-controlling interests) 68.2 70.0 18
+
+Total assets
+
+Inventories in % Inventories (net) 19.1 18.2 +0.9
+of rolling
+12-month revenue
+
+Rolling revenue of the past twelve months at the
+end of the reporting period
+
+Receivables in % Trade receivables at the end of the reporting period 23.9 24.3 “0.4
+of rolling (including non-current receivables)
+12-month revenue
+
+Rolling revenue of the past twelve months at the
+end of the reporting period
+
+Orders on hand
+
+The Carl Zeiss Meditec Group's orders on hand increased by 2.1%. As of 30 September 2016 it amounted to
+€162.7m (30 September 2015: €157.8m)
+
+
+--- Page 18 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Events of particular significance
+
+There were no other events of particular significance during fiscal year 2015/16.
+
+NON-FINANCIAL PERFORMANCE INDICATORS
+Responsibility
+
+For Carl Zeiss Meditec Group a particular commitment to public welfare and the environment has traditionally
+played an important role. The Company wants to give as many people as possible access to modern medical
+care and contribute to the improvement of medical care for people in all regions of the world. It also goes
+without saying that the Carl Zeiss Meditec Group believes in responsible and state-of-the-art handling of
+natural resources.
+
+Employees
+Highly qualified and motivated employees are a necessity for ensuring the long-term success of a company.
+
+Responsible human resources development and continuous improvement play a crucial role in this. As of
+30 September, 2016 the Carl Zeiss Meditec Group had 2,910 employees worldwide (prior year: 2,888).
+
+Employees
+30 Sep 2016 2210
+30 Sep 2015 2,888
+30 Sep 2014 2,972
+
+At 43.7% and 32.2%, respectively, the majority of employees were working in Production or Sales and
+Marketing as of 30 September 2016. The percentage of employees working in Research and Development
+was 15.2% at the end of the reporting period. The percentage of employees working in the commercial area
+as of 30 September 2016 was 8.8%.
+
+Employees by function 30 September 2016
+
+Production 43.7%
+Sales and marketing 32.2%
+Research and development 15.2%
+
+Commercial sector and management 8.8%
+
+45
+
+
+--- Page 19 ---
+
+46
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+At 65.4%, the majority of the Carl Zeiss Meditec Group's employees work in the EMEA region. A total of
+29.9% work in the Americas region and 4.7% of all employees in the APAC region
+
+Employees by region 30 September 2016
+
+EMEA 65.4%
+Americas 29.9%
+APAC 4.7%
+
+It is the Company’s employees, with their expertise and achievements, who lay the foundations for the
+
+Carl Zeiss Meditec Group's global success. That is why the sustainable development and targeted support
+of the potential of all employees is the primary task of human resources management at the Company.
+
+The focus is on employee training and management development. To this end, the Company invested more
+than half a million euros in Germany alone and employed 15 trainees in Germany in fiscal year 2015/16.
+Employees can choose from a wide range of courses offered in the internal ZEISS qualification program. In
+addition, ZEISS supports measures for vocational training and qualification opportunities outside working
+hours. The Company considers this a sound basis for ensuring long-term economic success. The Group aims
+to increase its attractiveness as an employer through strategic employee development.
+
+Social commitment
+
+Social responsibility is an integral part of corporate culture. Our aim is to give people in underprivileged
+regions (for example, RDEs) access to state-of-the-art medical care. For this reason, the Company supports
+many local social initiatives and dedicates itself to training and further education for physicians and medical
+staff, scientific and technological research and sustainable work worldwide. One focus is the global commit-
+ment to good vision as part of the VISION 2020 initiative. One special partner is the Christoffel Blindenmission
+(CBM). As a partner of the International Council of Ophthalmology (ICO), the Company supports the ICO
+Fellowship Program and the "Teaching the Teacher" program. The fellowship program aims to support partic-
+ularly talented young ophthalmologists from economically poorer regions.
+
+Environment
+
+It goes without saying that the Carl Zeiss Meditec Group believes in responsible and state-of-the-art handling
+of natural resources
+
+All the major manufacturing sites worldwide are certified to the international environmental management
+standard ISO 14001. Since December 2015, the Group has been certified in accordance with the internation-
+ally recognized energy management standard ISO 50001 in the European Union
+
+
+--- Page 20 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Good examples of sustainable and careful handling of resources and the environment are a company building
+in Oberkochen that is particularly sustainable to run, and the more than 4,000 solar panels on the roof of
+Carl Zeiss Meditec Inc. in Dublin (California)
+
+In December 2014 the company building in Oberkochen became the first building to be certified by the
+German Sustainable Building Council (Deutsche Gesellschaft fur Nachhaltiges Bauen e.V., DGNB) in the category
+"Administrative and Production Building" and awarded the gold seal. The new building was ranked among the
+top ten of all buildings built in Germany and certified by the DGNB
+
+Since 2012 more than 4,000 solar panels on the roof of Carl Zeiss Meditec Inc. in Dublin have been convert-
+ing solar energy into around 1.7 million kilowatt hours of electricity per year, thus ensuring that the location
+produces the majority of the power it requires itself.
+
+Compliance
+
+As a company of the ZEISS Group, the Carl Zeiss Meditec Group is also subject to the globally applicable Code
+of Conduct, which defines the basic principles of good and fair conduct in the competitive environment and
+in dealing with our employees and customers, and according to which business is carried out worldwide. This
+Code of Conduct sets out the fundamental ethical principles of good conduct and values which govern the
+actions of both management and employees in their day-to-day work at the Company.
+
+Production
+
+Production plants
+
+The Carl Zeiss Meditec Group manufactures its products in Jena, Oberkochen and Berlin in Germany, Dublin
+and Ontario in the USA and in La Rochelle in France. The Group also has a number of smaller sites belonging
+to subsidiaries of Carl Zeiss Meditec S.A.S. in Besancon (France), Livingston (Scotland) and Mauritius. Systems
+and devices for ophthalmology are manufactured in Dublin and in Jena. The Group manufactures surgical
+microscopes and microsurgical visualization solutions in Oberkochen; intraocular lenses are mainly manufac-
+tured in La Rochelle and Berlin, and Ontario. The broad product portfolio is rounded off by viscoelastics,
+which are produced at the facility in Livingston and are mainly used for treating cataracts. The two remain-
+ing production facilities of Carl Zeiss Meditec S.A.S. manufacture other instruments and consumables for the
+treatment of ophthalmic diseases.
+
+Production concept
+
+When manufacturing its devices and systems, the Carl Zeiss Meditec Group focuses on the assembly of system
+components, most of which it purchases from external suppliers. The vertical range of manufacture for intra-
+ocular lenses (IOL) is higher, however. Production of these largely takes place in-house at the Company. Only
+a number of specific steps in the production process are outsourced to external companies. When selecting
+suppliers, the Carl Zeiss Meditec Group continuously strives to qualify additional suppliers for key components
+and vendor parts, as appropriate, in order to reduce its dependence on individual suppliers.
+
+The main focus concerning production processes is to be able to respond quickly to customer inquiries and re-
+quirements, to implement short chains of command and to be able to quickly and efficiently carry innovations
+over into production. Shorter throughput times play a major role in this, as well as reducing inventories, while
+simultaneously optimizing production costs, and improving product quality.
+
+47
+
+
+--- Page 21 ---
+
+48
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Production planning
+
+Production planning in Jena, Oberkochen and Dublin is based on the rolling forecast method, mostly on a
+monthly or quarterly basis. The sales forecast is then translated into a demand forecast for production units,
+taking inventory changes into account. In order to keep stocks to a minimum, products are usually assembled
+to customer order (series production of individual items).
+
+In the area of refractive lasers, inventories are kept for consumables for the planned sales volume for three
+months, in order to ensure uninterrupted supplies for customers who cannot use their equipment without
+such consumables. The customers are served from the safety stock according to the first-in-first-out principle.
+
+The rolling forecast method described above is also applied for the manufacture of intraocular lenses.
+Limited quantities of the finished products are stockpiled since customers expect very short delivery times for
+implants. To this end replenishment orders are forwarded by the customers to a central warehouse; these, in
+turn, trigger a new order thus ensuring customers are served as quickly as possible. The Carl Zeiss Meditec
+Group also operates consignment warehouses in clinics and hospitals, which — depending on consumption —
+are continuously restocked
+
+Research and development
+
+Objectives and focus of research and development
+
+Research and development plays an important role within the Carl Zeiss Meditec Group. Pursuant to its strategy,
+innovations are a key driver of future growth. The Carl Zeiss Meditec Group has the necessary resources to
+ensure the Company's future earnings power through its research and development activities. The Company
+shall therefore continue to offer innovations in future that make leading technologies available to its custom-
+ers, enable improvements in efficiency and continuously enhance treatment results for patients.
+
+For this reason the Company is aiming to continuously expand its product portfolio and continuously improve
+products that are already on the market. The Group is therefore striving to establish its products as new
+
+gold standards in medical diagnostics and therapy. The focus is to design more efficient workflows for the
+customer by integrating solutions and thus to improve clinical results. A central component of the research
+and development work within the Carl Zeiss Meditec Group is close cooperation with the customer and con-
+tinuously high investments in research and development.
+
+In fiscal year 2015/16 research and development expenses increased by 10.2% to €123.4m (prior year: €112.0m).
+
+At the same time, the F&E ratio increased year-on-year to 11.3% (prior year: 10.8%) and is thus slightly above
+the medium to long term target range of 10% to 11%
+
+R&D expenses in €k %/Ratio to consolidated revenue in %
+
+2015/16 123,406/11.3%
+2014/15 111,957/10.8%
+2013/14 99,751/11.0%
+
+
+--- Page 22 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+In the reporting period 15.2% (prior year: 14.6%) of the entire workforce of the Carl Zeiss Meditec Group
+were employed in Research and Development. To a certain extent in research and development, services are
+procured from Carl Zeiss AG, Oberkochen, and its subsidiaries. In fiscal year 2015/16 the expenses incurred
+for this amounted to around 16.6% of the overall research and development expenses of €123.4m.
+
+Focus of research and development activities in the reporting period
+Research and development at the Company mainly focuses on
+
+» examining new technological concepts in terms of their clinical relevance and effectiveness
+
+» the continuous development of the existing product portfolio
+
+» the development of new products and product platforms based on the available basic technologies and
+
+» networking systems and equipment to increase the efficiency of diagnosis and treatment and to improve
+treatment results for patients.
+
+Customer focus
+
+The close cooperation with our customers is a key prerequisite for the long-term success of the Company.
+The customers are facing challenges in managing rising case numbers, limited public funding and more
+demanding expectations of patients with respect to the treatment outcome. On the other hand, ensuring
+basic medical care for a large number of people over long distances plays an important role in RDEs. The
+different requirements for products and solutions are critical
+
+By driving innovations, the Carl Zeiss Meditec Group is constantly seeking to make cutting-edge technology
+in medical applications accessible for customers and to establish new standards in medical diagnostics and
+therapy. At the same time, customers shall be supported in their decision making by integrating data from
+different devices using software or by viewing data from different visits during the course of treatment.
+Examples of software designed for workflow efficiency are the workplaces used in ophthalmology, such as
+the ZEISS Retina Workplace which provides easy access to important clinical information in the management
+of macular diseases. In addition, technologies such as fluorescence technology and other imaging techniques
+should enable physicians to make better clinical decisions in diagnostic examinations and surgical treatments.
+The ZEISS AngioPlex™ OCT Angiography technology enables physicians to examine changes in the retinal
+blood vessels non-invasively, using three-dimensional images. In neurosurgery, blood flow can be made visible
+using fluorescence technology, to help the physician make decisions during surgery and reduce risks for the
+patient.
+
+As a result, logical networking of devices and systems and integrated solutions can create more efficient
+workflows and improve clinical results.
+
+The growing expectations of patients regarding therapy and ultimately the treatment outcome must be
+considered in the Company's research and development work. Examples include the AT LISA® and AT LISA®
+tri toric, intraocular lenses capable of micro-incision in cataract surgery that allow less-invasive operations for
+patients and visual acuity at all distances. The minimally invasive SMILE technology in refractive laser surgery
+also enables a more gentle procedure for patients. The ReLEX® SMILE procedure has established itself as the
+third generation of laser vision correction. Compared with previous procedures, ReLEx® SMILE stands out by
+being considerably less invasive and offering very good predictability of correction. Since its launch in 2011,
+approximately 600,000 eyes have now been successfully treated worldwide using this minimally invasive
+method. The procedure has also had approval in the USA since September 2016.
+
+49
+
+
+--- Page 23 ---
+
+50
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Another example of close cooperation with our customers is PLEX ™ Elite 9000. PLEX™ Elite 9000'° is an
+innovative and powerful application based on optical coherence tomography with swept-source technology.
+PLEX™ Elite 9000 is currently being made available as research technology to leading scientists within the
+scope of the "Advanced Retina Imaging Network" (ARIN). ARIN's focus is to test the next generation of opti-
+cal coherence tomography technology. Using this innovative OCT technology, researchers can examine retinal
+micro-structures and the tiniest of vessels in individual sections of the eye (e.g., vitreous, retina and choroid).
+The delivery of OCT and OCT angiography imaging enables fast, dense, broad and deep visualization which
+was not previously possible with other technologies.
+
+Product requirements in rapidly developing economies such as India or China are often very different to the
+requirements in established markets. That is why it is important to establish a market-specific product range.
+
+The Carl Zeiss Meditec Group aims to provide physicians in these regions with efficient workflows. Given the
+particularly high numbers of patients, ease of use and versatility of the devices and systems, as well as cost,
+play a crucial role.
+
+Two examples are the OCT device PRIMUS 200 and the OPMI LUMERA® 300.
+
+The Company has expanded its OCT portfolio to include the compact device ZEISS PRIMUS 200. The device
+is easy to use, versatile and offers physicians new possibilities in clinical care, particularly those in smaller
+ophthalmic practices and in countries with fast-growing markets. The OCT procedure is used, for example, to
+visualize the retina in the posterior eye segment.
+
+With the OPMI LUMERA® 300, the Company also provides a surgical microscope with an excellent price/
+performance ratio, allowing physicians to benefit form the renowned quality of optics and illumination of the
+ZEISS OPMI LUMERA product range.
+
+However, the Company is also aware that meeting customer needs demands a strong on-site presence. With
+
+the application and research center "CARIn" (Center of Application and Research in India) targeted investments
+are being made in research and development projects in the immediate vicinity of our customers.
+
+© The ZEISS PLEX™ Elite 9000 bears a CE marking. The device has no approval from the American Food and Drug Administration (FDA)
+
+
+--- Page 24 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Brands and patents
+
+The Company invests in innovations and solutions and ensures that these have an innovative edge with pat-
+ents. The Carl Zeiss Meditec Group currently owns more than 800 patent families worldwide. The Carl Zeiss
+Meditec Group is granted an average of one patent a week. Although the protection for a patent varies from
+country to country, the Company still strives to protect products in the various markets as comprehensively
+as possible with patents. Since a number of products have already been on the market for some time, patent
+protection does not extend to the basic functionality of these products, but, rather, to individual features and
+enhancements that protect beneficial solutions. As a result, the Group is able to successfully and permanently
+maintain its position in the market.
+
+In addition, the Company has more than 630 registered brands and brand registrations (as of 30 September,
+2016). These include, among others, product names, slogans, images, logos and other specific characteristics
+of the Company.
+
+FINANCIAL STATEMENTS OF CARL ZEISS MEDITEC AG
+
+Carl Zeiss Meditec AG is the parent company of the Carl Zeiss Meditec Group and is listed on the German
+Stock Exchange. Its results are influenced to a large extent by its subsidiaries. The development of its business
+is generally subject to the same opportunities and risks at that of the Carl Zeiss Meditec Group. The out-
+
+look for the Group also largely mirrors the expectations for Carl Zeiss Meditec AG, due to the links between
+Carl Zeiss Meditec AG and its subsidiaries and due to the importance of Carl Zeiss Meditec AG within the Group.
+The following explanations for the Carl Zeiss Meditec Group therefore also apply for Carl Zeiss Meditec AG
+
+The aim of controlling at Carl Zeiss Meditec AG is to ensure the solvency of the Company and to manage this
+efficiently throughout the Group. The EBIT margin and sales growth carry the most weight in this respect. The
+Company's main source of liquidity comes from the business operations of its individual business units, upon
+which the Company's financial activities and strategic focus are also based.
+
+Preparation of the financial statements
+
+Contrary to the consolidated financial statements, which are prepared in accordance with the Internation-
+al Financial Reporting Standards (IFRSs), as they are to be applied in the EU, the following annual financial
+statements of Carl Zeiss Meditec AG have been prepared in accordance with the German Commercial Code
+(Handelsgesetzbuch, HGB).
+
+Summary of business development
+
+Carl Zeiss Meditec AG has brought fiscal 2015/16 to a successful close, thus continuing the Company's
+growth trend of the last few fiscal year. Sales increased by 5.9% year-on-year (adjusted for currency effects:
+5.7%). All strategic business units contributed to this growth to varying degrees. The increase in sales is in line
+with the forecast for market growth, in the low to mid-single-digit percentage range, after adjustment for
+currency effects. The EBIT margin increased from 12.8% in the prior year, to 14.3%
+
+51
+
+
+--- Page 25 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Income statement according to HGB
+
+Notes 2015/16 2014/15 Change
+&k & & & in %
+Sales (21) 689,643 651,110 5.9%
+Cost of sales (353,287) (345,300) 2.3%
+Gross profit on sales 336,356 305,810 10.0%
+Sales and marketing expenses (107,554) (103,990) 3.4%
+General and administrative expenses (33,110) (35,135) 5.8%
+R&D costs (87,828) (79,107)
+minus subsidies received 23 (87,805) 27 (79,080) 11.0%
+Other operating income (24) 32,554 39,105 “16.8%
+Other operating expenses (25) (41,553) (43,166) 3.7%
+Income from investments and long-term loans (26) 2,505 2,797 “10.4%
+Other interest and similar income (26) 749 695 7.8%
+Amortization of financial assets and short-term
+investments/marketable securities (26) (20,500) (16,000) 28.1%
+Interest and similar expenses (26) (768) (11,959) -93.6%
+Result from ordinary activities 80,874 59,077 36.9%
+Extraordinary expenses (6,970) (748) 831.8%
+Extraordinary result (27) (6,970) (748) 831.8%
+Income taxes (28) (80,904) (24,705) 25.1%
+Profit after tax 43,000 33,624 27.9%
+Other taxes (29) (253) (274) 7.7%
+Net income for the year 42,747 33,350 28.2%
+Retained profits brought forward from prior year 103,714 102,888 0.8%
+Dividend (30,897) 32,524) “5.0%
+Net retained profits 115,564 103,714 11.4%
+
+Results of operations
+
+Sales increased by 5.9% compared with the prior year (€651.1m), to €689.6m. This includes slightly positive
+effects from foreign currency translation
+
+Sales in the area of ophthalmology increased year-on-year, due in particular to the femtosecond technology
+products, the innovative intraocular lenses and multifocal and toric premium lenses for minimally invasive
+cataract surgery.
+
+In fiscal year 2015/16, gross profit on sales increased from €305.8m to €336.4m. The corresponding margin
+increased to 48.8%, due to a more favorable product and regional mix (prior year: 47.0%).
+
+Selling expenses in the fiscal year amounted to €107.6m; general administrative expenses amount to €33.1m.
+
+Selling and general administrative expenses are thus at around the same level as the prior year. Research and
+
+development costs of Carl Zeiss Meditec AG amounted to €87.8m (prior year: €79.1m) in fiscal year 2015/16.
+
+Detailed information on the Carl Zeiss Meditec Group's research and development activities can be found on
+pages 48 to 50.
+
+The decline in other operating income is the result of lower exchange rate gains. The improvement in the
+financial result is attributable, in particular, to a lower interest expense, which is mainly due to the change in
+
+legislation regarding the discounting of pension provisions.
+
+The result from ordinary activities increased from €59.1m in the prior year, to €80.9m in fiscal year 2015/16
+Net income in the year under review amounted to €42.7m (prior year: €33.4m)
+
+52
+
+
+--- Page 26 ---
+
+Balance sheet
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+30 Sep 2016 30 Sep 2015 Change
+& €k in €k in%
+ASSETS
+A. Fixed assets 496,273 531,002 (34,729) 5%
+|. Intangible assets 143,133 154,298 (11,165) 7.2%
+Il, Tangible assets 17,993 17,249 744 43%
+Ill Financial assets 335,147 359,455 (24,308) “6.8%
+B. Current assets 500,472 431,181 69,291 16.1%
+I. Inventories 96,085 95,489 596 0.6%
+Il, Receivables and other assets 404,314 335,689 68,625 20.4%
+ill, Cash-in-hand and bank balances 2B 3 70 2,333.3%
+C. Deferred income 701 774 (73) 9.4%
+D. Asset-side difference arising from asset offsetting 10,022 - 10,022 -
+Total ASSETS 1,007,468 962,957 44,511 4.6%
+EQUITY AND LIABILITIES
+A. Equity 846,268 834,418 11,850 14%
+|. Subscribed capital 81,310 81,310 : 0.0%
+Il, Capital reserve 646,454 646,454 : 0.0%
+Ill Sales reserves 2,940 2,940 - 0.0%
+IV. Net retained profits 115,564 103,714 11,850 11.4%
+B. Special reserve for investment subsidies 31 104 (23) -22.1%
+C. Provisions 70,763 45,095 25,668 56.9%
+D. Liabilities 86,817 71,241 15,576 21.9%
+E. Deferred income 2,167 1,200 967 80.6%
+F, Deferred tax liabilities 1,372 10,899 (9,527) “87.4%
+Total LIABILITIES 1,007,468 962,957 44,511 4.6%
+
+Net assets and results of operations
+
+Pursuant to German commercial law (HGB), the total assets of Carl Zeiss Meditec AG amounted to €1,007.5m
+as of 30 September 2016. This corresponds to an increase of 4.6% compared with the prior year (€962.9m).
+
+The decline in financial assets compared with the prior year is primarily attributable to the repayment of a
+loan granted to Atlantic S.A.S. and to the write-down of a loan to the subsidiary Carl Zeiss Meditec Iberia S.A.
+Although, due to the currently difficult economic and political environment in the local Spanish market,
+
+Carl Zeiss Meditec Iberia S.A. was unable to achieve its financial targets in the past fiscal year 2015/16,
+
+Carl Zeiss Meditec AG continues to work on the basis of the going concern assumption.
+
+The increase in receivables and other assets is mainly attributable to receivables from the Group treasury of
+
+the ZEISS Group, which increased in the year under review from €206.1m in the prior year, to €236.4m, other
+receivables from affiliated companies, which increased to €30.8m (prior year: €2.7m), and to trade receivables
+from affiliated companies in the amount of €92.8m (prior year: €86.9m).
+
+Cash and cash equivalents consist exclusively of bank balances. Term deposit balances are deposited with the
+Group treasury of the ZEISS Group and are recognized under "Receivables from affiliated companies".
+
+53
+
+
+--- Page 27 ---
+
+54
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Net retained profits increased by the net income for the year of €42.7m, less the dividend paid of €30.9m.
+
+Provisions increased compared with the prior year, to €70.8m (prior year: €45.1m). This is mainly due to higher
+tax provisions, particularly for foreign exchange transactions carried as liabilities, and outstanding invoices.
+Further information can be found in the notes to the annual financial statements of Carl Zeiss Meditec AG in
+the section entitled "Provisions".
+
+The debt ratio (ratio of borrowed capital to equity) increased to 18.8% as of 30 September 2016 (30 Septem-
+ber 2015: 15.2%).
+
+Cash inflows generated from operating activities provide an important source of financing for the Carl Zeiss
+Meditec AG. The Company can also create additional liquidity by issuing new shares on the capital market.
+Furthermore, the Company has the option to assume loans either from the Group treasury of Carl Zeiss AG or
+from banks. Since Carl Zeiss Meditec AG possesses sufficient cash funds to finance its operating and strategic
+objectives, changes in credit conditions do not currently have any material effect on its financial position
+
+Employees
+
+As of 30 September 2016, Carl Zeiss Meditec AG had 1,196 employees. This figure does not include
+Management Board members.
+
+Appropriation of profits
+
+Fiscal year 2015/16 closes with net income for the year of €42,746,858.13. The Management Board proposes
+utilizing the net retained profits of €115,563,715.21 for fiscal year 2015/16 as follows:
+
+» payment of a dividend of €0.42 per no-par value share for 81,309,610 no-par-value shares:
+€34,150,036.20
+» residual profit carried forward to new account: €81,413,679.01
+
+Declaration on corporate governance (pursuant to Section 289a HGB) and corporate governance
+report
+
+The declaration on corporate governance (pursuant to Section 289a HGB) includes the declaration of confor-
+mity pursuant to Section 161 AktG, relevant information on corporate governance practices applied which
+go beyond the statutory requirements, in addition to information of where these are publicly accessible and
+a description of how the Management and Supervisory Boards work, as well as the composition and mode of
+working of their committees. In addition, disclosures are made concerning the stipulation of targets for the
+proportion of women on the Management Board and within the next two levels of management, including
+the deadlines for attaining these targets, and concerning compliance with the minimum proportions of
+women and men on the Supervisory Board. The Declaration on Corporate Governance is available under
+www.zeiss.de/meditec-ag/ir, "Declaration on Corporate Governance".
+
+REMUNERATION REPORT
+Remuneration of the Management Board
+The members of the Management Board are remunerated based on Section 87 German Stock Corporation
+
+Act (Aktiengesetz). According to this, the Supervisory Board determines the remuneration, which comprises
+fixed and variable components, and payments in kind. The Supervisory Board's General Committee proposes
+
+
+--- Page 28 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+the amount and structure of the remuneration to be paid to the Management Board, and these are then
+approved by the Supervisory Board as a whole. The appropriateness of the Management Board remuneration
+is based on the duties and the personal contribution of the individual members of the Management Board, as
+well as the Company's overall financial position and market environment.
+
+At its meeting on 17 September 2015 the Supervisory Board addressed the Management Board objectives for
+fiscal year 2015/16.
+
+At its meeting on 8 December 15, the Supervisory Board addressed the achievement of objectives by the
+Management Board members for fiscal year 2014/2015, and stipulated the relevant variable remunerations.
+Furthermore, the salaries of Management Board members Dr. Christian Muller and Thomas Simmerer were
+also reviewed during this meeting — based on the salary situation compared with the market, general price
+and salary trends, and the achievements demonstrated and achievements anticipated in future — and adjusted
+with effect from 1 October 2015
+
+Following the request of Management Board member Thomas Simmerer for early termination of his Manage-
+ment Board mandate, the Supervisory Board passed a resolution to this effect at its meeting on 2 June 2016,
+and approved this, effective 30 September 2016.
+
+The objectives for the Management Board for fiscal year 2016/17 were stipulated by the Supervisory Board
+at its meeting on 14 September 2016. This meeting of the Supervisory Board also resolved upon the achieve-
+ment of the objectives for fiscal year 2015/16 by Mr. Thomas Simmerer, as well as the conditions of his early
+departure from the Management Board, effective 30 September 2016.
+
+Structure and amount of remuneration paid to the Management Board
+
+The remuneration paid to the Management Board of Carl Zeiss Meditec AG consists of a fixed and a variable
+portion. The variable portion is split into two components: the first component is contingent upon the
+achievement of certain targets for the respective current fiscal year and the second bears a long-term incen-
+tive effect
+
+The fixed portion of the remuneration paid to the Management Board is not contingent upon the achieve-
+ment of certain targets. It is paid monthly.
+
+The variable portion of the remuneration, which relates to targets set for the respective fiscal year, is
+contingent upon the achievement of certain quantitative and qualitative targets. The quantitative objectives
+mainly relate to Economic Value Added® ("EVA®") and free cash flow. Certain strategic targets agreed
+individually with the members of the Management Board are also taken into consideration. This portion of
+the remuneration is paid after the end of the respective fiscal year. The amount is contingent upon the
+degree of target fulfillment.
+
+In addition to the two components of Management Board remuneration described above, there is also a
+so-called Long Term Incentive Program (LTI), which was redesigned and published in fiscal year 2011. This
+program offers a remuneration component with a long-term incentive, which allows the members of the
+Management Board to achieve an additional annual income after a three-year period. This amounts to 50%
+of the individual short-term variable remuneration for the fiscal year that precedes the beginning of the term
+of an LTI tranche, plus interest. This is based on the ZEISS Group's profit-participation certificate model.
+
+A precondition for payment of this remuneration is that the members of the Management Board have not
+handed in their notice at the end of the applicable three-year period per tranche, and the equity ratio of the
+ZEISS Group is higher than 20% at this point. The first payment was made in December 2014. The next
+payment is expected upon fulfillment of the payment requirements for December 2016.
+
+55
+
+
+--- Page 29 ---
+
+56
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+As part of the redefinition of remuneration for Dr. Monz on 1 January 2014, a different regulation shall apply
+to Dr. Monz from this date, for the long-term variable component of his remuneration. Pursuant to this
+regulation, it shall be possible, after a three-year period, for Dr. Monz to attain an additional annual income
+amounting to no more than a basic salary, depending on the achievement of certain financial and personal
+objectives at the end of this three-year period
+
+Itemized breakdown of the remuneration paid to the members of the Management Board of Carl Zeiss Meditec AG in €k
+
+Management Board remuneration
+
+Fiscal year Fixed Remuneration Variable Total une Total
+
+remuneration in kind and remuneration’? remuneration remuneration
+
+other paid directly pursuant to
+
+remuneration" Section 314 (1)
+
+No. 6a) HGB
+
+Dr. Ludwin Monz 2015/16 300.0 16.2 416.2 732.4 155.6 888.0
+2014/15 300.0 98 252.0 561.8 131.9 693.7
+
+Dr. Christian Miller 2015/16 252.0 18.4 198.0 468.4 126.1 594.5
+2014/15 240.0 18.4 128.3 386.7 93.5 480.2
+
+Thomas Simmerer 2015/16 280.8 44.0 269.5 594.3 123.8 718.1
+2014/15 231.4 174 1313 394.4 96.9 491.3
+
+Directors & Officers (D&O) liability insurance has been taken out for the members of the Management Board
+of Carl Zeiss Meditec AG, which provides for an excess that is also specified in the Management Board con-
+tracts. This complies with the excess that has been prescribed by the German Stock Corporation Act (AktG)
+since 5 August 2009 of at least 10% of the damages up to at least one-and-a-half times the fixed annual
+remuneration.
+
+Pension scheme for members of the Management Board
+
+The appropriation to the pension provisions or pension funds should be stated annually with respect to the
+retirement benefit commitments for the members of the Management Board. The expenses relating to
+pension commitments attributable to the individual members of the Management Board — or, in the case of
+Dr. Monz, the proportionate oncharged service cost — are presented in the following overview.
+
+Itemized breakdown of the pension commitments to the members of the Management Board of Carl
+Zeiss Meditec AG in €k
+
+Fiscal year Service Present value of pension
+cost commitment, total
+Dr. Ludwin Monz'? 2015/16 155.1
+2014/15 145.9
+Dr. Christian Miller 2015/16 32.2 694.9
+2014/15 28.9 493.3
+Thomas Simmerer 2015/16 30.8 356.1
+2014/15 26.4 257.4
+
+" payments in kind include other benefits such as non-cash benefits like the provision of a company car and the reimbursement of employer
+contributions to the statutory pension and unemployment insurance schemes, as well as contributions to group accident insurance.
+
+” Variable remunerations include both the formation of a provision for the bonus for the current fiscal year and payments for the bonus for
+the prior year, insofar as this differs from the prior year's figure
+
+°3 including oncharged service cost of the pension commitment Dr. Monz
+
+
+--- Page 30 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+In connection with the additional appointment of Dr. Monz as a member of the Group Management Board
+of Carl Zeiss AG, effective 1 January 2014, Carl Zeiss AG became responsible for the pension commitment
+
+to Dr. Monz, both for the past and for the future. The pension provision set up to date at Carl Zeiss Meditec
+AG has accordingly been transferred to Carl Zeiss AG. The proportionate service cost arising from the annual
+appropriation to the pension provision for Dr. Monz's function as President and CEO of Carl Zeiss Meditec AG
+shall be passed on to Carl Zeiss Meditec AG, effective from 1 January 2014.
+
+Projected unit credits for pensions for other former members of the Management Board of Carl Zeiss Meditec
+
+AG amounted to €990.7k (prior year: €765.4k) .
+
+Value of benefits granted for fiscal year 2015/16 and allocation amount
+
+The value of the benefits granted for the fiscal year under review, including single-year and multi-year variable
+components of remuneration, shall continue to be presented and compared with the actual allocation amount.
+
+The minimum compensation for the reporting year, as well as the maximum attainable remuneration shall
+
+also be stated.
+
+In the benefits granted for fiscal year 2015/16, tranche 2 presents the proportionate interest expense, which
+
+was paid with the prior-year values (base value and return) in fiscal year 2015/16.
+
+Value of benefits granted and tendered for the fiscal year Dr. Ludwin Monz
+
+Dr. Ludwin Monz
+President and CEO
+Member of the Management Board since 8 Oct 2007
+
+Minimum
+achievable value
+
+Maximum
+achievable value
+
+2015/16 2014/15 2015/16 2015/16
+
+Value of benefits granted &k €k €&k &k
+1. Fixed remuneration 300.0 300.0 300.0 300.0
+2. Fringe benefits 16.2 98 16.2 16.2
+3. Total 316.2 309.8 316.2 316.2
+4, Single-year variable compensation (VCS) 270.0 270.0 - 486.0
+5. Multi-year variable compensation (LTI) 418.6 368.3 - 832.1
+LI tranche 2 - 10/2012 - 09/2015 11.4 144.2 - 155.6
+LI tranche 3 - 10/2013 - 09/2016 145.3 133.5 - 168.9
+LI tranche 4 - 10/2014 - 09/2017 126.9 90.6 - 237.6
+LI tranche 5 - 10/2015 - 09/2018 135.0 - 270.0
+6. Total 1,004.8 948.1 316.2 1,634.3
+7. Pension cost 155.1 145.9 155.1 155.1
+8. Total remuneration 1,159.9 1,094.0 471.3 1,789.4
+
+57
+
+
+--- Page 31 ---
+
+58
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Allocation amount in/for the fiscal year Dr. Ludwin Monz
+
+Dr. Ludwin Monz
+President and CEO
+Member of the Management Board since 8 Oct 2007
+
+2015/16 2014/15
+Allocation amount for the fiscal year €k €k
+1. Fixed remuneration 300.0 300.0
+2. Fringe benefits 16.2 98
+3. Total 316.2 309.8
+4. Single-year variable compensation (VCS) 416.2 236.2
+5. Multi-year variable compensation (LTI) 155.6 132.0
+Ul tranche 1 - 10/2011 - 09/2014 132.0
+Ll tranche 2 - 10/2012 - 09/2015 155.6 -
+6. Other -
+7. Total 888.0 678.0
+8. Pension cost 155.1 145.9
+9. Total remuneration 1,043.1 823.9
+Value of benefits granted and tendered for the fiscal year Dr. Christian Miiller
+Dr. Christian Miiller
+Chief Financial Officer Minimum Maximum
+Member of the Management Board since 15 Dec 2009 achievable value achievable value
+2015/16 2014/15 2015/16 2015/16
+Value of benefits granted & & € €
+1. Fixed remuneration 252.0 240.0 252.0 252.0
+2. Fringe benefits 18.4 18.4 18.4 18.4
+3. Total 270.4 258.4 270.4 270.4
+4. Single-year variable compensation (VCS) 168.0 160.0 235.2
+5. Multi-year variable compensation (LTI) 272.9 278.4 483.7
+Ll tranche 2 - 10/2012 - 09/2015 93 116.8 126.1
+UI tranche 3 - 10/2013 - 09/2016 111.8 102.7 130.0
+Ul tranche 4 - 10/2014 - 09/2017 64.8 58.9 88.4
+Ul tranche 5 - 10/2015 - 09/2018 87.0 139.2
+6. Total 711.3 696.8 270.4 989.3
+7. Pension cost 32.2 28.9 32.2 32.2
+8. Total remuneration 743.5 725.8 302.6 1,021.5
+
+
+--- Page 32 ---
+
+Allocation amount in/for the fiscal year Dr. Christian Miiller
+
+Dr. Christian Miller
+Chief Financial Officer
+Member of the Management Board since 15 Dec 2009
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+2015/16 2014/15
+Allocation amount for the fiscal year &k &
+1. Fixed remuneration 252.0 240.0
+2. Fringe benefits 18.4 18.4
+3. Total 270.4 258.4
+4. Single-year variable compensation (VCS) 174.0 1178
+5, Multi-year variable compensation (LT!) 126.1 93.5
+UTI tranche 1 - 10/2011 - 09/2014 : 93.5
+LTI tranche 2 - 10/2012 - 09/2015 126.1 :
+6. Other : :
+7. Total 570.5 469.7
+8. Pension cost 32.2 28.9
+9. Total remuneration 602.7 498.7
+Value of benefits granted and tendered for the fiscal year Thomas Simmerer
+Thomas Simmerer
+Chief Sales Officer
+Member of the Management Board from 1 Apr 2011 to 30 Minimum Maximum
+
+Sep 2016 achievable value _ achievable value
+2015/16 2014/15 2015/16 2015/16
+
+Value of benefits granted & €k &k &
+1. Fixed remuneration 280.8 246.0 280.8 280.8
+2. Fringe benefits 44.0 174 17.0 44.0
+3. Total 324.8 263.1 297.8 324.8
+4. Single-year variable compensation (VCS) 170.6 164.0 : 238.8
+5, Multi-year variable compensation (LT!) 91 286.8 : 123.8
+LTI tranche 2 - 10/2012 - 09/2015 91 14.7 : 123.8
+LTI tranche 3 - 10/2013 - 09/2016 110.9 : :
+Tl tranche 4 - 10/2014 - 09/2017 61.2 : :
+LTl tranche 5 - 10/2015 - 09/2018 : :
+6. Total 504.5 714.0 297.8 687.4
+7. Pension cost 308 26.4 30.8 30.8
+8. Total remuneration 535.3 740.3 328.6 718.2
+
+59
+
+
+--- Page 33 ---
+
+60
+
+Allocation amount for the fiscal year Thomas Simmerer
+
+Thomas Simmerer
+Chief Sales Officer
+
+Member of the Management Board from 1 Apr 2011 to 30 Sep 2016
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+2015/16 2014/15
+Allocation amount for the fiscal year €k €k
+1. Fixed remuneration 280.8 246.0
+2. Fringe benefits 44.0 174
+3. Total 324.8 263.1
+4, Single-year variable compensation (VCS) 474 122.4
+5. Multi-year variable compensation (LT!) 123.8 96.6
+UTI tranche 1 - 10/2011 - 09/2014 96.6
+UTI tranche 2 - 10/2012 - 09/2015 123.8 :
+6. Other :
+7. Total 865.7 482.5
+8. Pension cost 308 26.4
+9. Total remuneration 896.5 508.9
+
+Departure of members of the Management Board
+
+In the event of premature termination of the employment relationship, the contracts for members of the
+Management Board do not contain any explicit promise of a severance payment. A severance payment may,
+however, ensue from a severance agreement concluded on an individual basis. The severance agreement
+concluded in connection with the early departure of Mr. Simmerer on 30 September 2016 does not provide
+
+for any additional severance payment.
+
+Remuneration of the Supervisory Board
+
+The remuneration of the Supervisory Board is composed of a fixed basic remuneration and remuneration for
+work on the committees. The basic remuneration for each member of the Supervisory Board amounts to
+€30k. The Chairman of the Supervisory Board shall receive double this amount; the Deputy Chairman and the
+Chairman of the Audit Committee shall receive one-and-a-half times this amount. With the exception of the
+members of the Nominating Committee and the Chairman and Deputy Chairman of the General Committee,
+
+members of committees receive an additional, fixed remuneration of €5,000.
+
+
+--- Page 34 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+The following overview provides an itemized breakdown of the total remuneration paid to each Supervisory
+
+Board member:
+
+Itemized breakdown of remuneration paid to the Supervisory Board of Carl Zeiss Meditec AG pursuant to
+Art. 19 of the Articles of Association of Carl Zeiss Meditec AG in €k
+
+Fiscal year Basic Committees Total
+
+remuneration remuneration
+
+Prof. Dr. Michael Kaschke (Chairman) 2015/16 60.0 26 62.6
+2014/15 60.0 5.0 65.0
+
+Dr. Carla Kriwet 2015/16 373 37.3
+(Deputy Chairwoman) 2014/15 26.0 26.0
+Dr. Markus Guthoff 2015/16 52.7 24 55.1
+2014/15 60.0 60.0
+
+Thomas Spitzenpfeil’* 2015/16 30.0 5.0 35.0
+2014/15 30.0 5.0 35.0
+
+Comelia Grandy 2015/16 30.0 30.0
+2014/15 30.0 30.0
+
+J6rg Heinrich 2015/16 30.0 5.0 35.0
+2014/15 30.0 5.0 35.0
+
+The Company did not pay members of the Supervisory Board any additional remunerations or benefits for
+personally rendered services (in particular consultancy and agency services) in fiscal year 2015/16.
+
+Directors & Officers (D&O) liability insurance has been taken out for the members of the Supervisory Board
+of Carl Zeiss Meditec AG, which provides for an excess that is also specified in the Company's Articles of
+Association. This corresponds to at least 10% of the damage up to at least one-and-a-half times the fixed
+
+annual remuneration
+
+OPPORTUNITY AND RISK REPORT
+
+Groups with global operations face a large number of entrepreneurial risks and opportunities that can have a
+sustained impact on business success. The assessment of opportunities and risks and conscientious handling
+of entrepreneurial uncertainty are an important part of corporate governance at the Carl Zeiss Meditec Group.
+
+Risk management
+
+The central risk management system at Carl Zeiss Meditec stipulates uniform rules and processes to detect,
+assess and manage risks at an early stage. In the subsidiaries and on Group level, risk management coordina-
+tors are responsible for applying the policies and procedures. The management of the subsidiaries detects and
+manages operating and strategic risks. Overall responsibility lies with the Management Board, which regularly
+assesses risks and their management at Group level together with the Group Risk Manager. The Management
+Board and Supervisory Board review the appropriateness and monitoring of the risk management system.
+
+Risk management is an integral part of corporate governance within the Carl Zeiss Meditec Group, and is
+based on the following two key components: a risk reporting system and an internal control system.
+
+< Mr. Thomas Spitzenpfeil waived his entitlement to remuneration by notices of waivers for fiscal year 2015/16 as in the prior year.
+
+61
+
+
+--- Page 35 ---
+
+62
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Risk reporting system
+
+This is a clearly structured, traceable feedback loop which encompasses all of the Company's activities, is
+integrated in its organizational structure and its control and reporting processes, and comprises a systematic
+and ongoing process for the identification, assessment, management/control, as well as the documentation
+and communication of any risks. This enables any relevant information to be immediately passed on to the
+responsible decision makers. The main features of this system are as follows:
+
+» The risk management system exclusively records risks. It integrates all fully consolidated subsidiaries.
+
+» The business risks are assessed and categorized according to their potential implications over the period
+of their existence, and according to their probability of occurrence and damage potential. The period of
+assessment is a maximum of five years.
+
+» Regular risk reports are provided to the Management Board, the management of the subsidiaries and other
+decision-makers within the Company on the basis of specified thresholds. Significant risks arising at very
+short notice are reported to this responsible group immediately.
+
+» On this basis, appropriate steps are taken and evaluated to avoid identified risks or reduce the probability
+of their occurrence, and to minimize the potential financial losses. The measures to reduce risks, the early
+warning indicators and the residual risks derived from these are regularly updated and documented.
+
+Internal control system
+
+The internal control system of the Carl Zeiss Meditec Group is based on the COSO Enterprise Risk Manage-
+ment Model (COSO ERM model). The Group's integrated enterprise risk management system covers strategic
+and operational risks, i.e., it does not merely monitor financial risks. For central processes, there are key
+
+risks and defined control mechanisms, which are regularly evaluated with regard to their effectiveness. The
+Group’s Management Board ensures that an adequate and effective internal control system is in place and
+that is it continuously enhanced. The Supervisory Board's Audit Committee monitors the efficiency of internal
+auditing, risk management and the financial reporting process.
+
+The accounting-related part of the internal control system is a system structured within the sphere of re-
+sponsibility of and under the supervision of the CFO, which ensures that the preparation of the consolidated
+annual financial statements is in line with the International Financial Reporting Standards (IFRSs) and that the
+single-entity financial statements of Carl Zeiss Meditec AG are in line with German HGB, and that external
+financial reporting is reliable.
+
+Significant risks
+The Carl Zeiss Meditec Group analyzes and assesses risks systematically. Special emphasis is placed on poten-
+tial economic effects and on probability of occurrence. In this way, the risks are quantified and classified. Due
+
+to the broad portfolio and the Group's global presence, the strategic and operational risks are widely spread.
+
+Quantitative data is based on a net perspective after application of measures, and relates to the risk assess-
+ment period
+
+
+--- Page 36 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Innovation risks
+
+The business success and reputation of the Group are heavily dependent on the rapid development of
+innovative products and solutions. New trends and current findings from science and research can give rise
+to technology shifts, new customer requirements, and also make new business models necessary. Should the
+Group lose touch with technological developments on the market, react too late to trends or technological
+advancements, this could weaken its competitive position. There is also a risk of the Group’s products being
+completely superseded by alternative technologies, procedures or treatment methods, thus reducing demand
+for certain products, which could result in losses in sales and earnings. The potential impact on earnings of
+these risks equates to an amount in the mid-single-digit to the low double-digit million euro range.
+
+In order to exploit opportunities in this area early and keep the probability of occurrence and the economic
+impact of this risk low in all segments, the Group invests heavily in research and development and upstream
+areas of products with a technological edge and unique selling points.
+
+Personnel risks
+
+Demographic change and the shortage of skilled staff for technical jobs as well as the differing training and
+qualifications standards around the globe are creating new challenges when it comes to filling job vacancies.
+Unfilled positions could limit the technological advancement and sale of the products and services it offers
+in all segments. The Group is countering this with a global recruitment strategy and active employee devel-
+opment and successor planning, thus keeping the probability of occurrence low. In order to retain skilled
+employees in the long term, the Group offers various employee benefits depending on the location — these
+include, for example, offers for health promotion or child care. The management does not expect these risks
+to have any material effects on the Group's net assets, financial position or results of operations.
+
+Risks in procurement and production
+
+ZEISS ensures conformity with national and international standards, guidelines and statutory provisions by
+means of an integrated management system that addresses the issues of quality, the environment, and occu-
+pational health and safety. To a very large extent the Carl Zeiss Meditec Group uses components from exter-
+nal suppliers to manufacture its products in all business segments. The increase in the prices of commodities,
+energy and materials, the growing complexity of purchased parts and the limited number of suppliers (single
+source) for some technologies could have negative implications for the production, sales and the quality of
+the Company’s products. The Group continues to work on stabilizing supply chains and reducing the depen-
+dence on individual suppliers in order, among other things, to keep the associated economic impact low. The
+Company systematically leverages opportunities that arise from bundling procurement activities. Furthermore,
+the Carl Zeiss Meditec Group selects its suppliers carefully. By implementing consistent supply chain measures,
+such as qualifying its suppliers, identifying secondary suppliers and preparing a strategic inventory plan, the
+Carl Zeiss Meditec Group protects itself as best it can against supplier dependencies and changes on the
+commodities market.
+
+The Carl Zeiss Meditec Group and the ZEISS Group have close contractual relationships in some areas. This
+relates in particular to the procurement of IT services, the licensed use of the ZEISS brand and agreements
+with distribution companies of the ZEISS Group. This distribution network provides major opportunities,
+which are rooted particularly in the close-meshed coverage worldwide, a high level of professional distribu-
+tion expertise, and a more efficient market development approach.
+
+The potential effect of supplier risks on earnings is in the mid-single-digit to low double-digit million euro
+range
+
+63
+
+
+--- Page 37 ---
+
+64
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Risks of information technology
+
+The Carl Zeiss Meditec Group constantly reviews and utilizes the opportunities of digitization. This gives
+
+rise to many new opportunities to provide customers with additional services. At the same time, the Group
+constantly updates its existing IT systems, and its IT protection and IT security systems. Functioning and
+adequately documented IT systems are also a prerequisite for obtaining product approvals in certain coun-
+tries. Risks that, in the event of damage, could result in an interruption of business processes due to IT system
+failures or the loss or falsification of data, are therefore identified and evaluated across the entire life cycle of
+the applications and IT systems. Some of the Group's IT systems are operated by external partners. The Group
+has defined high standards for these service providers with regard to the hardware and software used, as well
+as data security. The Group continuously monitors the implementation of and compliance with these stan-
+dards. The management does not expect this to have any material effects on the Group's net assets, financial
+position or results of operations.
+
+Risks from acquisitions
+
+Acquisitions or investments offer the Carl Zeiss Meditec Group the opportunity to expand its portfolio of
+expertise and technology, or to increase its access to regional markets. Acquisitions bear the entrepreneurial
+risk of the acquired company not performing as well economically as expected in the market, or of the sales
+and earnings targets being pursued with its acquisition not being reached, or of intended synergy effects with
+the Carl Zeiss Meditec Group not being achievable. The Group systematically reviews the associated risks and
+opportunities. A key element prior to concluding a transaction is a standard process for mergers & acquisi-
+tions, including a due diligence review, to assess the expected business development. The economic impact
+and probability of occurrence are therefore low.
+
+Goodwill totaling €164.6m from acquisitions is shown in the consolidated statement of financial position
+This goodwill is tested annually for impairment in accordance with IAS 36. A total of €162.5m of this goodwill
+is attributable to the Ophthalmic Devices SBU, and €2.1m to the Microsurgery SBU. The impairment tests
+carried out during the current fiscal year did not give any indication of impairment of the goodwill-bearing
+cash-generating units (CGUs). Based on the development of business, the Group also anticipates positive
+results from subsequent tests. Due to changes in general economic conditions or changes in business models,
+impairment losses cannot be ruled out on goodwill recognized for individual or all companies acquired in
+
+the past.
+
+Legal risks, patents and intellectual property
+
+The competitiveness of the Company depends on the protection of its technological innovations against ex-
+ploitation of these innovations by third parties. Violations of intellectual property and patent protection may
+compromise the Company's technological lead and thus its competitive advantage in all business segments.
+The expiry of property rights, particularly patents, as well as the geographical limitation of property rights
+could result in new or existing competitors exploiting the inventions of the Carl Zeiss Meditec Group to enter
+the market or strengthen their market position. Furthermore, in spite of the measures taken, third parties may
+still attempt to copy or partly copy products of the Group, since the unauthorized use of intellectual property
+is generally difficult to monitor and copyright laws only provide for limited protection.
+
+The Group safeguards its technologies and products through a comprehensive industrial property rights
+strategy. If ZEISS patent and brand rights are infringed by third parties, the Group takes legal steps in order
+to counter the associated high economic risk. This being said, the probability of such cases occurring is low.
+When developing new products and technologies, the Group systematically checks whether the rights of
+
+a third party could be affected, develops non-protected solutions, if necessary, and acquires the requisite
+licenses and rights, or seeks other solutions by legal contract. Overall, management in the area of patents
+and intellectual property does not expect such risks to have any material effects on the Group's net assets,
+financial position or results of operations.
+
+
+--- Page 38 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Legal risks may arise due, among other things, to changes in general legal conditions in the relevant markets
+and to legal disputes with competitors, business associates or customers.
+
+There is no pending litigation that poses any risk to the continued existence of the Group at present. Should
+it be necessary, adequate provisions will be set up as a precaution. Further details on litigation and arbitration
+proceedings involving the Carl Zeiss Meditec Group can be found in note "(29) Contingent liabilities and other
+financial commitments" in the accompanying notes to the consolidated financial statements.
+
+Asa listed medical technology company with global activities, the Carl Zeiss Meditec Group is subject, in the
+countries in which the Group operates, to a large number of laws, regulations and guidelines. In order to
+ensure compliance with these regulations, these are regularly analyzed for any changes and internal processes
+and guidelines are adjusted, if necessary. The Group has set out the basic principles of correct conduct in
+business activities in a Code of Conduct, which applies to all employees. In order to avoid breaches of com-
+pliance and minimize risks to the Group's reputation, the Group has established a corporate-wide compliance
+organization. Regular training measures are also in place to familiarize the employees with internal guidelines
+and make them aware of the negative effects breaches could have. The management does not expect this to
+have any material effects on the Group's net assets, financial position or results of operations.
+
+Financial risks
+
+As a result of the European debt crisis there is a latent credit quality risk concerning business banks at which
+the Carl Zeiss Meditec Group holds deposits via the ZEISS Cash Pool. Nevertheless, the Group has taken
+various measures to mitigate risks. For example, a monitoring procedure has been introduced to monitor the
+current situation in the capital markets.
+
+The Company has categorized its financial risks as moderate. The basis for this categorization is the sound
+financing structure with an equity ratio of 68.2%, the large reserve of cash and cash equivalents, and a strong
+cash flow from operating activities. Cash and cash equivalents are kept in reserve at the Carl Zeiss Meditec
+Group based on a rolling monthly cash forecast within a fixed planning period, and are managed as part of
+
+a Groupwide ZEISS cash pool. The cash and cash equivalents in the cash pool at ZEISS are distributed among
+several corporate banks in order to spread risk. Depending on the assessment of the credit risk for individual
+banks, the cash and cash equivalents may be redistributed among these banks.
+
+The financial risks also include liquidity risks, price fluctuation risks for financial instruments and risks associated
+with fluctuations in cash flows. These risks and their management are adequately described in note "(35)
+Financial risk management".
+
+Economic environment
+
+As a company with global operations, the Carl Zeiss Meditec Group is particularly exposed to developments
+that pose a risk for the global economy. Therefore, the general global political situation, major natural
+disasters, macroeconomic development and market trends in individual regions of the world may have diverse
+effects on the Carl Zeiss Meditec Group's chances of success in all business segments.
+
+In particular the underlying conditions in the global economy have become more volatile over the past few
+years, which has heightened economic risks overall. Economic growth may be curbed significantly by the euro
+crisis, the debt situation in the USA and a slowdown in growth in China. Such a trend in the overall economic
+situation may have an adverse effect on the economic situation of our customers and their demand for the
+Carl Zeiss Meditec Group's products which could result in negative impacts on sales and earnings. Thanks to
+the earlywarning system established within the Carl Zeiss Meditec Group, these risks are recognized in good
+time and can be countered accordingly. In addition, the Group's international presence means it is less affect-
+ed by regional crises, and the highly differentiated product and customer structure of the Company limits its
+sales risks. According to current assessments, the Company is not exposed to any significant risks.
+
+65
+
+
+--- Page 39 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Market and competition
+
+The Carl Zeiss Meditec Group is exposed to intense competitive pressure in both segments. Beside the market
+entry of new competitors, there is also a risk, in the event of significant exchange rate fluctuations, that
+competitors from the beneficiary countries may be able to offer considerably lower prices in the market, and
+could therefore improve their competitive position. Some competitors are larger than the Company in terms
+of their total revenue, and they have greater financial resources at their disposal to deal with competitive
+pressure. In addition, existing competitors may be bought up by large, financially strong companies, or form
+alliances with each other, which may lead to even greater competitive pressure, lower selling prices, margin
+pressure and/or the loss of market shares. The Company prepares itself for such risks by continuously observ-
+ing and analyzing the market, in order to be able to react with the necessary foresight.
+
+The costs of certain medical treatments carried out using products of the Carl Zeiss Meditec Group are
+reimbursed by health insurance funds, insurance companies or government health schemes. Changes in
+
+the health care and reimbursement policies in Germany or abroad may lead to the refusal or reduction of
+reimbursements, which could reduce the demand for the Carl Zeiss Meditec Group's products. In the case of
+new products for which reimbursement cannot yet be predicted with certainty, demand may be considerably
+dampened by the financial situation of consumers.
+
+In addition, on the customer side, and particularly in the private healthcare sector, there is a noticeable
+increase in the formation of regional and national purchasing alliances, as well as clinic chains. Such a trend
+may lead to falling selling prices in this customer segment.
+
+Collectively, the above issues related to market and competition may impact the Group's earnings by an
+amount in the low double-digit million euro range. On the other hand, the demographic trend in industri-
+alized countries and economic development in the RDEs, as well as the increasing requirements placed on
+medical devices for diagnosing and treating age-related eye diseases, present growth opportunities for the
+Company.
+
+Product approval and political environment
+
+As the Group aims to sell its products worldwide, such regulations have to be taken into consideration when
+manufacturing and launching products in the market, especially where explicit regulatory approvals and
+certifications are required.
+
+Although the relevant legal requirements are incorporated into all stages of development, production and dis-
+tribution, there is no guarantee that products requiring approval will be granted regulatory approval at all or
+in time for their planned launch in the market, or that the Group's numerous registrations will still exist or be
+renewed in the future. This may lead to sales losses and, in the case of delayed product launches, to competi-
+tive disadvantages. Furthermore, registration requirements could become more stringent in future.
+
+In order to be able to identify such developments in good time and react appropriately, the Group keeps a
+very close eye on developments in this area and monitors approval procedures extremely closely as part of its
+quality management system. Any residual risks that remain lie within the mid to high-single-digit million euro
+range.
+
+
+--- Page 40 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Certified quality management
+
+A vital part of early risk detection is the Group's certified quality management system. Clearly structured and
+documented quality management processes ensure not only transparency, but are now a prerequisite in
+most markets for obtaining regulatory approval for medical devices. The quality assurance system employed
+by the Carl Zeiss Meditec Group was certified by DQS GmbH Deutsche Gesellschaft zur Zertifizierung von
+Managementsystemen and complies with the U.S. standard for Good Manufacturing Practice (GMP), 21 C.F.R
+part 820, Quality System Regulation
+
+Product liability risk
+
+Some of the medical devices and system solutions and implants manufactured by the Company hold the
+fundamental, inherent risk that, in spite of all reasonable measures being taken by the certified quality man-
+agement system, and compliance with all legal requirements, malfunctions may result in injury to or adverse
+effects for the patient. This may be due, among other things, to components and raw materials purchased
+from external suppliers not meeting the specified quality requirements. Although no significant product liabil-
+ity claims have been made against the Company to date, no assurance can be given that Carl Zeiss Meditec
+will not be faced with such claims in the future. This may also lead to considerable legal costs, irrespective of
+whether a claim for damages ultimately materializes. Risk liability claims can be particularly high, especially in
+the USA, not to mention the costly recall campaigns that may be required.
+
+The Company covers itself against potential product liability claims by taking out product liability insurance.
+The possibility cannot be completely excluded that the Carl Zeiss Meditec Group's existing insurance cover-
+age may not be sufficient to cover potential claims. The potential impact these risks could have on earnings
+equates to an amount in the low single-digit million euro range.
+
+Infrastructure risks
+
+Uncontrollable environmental influences, such as natural disasters or terrorist attacks, may result in the loss of
+employees or an interruption to business operations at the affected locations, and may prevent the Company
+from providing regular production, distribution and other services in these regions and generating the ex-
+pected earnings. All business segments could be affected by this. In addition, it could have material adverse
+effects on the Company's customers domiciled in the affected region and on their willingness to invest, as
+well as the local suppliers there and their willingness to supply.
+
+The Group's headquarters, with major research and development departments and other key Group func-
+tions, are located in Germany, a region with a low risk of natural disasters. A second major production site is
+located in the Greater San Francisco area in the USA, a region with an increased risk of earthquakes. In order
+to minimize potential damage, the Carl Zeiss Meditec Group has set up a crisis management system, and has
+also developed local and central plans for maintaining the functionality of critical business processes (business
+continuity plans). For this reason the Company does not expect any material adverse effects on its net assets,
+financial position or results of operations.
+
+67
+
+
+--- Page 41 ---
+
+68
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Risks relating to the Group accounting process
+
+The main risks in the accounting process are that the financial statements may not provide a true and fair
+view of the net assets, financial position and results of operations as a result of unintentional errors or willful
+actions, or that there is a delay in publishing these. The accounting would not present a true and fair view
+of the Company in this case. Deviations are classified as significant if they could individually or collectively
+influence the economic decisions taken by the recipients of the financial statements based on the financial
+statements.
+
+In the area of accounting and Group accounting, processes ensure the completeness and accuracy of the
+financial statements, by way of regularly reviewed, integrated, preventive and detective controls. All of the
+Group's internal accounting and valuation guidelines are collated in an accounting manual, which is available
+via the Group's intranet to all of the relevant organizational units and all of the Company's employees, along
+with the Group-wide financial reporting calendar. In addition, supplementary instructions for methods, stan-
+dardized reporting formats, IT systems and IT-supported reporting and consolidation processes support the
+process for uniform and proper consolidated accounting.
+
+The operative, timely implementation of the systemic requirements is effected by the affected areas of
+
+Carl Zeiss Meditec AG and its subsidiaries. These are supported and monitored by Carl Zeiss Meditec's
+Finance Group department. The Finance Group department is responsible for consolidated reporting, includ-
+ing Group-wide financial and management information, forecasts, budgets and risk reporting. Acts of law,
+accounting standards and other pronouncements are continuously analyzed with regard to their relevance for
+and impact on the consolidated and annual financial statements.
+
+Additional disclosures pursuant to Section 289 (2) No. 2 HGB, Section 315 (2) No. 2 HGB
+
+Price fluctuation risks can generally not be ruled out. However, the Carl Zeiss Meditec Group counters these
+risks by focusing on product innovations and optimizing its production costs through cost-cutting and
+efficiency-enhancing measures.
+
+Potential risks of default on trade receivables — particularly given the euro and debt crisis and the generally
+greater risk of bad debt losses that comes with it — are minimized by means of an active credit control system.
+The Group also regularly sets up adequate provisions to cover such risks. On the whole, however, we consider
+this to be a limited risk. The ratio of value adjustments of trade receivables to consolidated revenue was
+
+0.8% in the year under review (prior year: 0.5%).
+
+The Carl Zeiss Meditec Group's financial situation can be considered stable. Cash and cash equivalents
+amounted to €8.7m as of the balance sheet date 30 September 2016. Added to this is credit of 354.5m
+recognized as accounts receivable from group treasury of Carl Zeiss AG. In addition, the Group generated
+cash flows from operating activities of €111.8m in the reporting period. From a current perspective, there-
+fore, there are no significant liquidity risks.
+
+All cash and cash equivalents, including the balances at the Group treasury of Carl Zeiss AG, are deposited
+at banks. Should it come to a loss of individual banks — due in particular to the euro and debt crisis — the
+existing balances there may be endangered. The Carl Zeiss Meditec Group counters this risk by continuously
+monitoring the solvency of the banks with which it has a business relationship, and by spreading its assets
+among several banks via the Group treasury of Carl Zeiss AG.
+
+
+--- Page 42 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+As a company with global operations, the Carl Zeiss Meditec Group is exposed to the effects of exchange rate
+fluctuations. In order to hedge against this currency risk, the Carl Zeiss Meditec Group concludes currency
+forward contracts based on planned transactions in foreign currency. These contracts generally span a period
+of up to one year. Based on current exchange rate fluctuations, currency effects may continue to curtail the
+financial result dependent on the extent of the fluctuations.
+
+Overall assessment of the Company's risk situation
+
+At the time of preparation of this report, there were no discernible risks that could jeopardize the continued
+existence of the Carl Zeiss Meditec Group. There are no significant differences in the overall assessment
+compared with the prior year. The Management Board sees a solid foundation for further development of the
+Group and uses a systematic strategy and planning process to provide the necessary resources to exploit any
+opportunities.
+
+DISCLOSURES PURSUANT TO SECTION 289 (4) AND SECTION 315 (4) HGB
+
+Carl Zeiss Meditec AG's subscribed capital amounts to €81,309,610 and is composed of 81,309,610 no-par
+value ordinary bearer shares (no-par value shares), each with a theoretical interest in the share capital of
+€1.00 per no-par value share. Each share entitles the bearer to one voting right and an equal share in Company
+profits.
+
+Other shares or shares with special rights that grant supervisory powers do not exist. Nor are there restric-
+tions on the part of Carl Zeiss Meditec AG concerning the voting rights or transfer of shares. Furthermore,
+the Management Board is not aware of any other agreements concluded, for example, between individual
+shareholders.
+
+Carl Zeiss Meditec AG is aware of the following direct and indirect holdings in the capital of Carl Zeiss
+Meditec AG that exceed ten percent of the voting rights. Carl Zeiss AG, Oberkochen, Germany, holds, both
+directly and indirectly, a total of 65.05% of the voting rights in Carl Zeiss Meditec AG.
+
+This corresponds to 52,893,270 no-par value shares. These include 7.47% of the voting rights or 6,074,256
+no-par value shares in Carl Zeiss Meditec AG, which Carl Zeiss AG holds indirectly via its wholly owned subsid-
+iary Carl Zeiss Inc., Thornwood, USA.
+
+Employees of Carl Zeiss Meditec AG or its affiliated companies pursuant to Section 15 et seqq. AktG, who
+participated in the Company via employee share plans concerning the share capital of Carl Zeiss Meditec AG
+in prior years, exercise their control rights directly like all other shareholders of the Company.
+
+Pursuant to Section 179 and Section 133 AktG, an amendment to the Articles of Association requires a
+resolution by the Annual General Meeting which, in turn, requires a simple majority of the votes cast and
+
+a majority comprising at least three quarters of the share capital represented at the time the resolution is
+passed. The Articles of Association may specify a different capital majority; in the case of an amendment to
+the purpose of the Company, however, only a larger capital majority may be specified. Art. 25 of Carl Zeiss
+Meditec AG's Articles of Association states that in cases for which the law requires a majority of the share
+capital represented at the time of resolution, a simple majority of the share capital represented is sufficient,
+provided that a greater majority is not mandatory by law. In accordance with Art. 28 of the Articles of Associ-
+ation of Carl Zeiss Meditec AG, the Supervisory Board is authorized to resolve amendments to the Articles of
+Association that only affect the version. This complies with Section 179 (1) Sentence 2 AktG.
+
+69
+
+
+--- Page 43 ---
+
+70
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+The legal provisions concerning the appointment and dismissal of members of the Management Board are set
+forth in Section 84 and Section 85 AktG. In compliance with this, Art. 6 (2) of the Articles of Association of
+Carl Zeiss Meditec AG stipulates that the Supervisory Board shall be responsible for appointing and dismissing
+the members of the Management Board. Pursuant to statutory provisions, a member of the Management
+Board may only be dismissed for compelling reasons.
+
+Pursuant to Art. 4 (5) of the Articles of Association of Carl Zeiss Meditec AG, the Company has an Autho-
+rized Capital. Accordingly, the Management Board is authorized, subject to the approval of the Supervisory
+Board, to increase the share capital, on one or several occasions in the period until 5 April 2021, by up to
+€40,654,805.00. New no-par value bearer shares may be issued against cash and/or contributions in kind for
+this. The Management Board is authorized, subject to the approval of the Supervisory Board, to exclude the
+statutory subscription right of shareholders in the following cases:
+
+» to balance out fractional amounts,
+
+» if the capital increase is effected against cash contributions and the new shares, for which the subscription
+rights are excluded, are equivalent to no more than 10% of the share capital, neither on the date the
+increase becomes effective, nor on the date this authorization is exercised, and the issuing price of the
+new shares is not significantly lower than the market price of shares of the same type and structure already
+publicly quoted. Sales of treasury shares on the basis of other authorizations pursuant to Section 186 (3)
+sentence 4 AktG must be taken into account in the restriction to 10% of the share capital
+
+» for capital increases against contributions in kind to grant shares for the purpose of acquiring companies,
+parts thereof or interests in a company.
+
+The Management Board is authorized, subject to the approval of the Supervisory Board, to specify the details
+of capital increases from Authorized Capital.
+
+Pursuant to the resolution of the Annual General Meeting of Carl Zeiss Meditec AG on 18 March 2015, the
+Management Board is authorized to purchase treasury shares. This authorization is valid until 17 March,
+2020. The shares may be purchased, with the consent of the Supervisory Board
+
+» to offer them for purchase to employees of the Company and the companies affiliated with the Company
+within the meaning of Section 15 et seqq. German Stock Corporation Act (AktG) — noting that the right of
+shareholders to subscribe to treasury shares is excluded — or
+
+» to use them within the scope of mergers with companies or to purchase companies, parts of companies or
+shares in companies — noting that the right of shareholders to subscribe to treasury shares is also excluded
+in this case — or
+
+» to recall them
+
+This authorization is limited to the acquisition of shares equivalent to share capital of €8, 130,000.00 or
+
+less than 10% of the total existing share capital. The shares shall be purchased at the stock exchange. The
+consideration paid by the Company per share (excluding incidental purchase costs) may not be more than
+10% above or below the closing rate of the shares in Xetra trading (or an equivalent successor system to the
+Xetra trading system) at the Frankfurt Stock Exchange on the previous day of trading. At no time may the
+purchased shares, together with other own shares held by the Company and the Group and ascribable to it
+pursuant to Section 71a et seqq. AktG, exceed 10% of the share capital.
+
+
+--- Page 44 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+The Company has not entered into any significant agreements contingent upon a change of control following
+a takeover bid.
+
+Nor has the Company concluded any compensation agreements with the members of the Management
+Board or employees for the event of a takeover offer.
+
+SUPPLEMENTARY REPORT
+
+No events of material significance for the Group's net assets, financial position and results of operations
+occurred after the end of fiscal year 2015/16.
+
+The development of business at the beginning of fiscal year 2016/17 validates the statements made in the
+following "Outlook"
+
+OUTLOOK
+Corporate strategy
+
+As market and technology leader in the field of ophthalmology and microsurgery, our aim is to achieve
+sustainable, profitable growth, by improving the diagnosis and treatment of diseases with our products and
+solutions. Our success factors are: Innovation, the development of integrated solutions and customer focus.
+Innovation, in particular, plays a key role.
+
+Customer focus
+
+Our customers are facing major challenges in managing rising case numbers, limited public funding and more
+demanding expectations of patients with respect to the treatment outcome. With our integrated products
+and solutions we can help to increase the efficiency of workflows and reduce costs, for example by providing
+clinical decision aids for the physician and options for easy outsourcing of routine tasks to medical auxiliary
+staff. Digitization offers us massive opportunities in this respect, for example in the field of data manage-
+ment solutions. For us, a key prerequisite for our long-term success is having a deep understanding of our
+customers’ problems and offering a range of services that is tailored to solving these problems. In fiscal year
+2015/16, the service share of Group revenue amounted to approximately 10%. We expect the share of
+consolidated revenue generated by our Service business to increase further in the medium term.
+
+Innovation
+
+Our goal is to make cutting-edge technology in medical application accessible for our customers. We are
+therefore striving to establish our products as the new gold standards in medical diagnostics and therapy. We
+ensure our technology leadership by continuing to invest heavily in research and development.
+
+Integrated solutions
+
+Given the multitude of diagnostic and therapeutic devices typically used in medical practices and clinics,
+customers the offered the opportunity to make their workflows more efficient, and to achieve better clinical
+outcomes, by logically networking their devices and systems. A comprehensive system integration including
+IT-assisted analysis functions is essential for this.
+
+71
+
+
+--- Page 45 ---
+
+72
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Future conditions for business development
+
+Macroeconomic environment
+At the current time, fiscal year 2016/17 is still expected to bring moderate economic growth.
+
+The global economy is growing, but with considerable regional variations. The stagnating growth rates in
+the industrialized world are being offset by growth in the rapidly developing economies, which, although
+still good, is now tailing off in places. According to forecasts, economic growth in the United States will be
+moderate, while the economies of Japan and Europe are expected to decline — also due to Brexit. In China a
+“new normality” is expected with flatter growth rates and a transformation process in industry. According to
+forecasts, the Indian economy shall experience above-average growth; Brazil is pulling out of its recession,
+with marginal growth
+
+Uncertainties regarding economic development in the emerging markets, low oil prices, the unpredictable
+effects of Brexit, the presidential elections in the U.S., the situation in the Middle East and Ukraine, as well as
+ongoing structural problems, are major political and economic issues, which may have an adverse effect on
+the investing activities of industry and the public sector.
+
+Future situation in the medical technology industry
+
+The Company's management anticipates further growth in the medical technology market, as the main
+growth drivers — such as the growing global population, the rising number of older people, and the increas-
+ing proportion of the global population with access to medical care — shall remain unchanged.
+
+Furthermore, the greater requirements being placed on the innovations in the medical technology sector play
+an important role from an efficiency and cost perspective. Consequently, the products and procedures of
+medical technology manufacturers shall no longer be measured based solely on their effectiveness and safety,
+but also on their cost-efficiency. Integrated system solutions for simplified workflows at the customer are an
+important distinguishing feature in our opinion.
+
+Last but not least, the development of the global economy influences the growth of the medical technology
+industry in as much as private customers or public budgets postpone their investment decisions until the
+future, or make them early.
+
+At the present time the medical technology industry is expected to grow in the coming years in the low to
+mid-single-digit percentage range.
+
+Future development in the strategic business units of the Carl Zeiss Meditec Group
+
+Due to the persistent, long-term growth trends in our markets — such as the growing global population, the
+rising proportion of elderly people and improved access to medical care — the Carl Zeiss Meditec Group is
+generally anticipating further market growth. From a current perspective, and excluding currency effects, this
+corresponds to growth in the low to mid-single-digit percentage range. The Carl Zeiss Meditec Group expects
+revenue growth that is at least on a par with market growth.
+
+
+--- Page 46 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Strategic business unit Ophthalmic Devices
+
+In the past year, revenue developed positively in the Ophthalmic Devices sector. The revenue increase was also
+partly due to positive currency effects. We anticipate further growth in 2016/17. Both the products already es-
+tablished on the market for diagnosing and treating ophthalmic diseases, as well as other innovations launched
+in the course of the past fiscal year shall contribute to this growth. When designing efficient solutions for our
+customers, system networking and integrated data management play a key role, for example our data manage-
+ment system, FORUM®. Another example is in the area of refractive lasers, where the ReLEx® SMILE procedure
+has established itself as the third generation of laser vision correction. Compared with previous procedures,
+ReLEX® SMILE stands out by being considerably less invasive and offering very good predictability of correction.
+To date, about 600,000 eyes worldwide have been successfully treated using this microinvasive method. With
+the AT LISA® tri and AT LISA® tri toric, the Company offers the leading MICS-compliant trifocal intraocular lens
+on the market of cataract surgery. We are also aiming to attract new customer groups and increase our revenue
+from existing customers by expanding our range of monofocal intraocular lenses.
+
+We are confident that we shall grow at least to the same extent as the underlying market in the new fiscal year.
+From a current perspective, and excluding currency effects, this corresponds to growth in the low to mid-single-
+digit percentage range. The EBIT margin is also expected to remain above the Group average.
+
+Strategic business unit Microsurgery
+
+In the fiscal year under review, the Microsurgery SBU recorded slight revenue growth, which was, however,
+largely due to positive currency effects. We therefore successfully defended our already exceptionally strong
+market position. Our surgical microscopes, the OPMI® Pentero® for neuro, spinal or plastic surgery, and the
+OPMI® VARIO, which is used in ENT surgery, for example, mean we are broadly diversified and are exploiting
+the associated market opportunities to an even greater degree by upgrading the products in terms of additional
+supporting applications for the user.
+
+We expect the Microsurgery SBU to continue to make significant contributions to earnings in future. We are
+confident that we shall grow at least to the same extent as the underlying market in the coming fiscal year.
+From a current perspective, and excluding currency effects, this corresponds to growth in the low-single-digit
+percentage range. The EBIT margin is also expected to remain significantly above the Group average
+
+Future selling markets
+
+As a global Group, our aim in the years ahead shall be to maintain as balanced a distribution of revenue as
+possible across our individual markets. The Carl Zeiss Meditec Group currently generates around one third of its
+revenue in all three of its strategically important business regions: EMEA, the Americas and APAC. We see par-
+ticularly promising business prospects for the long term in the APAC region, due to the rapid economic growth
+there. ZEISS Group's research centers in India and China, which the Carl Zeiss Meditec Group uses for product
+development, shall help to expand and secure this growth. We aim to leverage the potential in these countries
+to an even greater extent in future and generate further revenue growth.
+
+73
+
+
+--- Page 47 ---
+
+74
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Future research and development activities
+
+The Carl Zeiss Meditec Group invests considerable funds in research and development projects, with efficient
+and targeted development processes playing a key role. Upstream from this is the search for new technologies
+and market trends, in order to subsequently become established on the market with new solutions. The
+important thing is to consider the regional market conditions and the needs of our customers in the develop-
+ment process from the outset. We aim to invest around 10% to 11% of revenue in research and development
+in fiscal year 2016/17, which is about the same as in prior years.
+
+Future investments
+
+Investments are a basic requirement to be able to maintain our technology leadership in future. The invest-
+ment ratio at the Carl Zeiss Meditec Group has been largely constant in the past few years. The investments
+required to realize growth targets shall not lead to a material change in the current investment ratio in the
+coming fiscal year. We aim to invest around 1% to 2% of revenue in property, plant and equipment in fiscal
+year 2016/17, which is about the same as in prior years.
+
+Future dividend policy
+
+Carl Zeiss Meditec AG pursues a long-term and earnings-oriented dividend policy. The Company's manage-
+ment plans to propose to the Annual General Meeting the distribution of a dividend of €0.42 per share for
+the past fiscal year. The dividend ratio would therefore be at 34.7% (prior year: 49.6%). The management
+also intends to allow shareholders to continue to participate fairly in the Company's success in future. The
+special dividend, an instrument that has been used several times in the past, may also be used again.
+
+Future employee development
+
+Our employees are indispensable for the Company's success: we need them to be able to continue to work
+innovatively and profitably in future. It is equally important to us to keep investing in the further develop-
+ment of our existing employees in future, as well as to recruit well qualified specialists and managers for the
+Company. We therefore expect our workforce to grow in the coming periods in line with the growth of the
+Company's business.
+
+Future financial position
+
+Interest income and expenses depend on changes in interest rates on the financial markets. At present, the
+Company does not expect any marked improvements in investment conditions in the next two years. Interest
+income and interest expenses are thus expected to remain around the prior year's level. As of 30 September
+2016 current cash and cash equivalents of around €334.6m were available for financing. In view of this, as
+well as the ongoing expectation of positive business development and a positive cash flow from operating
+activities as a result, and the possibility to use other financial instruments and sources of financing, if required,
+we consider the Carl Zeiss Meditec Group's financing capacity to be adequate. In 2016/17 we aim to achieve
+operative cash flow in the high double-digit millions, based on active working capital management.
+
+
+--- Page 48 ---
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+Future opportunities
+
+The global medical technology market is characterized by fundamentally sustainable growth. This applies to
+both ophthalmology and microsurgery and assures us of good selling conditions for the Company. Additional
+opportunities are provided by our innovative and broad product range, which we shall continue to expand
+
+in the coming fiscal year. Our strong financial profile, which safeguards the Company's development against
+external influences, should also have a positive effect. The Company is in a position to protect itself against
+direct risks in the short term, without losing sight of its long-term objectives. Due to our ZEISS brand, our
+customers perceive us as a reliable and trustworthy partner, and we look back on a long, successful collabora-
+tion. We can therefore build upon an extremely positive brand image.
+
+Our development in future shall also include external growth opportunities in some areas. Using a systematic
+process, we shall look for strategically useful expansion opportunities. It is not possible at this point to gauge
+how feasible such opportunities might be.
+
+Overall assertion on future development
+
+At the time of publication of this Annual Report the management of the Carl Zeiss Meditec Group considers
+the outlook for the coming fiscal year to be positive. This assumption is based on the persistent long-term
+trends: An ever-growing global population and the constantly growing number of older people associated
+with an increasing life expectancy. This is particularly significant for ophthalmology, since the incidence of
+diseases in this field is strongly related to the age of the patients. Better and better access to medical care in
+the emerging economies also offers long-term potential for growth for medical technology products.
+
+Given the favorable conditions for market development in the medium and long term, and the Carl Zeiss
+Meditec Group's good strategic position, the Company's management currently assumes that revenue will
+continue to grow in the coming fiscal year, provided that general economic conditions remain stable. We
+anticipate revenue growth that is at least on a par with the market growth expected for the industry. From a
+current perspective, and excluding currency effects, this corresponds to growth in the low to mid-single-digit
+percentage range.
+
+A crucial advantage for even greater stability of our overall business is a higher proportion of revenue with
+case-number-dependent products and services, since there is generally less fluctuation in these areas than in
+the capital goods business, for example. In fiscal year 2015/16 we achieved a share of 32.4%. From a current
+perspective, we expect a further increase in fiscal year 2016/17 and for the medium term.
+
+In fiscal year 2015/16 the EBIT margin increased significantly from 12.6% in the prior year to 14.2%. In fiscal
+year 2016/17 we expect the EBIT margin to be within the target corridor also forecast for the medium term,
+of 13.0% to 15.0%.
+
+In terms of free cash flow for fiscal year 2016/17, we are continuing to aim for a figure that is at least in the
+high double-digit million range. We expect Economic Value Added (EVA) in the coming fiscal year to remain
+on a par with EVA in fiscal year 2015/16.
+
+Should there be any significant changes in the economic environment currently forecast over the course of
+the fiscal year, and should it thus become necessary to amend the statements made here on the development
+of business from today's perspective, we shall publish these amendments promptly and specify our expecta-
+tions in more detail.
+
+75
+
+
+--- Page 49 ---
+
+76
+
+BACK TO CONTENTS
+
+GROUP MANAGEMENT REPORT
+
+FINAL DECLARATION OF THE MANAGEMENT BOARD ON THE DEPENDENT COMPANY REPORT
+PURSUANT TO SECTION 312 (3) AKTG
+
+As a group company within Carl Zeiss AG, Carl Zeiss Meditec AG has prepared a dependent company report
+pursuant to Section 312 German Stock Corporation Act (AktG). In light of the circumstances known to the
+Management Board at the time the legal transactions were concluded, the companies of Carl Zeiss Meditec AG
+received an appropriate consideration for each of the transactions listed in this report concerning relations
+with affiliated companies. No other reportable transactions pursuant to Section 312 (1) Sentence 2 AktG were
+entered into by the Company.
+
+DECLARATION ON CORPORATE GOVERNANCE (PURSUANT TO SECTION 289A HGB)
+AND CORPORATE GOVERNANCE REPORT
+
+The declaration on corporate governance (pursuant to Section 289a HGB) includes the declaration of confor-
+mity pursuant to Section 161 AktG, relevant information on corporate governance practices applied which
+go beyond the statutory requirements, in addition to information of where these are publicly accessible and
+a description of how the Management and Supervisory Boards work, as well as the composition and mode of
+working of their committees. In addition, disclosures are made concerning the stipulation of targets for the
+proportion of women on the Management Board and within the next two levels of management, including
+the deadlines for attaining these targets, and concerning compliance with the minimum proportions of
+women and men on the Supervisory Board.
+
+The Declaration on Corporate Governance is available at www.zeiss.com/meditec-ag/ir under the section
+Declaration on Corporate Governance.
+
+Jena, 24 November 2016
+
+| ae
+
+Dr. Ludwin Monz Dr. Christian Miller
+President and Chief Executive Officer Member of the Management Board
+
+=>
+
+nO

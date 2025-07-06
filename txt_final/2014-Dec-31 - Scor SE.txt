@@ -1,0 +1,2033 @@
+
+
+--- Page 1 ---
+
+5 INFORMATION ABOUT THE ISSUER
+
+5.1 History and development of the issuer
+
+5.1.1 LEGAL NAME AND COMMERCIAL NAME OF THE ISSUER
+
+Legal name: SCOR SE
+Commercial name: SCOR
+
+5.1.2 PLACE AND REGISTRATION NUMBER OF THE ISSUER
+
+R.C.S. number: Paris 562 033 357
+A.P.E. Code: 6520Z
+
+5.1.3 DATE OF INCORPORATION AND LENGTH OF LIFE OF THE ISSUER
+
+The Company was incorporated on 16 August 1855, as a limited partnership company, under the name Compagnie
+Impériale des Voitures de Paris. The Company then took the form of a limited liability company and changed its name to
+SCOR S.A. on 16 October 1989. Consecutively, in 1990, SCOR SA absorbed the Société Commerciale de Réassurance
+created in 1970 and carried on the reinsurance business of the latter. On 13 May 1996, SCOR SA changed its name to
+SCOR. On 25 June 2007, SCOR changed its company form to a European Company (Societas Europaea) and became
+SCOR SE.
+
+On 25 April 2013, the Company's length of life was extended for 99 years by decision of the Extraordinary General
+Meeting.
+
+The Company expires on 25 April 2112 unless otherwise extended or previously dissolved.
+
+5.1.4 DOMICILE AND LEGAL FORM OF THE ISSUER, LEGISLATION GOVERNING ITS ACTIVITIES, COUNTRY OF
+INCORPORATION, ADDRESS AND TELEPHONE NUMBER OF ITS REGISTERED OFFICE
+
+5.1.4.1 Registered office and contact information of issuer
+SCOR SE
+
+5, avenue Kléber
+
+75116 PARIS
+
+France
+
+Tel.: +33 (0) 158 44 70 00
+
+Fax: +33 (0) 1 58 44 85 00
+
+www.scor.com
+
+E-mail: scor@scor.com
+
+5.1.4.2 Legal form and applicable legislation
+A. Corporate law
+
+SCOR SE is a European Company (Societas Europaea) governed by the provisions of Council Regulation (EC) No.
+2157/2001, dated 8 October 2001 on the Statute for a European Company (the “SE Regulation”), and that of the
+European Council Directive 2001/86/EC of 8 October 2001 supplementing the Statute for a European Company with
+regard to the involvement of employees, and by the provisions of French law relating to European Companies, as well as
+for all other matters partially covered or not covered by the SE Regulation, by the French corporate law provisions
+applicable to a société anonyme, where not contrary to the specific provisions applicable to European Companies.
+
+On 24 May 2007, the annual General Shareholders’ Meeting approved the conversion of the Company into a European
+Company or Societas Europaea, pursuant to Articles 1 §1, 2 §4 and 37 of the SE Regulation, and Article L. 225-245-1 of
+the Commercial Code, thereby becoming, on 25 June 2007, the first French listed company to adopt the Societas
+Europaea statute.
+
+Following approval of this conversion, SCOR SE is registered with the Nanterre Trade and Companies Register under
+the corporate name SCOR SE and has taken the form of a European company as at the date of such registration. The
+Company was relocated in Paris further to a decision of the Board dated 7 March 2012, ratified by the Extraordinary
+General Meeting held on 3 May 2012 and thus registered with the Paris Trade and Companies Register from this date.
+The conversion did not result in either the dissolution of SCOR SE or the creation of a new legal entity.
+
+The conversion had no impact upon the rights of the Company's shareholders or bondholders who automatically
+became shareholders and bondholders of SCOR SE without any action being required on their part. They remain
+
+45
+
+
+--- Page 2 ---
+
+shareholders and bondholders in proportion to their rights acquired prior to the completion of the conversion. Thus, the
+financial liability of each shareholder of SCOR SE is limited to the amount of his subscription prior to the conversion. The
+proportion of the voting rights held by each shareholder in the Company has not been affected by the conversion into a
+European Company.
+
+The conversion in itself did not have any impact on the value of the SCOR SE shares. The number of shares issued by
+the Company was not changed as a result of the conversion and the shares of the Company, remain listed on the
+Eurolist market of Euronext Paris. As at the date of this Registration Document, the SCOR SE shares are also listed on
+the SIX Swiss Exchange (formerly SWX Swiss Exchange) in Zurich since 8 August 2007. The Company's American
+Depositary Shares which had been listed on the New York Stock Exchange since 11 October 1996 were delisted on
+14 June 2007 and the Company's securities were deregistered with the Securities and Exchange Commission (SEC) on
+4 September 2007.
+
+Following the reorganization of Euronext indices on 3 January 2005, the Ordinary Shares are now included notably in
+the following indices: SBF 80, SBF 120, CAC All-Shares, CAC LARGE 60, CAC Next 20, CAC Financials, CAC All
+Tradable and EURONEXT 100. The SBF 120 and 250 consist of the 120 most actively traded French stocks and the 250
+largest stocks by capitalization. The SBF 80 is made up of the SBF120 stocks not included in the CAC 40 index, which
+are the most traded on the continuous segments. EURONEXT 100 index comprises the 100 largest and most liquid
+stocks traded on Euronext. The CAC All-shares index is composed of all the stocks listed on Euronext Paris for which
+annual velocity ratio exceeds 5% of their shares. The CAC Next 20 index includes the most representatives stocks in
+terms of free float adjusted capitalization and turnover not included in the CAC 40 index. The CAC Large 60 index is
+composed of the constituents of the CAC 40 and CAC Next 20 indices. The CAC All Tradable index includes all the
+stocks of the Euronext Paris market with an annual free float velocity over 20%.
+
+SCOR SE has been included in the “EuroStoxx Select Dividend 30” index of the 30 most attractive European companies
+in terms of dividends since 12 March 2010.
+
+Since 14 September 2012, SCOR SE is included in the ASPI (Advanced Sustainable Performance Indices) Eurozone®
+index.
+
+B. Insurance law
+The Group is subject to the following regulations in the main countries in which it operates:
+Europe
+
+Specific provisions apply to the reinsurance activity of SCOR. Under the Reinsurance Directive 2005/68/EC dated
+16 November 2005, implemented into French law by ordinance n. 2008-556 of 13 June 2008 and application decrees
+n. 2008-711 of 17 July 2008, and n. 2008-1154 of 7 November 2008, as well as regulation (arrété) of 7 November 2008,
+reinsurance companies and their subsidiaries situated in a country within the European Economic Area ("EEA"), are
+subject to state control, under the conditions defined by Book Ill of the French Insurance Code. The Reinsurance
+Directive also states rules for the offsetting of underwriting reserves by assets and the rules of acceptability of assets.
+The main provisions are:
+m= French companies, whose exclusive business is reinsurance, can only practice after having obtained an
+administrative license, issued by the Autorité de Contréle Prudentiel et de Résolution (ACPR - Prudential
+Supervision and Resolution Authority) and published in the Official Journal. The licenses for SCOR SE, SCOR
+Global Life SE and SCOR Global P&C SE were validated by virtue of the decision of the President of the
+Comité des Entreprises d'Assurances (Committee for Insurance Companies, now merged into the Autorité de
+Contréle Prudentiel et de Résolution - ACPR), dated 15 July 2008;
+m= the authorized reinsurers in France can thus operate in the EEA relying on the freedom to provide services
+and/or on establishment (branches);
+m= European reinsurance companies are under an obligation to meet the defined regulatory solvency demand, to
+establish a guarantee fund and to put a permanent internal control policy in place;
+= the obligation imposed upon reinsurers, to establish an adequate solvency margin, aims to protect the
+insurance companies, and hence, the consumers, in order to ensure that in the event of a decline in business
+or in investment income, the reinsurance companies have additional reserves, protecting those interests and
+consequently, the policy holders, while providing both executives and oversight and regulatory authorities with
+sufficient time to resolve the problems that have arisen;
+™ reinsurers authorized in France and their branches are monitored by the ACPR. The role of this body is to
+ensure that at any point, these entities are able to conform to the commitments that they have entered into with
+reinsurance companies and that they fulfill the regulatory solvency margin demands; and
+m= the ACPR is authorized to address prevention measures and to issue warnings to a monitored company or its
+executives.
+
+46
+
+
+--- Page 3 ---
+
+In the UK, SCOR UK Company Limited is regulated by the Prudential Regulation Authority while subsidiaries in Ireland
+are regulated by the Central Bank of Ireland. In Sweden, the Group transformed its Swedish subsidiary into a branch
+which, since 2013, is no longer regulated by the Swedish FSA.
+
+Switzerland
+
+In Switzerland (which is neither a member of the EU nor of the EEA), the Group subsidiary that conducts reinsurance
+activities there is subject to the federal law dated 1 January 2006 as amended “Insurance Supervision Act” and the
+federal law dated 22 June 2007 on Financial Market Supervision (FINMA), as amended, governing the oversight of
+insurance companies, which also governs reinsurance companies and stipulates that an insurance company must have
+sufficient assets, free of any predictable commitment, for all its activities (solvency margin).
+
+United States
+
+In the United States, the Group’s reinsurance and insurance subsidiaries are regulated primarily by the insurance
+regulators in the state in which they are domiciled, but they are also subject to regulations in each state in which they are
+authorized or licensed. SCOR Reinsurance Company, the Group’s main Non-Life subsidiary in the United States, is
+domiciled in the State of New York and SCOR Global Life Americas Reinsurance Company and SCOR Global Life USA
+Reinsurance Company, the Group’s main Life insurance subsidiaries in the United States, are domiciled respectively in
+North Carolina and in Delaware. The Group’s other subsidiaries in the United States are currently domiciled in Arizona
+New York and Delaware.
+
+Asia
+
+SCOR offers Life and Property and Casualty coverage within the Asia Pacific region through a network of subsidiaries,
+branches, and service companies. It operates in Singapore, Hong Kong and Australia through subsidiaries. The Group
+also operates in Australia, China, India, New Zealand, Malaysia, Taiwan, Japan and Korea through branches,
+representative offices or service companies. In the region, each entity is subject to local supervision regardless of
+their legal form. The Asia/Pacific region is made up of a number of widely differing and independent markets. Each has
+its own regulatory structures and SCOR complies with the local regulation in each of the countries in which it operates.
+Industry regulation across the region typically focuses on financial stability and the basis for calculating solvency,
+reserves and policyholder liabilities. In many of the markets across the region, regulators have the power to revoke
+operating licenses, regulate shareholder structures and the participation in and the payment of dividends. Markets within
+the region are developing quickly with an increasing focus on governance and conduct of business.
+
+5.1.5 IMPORTANT EVENTS IN THE DEVELOPMENT OF THE ISSUER’S BUSINESS
+
+SCOR was established as a reinsurance company in 1970, at the initiative of the French government and with the
+participation of the Paris insurance market place, to create a reinsurance company of international stature under the
+name of Société Commerciale de Réassurance. SCOR rapidly developed in various world markets, building up a
+substantial international portfolio.
+
+At the beginning of the 1980s, the French government's stake in its share capital, held through the Caisse Centrale de
+Réassurance, was progressively reduced in favor of insurance companies that were active on the French market. (For
+more details, refer to Section 5.1.3 — Date of incorporation and length of life of the issuer).
+
+In 1989, the Group and UAP Reassurances, a subsidiary of the state-owned Société Centrale de l'Union des
+Assurances de Paris, combined their Property and Casualty and Life reinsurance businesses as part of a restructuring of
+SCOR share capital. The Company listed its Ordinary Shares on the Paris stock exchange after completion of a reverse
+merger with Compagnie Générale des Voitures, listed on the Paris Stock Exchange and changed its name to SCOR S.A.
+on 16 October 1989 and to SCOR on 13 May 1996. The withdrawal of Compagnie UAP, which held 41% of the share
+capital, was completed in October 1996 via an international public offering at the time of SCOR listing on the New York
+Stock Exchange.
+
+In July 1996, SCOR acquired the reinsurance portfolio of the American insurer Allstate Insurance Company, which
+doubled its then existing US business.
+
+In 2000, SCOR acquired Partner Re Life, a US life reinsurer, thus gaining a platform from which to expand its then
+existing life reinsurance business in the US market.
+
+In 2002, SCOR’s subsidiary, Investors Insurance Corporation, or "IIC", signed a cooperation agreement in the life
+reinsurance business with the Legacy Marketing Group of California for the distribution and management of annuity
+products in the US. IIC was sold in July 2011.
+
+In 2003, the Group reorganized its Life reinsurance business. The companies of the Group transferred to SCOR Vie and
+its subsidiaries all of the Group's Life reinsurance business throughout the world. SCOR Vie, whose corporate name was
+changed to SCOR Global Life in 2006, and which became a European Company (Societas Europaea) in 2007, along
+with its subsidiaries, are all directly or indirectly wholly owned by its parent company, SCOR SE.
+
+On 16 May 2006, SCOR transferred all of its Non-Life reinsurance business in Europe, including Property & Casualty
+Treaties (including Credit & Surety business). Large Corporate Accounts and Construction reinsurance to Société
+
+47
+
+
+--- Page 4 ---
+
+Putéolienne de Participations, a French subsidiary wholly owned by SCOR, whose corporate name was changed to
+SCOR Global P&C, effective retroactively to 1 January 2006. In 2007, SCOR Global P&C adopted the European
+Company (Societas Europaea) statute via a merger by absorption of SCOR Deutschland Riickversicherungs AG and
+SCOR Italia Riassicurazioni SpA.
+On 21 November 2006, SCOR completed the acquisition of Revios Rueckversicherung AG (“Revios”), which secured its
+position as a top worldwide Life reinsurer. Based in Cologne (Germany), Revios was the former Life reinsurance unit of
+Gerling Global Re Group, which developed successfully autonomously from 2002 onward. Revios had since developed
+into one of the leading European reinsurers specializing in Life reinsurance, with offices in 17 countries. SCOR
+combined Revios and SCOR Vie to create SCOR Global Life SE. SCOR Global Life SE is now one of its three primary
+operational entities (along with SCOR Global P&C SE and SCOR Global Investments SE, described below), with
+responsibility for the Life reinsurance business.
+On 10 January 2007, SCOR increased the level of its investment (which stood at 10.2% since 1994) to 39.7% of the
+share capital and 40.2% of the voting rights of ReMark Group BV (“ReMark”) and on 22 August 2007, SCOR Global Life
+SE announced that it held 98.67% of the share capital of ReMark. Since 2009, SCOR Global Life SE holds 100% of the
+share capital of ReMark. Established in 1984, ReMark is an important player of the direct global marketing of Life
+insurance products.
+In August 2007, SCOR acquired, Converium (which became SCOR Holding (Switzerland) AG (“SCOR Holding
+Switzerland”)). SCOR also listed its Ordinary Shares to trading in Swiss Francs on the SWX Swiss Exchange (which
+later became the SIX Swiss Exchange) in Zurich, thereby enabling Converium shareholders who tendered their
+Converium shares to SCOR (in exchange for SCOR’s Ordinary Shares) in the context of the acquisition to keep their
+assets in the same currency and on the same stock exchange.
+Following the acquisition of Converium's control, SCOR became the world’s fifth-largest global multi-line reinsurer
+(excluding Lloyd’s of London), based on the 2009 pro forma gross written premiums of SCOR's operating entities
+according to “Standard & Poor's Global Reinsurance Highlights 2010”.
+Following its integration of Revios and Converium, SCOR restructured its operations around six regional management
+platforms, or “Hubs.” Each of the Hubs has local, regional and Group responsibilities, with the heads of each Hub
+reporting to the Group Chief Operating Officer. Each Hub includes the following functions: a Legal and Compliance
+Officer, a Head of Information Systems, a Head of Finance, a Head of Human Resources and a Risk Manager.
+The Hubs were progressively implemented:
+
+@ on 5 May 2008 for the Cologne Hub (combined with the Zurich Hub from 1 October 2014);
+on 20 May 2008 for the London Hub;
+on 18 June 2008 for the Americas Hub;
+on 27 June 2008 for the Singapore Hub;
+on 27 January 2009 for the Zurich Hub (combined with the Cologne Hub as from 1 October 2014);
+
+™ on 24 February 2009 for the Paris Hub.
+For more information on the Hub structure, see “Section 7.1.1.5 - The “Hub” Structure.
+
+On 7 January 2008, SCOR Holding (Switzerland), the former Converium, delisted its American Depositary Shares from
+the NYSE. SCOR Holding (Switzerland) then requested the deregistration of its securities with the SEC. The
+deregistration of the securities of SCOR Holding (Switzerland) took place on 4 September 2008. Moreover, at the
+request of SCOR Holding (Switzerland), the SWX Swiss Exchange (which later became the SIX Swiss Exchange), by
+order dated 14 November 2007, delisted SCOR Holding (Switzerland)’s shares as from 30 May 2008.
+
+On 10 April 2008, SCOR announced that it has been admitted as a Property and Casualty reinsurer in Brazil. In addition,
+SCOR completed the formalities for SCOR Global Life US Re Insurance Company to operate as an admitted Life
+reinsurer in Brazil.
+
+On 21 April 2008, SCOR incorporated its first South-African subsidiary, SCOR Africa Ltd, located in Pretoria, to develop
+its Life and Non-Life reinsurance business.
+
+On 31 July 2008, SCOR SE entered into an agreement with the Malakoff Médéric Group, the leading group in the
+French social protection market (providing supplementary retirement, health insurance and contingency plans), in order
+to acquire 100% of the share capital and voting rights of Prévoyance et Réassurance and its Life and Health reinsurance
+subsidiary Prévoyance Ré. This acquisition was completed on 24 October 2008, and gave rise to the contribution by
+SCOR SE to the Malakoff Médéric Group of 3,459,075 of its treasury Ordinary Shares. In addition, Malakoff Médéric
+Group, in accordance with its commitment, acquired on the market, as from November 2008, an additional number of
+SCOR SE shares enabling it to hold 3% of the share capital and voting rights of SCOR SE. Malakoff Médéric Group was
+later appointed as a director on the Board of Directors of the Company. Through this acquisition, SCOR increased its
+leading role in the French Life and Health reinsurance market and the social protection reinsurance market.
+
+On 29 October 2008, SCOR announced its decision to create SCOR Global Investments SE, its asset management
+company (société de gestion de portefeuille) and third operational entity within the Group along with SCOR Global P&C.
+
+48
+
+
+--- Page 5 ---
+
+SE and SCOR Global Life SE. This new company, incorporated on 2 February 2009, carries the asset management of
+SCOR’s investment portfolio and implements the investment strategy as determined by the Group's Investment
+Committee chaired by the Group Chairman and Chief Executive Officer. SCOR Global Investments SE was approved by
+the French market regulator (Autorité des marchés financiers or “AMF”) as a portfolio management company with effect
+from 15 May 2009. As a regulated asset management company, SCOR Global Investments SE carries out its activities
+on an arms-length basis and with the operational independence required under Article L. 214-9 of the French monetary
+and financial code.
+
+On 27 November 2008, SCOR announced its decision to establish a fully-fledged composite subsidiary to continue to
+develop its Life and Non-Life activities in Russia. SCOR Perestrakhovaniye has been incorporated in December 2008 in
+Moscow and obtained its license to operate in 2009.
+
+On 18 July 2009, SCOR Global Life US Reinsurance Company, a wholly-owned subsidiary of the Group, reached a
+definitive agreement to acquire XL Re Life America Inc., a subsidiary of XL Capital Ltd, for an amount of EUR 31 million.
+The acquisition closed on 4 December 2009. The acquisition helped SCOR Global Life SE strengthen its services in the
+mortality protection field and reinforce its position in the US Life reinsurance market.
+
+On 18 November 2009, SCOR Global Life launched SCOR Telemed to prove clients with value-added services in the
+field of tele-underwriting.
+
+On 1 November 2010, Lloyd’s Market Franchise Board gave its “in principle” approval to the creation of Channel
+Syndicate 2015. SCOR is the sole capital provider for Channel Syndicate, which in 2011 had an initial annual stamp
+capacity of GBP 75 million. Underwriting by the Channel Syndicate began on 5 January 2011. The portfolio of Channel
+Syndicate focuses on direct insurance business in markets, including property, marine, accident and health, financial
+institutions and professional civil liability.
+
+On 21 December 2010, the Mexican Ministry of Finance granted SCOR Global Life SE a license to set up a
+representative office in Mexico, under the name of SCOR Global Life SE Oficina de Representacién en Mexico. This
+office supports the activity of SCOR Global Life SE on the Mexican, Central American and Caribbean markets. Effective
+opening of these offices occurred in January 2011.
+
+On 20 January 2011, SCOR successfully placed on the Swiss franc market perpetual subordinated notes with a first call
+date in August 2016, for an aggregate total amount of CHF 400 million.
+
+On 11 May 2011, SCOR successfully placed CHF 225 million additional perpetual subordinated notes on the Swiss franc
+market. These notes are interchangeable with those of the placement announced on 20 January 2011, and the
+conditions are similar to those of this placement.
+
+On 18 May 2011, SCOR Global Life opened a subsidiary in Sydney (Australia) for the Australian and New Zealand
+markets, after the Australian Prudential Regulation Authority granted SCOR Global Life Australia Pty Limited the
+authorization to conduct reinsurance business in the Australian market.
+
+On 8 July 2011, the subsidiary of SCOR SE, SCOR Alternative Investments SA, was registered by the Commission de
+Surveillance du Secteur Financier (“CSSF”) in Luxembourg as a company in charge of the management of the portfolio
+of assets specialized in the asset class, known as “Insurance-Linked Securities” (“ILS”). SCOR Global Investments SE
+having then obtained the approval from the CSSF to manage its ILS portfolios, SCOR Alternative Investments SA was
+sold on 17 April 2014.
+
+On 18 July 2011, SCOR closed the sale of its subsidiary Investors Insurance Corporation (“IIC”) to Athene Holding Ltd.,
+as initially announced on 16 February 2011, for USD 57 million. With the sale of IIC, SCOR substantially exited the US
+fixed annuity business, which was a direct insurance business.
+
+On 25 July 2011, SCOR Global Life, which already held 50% of the capital of SOLAREH SA, acquired the remaining
+50% by purchasing shares from Solareh International Inc. As part of the integration of SOLAREH SA into SCOR, the
+company was renamed REHALTO SA in September 2011.
+
+On 9 August 2011, SCOR finalized the acquisition of the mortality portfolio of Transamerica Re, a part of AEGON N.V.
+The transaction also includes the acquisition of an Irish legal entity, which underwrites Transamerica Re business. The
+total consideration for the acquired business amounted to USD 919 million, including a statutory capital of USD 497
+million for the Irish entity at the closing date. This acquisition was financed without issuance of new shares.
+Transamerica Re was the world’s 3% largest Life reinsurer in the US based on the volume of its business in 2009 and the
+7" largest reinsurer based on its net earned premium in 2010. SCOR Global Life and Transamerica Re business have
+been merged into a new entity SCOR Global Life in North America: SCOR Global Life Americas Reinsurance Company
+(“SCOR Global Life Americas”).
+
+On 31 August 2011, SCOR launched Atropos SICAV-SIF (“Atropos”), ILS fund dedicated to insurance risks, which was
+previously managed by its former subsidiary SCOR Alternative Investments SA and now by SCOR Global investments
+SE, and domiciled in Luxembourg. This fund enables institutional investors to benefit from extreme natural catastrophe
+market risks, such as hurricanes, earthquakes and storms. ILS investments are not correlated to the financial markets,
+offers high historical yields and facilitates real investment portfolio diversification. With USD 100 million in seed capital
+provided by the Group, Atropos marks the Group’s entry into the business of third-party asset management. From the
+
+49
+
+
+--- Page 6 ---
+
+end of 2011, the Group opened to external clients an important number of its funds handled by SCOR Global
+Investments.
+
+In June 2012, SCOR Global P&C created a branch in Argentina.
+
+On 10 September 2012, SCOR successfully placed on the Swiss franc market perpetual subordinated notes with a first
+call date in June 2018, for an aggregate total amount of CHF 250 million.
+
+On 24 September 2012, SCOR successfully increased its recently placed perpetual subordinated notes by
+CHF 65 million to a cumulated issuance of CHF 315 million, following the strong market demand.
+
+With effect on 14 January 2013, the CSSF approved the fund, SCORLUX SICAV-SIF, established by SCOR Global
+Investments SE in Luxembourg and dedicated to investments in SICAV funds.
+
+On 4 March 2013, with effective date 1 January 2013, SCOR Global Life entered into a VIF (Value of In-Force)
+monetization transaction with BBVA Seguros, a Spanish leading insurance company, to reinsure a whole block of life
+risk insurance policies written by BBVA Seguros until 31 December 2012. SCOR Global Life Reinsurance Ireland PLC
+pays circa EUR 630 million of reinsurance commission to write this business and receives the current reserves of the
+acquired block at the inception of the treaty.
+
+On 29 May 2013, SCOR acquired a 59.9 % stake in the capital of MRM S.A., a listed real estate company subject to the
+French REIT régime (“Régime des sociétés d’investissements immobiliers cotées” or “SIIC”), as part of a cash capital
+increase, after the restructuring of MRM S.A. group’s banking and bond debts. This investment amounts to EUR 53.3
+million.
+
+On 10 September 2013, SCOR successfully placed on the Swiss franc market perpetual subordinated notes with a first
+call date on 30 November 2018, for an aggregate total amount of CHF 250 million. The first installment of the early
+repayment SCOR option is set to occur on 30 November 2018.
+
+On 1 October 2013, SCOR finalized the acquisition of the Generali life reinsurance operations in the US (Generali U.S.
+Holdings, Inc. “Generali U.S.”, after having obtained all the necessary regulatory approvals. Further to this transaction,
+the main operating company, Generali USA Life Reassurance Company changed its name to SCOR Global Life USA
+Reinsurance Company.
+
+This acquisition, which was announced on 4 June 2013, amounted to a total consideration of EUR 573 million (USD 774
+million) including a 2013 earnings adjustment. The transaction was financed by SCOR without the issuance of new
+shares. The combination of SCOR Global Life Americas and Generali U.S. creates the market leader in the US Life
+reinsurance market.
+
+On 4 December 2013, SCOR Global Life SE, a subsidiary of SCOR SE, entered into an innovative longevity transaction
+with the Netherlands-based insurer Aegon. The transaction covers underlying longevity reserves in the Netherlands of
+EUR 1.4 billion. It has a maturity of 20 years with a commutation reflecting an estimation of the remaining exposure at
+year 20. SCOR is taking a leading role with a 50% share in reinsuring the residual trend risk. The effective date of the
+transaction is retrospectively 1 January 2013.
+
+On 6 March 2014, SCOR Global Life SE entered into a longevity transaction with the UK-based insurer Aviva. The
+transaction covers pensions in payment of some 19,000 pensioners who are members of the Aviva Staff Pension
+Scheme. The risk of these members living longer is transferred from Aviva’s pension scheme to the reinsurance market.
+The associated liabilities are approximately GBP 5 billion, which makes this the largest pension scheme longevity swap
+completed to date globally. SCOR is assuming a meaningful portion of this risk. The effective date of the transaction is 1
+January 2014.
+
+On 28 March 2014, SCOR Global Life SE entered into a VIF (Value of In-Force) monetization transaction with
+Mediterraneo Vida, a Spanish insurance company fully owned by Banco Sabadell. This transaction, effective 1 January
+2014, will reinsure a portfolio of life policies, covering mortality and permanent disability risks, written by Mediterraneo
+Vida up to 31 December 2013.
+
+On 1 April 2014, SCOR announced that it had obtained approval from Lloyd’s, the Financial Conduct Authority and the
+Prudential Regulatory Authority of the UK to launch a Managing Agent at Lloyd’s. The new Managing Agency, “The
+Channel Managing Agency Limited”, will act as Managing Agent for SCOR’s own Lloyd’s syndicate, Channel 2015, with
+effect from 1 April 2014.
+
+On 23 June 2014, SCOR announced the merger of Hubs existing Cologne and Zurich Hubs, to further strengthen its
+organizational structure in Europe. The new Hub is effective as of 1 October 2014 and is expected to be fully completed
+in the first quarter of 2015.
+
+On 1 September 2014, SCOR announced the creation of a local entity in Brazil, SCOR Brasil Resseguros SA (SCOR
+Brasil Re), following the license to operate as a Local Reinsurer granted by the Brazilian insurance authority SUSEP on
+26 August 2014.
+
+On 24 September 2014, SCOR successfully placed perpetual subordinated notes on the Swiss franc market in the
+amount of CHF 125 million. The net proceeds of the notes issue will be used for general corporate purposes.
+
+On 25 September 2014, SCOR successfully placed perpetual subordinated notes on the Euro market in the amount of
+EUR 250 million. The net proceeds of the notes issue will be used for general corporate purposes.
+
+50
+
+
+--- Page 7 ---
+
+5.2 Investments
+
+5.2.1 PRINCIPAL INVESTMENTS MADE OVER THE PAST THREE FINANCIAL YEARS
+
+Refer to Section 20.1.6 — Notes to the consolidated financial statements - Note 26 - Insurance and financial risk for the
+detailed ranking by maturity of fixed-term investments in the Group's portfolio as at 31 December 2014.
+
+Refer to Section 4.2.1 —- SCOR faces risks related to its fixed income investment portfolio - and 4.2.2 - SCOR faces risks
+related to its equity based portfolio, for a description of risk management connected with its investments in debt
+instruments and equity securities - and 4.2.3 - SCOR is exposed to other risks arising from the investments it owns.
+Refer to section 5.1.5 - Important events in the development of the issuer's business.
+
+Refer to Section 6.1.5 — Investments.
+
+Refer to Section 8 — Property, plant and equipment for a description of our risk management with our investments in real
+estate.
+
+5.2.2 PRINCIPAL INVESTMENTS IN PROGRESS
+
+None.
+
+5.2.3 PRINCIPAL FUTURE INVESTMENTS
+
+SCOR's success relies on the consistent implementation of the four principles on which its strategic plans, “Dynamic Lift’,
+“Strong Momentum” and now “Optimal Dynamics” are based: a strong franchise, a high diversification, a controlled risk
+appetite and a robust capital shield. Success in implementing such a strategy requires that, at regular intervals, the
+Group assesses whether opportunities which may present themselves relating to the optimization of its business
+portfolio via acquisitions and cessions and which would be likely to deliver value for its shareholders are in line with this
+consistent set of principles. Thus, the closing of such operations should only occur within this consistent framework, in
+the best interest of SCOR SE.
+
+51
+
+
+--- Page 8 ---
+
+» BUSINESS OVERVIEW
+
+
+--- Page 9 ---
+
+53
+
+6.1
+
+6.2
+
+6.3
+
+6.4
+
+6.5
+
+Primary activities
+Principal markets
+
+Extraordinary events influencing
+the principal business and markets
+
+Dependency of the issuer with
+respect to patents or licenses,
+industrial, commercial or financial
+contracts and new manufacturing
+processes
+
+Information on SCOR’s competitive
+position
+
+55
+
+69
+
+70
+
+71
+
+71
+
+
+--- Page 10 ---
+
+6 BUSINESS OVERVIEW
+
+Between 2002 and 2014, SCOR developed and implemented five three-year strategic plans to strengthen its balance
+sheet and achieve its profitability goals through an underwriting policy focused on profitability, including optimum capital
+allocation throughout the business cycle, and by maintaining its strong customer base and franchise in its core
+geographical areas, Europe, North & Latin America, Asia Pacific and focusing on developing countries for the rest of the
+world. The Group's acquisitions of Revios (in 2006), Converium (in 2007), Transamerica Re (in 2011) and Generali U.S.
+(in 2013) contributed to the diversification strategy by balancing the proportion of the consolidated premiums written
+between its Non-Life and Life divisions.
+In September 2013, SCOR launched a new three-year strategic plan, “Optimal Dynamics,” which followed the previous
+strategic plan for 2010-2013, “Strong Momentum.”
+This plan covers the period mid-2013 to mid-2016 and respects the four cornerstones of the Group - strong franchise,
+high diversification, controlled risk-appetite and robust capital shield. Continuing on from “Back on Track”, “Moving
+Forward”, “Dynamic Lift" and “Strong Momentum”, “Optimal Dynamics” is the fifth strategic plan drawn up and
+implemented by the Group under the chairmanship of Denis Kessler. This plan was approved by the Board of Directors
+during its meeting of 31 July 2013. With it, the three-year strategic plan “Strong Momentum”, launched in September
+2010 and updated following the acquisition of Transamerica Re in August 2011, has come to a successful conclusion.
+The two specific targets of “Optimal Dynamics” are:
+= aROE of 1000 basis points above the three-month risk-free rate over the cycle;
+™ asolvency ratio in the 185-220% range (percentage of SCR, according to the Group Internal Model) ‘”)
+During its annual Investors’ Day held on the 10” of September 2014 in London, SCOR's Executive Management team,
+led by Denis Kessler, presented an overview of the successful achievement of the “Optimal Dynamics” strategic plan in
+its first year and set forth why the company’s business model is fit for today’s environment.
+One year after its launch, SCOR is on track with the execution of its “Optimal Dynamics” strategic plan, combining
+growth, solvency and profitability.
+The Group also affirmed its consistent shareholder remuneration policy.
+“Optimal Dynamics” also further refines the Group's risk profile and capital management. Retrocession strategy is
+optimized, Assets and Liabilities Management (ALM) strategy enhanced and solvency governance strengthened.
+Moreover, the Group's structurally long liquidity position remains strong thanks to the significant operating cashflow from
+its business engines.
+The plan respects the SCOR’s four strategic cornerstones, which are:
+® astrong franchise, achieved by:
+- deepening its presence in the local Property & Casualty and Life markets in which SCOR operates by
+strengthening client relationships and through best-in-class services and product innovation, and by;
+- expanding into new markets through organic growth;
+= high diversification, achieved both by Non-Life and Life business diversification and by geographical presence,
+providing higher stability of results and robust required capital diversification benefits;
+=  acontrolled risk-appetite, on both sides of the balance sheet, and;
+™ a robust “Capital Shield” policy, with a four layer-framework that is optimized according to severity and
+frequency levels of risks:
+- traditional retrocession, which includes a combination of proportional / non-proportional, per-event
+and aggregate covers;
+- alternative risk-transfer solutions, which include the securitization of catastrophic risk in the form of
+catastrophe bonds and a Mortality risk transfer contract (see Section 6.1.3 Underwriting, Distribution,
+Catastrophe Risk, Claims and Reserves and Section 20.1.6 - Notes to the consolidated financial
+statements, Note 8 - Derivative instruments) and provide multiyear protection that is not dependent
+on short-term market fluctuations;
+- solvency buffer, defined as the amount of capital above the Solvency Capital Requirement (SCR)
+having an annual probability of total erosion of 1 in 33 (3%);
+- contingent capital facilities, which are designed as tools of last resort. See Section 20.1.6 - Notes to
+the consolidated financial statements, Note 8 - Derivative instruments - Contingent capital facility.
+
+SCOR continues to execute its business initiatives as defined in the plan and continues to focus on capital optimization
+and technical profitability, in order to provide added value to all its stakeholders.
+
+(1) This is the ratio between the available capital and the Solvency Capital Requirement (SCR)
+
+54
+
+
+--- Page 11 ---
+
+SCOR’s risk appetite framework
+
+SCOR’s risk appetite framework is an integral part of the Group’s strategic plan. It is approved by the Board of Directors
+in connection with the review of new strategic plans, based on recommendations from the Group’s Executive Committee
+and the Risk Committee of the Board of Directors (the “Risk Committee”). The Board of Directors may vary the amount
+and the composition of risk that the Group is prepared to take.
+
+SCOR’s risk appetite framework encompasses four concepts: Risk Appetite, Risk Preferences, Risk Tolerances, and
+“footprint” scenarios:
+
+Risk Appetite
+
+Risk appetite defines the quantity of risk that SCOR wishes to accept to achieve a desired level of profitability. This
+determines where the Group wishes to position itself on the assumed risk-expected return spectrum, between extremely
+risk averse (low risk-low return) and extreme risk taker (high risk-high return). SCOR uses a target solvency ratio as well
+as a target expected profitability. These two components provide a comprehensive definition of its risk appetite. The
+Group actual solvency ratio and the retained profitability profile are regularly reported to the Board of Directors via the
+Risk Committee.
+
+Risk Preferences
+
+Risk preferences are qualitative descriptions of the risks which SCOR is willing to accept. The Group aims to cover a
+wide range of reinsurance risks and geographical areas. On the other hand, it has no desire to take operational, legal,
+regulatory, tax and reputational risks. This does not mean that the Group is immune to these risks. These risk
+preferences determine the risks to be included, in the Group’s underwriting guidelines.
+
+Risk Tolerances
+
+Risk Tolerances are the limits required by SCOR’s stakeholders (e.g., clients, shareholders, regulators etc.). The Board
+of Directors defines and approves risk tolerance limits for the Group in terms of solvency, by risk driver, and extreme
+scenario in order to ensure that the Group’s risk profile remains aligned with its risk appetite framework. SCOR uses
+various risk measures to verify that its exposures remain within these limits. These measures can take several forms
+depending on the technical constraints or the level of information available and are based on either internal model
+outputs, scenarios or expert opinions.
+
+“Footprint” scenarios
+
+Footprint scenarios are an innovative and complementary risk management tool. Whereas risk drivers and extreme
+scenarios are probability-based, the footprint approach consists in carrying out an impact assessment on the Group
+under a_ deterministic scenario. This approach is complementary to a_ probability-based view.
+Taking into account SCOR’s current exposure and all risk mitigation instruments, footprint scenarios provide the impact
+assessment of past events on the Group’s actual solvency ratio, liquidity, and own operations. SCOR regularly produces
+and evaluates footprint scenarios, providing comfort that the impact of such events on the Group's current solvency
+would be limited.
+
+6.1 Primary activities
+
+6.1.1 THE REINSURANCE BUSINESS
+
+6.1.1.1 Principles
+
+Reinsurance is a contract under which a company, the reinsurer, agrees to indemnify an insurance company, the ceding
+company, against all or part of the primary insurance risks underwritten by the ceding company under one or more
+insurance contracts. Reinsurance differs from insurance, primarily because of its higher level of mutualization by
+geography and by line of business.
+
+6.1.1.2 Functions
+
+Reinsurance provides four essential functions:
+
+= it offers the direct insurer greater security for its equity and solvency, as well as protection against the
+potentially high volatility of results when abnormally high frequency or severity of losses or events occur, by
+covering the direct insurer above certain contractually set amounts per event or in the aggregate;
+
+= it allows insurers to increase the maximum amount they can insure for a given loss or series of losses by
+enabling them to underwrite a greater number of risks, or larger risks, without excessively raising their need to
+cover their solvency margin and, therefore, to increase their shareholders’ equity;
+
+™ it gives access to substantial available liquidity to insurers in the event of major loss events, and;
+= __ it provides insurers with efficient substitute capital solutions.
+
+55
+
+
+--- Page 12 ---
+
+Reinsurance, however, does not discharge the ceding company from its liability to policyholders. Reinsurers themselves
+may feel the need to transfer some of the risks underwritten and/or some of the accumulated exposures derived from
+such risks to other reinsurers (known as retrocessionaires).
+
+In addition, reinsurers may also provide advisory services to ceding companies by:
+
+= defining their reinsurance needs and devising the most effective reinsurance program to better plan their
+capital needs and solvency margin;
+
+= supplying a wide panel of support services, particularly in terms of the sharing of know-how, best practices and
+risk assessment, modeling and management tools;
+
+™ providing expertise in certain highly specialized areas such as the analysis of complex risks and risk pricing;
+and
+
+™ enabling ceding companies to build up their business with less upfront capital requirement, particularly when
+launching new products requiring heavy investment or financing or when they invest in new markets by starting
+their own operations or acquiring portfolios or companies.
+
+Reinsurers, including SCOR, are usually compensated for the provision of such advisory services through the cedents’
+reinsurance premiums, rather than through fee-based compensation.
+
+6.1.1.3 Types of reinsurance
+A. Treaty and Facultative
+
+The two basic types of reinsurance arrangements are treaty and facultative reinsurance.
+
+In treaty reinsurance, the ceding company is contractually bound to cede and the reinsurer is bound to assume a
+specified, contractually defined portion of a type or category of risks insured by the ceding company. Treaty reinsurers,
+including SCOR, do not separately evaluate each of the individual risks assumed under their treaties and, consequently,
+after a review of the ceding company’s underwriting practices, such reinsurers are dependent on the original risk
+underwriting decisions made by the ceding company’s primary policy writers.
+
+Such dependence may expose reinsurers in general, including SCOR, to the possibility that the ceding companies have
+not adequately evaluated the risks to be reinsured and, therefore, that the premiums ceded in connection therewith may
+not adequately compensate the reinsurer for the risk assumed. The reinsurers evaluation of the ceding company’s risk
+management and underwriting practices and policies, as well as claims settlement practices and procedures, therefore,
+will usually impact the pricing of the treaty.
+
+In facultative reinsurance, the ceding company cedes and the reinsurer assumes all or part of the risks covered by a
+particular specified insurance policy or by insurance policies related to a specific ultimate group insured in the same
+program. Facultative reinsurance is negotiated separately for each insurance contract that is reinsured. Facultative
+reinsurance is normally purchased by ceding companies for individual risks not covered by their reinsurance treaties, for
+amounts in excess of the monetary limits of their reinsurance treaties and for unusual risks. Underwriting expenses and,
+in particular, personnel costs, are higher relative to premiums written on facultative business because each risk is
+individually underwritten and administered. The ability to separately evaluate each risk reinsured, however, increases the
+probability that the underwriter can price the contract more accurately to reflect the risks involved.
+
+B. Proportional and non-proportional reinsurance
+
+Both treaty and facultative reinsurance can be written on (i) a proportional (or quota share) basis and/or (ii) a non-
+proportional (or excess of loss or stop loss) basis.
+
+With respect to proportional (or quota share) reinsurance, the reinsurer, in return for a predetermined portion or share of
+the insurance premium charged by the ceding company, indemnifies the ceding company against the same portion of
+the losses of the ceding company under the covered insurance contract(s). In the case of reinsurance written on a non-
+proportional, through an excess of loss or a stop loss, basis, the reinsurer indemnifies the ceding company against all or
+a specified portion of loss sustained, on a claim by claim basis or for amounts incurred, in excess of a specified amount,
+known as the ceding company’s retention or reinsurer’s attachment point, and up to a negotiated reinsurance contract
+limit.
+
+Although the frequency of losses under a quota share reinsurance contract is usually greater than on an excess of loss
+contract, it is generally simpler to predict the losses on a quota share basis and the terms and conditions of a quota
+share contract can be structured to limit the indemnity offered under the contract. A quota share reinsurance contract
+therefore does not necessarily imply that a reinsurance company assumes greater risk exposure than on an excess of
+loss contract.
+
+Excess of loss reinsurance is often written in layers. One or a group of reinsurers accepts a tranche or layer of risk
+above the ceding company’s retention up to a specified amount, at which point another reinsurer or a group of reinsurers
+accepts the next layer of liability. Stacking layers protecting the same underlying portfolio are called a program, and after
+protection from the top layer is exhausted liability reverts to the ceding company. The reinsurer taking on the risk just
+above the ceding company’s retention layer is said to write primary or working layer or low layer excess of loss
+
+56
+
+
+--- Page 13 ---
+
+reinsurance. A loss that reaches just beyond the ceding company’s retention will create a loss for the lower layer
+reinsurer, but not for the reinsurers on the higher layers. Loss activity in lower layer reinsurance tends to be more
+predictable than that in higher layers due to a greater historical frequency, and therefore, like quota share reinsurance,
+underwriters and actuaries have more data to price the underlying risks with greater confidence.
+
+Premiums payable by the ceding company to a reinsurer for excess of loss reinsurance are not directly proportional to
+the premiums that the ceding company receives because the reinsurer does not assume a directly proportionate risk. In
+contrast, premiums that the ceding company pays to the reinsurer for quota share reinsurance are proportional to the
+premiums that the ceding company receives, consistent with the proportional sharing of risk. In addition, in quota share
+reinsurance, the reinsurer generally pays the ceding company a ceding commission. The ceding commission is usually
+based on the ceding company’s cost of acquiring the business being reinsured, including commissions, premium taxes,
+assessments and miscellaneous administrative expense, and also may include a profit factor in turn for producing the
+business.
+
+6.1.2 BREAKDOWN OF THE GROUP’S BUSINESS
+
+The Group is organized into two operating divisions and one corporate cost center referred to as “Group Functions”. The
+operating divisions are: the SCOR Global P&C division, with responsibility for the property and casualty insurance and
+reinsurance (also referred to in this Registration Document as “Non-Life” or the “Non-Life division”); and the SCOR
+Global Life division, with responsibility for the life reinsurance (also referred to in this Registration Document as “Life” or
+the “Life division”). These two divisions represent SCOR's two “operating segments” for purposes of IFRS 8 and are
+presented as “operating segments” in its consolidated financial statements, included in Section 20.1.6. However, in
+accordance with longstanding management convention, the Group uses the term “divisions” in this Registration
+Document, rather than “operating segments”. Each operating division underwrites different types of risks and offers
+different products and services, which are marketed via separate channels; responsibilities and reporting within the
+Group are established on the basis of this structure.
+
+The SCOR Global P&C division operates in four business areas being: Property and Casualty Treaties; Specialty Lines
+(including Credit & Surety, Inherent Defects Insurance, Aviation, Space, Marine, Engineering, Agriculture and Alternative
+Solutions); Business Solutions (large corporate accounts underwritten essentially on a facultative reinsurance basis and
+occasionally as direct insurance for industrial groups and services companies); and Business Ventures and Partnerships.
+
+The SCOR Global Life division underwrites Life reinsurance in the following business areas: Protection (which provides
+protection for Mortality, Disability, Long-Term Care, Critical Illness, Health and Personal Accident), Financial Solutions
+(which enables cedents to fund growth, stabilize earnings and optimize solvency) and Longevity (which alleviates the
+risk of insured clients’ living longer).
+
+SCOR writes direct insurance, primarily on a business-to-business basis to cover on P&C certain large industrial risks
+through the Business Solutions domain of SCOR Global P&C and through the participation in Lloyd’s syndicates among
+which Channel 2015, for which SCOR is the sole capital provider as well as through some participations in Business
+Ventures and partnerships. For a description of products and services, see Section 6.1.2.1 — Non-Life reinsurance.
+Before the sale of Investors Insurance Corporation, SCOR Global Life also offered fixed annuity contracts in the US
+direct insurance markets.
+
+SCOR’s cost center is referred to in this Registration Document as “Group Functions”. Group Functions is not an
+operating division and does not generate revenues. The costs in Group Functions are Group related costs that are not
+directly attributable to either the Non-Life or Life division. Group Functions includes the cost of departments fulfilling
+duties for the benefit of the whole Group, such as the costs for Group Internal audit, Group Chief Financial Officer
+functions (Group Tax, Group Accounting, Group Consolidation and Reporting), Group Chief Operations Departments
+functions (Group Legal, Group Communication, Group Human Resources) and Group Chief Risk Control Officer
+expenses (Group Actuarial, Group Risk Management, Group Prudential Affairs, Internal Model, Embedded Value).
+
+The Group organizes its operations around five regional management platforms, or “Hubs” located in Paris,
+Zurich/Cologne and London for Europe, Singapore for Asia and New York / Charlotte / Kansas City for the Americas Hub.
+Each of the Hubs has local, regional and Group responsibilities, with heads of each Hub reporting to the Group Chief
+Operations Department. Each Hub includes the following functions: a Legal and Compliance Officer, a Head of
+Information Systems, a Head of Finance, a Head of Human Resources and a Risk Manager. Hub shared service costs
+are allocated to the divisions based on allocation keys. For a description of the Hub structure, see Section 7.1.1.5 - The
+Hub Structure.
+
+SCOR Global P&C and SCOR Global Life, through their respective legal entities, are leading global reinsurers,
+executing an underwriting policy focused on profitability, developing value-added services and adhering to a cautious
+financial policy. As at 31 December 2014, the Group serves more than 4000 clients throughout the world. SCOR’s
+strategy of offering both Non-Life and Life products provides it with well-balanced diversification benefits (both in terms
+of risks and geography and markets), which represent a key cornerstone of its strategy.
+
+57
+
+
+--- Page 14 ---
+
+SCOR Global P&C carries out its operations through a European Company (Societas Europaea) incorporated in France,
+SCOR Global P&C SE, which has branches in Spain, Italy, Switzerland, the UK, Germany and Argentina and a network
+of dedicated subsidiaries, branches and representative offices in the UK, the Americas and Asia/Pacific, as well as
+composite subsidiaries and branches (which also operate in the Life division) in Russia, South Africa, China, Hong Kong
+and South Korea. SCOR Global Life also carries out its operations through a European Company (Societas Europaea)
+incorporated in France, through SCOR Global Life SE, which has branches in Germany, the UK, Italy, Spain, Sweden,
+Switzerland, Austria, the Netherlands, Canada, Asia and representative offices in the USA, Mexico, Taiwan and Israel,
+through SCOR Global Life Americas Holding in the US, which has a network of entities in North and South America,
+through SCOR Global Life Reinsurance Ireland in Ireland, through subsidiaries in Europe, Australia and in North and
+South America, and through composite subsidiaries and branches (which also operate in the Non-Life division) in Russia,
+South Africa, China, Hong Kong and South Korea.
+
+6.1.2.1 Non-Life reinsurance
+SCOR's Non-Life division is divided into four business areas:
+= Property and Casualty Treaties;
+= Specialty Treaties;
+= Business Solutions (large corporate accounts underwriting); and
+® Business Ventures and Partnerships.
+A. P&C Treaties
+SCOR's Property and Casualty Treaties business area underwrites proportional and non-proportional reinsurance
+treaties.
+Property
+
+SCOR's property treaties typically cover damages to the underlying assets (automobile and industrial and commercial
+lines of business) and direct or contingent business interruption losses caused by fire or other perils, including natural
+catastrophes.
+
+Casualty
+
+SCOR's casualty treaties typically cover original risks of general liability, products liability or professional indemnity.
+Accordingly, they include treaties covering motor liability and general third-party liability. Motor liability reinsurance
+covers property damage, bodily injuries and other risks arising from the coverage of both drivers and passengers in
+private vehicles and commercial fleets.
+
+B. Specialty Lines
+
+The Group’s main Specialty reinsurance activities include Credit & Surety, Inherent Defects, Aviation, Space, Marine,
+Engineering, Agricultural Risks and Alternative Solutions.
+
+SCOR underwrites these risks through proportional and non-proportional treaties as well as facultative reinsurance.
+Credit & Surety
+
+Under credit insurance, the insurer covers the risk of losses from the non-payment of commercial debts. Surety
+insurance is a contract under which a guarantor makes a commitment to a beneficiary to perform the obligation to
+ensure payment by or to pay the debt of the secured debtor. Political risk insurance covers the risk of losses due to
+measures taken by a government or similar entity which endangers the existence of a sales contract or commitment
+made by a public or private citizen of the country in which the covered operations are performed.
+
+Inherent Defects
+
+According to French, Italian and Spanish laws as well as laws in other jurisdictions, or by contractual obligation, inherent
+defects insurance must be purchased to cover major structural defects and collapse for a certain period, typically ten
+years after completion of construction.
+
+Aviation
+
+Aviation insurance covers damages caused to aircraft, injuries to persons transported and to third parties caused by
+aircraft or air navigation, as well as losses resulting from products manufactured by companies in the aerospace sector.
+
+Space
+
+Insurance for the space sector covers the launch preparation, launch, and the in-orbit life operation of satellites, primarily
+commercial telecommunication and earth observation satellites.
+
+Marine
+
+Insurance for shipping risks includes insurance for hull, cargo and liability for the ships and shipped merchandise as well
+as shipbuilding insurance. It also includes insurance for offshore oil and gas fixed and mobile units in construction and in
+operation.
+
+58
+
+
+--- Page 15 ---
+
+Engineering
+
+Engineering insurance, which is divided into Construction All Risks and Erection All Risks insurance, includes basic
+Property and Casualty coverage and may be extended to the financial consequences of a delay in start-up (advanced
+loss of profits) caused by losses indemnifiable under Property and Casualty coverage.
+
+Agricultural Risks
+
+The Group provides insurance/reinsurance solutions in the field of multiple peril crop, aquaculture, forestry and livestock
+insurance.
+
+Alternative Solutions
+
+To cope with the broader needs of reinsurance buyers in transferring risk, and to benefit from these changes by
+broadening its services to clients, the Group has developed within the SCOR Global P&C Division a dedicated
+competency center that provides insurance and corporate clients with a wider range of hybrid reinsurance solutions for
+
+the transformation, financing or transfer of risks. The Group is able to assist clients in their active and effective capital
+management.
+
+This new business unit, launched in May 2014, combines the division’s expertise in terms of Structured Risk Transfer
+(SRT), Alternative Risk Financing (ARF) and Insurance Linked Securities (ILS).
+
+C. Business Solutions (large corporate accounts underwritten essentially on a facultative reinsurance basis and
+occasionally as direct insurance)
+
+The Group's activity in the Business Solutions area covers all insurable risks of industrial groups and services
+companies. These risks are underwritten through facultative insurance and reinsurance contracts by SCOR's specialized
+teams deployed as an international network around two main business departments: “Natural Resources” and “Industrial
+& Commercial Risks.”
+
+Natural Resources
+
+Natural Resources provides coverage to midstream and downstream business (main business sectors being oil and gas,
+refining, petrochemicals, liquefaction, gasification, power generation and distribution, new energy sources and mining),
+and to upstream business (oil and gas exploration and production, offshore construction) and shipbuilding industrial
+groups and oil services companies.
+
+Industrial & Commercial Risks
+
+Industrial & Commercial Risks provides coverage to manufacturing and heavy industries (automotive, pulp and paper,
+aeronautics / defense, high tech) and finance and services (infrastructures, intellectual services, general contractors,
+distribution and trading).
+
+Business Solutions is aimed at risk managed enterprises and professional buyers seeking global risk financing solutions.
+The risks shared with the ceding and/or captive companies are high-value industrial or technically complex risks. In
+property and casualty lines, such as Property Damage & Business Interruption, Construction All Risks, Erection All Risks,
+Comprehensive General Liability, Product Liability or Professional Indemnity, the risks involve insured amounts which
+typically are beyond the ceding companies’ own means.
+
+D. Business Ventures and Partnerships
+
+SCOR's Business Ventures and Partnerships business area has historically included the provision of capital to third
+party businesses, including Lloyd’s syndicates. SCOR contributes to several Lloyds syndicates with various
+participations, including Channel 2015, for which SCOR is the sole capital provider.
+
+SCOR entered a joint-venture agreement with GAUM (Global Aerospace Underwriting Managers) and MDU (Medical
+Defence Union). The latter ended on the 31 March 2013.
+
+The Group also participates in insurance and reinsurance pools, the main of which are: La Réunion Aérienne, La
+Réunion Spatiale, Assuratome and Assurpol.
+
+6.1.2.2 Life Reinsurance
+
+SCOR Global Life division underwrites Life reinsurance business in the following business areas :
+= Protection
+= Financial Solutions
+= Longevity Solutions
+
+A. Protection
+
+Protection encompasses traditional Life reinsurance business on living and death benefits. Main risks undertaken are
+mortality, morbidity and behavioral risks for individuals and groups of individuals. Protection is predominantly
+
+(1) In the context of the Optimal Dynamics strategic plan, SCOR Global Life's products were grouped per business area, rather than the nine lines of business
+disclosed in the 2012 Registration Document and previous financial reporting
+
+59
+
+
+--- Page 16 ---
+
+underwritten in the form of proportional treaties (quota share, surplus basis or a combination of both). Quota share
+treaties include straight structures whereby SCOR Global Life’s exposure is identical to those of its clients, and risk-
+based premium structures whereby treaty conditions differ from those of the underlying policies. A minority of the
+portfolio is underwritten in form of non-proportional contracts: excess of loss per person, catastrophe excess of loss or
+stop loss.
+
+The Protection reinsurance market, as well as SCOR Global Life’s Protection portfolio, are characterized by the
+dominance of long-term contractual relationships. SCOR Global Life also writes short-term Protection business, in
+markets and lines in which this is a common practice.
+
+Protection covers the following products and risks in reinsurance arrangements:
+Mortality
+
+Mortality protection represents more than 60% of the SCOR Global Life portfolio based on gross written premiums as at
+31 December 2014. SCOR Global Life actively underwrites mortality risk in all the geographical markets it operates.
+
+In connection with the October 2007 acquisition of Converium, SCOR Global Life inherited certain retrocession liabilities
+with regard to Guaranteed Minimum Death Benefit "GMDB" rider options attached to variable annuity policies written in
+the US Business of this type is not within the usual scope of SCOR Global Life’s underwriting policy and these treaties
+are all in run-off.
+
+The reinsurance portfolios acquired in 2013 in the Generali U.S. purchase and in 2011 from Transamerica Re
+predominantly cover mortality risk.
+
+Disability
+
+Disability insurance mitigates the loss of income when the insured is totally or partially unable, by reason of sickness or
+accident, to follow his or her professional occupation or any occupation for which he or she is suited.
+
+Long-Term Care
+
+Long-Term Care (“LTC”) insurance covers policyholders unable to perform predefined activities of daily living, and as a
+result, needing constant assistance from another person.
+
+Critical Illness
+
+Critical Illness (“Cl”) insurance pays a lump sum benefit, to be used at discretion, if the insured person suffers from a
+serious condition and survives a defined period.
+
+Health
+
+Health insurance covers medical and surgical expenses incurred by the insured person.
+
+Personal Accident
+
+Personal Accident insurance pays a lump sum benefit if the insured person dies or suffers from a serious injury as a
+result of an accident.
+
+B. Financial Solutions
+
+Financial Solutions typically combine traditional Life reinsurance with financing components providing liquidity, balance
+sheet and/or income statement improvements to the client. This type of treaty is typically used by cedents to fund growth,
+stabilize earnings or optimize solvency (capital relief). Financial Solutions cover also traditional biometric risk.
+
+C. Longevity Solutions
+
+Longevity Solutions refer to products covering the risk of negative deviation from expected results due to the insured or
+annuitant living longer than assumed in the pricing of insurance covers provided by insurers or pension funds. Longevity
+Solutions cover traditional biometric risks.
+
+6.1.3 UNDERWRITING, DISTRIBUTION, CATASTROPHE RISK, CLAIMS AND RESERVES
+
+6.1.3.1 Underwriting
+
+Consistent with the Group's strategy of selective market and business division development, SCOR seeks to maintain a
+portfolio of business risks that is strategically diversified both geographically and by line and class of business. The
+Group's insurance risk exposure is also mitigated by diversification across a large portfolio of reinsurance contracts. The
+volatility of risks is also reduced by careful business selection, implementation of underwriting guidelines, the use of
+retrocession and other risk transfer arrangements and proactive claims handling as well as underwriting, claims and
+administration audits at ceding companies.
+
+SCOR's underwriting covers reinsurance in Non-Life and Life and occasionally direct insurance in Non-Life. Such
+underwriting is conducted through duly authorized subsidiaries and branches of the Group, as well as from “The Channel
+Managing Agency Limited”, which acts as Managing Agent for SCOR’s own Lloyd's syndicate, Channel 2015, with effect
+from 1 April 2014.
+
+60
+
+
+--- Page 17 ---
+
+Underwriting, actuarial, modeling Cat events, claims, accounting and other support staff are located in the Group's five
+Hubs as well as in local subsidiaries and branches. However, SCOR's overall exposure and control to particular risks
+and in particular geographic zones is centrally monitored thanks to a unique integrated Group IT system.
+
+Non-Life Business
+
+In order to mitigate its property exposure, the Group retrocedes a portion of the risks it underwrites. See Section 6.1.4
+Capital shield policy below for a description of the use of retrocession. SCOR's Non-Life retrocession mainly deals with,
+but is not limited to, natural catastrophes and large corporate risks for which the Group purchases protection beyond
+certain levels of frequency and/or severity of losses or impact of events. In particular, it has a global retrocession
+program, which is revised annually, and which provides partial coverage for catastrophic events, on an occurrence or
+annual aggregate basis. The retrocession program includes both traditional retrocession as well as the use of alternative
+risk transfer solutions (e.g., the multi-year securitization of catastrophic risk in the form of catastrophe bonds and the
+issuance of a new side car facility). See Section 6.1.4 Capital shield policy.
+
+SCOR's underwriting guidelines are more restrictive regarding certain areas with difficult or uncertain legal environments.
+
+The Property and Casualty Treaty underwriters manage client relationships and offer reinsurance support after a careful
+review and assessment of the cedents’ underwriting policy, portfolio profile, exposures and management procedures.
+They are responsible for writing treaty business as well as associated support on small and medium size facultative risks
+in their respective territories within the limits of their individually delegated underwriting authority and the scope of
+underwriting guidelines.
+
+The underwriting teams are supported by the SCOR Global P&C Underwriting Management function, located in the
+Group's Paris Hub and represented in Singapore's and Zurich/Cologne's Hubs. This function provides worldwide treaty
+and facultative underwriting guidelines, policies regarding the delegation of capacity, underwriting support to specific
+lines of business or individual risks when required, ceding company portfolio analysis and risk surveys and is responsible
+for monitoring and referral of non-standard business and for authorizing exceptions to the underwriting guidelines.
+
+The Property and Casualty Treaty and Specialty Lines underwriting teams are also supported by the SCOR Global P&C
+actuarial pricing function, headed from Zurich. This function is responsible for the pricing methods and tools to be
+applied by the pricing actuaries, who team up with underwriters and modelers by market or by lines of business.
+
+Most of SCOR's facultative underwriters work in the Business Solutions domain of SCOR Global P&C, which operates
+worldwide. This business area is dedicated to large corporate businesses and is geared to provide the clients of SCOR
+Global P&C with solutions for coverage of large conventional risks.
+
+Underwriting guidelines in place within SCOR Global P&C specify (i) the underwriting rules and principles to be complied
+with, (ii) underwriting capacities delegated to the underwriters in each of the markets and lines of business in which the
+Group operates, as well as (iii) the relevant maximum acceptable commitments per risk and per event. They are
+reviewed and updated annually by the Underwriting Management function and approved by the Chief Executive Officer
+and Chief Risk Officer of SCOR Global P&C. Any request for deviations from the underwriting guidelines is subject to
+special referral procedures at two key levels. At the first level, the request is submitted by the underwriting units to the
+Underwriting Management function, and where applicable, to the Legal Department and/or Finance Department. At the
+second level, for exposures exceeding certain thresholds or with specified characteristics, the request is submitted by
+the Underwriting Management function to the Group Risk Management function of SCOR, and to the Chief Executive
+Officer of SCOR Global P&C.
+
+Pricing guidelines and parameters are set to provide consistency and continuity across the organization but also to take
+into account differences between markets and lines of business as well as the geographical location of the client and the
+risks insured. Parameters are revised at least once a year to consider, as the case may be, the changing market
+conditions and environment. Contracts that meet certain risk thresholds are subject to mandatory peer reviews that have
+to be performed and documented before the pricing is completed. SCOR Global P&C employs a data system which
+allows management to monitor and review the results from the pricing tools.
+
+Underwriting cross-reviews are initiated by SCOR Global P&C Risk Management to evaluate the quality of underwriting,
+pricing and claims handling of particular business units or certain lines of business, to identify and assess risks, to
+evaluate the appropriateness and effectiveness of controls and to propose risk-management measures, including
+mitigating actions.
+
+Life Business
+
+SCOR Global Life’s core business is to reinsure underlying biometric risks, which are the risks related to human life
+conditions, e.g. in mortality, morbidity and longevity.
+As a reinsurer, SCOR Global Life is exposed to adverse developments in these biometric risks, to lapse risks, to anti-
+selection risks and to pandemic/epidemic risks.
+= Biometric risks are diversified on a geographic and a product basis. A significant part of the reinsured premium
+in respect of Disability, Long Term Care (LTC) and Critical Illness (Cl) products includes premium adjustment
+clauses. In the case of LTC, the premium adjustments are designed to offset potentially worsening incidence or
+improving longevity of disabled and active lives. In the case of Cl, premium adjustments mitigate potential
+
+61
+
+
+--- Page 18 ---
+
+negative impacts on future claims patterns due to a general deterioration in health and improved medical
+diagnosis.
+
+® Lapse risks are mitigated through appropriate reinsurance treaty clauses, as well as product, client and market
+diversification.
+
+=  Anti-selection risks are mitigated through careful product design and a well-defined medical and financial
+underwriting selection process.
+
+® Peak Mortality, Disability and Critical Illness risks are covered either by surplus per life retrocession programs,
+or in some cases, by excess of loss per life or per event retrocessional coverage. Pandemic risk exposure is
+mitigated by a risk transfer contract with Atlas IX Capital Limited (“Atlas IX") which provides SCOR Global Life
+with protection against extreme mortality events in the US.
+
+The underwriting of Life business within the Group is under the worldwide responsibility of SCOR Global Life. The clients
+are life, pension or accident and health insurance companies worldwide. They are served by SCOR's specialized
+underwriters and actuaries who are familiar with the specific features of the markets in which they operate, in particular
+with local lines of business and policy conditions, as well as the technical specifics such as mortality tables, morbidity
+incidence rates and persistency rates. In the Life underwriting process, consideration is typically given to the quality of
+the client's medical and financial underwriting standards, the target clientele of the ceding company, as well as past
+experience to the extent credible data is available.
+
+Life reinsurance treaties are underwritten by life reinsurance experts familiar with the specific features of their markets.
+The Life business is underwritten following internal underwriting and pricing guidelines.
+
+Underwriting and pricing guidelines defined by SCOR Global Life specify the underwriting rules and principles to be
+complied with, underwriting capacities delegated to the underwriters and pricing actuaries in each of the markets in
+which the Group operates, as well as maximum acceptable commitments per risk and per event. In particular, these
+guidelines specify the type and the terms and conditions under which business is considered as acceptable.
+Furthermore, they set out the retention of SCOR Global Life for various risks and types of covers. They are approved by
+the Chief Executive Officer, the Chief Actuary, the Chief Risk Officer and the Chief Financial Officer of SCOR Global Life.
+Business opportunities going beyond the stipulations of these guidelines are subject to a special referral procedure at
+two key levels in order to ensure that the business respects defined risk-adjusted return criteria and risk tolerance limits.
+These cases are examined at the SCOR Global Life level by the Life Actuarial and Risk Department, and where
+applicable, the Finance Department. These departments are located across Cologne and Paris. Cases which may have
+a significant impact on the balance sheet of the Group are additionally reviewed by the Group Risk Management function.
+Thresholds or conditions for a referral to Group Risk Management are defined in specific guidelines.
+
+In order to ensure that SCOR Global Life is continually kept up-to-date with biometric trends and scientific developments,
+SCOR Global Life uses the expertise of five dedicated Research & Development centers within the Life Actuarial & Risk
+Department to analyze and assess the key factors underlying mortality, longevity, LTC, policyholder behavior, Cl and
+disability risks. The SCOR Global Life Research & Development Centers provide recommendations for the
+implementation of the research results into the pricing, underwriting control and determination of exposure limits.
+
+6.1.3.2 Distribution by production source
+
+Reinsurance can be written through professional reinsurance brokers or directly from ceding companies. The
+involvement of a broker in the placement of a reinsurance contract is a decision belonging to the ceding company, which
+depends on local market practices, the cedent’s worldwide reinsurance market knowledge, the complexity of the risks
+the cedent intends to transfer and the corresponding available reinsurance capacity in the market, the cedent’s capability
+and resources to structuring a market submission data, placing risks and administrating the placements. In most of the
+cases, reinsurance programs are syndicated to several reinsurers, which follow a leader, and in some instances a co-
+leader.
+
+The relative amount of brokered and direct business written by the Group’s subsidiaries varies according to market and
+cedent practices.
+
+For the year ended 31 December 2014, Non-Life wrote approximately 58% of gross written premiums through brokers
+and 42% through direct business, while Life wrote approximately 8% through brokers and approximately 92% through
+direct business.
+
+For the year ended 31 December 2014, for Life the largest brokers SCOR wrote gross premiums written with were AON
+Benfield with approximately 3% and Willis with approximately 1%. For Non-Life, the largest brokers that the Group wrote
+gross premium with were AON Benfield with approximately 21% Guy Carpenter with approximately 15% and Willis Gras
+Savoye with approximately 10% of total gross written premiums in the Non-Life segment.
+
+The direct reinsurance market remains an important distribution channel for reinsurance business written by the Group.
+Direct placement of reinsurance enables SCOR to access clients who prefer to place their reinsurance partly or in totality
+directly with reinsurers based upon the reinsurer’s in-depth understanding of the ceding company’s needs.
+
+62
+
+
+--- Page 19 ---
+
+6.1.3.3 Claims
+Non-life
+
+The Group's P&C Claims & Commutations function, located in its five Hubs, is in charge of the implementation and
+overview of the overall claims handling policy for SCOR Global P&C, implementing worldwide control and reporting
+procedures and managing commutation of portfolios and commitments.
+
+The claims handling function is performed by the claims teams, located in Paris, New York, Zurich/Cologne, London and
+Singapore, which review, process and monitor reported claims. The P&C Claims & Commutations function supports and
+controls the day-to-day activity and takes over the direct management of large, litigious, serial and latent claims.
+Additionally, periodic audits are conducted on specific claims and lines of business, and claims processing and
+procedures are examined at the ceding companies’ offices with the aim of evaluating their claims adjusting process,
+valuation of case reserves and overall performance.
+
+When needed, recommendations are given to underwriters and local management. Technical and legal assistance is
+provided to underwriters before and after accepting certain risks.
+
+Life
+
+The Group's Life global claims department, located in Paris, is in charge of tasked with implementing the general claims
+handling policy for SCOR Global Life, as well as of worldwide control, reporting procedures and commutation
+management of claim portfolios. The claims handling function is performed by local claims teams, located among other
+cities in Paris, Charlotte, Kansas City, Zurich, London, Singapore and Cologne that review process and monitor reported
+claims. The Life Claims Department supports and controls the day-to-day activity and takes over the direct management
+of large, litigious, serial and latent claims. Additionally, periodic audits are conducted on specific claims and lines of
+business. Claims processing and procedures are examined at the ceding companies’ offices with the aim of evaluating
+their claims adjusting process, valuation of reserves and overall performance.
+
+When needed, recommendations are given to underwriters and local management. Technical and legal assistance is
+provided to underwriters before and after accepting certain risks.
+
+6.1.3.4 Catastrophe (cat) Risk and Exposure Controls
+
+SCOR manages its exposure to catastrophes through selective underwriting practices, especially by limiting its exposure
+to certain events in certain geographic zones, by monitoring risk accumulation on a geographic basis and by retroceding
+a portion of those risks to other selectively chosen reinsurers.
+
+Non-Life
+
+Catastrophe management is split into three sections under SCOR Global P&C: portfolio accumulation, optimization and
+procedures; research and development; and modeling in support of underwriting. Descriptive guidelines for each of the
+main business processes are available: “catastrophe methodologies”, “data quality & modeling”, “accumulation control”,
+“Cat pricing” and “system & processes”. For Cat pricing, a matrix organization described in the guidelines has been
+implemented in each Hub, distributing the responsibility of Cat pricing to the Cat modelers, the pricing actuaries or the
+
+underwriter. In addition, a system of Cat referrals has been introduced in excess of a given threshold.
+
+For all SCOR's property business, it evaluates the accumulations generated by potential natural events and other risks.
+Pursuant to the rules and procedures, Regional Managers from SCOR's natural catastrophes risks modeling team
+monitor the structure of the portfolio for each region or country and the data is consolidated under the supervision of the
+Head of natural catastrophes risks modeling.
+
+The Group tracks natural catastrophe accumulation (earthquakes, wind and flood perils...) for all exposed countries
+worldwide. Depending on the region of the world and the peril in question, it uses a variety of techniques to evaluate and
+manage its total exposure. The Group quantifies this exposure and monitors its risk tolerance in terms of a Probable
+Maximum Loss. It measures this risk metric, taking into account policy limits, as the probable maximum loss caused by a
+catastrophe affecting a geographic area, such as a storm, hurricane or earthquake, and occurring within a given return
+period. SCOR estimates that its probable maximum losses for catastrophes, before retrocession, come from windstorms
+in Europe, hurricanes in the US and Caribbean typhoons in Japan or from earthquakes in Japan or the US.
+
+The Group makes extensive use of proprietary external models from industry-leading catastrophe model suppliers,
+including Risk Management Solutions RiskLink® (“RMS”) and AIR Worldwide Catrader® (“AIR”). In addition, it has
+access to local cat model expertise for Australia from Risk Frontiers, a commercial provider of tools developed at
+Macquarie University. Access to multiple external models allows the Group to better appreciate the strengths and
+limitations of each model and make adjustments where appropriate, and it is well equipped with alumni from the main
+model providers.
+
+Since 2011, SCOR has operationally used the RMS modeling results format as its common framework for assessing
+accumulations of natural catastrophe risk, including catastrophe risk management controls (Capacity Monitoring) and
+provision of data to its internal capital models, and retrocession department.
+
+These tools enable the Group to quantify its exposure in terms of a probable maximum loss (“PML”) at various levels of
+probability for each peril and geographic location. The overall aggregate annual PML per peril, allowing for potential
+
+63
+
+
+--- Page 20 ---
+
+multiple events, provides the information required to determine the level of retrocession and other alternative risk
+transfer solutions (e.g., catastrophe bonds) that are needed to ensure that the net aggregate exposure is optimized for
+the group’s risk appetite and remains within predefined tolerance limits.
+
+The probabilistic catastrophe modeling approach captures the uncertainty related to the likelihood of a given event
+occurring (frequency uncertainty) as well as the uncertainty associated with the amount of loss, given that a particular
+event has occurred (severity uncertainty). A sound understanding of the uncertainties associated with the model’s key
+parameters is essential for the interpretation of the model outcome and thus for decision-making. The outcomes for each
+model describe a bandwidth of loss estimates and not a unique value. In order to identify and stress-test the key
+parameters, systematic sensitivity analyses are carried out.
+
+For peril or zones where neither internal nor external models are available, the following approaches are used:
+= Pricing is performed based on actuarial techniques using historical losses and other benchmarks.
+
+= Accumulations are performed either on a notional basis (i.e. sum of event limits for underwritten share), or on a
+“manual PML” basis, applying a mean damage ratio to the peak zone aggregates.
+
+This method is validated by the Research & Development Cat team, who performs comparative studies with other
+peril/zones of similar hazard and vulnerability characteristics.
+
+See Section 9 - Operating and Financial review for certain data regarding SCOR's catastrophe loss experience
+Life
+Accumulations of risk particularly exposed to catastrophes or other significant events in the Life business are regularly
+
+assessed in group-wide extreme scenarios. Every year, limits for the acceptance of specific catastrophe covers by
+market are reviewed taking into account the capacities obtained by the retrocession coverage purchased by the Group.
+
+SCOR is making use of the RMS model for infectious diseases in order to assess the exposure to catastrophe risk
+arising from global and regional pandemics. This exposure is monitored throughout the year against SCOR's defined risk
+limits and used for decisions on mitigating measures. Specifically designed retrocession programs aim at protecting its
+Life reinsurance business. One program protects assumed catastrophe excess of loss acceptances; the other protects
+the retained lines in respect of all other acceptances.
+
+Maximum underwriting capacities are defined to limit SCOR Global Life’s exposure on various types of treaties
+underwritten, proportional and non-proportional, covering individual or Group policies. These capacities are revised each
+year, taking into account the capacities obtained by the retrocession coverage purchased by the Group. These limits
+include: maximum commitment per life accumulated for all SCOR exposures, maximum annual commitments for non-
+proportional cover per life or per event, maximum commitment per country for non-proportional exposures by event.
+Aggregate portfolio exposures are continually monitored. Specialized information technology software, developed by
+SCOR allows an inventory of insured persons across SCOR Global Life's markets and is fed with single risk information
+as received by the client companies. Through this system, an accumulation control is carried out and risks under which
+the accumulated exposure exceeds SCOR Global Life's retention are identified and retroceded to a pool of
+retrocessionaires. The retention limits are revised regularly.
+
+6.1.3.5 Reserves
+
+The Non-Life and Life reserves adequacy are controlled on a quarterly basis by internal actuaries at division level as well
+at the Group level by the Group Chief Actuary who signs off on the reserving adequacy and reports to the Executive
+committee and to the Audit Committee.
+
+External consulting firms also review on a regular basis the Non-Life reserves. Life reserving assumptions are reviewed
+as well by an external firm in the framework of the embedded value calculation. If necessary, internal audits of its
+portfolios are performed.
+
+The Chief Reserving Actuaries of the divisions own the primary role to overview the reserves of their respective division,
+to assure consistency in the reserving methods and to enhance the reserving governance. The Group Chief Actuary
+controls the validation and testing of reserving tools, workflows, assumptions and processes.
+
+Centrally defined and tightly controlled reserving process, strong portfolio diversification, prudent reserving policy, sound
+reserving tools and, state of the art actuarial methods used by highly skilled professionals and high level of transparency,
+both internally and externally, tends to minimize the risk of inadequate reserves.
+
+However, the Group is subject to all of the factors of uncertainty mentioned above and, in consequence, to the risk that
+its reserves are inadequate compared to its liabilities.
+
+See Section 4.1.5 - If SCOR's reserves prove to be inadequate, its net income, cash flow and financial position may be
+adversely affected for further information on reserves.
+
+A. Non-Life business
+
+SCOR regularly reviews and updates its methods for determining outstanding claims reserves and IBNR Reserves.
+However, it is difficult to accurately value the amount of reserves required, especially in view of changes in the legal
+environment, which could affect the reserve development.
+
+64
+
+
+--- Page 21 ---
+
+When a claim is reported to the ceding company, its claims department establishes a reserve corresponding to the
+estimated amount of the ultimate settlement for the claim. The estimate is based on the cedent’s own methods of
+evaluation. The ceding company reports the claim and its suggested reserve amount to the Group entity with which it
+concluded its contract of reinsurance. The Group records the ceding company's suggested reserve and is free to
+establish greater or smaller reserves based on the review and analysis by the Group's claims division. Such greater or
+smaller potential reserves are based upon the consideration of many factors, including the level of the commitments,
+seriousness of the claims and the Group's assessment of the ceding company's claims' management.
+
+Conforming to applicable regulatory requirements and in accordance with industry practices, the Group maintains in
+addition to outstanding claims reserves, IBNR Reserves. These reserves represent:
+
+= the estimated final amount that may be paid by the Group on losses or events that have occurred, but are not
+yet reported to the ceding company or to the SCOR entity concerned; and
+
+= the estimated cost variation on claims already reported to the Group.
+
+In determining the amount of its reserves, the Group generally uses actuarial techniques that take into account
+quantitative loss experience data, together with qualitative factors, where appropriate. The reserves are also adjusted to
+reflect reinsurance treaty terms and conditions, the variety of claims processing that may potentially affect the Group's
+commitment over time. With the exception of the reserves for worker's compensation in the USA most of the reserves of
+Commercial Risk Partners ("CRP"), the former Bermudan entity of the Group now in run-off and merged within GSNIC,
+which are discounted pursuant to American and Bermudan regulations, and French motor annuities, the Group does not
+discount Non-Life reserves.
+
+A table showing historical changes in reserves for Non-Life claims is provided in Section 20.1.6 - Notes to the
+consolidated financial statements, Note 16 — Net Contract liabilities.
+
+The Group continues to pursue the active commutations policy of its portfolios initiated in 2003, the main goals being to
+reduce the volatility of claims reserves, to reduce the administrative costs particularly of the oldest reserves, and to allow
+the reallocation of capital. This policy will be continued by focusing efforts on the US run-off activities, business exposed
+to asbestos and pollution risks and some treaties written by the former Converium company acquired by SCOR in 2007.
+
+B. Life business
+
+For SCOR’s Life business, it is required to maintain adequate reserves to reflect the liability for future claims and benefit
+payments resulting from life reinsurance treaties, mainly mathematical reserves and claim reserves for losses.
+
+The mathematical reserves are generally calculated as the present value of projected future payments to cedents less
+the present value of projected premiums still payable by cedents. The calculation includes assumptions relating to
+mortality, morbidity, disability, lapse and expected future interest rates.
+
+The mathematical reserves are established on initial recognition of a contract on the basis of the Group's best estimates’
+assumptions and allow for an adequate safety margin for the risks of change, error and random fluctuation. They are
+subject to a liability adequacy test.
+
+In determining its best estimates, the Group takes into consideration its past experience, current internal data, external
+market indices and benchmarks and other relevant information. The contracts’ liabilities established by the Group with
+respect to individual risks or classes of business may be greater or less than those established by ceding companies
+due to the use of different mortality tables or other assumptions.
+
+Claim reserves for losses and claims settlement expenses are recognized for payment obligations from reinsurance
+losses that have occurred but have not yet been settled. They are recognized under reserves for reinsurance losses
+reported before the reporting date and reserves for reinsurance losses that have already been incurred but not yet
+reported (IBNR). SCOR regularly reviews and updates its methods for determining outstanding claims reserves and
+IBNR Reserves.
+
+A table showing changes in the mathematical reserves in Life reinsurance is provided in Section 20.1.6 - Notes to the
+consolidated financial statements, Note 16 — Net Contract liabilities.
+
+As a consequence of the uncertainties described above regarding the correct reserving of risks and their annual revision
+in Life and Non-Life, there can be no certainty that the Group will not have to increase its reserves in the future, or that
+the reserves constituted by the Group will be sufficient to meet all its future liabilities, which could materially impact its
+current and future revenues, net income, cash flow, financial position, and potentially, the SCOR share price.
+
+6.1.4 CAPITAL SHIELD POLICY
+
+Reinsurers typically purchase reinsurance to cover their own risk exposures. Reinsurance of a reinsurer’s business is
+called retrocession. SCOR retrocedes a portion of the risks it underwrites in order to limit its exposures and losses, and it
+pays premiums based upon the risks and exposures of its facultative and treaty portfolios, subject to such retrocession
+cover. Retrocession cover is subject to collectability in all cases where the original business underwritten suffers from a
+loss that falls into the retrocession contractual scope. SCOR remains primarily liable to the direct insurer on all risks
+reinsured although the retrocessionaire is liable to the Group to the extent of the cover limits purchased. SCOR monitors
+the financial condition, including ratings, of its retrocessionaires on an ongoing basis. The financial condition is
+
+65
+
+
+--- Page 22 ---
+
+monitored upon receipt of any information on retrocessionaires and automatic feeding of retrocessionaires rating on a
+quarterly basis, paying particular attention to the retrocessionaires’ default risk in the treaty renewal period. The Group
+meets with the security departments of large reinsurance brokers at least twice a year as part of this monitoring. It also
+analyzes external studies prepared by the security departments of these reinsurance brokers. It reviews its retrocession
+arrangements periodically, to ensure that they fit closely to the development of its business, and revise its global
+retrocession program annually. Furthermore, to reduce the credit risk arising from its retrocessionaires, SCOR requests
+that certain of its retrocessionaires provide that all or a portion of the receivables from its retrocession contracts be
+supported by collateral (cash deposits, letters of credit, pledging of securities etc.) in its favor.
+
+For further information see Section 4.1.6 - SCOR may be adversely affected if its cedents, retrocessionaires, insurers or
+members of pools in which it participates do not respect their obligations and Section 4.1.14 - SCOR is exposed to
+losses due to counterparty default risks or credit risks.
+
+Retrocession procedures are centralized in the retrocession function of the Non-Life and Life divisions. The level of
+retrocession is selected each year to ensure that SCOR's retained risk profile respects the specific Group risk tolerance
+limits, to help achieve its return on capital and solvency objectives. The Group utilizes a variety of retrocession
+agreements with non-affiliated retrocessionaires to control its exposures to large property losses. In particular, it has
+implemented an overall program set in place on an annual basis that provides coverage for a series of major
+catastrophic events within one occurrence year. A major event is likely to be a natural catastrophe such as an
+earthquake, a flood, a windstorm, a hurricane or a typhoon in a region where SCOR has major aggregate exposures
+stemming from the business written.
+
+SCOR's Capital Shield Policy includes traditional retrocession as well as the use of alternative risk transfer solutions
+(e.g., the multi-year securitization of catastrophic risk in the form of catastrophe bonds) and contingent capital facilities,
+which are designed as tools of last resort. See below for a description of the securitization of catastrophic risk, the
+Mortality risk transfer contract and the sidecar collateralized with contingent capital facilities. The credit risk that SCOR
+may be exposed to through these alternative risk transfer solutions can be more limited than the credit risk related to
+traditional retrocession arrangements because alternative retrocession is usually fully collateralized. Although some
+traditional retrocessions are also collateralized, the credit risk associated with it depends on the retrocessionaire’s rating.
+See Section 4.1.15 — SCOR is exposed to the risk of no longer being able to retrocede liabilities on economically viable
+terms and conditions and Section 4.1.2 - SCOR is exposed to losses from catastrophic events for more information on
+the risks related to the retrocession.
+
+An analysis of the share of retrocessionaires in contract liabilities by rating of the retrocessionaires and collateral from
+retrocessionaires in favor of SCOR at 31 December 2014 and 2013 is presented in Section 20 — Financial information
+concerning the issuer's assets and liabilities, financial position and profits and losses, Note 16 — Net Contract liabilities
+and Note 21 — Net results of retrocession.
+
+Atlas V, VI, Vil - Catastrophe Bonds Special Purpose Vehicles
+
+The Group seeks to reduce its dependence on traditional retrocession and diversify its strategy in light of a potentially
+continued volatile retrocession market by using alternative risk transfer solutions, which includes the securitization of
+catastrophic risk in the form of catastrophe bonds. Accordingly, on 19 February 2009, three multi-year property
+catastrophe agreements were concluded between SCOR and Atlas V Capital Limited (“Atlas V") and provided the Group
+with additional protection of USD 200 million for exposures to earthquakes and hurricanes in the US and Puerto Rico.
+Events were covered for the risk period from 20 February 2009 to 19 February 2012.
+
+On 9 December 2009, SCOR completed its retrocession programs with EUR 75 million Atlas VI transaction which
+provided EUR 75 million of protection against European windstorms and Japanese earthquakes risks until 31 March
+2013.
+
+On 9 December 2010, SCOR placed a catastrophe bond, Atlas VI Capital Limited Series 2010-1, which provided the
+Group with EUR 75 million of protection against European windstorms and Japanese earthquakes for a risk period
+extending from 10 December 2010 to 31 March 2014.
+
+On 12 December 2011 SCOR placed a catastrophe bond, Atlas VI Capital Limited Series 2011-1 and 2011-2, which
+provides the Group with USD 270 million of protection against US Hurricanes and Earthquakes and EUR 50 million of
+protection against European windstorms, for a risk period extending from 13 December 2011 to 31 December 2014 for
+the US series and 31 March 2015 for the European series.
+
+This transaction succeeded Atlas V Capital Limited which provided similar geographical cover as Series 2011-1 for an
+amount of USD 200 million.
+
+Atlas V & VI are special-purpose vehicles incorporated under the laws of Ireland and their notes are placed with various
+institutional investors. In accordance with IAS 39 “Financial Instruments recognition and measurement”, due to the
+absence of an ultimate net loss clause, contracts concluded between SCOR and these vehicles have been recognized
+as derivative instruments. They are considered as balance sheet protection (See Section 20.1.6 — Notes to the
+consolidated financial statements, Note 8 — Derivative instruments).
+
+66
+
+
+--- Page 23 ---
+
+On 1 November 2012, SCOR successfully placed a catastrophe bond, Atlas Reinsurance VII Limited, which provides the
+Group with twofold protection of USD 60 million (“Class A Notes”) against US hurricanes and earthquakes, and EUR 130
+million (“Class B Notes”) against European windstorms, for a risk period extending from 1 January 2013 to 31 December
+2015.
+
+Atlas Reinsurance VII Limited is an Irish reinsurance vehicle. Aon Benfield Securities Inc., Natixis and BNP Paribas
+managed the transaction and the book on the deal. Standard & Poor's rates Atlas VII Class A Notes at BB-, and Atlas VII
+Class B Notes at BB.
+
+The loss payments covered by the Class A Notes are based on market share factors applied to the market insured loss,
+as reported by PCS for the US on an annual aggregate basis. Class B Note losses are covered on per-occurrence basis,
+using the PERILS index. These Atlas VII catastrophe retrocession agreements have been accounted for as reinsurance
+contracts in 2013 (See Section 20.1.6 — Notes to the consolidated financial statements, Note 1 (N) Accounting principles
+and methods specific to reinsurance activities).
+
+Atlas IX - Mortality Risk Transfer Contract
+
+On 11 September 2013, SCOR Global Life entered into a risk transfer contract with Atlas IX Capital Limited (“Atlas 1X”),
+providing the Group with protection against extreme mortality events in the US, such as pandemics, natural catastrophes
+and terrorist attacks. The risk transfer contract provides USD 180 million of extreme mortality protection, for a risk period
+extending from 1 January 2013 to 31 December 2018.
+
+The risk transfer contract is based on a US population mortality index that has been weighted by age and gender in
+order to reflect SCOR Global Life’s portfolio in the US.
+
+According to the structure of the arrangement, a payment will be triggered if, at any time during the risk period, the
+observed index value exceeds the defined attachment point of 102%. At any index level between the attachment point
+and the exhaustion point of 104%, Atlas IX Capital Limited will pay to SCOR a pro-rata amount of the notional USD
+amounts.
+
+Amounts are recorded in the balance sheet representing the derivative asset recognized at fair value through P&L and
+other liabilities representing the value of interest payments (See Section 20.1.6 — Notes to the consolidated financial
+statements, Note 8 — Derivative instruments).
+
+Atlas X - Reinsurance Limited
+
+On 6 January 2014, SCOR announced having successfully placed a fully collateralized sidecar, Atlas X Reinsurance
+Limited (“Atlas X”). It provides the Group with an additional three-year capacity of USD 55.5 million from a new panel of
+investors. This is in line with SCOR’s policy of pooling in its capital shield all the available capital protection tools, as set
+out in its new strategic plan “Optimal Dynamics”.
+
+Atlas X is an Irish-domiciled special purpose reinsurance vehicle. Atlas X and SCOR Global P&C SE have entered into a
+quota share retrocession agreement, effective 1 January 2014, under which Atlas X reinsures a proportional share of
+SCOR's diversified property catastrophe portfolios in specific countries. This agreement is accounted for as a
+reinsurance contract in 2014.
+
+Atlas IX - Catastrophe bond
+
+Subsequent to 31 December 2014, SCOR has sponsored a new catastrophe bond, Atlas IX Series 2015-1, which will
+provide the Group with multi-year risk transfer capacity of USD 150 million for US Named Storm and US and Canada
+Earthquake events. This transaction replaces the US tranches of Atlas VI Series 2011-1, which matured on 8 January
+2015. The risk period for Atlas IX 2015-1 runs from 11 February 2015 to 31 December 2018. The instrument will be
+accounted for as a derivative instrument.
+
+Contingent capital facility
+
+On 20 December 2013, SCOR put in place a new contingent capital facility with UBS providing the Group with EUR 200
+million coverage in case of extreme natural catastrophe or life events. In addition, subject to no drawdown having
+already been conducted under the facility, if the price of SCOR shares fall below EUR 10 an individual tranche of EUR
+100 million will be drawn down out of the EUR 200 million facility. This equity line facility replaced, as at 1 January 2014,
+the former EUR 150 million contingent capital facilities which came to an end on 31 December 2013. See Section 20.1.6
+- Notes to the consolidated financial statements, Note 8 - Derivative instruments - Contingent capital facility.
+
+6.1.5 INVESTMENTS
+
+Fixed income investments are managed by SCOR Global Investments or by external managers monitored by SCOR. In
+all cases, investment guidelines are provided to managers and strict monitoring is carried out over the global portfolio by
+the respective Group entities. The tactical allocation of the global portfolio is defined by the Group Investment Committee
+which meets each quarter at least. It is chaired by the Group’s Chief Executive Officer and is composed of the Group
+Chief Financial Officer, the Group Chief Risk Officer, the Chief Economist, the Chief Executive Officer of SCOR Global
+
+67
+
+
+--- Page 24 ---
+
+P&C and the Chief Executive Officer of SCOR Global Life, the Chief Executive Officer of SCOR Global Investments and
+other representatives of SCOR Global Investments.
+
+The Group has a prudent investment policy and put great importance on several selection criteria including internal
+assessments, the rating provided by the rating agencies to the issuer and the liquidity of the securities purchased.
+
+Interest rate risk is managed within the Group primarily at two levels. At the level of each entity, the Group takes into
+account the regulatory and accounting constraints. At the Group level, SCOR reviews its consolidated investment
+portfolios in order to identify the overall level of risk and return. It uses analytical tools which guide both its strategic
+allocation and local distribution of assets. Sensitivity to changes in interest rates is generally analyzed on a weekly basis.
+
+The Group equity selection is predominantly based on a bottom up fundamental analysis with the goal to develop a
+diversified portfolio of stocks, ETF, mutual funds and convertible bonds. Due to inherent higher volatility of equities, this
+asset class (direct positions and mutual funds) is monitored on a daily basis, facilitating quick arbitrage or portfolio re-
+allocation decisions. On a Group level, the equity exposure is decided and reviewed at least quarterly by the Group
+Investment Committee. The equity risk is also controlled by the definition of maximum exposures per stock or mutual
+fund and is reviewed regularly (e.g., exposure to large-cap stocks will generally be greater than exposure to mid-cap
+stocks). The control ratios on mutual funds are also reviewed regularly, based on the mutual fund’s holdings.
+
+At 31 December 2014, SCOR’s total investments and cash were EUR 25,837 million (EUR 23,786 million as at
+31 December 2013). The 2014 increase in total investments and cash as compared to 2013 was mainly due to foreign
+exchange movements and the investment of the Group’s strong operating cash flows.
+
+The portion invested in equities increased from EUR 1,056 million at 31 December 2013 to EUR 1,143 million at
+31 December 2014 as a result of tactical allocation. Most of the equity investments were in European companies with
+large market capitalization. The portion invested in fixed income investments increased from EUR 11,380 million at 31
+December 2013 to EUR 13,991 million at 31 December 2014. As set forth in “Optimal Dynamics”, SCOR progressively
+and selectively increased the duration of its fixed income portfolio while maintaining a strong focus on the financial cash
+flows to reinvest in the event of a sudden change in the economic and financial environment, while seizing market
+opportunities. The outlook for the world economy in 2015 and beyond continues to be extremely uncertain, with various
+possible future outcomes (e.g., low growth, inflation regime, deflation or a progressive or sudden rise in interest rates).
+SCOR's investment strategy is designed to immunize the Group as much as possible from the negative consequences
+of these shocks.
+
+The duration of SCOR's fixed income portfolio including short-term investment increased from 3.4 years at 31 December
+2013 to 4.0 years at 31 December 2014.
+
+In terms of credit quality, despite the downgrade of several sovereign and private issuers, the Group maintained the
+quality of its fixed income portfolio including short-term investments, to a high level with an average rating of "AA-" as at
+31 December 2014, the same as last year. In this Registration Document, when the Group refers to the ratings of
+securities held in its investment portfolio, or the counterparty credit rating of the issuers of such securities, it uses an
+average of available ratings of the relevant securities and/or issuer published by the applicable nationally recognized
+Statistical rating organizations.
+
+SCOR's total exposure to government bonds and assimilated in its investment portfolio was EUR 5,364 million at
+31 December 2014, (compared to EUR 4,449 million at 31 December 2013) of which EUR 1,645 million was invested in
+government bonds of countries within the EU (EUR 1,709 million at 31 December 2013), primarily Germany, France, the
+Netherlands and the UK. As at 31 December 2014, SCOR had no government bonds exposure to Greece, Ireland,
+Portugal, Hungary, Spain or Italy.
+
+SCOR's total exposure to covered and agency MBS in its investment portfolio was EUR 1,940 million at
+31 December 2014 (EUR 1,507 million at 31 December 2013). SCOR's total exposure to corporate bonds in its
+investment portfolio was EUR 5,674 million at 31 December 2014 (EUR 4,609 million at 31 December 2013), of which
+exposures to Greece, Ireland, Italy, Portugal, and Spain was EUR 180 million (EUR 159 million in 2013), primarily in Italy.
+SCOR's total exposure to structured and securitized products in its investment portfolio was EUR 1,013 million at
+31 December 2014 (EUR 815 million at 31 December 2013).
+
+The portion invested in real estate investments decreased from EUR 861 million at 31 December 2013 to
+EUR 845 million at 31 December 2014.
+
+The liquidity, defined as cash, cash equivalent, short-term government bonds with maturities above three months and
+below twelve months and bank overdrafts, has decreased from EUR 2,120 million at 31 December 2013 to EUR 940
+million at 31 December 2014.
+
+For further detail on the investment portfolio for the years ended 31 December 2014 and 2013 see Section 20.1.6 -
+Notes to the consolidated financial statements, Note 6 - Insurance Business Investments. For a table summarizing the
+investment income of SCOR for the years ended 31 December 2014, 2013 and 2012 see Section 20.1.6 - Notes to the
+consolidated financial statements, Note 20 — Investment income.
+
+68
+
+
+--- Page 25 ---
+
+Consolidated Investments portfolios
+
+The following table details the distribution by category of investment of SCOR's total investments and cash, by net
+carrying value:
+
+As at December 31
+2013 2012
+In EUR In EUR
+million million
+
+Real estate investments
+
+Fair value though income equity
+
+investments 417 1.6% 322 1.4% 160 0.7%
+
+INCOME i De ON AT 02% 5B 0.2%
+Loans and receivables (excluding
+
+04% 606 2.8%
+3.3% 1,514 6.4%
+i 25,837 100% 23,786 100%
+
+Cash and cash equivalents 6.5%
+100%
+See Section 20.1.6 — Notes to the consolidated financial statements, Note 6 — Insurance Business Investments for a
+breakdown of estimated fair values and unrealized gains and losses of fixed income investments by major type of
+
+security, including fixed income securities and available for sale as at 31 December 2014, 2013 and 2012.
+
+6.2 Principal markets
+
+SCOR is characterized by its strategic positioning aimed at underwriting risks so as to diversify exposure. To this end,
+the Group seeks to preserve:
+
+= The diversification of its business by maintaining a broadly balanced business division split between Life and
+Non-Life reinsurance. The portfolio business volume split for the year ended 31 December 2014 was
+approximately 56% for Life reinsurance and 44% for Non-Life reinsurance based on gross written premiums.
+
+= The geographic diversification of the Group's business by:
+- operating in a large number of countries, both mature and emerging;
+- maintaining its policy of positioning itself in strong-growth markets as Asia/Pacific and Latin America;
+- operating as a mixed Non-Life and Life reinsurer in China based on the license received in 2011,
+enabling SCOR to add Life & Health reinsurance services to the existing Non-Life activities, and;
+The diversification of underwritten risks by business areas in Life reinsurance (Protection, Financial Solutions,
+Longevity) and in Non-Life reinsurance (Property and Casualty Treaties, Specialty Treaties, Business Solutions
+
+(large corporate accounts underwriting essentially on a facultative business/occasionally direct insurance) and
+Business Ventures and Partnerships)
+
+69
+
+
+--- Page 26 ---
+
+6.2.1 BREAKDOWN OF GROSS PREMIUMS BY DIVISION
+
+In EUR mi 2014 2013
+By ion
+SCOR Global P&C 4985 44% 4848 A 49% |
+SCOR Global Life 381 56% 405 53% 51%
+TOTAI 11,316 100% 10,253 100% 100%
+By su vision
+Non Life reinsurance
+
+__ Treaties 2,709 55% 2,623 54% 2,502 54%
+
+"Specialties 1,036 1,030
+
+Joint-Ventures &
+
+Partnerships 576 12% 560 12% 597 13%
+TOTAL SCOR Global P&C 4,935 100% 4,848 100% 4,650 100%
+Life reinsurance
+
+Protection 5,088 80% 4,407 82% 4,255 88%
+Financial Solutions 1,047 16% 863 16% 555 12%
+Longevity 246 4% 135 2% 54 -
+TOTAL SCOR Global Life 6,381 100% 5,405 100% 4,864 100%
+
+See Section 20.1.6 - Notes to the consolidated financial statements, Note 2 — Segment information, for further detail on
+the results of the divisions.
+
+6.2.2 DISTRIBUTION BY GEOGRAPHIC AREA
+
+In 2014, SCOR generated approximately 42% of its gross written premiums in EMEA (2013: 47%), with significant
+market positions in France, Germany, Spain and Italy, 43% of its gross written premiums in the Americas (2013: 39%)
+and 15% of its gross written premiums in Asia (2013: 14%).
+
+The following table shows the breakdown by gross volume of Life and Non-Life premiums written by geographic area
+based on the country in which the ceding company operates for treaty business and location of the insured for facultative
+business:
+
+Total SCOR Global Life SCOR Global P&C
+In EUR million 2014 2013 2012 2014 2013 2012 2014 2013 2012
+EMEA i(é4 754 4,792 4,568 2,103 2,068 1,954 2,651. 2,724 2,614 -
+Americas 4,853 4,007 3,697 462 1,355. 1,263 235 _
+Asia 1,709 1,454 1,249 448 929 861 801
+Total 11,316 10,253 9,514 6,381 5,405 4,864 4,935 4,848 4,650
+
+6.3 Extraordinary events influencing the principal
+business and markets
+
+Please refer to http://www.scor.com/en/investors/ratings.html for a summary of SCOR's ratings.
+On 20 August 2014, Fitch has raised to “positive” the outlook on the “At” rating of SCOR SE and its main subsidiaries to
+reflect, according to Fitch, “SCOR’s improved profitability, strong solvency and financial leverage for its risk profile”.
+
+On 21 November 2013, Standard & Poor's raised the outlook on the "A+" rating of SCOR SE and its main subsidiaries to
+"positive" as, according to S&P's statement, "capital and earnings expected to rise due to very strong ERM".
+
+On 5 June 2012, Standard & Poor's upgraded to "A+" from "A" the insurance financial strength ratings (IFSR) and long-
+term counterparty credit of SCOR SE (SCOR) and various guaranteed subsidiaries. All ratings have a "stable outlook".
+On 9 May 2012, Moody's Investors Service upgraded the insurance financial strength ratings (IFSR) of SCOR SE
+(SCOR) and various guaranteed subsidiaries to A1 from A2, and SCOR's subordinated debt rating to A3 from Baa’. All
+ratings have a "stable outlook".
+
+On 2 May 2012, A.M. Best upgraded the Issuer Credit Ratings (ICR) of SCOR SE and its main subsidiaries from "a" to
+"at". They also affirmed the Financial Strength Ratings of "A" (Excellent). The outlook for all ratings is stable.
+
+
+--- Page 27 ---
+
+On 15 March 2012, Fitch Ratings upgraded SCOR's Insurer Financial Strength (IFS) ratings and Long-term Issuer
+Default Ratings (IDRs) from “A” to “A+”.
+
+6.4 Dependency of the issuer with respect to patents
+or licenses, industrial, commercial or financial
+contracts and new manufacturing processes
+
+Please refer to Section 4.1.1 - SCOR is exposed to diverse risk factors in the Non-Life and Life reinsurance businesses,
+4.1.6 — SCOR may be adversely affected if its cedents, retrocessionaires, insurers or members of pools in which it
+participates do not respect their obligations, 4.1.10 — A significant portion of SCOR's contracts contains provisions
+relating to financial strength which could have an adverse effect on its portfolio of contracts and its financial position,
+4.1.11 — Operational risks, including human errors or cyber risks, are inherent to SCOR’s business, 4.2.1 - SCOR faces
+risks related to its fixed income investment portfolio, 4.2.2 - SCOR faces risks related to its equity-based portfolio, 4.3 —
+Liquidity risk, 4.6 — Insurance of specific operational risks (excluding reinsurance activity), 11- Research and
+development, patents and licenses.
+
+6.5 Information on SCOR’s competitive position
+
+SCOR competes for business in the European, American, Asian and other international markets with numerous
+international and domestic reinsurance and insurance companies, some of which have a larger market share than its
+own, greater financial resources and, in certain cases, higher ratings from the rating agencies. Competition in the types
+of reinsurance and insurance that the Group underwrites is based on many factors, including financial strength as
+perceived by the rating agencies, customers and their brokers, underwriting expertise, reputation and experience in the
+lines of reinsurance and insurance written, country of operation, premiums charged, the quality of the proposed
+reinsurance structures, the services offered and the speed at which claims are paid.
+
+SCOR’s competitors include independent and state-owned reinsurance companies, subsidiaries or affiliates of
+established worldwide insurance companies, and reinsurance departments of certain primary insurance companies.
+Among the Group’s major competitors there are European reinsurers (for example, Swiss Re, Munich Re and Hannover
+Re) and US/Bermudian reinsurers (for example, Partner Re, RGA, Ace, Axis Capital, Transatlantic Re, Odyssey Re,
+General Re and Everest Re). Also Lloyd’s of London is recognized as a major competitor.
+
+SCOR SE and its consolidated subsidiaries has been the world’s 5" largest reinsurer “ in 2014 and 2013, serving more
+than 4,000 clients.
+
+6.5.1 NON LIFE REINSURANCE
+
+SCOR Global P&C continued to strengthen its competitive position during the January renewals 2014, both with its
+existing clients and with new cedents. SCOR Global P&C managed to grow gross premiums by 5% during the January
+2014 renewals, to EUR 3.4 billion. .
+This continued footprint expansion of SCOR Global P&C has been achieved while maintaining expected net technical
+profitability stable overall, thanks to its highly diversified portfolio, as shown in the following key performance indicators:
+™ Quasi-stable prices, at -0.2% on average, with variations in primary insurance prices largely compensating
+those of reinsurance prices;
+
+® Astable expected return on risk-adjusted allocated capital;
+™ Better than expected conditions on the retrocession market, generating savings representing a 0.6% positive
+impact on the combined ratio with slightly improved cat coverage. This nearly neutralized an expected increase
+in the gross underwriting ratio of 0.9%;
+™ The projected net combined ratio of the contracts written in the January 2014 renewals was expected to
+remain flat compared to the January 2013 renewals.
+As anticipated and communicated during the 2013 annual Monte-Carlo conference, the January 2014 renewals were
+characterized by a challenging market environment with:
+= Anumber of large and even mid-size insurers reconsidering their protection strategies and reinsurance buying
+policies, and restructuring their reinsurance programs;
+
+(1) By Net Reinsurance premiums written, source: “S&P Global Reinsurance Highlights 2014" (excluding Lloyd's of London)
+
+71
+
+
+--- Page 28 ---
+
+= The reinsurance market witnessing a tiering of players, to the benefit of the larger and most diversified ones,
+operating as true multi-liners in terms of pricing and underwriting capabilities, with a global approach to client
+relationships.
+In this context, SCOR Global P&C has been successful in expanding its franchise and crystalizing new business
+opportunities, while keeping a disciplined underwriting approach, pushing back unsatisfactory terms & conditions and
+accepting the non-renewal of underpriced business.
+The premiums up for renewal at 1 January represent 71% of the total annual volume of treaty premiums and are
+distributed between P&C Treaties (72%) and Specialty Treaties (28%).
+
+The main business line developments at the 1 January 2014 renewals were as follows:
+
+m= For P&C Treaties: gross premiums increased by 6% at constant exchange rates, to EUR 1.927 billion, of which
+4 percentage points relate to the renewal of the large quota share deals in Asia.
+SCOR Global P&C continued to diversify its portfolio towards Asia (32% growth), this region now representing
+19% of the P&C Treaty portfolio. In all regions, the growth was accompanied by active portfolio management
+and a successful handling of clients’ program restructurings. The global insurers’ initiative is bearing fruit, with
+SCOR achieving growth from this client base despite these clients restructuring and increasing their retentions.
+m= For Specialty Treaties: gross premiums increased by 4% at constant exchange rates, to EUR 724 million, of
+which 2 percentage points relate to the renewal of the large quota-share deals in Asia.
+Some segments have benefited from relatively better market conditions, leading to a 6% premium increase in
+Marine & Energy and a 4% increase in Engineering. The US cat segment represented only 2% of the overall
+P&C book to be renewed, and witnessed 6% growth thanks to increased shares with large national, multi-
+national and global insurers, more than compensating the reductions on the regional book where pricing and
+general conditions often viewed as unsatisfactory.
+During the April 2014 renewals, SCOR Global P&C recorded premium growth of 8.5% at constant exchange rates with
+regard to the EUR 318 million of premiums up for renewal at 1 April 2014. The premiums up for renewal at 1° April
+represented around 10% of the total annual volume of treaty premiums, with the main countries renewing being Japan,
+India and the US.
+SCOR Global P&C confirmed its leading position in key markets such as Japan and India, achieving strong premium
+growth and overall expected profitability well within targets.
+The premium income growth bears witness to the depth and breadth of the SCOR Global P&C franchise in Asia-Pacific,
+both in mature and emerging economies, globally across Treaty P&C business and Treaty Specialty lines:
+= in Japan, SCOR Global P&C managed to maintain the stability of its P&C Treaty book of business in an
+otherwise shrinking reinsurance market, characterized by reduced cession levels and the unification of
+reinsurance programs following mergers and acquisitions realized on this market;
+= in India, SCOR Global P&C reaped the fruits of a strong presence on this market, providing a full range of
+services and engaging in genuine partnerships with cedents. This enabled SCOR Global P&C to seize
+meaningful opportunities generally speaking, and more specifically in Specialty lines such as Agriculture,
+Credit & Surety.
+The expected technical performance measured in terms of gross underwriting ratio deteriorated by just under 2
+percentage points compared to April 2013, while return on allocated capital deteriorated by just under 3 percentage
+points. The expected profitability trend observed in April 2014 was largely driven by the Japanese market, where non-
+proportional prices in the Property CAT segment returned to their pre-Tohoku (2011) levels. Excluding the price
+reductions affecting the non-proportional Property CAT segments, the overall price level was broadly stable.
+
+Looking at the January to April 2014 period versus the same period in 2013, the expected gross underwriting ratio
+increased by 1 percentage point, while the net underwriting ratio was expected to benefit from savings achieved in the
+retrocession program, as announced in January. The return on allocated capital was nearly stable. The expected
+profitability of the overall book renewed in April remained well within SCOR Global P&C targets. Given that profit levels
+of the April and later renewals tend to be higher than in January, these April renewals contributed to improving the 2014
+profitability expectation.
+
+Overall, SCOR Global P&C benefited from the composition of its book of business, with 72% of the premiums renewed
+in April 2014 relating to proportional business, which benefits from sound and generally improving primary insurance
+trends. As a result of this, the risk-adjusted price reduction was contained at 2.7% overall. A small increase in
+proportional reinsurance prices (+ 0.3%) partly compensated an 8.3% reduction on non-proportional segments,
+especially in Property CAT.
+
+On 31 July 2014, SCOR confirmed its strong franchise in delivering resilient June-July 2014 renewals.
+
+72
+
+
+--- Page 29 ---
+
+The June-July renewals represent approximately 10% of the total annual volume of SCOR Global P&C premiums, with
+renewals notably in the USA, Australia and the Latin American countries. An overall written premium volume increase of
+4.6% was achieved.
+The main business line developments in the June-July 2014 renewals are as follows:
+™ for P&C Treaties: gross premiums increased by 5.1% at constant exchange rates, to EUR 290 million. This
+growth came from the Americas and was mainly driven by new business with existing and new clients thanks
+to SCOR Global P&C’s Tier 1 position;
+™ for Specialty Treaties: gross premiums increased by 3.5% at constant exchange rates, to EUR 126 million,
+mainly driven by positive business developments in Credit & Surety and Marine.
+SCOR Global P&C benefits from its well diversified book of business, with around 60% of the premiums renewed in
+June-July 2014 relating to proportional business, which benefits from more favorable current primary insurance trends:
+™ the overall price decrease was 3.2% driven by a 7.3% price decrease on non-proportional business, partly
+compensated by quasi-stable proportional prices (-0.3%);
+™ excluding the price reductions affecting the non-proportional Property CAT segments, the overall price
+decrease would only have been 0.8%;
+the expected technical performance measured in terms of underwriting ratio deteriorated by around 1
+percentage point compared to July 2013, while return on risk-adjusted allocated capital deteriorated by 2.5
+percentage points. The expected profitability of the overall book renewed in June-July 2014 remained
+nonetheless above SCOR Global P&C targets and contributed to improving the 2014 year-to-date profitability
+expectation.
+
+6.5.2 LIFE REINSURANCE
+
+SCOR Global Life ranks among the top five life reinsurers worldwide ‘") and has grown by 18.1% in Gross Written
+Premiums in 2014.
+
+2014 was the first full year of operation of our combined businesses in the US following the acquisition of 100% of
+Generali U.S. Holdings, Inc. (“Generali U.S.”), the holding company of Generali's U.S. life reinsurance operations in
+October 2013. SCOR Global Life has a strong leadership in the US Life reinsurance market ‘*?, the largest life
+reinsurance market in the world. During the year, SCOR Global Life has finalized the integration of Generali U.S. and put
+in place a project to create one common operations platform in North America across multiple sites (Charlotte, Kansas
+City, Montréal and Toronto).
+
+SCOR Global Life continues to expand its Latin American business. In Brazil the SCOR Global Life branch obtained its
+local reinsurance license in August 2014.
+
+In Asia, SCOR Global Life has built a strong franchise and continues to develop it.
+
+In 2014, SCOR Global Life increased its new business premiums as compared to 2013, with strong growth in Asia,
+Australia and Latin America from new clients and increased new business with existing clients.
+
+The Protection business area was the main driver for premium growth. In mortality, its largest activity, SCOR Global Life
+has maintained or improved its competitive positions in its main markets (US, Europe):
+
+= Mortality: more than 60% of SCOR Global Life’s portfolio is traditional mortality reinsurance business, based on
+2014 gross written premiums. SCOR Global Life has built strong positions in Mortality in the US, especially
+thanks to the acquisition of Transamerica Re in 2011 and of Generali U.S.’s reinsurance activities in 2013, as
+well as in the major European markets.
+
+™ Long-Term Care: SCOR Global Life has been pioneering LTC reinsurance solutions in the French market for
+approximately twenty years, and has acquired a sound practical experience regarding the underwriting and the
+management of LTC risks. SCOR Global Life has also expanded its geographical scope by introducing its LTC
+reinsurance coverage to several markets.
+
+= Disability: SCOR Global Life has established strong market positions in disability in many continental Europe
+markets and Canada. It has recently selectively entered into the Australian disability market in line with
+SCOR’s risk appetite, at pricing levels in line with its profitability target, thanks to hardening market conditions.
+
+= = Critical Illness: SCOR Global Life is a market leader in the UK It also leverages its experience and expertise in
+the UK to expand into selected Asian markets.
+
+= Health represents a small proportion of SCOR Global Life’s portfolio. It is a major product line in the markets of
+the Middle East and is written selectively in Asia, Continental Europe and the Americas.
+
+(1) Based on 2014 Gross Written Premiums
+(2) Source: 2013 SOA/ Munich Re survey of US life reinsurance, published in 2014
+
+73
+
+
+--- Page 30 ---
+
+= Personal Accident also represents a small proportion of SCOR Global Life’s portfolio. A main source of
+Personal Accident business for SCOR Global Life is obtained through its distribution services company,
+ReMark, which provides direct global marketing of life insurance products to insurers, financial institutions and
+affinity partners.
+
+In the Financial Solutions business area, SCOR Global Life has built a recognized position on capital and solvency
+management with important transactions in Europe, the US and Asia. SCOR Global Life underwrote new deals in 2014
+in the US, Asia and Latin America. At the beginning of the year, SCOR Global Life successfully monetized a portfolio
+(Value of In-Force) belonging to Mediterraneo Vida, a Spanish insurance company fully owned by Banco Sabadell. This
+transaction, effective 1 January 2014, reinsures a portfolio of life policies, covering mortality and permanent disability
+risks, written by Mediterraneo Vida up to 31 December 2013.
+
+SCOR Global Life has established itself as a recognized leading longevity reinsurer. To date the main active market for
+SCOR Global Life is the UK, focusing on longevity risk transfer transactions for large in-payment portfolios, but it has
+also established an active presence in North America and Continental Europe. SCOR Global Life participated in the
+longevity transaction with the UK-based insurer Aviva in March 2014. The transaction has associated liabilities of
+approximately GBP 5 billion and SCOR Global Life is assuming a meaningful portion of this risk under a treaty effective
+1 January 2014.
+
+Overall in 2014, the solid operating profitability of SCOR Global Life was maintained thanks to a robust technical
+performance across most regions and business areas.
+
+In November 2014, SCOR Global Life announced several promotions, underlying a number of structural changes. SCOR
+Global Life is organized around three regions: EMEA (Europe, Middle East and Africa), Asia /Pacific and Americas; and
+two product lines (Global Financial & Longevity Solutions and Global Distribution Solutions)
+
+The three regions will ensure operating consistency across markets that have common commercial and operational
+stakes. This structure will help SCOR Global Life be more effective and efficient in supporting its clients and leveraging
+its know-how, while remaining well —grounded in the local markets.
+
+The Global Financial & Longevity Solutions product line will enable SCOR Global Life to ensure global efforts efficiently
+connect market potential with SCOR Global Life’s risk appetite and Optimal Dynamics commitments, while increasing its
+win rate and lowering transaction risk by working globally with a common toolkit for complex deals. This global product
+line will work closely with local market managers, relying on their deep market understanding and client franchise.
+
+In Distribution Solutions, SCOR Global Life has successfully deployed a number of innovative and tailored client services
+which aim to help insurers expand and develop their own client bases (SCOR Telemed, ReMark, Velogica and Rehalto).
+This new product line will implement a unified strategy to continue the successful development of these services.
+
+74

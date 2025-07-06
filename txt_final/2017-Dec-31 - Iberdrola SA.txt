@@ -1,0 +1,3386 @@
+
+
+--- Page 1 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+This management report has been prepared taking into consideration the "Guide of recommendations for
+the development of management reports of listed companies", published by the CNMV in July 2013.
+
+1. COMPANY’S STANDING
+
+The company has undergone a major transformation over the last 15 years, staying clearly ahead of the
+energy transition in order to tackle the challenges posed by climate change and the need for clean
+electricity.
+
+Boasting a track record that spans over 170 years, today Iberdrola is a multinational group leading the
+energy sector: the company produces and supplies electricity to some 100 million people in the countries in
+which it operates.
+
+IBERDROLA is committed to low-emission energy: it is the leading producer of energy from renewable
+sources among the European utilities, a world leader in installed terrestrial wind power and the cleanest
+electricity producer in the US, with almost zero emissions. As a result of its environmental commitment and
+its stake in the decarbonisation of the economy, it has succeeded in reducing its emissions in Europe by
+75% since 2000, reaching levels that are 70% below the average for European companies in its sector.
+
+IBERDROLA, as the energy company of the future, has placed its bets on clean energy, smart grids,
+efficient energy storage and the development of customised solutions for customers. And at the centre of
+this strategy are the various stakeholder groups, with which it maintains permanent dialogue. In order to
+confront the future energy scene with assurance of success, the company places its trust in the digital
+transformation, which is based on two main pillars: technology and innovation.
+
+On this basis, I]BERDROLA is now embarking on a new stage of growth, supported by a strong investment
+drive essentially in regulated businesses or with long-term contracts, which will provide the security,
+stability and visibility that are the hallmarks of the company's business model. Likewise, IBERDROLA will
+
+continue maintaining its social commitments, acting as a driver for the growth and generation of
+employment in the countries where it operates, and creating sustainable value for all its stakeholders.
+
+1.1. Governance system
+
+To make its business model as competitive as possible, IBERDROLA has organised the management of its
+activities around three global businesses:
+
+Network Business: the grids area, which is responsible for the construction, operation and maintenance of
+power lines, substations, transformer substations and other facilities for delivering power from the
+production centres to the end user. Among the main targets are:
+
+- Zero accidents.
+
+- Offering an excellent service to customers, based on quality of supply and grid information.
+
+- Maximising efficiency in the operation of the system through operating excellent and digitisation of
+assets.
+
+256 (sl BERDROLA
+
+
+--- Page 2 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- Leading change towards a more efficient integration of renewable distributed energy.
+Generation and retail businesses: The business and retail business focus on the production of electricity
+through the construction, operation and maintenance of generation plants and the sale and purchase of
+
+energy in wholesale markets. It also involves the supply to end customers and additional products and
+services. Among the main targets are:
+
+- Competitive supply and excellence of service to customers.
+
+- Operating excellence, safety and respect for the environment,
+
+- Identifying and minimising risks.
+
+- Safety and continuous improvement of efficiency in operations.
+
+- Analysis of growth opportunities.
+Renewable Business: the renewables area, which is responsible for generating and selling electricity from
+renewable sources: wind (onshore and offshore), mini-hydroelectric, solar thermal, photovoltaic, biomass,
+etc. Among the main targets of the renewables business are:
+
+- Safety in operations.
+
+- Efficiency in operations to maximise return of assets.
+
+- Efficiency in construction costs, with a special emphasis on offshore wind projects.
+
+- Profitable growth in onshore and offshore wind in strategic group companies.
+1.2 Mission, Vision and Values of the Iberdrola Group
+
+The Mission, Vision and Values of the Iberdrola Group constitute its corporate philosophy, inspire and take
+form in the Corporate Policies Company's By-Laws and in the other rules of the Corporate Governance
+System, govern the day-to-day activities of the companies of the Group thereof, channel its leadership role
+in all of its areas of activity, focus its strategy of maximising social dividends, and guide their strategy and
+all of their actions.
+
+Mission
+
+“Our mission is to create value sustainably in carrying out its activities for society, citizens, customers,
+employees, shareholders, and other stakeholders, as the leading multinational group in the energy sector
+providing a quality service through the use of environmentally-friendly energy sources, which engages in
+innovation, leads the process of digital transformation in its area of activity, and is committed to the fight
+against climate change through all of its business activities, with a social dividend and the generation of
+employment and wealth, considering its employees to be a strategic asset. Along these lines, we foster
+their development, training, and measures of reconciliation, favouring a good working environment and
+equal opportunity. All of the foregoing is within the framework of our strategy of social responsibility and
+compliance with tax rules.”
+
+Vision
+
+257 (sd weRDROLA
+
+
+--- Page 3 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+“We want to be the leading multinational group in the energy sector at the forefront of a better future,
+sustainably creating value with a quality service for people: customers, citizens, and shareholders (whom
+we care for and engage in our corporate life) and for the communities in which we carry out our activities,
+generating employment and wealth (with whom we engage in a constructive dialogue), known for our firm
+commitment to ethical principles, good corporate governance, and transparency, the safety of people and
+supply, operational quality and excellence, innovation, protection of the environment, and customer focus
+and the Sustainable Development Objectives approved by the UN. Making it possible thanks to the work of
+our employees and the people working at our suppliers and collaborators, whom we care for by offering all
+of our training resources and reconciliation measures for their development and to strengthen equality of
+opportunity”.
+
+Values
+
+The mission and vision of the Group is configured based on a firm commitment to twelve values that all of
+the Corporate Policies, internal rules, and other internal codes and procedures must follow:
+
+- Sustainable creation of value.
+- Ethical principles.
+
+- Good corporate governance and transparency.
+- Development of our workforce.
+- Social commitment.
+
+- Sense of belonging.
+
+- Safety and reliability.
+
+- Quality.
+
+- Innovation.
+
+- Respect for the environment.
+- Customer focus.
+
+- Institutional loyalty.
+
+258 (sl BERDROLA
+
+
+--- Page 4 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+1.3. Iberdrola’s corporate governance model
+
+Corporate governance system
+
+The Corporate Governance System constantly updates its corporate governance system, consisting of By-
+aws, the Mission, Vision, and Values of the Iberdrola group, the Corporate Policies, the governance rules
+
+the corporate decision-making bodies and other internal committees, and the other codes, regulations,
+and procedures making up and elaborating upon Iberdrola’s regulatory compliance system. In order to
+move forward in developing specific aspects of its corporate governance system, the Company promotes
+he creation of working groups composed of authorised representatives of the stakeholder group(s)
+fected in each case, Company employees and top-level experts in the field concerned.
+
+oT
+
+os
+
+he IBERDROLA group’s commitment to good corporate governance and transparency is reflected in its
+Mission, Vision and Values, the bases of which as regards corporate governance are the involvement of
+he shareholders in the Company's affairs and maintaining a lead position in the application of best
+practices and in transparency.
+
+The general corporate governance policy contains a summary of the basic principles regulating the
+corporate governance of the Company and of the Group and of its most important components, all of which
+is available at www.iberdrola.com.
+
+Governance model
+
+This duly makes a distinction between the functions of strategy and supervision and those of management
+and control:
+
+- The Iberdrola Board, composed of a large majority of independent directors, focuses on defining,
+supervising and monitoring the policies, strategies and guidelines to which the group must adhere.
+
+- The chairman of the Board, the chief executive officer and the rest of the management team are
+responsible for the group's strategic coordination and organisation, through the distribution,
+implementation and monitoring of the general strategy and its basic guidelines.
+
+- In all countries in which the group operates, business is organised and strategically coordinated
+through subholding companies, which group investments in energy business operating in the
+country concerned and centralise the provision of common services to these companies. The group
+also has a subholding to handle all non-energy business.
+
+- The subholdings have boards with independent directors, and their own Audit and Compliance
+Committees, Internal Audit departments and Compliance units or departments.
+
+- Parent companies are tasked with ordinary management and effective administration of all lines of
+business. They also have boards with independent directors and specific management teams.
+
+This structure, which operates along with the group's business model, fosters global integration of the lines
+of business (Networks, Generation and Sales and Renewables), and focuses on maximising operational
+
+efficiency, by implementing best market practices.
+
+Corporate and governance structure of Iberdrola, S.A.
+
+259 [sl BERDROLA
+
+
+--- Page 5 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Consejo de Administracién
+[ l
+Presidente y Comisiones consultives
+delgado Comisién de Anditeria y Sepervissin dal Rieage
++
+Equipe directive as were an os Comisim de Nombromientos
+Comisiin de Rewibuciones
+Comisién de Responscbilided Social Cerporativa
+Sociedades subholding
+[ I I I 1
+Consejo de Consejo de Consejo de Conseje de Conseje de Iberdrale
+Adminitrociéa de | | Administracién de Adminissrocin Adminixtracién de || Administracién de Participociones
+‘Avangrid (*) Iberdrale México de bberdrola Iberdrola Brasil Iberdrole Espana
+ScottishPower
+1 I I I I T
+I
+Sociedades cabecera de los negocios
+Consejor de Administracién de code une de las tociedades cabecera de lot negocioe
+
+tzoda an to &
+
+1.4. Corporate structure of the Group
+
+oka da Nueva York
+
+Given the nature of the activities carried out by the IBERDROLA Group, its organization responds to the
+strategic business units, rather than product and service lines. These businesses are managed
+independently, as they respond to different technologies, regulations, and geographic markets (Note 8).
+
+The IBERDROLA Group has a decentralised structure and management model to approximate the
+decision taking to places where they should have effect, through the subholding companies and parent
+companies of the businesses. In addition, the independence and listed subholding companies’ reinforced
+autonomy are guaranteed.
+
+The corporate structure encompasses the Company (IBERDROLA, S.A.), subholding companies and
+
+business parent
+
+IBERDROLA, S.A. (Parent company)
+
+companies.
+
+The Board of Directors of the Company defines and supervises the Group’s policies and strategies
+and of the basic guidelines for the management thereof, as well as general oversight of the
+development of such policies, strategies and guidelines and of decisions on matters that are
+strategically significant at the Group level.
+
+The chairman of the Board of Directors & chief executive officer, with the technical support of the
+Operating Committee, the Group’s Business CEO and the rest of the management team, assumes the
+duty of organisation and strategic coordination of the Group through the dissemination, implementation
+and monitoring of the overall strategy and of the basic management guidelines established by the
+Board of Directors.
+
+Subholding companies
+
+260 (sd BERDROLA
+
+
+--- Page 6 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The sub-holding companies group together the equity interests in the head-of-energy-business
+companies that conduct their activities in the various countries in which the group operates.This
+structure is rounded out with a country subholding company that groups together certain equity
+interests in other entities including the non-energy head of business companies,.
+
+4
+
+hey contribute to organisation and strategic coordination in their respective countries, disseminating
+and implementing the Group’s directives and management policies.
+
+4
+
+hey centralise the provision of services that are common to the head-of-business companies, always
+in accordance with applicable legislation, and in particular with the rules on segregation of regulated
+activities.
+
+The subholdings have boards with independent directors, and their own Audit and Compliance
+Committees, Internal Audit departments and Compliance units or departments.
+
+Subholding company listed have a reinforced special autonomy framework projected in regulations,
+combined business and management.
+
+Head of business companies
+
+The business subholding companies of the Group assume decentralised executive responsibilities.
+They carry out the day-to-day administration and effective management of each of the businesses,
+and are responsible for the day-to-day control thereof.
+
+They are organised through their boards of directors, which may include, if the case, independent
+board members, and their own management; they may also have their own audit committees, internal
+
+audit areas, and compliance divisions.
+
+Simplified scheme of the corporate structure of the Group
+
+261 (sd weRDROLA
+
+
+--- Page 7 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+4@) |BERDROLAS.A.
+
+Iberdrola Scottish
+
+Espata, Power avanae
+SAU Lid
+Iberdrola Scottish
+Renovables Power Avangrid
+Energia, Renewable Networks, Ino.
+SAU Energy Ltd
+Iberdrola Scottish Power
+Distribucién nergy Avangrid
+Eléctrica Networks Renewables
+SAU Holdings Ltd LLC
+bordrola Scottish
+Generacién Power
+Espana, Generation
+SAU Haldings Ltd
+
+Neoenergia,
+
+Iberdrola
+
+Me .
+SA de CV
+
+berdrola
+Generacién
+
+México,
+SA deCV.
+
+berdrola
+Renovables
+
+México.
+SA deCV.
+
+Hi Sociedad holding Hi Sociedades subholding Hi Sociedad subholding cotizada
+
+Hi Sociedades cabecera de los negocios
+
+(1) IBERDROLA has a stake in Avangrid, Inc. of 81.50%
+(2) IBERDROLA has a stake in .Neonergia S.A. of 52.45%
+
+Iberdrola
+Participaciones,
+SAU
+
+Iberdrola
+Ingenieria y
+Consiruccién,
+SAU
+
+Iberdrola
+Inmobiliaria,
+SAU
+
+The Company's and the Group’s governance conforms to the structure described above: separates the
+duties relating to strategy, oversight, and control of the Group as a whole, the duties of organisation and
+coordination of the businesses in each country and the multinational no-energetic business, as well as
+those of day-to-day administration and effective management of each business.
+
+It is established on the following bases:
+
+a) The Board of Directors of the Company, which exclusively exercises holding company duties, has
+assigned powers relating to the establishment of the Group’s policies and strategies and of the
+basic guidelines for the management thereof, as well as general oversight of the development of
+such policies, strategies and guidelines and of decisions on matters that are strategically significant
+
+at the Group level.
+
+b) The chairman of the Board of Directors & chief executive officer of the Company, with the technical
+support of the Operating Committee, the Group’s Business CEO and the rest of the management
+team, assumes the duty of organisation and strategic coordination of the Group through the
+dissemination, implementation and monitoring of the overall strategy and of the basic management
+
+guidelines established by the Board of Directors.
+
+262 (sd weRDROLA
+
+
+--- Page 8 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+c) This organisation and coordination duty is strengthened through the boards of directors of country
+subholding companies, which includes independent directors, and their own audit committees,
+internal audit areas, and compliance units or divisions.
+
+d) The business subholding companies of the Group assume decentralised executive responsibilities.
+They carry out the day-to-day administration and effective management of each of the businesses,
+and are responsible for the day-to-day control thereof. These business subholding companies are
+organised through their respective boards of directors and their own decision-making bodies.
+
+The corporate and governance structure of the Group described above operates jointly with the Group’s
+Business Model, which entails the global integration of the businesses and aims to maximise the
+operational efficiency of the different units. The Business Model ensures the dissemination, implementation
+and monitoring of the overall strategy and of the basic management guidelines established for each
+business, primarily through the exchange of best practices among the various companies of the Group,
+without detracting from their independence in decision-making.
+
+In any case, the Company and the Group assume the commitments established by law in connection with
+
+the legal and functional separation of the companies carrying out regulated activities, while the country
+subholding companies ensure compliance with the law on this matter.
+
+1.5. Organization of the Board, or bodies in which it delegates its decision, including control
+functions and the policy followed with minority interests.
+
+A comprehensive description of the governance structure of the Company, functions and _ internal
+regulations of the committees can be seen in Appendix C of the Annual Corporate Governance Report,
+which forms part of this Management Report.
+
+1.6. Regulatory framework of the activities
+
+A comprehensive description of sector regulation and operation of electric and gas system in the markets in
+which the Group operates can be seen in Appendix II “Sector regulation and functioning of the electricity
+and gas system” of these Financial Statements.
+
+1.7. Main products and services, production processes
+
+The main products that IBERDROLA offers to its customers are power and natural gas, both in the
+wholesale and retail markets reaching the final consumer. Also offers a wide range of products, services
+and solutions in the fields of:
+
+- Improving the quality of life, calm and safety of the consumer.
+
+- Efficiency and energy services.
+
+- Caring for the environment: renewable energy and sustainable mobility.
+
+- Power quality and safety of the facilities.
+
+- Installation of electrical infrastructure.
+
+263 (sd wERDROLA
+
+
+--- Page 9 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- Global management of facilities and energy supplies.
+
+Through its subsidiaries it also provides engineering and construction services of power generation
+facilities, distribution and control; operation and maintenance of power generation facilities, management
+and promotion of the ground; and sale and rental of housing, offices and commercials. More detailed
+information can be found in www.iberdrola.com, in "customers" section.
+
+As a general rule, companies directly manage the activities that belong to its core business, and outsource
+other estimated to be developed more efficiently by other specialized companies, which IBERDROLA
+requires certain quality standards and responsible behaviour in environmental, social and labour fields.
+
+This information can be extended with corresponding indicators described in the Sustainability Report.
+1.8. Strategic principles for the 2017-2021 period
+
+Market conditions
+
+The energy scenario in which IBERDROLA will develop its activity in the next few years will be based on
+three pillars:
+
+e Decarbonisation, which will have as a direct consequence greater electrification of the economy,
+mainly based on energy from renewable sources;
+
+e Technological advances, which will continue to drive the trend of increasing efficiency in renewable
+sources of generation and power grids; and
+
+e Increased consumer connectivity, leading to demand for new energy services made possible by
+digitisation.
+
+For all that, we estimate that world demand for electricity will increase by more than 60% to 2040, and that
+as a proportion of final demand for energy it will grow by four percentage points from its 2016 level to reach
+23%.
+
+Underpinned by these pillars, the company will continue to strengthen its lead position in the various
+markets in which it has a presence:
+
+- In the United States the company is taking up a position to home in on opportunities for investment
+in energy infrastructures and renewables through the platform operated by its subsidiary
+AVANGRID, which has eight regulated energy Transport distribution companies in New York,
+Connecticut, Maine and Massachusetts, and is the country's second largest wind energy producer.
+
+- The company will continue to expand in the United Kingdom in terms of networks and consolidate
+its leadership in renewable energies, especially offshore wind power plants on the current platform.
+
+- In the Iberian peninsula it will bolster its position of leadership in energy from renewable sources
+and the associated grids.
+
+- In Mexico, it will continue to invest in contracted generation, building on its position as the leading
+
+private sector supplier of electricity and taking advantage of the opportunities arising from the
+Energy Reform and the associated liberalisation of the sector.
+
+264 (sd weRDROLA
+
+
+--- Page 10 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- In Brazil, NEOENERGIA is already the country’s leading electric utility in terms of number of
+customers, with a presence in ten states, and has great opportunities for growth in both energy
+from renewable sources and transport and distribution grids.
+
+- Elsewhere in Europe, the company has already brought its first German offshore wind farm into
+operation, and is developing a project in France. In the retail business it is also extending its
+activities to other European markets, mainly Portugal, France and Italy.
+
+Outlook 2018-2022
+
+- IBERDROLA will continue to focus its investment strategy on grids, renewables and
+contracted generation, in its current areas of activity, in which it will invest EUR 32,000 million
+between now and 2022.
+
+- The grids business will account for 50% of total capital expenditure, while renewables will
+account for 37% and contracted generation for 4%. Lastly, 9% of total investment will be
+earmarked for the generation and retail business.
+
+Subsequently, 90 % of the investment scheduled will target regulated business —networks, renewable
+energies and long-term contracts.
+
+By geographical areas, Iberdrola will invest 38 % in dollars, 19 % in sterling pounds, 25 % in the
+Eurozone and 18 % in Brazilian reals.
+
+Main projects
+
+e United States: Through AVANGRID the Group will continue investing in transmission grids and
+distribution infrastructure. Moreover, the company plans on reaching 8,700 installed MW of
+renewable source in 2022.
+
+e United Kingdom: IBERDROLA will continue to implement network infrastructures under the
+regulatory frameworks already approved for transmission and distribution (RIIO-T1 and RIIO-ED1).
+As regards the renewable energy projects in the UK, the company continues to develop the 714
+MW East Anglia One offshore wind project in the North Sea, which will be fully operational in 2020.
+
+e Mexico: IBERDROLA's investment packages will focus on regulated generation and renewable
+energies, on the strength of the energy reform introduced in this country. The Company is building
+three combined-cycle plants and two cogeneration plants on long-term contracts, with a combined
+power output of 3,570 MW, and has plans for further investment in renewable energies in the years
+ahead. These projects, together with others in advanced stages of development, will allow the
+company to attain 10,600 MW of installed capacity in the country by 2022.
+
+e Iberian Peninsula: investments will be centred on the area of distribution grids. The company will
+also continue with the construction of the Rio Tamega hydroelectric storage complex in Portugal,
+which will have a total capacity of 1,158 MW.
+
+e Brazil: Through NEOENERGIA, IBERDROLA will take advantage of the investment opportunities in
+the Grids and Renewables businesses.
+
+265 (sd wERDROLA
+
+
+--- Page 11 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Operational efficiency
+
+IBERDROLA, one of Europe's most efficient major electricity companies, will continue to boost its operating
+efficiency on the strength of technical progress in terms of the automation and digitalisation of all its
+businesses and processes, as well as the homogenization of processes through the implementation of the
+best practices of the group in all its businesses.
+
+Earnings performance
+
+This strategy of profitable growth in mature businesses, efficient management of assets and the investment
+plan described will lead to sustainable growth in the company’s profits, which are expected to amount to
+more than EUR 11,500 million between now and 2022. In terms of net profit, this is estimated to exceed
+EUR 3,500 million a year by the end of the plan.
+
+Shareholder remuneration
+
+The trend forecast for the period will enable the company to increase long-term remuneration for
+shareholders, in keeping with results,
+
+Financial solvency
+
+The Company will continue to hold a solid financial position compatible with the investment plans and the
+remuneration provided to shareholders.
+
+e Funds from operations (FFO) will reach EUR 42,000 million on a cumulative basis, with cash
+generation exceeding capital expenditure in all business areas.
+
+e At the end of the period the company will have EUR 9,000 million of capital expenditure in
+progress, corresponding to assets that will start producing results beyond 2022. This allows the
+bases for further growth beyond the plan horizon to be established.
+
+«Allin all we expect the Group’s ratio of FFO to Net Debt to be at around 24% in 2022.
+
+This caption of the management report of IBERDROLA contains forward-looking information, including
+financial projections and estimates and their underlying assumptions, statements regarding plans,
+objectives and expectations with respect to future operations, capital expenditures, synergies, products and
+services and statements regarding future performance or administrators estimates which are based on
+assumptions that are considered reasonable by them.
+
+Although IBERDROLA believes that the expectations reflected in such forward-looking statements are
+reasonable, investors are cautioned that forward-looking information and statements are subject to various
+risks and uncertainties, many of which are difficult to predict and generally beyond the control of
+IBERDROLA, risks that could cause actual results and developments to differ materially from those
+expressed in, or implied or projected by, the forward-looking information and statements.
+
+266 (sd BERDROLA
+
+
+--- Page 12 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Forward-looking statements are not guarantees of future performance and have not been reviewed by the
+auditors of IBERDROLA. You are cautioned not to place undue reliance on the forward-looking statements,
+which speak only as of the date they were made. All subsequent oral or written forward-looking statements
+included in this report are expressly qualified in their entirety by the cautionary statement above. All forward
+looking statements included herein are based on the information available on the date hereof. Except for
+required by applicable law, IBERDROLA undertakes no obligation to publicly update or revise any forward-
+looking statements, whether as a result of new information, future events or otherwise.
+
+2. BUSINESS EVOLUTION AND RESULTS
+2.1 Operating highlights for the period
+
+Iberdrola’s results for the period must be framed within the implementation of the corporate strategy
+announced on Investor Day 2017, defined by the growing weight of regulated activities (transmission and
+distribution of electricity and gas) and the renewables business, both in terms of utilising investment
+opportunities and contributing to the Group’s profit, with a growing weight of the United States and Mexico
+businesses on said contribution.
+
+The following highlights should be noted regarding the period analysed, in comparison to the previous
+financial year, for their relevance in the interpretation of the profit for the year:
+
+- On 24 August, having obtained approval from the ANEEL (Agéncia Nacional de Energia Elétrica or
+National Electrical Energy Agency) the BNDES (Banco Nacional de Desenvolvimento Econémico e
+Social or National Bank for Economic and Social Development) and the CADE (Conselho
+Administrativo de Defesa Econémica or Administrative Council for Economic Defence) we completed
+the transaction whereby the businesses of Elektro were incorporated into Neoenergia, thus creating a
+leading utility in Brazil and Latin America focused on the Grids and Renewables businesses. Following
+the transaction, IBERDROLA holds 52.45% of the resulting company, which has 13.6 million supply
+points, 585,000 km of distribution grid and more than 3,500 MW of contracted capacity in operation
+and under construction mainly in renewables. The transaction was carried out without affecting the
+Group's financial solidity, with no cash component, no capital increase and strengthening our position
+in an already well-known company.
+
+- The results for 2017 were achieved in extremely difficult operating circumstances, with Spain suffering
+one of the driest years on record and 11 TWh less hydro-electricity being produced than in 2016. This
+difficult situation was partly offset by the good performance of the Grids business in the United States
+and the Generation and Retail business in Mexico, with the coming on stream of new capacity in
+accordance with the 2016-2020 Growth Plan.
+
+- The tax reform approved in the US in the final weeks of the financial year, which reduces federal
+income tax from 35% to 21%, led to an improvement of EUR 1,284 million in net income. The impact is
+
+as follows:
+
+o Asa result of the reduction of the federal tax rate from 35% to 21%, net income increased by
+EUR 2,026 million (see Notes 2.c and 30).
+
+o Impact on the value in use of the renewables business in the US, which required an impairment
+adjustment to goodwill in an amount of EUR 450 million (see Note 13).
+
+267 (sd weRDROLA
+
+
+--- Page 13 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+o Impact on non-controlling interests of the two foregoing effects: EUR 292 million.
+- Non-current asset profit/(loss):
+
+o the merger of the wind energy businesses of Gamesa Corporacién Tecnoldgica, S.A. (as the
+company absorbed) and Siemens AG GAMESA (as absorbing company), leading to a dilution of
+the percentage holding of the IBERDROLA Group, which went from 19.69% to 8.07% in the
+new Siemens Gamesa Renewable Energy, S.A. group. This transaction contributed EUR 251
+million to profit for the year, of which EUR 198 million correspond to the extraordinary merger
+dividend paid to former shareholders of GAMESA.
+
+o the corporate reorganisation in Brazil, involving a capital gain of EUR 44 million on revaluing
+39% of Neoenergia, S.A.
+
+- We have discontinued the Engineering activity which is reported under discontinued operations in the
+consolidated financial statements, restating the figures for the previous year as required by the
+accounting rules.
+
+As for average movements in IBERDROLA’s main reference currencies against the euro during 2017,
+sterling depreciated by 7.1% and the US dollar by 1.9%, these movements being partly offset by the 6.7%
+appreciation of the Brazilian real.
+
+For the system as a whole, the following points stand out:
+
+- In Spain, the period was characterised by a sharp fall in hydroelectric production (48.9%), and a
+decline in nuclear production (0.9%). Production with other renewable technologies, coal-fired and
+gas-fired power stations covered the fall in hydroelectric and nuclear, with increases of 1.8%, 21% and
+
+38% respectively. Electricity demand was slightly higher compared with 2016 (1%).
+
+- In the United Kingdom, electricity demand dropped by 1.7% compared to 2016. Customer's gas
+demand (not including generation consumption) also drops 3.1% due to a more benign weather.
+
+- Inthe AVANGRID area in the East Coast of the USA, electricity demand dropped by 2%, while gas
+demand stayed practically the same, increasing 0.5% compared to 2016.
+
+- On the other hand, in the Iberdrola area in Brazil, electricity demand rose by 1.2% compared to 2016.
+
+2.2 Magnitudes basicas gestionadas
+
+At the end of 2017, IBERDROLA had 46,075 MW installed generation capacity, of which 65.6% produces
+emission-free energy while operating at a very low variable cost. In the table below distribution classified by
+countries and technologies is shown:
+
+Power per country (MW) 2017 2016 MW change
+Spain 25,607 25,605 2
+United Kingdom 4,616 4,522 94
+United States 7,009 6,502 507
+Mexico 6,242 5,840 402
+Brazil 1,640 187 1,453
+ROW 961 621 340
+Total 46,075 43,277 2,798
+
+268 (sd wERDROLA
+
+
+--- Page 14 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Power per technology (MW) 2017 2016 MW change
+Hydraulic 10,984 10,392 592
+Nuclear 3,166 3,166 -
+Coal 874 874 -
+Gas combines cycles 14,670 13,778 892
+Cogeneration 299 299 -
+Wind power, mini-hydraulic and other renewables 16,082 14,768 1,314
+Total 46,075 43,277 2,798
+
+IBERDROLA Group’s total production in this period dropped by 4.6% to 126,198 GWh (132,274 GWh in
+2016). The Net Production by geographical areas is the following:
+
+Net Production (GWh) 2017 2016 % charge
+Spain 50,358 61,725 (18.4)
+United Kingdom 11,945 13,531 (11.7)
+United States 17,612 17,436 1.0
+Mexico 41,854 37,577 11.4
+Brazil 3,047 639 376.8
+ROW 1,382 1,366 1.2
+Total 126,198 132,274 (4.6)
+Net production per technology (GWh) 2017 2016 % charge
+Hydroelectric 8,659 19,422 (55.4)
+Coal 2,665 3,751 (29.0)
+GCC 55,964 50,973 9.8
+Nuclear 23,190 24,335 (4.7)
+Renewables 33,557 31,917 5.1
+Cogeneration 2,163 1,876 15.3
+Total 126,198 132,274 (4.6)
+
+2.3 Business evolution
+
+2.3.1 Analysis of the profit and loss account
+
+The key figures for the financial year 2017 are as follows:
+
+Millions of euros 2017 2016 % charge
+Revenue 31,263 28,759 8.7
+Gross margin “ 13,364 12,935 3.3
+EBITDA ? 7,319 7,934 (7.8)
+EBIT 2,713 4,686 (42.1)
+Net Profit 3,423 2,944 16.3
+
+(1) Gross Margin: Revenue — Procurements
+(2) EBITDA: Operating profitt Amortisation and provisions
+(3) EBIT: Operating profit
+
+269 (sd BERDROLA
+
+
+--- Page 15 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+2.3.1
+
+-1 Gross Margin
+
+Gross Margin was at EUR 13,364 million with a 3.3% increase compared to that obtained in financial year
+2016, supported by the contribution of US, Mexico and Brazil, due to the incorporation of NEOENERGIA.
+
+The
+
+performance of reference currencies had a negative effect of EUR 186 million compensated by a
+
+better performance of the businesses of EUR 614 million including the incorporation of NEONERGIA.
+
+The gross margin by business is as follows:
+
+Millions of euros 2017 2016 % charge
+Network Business 6,787 6,161 10.2
+Deregulated Business 4,238 4,634 (8.5)
+Renewable Business 2,326 2,179 6.7
+Other businesses 53 5 960.0
+Corporation and adjustments (40) (44) 9.1
+Gross Margin 13,364 12,935 3.3
+
+Network Business
+
+The
+
+Networks business improved its contribution by 10.2% to reach EUR 6,787 million (EUR 6,161 million
+
+in 2016) supported by the improvement in the United States and the corporate reorganisation in Brazil.
+
+Millions of euros 2017 2016 % charge
+Spain 2,003 2,028 (1.2)
+United Kingdom 1,174 1,267 (7.3)
+United States 2,754 2,537 8.6
+Brazil 856 329 160.2
+Total 6,787 6,161 10.2
+
+As notable events in the evolution of the gross margin during the period we can highlight the following:
+
+Gross margin in Spain reached EUR 2,003 million, EUR 25 million lower than the previous year,
+mainly explained by a decrease in recognised income of EUR 27 million. This is due to the fact that in
+2016, positive re-estimates from previous years were recognised for EUR 16 million that affected the
+comparison.
+
+The United Kingdom contributed EUR 1,174 million (-7.3%), mainly due to the devaluation of the
+pound. This business is also affected by lower demand in 2017 due to the climate and reassessments
+of previous years due to lower-than-anticipated investments.
+
+The contribution of the United States in the period stands at EUR 2,754 million, EUR 217 million
+higher than the previous year (8.6%), despite the devaluation of the dollar which had an effect of EUR
+53 million and an improvement of EUR 270 million for the business from the new rate cases and lower
+energy costs.
+
+The Gross Margin of Brazil amounts to EUR 856 million (160.2%) affected by the appreciation of the
+
+Real, EUR 58 million, the corporate reorganisation, which accounts for EUR 421 million, and the
+increase in the energy distributed and the annual rate reviews.
+
+270 [sd weRDROLA
+
+
+--- Page 16 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Deregulated Business
+
+The Deregulated Business (Generation and Retail) decreased by 8.5% to EUR 4,238 million (EUR 4,634
+million in 2016).
+
+Millions of euros 2017 2016 % charge
+Spain 2,690 3,071 (12.4)
+United Kingdom 796 1,000 (20.4)
+Mexico 646 509 26.9
+Brazil 89 6 1,383.3
+United States 17 48 (64.6)
+Total 4,238 4,634 (8.5)
+
+In Spain, the Gross Margin reached EUR 2,690 million (-12.4%), mainly due to the low hydropower
+contribution during the year offset by the positive evolution of the results in the gas business after the
+contract price review.
+
+Gross Margin for the United Kingdom was EUR 796 million. 204 lower in comparison to 2016. This
+variation negatively affected by the depreciation of the Sterling Pound in (the local currency
+depreaciated 14.7%). Production was 25.5% lower than in 2016 (-2,665 GWh), affected by the closure
+of the Longannet plant, which, together with higher supply costs, the increase in the cost of green
+certificates (ROCs), lower sales of gas and the narrowing of commercial margins explain this reduction
+in the contribution of the business.
+
+- Mexico’s contribution to Gross Margin amounts to EUR 646 million (26.9%), improving in EUR 137
+
+million the 2016 contribution. Depreciation of the US dollar results in a decrease of EUR12 million.
+The increase of EUR 149 million by the business has its origin in the PPA contracts (EUR 60
+million), which include the commissioning of the Baja California combined cycle; improvement in
+sales to private customers and increase in power (EUR 81 million); other smaller items, surpluses,
+etc. (EUR 8 million).
+
+The Gross Margin of Brazil came to EUR 89 million, the main effects of the increase of EUR 82 million
+were: the appreciation of the Real, which accounted for EUR 6 million and the corporate
+reorganisation, which accounted for EUR 76 million.
+
+Renewable Business
+
+The
+
+Renewable business decreased its Gross Margin by 6.7% to EUR 2,326 million (EUR 2,179 million in
+
+2016), EUR 147 million more in comparison to 2016.
+
+Millions of euros 2017 2016 % charge
+Spain 777 764 1.7
+United Kingdom 493 385 28.1
+United States 783 802 (2.4)
+Brazil 78 36 116.7
+Mexico 71 69 2.9
+ROW 124 123 0.8
+Total 2,326 2,179 6.7
+
+271 [sd weRDROLA
+
+
+--- Page 17 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The main causes of this trend are:
+
+In Spain, it increased to EUR 13 million up to EUR 777 million (+1.7%) despite lower production.
+
+The gross margin in the United Kingdom increased by EUR 108 million to EUR 493 million (28.1%)
+despite the impact of the devaluation of the pound, which accounted for EUR 35 million. Despite this,
+the higher production (+42%) derived from better onshore and offshore wind power during the year
+and the increase in onshore power improved the gross margin by EUR 115 million. The improvement
+of the ROC price and other minor effects explain the remaining EUR 28 million.
+
+The contribution of the United States for the period totalled EUR 783 million (-2.4%), EUR 19 million
+less compared to the previous year. The effect of the devaluation of the dollar had a negative impact
+of EUR 15 million, while the improvement in production improved the gross margin by EUR 7 million
+and was offset by the reduction in the year of EUR 11 million in the impact of electricity and gas
+derivatives.
+
+Mexico contributed EUR 2 million to the Gross Margin due to increase in prices.
+
+Brazil contributed EUR 42 million in higher margin, affected by the appreciation of the Brazilian real
+and greater volume (+87.5%) due to the global integration of the plants of the Neoenergia subgroup.
+
+The rest of the world increased slightly with respect to 2016, EUR 1 million, due to an increase in
+
+production of 0.8%.
+
+Other businesses
+
+The contribution of Other Businesses reached EUR 53 million, a decrease of 960.0% (EUR 5 million in
+
+2016), although it is due to the discontinuation of the engineering business.
+
+2.3.1.2 Gross Operating result - EBITDA
+
+Consolidated EBITDA decreased by EUR 615 million, -7.8%, to EUR 7,319 million (EUR 7,934 million in
+2016), where the Networks (+3.6%) and Renewables (6.1%) businesses improved and the Liberalised
+Generation and Customers business reduced its contribution (-28.9%). This reduction in EBITDA without
+considering the exchange rate effect of EUR 105 million would be EUR 510 million (-6.4%).
+
+However, without taking into account the early retirement plan for each year, EBITDA would decrease by
+EUR 452 million (-5.7%) and would be 4% lower if the variation in the main currencies was not considered.
+
+Millions of euros 2017 2016 % charge
+Network Business 4,228 4,082 3.6
+Deregulated Business 1,601 2,253 (28.9)
+Renewable Business 1,592 1,500 6.1
+Other businesses 39 (7) 657.1
+Corporation and adjustments (141) 106 (233.0)
+EBITDA 7,319 7,934 (7.8)
+
+Net operating expenses
+
+272 [sf weRDROLA
+
+
+--- Page 18 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The net operating expense increased by EUR 704 million (20.3%) to EUR 4,170 million (EUR 3,466 million
+in 2016) affected by the exchange rate, EUR 54 million, the reorganisation in Brazil that accounted for EUR
+254 million, the effect of the storms in the United States came to EUR 109 million and the variation in the
+early retirement plan for an amount of EUR 163 million. The growth in the business itself and positive
+impacts in 2016 that affect the comparison explain the remaining EUR 124 million.
+
+Millions of euros 2017 2016 % charge
+Network Business 1,981 1,441 37.5
+Deregulated Business 1,534 1,504 2.0
+Renewable Business 631 537 17.5
+Other businesses 13 1 18.2
+Corporation and adjustments 11 (27) 140.7
+Total 4,170 3,466 20.3
+Taxes
+
+Taxes increased by EUR 339 million, 22.1% higher than those registered in 2016, to reach EUR 1,875
+
+million, due to:
+
+- the positive exchange rate effect (EUR 28 million) and the decrease of EUR 43 million in the taxes
+
+from the Sustainability Act, hydropower fee;
+
+- several positive impacts recorded in 2016 that amounted to EUR 269 million and had a negative
+impact on the year-on-year comparison (the territorial supplement, the Ecotax and the discount rate
+(bono social) amounted to EUR 119 million, EUR 8 million and EUR 142 million respectively);
+
+- the negative impacts of spending on the discount rate (bono social) in 2017 for EUR 68 million and the
+increase in rates in the United Kingdom, mainly in the Generation and Customers business derived
+from the Warm Home Discount programme and the United States for EUR 30 million and EUR 6
+
+million, respectively;
+
+- provisions and other minor effects accounted for an increase of EUR 37 million.
+
+2.3.1.3. Net Operating result — EBIT
+
+EBIT totalled EUR 2,713 million, 42.1% higher in comparison with 2016 (EUR 4,686 million).
+
+Millions of euros 2017 2016 % charge
+Network Business 2,660 2,649 0.4
+Deregulated Business (33) 1,313 (102.5)
+Renewable Business 288 703 (59.0)
+Other businesses 3 (15) 120.0
+Corporation and adjustments (205) 36 (669.4)
+EBIT 2,713 4,686 (42.1)
+
+Amortisations and provisions
+
+Amortisations and Provisions rose by 41.8%, totalling EUR 4,606 million:
+
+273 [sd wWERDROLA
+
+
+--- Page 19 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- The Amortisations item rose EUR 99 million (3.2%), and reached EUR 3.186 million.
+
+co The effects that reduce this item with respect to the previous year are: the exchange rate effect,
+EUR 49 million and the modification of the useful life of the combined cycles of 35 to 40 years and
+the electromechanical equipment of the hydraulic power plants from 35 to 50 years (limited by the
+date of concession of each plant) that had a positive impact of EUR 65 million; the net impact of
+other minor effects is EUR 3 million;
+
+o The incorporation of the corporate reorganisation in Brazil and the new investments increased the
+amortisations by EUR 117 million and EUR 99 million, respectively;
+
+- Provisions represent EUR 1,420 million. The main impacts registered are:
+
+o Provision derived from the classification as maintained for the disposal of the gas business in the
+United States and Canada in the amount of EUR 744 million (Notes 34 and 41);
+
+o Reorganisation of the goodwill of the renewables business in the United States as a result of the
+tax reform amounting to EUR 450 million;
+
+o The remaining EUR 226 million are net of several less significant provisions and reversals.
+
+2.3.1.4. Financial Result
+
+The net financial result was EUR -937 million, rising EUR 34 million, improving by 3.8% compared to that
+registered in 2016 (EUR -903 million), mainly due to the consolidation of NEOENERGIA.
+
+The reduction in the average cost to 3.49% (57 b.p. lower than last year) has contributed with a EUR 64.8
+million (6%) on the improvement of the result associated to debt, despite the fact that average net debt
+increased by EUR 3,470 million.
+
+The result of the valuation of the foreign currency and derivatives items was greatly reduced by the
+valuation of the hedges on net profit in foreign currency (extraordinarily high for the pound in 2016). On the
+other hand, several non-recurrent contingencies (mainly default interest recognised in court rulings)
+resulted in higher financial income. The net impact of both effects was EUR 13 million.
+
+The contribution to the financial result of the integration of Neoenergia as from 24th August had an impact
+of EUR 86 million.
+
+2.3.1.5 Results of Companies Consolidated by the Equity Method
+
+The item of Company Results using the Participation Method accounted for EUR -29 million compared to
+2016, coming to EUR 47 million as a result of Neoenergia becoming consolidated globally instead of using
+the equity method since 24th August and the lower contribution by Gamesa-Siemens.
+
+2.3.1.6 Income from Non-Current Assets
+
+Income from Non-Current Assets amounted to EUR 279 million with a decrease of EUR 469.4% million
+compared to 2016 (EUR 49 million). In 2017 the most significant transactions were as follows:
+
+274 sd weRDROLA
+
+
+--- Page 20 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- The absorption of Gamesa and Siemens that contributed EUR 251 million (EUR 198 million)
+corresponded to the cash received as an extraordinary merger dividend;
+
+- The corporate reorganisation carried out in Brazil led to the takeover of Neoenergia, going from a
+stake of 39% to 52%, after having contributed Elektro to Neoenergia. Upon taking control, the initial
+
+shareholding of 39% was recorded at market value, recording a capital gain of EUR 44 million.
+
+- The sale of Amara and other assets resulted in net losses of EUR 14 million.
+
+2.3.1.7 Net Profit
+
+The Net Profit amounts to EUR 2,804 million, with an increase of 3.7% compared to that obtained in 2016
+(EUR 2,705 million) thanks to the impact of the tax reform in the United States, a positive figure of EUR
+2,026 million in the tax item, which meant that this item went from expenditure of EUR 935 million in 2016
+to a positive result of EUR 1,397 million in 2017.
+
+2.4 Operative evolution of the period
+
+2.4.1 Network business
+
+A. Spain
+
+IBERDROLA has approximately 11 million managed supply points and total distributed energy 93,289
+GWh, a decrease of 0.5% compared to the same period of the previous year (93,736 GWh in 2016).
+
+TIEPI's quality of supply indicator for fiscal year 2017 was 52.7 minutes, with an improvement of 2.6% over
+the previous year (54.1 minutes in 2016).
+
+The table shows the values of the TIEPI (interruption time) and NIEPI (number of interruptions) in relation
+to the previous year:
+
+Accumulated TIEPI Accumulated NIEPI
+2016 54.1 1.04
+2017 52.7 1.14
+
+The investment made during the year has allowed the following facilities to be put into operation:
+
+Physical Units 2017 Total
+Lines Overhead (km) 274
+Underground (km) 723
+Substations Transformer (units) 18
+Capacity increase (MVA) 1,816
+Substation (units) 6
+Secondary sub-stations Centres (no) ® 503
+Capacity increase (MVA ) 2 217
+
+(1) Decrease of numbers of km of HV lines by substitution by EHV lines (some owned by REE) and, in addition, EHV/HV
+transformation is being replaced by EHV/MV, leading to the elimination of some HV circuits. In June 2017, in the province of
+Valencia, the works of shifting from 132kV to 220kV were completed on the lines connecting the substations of Catadau, Valle del
+Carcer, Valldigna and Gandia, which became part of the transmission Network.
+
+275 [sl wERDROLA
+
+
+--- Page 21 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+(2) New substations put into service in 2017: Carril (380 kV) IN Murcia, Tobarra 132 kV In Albacete, Mudarra Iberdrola 220 kV In
+Valladolid, Nogalte (132kV) In Murcia, ST Armufia (132kV) In Salamanca AND ST Murcia (220kV) In Murcia.
+
+Within the STAR smart grid project, IBERDROLA has exceeded the figure of 10 million digital meters
+installed and adapted the infrastructure that supports them to a smart grid, which represents a
+modernisation of 95% of the company’s meter pool in Spain. Around 67,000 transformer stations
+distributed throughout Spain have also been adapted, now incorporating telemanagement, supervision and
+automation capabilities. So far this year, a total of 1,257,431 smart meters have been installed and 95% of
+the total have been integrated into the network. According to the CNMC report of 23 February 2017, that
+tracks the effective integration of smart meters in Spain, IBERDROLA is the number one distributor in
+terms of remote management reading.
+
+B. United Kingdom
+
+IBERDROLA has more than 3.5 million supply points in the United Kingdom. The volume of energy
+distributed during 2017 was 32,772.0 GWh (33,482 GWh in 2016), a decrease of 2.1% compared to the
+year 2016.
+
+All quality of service indicators improved compared to 2016. The average Customer Minutes Lost (CML)
+and the number of consumers affected by interruptions per every 100 customers (Customer Interruptions,
+Cl) are:
+
+2017 2016
+CML cl CML cl
+Scottish Power Distribution (SPD) 29.4 40.7 30.7 45.3
+Scottish Power Manweb (SPM) 33.2 29.6 37.2 38.9
+
+C. United States
+Distribution
+
+In the United States IBERDROLA has 2.2 million electricity supply points. The volume of energy distributed
+in the year was 36,591 GWh, which represents a decrease of 1.2% compared to 2016 (37,027 GWh).
+
+The System Average Interruption Frequency Index (SAIFI) and the Customer Average Interruption Duration
+Index (CAIDI) are as follows:
+
+2017 2016
+SAIFI CAIDI SAIFI CAIDI
+Central Maine Power (CMP) 1.61 1.83 1.78 1.89
+NY State Electric & Gas (NYSEG) 1.20 - 1.19 2.02
+Rochester Gas & Electric (RGE) 0.55 1.77 0.58 1.79
+United Illuminating Company (UI) 0.41 1.36 0.53 0.42
+
+The three companies comply with all their quality of service indicators within the limits required by the
+corresponding commission.
+
+Gas
+
+The number of gas users in the United States at the end of 2017 is over 1 million, which has been supplied
+with 51,440 GWh, a 3.8% decrease over the same period of last year when 53,460 GWh were distributed..
+
+276 [sl wERDROLA
+
+
+--- Page 22 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+D. Brazil
+
+The evolution of the demand of distributors in Brazil in 2017 increased 1.8% reaching 55,510 GWh (54,503
+
+GWh in 2016).
+
+Energy distributed (GWh) 100% of business 2017 2016 % Change
+COELBA 19,679 19,549 0.7
+COSERN 5,623 5,582 0.7
+CELPE 13,512 13,410 0.8
+ELEKTRO 16,696 15,962 46
+Total 55,510 54,503 1.8
+The number of customers served by the distributors at the end of the year reaches 14 million.
+
+Number of customers (million) 100% 2017 2016
+COELBA 6 5
+COSERN 1 1
+CELPE 4 4
+ELEKTRO 3 3
+Total 14 13
+Plant Mw Attributable MW Year
+Baixo Iguacu 350 129 2018
+Belo Monte 6,722 353 2016-2018
+Total 7,072 482
+
+2.4.2 Deregulated business
+
+A. Spain and Portugal
+
+A.1. Generation
+
+Installed capacity in Spain (without renewables) reaches 19,747 MW, with no
+
+compared to 2016 (19,745 MW).
+
+significant changes
+
+Installed capacity (MW) 2017 2016 Change
+Hydroelectric 9,715 9,713 2
+Nuclear 3,166 3,166 -
+Coal 874 874 -
+Gas combines cycles 5,694 5,694 -
+Cogeneration 298 298 -
+Total 19,747 19,745 2
+
+277 [sd weRDROLA
+
+
+--- Page 23 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The Energy Balance of the peninsular system in 2017 is characterised by a significant increase in thermal
+production compared to the previous year (26%), mainly due to the reduction of hydroelectric production
+(47%) as it was a year with very low rainfall. The rest of the production from renewable sources increased
+by 2%, mainly due to the higher wind production recorded in the last quarter (+44% compared to the same
+period of the previous year). Coal and combined cycles production have increased in 21 and 32%
+respectively in comparison to 2016. In terms of demand, it increased by 1% with respect to the same period
+of 2016, while in terms adjusted for work and temperature, it grew by 1.6%.
+
+According to IBERDROLA, during the twelve months of 2017, production decreased by 22.1% until
+reaching 39,368 GWh.
+
+The evolution of the year by technologies is as follows:
+
+Net Production (GWh) 2017 2016 % Change
+Hydraulic 7,467 18,510 (59.7)
+Nuclear 23,190 24,335 (4.7)
+Coal 2,665 2,115 26.0
+Gas combined cycles 3,883 3,724 43
+Cogeneration 2,163 1,875 15.4
+Total 39,368 50,559 (22.1)
+
+- Hydraulic production reached 7,467 GWh, a decrease of 59.7% over the previous year. The level
+of hydropower reserves as of 31st December 2017 was at 29% compared to 42% as of 31st
+December 2016 (equivalent to 3,314 GWH compared to 4,791 GWh), all due to the exceptionally
+low rainfall in the year.
+
+- Nuclear production stands at 23,190 GWh, registering a decrease of 4.7%, as a consequence of
+the lengthening of the stoppage at the Cofrentes plant.
+
+-  Coal-fired power stations reached 2,665 GWh, compared to 2,115 GWh the previous year,
+representing an increase of 26.0%.
+
+- Production of combined cycle plants, for their part, increased by 4.3%, until reaching 3,883 GWh.
+- Cogeneration plants increase their production by 15.4%, until reaching 2,163 GWh.
+A.2_ Retailing
+
+Supplied energy (electricity and gas) in Spain came to 55,157 GWh (51,614 GWh in 2016) and 7,926 GWh
+of gas (8,753 GWh in 2016).
+
+Electricity sales on the deregulated market in 2017 increased by 9.3% amounting to 47,455 GWh
+compared to 43,405 GWh supplied in the same period of 2016. Regarding the electricity supplied at the
+PVPC, it amounts to 7,702 GWh.
+
+The gas retailed in the deregulated market in 2017 increased by 9.6% to 7,863 GWh compared to 8,702
+GWh supplied in 2016.
+
+In Portugal, IBERDROLA supplied 7,587 GWh during 2017, compared to 7,343 GWh supplied in 2016
+(+3.3%), being the second seller in the Medium Voltage industrial clients.
+
+278 [sd weRDROLA
+
+
+--- Page 24 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+B. United Kingdom
+B.1. Generation
+
+As of 31 December 2017 and 2016 installed capacity in the UK reached 2,531 MW.
+
+UK capacity (MW) 2017 2016 % Change
+Hydraulic 563 563 -
+Gas combined cycles 1,967 1,967 -
+Cogeneration 1 1 -
+Total 2,531 2,531 -
+
+With regard to production from traditional electricity generation, in 2017 it decreased by 25.5% to 7,792
+GWh compared to the 10,456 GWh of the previous year, due to the aforementioned impact of the closure
+of the Longannet power plant.
+
+The market share of the generation business in 2017 was 4%, compared to 4.2% in the previous year. By
+technologies, the most outstanding aspects are the following:
+
+UK Production (MW) 2017 2016 % Change
+
+Hydraulic 692 585 18.3
+
+Coal - 1,636 (100.0)
+
+Gas combined cycles 7,100 8,234 (13.8)
+
+Cogeneration - 1 (100.0)
+
+Total 7,792 10,456 (25.5)
+B.2. Retailing
+
+Regarding sales, during 2017 customers have been supplied with 21,591 GWh of electricity and 29,514
+GWh of gas (20,951 GWh of electricity and 31,974 GWh of gas supplied during 2016). SCOTTISH POWER
+had 3 million electricity customers and 2 million gas customers as of 31 December 2017.
+
+C. Mexico
+
+IBERDROLA is the leading private producer in the country with 5,832 MW (5,473 MW in 2016) in installed
+capacity. Highlights are the entry into commercial operation of the Baja California II| power plant of 301 MW
+at the end of January 2017 and the extensions to the MXL de Monterrey III, contributing more than 22 MW
+extra to the plant for sale to private clients and a power expansion in the combined cycle of Altamira V of
+35 MW.
+
+Currently the following plants are in construction:
+
+Projects MW
+Cogeneracién Altamira (Dynasol) 57
+Cogeneracién Bajio 50
+Cogeneration 107
+Escobedo 857
+Topolobambo II 887
+El Carmen 842
+Topolobambo III 766
+
+279 [sd wERDROLA
+
+
+--- Page 25 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Combined cycles 3,352
+Total 3,459
+
+The electric energy supplied from the combined cycles and cogeneration plants has been 41,601 GWh
+(36,598 GWh in 2016), which supposes a charge factor of the 80%, because the generation with natural
+gas the base of the electric generation in Mexico. The accumulated availability of the plants in Mexico has
+been 97%.
+
+D. Brazil
+
+The power of the projects in operation at the end of 2017 is 5,653 MW (1,059 MW in the IBERDROLA
+percentage).
+
+As for the projects under construction, the pace of construction follows the planned schedule, so that the
+scheduled finish dates are maintained. Generator sets in Belo Monte continue entering into operation in a
+staggered manner. During 2017, 2,522 MW came into operation, 132 MW attributable to them.
+Construction of Baixo Iguagu continues.
+
+Plant Mw Attributable MW Year
+Baixo Iguacu 350 129 2018
+Belo Monte 6,722 353 2016-2018
+Total 7,072 482
+
+2.4.3. Renewable business
+
+At the end of 2017, the renewables business had an installed capacity of 14,141 MW (12,971 MW in 2016).
+The renewable production increased by 5.1% to 33,557 GWh (31,917 GWh in 2016).
+
+In the last 12 months, IBERDROLA increased its power in 1,316 MW.
+
+MW installed 2017 2016 MW change
+Wind Energy Spain 5,508 5,508 -
+Wind Energy USA 6,145 5,692 453
+Onshore Wind Energy United Kingdom 1,891 1,796 95
+Offshore Wind Energy United Kingdom 194 194 -
+Wind Energy Mexico 367 367 -
+Wind Energy Brazil 516 187 329
+Onshore Wind Energy Rest Of The World 605 615 (10)
+Offshore Wind Energy Rest Of The World 350 - 350
+Total wind energy 15,576 14,359 1,217
+Other renewables 507 408 99
+Total installed capacity 16,083 14,767 1,316
+
+280 (sd BERDROLA
+
+
+--- Page 26 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+A. Onshore Wind Energy
+
+In the last 12 months IBERDROLA has increased its total installed capacity to 867 MW: 320 MW were
+incorporated due to the integration of Neoenergia, 638 MW were installed and 91 MW were deconsolidated
+(81 MW due to the deconsolidation of Colorado Green and 10 MW due to the sale of the Italian
+companies).
+
+Spain
+
+The installed power at the end of 2017 has reached to an amount of 5,508 MW and manages 244 MW
+through non-consolidated participated companies.
+
+A work of two wind farms with a total capacity of 32.2 MW in the Tenerife island has been approved:
+Chimiche II (18.4 MW) and Las Aulagas (13.8 MW).
+
+United States
+
+The Company has presence in 21 states with a total of 6,145 MW wind farms installed and additional 161
+MW are managed through participated companies.
+
+In 2017 El Cabo (298.2 MW) in Nuevo Mexico, Tule (131 MW) in California, Twin Buttes II (75 MW), in
+Colorado, and Deerfield (30 MW) in Vermont were commissioned.
+
+In September construction works for Montague (201.1 MW) in Oregon started.
+
+In 2017 the construction of a 66 MW with photovoltaic technology in Oregon has been approved. Gala (56
+MW), where works ended in October with its commissioning, and W'y East (10 MW), on which works will
+begin during the first quarter of 2018. The construction of a 645 MW with wind technology has been
+approved: Karankawa (286 MW) in Texas, Coyote Ridge (96.7 MW) and Tatanka de (96.7 MW) in South
+Dakota and La Joya (166 MW) in New Mexico.
+
+United Kindom and Republic of Ireland
+
+The onshore wind power is 1,891 MW in United Kingdom and 15 MW are managed through participated
+companies.
+
+In 2017, 95 MW were commissioned: 71.5 MW en Killgallioch, 11.5 MW en Ewe Hill Phase 2, 3.4 MW in
+the extension of Hare Hill, 8 MW en Glen App.
+
+Brazil
+
+Following the incorporation of Neonergia, Brazil has 516 MW.
+
+Six projects for a total of 174 MW wind farms were finally winners in the “Leilaos” (competition) which had
+taken place during 2014. There are in the course phase the works of the following wind farms: Calango 6
+(30 MW), Santana | (30 MW) and Santana II (25 MW).
+
+Mexico
+
+In Mexico, the installed power is 367 MW.
+
+281 ("ld weRDROLA
+
+
+--- Page 27 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The following wind farms are in construction: Santiago edlico (105 MW) in Guanajuato and Pier (220.5
+MW) in Puebla. The first 20 MW in Santiago were commissioned.
+
+ROW
+
+The installed power at the end of 2017 has reached to an amount of 605 MW afollowing the sale of 10 MW
+in Italy.
+
+B. Offshore Wind Energy
+
+IBERDROLA has two offshore wind farms operating with 544 MW, West of Duddon Sands in the United
+Kingdom, located in the Irish Sea, with an installed capacity of 194 MW and Wikinger in Germany with 350
+Mw.
+
+Currently, the renewables business is developing offshore wind projects mainly in the United Kingdom,
+Germany and France.
+
+In Germany, active work is being carried out to increase the portfolio of projects in the German Baltic Sea,
+in the vicinity of the Wikinger wind farm, through the participation in the auctions that will be organised by
+the German regulator in April 2018.
+
+In France, in April 2012, the consortium formed by IBERDROLA and the French company EOLE-RES was
+awarded by the French Government the exclusive rights for the operation of the offshore wind farm of
+Saint-Brieuc, with a capacity of 500 MW. In October 2015, the project submitted its application for a
+construction license, which was granted in April 2017. This gives way to the pre-FID phase, with the
+geotechnical studies campaign currently under way as the first milestone in the construction.
+
+Iberdrola is developing in the United Kingdom the “East Anglia” project in the North Sea. The East Anglia 1
+project (714 MW) is in the construction phase, with on-site work and ongoing manufacturing activities
+initiated in various locations inside and outside Europe. Progress is being made on the wiring and land
+substation works, which will connect the project with the national network.
+
+The manufacturing works are taking place in various locations inside and outside Europe: Navantia is
+manufacturing the offshore substation and 42 jackets on which the turbines will be installed. The
+completion of the first jacket is expected in October 2018. Lamprell has started manufacturing the
+remaining 60 jackets, 24 of which will be assembled at Harland & Wolff, in Belfast. Nexans is finalising the
+detail design and will begin to produce the “sub-sea’” wiring, and Prysmian has already produced more than
+50% of the onshore wiring.
+
+The project is moving forward in order to commence the marine works in 2018, starting with the foundation
+works by van Oord, and continuing with the installation of the marine substation by Seaway Heavy Lifting,
+and the installation of the marine wiring, for its connection with the terrestrial substation, by Nexans and
+DeepOcean. Siemens Gamesa will manufacture and install the 102 units of 7MW turbines, installation of
+which is expected to begin in mid-2019.
+
+282 [sl weRDROLA
+
+
+--- Page 28 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The other three development projects owned by Iberdrola in the East Anglia area, with an accumulated
+capacity of 2,800 MW, are still being processed in accordance with the plans agreed with The Crown
+Estate. For the East Anglia 3 project, environmental approval from the Secretary of State for the
+Department of Business, Energy and Industrial Strategy of the United Kingdom was received on schedule
+on 7 August for the construction of its 1,200 MW of power. The next step for this project will be to win the
+award of a contract to sell its production (CfD: Contract for Difference) and thus ensure its viability,
+foreseeably in April 2019.
+
+C. Other technologies
+
+The Renewable business has facilities of other renewable technologies in various countries making a total
+of 507 MW, which breakdown is presented in the following table:
+
+MW installed 2017 2016 Country
+Mini-hydraulic special regime 130 130 Spain
+Mini-hydraulic ordinary regime 171 172 Spain
+Solar thermal hybrid 50 50 Spain
+Photovoltaic 155 56 USA (150MW) Greece (6MW)
+Total 507 408
+
+USA-Avangrid
+
+Gala was placed into operation with 56 MWn of photovoltaic technology, while the commissioning works
+are ongoing at W'y East (10 MWn), both in the state of Oregon.
+
+Mexico
+
+Of the 270 MWh of photovoltaic technology in construction in 2016: Santiago (170 MW) in San Luis de
+Potosi and Hermosillo (100 MW) in Sonora. 23 MW of Santiago were commissioned.
+
+283 (sd weRDROLA
+
+
+--- Page 29 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+3. LIQUIDITY AND EQUITY RESOURCES
+
+3.1. Leverage
+
+Gross financial debt as of 31 December 2017 increased by EUR 5,089 million to EUR 37,115 million
+compared to EUR 32,026 million as of 31 December 2016, mainly as a result of the integration of
+Neoenergia, which accounts for an increase of EUR 4,051 million, and investments made in 2017.
+
+As a result, financial leverage increases to 43.5% compared to 42% as fo 31 December 2016 (Note 21).
+
+Millions of euros 2017 2016
+Equity 42,733 40,687
+Gross debt 37,115 32,026
+Cash and cash equivalents (Note 20) (3,197) (1,433)
+Derivative assets and other (1,034) (1,179)
+Net debt 32,884 29,414
+Leverage 43.5% 42.0%
+
+3.2. Credit rating of IBERDROLA senior debt
+
+Agency ratings are:
+
+Agency Long-term “) Outlook Date
+Moody’s. Baa1 Positive 26/04/2016
+Fitch BBB+ Stable 08/07/2016
+Standard & Poors BBB+ Stable 22/04/2016
+
+(1) Warning: The above ratings may be revised, suspended or withdrawn by the rating agency at any time.
+
+3.3. Debt structure
+
+Regarding the evolution of the financing cost of the Company, at 31 December 2017 it stood at 2.91%
+compared to 3.17% in the same period of the previous year (Note 26 of the Consolidated financial
+statements).
+
+The structure of the debt by interest rate and currency can be seen in Notes 5 and 26 of the Consolidated
+financial statements.
+
+In accordance with the policy of minimizing the financial risks of the Company, foreign currency risk has
+continued to be mitigated through the financing of international businesses in local currencies (Sterling
+Pound, Brazilian Real, US Dollar) or in their functional currencies (US dollar, in the case of Mexico).
+
+IBERDROLA has a strong liquidity position at the end of 2017, exceeding EUR 10,061 million (Note 5 of
+the Consolidated Financial Statements).
+
+-Million euros
+
+284 (9d BERDROLA
+
+
+--- Page 30 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Credit line maturities Available
+2018 795
+2019 364
+2020 onwards 5,705
+Total 6,864
+Cash and cash equivalents (Note 20) 3,197
+Total adjusted liquidity 10,061
+
+IBERDROLA presents a comfortable profile of debt maturities, with more than six years of average debt
+life. IBERDROLA’s debt maturity profile at the end of 2017 can be seen in Note 26 of the Consolidated
+financial statements.
+
+3.4. Working capital
+
+Working capital shows an increase of EUR 730 million since December 2016 as a result mainly due to
+several different effects partially offsetting one another:
+
+- An increase of trade receivables of EUR 859 million after the global incorporation of Neoenergia.
+
+- A net increase in working capital associated with assets held for disposal, gas business in the
+United States and Canada, in EUR 221 million.
+
+- The increase in inventories of EUR 236 million, mainly due to the increase in the cost of green
+certificates (EUR 277 million, see Note 18) which is are offset by Liability provisions for emissions
+(EUR 386 million). The rest of the inventories decreased by EUR 40 million.
+
+- An increase of short-term provisions of EUR 483 million mainly due to the effect of the emission
+rights mentioned above.
+
+- Other assets of lesser amounts
+
+(Millions of euros) 31.12.2017 31.12.2016 Change
+Assets held for sale 356 - 356
+Nuclear fuel 332 323 9
+Inventories 1,870 1,634 236
+Commercial debtors and other accounts receivable 6,721 5,862 859
+Current Financial investments 601 781 (180)
+Asset derivative financial instruments “” 175 322 (147)
+CURRENT ASSETS 10,055 8,922 1,133
+Liabilities linked to assets held for sale 135 - 135
+Provisions 627 144 483
+Liability derivative financial instruments “ J 136 339 (203)
+Trade and other payables 8,422 8,434 (12)
+Current Liabilties 9,320 8,917 403
+NETWORKING CAPITAL 735 5 730
+
+(1) It does not include financial debt and debt Assets derivatives. (Note 27)
+
+(2) It does not include financial debt and debt liabilities derivatives. (Note 27)
+
+4. MAIN RISKS AND UNCERTAINTIES
+
+285 (9d BERDROLA
+
+
+--- Page 31 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+4.1 Risk Management System
+
+The IBERDROLA Group is exposed to various inherent risks in the countries, industries and markets in
+which it operates and the businesses it carries out, which could prevent it from achieving its objectives and
+executing its strategies successfully.
+
+The Company's Board of Directors, aware of the importance of this matter, has pushed for the mechanisms
+necessary to be put into place so that the risks relevant to all of the Group's activities and businesses are
+appropriately identified, measured, managed and controlled, and has established, through the Group's
+general risk control and management policy, the basic mechanisms and principles necessary for the
+appropriate management of risk-opportunity with a level of risk which allows:
+
+- attain the strategic objectives formulated by the Group with controlled volatility,
+- provide the maximum level of assurance to the shareholders,
+- protect the results and reputation of the Group,
+
+- defend the interests of customers, shareholders, other groups interested in the progress of the
+Company, and society in general, and
+
+- ensure corporate stability and financial strength in a sustained fashion over time.
+
+In the implementation of the aforementioned commitment, the Board of Directors and its Executive
+Committee have the cooperation of the Audit and Risk Supervision Committee, which, as a consultative
+body, monitors and reports upon the appropriateness of the system for assessment and internal control of
+significant risks, acting in coordination with the audit committees existing at other companies of the Group.
+
+All actions aimed at controlling and mitigating risks shall conform to the following basic action principles:
+
+a) Integrate the risk-opportunity vision into the Company’s management, through a definition of the
+strategy and the risk appetite and the incorporation of this variable into strategic and operating
+decisions.
+
+b) Segregate functions, at the operating level, between risk-taking areas and areas responsible for
+the analysis, control, and monitoring of such risks, ensuring an appropriate level of independence.
+
+c) Guarantee the proper use of risk-hedging instruments and the maintenance of records thereof as
+required by applicable law.
+
+d) Inform regulatory agencies and the principal external players, in a transparent fashion, regarding
+the risks facing the Group and the operation of the systems developed to monitor such risks,
+maintaining suitable channels that favour communication.
+
+e) Ensure appropriate compliance with the corporate governance rules established by the Company
+through its Corporate Governance System and the update and continuous improvement of such
+system within the framework of the best international practices as to transparency and good
+governance, and implement the monitoring and measurement thereof.
+
+286 /@@ BERDROLA
+
+
+--- Page 32 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+f)
+
+Act at all times in compliance with the law and the Company's Corporate Governance System and,
+specifically, with due observance of the values established in the Code of Ethics and under the
+principles of zero tolerance for the commitment of illicit acts and fraud situations included in the
+Prevention of Fraud and Crimes Policy.
+
+The General Risk Control and Management Policy and the basic principles underpinning it are
+implemented by means of a comprehensive risk control and management system, supported by a
+Corporate Risk Committee of the Group and based upon a proper definition and allocation of duties and
+responsibilities at the operating level and upon suitable supporting procedures, methodologies, and tools,
+including the following stages:
+
+a)
+
+f)
+
+The ongoing identification of significant risks and threats based on their possible impact on key
+management objectives and the accounts (including contingent liabilities and other off-balance
+sheet risks).
+
+The analysis of such risks, both at each corporate business or function and taking into account
+their combined effect on the Group as a whole.
+
+The establishment of a structure of policies, guidelines, limits and risk indicators, as well as of the
+corresponding mechanisms for the approval and implementation.
+
+The measurement and monitoring of risks, by following consistent procedures and homogeneous
+standards that are common to the Group as a whole.
+
+The analysis of risks associated with new investments, as an essential element of decision-making
+based upon profitability/risk.
+
+The maintenance of a system for monitoring of compliance with policies, guidelines, and limits, by
+means of appropriate procedures and systems, including the contingency plans needed to mitigate
+the impact of the materialisation of risks.
+
+The periodic monitoring and control of profit and loss account risks in order to control the volatility
+of the annual income of the Group.
+
+The ongoing evaluation of the suitability and efficiency of applying the system and the best
+practices and recommendations in the area of risks for eventual inclusion thereof in the model.
+
+The audit by the Internal Compliance Division of the comprehensive risk control and management
+system.
+
+In addition, the General Risk Control and Management Policy is further developed and supplemented
+through the policies listed below which are also subject to approval by the Company's Board of Directors:
+
+a)
+
+Corporate risk policies:
+
+- Corporate credit risk policy.
+
+- Corporate market risk policy.
+
+- Operational Risk Market Transactions Policy.
+
+- Insurance Policy.
+
+287 (sd weRDROLA
+
+
+--- Page 33 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+- Investment Policy.
+- Financing and Financial Risk Policy.
+- Treasury Share Policy.
+- Risk Policy for Equity Interests in Listed Companies.
+- Reputational Risk Framework Policy.
+
+- Procurement Policy.
+
+- Information Technology Policy.
+- Cybersecurity Risk Policy.
+b) Risk policies and limits of the various businesses of the Group:
+
+- Risk policy for the generation and retail business of the IBERDROLA Group.
+- Risk policy for the renewables business of the IBERDROLA Group.
+- Risk policy for the network business of the IBERDROLA Group.
+- Risk Policy for the Real Estate business of the IBERDROLA Group.
+
+The General Risk Control and Management Policy, as well as a Summary of the Corporate Risk Policies
+
+and a Summary of the Specific Risk Policies for the various Group businesses, are available on the
+corporate website (www.iberdrola.com).
+
+In order to align the risk impact with the established risk appetite, the Executive Committee of the Board of
+Directors, acting at the proposal of the business or corporate divisions involved and upon a prior report
+from the Group’s Risk Committee, annually reviews and approves specific guidelines regarding the Group’s
+risk limits.
+
+Subholding companies are responsible for adopting the Group's risk policies and specifying their
+application, approving the guidelines regarding specific risk limits, addressing the characteristics and
+unique features businesses in each country.
+
+The head of business companies of each country must approve - in their respective administration boards -
+the specific risk limits applicable to each one and implement the control systems required to ensure their
+
+compliance.
+
+The risk factors to which the Group is generally subject are listed below:
+
+288 (sd BERDROLA
+
+
+--- Page 34 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+a)
+
+c)
+
+f)
+
+Corporate Governance Risks: the Company assumes the need to safeguard the interests of the
+Company and the strategy of sustained maximisation of the economic value of the Company and
+its long-term success, in accordance with the Group’s corporate interest, culture, and corporate
+vision, taking into account the legitimate public and private interests that converge in the conduct of
+all business activities, particularly those of the various stakeholders and communities and regions
+in which the Company and its employees act. A fundamental requirement for the foregoing is
+compliance with the Company's Corporate Governance System, made up of the By-Laws, the
+Corporate Policies, the internal corporate governance rules, and the other internal codes and
+procedures approved by the competent decision-making bodies of the Company and inspired by
+the good governance recommendations generally recognised in international markets.
+
+Market risks: defined as the exposure of the Group’s results and equity to changes in market prices
+and variables, such as exchange rates, interest rates, commodity prices (electricity, gas, CO2
+emission rights, other fuel, etc.), prices of financial assets and others.
+
+Credit Risks: defined as the possibility that a counterparty fails to perform its contractual
+obligations, thus causing an economic or financial loss to the Group. Counterparties can be final
+customers, counterparties in financial or energy markets, partners, suppliers, or contractors.
+
+Business Risks: defined as the uncertainty regarding the performance of key variables inherent to
+the business, such as the characteristics of demand, weather conditions, the strategies of different
+players, and others.
+
+Political and Regulatory Risks: defined as those arising from regulatory changes made by the
+various regulators, such as changes in compensation of regulated activities or in the required
+conditions of supply, or environmental o tax regulations, including risks related to political changes
+that could affect the legal security and to the legal framework applicable to the Group’s businesses
+in each jurisdiction, the nationalization or expropriation of assets, the operating licenses
+cancelation and the previous end of the contracts of the administration.
+
+Operational Risks: defined as those related to direct or indirect economic losses resulting from
+inadequate internal procedures, technical failures, human error, or as a consequence of certain
+external events, including the economic, social, environmental, and reputational impact, as well as
+legal and fraud risks.
+
+Reputational Risks: potential negative impact on the value of the Company resulting from the
+conduct of the Company that is below the expectations created among various stakeholders:
+shareholders, customers, media, analysts, Government, employees, and society in general.
+
+Owing to its universal and dynamic nature, the system allows for the consideration of new risks that may
+affect the Group as a consequence of changes in its operating environment or revisions of objectives and
+strategies, as well as adjustments resulting from ongoing monitoring, verification, review and supervision
+activities.
+
+The Audit and Risk Supervision Committee of the Board of Directors periodically monitors the evolution of
+the Company's risks:
+
+It reviews the Group’s risk quarterly reports, which include monitoring compliance with risk limits
+and indicators and updated key risk maps, submitted by the Group’s director of corporate risks.
+
+289 (sd BERDROLA
+
+
+--- Page 35 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- It coordinates and reviews risk reports sent periodically, at least semi-annually, by the audit and
+compliance committees of the main subsidiaries of the Group, being included the subholding
+companies of the main countries where the Group operates that, along with the risk director
+appearances are used to prepare a risk report for the Board of Directors at least semi-annually.
+
+For further details, see the section E of Control systems and risk management of the Corporate
+Governance Report 2017.
+
+4.2. Credit risk
+
+The IBERDROLA Group is exposed to the credit risk arising from the possibility that counterparties
+(customers, suppliers, financial institutions, partners, etc.) might fail to comply with contractual obligations.
+This exposure may arise with regard to unsettled amounts, to the cost of replacing products that are not
+supplied, as well as, in the case of dedicated plants, to amounts on which depreciation is pending, of said
+plants.
+
+Credit risk is managed and limited in accordance with the type of transaction and the credit worthiness of
+the counterparty. A specific corporate credit risk policy is in place which establishes criteria for admission,
+approval systems, authorisation levels, scoring tools, exposure measurement methodologies, etc.
+
+With regard to credit risk on trade receivables, the historical cost of defaults has remained moderate and
+stable at close to 1% of total turnover of this activity, despite the current difficult economic environment.
+Regarding other exposure (counterparties in transactions with derivatives, placement of cash surpluses,
+sale transactions involving energy and guarantees received from third parties), in 2017 and 2016 there
+have been no material non-payments or losses.
+
+The Group’s Networks businesses in Spain and the UK do not sell energy. Therefore their credit risk is
+limited. In the case of Brazil and the United States, the activity of supplying to regulated tariff allows to
+recover, in general terms, commercial default.
+
+4.3. Financial risk
+4.3.1. Interest rate risk
+
+The IBERDROLA Group is exposed to the risk of fluctuations in interest rates affecting cash flows and
+market value in respect of items in the balance sheet (debt and derivatives). In order to adequately manage
+and limit this risk, the IBERDROLA Group manages annually the proportion of fixed and variable debt and
+establishes the actions to be carried out throughout the year: new sources of financing (at a fixed, floating
+or indexed rate) and/or the use of interest rate derivatives.
+
+The reference interest rates for the floating rate borrowings are basically Euribor, Libor- sterling pound,
+Libor-dollar and the CDI in the case of the debt of the Brazilian subsidiaries .
+
+Additionally, as of 31 December 2017, the IBERDROLA Group has arranged derivatives to cover the
+interest rate risk of the future financing for a nominal amount of EUR 3,620,000 thousand euros, which
+
+help to mitigate the interest rate risk.
+
+The debt structure at 31 December 2017, once considered the hedge provided by the derivatives traded, is
+included in the Note 5 of the Consolidated financial statements.
+
+290 9 BERDROLA
+
+
+--- Page 36 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+4.3.2. Foreign currency risk
+
+As the IBERDROLA Group's presentation currency is the euro, fluctuations in the value of the currencies in
+which borrowings are instrumented and transactions are carried out with respect to the euro, mainly the
+Sterling Pound, the US Dollar and the Brazilian Real, may have an effect on the finance costs, profit and
+equity of the Group.
+
+The following items could be affected by exchange rate risk:
+
+- Proceeds and payments for supplies, services or equipment acquisition in currencies other than
+the local or functional currencies.
+
+- Income and expenses incurred by certain foreign subsidiaries indexed to currencies other than the
+local or functional currencies.
+
+- Debt and financial expense denominated in currencies other than the local or functional currency.
+- Profit or loss in consolidation of the foreign subsidiaries.
+- Consolidated carrying amount of investments in foreign subsidiaries.
+
+- Expense for taxes in Mexico because the functional currency (United States dollar) differs from the
+currency for calculation purposes of corporate taxes (Mexican peso).
+
+The IBERDROLA Group reduces this risk by:
+
+- Ensuring that all its economic flows are carried out in the currency of each Group company,
+provided that this is possible and economically viable and efficient, through the use of derivatives if
+not.
+
+- As far as possible, this covers the risk of transfer of earnings scheduled for the current year,
+thereby limiting the ultimate impact on Group earnings.
+
+- As far as possible, this covers the expense of the exchange rate risk in the Mexican corporate
+taxes, limiting the overall impact on the earnings of Mexico and of the Group.
+
+- Mitigating the impact on the consolidated net asset value of a hypothetical depreciation of
+currencies due to Group’s investment in foreign subsidiaries by maintaining foreign currency debt,
+as well as through financial derivatives.
+
+The sensitivity of the consolidated profit and equity of the IBERDROLA Group to changes in the dollar/euro,
+sterling pound /euro and Brazilian real/euro exchange rate is as referred to in Note 5 of the Consolidate
+financial statement. The detailed information interest rate and currency can be seen in Note 26 of the
+Consolidated financial statement.
+
+4.3.3. Liquidity risk
+
+Exposure to adverse situations in the debt or capital markets or in relation to the IBERDROLA Group's own
+economic-financial situation may hinder or prevent the IBERDROLA Group from obtaining the financing
+required to properly carry on its business activities.
+
+291 ("ld wERDROLA
+
+
+--- Page 37 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+IBERDROLA Group's liquidity policy is designed to ensure that it can meet its payment obligations without
+having to obtain financing under unfavourable terms. For this purpose, various management measures are
+used such as the arrangement of committed credit facilities of sufficient amount, deadline and flexibility,
+diversification of the coverage of financing needs through access to different markets and geographical
+areas, and diversification of the maturities of the debt issued.
+
+The balances for cash, liquid assets and available committed credit facilities are sufficient for meeting the
+Group's liquidity (not including NEONERGIA) needs for more than 18 months, not including the new
+inancing facilities.
+
+The figures relating to changes in the Company's debt are included in Notes 26 and 52 to the Consolidated
+inancial statements.
+
+4.4. Country risk
+
+The activities of the different businesses that the IBERDROLA Group developed are submitted, in greater
+or lesser extent depending on their characteristics, to various risks inherent to the country where they
+operate:
+
+- Imposition of monetary and other restrictions on the movement of capital.
+
+- Changes in the trade environment and administrative policies.
+
+- Economic crisis, political instability and social riots affecting operations.
+
+-  Nationalisation or expropriation of assets.
+
+- Exchange rate fluctuations.
+
+-  Cancelation of operating licenses.
+
+- Anticipated termination of Government contracts.
+
+- Regulatory changes.
+
+The results of our international subsidiaries, their market value and their contribution to the Group may be
+affected by such risks.
+
+The IBERDROLA Group's main operations are focused on Spain, United Kingdom, USA, Brazil and
+Mexico, countries with low or moderate risk, whose credit ratings at 31 December 2017 are as follows:
+
+Country Moody's S&P Fitch
+Spain Baa2 BBB+ BBB+
+United Kingdom Aa2 AA AA
+United States Aaa AA+ AAA
+Brazil Ba2 BB BB
+Mexico A3 BBB+ BBB+
+
+The presence in countries other than the ones mentioned above is not significant at Group level from an
+economic point of view.
+
+202 Isl BERDROLA
+
+
+--- Page 38 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+4.5. Activity risks
+
+The activities of the various businesses developed by the IBERDROLA Group are subject to various risks
+including market, credit, operational, business, regulatory and reputational risks arising from the uncertainty
+of the main variables that affect them.
+
+It must be noted that on 24 August 2017, after the integration of Elektro (formerly 100% owned by
+IBERDROLA) in Neonergia, the Group passed to control 52.45% of said group, globally consolidating said
+activity. Neoenergia operates in the sectors of electricity generation, transmission, and distribution in
+Brazil.
+
+The analysis by businesses made in this section consider the management model in force at the end of
+2017, where the hydraulic capacity in Spain is managed and operated by Generation and Customers
+business, given that the transfer notice of said activity to the Renewable business is pending development,
+and is forecast to be carried out in 2018.
+
+The gas business in the United States and Canada is considered a non-strategic asset by Avangrid, in its
+publication of its 2016 annual results on 21 February 2017.
+
+4.5.1.Regulatory and political risks
+
+Companies in the IBERDROLA Group are subject to laws and regulations concerning prices and other
+aspects of their activities in each of the countries in which they operate. The introduction of new laws and
+regulations or amendments to the already existing ones may have an adverse effect on the Group’s
+operations annual results and economic value of businesses.
+
+The following paragraphs are a few of the new major regulatory measures that were approved in 2017 or
+are due to be implemented in 2018:
+
+Spain:
+
+On 23 December, the Royal Decree-law 7/2016 and Royal Decree 897/2017 and Order
+ETU/943/2017 which regulate the mechanism for financing the cost of Social tariff and other
+measures to protect vulnerable electricity consumers (“social tariff!) and other protections
+measures for home electricity consumers implemented by retail companies.
+
+United States:
+
+Approval of rate cases by the regulator of the Estate of New York RG&E and NYSEG, valid from
+July 2016 for a period of three years, in satisfactory terms for the Company.
+
+Brazil:
+Approval by the Brazilian regulator ANEEL of the new terms for the new regulatory period of Celpe,
+valid for a period of four years, in satisfactory terms for the Company. Annual rates for Coelba,
+Cosern and Elektro were revised. Lastly, ANEEL's publication of Technical Note No. 179/2017-
+SRM must be noted, which establishes greater requirements in terms of corporate governance for
+electricity distribution companies.
+
+Mexico:
+
+293 sd wERDROLA
+
+
+--- Page 39 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- Approval of the Energy Regulatory Commission's Agreement A/058/2017 which defines the
+methodology to determine the final tariffs calculations and adjustment, along with operations tariffs
+that will apply to the subsidiary production company "CFE Suministrador de Servicios Basicos”
+from 1 December 2017 to 31 December 2018. Once this new methodology to calculate the
+electricity tariff, which was announced in 2016, was published, regulatory uncertainty lessened.
+
+4. 5. 2. Network business risk
+
+The regulations of each country in which the IBERDROLA Group's network businesses operate establish
+regularly revised frameworks, guaranteeing that these businesses will receive reasonable and predictable
+returns. These frameworks include penalties and bonuses for efficiency, service quality and, eventually, for
+default management, which have a minor, immaterial impact overall. Any change to the aforementioned
+regulation may represent a risk for said business.
+
+In general, the profitability of the IBERDROLA Group's network businesses is not exposed to demand risk,
+except for the Brazilian subsidiaries.
+
+The IBERDROLA Group's network businesses in Spain and in the United Kingdom are not exposed to any
+market risk associated with energy prices.
+
+The network businesses in Brazil and some of the businesses in the USA sell energy to regulated
+customers at a price determined by certain previously approved tariffs. In the case of a prudent
+procurement management and as established by the regulator, the regulatory frameworks in both countries
+guarantee sums will be collected in subsequent tariff readjustment reviews for possible purchase price
+deviations from those previously recognised in the tariff.
+
+Given the above, in the case of extraordinary events (extreme drought in Brazil as happened in 2014,
+catastrophic storms in USA, etc.), occasional temporary gaps between payments and collections may arise
+with an impact on the cash flows of some of these businesses and eventually on profits recognised under
+IFRS.
+
+Spanish networks:
+
+The present regulatory model is based on Electricity Sector Law 24/2013 of 26 December, establishing
+regulatory six-year periods and profitability for distribution activity calculated as the yield on government
+bonds plus 200 basis points. Profitability was set at 6.5% for the first regulatory period, which was extended
+until the end of 2019. Fluctuation of the financial remuneration rate used between two consecutive years
+may not exceed 50 basic points in absolute value.
+
+Royal Decree 1048/2013 of 27 December establishing the methodology to calculate remuneration for
+electricity distribution activities defines a methodology based on standard unit costs of investment and
+operation. The remuneration of facilities will be calculated on the basis of the real audited cost and the
+standard cost recognised for each investment, and therefore profitability will depend on the constructive
+efficiency achieved.
+
+Moreover, in accordance with current regulations, the distribution company does not sell any energy to
+customers, and it is therefore not exposed to market risk at the present time. This means that fluctuations
+
+in demand have no direct impact on the income statement.
+
+United Kingdom Networks:
+
+204 19d wERDROLA
+
+
+--- Page 40 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The group operates in the United Kingdom through its subsidiary Scottish Power Ltd and the following
+licences:
+
+- SP Distribution PLC (SPD)
+- SP Manweb PLC (SPM)
+- SP Transmission PLC (SPT)
+
+The current regulatory model for SPD and SPM is based on the RIIO ED1 framework, and on the RIIO T1
+framework in the case of SPT. The latest tariff review for electricity distributors (RIIO ED1), including SPD
+and SPM, is valid from April 2015 to April 2023. The SPT review (RIIO T1) is valid from April 2013 to April
+2021.
+
+The weighted average cost of capital or WACC is set for each tariff period. The current real WACC after tax
+recognised for distribution activities was 3.67% from January to March, and 3.59% from April to December,
+whereas for transmision activities it was 4.46% from January to March and 4.37% from April to December.
+
+The regulator (OFGEM) also establishes incentives/penalties for safety, environmental impact, consumer
+satisfaction, social obligations, connections and quality, which may have an effect on the income
+statement.
+
+United States Networks:
+
+The Iberdrola Group operates in the US through its listed subsidiary Avangrid, which in turn has the
+following subsidiary network companies:
+
+- New York State Electric & Gas (NYSEG), New York, with a 3-year rate case valid until 2019 (base
+ROE 9% for distribution).
+
+- Rochester Gas and Electric (RG&E), New York, with a 3-year rate case valid until 2019 (base ROE
+9% for distribution).
+
+- Central Maine Power (CMP), Maine, conducting electricity distribution business with an annual
+extendable rate case (base ROE 9.45% for distribution), and transmission business (base ROE
+10.57%).
+
+- United Illuminating (Ul), Connecticut, with rates in force for conducting electricity distribution
+business (base ROE 9.1%) and for transmission business (base ROE 10.57%).
+
+- It also has the following natural gas distribution companies: Maine Natural Gas Corporation (MNG),
+Connecticut Natural Gas (CNG), Southern Connecticut Gas (SCG) and Berkshire Gas (BG).
+
+Companies carrying on regulated business in the US are exposed to risks associated with the regulations
+of a number of federal regulatory bodies (FERC, CFTC, DEC) and state commissions, responsible for
+establishing the regulatory frameworks of the companies regulated (tariffs and other conditions).
+
+The distributors’ tariff plans have been designed to reduce the risk to which business is exposed through
+mechanisms for deferral, reconciliation and provisions for costs. Regulated distributors pass on the costs of
+
+gas and electricity to end customers, thereby mitigating any impacts of fluctuations in demand.
+
+Brazilian Networks:
+
+295 9d wERDROLA
+
+
+--- Page 41 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The IBERDROLA Group operates in Brazil through its listed subsidiary NEOENERGIA, which in turn has
+the following subsidiary network companies:
+
+— Elektro Redes, S.A. (in the states of Sao Paoloand Mato Grosso do Sul), current rates until August
+2019 and WACC of 8.09%;
+
+— Companhia de Eletricidade do Estado do Bahia (“Coelba”), operating in the state of Bahia. rates in
+force until April 2018 and WACC of 7.5%;
+
+— Celpe Energetica de Pernambuco S.A. (“Celpe”), operating in the state of Pernambuco. rates in
+force until April 2021 and WACC of 8.09%;
+
+— Companhia Energética do Rio Grande do Norte (“Cosern”), operating in the state of Rio Grande do
+Norte. Rates in force until April 2018 and WACC of 7.5%;.
+
+— Several transmission assets with their own regulation.
+
+The Brazilian regulatory framework is based on a system of price cap that is revised every four or five
+years, depending on each company’s concession contract and is updated annually by the regulator.
+COELBA and COSERN have a five-year term and CELPE and ELEKTRO have a four-year term.
+
+Brazilian legislation applicable to regulated electricity distribution business establishes two types of costs: i)
+“Plot A”, which includes the costs of energy, transport and other obligations and regulatory charges, which
+can be recovered through tariffs (“pass through”) as part of the conditions and limits imposed by ANEEL,
+except for other obligations and regulatory charges which can always be recovered through tariffs, and ii)
+“Plot B”, which includes remuneration for investment and the costs of operation and maintenance, which
+generate either an incentive or a risk for the investor.
+
+ANEEL also acknowledges other smaller incentives to minimise default and impairment of quality and
+customer satisfaction that can affect the income statement.
+
+Pursuant to current legislation, electricity distribution companies:
+
+a) transfer the cost of supplying electricity to the end customer through the regulated tariff, provided
+the energy contracted is between 100% and 105% of the demand required.
+
+b) risk penalties imposed by the regulator ANEEL, when this is less than 100% due to the exclusive
+responsibility of the distributor.
+
+c) risk price fluctuations when it is above 105%.
+4.5.3. Renewable business
+
+The regulations of each country in which the Group operates establish regulatory frameworks aimed at
+promoting the development of renewable energies based on formulas which may include premiums, green
+certificates, tax or regulated tariff deductions, which allow investors to obtain sufficient and reasonable
+return. Any change to the aforementioned regulation may represent a risk for said business.
+
+In addition to the aforementioned regulatory risk, Group’s renewable energy businesses may be subject to
+a greater or lesser extent, to wind resource risk and market risk.
+
+The Group considers that the wind resource risk is mitigated through the high number of wind power farms
+
+available and their geographic diversification, and the trend to compensate less wind energy periods with
+those with high wind energy on the medium term.
+
+296 (sd BERDROLA
+
+
+--- Page 42 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Regarding the electricity price risk the following should be mentioned:
+
+Renewables business — Spain
+
+The Group currently has a renewable installed capacity in Spain of: 5,752 MW wind farms, 303 MW
+mini hydro, and 50 MW solar thermal.
+
+Subsequent to the approval of the new regulatory framework (the Royal Decree-law 9/2013, of 12
+July, Law 24/2013, of 26 December, the Royal Decree 413/2014, of 6 June, and the Ministerial Order
+IET/1045/2014, of 16 June and the Ministerial Orden ETU/130/2017, of 17 February), all renewable
+energy generated since 2014 is remunerated at market price plus a premium per MW. This
+guarantees a reasonable regulated return based on a recognised standard investment.
+
+— The reasonable rate of return of the investments is defined on the basis of the average yield on 10
+year government bonds plus 300 basic points (that is, 7.4% for the first six-year period ending on
+31 December 2019).
+
+— This return is readjusted every three years within predetermined bands to cover any possible
+deviation in market price.
+
+— The facilities that began operating in 2003 or before have a null premium, and therefore are fully
+exposed to market risks.
+
+For the purposes of mitigating risk, the Renewables business in Spain annually sells the production
+exposed to market risk to the Spanish division of the Generation and Customers business at a market
+price that is reviewed each year. In this manner, the year-on-year volatility of the loss and profit
+account due to the markets is practically eliminated.
+
+Renewables business — United Kingdom
+
+The Group's current renewables installed capacity in the UK is: 1,906 MW in onshore wind plants and
+194 MW in offshore wind plants, operational under current “Renewables Obligation” legislation. This
+means that income is partially exposed to the risk of the market price for electricity in the UK, as the
+revenues obtained comprise income from the price of the energy produced and the sale of renewables
+obligation certificates (ROC certificates).
+
+UK regulations impose minimum ROC obligations per MWh sold on sellers of electricity, 10% more
+than the system envisages producing, and determine the price at which the rest must buy, which in
+practice amounts to a floor price at the price of the ROCs.
+
+New renewable technology plants, implemented from 1 April 2017 (onshore wind plants, implemented
+as of 12 May 2016), are subject to the new “Contract for Difference” remuneration scheme, or CfD,
+which eliminates market risk for 15 years. Such is the case of the East Anglia offshore plant of 714
+MW, currently under construction.
+
+The fixed prices for these projects are established on a project-by-project basis through public tenders.
+The counterparty guaranteeing this price, “The Low Carbon Contracts Company”, finances its potential
+payments by charging a fee to distributors depending on their market share, and therefore the credit
+risk with the counterparty is practically zero.
+
+297 1: weRDROLA
+
+
+--- Page 43 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+As is the case in Spain, the positions exposed to market risk of the renewables businesses in Spain
+and the UK are managed and included in their position in the Deregulated businesses in these
+countries, to be hedged in the most efficient manner possible.
+
+In addition, the Group has a 15 MW onshore wind farm in the Republic of Ireland at market price.
+Renewables business - United State
+
+The Iberdrola Group conducts its renewables business in the US through its listed company Avangrid,
+which has an installed capacity of 6,145 MW in onshore wind plants, and 119 MW in operational
+photovoltaic plants.
+
+At the present time, approximately 65% of the energy produced is sold on fixed-price long-term
+contracts with third parties. Some 17% have coverage contracts of some type, and the remaining 18%
+of the energy produced is sold to the market in more or less short terms.
+
+With electricity prices around USD 30/MWh, a 5% change in prices could give rise to an impact of
+EUR +4 million on operating results.
+
+Renewables business - Mexico
+
+In Mexico the business now has an installed capacity of 367 MW in operational onshore wind plants,
+with two sale schemes: a) fixed-price sale to the CFE on a long-term contract and b) sale to third
+parties with a discount on the official price published by the CFE. In addition, 326 MW wind and 270
+MW solar plants are being constructed.
+
+The new tariff methodology approved in December 2017 reduces the business’ exposure to market
+prices of different commodities in international markets.
+
+Renewables business - Brazil
+
+In Brazil the business now has an installed capacity of 516 MW in onshore wind plants, all operating
+on long-term contracts (PPAs) with a fixed price for the country's distributors. Excesses and shortages
+in the production contracted with the distributor are settled over periods of four years, and excesses
+must be offered and shortages purchased at market prices.
+
+Renewables business in other European countries
+
+The offshore wind farm Wikinger (Germany) is highlighted, with startup forecast for the first quarter of
+2018. Pursuant to German regulations, the new Wikinger plant will have a fixed price for the energy it
+produces over the first 15 years of operation on a CfD contract, similar to the aforementioned setup in
+the UK.
+
+Installed capacity is currently 605 MW in wind plants and 6 MW in photovoltaic facilities operational in
+other European countries. Regulations in these countries make a distinction between two energy sale
+schemes: sales at the tariff (Portugal, Greece, Cyprus and Hungary), or sales at market price
+(Romania).
+
+298 (sd BERDROLA
+
+
+--- Page 44 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+4.5.4. Generation and Retail Businesses
+
+The activities of the Group's deregulated businesses are subject to a range of market, credit, operating,
+business and regulatory risks, coming from the uncertainty of the main variables that affect them, such as:
+fluctuations in commodity prices, changes in hydroelectric and wind energy production (of both the Group's
+and of third parties), changes in electricity and gas demand, and plant availability.
+
+The main variable that affects IBERDROLA’s result in terms of raw materials’ market price is the electricity
+price. However, in many countries, electricity prices are strongly correlated with the price of the fuels used
+in its production. Therefore, risk studies are carried out on fuel price trends and CO». These price risks are
+not only made patent in the electricity generation and retailing business but also in the following activities,
+with a much lower weight in the business' total results.
+
+- The gas retailing business, in which a large portion of the IBERDROLA Group's operating
+expenses relate to the purchase of gas for customer supplies. The IBERDROLA Group is therefore
+exposed to the risk of variations in the price of gas.
+
+- Unhedged energy transactions (discretionary trading).
+
+To a large extent, the mutual closing out of positions by the generation business and retailing business
+mitigates the market risk to which the Group is exposed. The remaining risk is mitigated by diversifying sale
+and purchase agreements, and specific clauses therein, as well as by arranging derivatives.
+
+Deregulated and retail businesses in Spain
+
+Commodities’ Price risk
+
+Given current market conditions, the production price of the coal-fired power plants defines, to a large
+extent, the price of electricity in Spain since coal is the marginal technology necessary to cover electricity
+demand. Consequently, the price of coal conditions revenues from the other less expensive technologies
+which are used to cover demand. With coal prices around USD 90 per tonne, a 5% change in the prices
+could give rise to an impact of EUR +20 million on operating results.
+
+The price of CO2 influences the cost of production in coal-fired power plants. With coal prices around EUR
+7 per tonne, a 5% change in the prices could give rise to an impact of EUR +4 million on operating results.
+
+The majority of gas supplied in Spain is paid indexed to the price of oil by means of complex formulas.
+IBERDROLA Group has another type of agreements of fixed-price supply and with prices not indexed to
+the market price of oil. These agreements are used for electricity generation, for the consumption of its final
+customers and for sale to other intermediaries. Due to the fact that the electricity generation margin is
+covered by the contracting formulas of the system operator, only residual risk remains in sales to final
+customers and third parties. The risk assumed is reduced and depends on the correlation between the
+price of oil and the European and international gas prices. In the event of a 5% fluctuation in the oil price,
+the risk would be EUR +#1million.
+
+Hydraulic risk
+
+Despite having a large water storage capacity, IBERDROLA Group's results depend significantly on the
+flow contributions. The changes in output with respect to the average value can be up to -4,000 GWh ina
+dry year and +5,000 GWh in a wet year, the variability would be between EUR +190 million. The loss of
+profit is not covered as it is an IBERDROLA Group’s inherent risk.
+
+299 1; BERDROLA
+
+
+--- Page 45 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Demand risk
+
+Given the current market condition, where price is primarily determined by the generation cost of coal-fired
+plants, which make up around 15% of the generation mix, it is not considered that demand fluctuations will
+impact on marginal technology in the market. The impact on the market price of a 1% change in demand is
+therefore limited, amounting to approximately EUR 0.25 per MWh.
+
+A moderate drop in demand in Spain does not affect the scheduled output of the Group's nuclear,
+hydroelectric and wind power plants, since there is a mandatory electricity market in Spain guaranteeing
+the efficient dispatch of output from all technologies.
+
+Nevertheless, there could be an impact if a drop in electricity demand entails an equivalent reduction in the
+Group's retail sales and consequent narrowing of margin. This is mitigated to some extent by increasing
+sales of own energy on the wholesale market.
+
+Taking both effects into account, it is estimated that a 1% fluctuation in demand would have an impact of
+EUR +8.5 million overall.
+
+Operational risk
+
+From the perspective of its impact on business results, the main risk arises from nuclear power plant
+outages (due to stoppages for fuel reloading, in accordance with a pre-established schedule) and
+hydroelectric power plant outages which are not associated with a large storage reservoir (flow facilities, in
+which water is not storable). As a result of such outages, production and, therefore, the margin associated
+with this production are lost. This risk is managed through excellence in the operating and maintenance
+practices of the plants and a culture focused on total quality and the reduction of operational risks, which
+allow the impact of this risk to be kept low.
+
+Deregulated and retail businesses in UK
+
+Commodities’ Price risk
+
+The IBERDROLA Group does not count on having coal plants in the UK after the closure of current plant
+Longannet at the end of March 2016. The generation capacity in said country is comprised of 2,000 MW
+combined cycles and 566 MW hydraulics plants.
+
+In the British market, geared towards thermal power generation, the clean spark spread has become the
+appropriate index to follow the uncertainty of the margins of coal-fired power plants. Despite the fact that
+commodities (coal, CO2 and electricity) are listed separately, the uncertainty of the unit margin is studied
+since it has been detected that it is a better indicator of the uncertainty of the results. With clean spark
+spread levels around GBP 4 per MWh, a 5% change in the spreads could give rise to an impact of EUR 7
+million on operating results.
+
+IBERDROLA Group does no longer have long-term agreements at a fixed price.
+
+Recently, the British government has decided to set a maximum price for the gas and electricity tariffs
+which a mode of customers pay a “standard variable tariff’. Throughout 2018, the British government will
+carry out a question and answer procedure on the calculation method of said maximum price, which is not
+expected to enter into effect until 2019. In any case, the setting of this maximum price is expected to
+
+negatively affect the retail business results of the Group in the UK.
+
+Demand risk
+
+300 (9d BERDROLA
+
+
+--- Page 46 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Electricity consumption demand is usually one of the most significant risk factors for any company.
+However, IBERDROLA currently purchases from third parties a significant portion of the energy it sells (12
+TWh in 2017, of a total amount of electricity sold of approximately 22 TWh/year), since it is more profitable
+to do so under current market conditions than IBERDROLA producing it and using its own thermal power
+plants. From a business perspective, fluctuations in electricity demand mean that additional amounts of
+electricity need to be purchased or that these acquisitions need to be reduced. In any case, the profit or
+loss IBERDROLA obtains from this intermediation is low and much lower than that obtained from its own
+output. Thus, demand fluctuations have a small impact on profit or loss of EUR +10 million for every 1%
+luctuation in customer demand.
+
+Operational risk
+
+From the perspective of its impact on business results, the main risk arises from the combined cycle power
+plants outages (due to stoppages for fuel reloading, in accordance with a pre-established schedule) . With
+regard to these outages, all profit or loss obtained from production is committed, although the high
+operating and maintenance standards of the plants and a culture focused on total quality and the reduction
+of operational risks, allow the impact on this risk to be kept low.
+
+Deregulated and retail businesses in Mexico
+
+Commodities’ Price risk
+
+Electricity generation at Iberdrola Generacién Mexico is gas-intensive. Gas prices therefore comprise an
+essential component of this risk.
+
+Approximately 82% of the electricity generated in Mexico is sold through long-term sales agreements (to
+CFE and, to a lesser extent, other major industrial customers), whereby the risk associated with the price of
+gas for generating this electricity is passed on.
+
+The remaining energy is sold to customers at a price linked to the official tariffs published by CFE. Said
+tariffs depend on the cost of the inherited contracts (originating before the Electricity Sector's recent reform)
+and on the market price of electricity.
+
+Demand risk
+
+The structure of the agreements IBERDROLA has entered into in Mexico isolates the business results from
+electricity demand fluctuations. Revenues come mainly from plant availability and only the sales indexed at
+the official Mexican tariff are subject to a certain extent by the fluctuation in demand. Nonetheless, most of
+the plants have committed sales exceeding their production capacity and therefore a shift in demand would
+not have an impact on their operations or results as the electricity generated would be sold to another
+customer. Changes in electricity demand in Mexico therefore have no effect on results.
+
+Operational risk
+
+From the perspective of its impact on business results, the main risk arises from the combined cycle power
+plants outages (due to stoppages for fuel reloading, in accordance with a pre-established schedule) . With
+regard to these outages, all profit or loss obtained from production is committed, although the high
+operating and maintenance standards of the plants and a culture focused on total quality and the reduction
+of operational risks, allow the impact on this risk to be kept low.
+
+Derequlated and retail businesses in Brazil
+
+301 (9d weRDROLA
+
+
+--- Page 47 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The Group had 2,113 MW hydraulic generation installed and 533 MW combined cycle in Brazil at year-end,
+of which approximately 80% of the hydraulics and 100% of the combined cycle generation are contracted
+long-term with electricity distributors in countries through PPA contracts.
+
+The rest of the production is sold to qualified customers with an expectation of between one and two years,
+according to Brazilian market prices. With market prices in the area of 220 R$/MWh, a price fluctuation o
+5% would affect the results by some EUR 4 million.
+
+Gas supply operations
+
+The IBERDROLA Group maintains an adequate balance in the global mix, both in terms of the number o'
+supplier countries and the type of supply (gas via pipelines or GNL), which is demonstrated in that it has
+five suppliers from different areas (Norway, Nigeria, United States and Lybia, among others).
+
+In the Spanish case, gas supply is guaranteed through long-term agreements. The 23% of this mix o'
+agreements is at a fixed price and the remainder is linked to the prices of various fuels on international
+markets.
+
+Gas supply in Mexico is secured through long-term agreements with PEMEX and CFE at a price linked to
+international natural gas prices in the US or contracting in the United States and, therefore, with price that
+depends on the same gas prices in that country.
+
+Unhedged energy transactions (discretionary tradin
+
+Discretionary trading of electricity, gas, emissions allowances and other fuels and associated products
+performed by some of the Group's businesses is residual and the overall risk thereof is mitigated using
+individual stop-loss limits, whose total aggregate can never exceed 2% of the Consolidated net profit for the
+period, pursuant to the market risk policy approved by IBERDROLA, S.A.'s Board of Directors.
+IBERDROLA has reduced discretionary trading in recent years in line with the widespread move away from
+market speculation. At the end of December 2017, the notional value of derivatives used in speculative
+trading (calculated in accordance with the criteria set forth in the European Market Infrastructure Regulation
+(EMIR)) was below EUR 83 million versus EUR 91 million at 31 December 2017. In any case, these values
+
+are much lower than EUR 3,000 million and 1,000 million threshold that is set for non-financial companies
+in the European regulation (EMIR).
+
+4.5.5 Other operational risks
+
+All of the IBERDROLA Group’s activities, direct or indirect losses may arise as a result of inadequate
+internal procedures, technical failures, human error or external factors.
+
+Specifically, the IBERDROLA Group is also exposed to the following operational risks:
+
+- Risk of malfunctions, explosions, fire, toxic spillages or polluted emissions in gas and electricity
+distribution networks and generating plants.
+
+- Risks concerning extreme meteorological conditions and other instances of force majeure.
+
+- Risk of sabotage and/or terrorism.
+
+302 (9d wERDROLA
+
+
+--- Page 48 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Any of these risks could cause damage or destruction to the IBERDROLA Group's facilities, as well as
+injuries to third parties or damage to the environment, along with the ensuing lawsuits, especially in the
+event of power outages caused by accidents at our distribution networks and possible penalties imposed
+by the authorities.
+
+Although many of these risks are unpredictable, the IBERDROLA Group mitigates them by carrying out the
+necessary investments, implementing operation and maintenance procedures and programmes (supported
+by quality control systems), planning appropriate employee training, and taking out the required insurance
+covering both material damages and civil liability.
+
+In relation to the insurance cover, IBERDROLA has international insurance programmes to cover equity
+(insurance for material damages, machinery breakdowns, loss of profits, damages from natural disasters
+and risks arising from construction work) and third-party liabilities (general civil liability, liability for
+environmental risks, professional civil liability, etc.).
+
+However, this insurance does not completely eliminate operational risk, since it is not always possible, or it
+is not in its interest to pass such risk on to insurance companies. In addition, cover is always subject to
+certain limitations.
+
+Risks in connection with nuclear business
+
+The IBERDROLA Group’s nuclear power plants in Spain are also exposed to risks relating to their
+operations and risks arising from the storage and handling of radioactive materials.
+
+- Constitutional Spanish law caps the liability of nuclear power plant operators in the event of a
+nuclear accident at EUR 700 million. This liability for a nuclear accident must be compulsorily
+insured by the operator of Spanish nuclear power plants. The IBERDROLA Group meets this
+obligation by taking out Nuclear Civil Liability insurance policies for each plant. However, Law
+12/2011, of 27 May, concerning civil liability for nuclear damage or damage caused by radioactive
+materials, will increase the operator's liability ceiling and the consequent ceiling on mandatory
+insurance to EUR 1,200 million for nuclear power plants. The law will enter into force when all
+signatories of the Paris and Brussels Agreements ratify the 2004 Amendment Protocols, as
+established in these agreements.
+
+- Accordingly, it is important to point out the indirect economic risk to which the aforementioned
+power plants are exposed as a result of a possible serious incident in Spain or in other country
+could affect the periodic renewals of their compulsory operating licences and the increase in their
+safety investments.
+
+Environmental and climate change risks
+
+IBERDROLA accepts that the environment places constraints on all human activities and is a factor of
+companies’ competitiveness, and it is committed to promoting innovation in this field and also eco-
+efficiency, to gradually reducing the environmental impact of its activities, facilities, products and services,
+and striving to ensure that its activities are congruent with future generations’ legitimate right to an
+appropriate environment.
+
+The Group undertakes and promotes this commitment through its policies. IBERDROLA currently has three
+specific policies in order to manage environmental issues: environmental policy, anti-climate change policy
+and biodiversity policy (available at www.iberdrola.com), which set forth the principles through which the
+Company will continue to improve its environmental management.
+
+303 (sd wERDROLA
+
+
+--- Page 49 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Moreover, once again IBERDROLA featured on the global Dow Jones Sustainability a worldwide
+benchmark for recognising corporate contributions to sustainable development, and also on other
+internationally renowned sustainability indexes. It is the only utility to have earned this distinction since the
+Index was created in 1999.
+
+With regard to climate change, the Group recognises the gravity of the threat that global warming implies,
+to which governments, multi-lateral agencies, the private sector, and society as a whole must necessarily
+confront jointly and in a coordinated manner. In this regard, the Company promises to assume a
+leadership role in the fight against climate change and develop, among others, the following guiding
+principles: i) prevent pollution [by] gradually reducing the intensity of emissions, ii) promote electrification,
+energy efficiency and smart grids, iii) support international negotiation procedures and significant
+participation of the private sector to fulfil goals 7 and 13 of the SDG approved by the UN, and the climate
+goal included in the Paris Climate Summit, iv) support an emissions market that creates a strong and
+sustainable price signal, and v) support a tax system that incorporates the "polluter pays" principle that not
+only includes the electricity production sector.
+
+Climate change may translate into the following risks in the medium-term:
+
+- More extreme climate situations that impact the generation and distribution assets, such as greater
+operation and maintenance costs, and insurance premiums.
+
+- Fluctuations in wind and hydraulic resources
+- Fluctuation in the gas and electricity demand levels (due to the effects of temperatures)
+
+- Decrease of the profits forecasted for existing thermal plants (due to regulatory restrictions, CO2
+prices, operational events...)
+
+- Impact in wholesale electricity market due to massive development of renewables
+
+- Legislative and regulatory changes
+Operational risk of operations in markets
+Market trading conducted by the Group's various energy trading desks and treasury dealers is also
+exposed to operational risk due to possible inappropriate processes, technological faults, human error,
+fraud or any other external or internal event.
+This risk is mitigated by following the operational risk policy when trading on the market based on a robust
+risk control culture, a proper segregation of duties, the publication of clear processes and policies and
+secure and flexible information systems. This policy sets specific thresholds and guidelines applicable to all
+
+trades performed in accordance with the principle of proportionality.
+
+Risks in connection with cybersecurity
+
+IBERDROLA Group companies may be affected by threats and vulnerabilities in connection with
+information, control systems or information and communications systems used by the Group, or by any
+consequences of unauthorised access to or the use, disclosure, degradation, interruption, modification or
+destruction of information or information systems, including the consequences of acts of terrorism.
+
+304 (9d BERDROLA
+
+
+--- Page 50 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+These risks are managed in accordance with the basic principles of the cybersecurity policy, which takes
+the necessary measures to guarantee secure usage of information and communications systems and other
+cyber-assets, bolstering detection, prevention, defence and response capacities to counter cyberattacks.
+
+The IBERDROLA Group currently has specific insurance protection against cyber risks under the terms
+allowed by the market, and will be regularly reviewed in view of the rapid evolution and extensive variety of
+cyber risks.
+
+4.5.6 Legal risks
+
+The IBERDROLA Group companies are part of a certain in-court and out-of-court disputes within the
+ordinary course of their activities, the final result of which, in general, is uncertain. An adverse result, or an
+out-of-court resolution thereof or other proceedings in the future could have a material adverse effect on
+our business, financial situation, operating results and cash flows. However, the Group's legal advisers
+believe that the outcome of the aforementioned disputes will not have a significant effect.
+
+Notes 6.b. and 45 of the Consolidated financial statements contain a more detailed description of the most
+significant matters.
+
+4.6. Risks materialised during the year
+
+For further details, see the section E of Control systems and risk management of the Corporate
+Governance Report 2017.
+
+5. SIGNIFICANT SUBSEQUENT EVENTS TO YEAR END
+
+Subsequent events to year end are described in Note 52 of the financial statements.
+
+6. RESEARCH AND DEVELOPMENT ACTIVITIES
+
+IBERDROLA is now a leading multinational group which has become the utility of the future thanks to its
+innovative strategy which encompasses all its business units and areas of activity. Thanks to a constant
+commitment to innovation, Iberdrola is now Spain's most innovative utility and the third most innovative in
+Europe in the European Commission's classification.
+
+In 2017, Iberdrola spent more than EUR 246 million on R&D&i activities, 17% more than in the previous
+year. These resources were basically directed at projects relating to clean energy, smart grids, the
+development of customised solutions for customers and the digital transformation.
+
+Looking ahead, commitment to innovation will continue to be a priority to assure sustainability, efficiency
+
+and competitiveness and keep IBERDROLA at the forefront of development of the new products, services
+and business models that are transforming the sector:
+
+305 (sd BERDROLA
+
+
+--- Page 51 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- Disruptive technologies, which are increasingly efficient, sustainable and respectful of the
+environment, enabling the functioning of facilities and processes to be optimised, and competitive
+innovative products and services that meet customers’ needs with a greater degree of personalisation
+of contents and offerings;
+
+- Digitisation and_automation in all businesses and processes, to create value in the management of
+the life cycle of assets, optimisation and aggregation of the grid and the design of integrated services
+for the new digital customer profile. The digital transformation will be based on new technologies such
+as blockchain, big data, the Internet of Things, virtual reality, artificial intelligence, etc. at all levels of
+the company.
+
+- Innovation with start-ups, entrepreneurs and suppliers with the aim of developing new disruptive
+business models, promoting the exchange of know-how and exerting a pull effect on their employees:
+
+o lberdrola Ventures - PERSEO, IBERDROLA’s start-up programme, was created ten years ago
+with the aim of promoting the development of a dynamic ecosystem of start-ups and
+entrepreneurs in the electricity sector.
+
+o Innovation programme with suppliers based on three paths of action: facilitating access to
+financing mechanisms, pushing firms’ joint creation, and favouring innovative purchasing from
+SMEs.
+
+- Culture of innovation and talent: |berdrola promotes a culture of innovation by means of knowledge
+transfer, attracting talent and promoting the entrepreneurial spirit:
+
+o lberdrola Universities Programme. In 2017 the Universities Programme was launched, with the
+aim of attracting talent, transferring knowledge and contributing to society. In the context of the
+programme, lberdrola has signed agreements with the major universities of the countries in which
+it is present: Universidad de Salamanca, Universidad Pontificia de Comillas, Massachusetts
+Institute of Technology - MIT, Instituto Tecnolédgico de Monterrey and University of Strathclyde.
+
+The programme comprises the following lines of action: Chairs, R&D projects, training of
+
+students, in-house training and young entrepreneurs. During 2017 the first initiatives were carried
+
+out with young entrepreneurs of the reference universities: MIT SANDBOX, Comillas Emprende,
+
+Emprende Salamanca, Iberdrola- SP Entrepreneurial and Energy Business Model Challenge. In
+
+all, five hackathons or boot camps were held, with 800 entrepreneurs and with the collaboration of
+
+more than 100 mentors. We also held more than 25 workshops and delivered more than 2,500
+
+hours of mentoring.
+
+o Accelerator Project. Through this initiative, IBERDROLA expresses its faith in the in-house talent
+of its employees and their ability to identify the key factors that will make the company the world’s
+biggest utility within ten years. It was led by a multi-discipline group of young employees from
+Spain, the UK, the US, Mexico and Brazil which over a two-year period carried out a detailed
+analysis of the development and trajectory of a number of successful start-ups that were the
+brainchildren of millennials like themselves in various thematic areas such as cultural change,
+smart living, customer experience and networks. Many of the resulting ideas are already being
+successfully implemented in the various departments of Iberdrola.
+
+306 (sd BERDROLA
+
+
+--- Page 52 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+The following are some of the most notable innovative initiatives classified by broad area.
+
+6.1. Renewable energies
+
+In 2017, Innovation activities in Renewables focused primarily on:
+
+- Improving operating and maintenance cost efficiency of wind farms, the outstanding example being
+the European ROMEO project, coordinated by IBERDROLA, which seeks to develop new models
+and tools for the early detection of defects based on big data techniques.
+
+- Improving the integration of energy from renewable sources, several initiatives having been carried
+out in the area of energy storage.
+
+- Innovation in offshore wind projects is essential to reduce costs and to limit risks in ongoing and
+future projects. During 2017 we completed the installation of the piles, the jacket foundations and
+the turbines of the Wikinger offshore wind farm, as well as the commissioning of the sub-station,
+with its innovative design featuring a six-legged pre-piled jacket.
+
+We also continue to collaborate on the ‘Best Paths’ and ‘PROMOTION’ European projects in which
+HVDC (high-voltage direct current) grids are studied with a view to facilitating the connection of large
+volumes of offshore wind-produced electricity to the grid. Another notable project is ‘BRIO’, which
+studies the wind farm at the end of its useful life and the valorisation of its high added value
+components.
+
+In Brazil we would highlight the play on solar energy in the form of the construction of a pilot CSTP
+(concentrating solar thermal power) system with storage in the city of Bahia. IBERDROLA is also
+constructing new wind and photovoltaic facilities in various Mexican states.
+
+6.2. Clean generation technologies
+
+During 2017, efforts in the area of generation focused on operating efficiency and flexibility, environmental
+protection, and the improvement of plant safety.
+
+Operating efficiency and flexibility and plant safety: The PREXES project to develop a model to predict
+expansion in hydraulic concrete structures was completed. Work continued on the VIDAGEN project to
+design and develop a tool to manage the global lifespan of pressurised equipment.
+
+In the area of nuclear generation, the prominent projects are FILTRONUC and OPD. The goal of this first
+project ended in 2017 is to research and develop a new containment filtered venting system for maximising
+filtering performance on the venting line without compromising the safety and integrity of the facilities. And
+the second one seeks to develop an open phase detection system for start-up transformers in nuclear
+generating stations to establish a solution ensuring optimal functionality as a significant element of safety
+and reliability.
+
+Environmental: Iberdrola remains firmly committed to reducing the environmental impact of its generating
+plants, backing an ambitious project life entitled CO2ZFORMARE to find a solution to the problem of
+macrofouling in the cooling systems of electricity generating plants in a sustainable manner and mitigating
+the environmental impact both emissions into the atmosphere and the aquatic environment.
+
+307 (9d weRDROLA
+
+
+--- Page 53 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+6.3. Commercial Area - New projects and services
+
+Innovation is essential in commercial activity, in order to offer customers the products and services best
+suited to their needs. Thus in 2017 IBERDROLA launched the following:
+
+- New initiatives to boost the customer experience:
+
+o Planes a Tu Medida (Customised Plans): new functionalities have been included in the Plan Elige
+8 Horas (Choose-8-Hours-Plan). Customers can now choose the 8 hours that best match their
+consumption, and they can be different 8-hour periods every day of the week.
+
+o App de Clientes: (Customer App): Improvements in performance and redesign of the application,
+with launch dates of year-end 2017 on Android and early 2018 on iPhone. This version will
+include improvements in user experience and new functionalities.
+
+- New Smart Home products: Consumption Monitors and Smart Lamps:
+
+In 2017 we launched a product called Riego Inteligente (Smart Irrigation) which allows customers to
+schedule and control when they water their gardens from their smartphones or tablets. This product rounds
+out the range of smart home products: smart thermostats, electricity meters that break down the
+consumption of the main domestic appliances, and smart LED light bulbs that can be controlled from a
+smartphone.
+
+As for Smart Solar, a distributed generation solution for self-consumption, in 2017 the following
+functionalities were improved: “online offer” thanks to consumption curves and location, and querying of
+production, possible storage and grid demand.
+
+IBERDROLA also continues to take part in Green Mobility projects such as REMOURBAN and CIRVE.
+REMOURBAN is developing a public recharging network in the city of Valladolid and has designed
+methodology for evaluating the sustainability of urban environments, which will be installed in several cities
+participating in the project. The CIRVE project also began in 2016, in which Iberdrola assists with the
+development of rapid-recharge infrastructure corridors for electric cars, to boost electric mobility and
+connect Spain to France and Portugal.
+
+6.4. Smart grids
+
+As regards smart grids and digitisation of the grid, the following may be highlighted in Spain and in the rest
+of Europe:
+
+- In Europe, the three-year UPGRID led by IBERDROLA DISTRIBUCION came to an end. It
+succeeded in strengthening the operation and maintenance of low-voltage grids in anticipation of
+technical problems associated with the large-scale integration of distributed generation. In 2017 the
+European Commission financed the ASSURED project, the objective of which is to develop
+solutions for quick recharging of heavy electric goods vehicles. Additionally, through EDSO4SG,
+IBERDROLA continues to participate in the INTENSIS4EU project, which seeks a new R&D
+approach to the smart grid and energy storage in order to face the new integrated energy
+challenges in which the consumer is at the centre of the energy system.
+
+- in Spain, we would highlight the GRIDSTORAGE project, in which an advanced microgrid model is
+being developed, with storage for distribution grids.
+
+308 (sé BERDROLA
+
+
+--- Page 54 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+- In the UK, the Fusion and LV Engine were financed. Both of them aim to optimise low-voltage
+grids, which present some of the most significant opportunities and challenges in progress towards
+a more flexible system. This financing comes on top of that recently obtained for the innovative
+SPEN project, designed to manage restrictions on the high-voltage grid in the Dumfries and
+Galloway power stations. Work also continues on developing sustainable solutions for the
+deployment of the new smart grid, with the FITNESS project. Other notable projects include
+VISOR, which is implementing the first wide area monitoring system (WAMS) in the nationwide IT
+infrastructure, and Assess Late, which analyses the future impacts of distributed generation
+electric vehicles and increased demand on the grid.
+
+- In Brazil, two of the projects to develop domestic technology for smart networks were BID
+MONITOR, a backup system for decision-making concerning sales of electricity, and CIUDADE
+INTELIGENTE, to implement an urban reference model based on Smart Grids, should be
+highlighted. Moreover, for the project Micro Redes GD, the impact of distributed generation on the
+grid and coupling points has been assessed.
+
+- Inthe United States, notable initiatives include those forming part of the Energy Smart Community
+(ESC) programme to improve management of the grid and distributed energy resources, ability to
+respond to demand and user experience. Also, as part of the Reforming the Energy Vision (REV)
+initiative, notable projects are Energy Marketplace, a platform facilitating transactions between
+suppliers of distributed generation and customers, and Flexible Interconnect Capacity Solution,
+which seeks to define less costly and faster means of connecting to distributed energy resources.
+
+- A regards the Qatar Technological Centre, we would highlight the development of technological
+consultancy activities on smart grids and the implementation of metering systems, the launch of
+various R&D projects and test benches for the integration of distributed renewable energy and the
+management of demand.
+
+6.5. IBERDROLA Ventures — PERSEO
+
+IBERDROLA Ventures — PERSEO is IBERDROLA's Corporate Venture Capital programme.
+
+The programme focuses on the technologies and business models that allow improvements in the
+sustainability of the energy model by means of a greater degree of electrification and decarbonisation of
+the economy. The most notable activities in 2017 included:
+
+- IBERDROLA was named by the European Commission as one of the companies that works best
+with start-ups in the context of the Start-up Europe Partnership initiative. Iberdrola was the only
+Spanish energy company selected, and it also received the special Start-up Procurement Award
+for its Innovation with Suppliers programme.
+
+- Internationally, we note the taking of an equity stake in the US company Innowatts, which focuses
+on the development of digital solutions and innovation for the energy sector by means of its
+analytical platform using artificial intelligence, which has data from more than 14 million smart
+meters.
+
+- Within the area of social investment, we would highlight the investment in Ilumexico, dedicated to
+lighting and electrification in rural areas of Mexico. It is estimated that more than 250,000 people
+may benefit from this initiative in the next few years. It is Perseo’s second investment in high-
+impact social projects, and forms part of IBERDROLA’s ‘Electricity for All’ programme.
+
+309 (94d BERDROLA
+
+
+--- Page 55 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+7.
+
+ACQUISITION AND DISPOSAL OF TREASURY SHARES
+
+The Group's treasury share policy establishes the following:
+
+Treasury share transactions are considered those transactions carried out by the Company, whether
+directly or through any of the Group's companies, the object of which are Company shares, as well
+as financial instruments or agreements of any type, traded or not in the stock market or other
+organised secondary markets, which grant the right to acquire from, or the underlying security of
+which are, Company shares.
+
+Treasury share transactions will always have legitimate purposes, such as, among others, to provide
+investors with liquidity and sufficient depth in the trading of Company shares, to execute treasury
+share purchase programmes approved by the Board of Directors or General Shareholders’ Meeting
+resolutions, to fulfil legitimate commitments undertaken in advance or any other acceptable purposes
+in accordance with applicable regulations. Under no circumstances shall the purpose of the treasury
+share transaction be to interfere with the free establishment of prices. In particular, any conduct
+referred to in article 83.ter.1 of the Securities Market Law and article 2 of the Royal Decree
+1333/2005, of 11 November, implementing the Securities Market Law related to matters of market
+abuse.
+
+The Group's treasury share transactions will not be carried out, under any circumstances, based on
+insider information.
+
+Treasury shares will be managed providing full transparency as regards relationships with market
+supervisors and regulatory organisations.
+
+Note 21 of the Consolidated financial statements presents the movements of IBERDROLA's shares in the
+Group companies’ portfolios in the last years. Likewise, other information on transactions in 2017 and 2016
+is presented in the following chart:
+
+310 /@@ wERDROLA
+
+
+--- Page 56 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Cost
+Nominal (thousands of
+value euros)
+No. of (thousands Treasury Average price
+Treasury Stock shares of euros) stock (euros) Total shares % Capital
+01.01.2016 67,636,166 50,728 405,458 5.99 6,336,870,000 1.07
+Additions 245,721,539 184,292 1,450,724 5.90
+Share capital reduction (157,197,000) (117,898) (946,566) 6.02
+Iberdrola dividendo flexible 1,504,604 1,128 - -
+Iberdrola dividendo flexible ® - - (1,992) -
+Disposals (6,440,532) (4,830) (38,687) 6.01
+31.12.2016 151,224,777 113,420 868,937 5.75 6,362,079,000 2.38
+Additions 154,508,438 115,881 1,002,731 6.49
+Share capital reduction (219,990,000) (164,993) (1,280,176) 5.82
+Iberdrola dividendo flexible 1,896,638 1,422 - -
+Iberdrola dividendo flexible ® - - (9,379) -
+Disposals (11,929,704) (8,947) (74,937) 6.28
+31.12.2017 75,710,149 56,783 507,176 6.70 6,317,515,000 1.20
+(1) Shares received
+(2) Free of charges allocation rights disposed.
+Cost
+Treasury shares of Scottish Nominal (thousands of
+Power value euros) -
+No. of (thousands Treasury Average price
+shares of euros) stock (euros) Total shares % Capital
+01.01.2016 1,638,563 1,229 10,163 6.20 6,336,870,000 0.03
+Additions 404,154 303 2,464 6.10
+/berdrola dividendo flexible 56,040 42 - -
+Disposals (724,352) (543) (3,047) 4.21
+31.12.2016 1,374,405 1,031 9,580 6.97 6,362,079,000 0.02
+Additions 318,172 238 2,159 6.79
+/berdrola dividendo flexible 95,524 72 - -
+Disposals (631,238) (473) (3,322) 5.26
+31.12.2017 1,156,863 868 8,417 7.28 6,317,515,000 0.02
+
+During 2017 and 2016, treasury shares held by the IBERDROLA Group were below the legal limit.
+
+Finally, the conditions and time periods of the current mandate of the Board of Directors to acquire or
+transfer treasury shares are detailed below.
+
+At the General Shareholders’ Meeting on 28 March 2014, shareholders expressly agreed to delegate
+powers to the Board of Directors, with powers of substitution, pursuant to the provisions of the Spanish
+Corporations Law, to carry out derivative acquisition of shares in Iberdrola, S.A. under the following
+conditions:
+a) Acquisitions may be made directly by IBERDROLA or indirectly through their subsidiary
+companies. The subsidiary companies which develop regulated activities as prescribed in the
+electric sector and hydrocarbon laws are excluded.
+
+b) Acquisitions may be made by purchase transactions, swaps or any other form permitted by law.
+
+c) Acquisitions may be made up to the maximum legal threshold (i.e. 10% of share capital).
+
+311 (@@@ weRDROLA
+
+
+--- Page 57 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+d) Such acquisitions may not be made at a price higher than the market price or lower than the
+nominal value of the share.
+
+e) Authorisation was granted for a maximum period of five years since approval of the resolution.
+
+f) Arestricted reserve shall be created in equity in the purchasing company equivalent to the value of
+the parent's shares under assets. This reserve must be maintained as long as the shares are not
+disposed of or cancelled in accordance with the Spanish Corporations Law.
+
+Shares acquired under these powers can be transferred or cancelled or used for the compensation
+systems as provided for in the Spanish Corporations Law. They may also be used to develop programmes
+that encourage participation in the Company's share capital such as the dividend reinvestment plan, loyalty
+bonuses and other similar instruments.
+
+Stock market data
+
+2017 2016
+Stock market capitalisation (*) Millions of euros 40,811 39,661
+Earnings per share continuing operations Euros 0.478 0.423
+P.E.R. (share price at year end/profit per share) Times 13.51 14.74
+Price / Carrying amount (capitalisation on carrying amount at Times 114 1.08
+
+year end ) (**)
+(*) 6,317,515,000 and 6,362,079,000 shares as of 31 December 2017 and 2016, respectively.
+
+(**)Capitalisation at 31 December 2017 (40,811) / Equity of the parent company (35,509); Capitalisation at 31 December 2016
+(39,636) / Equity of the parent company (36,690).
+
+The IBERDROLA share
+
+Stock market performance of IBERDROLA compared to the indexes in 2017 is as follows:
+
+25% 4
+
+15% 4
+-20%
+s s s s s s s s 8 s s
+s v ¢ * & = ¥ e ral - Cd
+— Evrostoxx Utilities +15,7% —= Eurostoxx50 +6,5% — IBERDROLA +3,6% — bhex35 +7,4%
+
+312 (ld weRDROLA
+
+
+--- Page 58 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+2017 2016
+Number of shares outstanding 6,317,515,000 6,362,079,000
+Share price at year end 6.46 6.23
+Average share price for the year 6.62 6.01
+Average daily volume 20,870,406 25,843,622
+Maximum volume (06/04/2017 - 16/12/2016) 122,920,322 117,034,016
+Minimum volume (28/08/2017 - 16/05/2016) 4,636,525 4,444,650
+Dividends paid (euros) 0.317 0.286
+- Gross interim dividend (23/01/2017 - 29/01/2016) ‘” 0.135 0.127
+uno dividend (07/07 and 21/07/2017 - 08/07 and 0.177 0.154
+Attendance premium 0.005 0.005
+Dividend yield © 4.91% 4.59%
+
+(1) Purchase price of rights guaranteed by IBERDROLA.
+
+(2) Complementary dividend in cash (07/07/2017 and 08/07/2016 = EUR 0.03 and purchase price of rights guaranteed by
+IBERDROLA: 21/07/2017 =0.147 and 22/07/2016 =0.124).
+
+(3) Interim dividend, complementary dividend and attendance bonus for attending the General Shareholders' Meeting/share price at
+period end.
+
+8. FURTHER RELEVANT INFORMATION
+
+8.1. Environmental issues and sustainability
+
+8.1.1. Environmental issues
+
+IBERDROLA accepts that the environment places constraints on all human activities and is a factor of
+companies’ competitiveness, and it is committed to promoting innovation in this field and also eco-
+efficiency, to gradually reducing the environmental impact of its activities, facilities, products and services,
+and striving to ensure that its activities are congruent with future generations’ legitimate right to an
+appropriate environment.
+
+The Group undertakes and promotes this commitment through its policies. IBERDROLA currently has three
+specific policies in order to manage environmental issues: environmental policy, anti-climate change policy
+and biodiversity policy, which set forth the principles through which the Company will continue to improve
+its environmental management.
+
+Moreover, for the thirteenth consecutive year IBERDROLA featured on the global Dow Jones Sustainability
+Index, a worldwide benchmark for recognising corporate contributions to sustainable development, and
+also on other internationally renowned sustainability indexes. It is the only utility to have earned this
+distinction since the Index was created in 1999.
+
+8.1.2. Sustainability
+
+IBERDROLA's contribution to sustainable development takes form in certain social responsibility practices
+which address the needs and expectations of their stakeholders, with which the Company maintains a
+series of lines of communication and dialogue open through which it is able to: communicate objectives,
+initiatives and achievements obtained in the three areas of sustainable development (economic,
+environmental and social) and receive evaluations and requests from the interested parties.
+
+313 /@@@ wERDROLA
+
+
+--- Page 59 ---
+
+Annual Financial Report
+Iberdrola, S.A. and subsidiaries / Financial Year 2017
+
+Sustainability indicators 2017 2016
+Contribution to GDP (Gross Margin) (*) 0.42% 0.54%
+Contribution to GDP (Revenue) (*) 1.15% 1.23%
+COz Emissions in the period (gr. CO2 /kWh): Total 187 176
+COz Emissions in the period (gr. CO2 /kWh): Spain 108 84
+CO: Emissions in the period (gr. CO2 /kWh): SPW 237 328
+CO: Emissions in the period (gr. CO2 /kWh): Avangrid 53 58
+CO: Emissions in the period (gr. CO2 /kWh): Brazil 119 136
+CO, Emissions in the period (gr. CO2 /kWh): Mexico 362 356
+Total production free of emissions (GWh) 65,406 75,674
+Production in Spain free of emissions (GWh) 41,515 53,713
+Production free of emissions out of total production (%) 51.8 57.2
+Production in Spain free of emissions out of total production (%) 82.7 87.4
+Total installed capacity free of emissions (MW) 30,232 28,326
+Total installed capacity in Spain free of emissions (MW) 18,740 18,738
+Total installed capacity free of emissions (MW) 65.6 65.5
+Total installed capacity in Spain free of emissions (MW) 73.2 73.2
+Specific SO. emission Global mix (g/kWh) 0.074 0.050
+Specific particles emission Global mix (g/kWh) 0.007 0.005
+Specific NOx emission Global mix (g/kWh) 0.261 0.185
+
+8.2. IBERDROLA Foundation
+
+In 2017, the Group allocated EUR 14,566 thousand to financing the various foundations (EUR 13,515
+thousand to Group foundations and EUR 1,051 thousand to associations and entities whose goals are in
+the interest of the general public).
+
+The main recipient of the funding was Iberdrola Foundation, which received EUR 7,555 thousand.
+Information on its goals and activities is available at: www.fundacioniberdrola.org. IBERDROLA Foundation
+is a private, non-profit, cultural foundation, founded by the Company. Its mission is to develop initiatives
+which effectively contribute to improving the quality of life of the people in the regions and countries where
+the Group acts, especially in the areas of energy sustainability, art and culture, as well as solidarity and
+social initiatives. The foundation may act independently to achieve its goals and is fully functional and
+autonomous. Without prejudice to its collaboration with other entities, lberdrola Foundation coordinates and
+executes the Group's corporate social responsibility strategy, so that it is in line with the purpose for which
+it was created and as assigned there to by the Board of Directors.
+
+Iberdrola Foundation coordinates its welfare work in the United Kingdom through the Scottish Power
+Foundation, which was granted EUR 2,175 thousand. In the United States, this work is carried out through
+the Avangrid Foundation with a budget of EUR 3,306 thousand, and in Brazil through the Instituto Iberdrola
+Brasil, receiving EUR 479 thousand.
+
+In 2018, the Group intends to follow a policy aimed at financing activities of interest to the general public in
+line with that followed in 2018 as regards amount and allocation.
+
+314 (@@@ wERDROLA

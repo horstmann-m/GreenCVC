@@ -1,0 +1,1376 @@
+
+
+--- Page 1 ---
+
+KEY INDICATORS
+
+Key indicators
+
+Key indicators, EUR million 2013 2012* 2011 2010 2009
+Net sales ** 22187 23763 2378.1 27612 27679
+ord mbarnontiocces depreciation, amortisation 399.7 506.1 482.2 5898 362.4
+% OF NET SALES 18.0 213 203 214 13.1
+Operating profit excluding non-recurring items ** 154.9 2310 224.1 245.4 2295
+% OF NET SALES. 7.0 97 94 89 8.3
+Non-recurring items ** -427.2 -50.0 “515 1473 “341
+Operating profit ** 2723 181.0 1726 3927 195.4
+% OF NET SALES “123 76 73 142 71
+Result before taxes ** “3247 105.9 136.3 356.0 161.4
+% OF NET SALES “146 45 57 129 58
+Result for the period from continuing operations ** -332.3 69.9 786 2973 107.1
+% OF NET SALES -15.0 29 33 108 39
+Result for the period -332.3 149.0 86.0 2973 107.1
+% OF NET SALES -15.0 60 31 108 39
+Balance sheet total 3514.0 40198 43283 32030 3106.3
+Capital expenditure ** 673 595 762 857 83.4
+% OF NET SALES. 3.0 25 3.2 3.1 3.0
+Return on equity (ROE), % -23.9 97 59 23.0 92
+Return on investment (ROI), % 93 83 68 162 89
+Equity ratio, % 37.2 413 37.0 457 lA
+Net gearing, % 17 787 105.7 638 794
+interest-bearing liabilities 1306.6 14087 17272 9419 10177
+Non-interest-bearing liabilities 9677 10345 1077.0 885.1 882.0
+interest-bearing net debt 1135.3 12415 16112 8779 958.1
+Average number of employees (full-time equivalents) ** 10043 10804 11.607 16016 17343
+Number of emplyees atthe end of the period (full-time equivalents) ** 9597 10381 10960 15 405 16723
+Share indicators
+
+Earnings/share, EUR, continuing operations ** “197 0.39 0.47 - -
+Earnings/share, diluted, EUR, continuing operations ** “197 0.39 0.47 - -
+Earnings/share, EUR “197 0.88 0.52 1.85 0.66
+Earnings/share, diluted, EUR “197 0.88 0.52 1.85 0.66
+Earnings/share excluding non-recurring items, EUR 0.53 077 0.87 0.94 -
+Cash flow from operations/share, EUR 0.76 1.18 1.68 1.69 1.50
+Equity/share, EUR 5.78 7.82 770 8.42 7.36
+Dividend/share, EUR *** 0.10 0.60 0.60 1.10 0.80
+Dividend payout ratio, %*** neg. 68.4 1156 594 122.0
+Market capitalisation, EUR million **** 1039.6 12113 14433 2628.0 25365
+Effective dividend yield, % *** 16 8.1 68 68 51
+P/E ratio neg. 85 17.1 88 240
+Adjusted number of shares at the end of the period **"* 162812093 162812093 162812093 162810593 161816894
+Adjusted average number of shares *** 162812093 162812093 162810642 161863694 160968774
+Lowest share price, EUR 5.28 579 7.83 13.41 8.02
+Highest share price, EUR 8.95 11.70 17.79 17.07 15.80
+Average share price, EUR 679 8.15 12.30 15.57 11.45
+Share price at the end of the period, EUR 639 Ab 887 16.22 15.76
+Trading volumes, shares 54326354 106129204 89486428 63477720 «72078344
+% OF SHARES 33.4 65.2 55.0 39.2 448
+
+* The figures for 2012 have been restated due to a change in IAS 19 ‘Employee benefits’. The revised standard eliminated the possibility of using the corridor approach in
+recognising the actuarial gains and losses from defined benefit plans. The revised IAS 19 standard requires the actuarial gains and losses to be recognised immediately in
+the statement of other comprehensive income. For 2012, the restated total equity has decreased by EUR 52.0 million to EUR 1,576.6 million and the restated operating profit
+excluding non-recurring items has decreased by EUR 1.3 million to EUR 231.0 million. The key figures for 2011 have not been adjusted.
+
+** The figures for 2012 and 2011 contain only continuing operations. The figures for 2009-2010 include also operations classified as discontinued operations in 2012.
+
+** Year 2013 proposal of the Board of Directors. In addition, Board decided to propose to the Annual General Meeting that the Board be authorised to decide on the distribu-
+tion of additional dividend of no more than EUR 0.20 per share
+
+** The number of shares in 2011 includes 1,500 interim shares registered on 3 January 2012. Market capitalisation is calculated based on shares registered by 31 Decem-
+ber 2011. The number of shares in 2010 includes 789,849 interim shares registered on 10 January 201 1. Market capitalisation is calculated based on shares registered by 31
+December 2010. The number of shares in 2009 includes 873,236 interim shares registered on 7 January 2010. Market capitalisation is calculated based on shares registered
+by 31 December 2009. The number of shares does not include treasury shares.
+
+
+--- Page 2 ---
+
+Definitions of key indicators
+
+Return on equity (ROE), %
+
+Return on investment (ROI), %
+
+Equity ratio, %
+
+Net gearing, %
+
+Earnings/share (EPS)
+
+Cash flow/share
+
+Equity/share
+
+Dividend payout ratio, %
+
+Market capitalisation
+
+Effective dividend yield, %
+
+P/E ratio
+
+Interest-bearing net debt
+
+EBITDA
+
+Non-recurring items
+
+Result for the period
+x 100
+
+Equity total (average of monthly balances)
+
+Result before taxes + interest and other financial expenses x100
+
+Balance sheet total - non-interest-bearing liabilities (average of monthly balances)
+
+Equity total
+ay x 100
+
+Balance sheet total - advances received
+
+Interest-bearing liabilities - cash and cash equivalents x100
+
+Equity total
+
+Result for the period attributable to the equity holders of the Parent Company - interest on hybrid loan
+
+Adjusted average number of shares on the market
+
+Cash flow from operations
+
+Adjusted average number of shares on the market
+
+Equity attributable to the equity holders of the Parent Company
+
+Adjusted number of shares on the market at the balance sheet date
+
+Dividend/share
+
+Result/share
+
+Number of shares on the market at the balance sheet date x
+
+share price on the last trading day of the year
+
+Dividend/share
+x 100
+
+Share price on the last trading day of the year
+
+Share price on the last trading day of the year
+
+Result/share
+
+Interest-bearing liabilities - cash and cash equivalents
+
+Operating profit + depreciation, amortisation and impairments
+
+Gains/losses on sale, restructuring expenses and impairments that exceed EUR I million,
+
+and expenses related to the EUR 100 million cost savings programme
+
+DEFINITIONS OF KEY INDICATORS
+
+
+--- Page 3 ---
+
+NET SALES BY BUSINESS / OPERATING PROFIT EXCLUDING NON-RECURRING ITEMS BY SEGMENT / OPERATING PROFIT BY SEGMENT
+
+Net sales by business
+
+Restated Restated Restated Restated Restated
+EUR million 1-3/ 4-6/ 7-9/ — 10-12/ 1-12/ 1-3/ 4-6/ 7-9/ — 10-12/ 1-12/
+2013 2013 2013 2013 2013 2012 2012 2012 2012 2012
+
+Media
+The Netherlands 1572 1846 = 1647 199.3. 7058 = 171.6 208.1 1735 207.2 760.4
+Finland 69.6 737 675 82.6 293.4 774 767 65.4 82.2 3017
+Russia & CEE 428 43.9 413 454 1735 49.0 50.1 469 535 199.5
+Belgium 543 53.2 50.0 626 220.0 568 546 52.9 64.1 228.3
+Other businesses and eliminations -05 -0.5 -1.0 -0.6 -2.5 -07 -08 -0.6 -07 “2.7
+Total 3235 3549 322.5 389.2 1390.1 354.1 388.6 = 338.1 = 406.3—-1487.1
+News
+
+Helsingin Sanomat 56.3 53.0 50.0 540 213.3 59.3 56.2 52.2 57.1 2249
+lIta-Sanomat * 20.0 227 207 22.3 85.6 212 22.0 20.0 211 843
+Other businesses and eliminations 248 24.1 219 237 946 295 28.6 26.1 294 113.5
+Total 101.0 998 92.46 1000 3935 1100 1068 983 1076 422.8
+Learning
+
+Learning 457 1037 123.0 327 305.1 342 109.3 127.4 355 306.4
+Other businesses 0.0 0.0 0.0 0.0 0.0 46 18 0.0 0.0 65
+Eliminations 0.0 -0.2 0.0 -0.3 -05 -0.4 0.0 0.0 0.0 05
+Total 457° 1035 123.0 32.4 304.6 384 1111 127.4 355 312.4
+Other companies and eliminations 349 33.0 30.0 327 130.6 4d 40.0 35.6 37.3 154.0
+Total 505.2 591.2 5681 5543 22187 5436 6465 5995 5867 23763
+
+* In 2013, the structure of Sanoma News was changed and Taloussanomat is reported as part of lita-Sanomat. The comparative figures have not been restated.
+
+Operating profit excluding non-recurring items by segment
+
+Restated Restated Restated Restated Restated
+EUR million 1-3/ 4-6/ 7-9/_ — 10-12/ 1-12/ 1-3/ 4-6/ 7-9/ — 10-12/ 1-12/
+2013 2013 2013 2013 2013 2012 2012 2012 2012 2012
+
+Media 1.3 31.8 24.3 28.9 83.7 27.0 545 23.0 46.9 151.5
+News 5.9 6.0 78 94 29.1 88 5.0 8.3 10.0 32.2
+Learning 44 35.9 49.6 -24.8 56.2 -15.0 46.9 49.4 -22.1 59.2
+Other companies and eliminations 3.2 57 48 -0.5 14.2 6.2 -2.6 -0.9 73.1 119
+Total -3.0 68.0 76.9 13.0 154.9 15.6 103.8 79.8 318 231.0
+
+Operating profit by segment
+
+Restated Restated Restated Restated Restated
+EUR million 1-3/ 4-6/ 7-9/ — 10-12/ 1-12/ 1-3/ 4-6/ 7-9/ — 10-12/ 1-12/
+2013 2013 2013 2013 2013 2012 2012 2012 2012 2012
+
+Media 39.6 9.3 -279.4 64 -303.2 27.0 519 20.3 31.0 130.2
+News 55 19 77 11.0 26.0 88 5.0 -16 8.0 20.3
+Learning 44 35.9 25.1 ~35.9 20.6 -15.0 51.0 45.0 -22.1 58.9
+Other companies and eliminations “17 -10.1 7.0 -10.9 -15.7 ~5.2 9.8 2.2 711.2 -28.5
+
+Total ~40.2 36.9 ~239.6 -29.4 -272.3 15.6 98.1 615 57 181.0
+
+
+--- Page 4 ---
+
+Income statement by quarter
+
+EUR million
+
+Net sales
+Other operating income
+Materials and services
+
+Employee benefit
+expenses
+
+Other operating expenses
+
+Depreciation, amortisation and
+impairment losses
+
+Operating profit
+
+Share of results in associated
+companies
+
+Financial income
+Financial expenses
+Result before taxes
+Income taxes
+
+Result for the period from
+continuing operations
+
+Discontinued operations
+
+Result for the period from
+discontinued operations
+
+Result for the period
+
+Result from continuing
+operations attributable to:
+
+Equity holders of the Parent
+Company
+
+Non-controlling interests
+Result attributable to:
+Equity holders of the Parent
+Company
+
+Non-controlling interests
+
+Earnings per share for result
+attributable to the equity holders
+of the Parent Company:
+
+Earnings per share, EUR,
+continuing operations
+
+Diluted earnings per share, EUR,
+continuing operations
+
+Earnings per share, EUR,
+discontinued operations
+Diluted earnings per share, EUR,
+discontinued operations
+Earnings per share, EUR
+Diluted earnings per share, EUR
+
+1-3/
+2013
+
+505.2
+94
+176.3
+
+153.0
+W117
+113.8
+~40.2
+
+0.0
+
+68
+-218
+~65.2
+
+34
+
+518
+
+518
+
+~39.1
+
+127
+
+~39.1
+
+127
+
+~0.24
+
+~0.24
+
+~0.24
+~0.24
+
+4-6/
+2013
+
+591.2
+76
+-194.2
+
+-153.8
+-120.8
+-93.1
+
+36.9
+
+-0.9
+“118
+25.6
+-2.6
+
+23.0
+
+23.0
+
+21.6
+
+0.13
+
+0.13
+
+0.13
+0.13
+
+7-9/
+2013
+
+568.1
+19.6
+-190.4
+
+-141.3
+-116.8
+-378.8
+-239.6
+
+0.2
+
+2.2
+177
+~255.0
+-10.5
+
+-265.5
+
+-265.5
+
+-262.9
+
+-1.61
+
+-1.61
+
+-1.61
+-1.61
+
+10-12/
+2013
+
+554.3
+18.6
+-185.0
+
+~152.2
+-178.8
+~86.2
+-29.4
+-0.3
+
+44
+“147
+-40.1
+
+2.1
+
+-38.0
+
+-38.0
+
+39.5
+
+-0.24
+
+-0.24
+
+-0.24
+-0.24
+
+1-12/
+2013
+
+2218.7
+55.2
+-745.9
+
+-600.3
+~528.1
+-672.0
+-272.3
+
+1.2
+
+12.4
+~66.1
+324.7
+76
+
+~332.3
+
+~332.3
+
+-319.8
+
+12.5
+
+-319.8
+
+12.5
+
+-1.97
+
+-1.97
+
+-1.97
+-1.97
+
+Restated Restated Restated Restated Restated
+
+1-3/
+2012
+
+543.6
+8.6
+-190.0
+
+-156.5
+-122.4
+~67.6
+15.6
+-16.4
+
+7.0
+-20.7
+14.4
+
+-3.6
+
+-18.0
+
+-16.8
+
+19.2
+
+-0.12
+
+-0.12
+
+0.01
+
+0.01
+
+-0.11
+-0.11
+
+4-6/
+2012
+
+646.5
+19.4
+~212.2
+
+-1568
+-118.2
+-80.6
+98.1
+“3.4
+
+AD
+-19.1
+80.5
+7217
+
+58.8
+
+78.6
+
+137.3
+
+56.1
+
+0.34
+
+0.34
+
+0.48
+
+0.48
+
+0.83
+0.83
+
+7-9/
+2012
+
+599.5
+87
+-2146
+
+~145.9
+-109.1
+772
+615
+2.3
+
+3.3
+“178
+49.4
+-10.6
+
+38.8
+
+38.1
+
+37.8
+
+09
+
+37.1
+
+09
+
+0.23
+
+0.23
+
+0.00
+
+0.00
+
+0.23
+0.23
+
+10-12/
+2012
+
+586.7
+15.7
+-199.6
+
+-155.7
+1418
+99.7
+57
+-0.2
+
+3.0
+-18.0
+94
+-0.2
+
+-11.0
+
+-0.07
+
+-0.07
+
+0.00
+
+0.00
+
+~0.07
+~0.07
+
+1-12/
+2012
+
+2376.3
+52.5
+-816.3
+
+614.9
+AOS
+-325.2
+181.0
+17.7
+
+18.2
+-75.6
+105.9
+-36.0
+
+69.9
+
+79.0
+
+149.0
+
+63.7
+
+6.2
+
+142.8
+
+6.2
+
+0.39
+
+0.39
+
+0.49
+
+0.49
+
+0.88
+0.88
+
+INCOME STATEMENT BY QUARTER
+
+
+--- Page 5 ---
+
+BOARD OF DIRECTORS’ REPORT
+
+Board of Directors’ Report
+
+Net sales
+
+In 2013, Sanoma’s net sales decreased by 6.6% and amounted to EUR
+2,218.7 million (2012: EUR 2,376.3 million, 2011: EUR 2,378.1 mil-
+lion). The decrease is mainly due to the continued deterioration in
+advertising markets and single copy sales. Currency translations did
+not have a material effect on net sales. When adjusted for changes in
+the Group structure, net sales decreased by 6.6%.
+
+Advertising sales decreased by 10.0% to EUR 779.6 million (2012:
+EUR 866.7 million) as a result of weak print advertising markets in
+major operating countries. Online advertising increased by 2.2%, while
+TV and radio advertising decreased by 4.6% and print advertising by
+20.3%. Circulation sales decreased by 4.6% to EUR 783.9 million (2012:
+EUR 821.2 million) due to cautious consumer spending.
+
+Group’s net sales by country, % 5 ae y ie
+Netherlands 38.0 37.6
+Finland 36.8 36.6
+Belgium 114 113
+Other EU countries 10.1 10.9
+Non-EU countries 37 37
+Total Group 100 100
+
+Group’s net sales by type of sales. % pee pane
+Advertising 35.1 36.5
+Subscription 27 20.6
+Single copy 13.6 14.0
+Learning 13.7 14.2
+Other 15.9 147
+Total Group 100 100
+
+Other sales mainly include press distribution and marketing services, language
+and translation services, custom publishing, event marketing, books and print-
+ing services.
+
+Result
+
+Sanoma’s operating profit excluding non-recurring items in 2013
+decreased by 33.0% and totalled EUR 154.9 million (2012: EUR 231.0
+million). The decrease is mainly attributable to the continued deterio-
+ration in advertising markets and single copy sales.
+
+The operating profit excluding non-recurring items amounted to
+7.0% (2012: 9.7%) of net sales. Currency translations did not have a
+material effect on the result of 2013.
+
+In 2013, the Group's total expenses, excluding non-recurring items,
+decreased by 5.6%. The cost of sales decreased by 8.5% and fixed
+costs by 3.4%. Paper costs decreased by 15.6% and employee benefit
+expenses by 4.5%.
+
+Sanoma’s operating profit in 2013 was EUR -272.3 million (2012:
+EUR 181.0 million, 2011: EUR 172.6 million) or -12.3% (2012: 7.6%,
+2011: 7.3%) of net sales.
+
+Operating profit in 2013 included EUR -427.2 million (2012: EUR
+-50.0 million) of non-recurring items mainly related to impairment
+charges of goodwill and intangible assets, restructuring expenses as
+well as sales gains and losses. In 2012, non-recurring items related
+mainly to impairments of goodwill, restructuring expenses as well as
+sales gains and losses.
+
+Sanoma’s 2013 result included EUR 1.2 million (2012: EUR -17.7
+million) profit from associated companies. In 2012, the result from
+associated companies included a non-recurring loss on the sale of
+DNA.
+
+Sanoma’s net financial items totalled EUR -53.7 million (2012:
+EUR -57.4 million). Financial income amounted to EUR 12.4 million
+(2012: EUR 18.2 million), of which EUR 7.7 million were exchange
+rate gains (2012: EUR 11.6 million). Financial expenses amounted
+to EUR -66.1 million (2012: EUR -75.6 million), of which EUR -10.0
+million were exchange rate losses (2012: EUR -12.6 million). Interest
+expenses amounted to EUR -45.2 million (2012: EUR -52.9 million). In
+2013 financial items included a non-recurring item of EUR -3.7 million
+related to available-for-sale financial assets.
+
+Result before taxes decreased to EUR -324.7 million (2012: EUR
+105.9 million) mainly as a result of non-recurring items and lower
+operative performance. In 2012 result before taxes included EUR 77.4
+million related to a non-recurring gain on the sale of kiosk operations.
+
+Earnings per share were EUR -1.97 (2012: including continuing
+and discontinued operations EUR 0.88). Earnings per share excluding
+non-recurring items were EUR 0.53 (2012: EUR 0.77).
+
+
+--- Page 6 ---
+
+Balance sheet and financial position
+
+At the end of 2013, Sanoma’s consolidated balance sheet totalled EUR
+3,514.0 million (2012: EUR 4,019.8 million). Impairments impacted
+negatively the balance sheet. In 2013, the Group's cash flow from oper-
+ations declined to EUR 124.1 million (2012: EUR 192.0 million) as a
+result of lower profitability and higher TV programme costs. Cash flow
+from operations per share was EUR 0.76 (2012: EUR 1.18).
+
+Sanoma’s equity ratio was 37.2% (2012: 41.3%, 2011: 37.0%) at the
+end of 2013. The return on equity (ROE) was -23.9% (2012: 9.7%, 2011:
+5.9%) and the return on investment (ROI) was-9.3% (2012: 8.3%, 2011:
+6.8%). In 2013, the lower underlying performance negatively affected
+these ratios. Equity declined due to impairments and totalled EUR
+1,238.4 million (2012: EUR 1,576.6 million). The equity per share was
+EUR 5.78 (2012: EUR 7.82). Interest-bearing liabilities at the end of
+2013 decreased to EUR 1,306.6 million (2012: EUR 1,408.7 million)
+following an issue of EUR 100 million hybrid bond. Interest-bearing
+net debt was EUR 1,135.3 million (2012: EUR 1,241.5 million).
+
+In December 2013, Sanoma issued a EUR 100 million hybrid bond,
+ie. capital securities. The proceeds of the hybrid bond were used to
+pay down debt. The settlement date of the bond was 12 December 2013
+and the coupon rate of the bond is 7.25% per annum. The bond has no
+maturity but the company may exercise an early redemption option
+after three years.
+
+Investments, acquisitions and divestments
+
+In 2013, investments in tangible and intangible assets, including
+finance leases, amounted to EUR 67.3 million (2012: EUR 59.5 mil-
+lion). Investments were mainly related to digital business and ICT
+systems. In the comparable period, ICT systems as well as replace-
+ments and renovation accounted for most of the investments. In 2013,
+Sanoma’s business acquisitions totalled EUR 10.0 million (2012: EUR
+27.3 million). The impact of acquisitions on the Group’s assets and
+liabilities was minor.
+
+In April, Sanoma announced a divestment of Netinfo assets in Bul-
+garia. The deal was closed in October. As a result of the transaction,
+Sanoma recognised a capital loss of EUR -3.3 million.
+
+In June, Sanoma sold the operations of Printcenter. Asa result of the
+transaction, Sanoma recognised a tax-deductible capital loss of EUR
+-2.1 million.
+
+In June, Sanoma sold its ownership of Helsinki Halli to Hiallis
+Promotion. The number of shares sold represented 18.1% of the total
+number of shares. As a result of the transaction, Sanoma recognised a
+non-taxable capital gain of EUR 1.3 million.
+
+In July, Sanoma sold its ownership of the real estate companies Kiin-
+teisté Oy Bulevardi 12 and Kiinteisté Oy Bulevardi 14. As a result of
+the transaction, Sanoma recognised a capital gain of EUR 13.0 million.
+
+In August, Sanoma announced a divestment of its Romanian opera-
+tions. The deal is expected to be closed during the first quarter of 2014.
+
+In August, Sanoma announced a divestment of Sanoma Bliasak
+Bulgaria. The deal is expected to be closed during the first quarter of
+2014.
+
+In October, Sanoma sold its Learning operations in Hungary. As a
+result of the transaction, Sanoma recognised in 2013 a capital loss of
+EUR 35.3 million.
+
+In December, Sanoma sold its Serbian operations. As a result of the
+transaction, Sanoma recognised a capital gain of EUR 0.4 million.
+
+In December, Sanoma announced a divestment of its Czech opera-
+tions. The deal is expected to be closed in the second quarter of 2014.
+
+Events after the end of 2013
+
+In January 2014, Sanoma sold real estate properties in Vantaa, Fin-
+land. The total value of the transactions was around EUR 65 million.
+Asa result of the transaction in Koivuvaara, Sanoma recognised in the
+fourth quarter of 2013 a non-recurring impairment of EUR -5.6 mil-
+lion to reflect the sales price. The sale of Sanomala will result in a non-
+recurring capital gain of some EUR 38 million to be recognised in the
+result of the first quarter 2014.
+
+Change in reporting
+
+Starting from 1 January 2014, Sanoma will consist of two segments,
+Consumer Media and Learning. Sanoma will report net sales and
+profitability for three Strategic Business Units: Sanoma Media Nether-
+lands, Sanoma Media Finland and Sanoma Learning. Sanoma Media
+Belgium and Sanoma Media Russia & CEE will be reported in the cat-
+egory ‘Other’.
+
+Group outlook
+
+In 2014, Sanoma expects that the Group's consolidated net sales
+
+adjusted for structural changes will decline somewhat compared to
+
+2013. The operating profit margin excluding non-recurring items is
+
+estimated to be below previous year's level (2013: 7.0% of net sales).
+
+Sanoma’s outlook is based on three major factors:
+
+(1) continued negative pressure on sales and operating profit due to
+declining print markets and weak economic development in Sano-
+ma’s core operating countries,
+
+(2) strong positive impact from our EUR 100 million cost savings pro-
+gramme, and
+
+(3) increased investment levels to fund digital transformation and
+growth in Consumer Media and the expansion into tutoring and
+emerging markets in Learning.
+
+Mid-term outlook
+
+Based on the execution of the strategic redesign, Sanoma expects that
+from 2016 onwards the Group's consolidated net sales will return to
+organic growth. The operating profit margin excluding non-recurring
+items is targeted to be around 10% of net sales. Sanoma is targeting for
+anet debt to EBITDA ratio below 3.5.
+
+Cost savings programme
+
+Asa part of streamlining operations and ensuring competitive cost lev-
+els, in 2012 Sanoma commenced a three-year, EUR 60 million Group-
+wide cost savings programme which was extended in October 2013 to
+EUR 100 million (gross). The full impact of the planned savings is esti-
+mated to realise by the end of 2016.
+
+The programme is proceeding according to plan. Related to the
+programme, around EUR 39 million of non-recurring restructuring
+expenses have been recognised by the end 2013. The impact of the
+realised gross cost savings of the programme in 2013 was around EUR
+21 million. Savings in the fourth quarter were around EUR 8 million,
+implying an annual run-rate of around EUR 34 million.
+
+BOARD OF DIRECTORS’ REPORT
+
+9
+
+
+--- Page 7 ---
+
+BOARD OF DIRECTORS’ REPORT
+
+°
+
+Media
+
+The Media segment in 2013 included magazine, TV, radio and online
+businesses in 11 European countries and comprised four strategic
+business units: Sanoma Media Netherlands, Sanoma Media Finland,
+Sanoma Media Belgium and Sanoma Media Russia & CEE.
+
+andi a 1-12/ 1-12/
+Key indicators, EUR million aE TAF
+Netsales 1390.1 1487.1
+Operating profit excluding 837 1515
+non-recurring items
+% OF NET SALES 6.0 10.2
+Operating profit -303.2 130.2
+Capital expenditure 33.8 307
+Return on investment (ROI), % “12.1 42
+Number of employees at the end of 5218 5718
+the period (full-time equivalents) *
+
+Average number of employees 5 439 5772
+
+(full-time equivalents) *
+
+*In 2013, the number of employees does not include 106 employees due to a
+shift from Media Finland to News. The comparable FTE figure for Media was
+5,324 atthe end of 2013.
+
+Circulation sales growth, % 1-12/2013 vs. 1-12/2012
+
+Total
+Subscription Single copy circulation
+
+Media Netherlands ~6 “11 7
+Media Finland 0 5 1
+
+of which Magazines 4 8 4
+Media Belgium +8 4 -1
+Media Russia & CEE 5 -15 -13
+Total Media segment 3 9 -6
+
+Advertising sales growth, % 1-12/2013 vs. 1-12/2012
+
+TV& Total
+Print| Online Radio advertising
+
+Media Netherlands -25 1 8 9
+Media Finland “15 +18 0 2
+Media Belgium -20 -2 +2 -1
+Media Russia & CEE -18 1) +4 -12
+
+Total Media segment -20 +1 5 8
+
+In 2013, the Media segment’s net sales decreased by 6.5% to EUR
+1,390.1 million (2012: EUR 1,487.1 million). The decline was mainly
+attributable to lower print advertising and single copy sales. Adjusted
+for structural changes, net sales decreased by 7.1%.
+
+The segment’s advertising sales decreased by 8.5% due to weak
+print advertising markets, and represented 43.7% (2012: 44.7%) of
+the segment's net sales in 2013. The segment's print circulation sales
+decreased by 4.7% driven by lower single copy sales and represented
+43.6% (2012: 43.2%) of the segment’s net sales in 2013.
+
+In Sanoma Media Netherlands, net sales decreased by 7.2% to EUR
+705.8 million (2012: EUR 760.4 million) as a result of continued dete-
+rioration in advertising and circulation sales. Advertising sales repre-
+sented 44.5% (2012: 45.6%) of the Dutch net sales. Sanoma estimates
+that the advertising market in the Netherlands decreased on a net
+basis in TV by around 3%, in consumer magazines by around 17%, and
+in online excluding search by some 3% in 2013. Circulation sales repre-
+sented 42.6% (2012: 42.7%) of the Dutch net sales.
+
+In Sanoma Media Finland, net sales decreased by 2.8% to EUR 293.4
+million (2012: EUR 3017 million) mainly due to lower print adver-
+tising sales. Advertising sales represented 44.4% (2012: 44.0%) of the
+Finnish net sales. According to TNS Gallup Adex, the advertising mar-
+ket in Finland decreased on a net basis in magazines by some 13% and
+in TV by around 2%, whereas advertising in online excluding search
+increased by around 6% in 2013. Circulation sales represented 45.6%
+(2012: 44.8%) of the Finnish net sales.
+
+Net sales in Sanoma Media Belgium decreased by 3.7% to EUR 220.0
+million (2012: EUR 228.3 million) due to weak print advertising sales,
+Advertising sales represented 30.9% (2012: 33.5%) of the segment's
+net sales. Sanoma estimates that the advertising market in Belgium
+decreased on a net basis in TV by around 7%, in consumer magazines
+by some 17%, and in online excluding search by around 1% in 2013.
+Circulation sales represented 51.0% (2012: 49.7%) of net sales.
+
+In Sanoma Media Russia & CEE, net sales decreased by 13.0% to
+EUR 173.5 million (2012: EUR 199.5 million) due to divestments as
+well as continued pressure on advertising and circulation sales. In
+total, advertising sales represented 55.3% (2012: 54.5%) of net sales in
+the Sanoma Media Russia & CEE strategic business unit. Circulation
+sales represented 34.5% (2012: 34.3%) of net sales. Service and product
+portfolios are optimised according to their future development poten-
+tial as well as to reflect changes in the market environment.
+
+In the Media segment, operating profit excluding non-recurring
+items decreased by 44.8% to EUR 83.7 million (2012: EUR 151.5 mil-
+lion) as weak sales development was not off-set by cost savings.
+
+Non-recurring items included in the operating profit totalled EUR
+-386.9 million (2012: EUR -21.2 million) and included impairments of
+goodwill and intangibles, restructuring expenses and losses on sales
+of assets. In the comparable year, non-recurring items were related to
+restructuring expenses, impairments of goodwill and intangible assets
+as well as loss on the sale of an asset.
+
+Media’s investments in tangible and intangible assets totalled EUR
+33.8 million (2012: EUR 30.7 million) and consisted mainly of ICT
+investments for business support and digital developments. In 2013
+there were no significant acquisitions. In 2012, the most significant
+acquisition were the online retail group Read & View in the Nether-
+lands, three commercial radio stations in Finland and the content mar-
+keting company HeadOffice in Belgium.
+
+
+
+--- Page 8 ---
+
+News
+
+The News segment includes the Sanoma News strategic business unit,
+Finland’s leading player in newspaper publishing and online media.
+
+angi a 1-12/ 1-12/
+Key indicators, EUR million aE IF
+Netsales 393.5 4228
+Operating profit excluding 291 322
+non-recurring items
+% OF NET SALES 74 76
+Operating profit 26.0 20.3
+Capital expenditure 147 11.0
+Return on investment (ROI), % 11.6 92
+Number of employees at the end of 1949 1928
+the period (full-time equivalents) *
+
+Average number of employees 2015 2055
+
+(full-time equivalents) *
+
+* In 2013, the number of employees includes 106 employees due to a shift from
+Media Finland to News. The comparable FTE figure for News was 1,843 at the
+end of 2013.
+
+Circulation sales growth, % 1-12/2013 vs. 1-12/2012
+
+Total
+Subscription Single copy circulation
+Total News segment 3 7 4
+
+Advertising sales growth, % 1-12/2013 vs. 1-12/2012
+
+Total
+
+Print Online adverti
+
+Total News segment -20 +8 -14
+
+In 2013, the News segment's net sales decreased by 6.9% to EUR 393.5
+million (2012: EUR 422.88 million). The underlying macro-economic
+uncertainty adversely impacts the advertising market, particularly
+printed recruitment advertising. Structural changes did not impact
+net sales.
+
+Circulation sales decreased by 4.1% due to cautious consumer
+spending and accounted for 45.2% (2012: 43.9%) of the segment’s net
+sales. Advertising sales decreased by 14.3% as a result of weak print
+advertising market and represented 44.6% (2012: 48.4%) of the seg-
+ment’s net sales. Mobile and tablet advertising sales more than dou-
+bled during 2013.
+
+According to TNS Gallup Adex, the net newspaper advertising mar-
+ket in Finland decreased by about 16% in 2013. Online advertising
+(net) included in the statistics was up by some 6%.
+
+The Helsingin Sanomat business unit's net sales decreased by 5.2%
+as growth in online and mobile advertising could not off-set the decline
+in print advertising. The underlying macro-economic uncertainty
+affected recruitment advertising sales in particular. Advertising sales
+represented 49.3% (2012: 47.6%) of the business unit's net sales.
+
+The Ilta-Sanomat business unit’s net sales increased by 1.6% as
+growth in digital more than compensated the decline in print. Adver-
+tising sales represented 35.1% (2012: 29.8%) of the business unit's net
+sales. I]ta-Sanomat tabloid continued to strengthen its market leader-
+ship and the market share was 60.3% (2012: 59.2%) of the tabloid news-
+stand market in 2013.
+
+Net sales from other publishing operations decreased by 16.1% due
+to weak advertising sales.
+
+News’ operating profit excluding non-recurring items decreased by
+9.4% to EUR 29.1 million (2012: EUR 32.2 million) mainly due to the
+lower result of the Helsingin Sanomat business unit. Operating profit
+excluding non-recurring items included as well a one-off positive com-
+pensation of around EUR 4 million regarding an ICT system.
+
+Non-recurring items included in the operating profit totalled EUR
+-3.1 million (2012: EUR -11.9 million) and were related to restructur-
+ing costs and a compensation on an ICT system. In the comparable
+year, non-recurring items were related to an ICT system and restruc-
+turing costs.
+
+News’ investments in tangible and intangible assets totalled EUR
+14.7 million (2012: EUR 11.0 million), and consisted mainly of invest-
+ments in digital business, ICT and replacement investment in printing.
+There were no material acquisitions in 2013 or in the comparable year.
+
+BOARD OF DIRECTORS’ REPORT
+
+
+--- Page 9 ---
+
+BOARD OF DIRECTORS’ REPORT
+
+Learning
+
+The Learning segment includes the Sanoma Learning strategic busi-
+ness unit. Sanoma Learning is a leading European provider of learn-
+ing materials and solutions in print and digital format.
+
+andi a 1-12/ 1-12/
+Key indicators, EUR million aE TAF
+Netsales 304.6 3124
+Operating profit excluding 56.2 592
+non-recurring items
+% OF NET SALES 18.5 19.0
+Operating profit 20.6 589
+Capital expenditure 143 73
+Return on investment (ROI), % 40 12
+Number of employees at the end of 1564 1735
+the period (full-time equivalents)
+
+Average number of employees 1699 1832
+
+(full-time equivalents)
+
+In 2013, the Learning segment's net sales decreased by 2.5% to EUR
+304.6 million (2012: EUR 312.4 million), mainly related to structural
+changes. Adjusted for structural changes, net sales decreased by 0.6%.
+Learning operations in Hungary were sold on in October 2013. The
+divestments related to a long period of adverse conditions in the Hun-
+garian education market. In 2013 net sales in Hungary were EUR 13
+million. Underlying sales development was positive in almost all coun-
+tries of operations.
+
+Learning segment’s operating profit excluding non-recurring items
+decreased by 5.1% to EUR 56.2 million (2012: EUR 59.6 million)
+mainly due to lower net sales and the launch of tutoring service Study-
+Steps in the Netherlands and Belgium. Non-recurring items included
+in the operating profit totalled EUR -35.7 million (2012: EUR -0.3 mil-
+lion) mainly consisting of a EUR -35.3 million loss on the sale of Hun-
+garian NTK.
+
+Learning's investments in tangible and intangible assets totalled
+EUR 14.3 million (2012: EUR 7.3 million). They comprised mainly of
+investment in digital platforms ICT. There were no material acquisi-
+tions in 2013. The most significant transaction in the comparable year
+was the acquisition of the testing and examination company Bureau
+ICE.
+
+Personnel
+
+In 2013, the average number of personnel (FTE) employed by the
+Sanoma Group was 10,043 (2012: 10,804, 2011: 11,607). In full-time
+equivalents, the number of Group employees at the end of 2013 was
+9,597 (2012: 10,381, 2011: 10,960). Divestments and restructuring
+decreased the number of personnel. In full-time equivalents, the
+Media segment had 5,218 (2012: 5,718) employees at the end of 2013
+and the News segment 1,949 (2012: 1,928). In 2013, the number of
+
+employees of the News segment includes 106 employees due to a shift
+from Media to News. The comparable FTE figure for Media was 5,324
+and for News 1,843 at the end of 2013. The Learning segment had
+1,564 (2012: 1,735) and other operations 866 (2012: 1,000) employees
+(FTE) at the end of 2013.
+
+Wages, salaries and fees to Sanoma’s employees in 2013, including
+the expense recognition of share based payments, amounted to EUR
+478.7 million (2012: EUR 517.6 million, 2011: EUR 549.7 million).
+
+Dividend
+
+On 31 December 2013, Sanoma Corporation’s distributable funds were
+
+EUR 538.8 million, of which profit for the year made up EUR 57.2 mil-
+
+lion.
+
+The Board of Directors proposes to the Annual General Meeting that:
+
++ a dividend of EUR 0.10 per share, or in total an estimated EUR 16.3
+million, shall be paid.
+
++ a sum of EUR 0.
+reserve and used at the Board’s discretion.
+
++ the amount left in equity shall be EUR 521.9 million.
+
+In addition, Board decided to propose to the Annual General Meeting
+
+that the Board be authorised to decide on the distribution of additional
+
+dividend of no more than EUR 0.20 per share.
+
+In accordance with the Annual General Meeting’s decision in April
+2013, Sanoma paid out a per-share dividend of EUR 0.60 for 2012.
+Sanoma conducts an active dividend policy and primarily distributes
+over half of the Group result excluding non-recurring items for the
+period in dividends.
+
+million shall be transferred to the donation
+
+Corporate Governance
+
+@ For more information on Sanoma’s Corporate Governance, please
+see the Corporate Governance Statement, pp. 78-82.
+
+Shares and holdings
+
+In 2013, 54,326,354 (2012: 106,129,204) Sanoma shares were traded
+on the NASDAQ OMX Helsinki and traded shares accounted for some
+33% (2012: 65%) of the average number of shares. Sanoma’s NASDAQ
+OMX Helsinki stock exchange turnover was EUR 368.8 million (2012:
+EUR 851.7 million). Sanoma’s shares traded on the NASDAQ OMX
+Helsinki corresponded to around 70% (2012: 64%) of the total traded
+share volume on stock exchanges.
+
+During 2013, the volume-weighted average price of a Sanoma share
+on the NASDAQ OMX Helsinki was EUR 6.79, with a low of EUR 5.28
+and a high of EUR 8.95. At the end of the year, Sanoma’s market capi-
+talisation was EUR 1.0 billion (2012: EUR 1.2 billion), with Sanoma’s
+share closing at EUR 6.39 (2012: EUR 7.44).
+
+At the end of 2013, Sanoma’s registered share capital was EUR
+71,258,986.82 and the number of shares was 162,812,093.
+© For more information on Sanoma’s shares and shareholders, stock
+options and management ownership, see the Shares and shareholders
+section of the Financial Statements, pp. 66-72 as well as Notes 23 and
+33 of the Financial Statements. For key indicators, see p.4 of the
+Financial Statements.
+
+
+--- Page 10 ---
+
+Board of Directors, auditors and management
+
+The AGM held on 3 April 2013 confirmed the number of Sanoma’s
+Board members as ten. Board member Antti Herlin was re-elected and
+Anne Brunila, Mika Ihamuotila and Robin Langenskiéld were elected
+as new Board Members. Antti Herlin was elected as Chairman of the
+Board and Sakari Tamminen as Vice Chairman. The Board of Direc-
+tors of Sanoma consists of Antti Herlin (Chairman), Sakari Tamminen
+(Vice Chairman), and Annet Aris, Anne Brunila, Jane Erkko, Mika Tha-
+muotila, Robin Langenskidld, Nancy McKinstry, Rafaela Seppéila and
+Kai Oistém6 as members.
+
+The AGM appointed chartered accountants KPMG Oy Ab as
+the auditor of the company, with Virpi Halonen, Authorised Public
+Accountant, as Auditor in Charge.
+
+From the end of 2013, the Executive Management Group (EMG)
+comprises: Harri-Pekka Kaukonen (President and CEO of the Sanoma
+Group, chairman of the EMG), Jacqueline Cuthbert (CHRO), Jacques
+Eijkens (CEO, Sanoma Learning), Kim Ignatius (CFO), John Martin
+(CEO, Sanoma Digital, will move to Sanoma Learning during the first
+quarter of 2014), Peter de Ménnink (CEO, Sanoma Media Netherlands
+as of 1 January 2014), Heike Rosener (CEO, Sanoma Media Russia &
+CEE) and Pekka Soini (CEO, Sanoma Media Finland).
+
+On September 27, Sanoma announced that Peter de Ménnink, has
+been appointed CEO of Sanoma Media Netherlands as of 1 January
+2014. Dick Molman stepped down on 1 November 2013.
+
+On October 8, Sanoma announced that CEO of Sanoma News,
+Pekka Soini has been appointed CEO of the new company Sanoma
+Media Finland that was established 1 January 2014 by the merger of
+Sanoma’s Finnish media operations. The former CEO of the strategic
+business unit Sanoma Media Finland, Anu Nissinen, stayed in her role
+until the end of the year
+
+On October 31, Sanoma announced that John Martin, CEO of
+Sanoma Digital, has been appointed as CEO of Sanoma Learning.
+Jacques Eijkens, the current CEO of Sanoma Learning, will step down
+in the first quarter of 2014 to make room for his successor.
+
+On December 16, Sanoma announced that Aimé van Hecke, CEO of
+Sanoma Media Belgium stepped down. Sanoma Media Belgium is cur-
+rently led by Hans Cools who is not a member of the EMG.
+
+Board authorisations
+
+The AGM held on 3 April 2013 authorised the Board of Directors to
+decide on an issuance of a maximum of 82,000,000 new shares and a
+transfer of a maximum of 5,000,000 treasury shares. The authorisation
+will be valid until 30 June 2016. The Board of Directors is authorised
+to grant a maximum of 5,000,000 stock options as part of the Com-
+pany’s incentive programme. In a directed share issue, a maximum of
+41,000,000 shares can be issued or transferred.
+
+The AGM held on 3 April 2013 authorised the Board to decide on
+the repurchase of maximum of 16,000,000 Company's own shares. The
+authorisation is effective until 30 June 2014 and terminates the cor-
+responding authorisation granted by the AGM on 3 April 2012. These
+shares can be purchased with the Company’s unrestricted sharehold-
+ers’ equity, and the repurchases will reduce the funds available for
+distribution of profits. The shares can be repurchased to develop the
+Company’s capital structure, carry out or finance potential corporate
+acquisitions or other business arrangements, to be used asa part of the
+
+Company's incentive programme or to be otherwise conveyed further,
+retained as treasury shares, or cancelled. The shares can be repur-
+chased either through a tender offer made to all shareholders on equal
+terms or in a proportion other than that of the current shareholders
+at the market price of the repurchase moment on the NASDAQ OMX
+Helsinki Ltd.
+
+The Board of Directors did not excercise these rights during 2013.
+
+Seasonal fluctuation
+
+The net sales and results of media businesses are particularly affected
+by the development of advertising. Advertising sales are influenced,
+for example, by the number of newspaper and magazine issues pub-
+lished each quarter, which varies annually. Television advertising in
+the Netherlands, Finland and Belgium is usually strongest in the sec-
+ond and fourth quarters.
+
+Learning accrues most of its net sales and results during the second
+and third quarters.
+
+Seasonal business fluctuations influence the Group’s net sales and
+operating profit, with the first quarter traditionally being clearly the
+smallest one for both.
+
+Significant risks and uncertainty factors
+
+The most significant risks and uncertainty factors Sanoma currently
+faces are described in the Financial Statements (pp. 83-85) and on
+the Group's website at Sanoma.com, together with the Group's main
+principles of risk management. Many of the identified risks relate
+to changes in customer preferences. The driving force behind these
+changes is the on-going digitisation process. Sanoma takes actions in
+all its strategic business units to respond to this challenge.
+
+With regard to changing customer preferences and digitisation, new
+entrants might be able to better utilise these changes and therefore
+gain market share from Sanoma’s established businesses.
+
+Normal business risks associated with the industry relate to devel-
+opments in media advertising and consumer spending, Media advertis-
+ing is sensitive to economic fluctuations. Therefore, general economic
+conditions and economic trends in the industry influence Sanoma’s
+business activities and operational performance.
+
+Sanoma’s financial risks include interest rate and currency risks,
+liquidity risk and credit risk. Other risks include risks related to equity,
+impairment and the availability of capital. At the Group level, the most
+significant risks relate to liquidity risk and changes in exchange rates
+and interest rates.
+
+Sanoma’s consolidated balance sheet includes about EUR 2.6 bil-
+lion in goodwill, publishing rights and other intangible assets. Most
+of this is related to magazine and TV operations. In accordance with
+IFRS, instead of goodwill being amortised regularly, it is tested for
+impairment on an annual basis, or whenever there is any indication
+of impairment. Major changes in business fundamentals could lead to
+further impairment.
+
+@ Definitions for key indicators used in this report are presented on
+p.5 of the Financial Statements.
+
+BOARD OF DIRECTORS’ REPORT
