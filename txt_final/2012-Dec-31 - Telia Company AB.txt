@@ -1,0 +1,5846 @@
+
+
+--- Page 1 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+TeliaSonera in brief
+
+Communication the easy way
+
+TeliaSonera has its roots in the Nordic telecom market and holds strong positions
+in the Nordic and Baltic countries, Eurasia and Spain. Our core business is to
+create better communication opportunities for people and businesses through
+mobile and broadband communication services.
+
+TeliaSonera creates a
+world with better opportunities
+
+We help people communicate with family, friends and
+business contacts in an easy, efficient and environ-
+mentally friendly way. We do this by providing high
+quality telecommunication services in the Nordic and
+Baltic countries, the emerging markets of Eurasia,
+including Russia and Turkey, and in Spain. Our ambition
+is to be a leading operator in all our markets, by
+providing the best customer experience, high-quality
+networks and cost-efficient operations.
+
+We are an international group
+
+We have majority-owned operations from the Nordics
+to Nepal, with more than 71 million subscriptions at
+year-end 2012 as well as almost 112 million subscrip-
+tions in our associated companies, mainly in Russia
+and Turkey. We are also the leading European whole-
+sale provider with a wholly-owned international carrier
+network.
+
+We want to help our
+customers get connected
+We offer high-quality services such as mobile
+
+broadband via 4G, digital home and fiber services
+to ensure we can meet future demands.
+
+We are organized into
+three business areas
+
+Mobility Services, Broadband Services and Eurasia are
+our three business areas. In the Nordic and Baltic re-
+gions we provide mobile and fixed line services includ-
+ing TV. In Eurasia and Spain we offer mobile services.
+
++Mobility Services
+
+*Broadband Services
+
+Eurasia
+
+Our employees
+We had 27,838
+
+employees
+
+at year-end. 5
+
+
+--- Page 2 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+The year in brief
+
+2012 — an eventful year
+
+e We continued the roll-out of both fiber as well as 4G
+and extended our TV offerings, by for example intro-
+ducing HBO and Play+. Reduced dataroaming prices
+were brought to new destinations and Spotify was
+
+launched in several markets.
+
+© We initiated an efficiency program that will lead
+to cost reductions of SEK 2 billion net over the
+coming two years, including personnel reductions
+net of 2,000 employees in the Nordics and Baltics.
+At the same time, we see a need to recruit new
+
+competence.
+
+© We partnered with the Danish Institute for Human
+Rights (DIHR) to define and support an internal
+assessment of risks that could potentially lead to
+involvement in human rights violations. In particular,
+freedom of expression and privacy are growing in
+importance for companies across the ICT sector.
+
+© We successfully managed to settle a long standing
+
+ownership dispute in Russian MegaFon and
+
+completed an initial public offering of the company
+by the end of the year. It is amazing that our invest-
+ment of a mere SEK 1.2 billion since the company’s
+inception in 1994 has grown to around SEK 55 billion
+including dividends, sale of shares and the value of
+
+our remaining 25 percent ownership.
+
+e We successfully completed an initial public offering
+of Kazakh Kcell during the fall and decided to divest
+
+Norwegian NextGentTel.
+
+e We were accused of bribery and money laundering
+in connection with our investments in Uzbekistan
+in 2007 and 2010. The Board appointed an external
+investigation that could neither prove nor completely
+reject the accusations. The investigation complained
+of deficiencies in the implementation of the deal and
+that the company violated its own ethical guidelines.
+In a statement, the Board agreed in the criticism, and
+
+shared the same.
+
+Our financial position is solid and at year-end free
+cash flow was record high and we delivered the
+second highest earnings per share, at SEK 4.59,
+since the merger between Telia and Sonera in 2002.
+
+Financial highlights
+
+SEK in millions, except key ratios,
+
+per share data and margins 2012 2010
+Net sales 104,898 104,804 106,979
+EBITDA, excluding non-recurring items 36,059 37,222 36,897
+margin (%) 34.4 34.5
+Operating income 28,288 29,720 32,003
+Operating income, excluding non-
+recurring items 28,570 29,889 31,935
+Net income 21,168 21,119 23,562
+of which attributable to owners of
+the parent company 19,886 18,388 21,257
+Earnings per share (SEK) 4.59 4.73
+Return on equity (%, rolling 12 months) 19.8 17.8
+CAPEX-to-sales (%) 15.0 14.0
+Free cash flow 23,740 9,415 12,901
+NET SALES AND EBITDA MARGIN, EXCLUDING
+NON-RECURRING ITEMS, 2010-2012
+Net sales Ml EBITDA margin
+SEK billion %
+110 36
+105 34
+100 32
+95 30
+2010 2011 2012
+
+EPS AND DIVIDENDS, 2010-2012
+MEPS ®Ordinarydividend M™ Proposed dividend
+
+SEK per share
+
+
+--- Page 3 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+Letter from the CEO
+
+Dear shareholders,
+
+The year of 2012 was a strong one, both financially and operationally. We delivered a
+good profit, despite a downturn in the global economy. We resolved the ownership
+conflict at MegaFon, which has dragged on for many years, and carried out stock-
+market flotations that helped to produce a strong cash flow. At the same time, some
+
+of our investments in Eurasia were criticized.
+
+Second best result in ten years
+
+We have a lot to be proud of. Despite an uncertain and
+troubling macroeconomic climate, last year we suc-
+ceeded in achieving our second best result in the ten
+years that have elapsed since Telia and Sonera merged.
+Amidst the global economic downturn, we managed
+to consolidate and strengthen our position. All opera-
+tions in Business area Eurasia reported higher sales,
+generating growth of 14 percent. This compensated for
+slightly lower sales in the Mobility Services and Broad-
+band Services business areas.
+
+Since the merger in 2002, TeliaSonera has delivered
+dividends totaling SEK 117 billion. This corresponds
+to SEK 26 per share, excluding share buy-backs. The
+number of subscriptions has risen from 19 million to
+nearly 71 million in our majority-owned businesses
+and to a total of 183 million if we include businesses in
+which we hold a minority stake.
+
+High pressure for change and strong
+pressure on prices
+
+The customers’ appetite for bandwidth is more or less
+unlimited. In practically every home and in just about
+every workplace, the need for mobile and fixed data
+communications is growing, as new services and com-
+munication tools enter everyday use.
+
+Ten years ago, telephones were used exclusively for
+voice calls and texting. In the workplace, e-mail was
+the only form of electronic communication, and the
+computer was the only terminal connected to the inter-
+net. In the evening, all the family got together around
+the same TV.
+
+Today, every member of the family uses broadband
+services via their own computer, smartphone or tablet.
+Businesses and organizations communicate with
+customers and personnel via apps, social media, video-
+conferencing and Twitter.
+
+In 2012, mobile data traffic on TeliaSonera’s network
+expanded by nearly 80 percent. That is a very substan-
+tial increase but income is not keeping pace, rising by
+only a little over 20 percent. Our income from mobile
+voice calls fell by 10 percent, while the volume re-
+mained largely unchanged.
+
+Dealing with pressure on prices and constantly rising
+demand for capacity, while coping with falling income
+from voice calls, will be the major challenge for Telia-
+Sonera and the industry as a whole. We will meet this
+challenge in three ways:
+
+We will continue to invest in our networks and
+services in order to always have the market’s most
+attractive offerings. We will introduce a new pricing
+structure that better reflects our customers’ patterns of
+consumption and we will reduce our costs.
+
+In 2012, we invested nearly SEK 16 billion in infra-
+structure, licenses for mobile network and fiber. We
+have now launched 4G in all the Nordic and Baltic
+markets, as well as in several countries in Eurasia. In
+2013, we will continue to expand our 4G networks. No
+other company is investing more in infrastructure in
+Sweden than TeliaSonera.
+
+We will carry on developing new applications and
+services with the leading players in the market. Dur-
+ing the year, we were the first Nordic operator to sign
+an agreement with the USA TV channel HBO, which
+offers new series the day after showing in the USA. We
+partnered with Samsung in developing IPTV technology
+enabling our customers to watch TV without a set-top
+box.
+
+In 2012, we embarked on a program aimed at sav-
+ings of SEK 2 billion. The savings will be achieved partly
+by introducing new, more efficient ways of working and
+partly by exploiting the benefits of new technology.
+
+The high pressure for change in the industry is nota
+negative factor; it is an opportunity to develop competi-
+tiveness. TeliaSonera possesses a unique combination
+of business volume, financial strength, expertise and
+
+
+--- Page 4 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+along-term perspective. We are one of the biggest
+telecom operators in Europe. We have a very strong
+balance sheet. We have expert personnel and a long
+tradition of being at the cutting edge of technology.
+
+Successful stockmarket flotations
+
+During the year, we succeeded in resolving the dead-
+locked ownership situation at MegaFon, a situation
+that had lasted for many years. Now that we have clear
+ownership conditions and have floated the company
+on the London and Moscow stockmarkets, we have
+achieved our aim of transparent direct ownership of
+Russia’s second-largest mobile operator. Our invest-
+ment of SEK 1.2 billion since the company was formed
+in 1994 has yielded around SEK 55 billion, an outstand-
+ingly good return.
+
+In line with the strategy of increasing the level of
+ownership in our core holdings, we acquired a minor-
+ity stake in Kcell, our biggest operator in Eurasia, early
+in the year. Just before year-end, we also fulfilled our
+commitment to float the company in London and Al-
+maty, Kazakhstan stock exchanges.
+
+The flotations contributed to a record-high cash flow,
+which was used primarily to reduce our indebtedness.
+In addition, we were able to maintain an unchanged divi-
+dend of SEK 2.85 per share. This is in an era when many
+operators are cutting, or opting not to pay, dividend.
+
+Eurasia — growth but criticism too
+
+TeliaSonera’s seven companies in Eurasia remain our
+engines of growth, with high margins and four times as
+many subscriptions today as in 2007.
+
+Through our presence in Eurasia, we are generating
+growth for our shareholders, but even more important
+are the opportunities that our services create in the
+countries where we have set up business. Few tools
+are better for economic and personal development
+than access to the internet and mobile telephony. They
+enable people to communicate with each other and
+the outside world in a way that was not possible a few
+years ago, and they open up previously closed socie-
+ties to the outside world. Our contribution is through
+our investment in important infrastructure, and through
+provision of communication services at affordable
+prices to the vast majority of the population.
+
+In September, allegations were made in the media
+that TeliaSonera had been involved in bribery during
+establishment of operations in Uzbekistan in 2007. The
+Board of Directors immediately ordered an exter-
+nal investigation by help of the lawfirm Mannheimer
+Swartling. The findings, presented on February 1, this
+year, showed no evidence to support the allegations of
+criminal activity. On the other hand, the company was
+criticized for the way in which the investments had been
+made.
+
+
+
+--- Page 5 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+In a statement made on presentation of the report, the
+Board of Directors agreed with the conclusions.
+
+The Office of the Prosecutor General at Sweden’s
+National Anti-Corruption Unit initiated a preliminary
+investigation in September that is still in progress.
+
+The task of living up to the expectations the outside
+world places on us is not something that an organiza-
+tion such as TeliaSonera can complete at a stroke. It is
+acontinuously ongoing process. A series of measures
+to bolster our work on sustainability have been ongoing
+during the last years.
+
+For example, we have developed our processes and
+tightened our risk assessment procedures in connec-
+tion with new investments. We have also included sus-
+tainability risks into our decision-making procedures.
+Counterparty risks and frameworks for evaluation are
+analyzed both by ourselves and by qualified independ-
+ent experts.
+
+In association with other leading international
+telecom companies, we have drafted principles lay-
+ing down how we can respect the right to freedom of
+expression and integrity. By working together, and with
+the Global Network Initiative (GNI), we will be better
+able to safeguard fundamental rights.
+
+We have also, with the support of the Danish Institute
+for Human rights (DIHR), analyzed which areas we
+need to improve in, if we are to live up to the UN Decla-
+ration on Human Rights.
+
+In 2013, we will maintain a close focus on sustain-
+
+“We have a lot to be proud of. Despite an
+uncertain and troubling macroeconomic
+climate, last year we succeded in achiev-
+
+ing our second best result in the ten years
+that have elapsed since Telia and Sonera
+merged.”
+
+ability issues. In January, we adopted environmental
+targets for the whole group for the first time. Our ambi-
+tion is, by no later than 2020, to cut our carbon dioxide
+emissions and our energy consumption by 20 percent
+per subscription from current levels. In February, we
+signed up to The Global Compact, which embraces the
+UN’s Principles on Human Rights, Labor Law and the
+Environment etc.
+
+Issues relating to sustainability, business ethics and
+responsibility will be a natural part of everything we do.
+The knowledge and experience we have now acquired
+at great cost will further sharpen our focus on a sus-
+tainable and ethical approach to business throughout
+the organization.
+
+We are proud to be driving development of the com-
+munication society in a way that will enable even more
+people to communicate with each other.
+
+Stockholm, March 6, 2013
+
+Per-Arne Blomquist
+President and CEO
+
+
+--- Page 6 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+Markets and brands
+
+Strong market positions
+
+Customers recognize us in each of our markets by our common identity. Our icon
+represents the international strength of TeliaSonera combined with a strong local
+connection as represented by our well-known local brand names. We also have local
+fighting brands in most markets with a different marketing strategy. We have majority-
+owned operations in the Nordics and Baltics as well as in Eurasia and Spain and
+associated companies in Russia, Turkey and Latvia. We aim to be recognized asa
+leading player in all our markets.
+
+Majority-owned companies
+
+Country
+Sweden
+
+ZF Telia
+
+halebop™
+
+Finland
+
+g Sonera
+
+Norway
+g NetCom
+
+[Chess
+
+Denmark
+
+F Telia
+
+&
+dg
+
+Trademark
+
+Telia, Halebop
+Telia
+Telia
+
+Telia
+
+Sonera, TeleFinland
+Sonera
+Sonera
+
+Sonera
+
+NetCom, Chess
+
+Telia, Call me, DLG Tele?
+Telia, DLG Tele®
+Telia, Call me, DLG Tele?
+
+Telia
+
+Ownership
+
+100%
+100%
+100%
+100%
+
+100%
+100%
+100%
+100%
+
+100%
+
+100%
+100%
+100%
+100%
+
+Service
+
+Mobile
+
+Broadband
+
+Fixed Voice incl. VoIP
+TV
+
+Mobile
+Broadband
+Fixed Voice
+TV
+
+Mobile
+
+Mobile
+
+Broadband
+
+Fixed Voice incl. VoIP
+TV
+
+Market Market
+position share!
+
+40%
+38%
+61%
+13%
+
+34%
+30%
+22%
+21%
+
+25%
+
+18%
+3%
+8%
+
+<1%
+
+
+--- Page 7 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+Majority-owned companies
+
+Market Market
+Country Trademark Ownership Service position share!
+Lithuania
+FZ omnitet Omnitel, Ezys 100% Mobile 39%
+TEO 88.2% Broadband 50%
+os
+8 | teo™ TEO 88.2% Fixed Voice 90%
+TEO 88.2% Vv 24%
+Latvia
+nen LMT, Okarte, Amigo 60.3% Mobile 43%
+O!KORTE Hz:
+Areas
+Estonia
+gemt EMT, Diil 100% Mobile 44%
+dill) Elion 100% Broadband 58%
+Elion 100% Fixed Voice incl. VoIP 78%
+@elion Elion 100% Iv 34%
+Spain
+yorgo Yoigo 76.6% Mobile | 4 | 5%
+Kazakhstan
+Zxce Kcell, Activ 61.9% Mobile | 47%
+Azerbaijan
+G azercelt Azercell 38.1% Mobile + | 52%
+Uzbekistan
+Bucei Ucell 94% Mobile | 2 | 43%
+Tajikistan
+Zrcelt Teell 60% Mobile 36%
+Georgia
+ ceocell Geocell, Lailai 74.3% Mobile 1 | 42%
+Moldova
+Z Moldcelt Moldcell 74.3% Mobile | 2 | 33%
+Nepal
+BNceit Neel 60.4% Mobile 53%
+
+
+--- Page 8 ---
+
+TeliaSonera Annual Report 2012
+
+> Introduction
+
+Associated companies
+
+Country Trademark Ownership
+Latvia
+Lattelecom 49%
+laitielecom Lattelecom 49%
+Lattelecom 49%
+Russia
+@mecaron MegaFon 25.2%
+Turkey
+TURKCELL Turkcell 38%
+
+‘ In Broadband and Fixed Voice, TeliaSonera’s market share estimate is
+based on the share of revenues where data is available, and number
+of subscriptions where no data is available. In Mobile, the market
+share is based on the number of subscriptions except for subsidiaries
+in Eurasia where it is based on interconnect traffic. For TV, market
+share is based on the number of pay-TV subscriptions of cable TV, sa-
+tellite TV, terrestrial TV and IPTV. For Russia, market share is based on
+information from ACM Consulting. For Turkey, market share is based
+‘on information from ICTA.
+
+® TeliaSonera owns 50 percent of DLG Tele and controls the company.
+
+10
+
+Service
+
+Broadband
+
+Fixed Voice incl. VoIP
+
+TV
+
+Mobile
+
+Mobile
+
+Market Market
+position share!
+
+67%
+74%
+
+34%
+
+27%
+
+52%
+
+
+--- Page 9 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Board of Directors’ Report
+
+TeliaSonera reports its financial results by the three
+business area segments Mobility Services, Broad-
+band Services and Eurasia, and the segment Other
+operations. The business areas are based on business
+units which in most cases are country organizations,
+and for which certain financial information is reported.
+Other operations includes the units Other Business
+Services, TeliaSonera Holding and Corporate functions,
+which are all reported collectively. TeliaSonera’s corpo-
+rate functions are Communications, Finance (including
+M8A and Procurement), Human Resources, IT, Legal
+Affairs and Internal Audit.
+
+In this Report, comparative figures are provided in
+parentheses following the operational and financial re-
+sults and refer to the same item in the full year of 2011,
+unless otherwise stated.
+
+Mission, Vision and Strategy
+
+Vision and strategy - Making it possible
+Customers value the freedom and flexibility to do more and get
+closer via the internet. TeliaSonera provides network access and
+
+telecommunication services that enable people and businesses
+to achieve what's important to them. Seeing the big picture is
+important, but the little details are just as essential in meeting
+customers’ needs.
+
+Mission — to provide network access and
+telecommunication services
+
+TeliaSonera’s mission is to help people and companies
+communicate in an easy, efficient and environmen-
+tally friendly way, by providing network access and
+telecommunication services. Our focus is to deliver a
+world-class customer experience, while ensuring the
+quality of our networks and maintaining a cost efficient
+structure. TeliaSonera is an international group with a
+global strategy, but wherever we operate we act as a
+local company.
+
+Our focus areas
+
++ Providing world-class customer experience
++ High quality networks
+
++ Driving cost efficiency
+
+Vision — to contribute to a world with better
+opportunities
+
+TeliaSonera is a world-class service company, recog-
+nized as an industry leader. We are proud pioneers of
+the telecom industry, a position we have gained by be-
+ing innovative, reliable and customer friendly. Wherever
+we operate, we act in a responsible way, based ona
+firm set of values and business principles. Our services
+form a major part of people’s daily lives — for business,
+education and pleasure.
+
+Shared values
+
++ Add value
+
++ Show respect
+
++ Make it happen
+
+Strategy — a world-class customer experience
+Today communication services are an integral part of
+people’s daily lives. Since the arrival of smartphones
+and tablets, we rely increasingly on digital communica-
+tion for social and business interaction. A trend which
+will only grow stronger in the coming years. Communi-
+cation services have moved from being expensive and
+exclusive to being available, affordable and personal.
+Our ambition is to translate our strategy to provide a
+world-class customer experience, industry leading net-
+work quality and to have a competitive cost structure.
+
+We believe that our industry is faced with three main
+
+challenges:
+
+1.Introducing new business models to rebalance pric-
+ing towards data
+
+2.Fixed-mobile convergence and bundling of services
+
+3.Development of value-added services linked to the
+core business
+
+Rising to the challenges
+
+We are leading the move towards pricing that better
+reflects how customers use their devices. Convergence
+is a growing part of our offering, for example giving
+customers access to their subscribed TV channels via
+computers and mobile devices, bringing video services
+such as HBO and Netflix to mobile devices, and inte-
+grating Spotify into mobile and TV services.
+
+While maintaining our primary role as an enabler and
+access provider, we create added value for private and
+business customers through services such as cloud
+storage and virtual meetings. The focus here is on ap-
+plications closely linked to network access, and that
+reduce churn and increase data traffic in our networks.
+
+Data traffic per customer is increasing
+
+Our strategy is based on growth in data traffic beyond
+
+what would be expected from new customers coming
+
+into the network, and an unlimited demand for band-
+width. This has two major consequences:
+
++ Established fixed networks remain competitive, with
+strong growth in new services such as IPTV and
+video-on-demand
+
++ The pricing model will evolve. We will move from a
+voice-based model to a focus on charging for ac-
+cess, usage and speed
+
+
+--- Page 10 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Our promise
+
+We want our networks and services to be firmly based on cus-
+
+tomer needs. This is our promise to customers:
+
++ High quality networks, ensuring our services are reliable in
+terms of coverage, speed and up-time
+
++ Aworld-class experience, with services that look and feel
+great and are easy to use
+
++ Abusiness-to-business product portfolio that gives custom-
+ers competitive advantage
+
++ Early implementation of new technology and services
+
++ Efficient operations with the benefits of economies of scale
+
+Risks and Risk Management
+
+TeliaSonera operates in several geographic markets
+and with a broad range of products and services in the
+highly competitive and regulated telecommunications
+industry. In addition, certain TeliaSonera markets are
+highly challenging when it comes to corruption and
+violations of human rights. As a result, TeliaSonera is
+subject to a variety of risks and uncertainties. Telia-
+Sonera has defined risk as anything that could have a
+material adverse effect on the achievement of TeliaSon-
+era’s goals. Risks can be threats, uncertainties or lost
+opportunities relating to TeliaSonera’s current or future
+operations or activities.
+
+TeliaSonera has an established risk management
+framework in place to regularly identify, analyze, as-
+sess, and report business, financial and sustainability
+risks and uncertainties, and to mitigate such risks when
+appropriate. Risk management is an integral part of
+TeliaSonera’s business planning process and monitor-
+ing of business performance. Main risks relate to in-
+dustry and market conditions, operations and strategic
+activities, associated companies and joint ventures,
+sustainability, ownership of TeliaSonera shares, finan-
+cial management and financial reporting.
+
+Risks and uncertainties related to business, sustain-
+ability and shareholder issues are described in Note
+C35, key sources of estimation uncertainty in Note
+C2 and financial risks in Note C27 to the consolidated
+financial statements. TeliaSonera’s enterprise risk
+management, governance and process as well as inter-
+nal controls over financial reporting are described in
+the Corporate Governance Statement.
+
+Sustainability reporting
+TeliaSonera annually reports its sustainability performance
+in the Sustainability Report. As of 2012, the external auditors
+submitted a review report on the Sustainability Report. Telia-
+Sonera applies the Global Reporting Initiative guidelines for
+reporting on sustainability including the telecommunications
+sector supplement pilot. The report is intended to respond
+to internal and external stakeholders’ interest for informa-
+tion and request for increased transparency regarding the
+sustainability work. Internally, TeliaSonera uses the Sustain-
+ability Report to collect, highlight and share information
+about best practices across the group. The TeliaSonera
+Sustainability Report is available at:
+wwnw.teliasonera.com/Sustainability-Report
+
+(Information on the TeliaSonera website does not form part
+of this Report).
+
+12
+
+Group Development in 2012
+
+Financial highlights
+
+Net sales in local currencies and excluding acquisi-
+tions increased 1.2 percent. In reported currency,
+net sales were unchanged at SEK 104,898 million
+(104,804).
+
+The number of subscriptions grew by 8.4 million in
+the consolidated operations and by 6.4 million in the
+associated companies. The total number of subscrip-
+tions was 183.0 million.
+
+The addressable cost base in local currencies and
+excluding acquisitions decreased 0.3 percent. In
+reported currency, the addressable cost base de-
+creased 1.5 percent to SEK 29,671 million (30, 113).
+EBITDA, excluding non-recurring items, decreased
+2.4 percent in local currencies and excluding ac-
+quisitions. In reported currency, EBITDA, excluding
+non-recurring items, decreased 3.1 percent to SEK
+36,059 million (37,222). The EBITDA margin, exclud-
+ing non-recurring items, decreased to 34.4 percent
+(35.5).
+
+Operating income, excluding non-recurring items,
+decreased 4.4 percent to SEK 28,570 million
+(29,889).
+
+Net income attributable to owners of the parent com-
+pany increased 8.1 percent to SEK 19,886 million
+(18,388) and earnings per share to SEK 4.59 (4.21).
+Free cash flow increased to SEK 23,740 million
+(9,415), including a dividend from MegaFon of SEK
+11,726 million net of taxes.
+
+SEK in millions, except key ratios, Change
+per share data and changes 2012-2011 (%)
+Net sales 104,898 104,804 0.1
+Addressable cost base! -29,671 -30,113-1.5
+EBITDA? excl. non-recurring items* 36,059 37,222 -3.4
+Margin (%) 34.4 35.5
+Depreciation, amortization and impair-
+ment losses -20,542 -13,263 54.9
+Income from associated companies 13,868 5,802 139.0
+Non-recurring items® within EBITDA -1,097 -41
+Operating income 28,288 29,720 4.8
+Financial income and expenses, net -3,806 -2,848 © 33.6
+Income taxes “3,314 5,753 -42.4
+Net income 21,168 21,119 0.2
+of which attributable to owners of the
+parent company 19,886 18,388 8.1
+Earnings per share (SEK) 459° 4.21 9.0
+Operating income excluding non-recur-
+ring items® 28,570 29,889  -4.4
+Margin (%) 27.2 © 285
+Return on equity (%) 19.8 7A
+CAPEX-to-sales (%)* 15.0 16.6
+Free cash flow 23,740 9,415 152.2
+
+* See section “Expenses” for details on addressable cost base
+
+? EBITDA is an abbreviation of Earnings Before Interest, Tax, Depreciation and
+‘Amortization and is in TeliaSonera defined as operating income before deprecia-
+tion, amortization and impairment losses, and before income from associated
+companies
+
+8 See section “Non-recurring items” for details on non-recurring items
+
+“Including license and spectrum fees
+
+
+--- Page 11 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Restated financial information
+In this Report, prior periods have been restated to reflect
+
+(a) the change of accounting principle for joint ventures
+from the equity method to proportionate consolidation
+affecting business area Mobility Services, (b) the change to
+one-quarter lag reporting of the associated company OAO
+MegaFon within business area Eurasia, (c) correction of
+certain classification errors, referring to certain equipment
+sales within business area Mobility Services and (d) the
+transfer of the internal server operations from business area
+Broadband Services to reportable segment Other opera-
+tions. For additional information, see Note C1 to the consoli-
+dated financial statements.
+
+Significant events
+
+In February, the first 4G smartphone from Samsung
+
+was launched. TeliaSonera currently has more than
+
+400,000 4G dongle and smartphone users in the Nor-
+
+dic and Baltic countries. TeliaSonera estimates that in
+
+five years an average smartphone user will use more
+than 3 Gigabyte of data monthly, compared to around
+
+0.5 Gigabyte today.
+
+In June, TeliaSonera launched the first commercial
+4G services in Azerbaijan and in November TeliaSonera
+launched the first commercial 4G services in Moldova.
+TeliaSonera was the first operator in the world to com-
+mercially launch 4G in 2009 and currently offers 4G
+services in 9 countries; Sweden, Finland, Norway,
+Denmark, Lithuania, Latvia, Estonia, Azerbaijan and
+Moldova. TeliaSonera has also made 4G live connec-
+tions in Kazakhstan and Uzbekistan, and continues to
+roll out superfast mobile internet everywhere, to the
+benefit of its customers.
+
+In July, TeliaSonera announced that it had engaged
+the Danish Institute for Human Rights to support and
+review its human rights impact assessment. Together,
+DIHR and TeliaSonera developed a tool tailored to Telia-
+Sonera and the human rights risk profile of the telecom
+sector. It includes freedom of expression and privacy
+issues and is benchmarked on the United Nations’
+Guiding Principles on Business and Human Rights.
+DIHR will also assess TeliaSonera’s consequential miti-
+gation plan in 2013. Other ongoing sustainability activi-
+ties initiated in 2012 included, but were not limited to:
+
++ TeliaSonera, a founding member of the ‘Industry Dia-
+logue’, counting eleven leading telecom companies,
+active participant in defining common principles for
+respecting privacy and freedom of expression; and
+
++ Strengthening of anti-corruption processes and sup-
+ply chain management.
+
+In September, TeliaSonera confirmed that the Swedish
+
+Prosecuting Authorities had initiated an investigation
+
+regarding TeliaSonera’s investments in Uzbekistan
+
+and, in October, TeliaSonera assigned Mannheimer
+
+Swartling, one of Sweden’s most respected law firms,
+
+to lead an external review of these investments. Telia-
+
+Sonera’s net exposure in Uzbekistan is approximately
+
+SEK 6 billion. Mannheimer Swartling presented its
+
+review report on February 1, 2013 (see section “Signifi-
+
+cant Events after Year-End 2012”).
+
+13
+
+In the third quarter of 2012, TeliaSonera announced its
+intention to fundamentally change the business by sim-
+plifying the way of working. These efficiency measures,
+including personnel reductions net of 2,000 employ-
+ees, will lower the cost base by SEK 2 billion net over
+the coming two years.
+
+In November, the Swedish Parliament decided ona
+reduction of the corporate income tax in Sweden from
+26.3 percent to 22.0 percent, which will have a positive
+effect on TeliaSonera’s overall tax position. A one-time
+SEK 1,225 million net release of deferred tax liabilities
+was recognized in the fourth quarter of 2012, and the
+group’s effective tax rate going forward will be reduced
+by approximately 1.5 percentage points to around 20
+percent, based on current earnings distribution.
+
+In November, Telia in Sweden was the first Nordic
+operator to include HBO in its TV offering. This means
+that Telia’s close to 600,000 TV customers can watch
+new episodes of HBO’s series, subtitled in Swedish,
+one day after world premiere. The service also includes
+all past seasons of classic HBO series and a selection
+of library movies and is available on multiple devices,
+on TV, also in HD quality, as well as computers, smart-
+phones and tablets. In late December, the HBO service
+was also launched in Finland. The goal is to extend the
+offering also to Norway and Denmark.
+
+In 2012, some notable business area milestones
+were reached:
+
++ Mobility Services passed the 20 million subscription
+mark in the third quarter;
+
++ Broadband Services’ revenues from IP services
+surpassed revenues from traditional services during
+the year; and
+
++ Eurasia passed the 40 million subscription mark in
+the third quarter.
+
+In 2012, TeliaSonera made a number of targeted acqui-
+
+sitions and divestitures (see section “Acquisitions and
+
+Divestitures” for further information).
+
+In 2012, TeliaSonera in line with its funding strategy
+of diversification and increasing the duration of the debt
+portfolio issued a number of bonds under its existing
+EUR 11 billion EMTN (Euro Medium Term Note) pro-
+gram:
+
++ In February, a 12-year Eurobond of EUR 750 million
+with a coupon at 3.625 percent;
+
++ In August, a 15-year Eurobond of EUR 500 million
+with a coupon at 3.000 percent; and
+
++ In December, a 30-year Benchmark bond in the
+Sterling market of GBP 400 million with a coupon at
+4.375 percent.
+
+In 2012, the following changes in TeliaSonera Group
+
+Management were made:
+
++ In April, Robert Andersson was appointed President
+
+and Chief Executive Officer of Sonera in Finland and
+
+member of TeliaSonera Group Management; and
+
+In September, Tero Kivisaari was appointed President
+
+of business area Mobility Services. In addition, he
+
+continued his position as President of business area
+
+Eurasia until February 6, 2013 (see section “Signifi-
+
+cant Events after Year-End 2012”).
+
+
+--- Page 12 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Change (%), of which
+
+Change
+(SEK — Change local M&A FX
+2012 2011 _million) _(%), total__organic' _effects _effects?
+50,637 51,556 -919 8 0.1 0.0 i)
+Broadband Services 35,723 36,677 -954 -2.6 17 0.2 Ad
+Eurasia 19,731 17,330 2,401 13.9 13.5 0.0 0.4
+Other operations 3,799 3,992 -193 -4.8 -3.3 -0.8 -0.7
+Elimination of internal sales -4,992 -4,751 -241 5.1 n/a n/a nfa
+Group 104,898 104,804 94 0.4 1.2 0.0 Ad
+‘In local currencies and excluding acquisitions and divestitures (M&A effects)
+? Effects of exchange rate fluctuations
+Net sales Expenses
+
+Net sales increased 0.1 percent to SEK 104,898 million
+(104,804). Net sales in local currencies and excluding
+acquisitions increased 1.2 percent (2.6). The negative
+effect of exchange rate fluctuations was 1.1 percent
+(4.2). Growth was driven by continuing positive devel-
+opment in Eurasia, while other positive contributions
+from Nordic and Baltic mobile equipment sales, Yoigo
+in Spain and the international carrier operations did not
+compensate for the slow-down in other areas.
+
+Over the year, the net sales growth rate, in local cur-
+rencies and excluding acquisitions, was high in the first
+quarter, dropped in the second and third quarters and
+recovered in the fourth quarter.
+
+NET SALES GROWTH IN LOCAL CURRENCIES AND EXCLUDING
+ACQUISITIONS, QUARTERLY CHANGE YEAR-ON-YEAR (%)
+
+a3 a4
+Subscription growth
+
+The total number of subscriptions rose by 14.8 million
+to 183.0 million. In the consolidated operations, the
+number of subscriptions increased by 8.4 million to
+71.2 million, of which Eurasia rose by 7.7 million to 42.5
+million. In the associated companies, the number of
+subscriptions increased by 6.4 million to 111.8 million.
+
+%
+3
+
+ny
+
+2012
+
+qi Q2
+
+SUBSCRIPTIONS (MILLIONS) AND CHANGE YEAR-ON-YEAR (%)
+@ Associated companies —_m Subsidiaries
+
+200
+175
+150
+125
+100
+75
+50
+25
+
+2009 2010 2011 2012
+
+2008
+
+Cost of goods and services sold (COGS) was SEK
+39,590 million (38,284), a 3.4 percent rise compared
+to 2011, with the largest effect from higher equipment
+sales in Sweden and Spain, and the general net sales
+growth in Eurasia. COGS growth exceeded net sales
+growth, reducing the gross margin to 62.3 percent
+(63.5).
+
+Change
+Expenses (SEK Change
+SEK in millions 2012 2011 million) (%)
+cos ~39,590 -38,284 -1,306 34
+Goods and sub-contracting
+services purchased -17,690 -15,289 -2,401 15.7
+Interconnect and roaming
+expenses “12,671 -13,387 716-53
+Other network expenses -5,821  -5,932 m  -1.9
+Change in inventories -3,408 -3676 268 -7.3
+Addressable cost base -29,671 -30,113 4420-15
+Personnel expenses -12,550 -12,636 860.7
+Marketing expenses 6,829 -7,554 725 -9.6
+Other expenses -10,292 -9,923 -369 3.7
+Total -69,261 -68,397 -864 1.3
+Amortization, depreciation and
+impairment losses -20,542 -13,263 -7,279 54.9
+Other operating income and
+expenses, net! -675 774 -1,449
+Total expenses -90,478 -80,886 -9,502 11.9
+
+‘Including non-recurring other expenses and excluding amortization, depreciation
+and impairment losses
+
+The addressable cost base, in local currencies and ex-
+cluding acquisitions, decreased 0.3 percent compared
+to last year, with increases in Eurasia offset mainly by
+decreases in Mobility Services, but to some extent also
+by decreases in Broadband Services and Corporate
+functions.
+
+Personnel expenses, in local currencies and exclud-
+ing acquisitions, increased 0.3 percent compared to
+2011. Despite increases in both Broadband Services
+and Mobility Services, the decrease in Corporate func-
+tions kept the overall level flattish with small increases
+in Eurasia.
+
+Marketing expenses, in local currencies and exclud-
+ing acquisitions, declined 8.4 percent, with the key
+driver being reduced equipment subsidies in Mobility
+Services. Other costs, such as facility costs, IT, travel
+and consultants, increased.
+
+14
+
+
+--- Page 13 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Amortization, depreciation and impairment losses
+increased 54.9 percent to SEK 20,542 million (13,263),
+where 2012 included goodwill impairment charges of
+SEK 7,534 million related to Mobility Services’ opera-
+tions in Norway and Lithuania, and Broadband Ser-
+vices’ operations in Norway. Amortization and depre-
+ciation excluding non-recurring items decreased 1.7
+percent to SEK 12,977 million (13, 197). In local curren-
+cies and excluding acquisitions, the decrease was 0.6
+percent.
+
+Other operating income and expenses, net, was
+negative at SEK 675 million (positive 774).
+
+Non-recurring items
+
+Non-recurring items affecting operating income totaled
+SEK -282 million (- 170), mainly related to the sale
+
+of shares in MegaFon which resulted in a net capital
+gain of SEK 8,391 million and to goodwill impairment
+charges in Mobility Services Norway and Lithuania of
+SEK -5,984 million and in Broadband Services Norway
+of SEK -1,550 million. Restructuring charges, mainly
+related to staff redundancy costs, amounted to SEK
+-917 million (-934).
+
+The following table presents non-recurring items for
+2012 and 2011. These items are not included in “EBITDA
+excluding non-recurring items” or in “Operating income
+excluding non-recurring items,” but included in the
+total results for TeliaSonera and for each of the busi-
+ness areas.
+
+Non-recurring items
+
+SEK in millions 2012 __2011
+Within EBITDA ~1,097 ~41
+Restructuring charges, synergy implementation
+costs, etc.:
+Mobility Services -228 2-221
+Broadband Services 633-875
+Eurasia -287 -19
+Other operations 1470-177
+of which TeliaSonera Holding -48 28
+Capital gains/losses 198 951
+Within Amortization, depreciation and
+impairment losses -7,565 -66
+Impairment losses, accelerated depreciation:
+Mobility Services -5,984 -
+Broadband Services -1,555 -66
+Other operations -26 -
+Within Income from associated companies 8,380 -63
+Impairment losses = -63
+Capital gains/losses 8,380 -
+Within Financial net = -
+Total -282  -170
+
+15
+
+Earnings
+
+EBITDA, excluding non-recurring items, decreased 3.1
+percent to SEK 36,059 million (37,222). The decrease
+in local currencies and excluding acquisitions was 2.4
+percent. The main reasons were loss of high-margin
+service revenue in Mobility Services and net sales
+volume decrease in Broadband Services, partly offset
+by the net sales increase in Eurasia. The EBITDA margin
+declined to 34.4 percent (35.5).
+
+EBITDA excluding non-recur- Change
+ring items (SEK Change
+SEK ions 20122011 _mi (%)
+Mobility Services 14,689 16,053 “8.5
+Broadband Services 10,953 11,961 -8.4
+Eurasia 9,976 8850 1,126 127
+Other operations 451 397 54 13.6
+Elimination -10 -39 29° -74.4
+Group 36,059 37,222 -1,163 -3.1
+
+Operating income, excluding non-recurring items,
+decreased 4.4 percent to SEK 28,570 million (29,889)
+mainly due to the EBITDA drop and lower income from
+associated companies which, excluding non-recurring
+items, decreased 6.4 percent to SEK 5,488 million
+(5,864). Income from associates was negatively im-
+pacted by currency fluctuations, while higher underly-
+ing results from operations in Turkcell compensated for
+the negative effects of a changed capital structure and
+lower effective ownership in MegaFon. The operating
+margin, excluding non-recurring items, decreased to
+27.2 percent (28.5).
+
+Operating income excluding Change
+non-recurring items (SEK Change
+SEK in millions 20122011 million) (%)
+Mobility Services 10,400 11,322 -922. 8.1
+Broadband Services 6191 7,168 -977 -13.6
+Eurasia 12,340 11,842 498 4.2
+Other operations -351 — -408 5714.0
+Eliminations -10 -35 25 714
+Group 28,570 29,889 -1,319 -4.4
+
+Financial net, taxes and non-controlling interests
+Financial items totaled SEK -3,806 million (-2,848). Net
+interest expenses increased to SEK -3,069 million
+(-2,419) due to higher average indebtedness. Financial
+items were also negatively impacted by exchange rate
+effects related to the operations in Eurasia.
+
+Income taxes decreased to SEK 3,314 million
+(5,753). The effective tax rate was 13.6 percent (21.4).
+Following the Swedish Parliament decision in Novem-
+ber 2012 to reduce the corporate income tax in Sweden
+from 26.3 percent to 22.0 percent, a one-time SEK
+1,225 million net release of deferred tax liabilities was
+recorded in the fourth quarter of 2012. The effective
+tax rate going forward is expected to be around 20
+percent.
+
+
+--- Page 14 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Mainly as a result of increased shareholdings in Kcell
+in Kazakhstan and TEO LT in Lithuania during the year,
+net income attributable to non-controlling interests in
+subsidiaries decreased to SEK 1,282 million (2,731)
+of which SEK 1,042 million (2,420) was related to the
+operations in Eurasia and SEK 197 million (262) to LMT
+and TEO.
+
+Net income attributable to owners of the parent
+company increased 8.1 percent to SEK 19,886 million
+(18,388) and earnings per share to SEK 4.59 (4.21).
+
+CAPEX
+
+CAPEX (capital expenditures) decreased to SEK 15,685
+million (17,384) and the CAPEX-to-sales ratio to 15.0
+percent (16.6). CAPEX included continued investments
+in network capacity, coverage and modernization, and
+increased investments in fiber roll-out, while invest-
+ments in telecom and frequency licenses declined
+significantly. CAPEX, excluding license and spectrum
+fees, amounted to SEK 15,333 million (14,701) and the
+CAPEX-to-sales ratio was 14.6 percent (14.0).
+
+CAPEX AND CAPEX-TO-SALES
+
+CAPEX CAPEX-
+(SEK billion) to-sales (%)
+20 20.0
+16 16.0
+12 12.0
+8 8.0
+4 4.0
+2008 2009 2010 2011 2012
+
+Human resources
+
+In 2012, the number of employees decreased 0.5
+percent from 27,983 to 27,838 at year-end. Minor busi-
+ness combinations in 2012 added 41 employees.
+
+EMPLOYEES (THOUSANDS)
+m Headcount at year-end mi FTEs (average)
+
+2008 2009 2010 2011 2012
+
+35
+30
+
+as sy
+8a
+
+16
+
+The average number of full-time employees in 2012 was
+26,793 (27,005). In total, operations were conducted
+
+in 29 countries (30). See also Note C32 to the consoli-
+dated financial statements.
+
+EMPLOYEES (FTEs, %)
+
+BY GENDER
+
+Men, 57.2%
+Women, 42.8%
+
+BY COUNTRY
+
+™@ Sweden, 31.0% | Finland, 16.7%
+
+Lithuania. 13.5% Estonia, 7.6%
+™ Kazakhstan, 5.6% 1 Denmark, 4.6%
+© Norway, 4.4% ® Latvia, 3.4%
+
+@ Uzbekistan, 3.1% Other
+
+countries, 1.6%
+
+For additional information on labor practices and decent
+work, see the TeliaSonera Sustainability Report available at:
+
+wwnw.teliasonera.com/Sustainability-Report
+(Information on the TeliaSonera website does not form part
+of this Report)
+
+Financial Position, Capital Resources
+and Liquidity
+
+Financial position
+
+In total, the financial position remained stable year-
+
+on-year, although certain balance sheet items showed
+significant increases or decreases.
+
+Change
+(SEK Change
+ions 2012___2011_million) _(%)
+
+‘and other intangible
+assets 83,278 92,016 -8,738 -9.5
+Property, plant and equipment 62,657 61,292 1,365 2.2
+Financial assets 51,033 62,865 -11,832 -18.8
+Total non-current assets 196,968 216,173 -19,205 -8.9
+Current assets 27,568 24,079 3,489 14.5
+Cash and cash equivalents 29,805 12,631 17,174 136.0
+Total current assets 57,373 36,710 20,663 56.3
+Total assets 254,341 252,883 1,458 0.6
+Total equity 113,896 122,942 -9,546 -7.8
+Borrowings 91,587 79,842 11,745 14.7
+Provisions and other liabilities 49,358 50,099 -741 1.5
+Total equity and liabilities 254,341 252,883 1,458 0.6
+
+Goodwill decreased by SEK 7.7 billion to SEK 69.2
+billion, mainly due to impairment charges of SEK 7.5
+billion related to the operations in Norway and Lithu-
+ania and negative exchange rate differences of SEK 2.1
+
+
+--- Page 15 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+billion. Additional goodwill from business combinations
+was SEK 1.2 billion. Other intangible assets decreased
+by SEK 1.0 billion to SEK 14.1 billion. Capital expen-
+ditures (CAPEX) in other intangible assets were SEK
+2.2 billion and amortization SEK 2.7 billion. Currency
+effects impacted negatively by SEK 0.5 billion.
+
+Property, plant and equipment increased by SEK
+1.4 billion through CAPEX of SEK 13.5 billion and
+decreased due to negative exchange rate differences
+of SEK 2.1 billion. Depreciation and impairment losses
+were SEK 10.3 billion.
+
+Financial assets comprise investments in associated
+companies, deferred tax assets and other non-current
+assets. The carrying value of associated companies
+decreased to SEK 29.4 billion (46.3). Mainly as a result
+of the transactions related to OAO MegaFon in Russia,
+the value declined by dividends received, in total SEK
+12.5 billion, and through the effects of lower effective
+shareholdings, totaling SEK 10.7 billion, partly offset by
+income from the companies of SEK 5.8 billion. Currency
+effects had a limited positive impact of SEK 0.4 billion.
+
+Deferred tax assets decreased from utilization of tax
+losses and deferred tax liabilities (included in Provi-
+sions) declined as a result of the transactions related
+to MegaFon. The enacted Swedish corporate income
+tax rate cut as of 2013 resulted in a one-off net release
+of deferred tax liabilities of SEK 1.2 billion. Allin all,
+the net deferred tax liability of SEK 5.3 billion in 2011
+decreased to SEK 4.0 billion at year-end 2012.
+
+Other non-current assets include a SEK 5,675 mil-
+lion (0) receivable on AF Telecom, representing the
+not yet paid consideration for the sale of shares in the
+associated company OAO Telecominvest in Russia. The
+current portion of the not yet paid consideration was
+SEK 1,884 million (0).
+
+Net working capital (inventories and non-interest-
+bearing receivables, less non-interest-bearing liabilities
+and excluding foreign exchange rate derivatives and
+accrued interest) was SEK 0.1 billion (-0.2).
+
+Total equity declined 7.8 percent to SEK 113.4 billion
+(122.9). Shareholders’ equity decreased to SEK 109.4
+billion (115.6), positively impacted by net income of
+SEK 19.9 billion (18.3) and negatively by dividends of
+SEK 12.3 billion (12.3), the effects of transactions with
+other owners in subsidiaries and associated companies
+totaling SEK 11.0 billion (0) and negative exchange rate
+differences of SEK 2.6 billion (5.2). Equity attributable
+to non-controlling interests decreased to SEK 4.0 bil-
+lion (7.4), impacted by the effects of increased share-
+holdings in Kcell in Kazakhstan and TEO LT in Lithuania.
+Dividends to non-controlling interests were SEK 3.1
+billion (2.0).
+
+Total gross borrowings increased, with a shift towards
+long-term borrowings totaling SEK 82.2 billion (68.1).
+Short-term borrowings were SEK 9.4 billion (11.7). Posi-
+tively impacted by proceeds from the MegaFon-related
+transactions, cash and cash equivalents more than
+doubled, ending at SEK 29.8 billion. As a result, net debt
+decreased from SEK 65.0 billion to SEK 59.4 billion.
+
+7
+
+NET DEBT AND NET DEBT/EBITDA
+
+Net debt Net debt/
+(SEK billion) EBITDA‘ (multiple)
+75 25
+60 2.0
+45 15
+30 1.0
+15 05
+2008 2009 2010 2011 2012
+
+* Excluding non-recurring items
+
+The equity/assets ratio, adjusted for the proposed divi-
+dend, decreased to 39.7 percent (43.7). The net debt/
+EBITDA rate decreased to 1.65 (1.75), at the low end
+of TeliaSonera’s target range which is between 1.5 and
+2.0. The net debt/equity ratio was unchanged at 58.8
+percent.
+
+See Consolidated Statements of Financial Position,
+Consolidated Statements of Changes in Equity and
+related notes to the consolidated financial statements
+for further details.
+
+Pension obligations
+
+As of 2013, TeliaSonera’s accounting for pension
+obligations will change following the implementation of
+certain IFRS amendments (IAS 19). Among a number of
+changes impacting TeliaSonera, the most significant is
+the elimination of the “corridor approach.” As a result,
+historical accumulated actuarial gains and losses will
+increase recognized pension liabilities and decrease
+shareholders’ equity. Future re-measurements (includ-
+ing actuarial gains and losses) will not be deferred, but
+immediately impact shareholders’ equity through other
+comprehensive income (OCI). Further, the expected
+return on plan assets affecting net income should not be
+assessed separately, but equal the rate used to discount
+pension obligations. As of 2013, TeliaSonera has chosen
+to classify these interest components as financial items
+in the statement of comprehensive income. In summary,
+the estimated impact of applying the provisions of the
+revised IAS 19 already in 2012 was as follows.
+
+Consolidated Statements of Change,
+Comprehensive Income Jan-Dec
+SEK in millions 2012
+EBITDA excluding non-recurring items 12
+Operating income 2
+Income after financial items 0
+Net income 0
+Other comprehensive income -1,274
+Total comprehensive income “1,274
+Attributable to owners of the parent:
+
+Net income 0
+
+Total comprehensive income “1,274
+
+
+--- Page 16 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Change,
+Consolidated Statements of Financial Position Dec 31,
+in millions 2012
+Non-current assets “1,286
+Total assets -1,286
+Total equity -4,281
+Attributable to owners of the parent -4,281
+Non-current liabilities 3,023
+Current liabilities -28
+Total equity and liabilities -1,286
+
+Credit facilities
+
+TeliaSonera believes that its bank credit facilities and
+open-market financing programs are sufficient for the
+present liquidity requirements. At year-end, Telia-
+Sonera’s surplus liquidity (short-term investments
+
+and cash and bank) totaled SEK 30.0 billion (12.7). In
+addition, the total available unutilized amount under
+committed bank credit facilities as well as overdraft and
+short-term credit facilities at year-end was SEK 11.3
+billion (17.7).
+
+LIQUIDITY POSITION AND TIME TO MATURITY OF THE DEBT
+PORTFOLIO
+
+Liquidity position* Time to
+(SEK billion) maturity (years)
+45 10.0
+36 8.0
+27 6.0
+18 4.0
+9 2.0
+2008 2009 2010 2011 2012
+
+* Liquidity position: Surplus liquidity plus available unutiized amounts under
+committed credit facilities
+
+TeliaSonera retained its good credit ratings. In the
+spring, Moody’s Investors Service changed the outlook
+from negative back to stable for its credit rating on
+TeliaSonera AB of A3 for long-term borrowings and
+Prime-2 for short-term borrowings. Standard & Poor’s
+Ratings Services confirmed its rating of A- for long-
+term borrowings and A2 for short-term borrowings,
+with a stable outlook.
+
+DEBT PORTFOLIO MATURITY SCHEDULE - 2013 AND ONWARDS
+
+TeliaSonera generally seeks to arrange its financ-
+ing through the parent company TeliaSonera AB. The
+primary means of external borrowing are described in
+Notes C21 and C27 to the consolidated financial state-
+ments. In 2012, TeliaSonera AB issued some SEK 19.9
+billion equivalent in the debt capital markets under its
+EMTN (Euro Medium Term Note) program. Most of the
+new funding was denominated in EUR and GBP and
+most of it was issued on a long-term basis. At year-end,
+the average time to maturity of TeliaSonera AB’s overall
+debt portfolio was approximately 7.9 years.
+
+At the end of 2012, TeliaSonera AB had no Commer-
+cial Papers outstanding.
+
+Cash flow
+
+Transactions related to the associated company OAO
+MegaFon contributed to a more than doubled free cash
+flow generation in 2012 compared to the previous year.
+
+Change
+Cash flow (SEK Change
+SEK in millions 2012___2011_million) _(%)
+Cash flow from operating activi-
+ties 38,879 26,950 11,929 44.3
+Cash CAPEX -15,1389 -17,535 2,396 -13.7
+Free cash flow 23,740 9,415 14,325 152.2
+Cash flow from other investing
+activities 8,780 1,568 7,212
+Cash flow before financing
+activities 32,520 10,983 21,537 196.1
+Cash flow from financing
+activities -15,231 -13,295 -1,936 14.6
+Cash and cash equivalents,
+opening balance 12,631 15,369 -2,738  -17.8
+Net cash flow for the period 17,289 -2,312 19,601
+Exchange rate differences “15-426 311 -73.0
+Cash and cash equivalents,
+closing balance 29,805 12,631 17,174 136.0
+
+Cash flow from operating activities increased signifi-
+cantly to SEK 38.9 billion (27.0), primarily driven by
+dividends from associated companies increasing to
+SEK 12.5 billion (0.1), of which MegaFon contributing
+SEK 11.7 billion net of taxes (0). Lower cash inflow from
+underlying operations was compensated for mainly by
+lower tax payments and a positive impact from changes
+in working capital. However, cash flow from changes in
+working capital remained negative at SEK -1.2 billion
+(-1.8).
+
+SEK
+billion
+12
+
+10
+
+RO @
+
+n
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2081 2042
+
+
+--- Page 17 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Cash CAPEX (cash used in capital expenditures)
+decreased by SEK 2.4 billion or 13.7 percent, primar-
+ily due to lower investments in telecom and frequency
+licenses. As a result, free cash flow (cash flow from
+operating activities less capital expenditures) increased
+to a total of SEK 23.7 billion (9.4).
+
+Cash flow from other investing activities, total-
+ing SEK 8.8 billion (1.6), consists of acquisitions and
+divestments, changes in loans receivable and in short
+term investments, and repayments from or additional
+contributions to pension funds. The improvement in
+2012 was mainly due to the MegaFon-related transac-
+tions, generating proceeds totaling SEK 9.2 billion from
+the divestment of the shares in OAO Telecominvest
+in April and from the reduction in ownership to 25.2
+percent (35.6) in the November IPO. Cash paid for ac-
+quisitions was SEK 0.6 billion (0.3), and net cash used
+for granting loans was SEK 0.2 billion (0.5).
+
+Cash outflow from financing activities in 2012, total-
+ing SEK 15.2 billion (13.3), included dividends paid to
+shareholders of the parent company of SEK 12.3 billion
+(12.3) and to non-controlling interests of SEK 3.9 bil-
+lion (2.5). Transactions with non-controlling interests
+in 2012 resulted in a net outflow of SEK 8.8 billion, of
+which the transactions related to Kcell in Kazakhstan,
+i.e. acquisition of 49 percent in January and divestment
+of 25 percent in the December IPO, and to TEO LT in
+Lithuania net totaled SEK 7.9 billion. Net inflow from
+new borrowings was SEK 11.9 billion (12.5). In 2011,
+payment for repurchased treasury shares had a nega-
+tive impact of SEK 10.0 billion.
+
+See Consolidated Statements of Cash Flows and
+related notes to the consolidated financial statements
+for further details.
+
+Outlook for 2013
+
+The growth in net sales in local currencies and exclud-
+ing acquisitions is expected to be flat. Currency fluctua-
+tions may have a material impact on reported figures in
+Swedish krona.
+
+The EBITDA margin, excluding non-recurring items,
+is expected to increase slightly compared to last year
+(2012: 34.4 percent).
+
+The CAPEX-to-sales ratio is expected to be approxi-
+mately 14 percent, excluding license and spectrum
+fees (2012: 14.6 percent).
+
+19
+
+Efficiency Measures
+
+As announced in the third quarter of 2012, efficiency
+measures including personnel reductions net of 2,000
+employees, will lower the cost base by SEK 2 billion net
+over the coming two years, of which approximately SEK
+0.2 billion was recorded in the fourth quarter of 2012.
+
+In 2013, the addressable cost base, excluding
+Mobility Services Spain, is expected to be reduced
+to SEK 26.3 billion in local currencies and excluding
+acquisitions (addressable cost base excluding Mobility
+Services Spain 2012: SEK 27.1 billion). In 2014, it will be
+lowered to SEK 25.3 billion.
+
+During 2013, 1,800 employees in the Nordics and
+Baltics will be effected (total number of employees
+2012: 27,838 of which 22,537 in the Nordics and
+Baltics). These efficiency measures will be completed
+by early 2014 at the latest. Total cost for these reduc-
+tions in 2013 is estimated to SEK 1.7 billion. At the same
+time, TeliaSonera sees a need to recruit new compe-
+tence.
+
+Ordinary Dividend to Shareholders
+
+For 2012, the Board of Directors proposes to the An-
+nual General Meeting (AGM) an ordinary dividend of
+SEK 2.85 (2.85) per share, totaling SEK 12,341 million
+(12,341), or 62 percent (68) of net income attributable
+to owners of the parent company.
+
+ORDINARY DIVIDEND PER SHARE AND
+CHANGE YEAR-ON-YEAR (%)
+
+Dividend per
+share (SEK)
+3.0
+25
+2.0
+ce 0.0% 22.2% 0.0%
+1.0
+
+0.5
+
+0.0 2008
+
+2009
+* For 2012 as proposed by the Board of Directors
+
+2010
+
+2011
+
+2012*
+
+The Board of Directors proposes that the final day for
+trading in shares entitling shareholders to dividend be
+set for April 3, 2013, and that the first day of trading in
+shares excluding rights to dividend be set for April 4,
+2013. The recommended record date at Euroclear Swe-
+den for the right to receive dividend will be April 8, 2013.
+If the AGM votes to approve the Board’s proposals,
+
+the dividend is expected to be distributed by Euroclear
+Sweden on April 11, 2013.
+
+
+--- Page 18 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+EARNINGS PER SHARE (EPS) AND PAY-OUT RATIO
+
+EPS Payout
+(SEK) ratio (%)
+5 75
+4 60
+3 45
+2 30
+1 15
+0 2008 2009 2010 2011 2012" 0
+
+* Pay-out ratio for 2012 according to the Board of Directors’ dividend proposal
+
+According to its dividend policy, TeliaSonera shall target
+a solid investment grade long-term credit rating (A- to
+BBB+) to secure the company’s strategically important
+financial flexibility for investments in future growth, both
+organically and by acquisitions. The ordinary dividend
+shall be at least 50 percent of net income attribut-
+
+able to owners of the parent company. In addition,
+
+excess capital shall be returned to shareholders after
+
+the Board of Directors has taken into consideration
+
+Chapter 18 Section 4 of the Swedish Companies Act, to
+
+assess whether the proposed dividend is justified. The
+
+Board of Directors assesses that:
+
++ The parent company’s restricted equity and the
+group’s total equity attributable to the shareholders
+of the parent company, after the distribution of profits
+in accordance with the proposal, will be sufficient in
+relation to the scope of the parent company’s and the
+group’s business.
+
++ The proposed dividend does not jeopardize the
+parent company’s or the group’s ability to make
+the investments that are considered necessary. The
+proposal is consistent with the established cash flow
+forecast under which the parent company and the
+group are expected to manage unexpected events
+and temporary variations in cash flows to a reason-
+able extent.
+
+The full statement by the Board of Directors on the
+same will be included in the AGM documents. See also
+Proposed Appropriation of Earnings.
+
+AGM related documents are available at:
+www.teliasonera.com/AGM
+
+(Information on the TeliaSonera website does not form part
+of this Report)
+
+Proposal for Share Repurchase
+Authorization
+
+In order to provide TeliaSonera with an additional in-
+strument to adjust the company’s capital structure, the
+Board of Directors proposes that the Annual General
+Meeting resolve to authorize the Board of Directors to
+repurchase a maximum of 10 percent of the company’s
+total number of outstanding shares, with the intention
+of cancelling repurchased shares.
+
+TeliaSonera Share
+
+The TeliaSonera share is listed on NASDAQ OMX Stock-
+holm and Helsinki. In 2012, the share price in Stock-
+holm declined 5.8 percent, to SEK 44.06. During the
+same period, the OMX Stockholm 30 Index rose 11.8
+percent and the STOXX 600 Telecommunications Index
+declined 10.7 percent.
+
+At year-end 2012, TeliaSonera’s market capitaliza-
+tion was SEK 190.8 billion. Besides NASDAQ OMX
+Stockholm and Helsinki, the share was traded at other
+platforms with the major trading volumes at BATS Chi-X
+CXE and Boat xoff.
+
+Holdings outside Sweden and Finland increased
+from 18.2 percent to 22.4 percent and TeliaSonera had
+553,631 shareholders at the end of the year, of which
+two shareholders held more than 10 percent of the
+shares and votes: the Swedish State with 37.3 percent
+and the Finnish State with 11.7 percent.
+
+SHAREHOLDER STRUCTURE, DECEMBER 31, 2012
+
+Number of Percent of
+
+Number of oustanding outstanding
+shareholders shares shares/votes
+
+1-500 469,342 84,165,974 1.94
+501 - 1,000 34,467 27,049,872 0.62
+1,001 - 5,000 40,247 89,905,319 2.08
+5,001 - 10,000 5,002 37,015,995 0.85
+10,001 - 15,000 1,398 17,363,896 0.40
+15,001 - 20,000 752 13,661,566 0.32
+20,001 — 2,423 4,060,922,159 93.78
+Total 553,631 4,330,084,781 100.00
+MAJOR SHAREHOLDERS, DECEMBER 31, 2012
+
+Number of — Percent of
+
+oustanding outstanding
+Shareholder shares_shares/votes
+Swedish State 1,614,513,748 37.3
+Finnish State 505,123,642 11.7
+Capital Group Funds 153,876,977 3.6
+Alecta 112,272,322 2.6
+‘Swedbank Robur Funds 111,387,612 2.6
+AMF Insurance & Funds 80,445,164 1.9
+SHB Funds 53,624,855 1.2
+SEB Funds 51,063,691 1.2
+Fourth Swedish National
+Pension Fund 45,541,893 1
+Bank of Norway Investment
+Management 33,957,410 0.8
+Total other shareholders 1,568,277,487 36.0
+Total outstanding shares 4,330,084,781 100.0
+
+20
+
+
+--- Page 19 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+MAJOR SHAREHOLDER COUNTRIES BY NUMBER OF SHARES,
+DECEMBER 31, 2012
+
+Sweden, 60.4%
+Great Britain, 10.2%
+Luxemburg, 2.4%
+France, 0.4%
+Belgium, 0.4%
+Other
+countries, 1.6%
+
+@ Finland, 17.2%
+BUSA, 6.2%
+
+® Switzerland, 0.5%
+®@ Denmark, 0.4%
+B Ireland, 0.3%
+
+Quarterly updated shareholder information is available at:
+www.teliasonera.com/Shareholdings
+
+(Information on the TeliaSonera website does not form part
+of this Report)
+
+Share data 2012 2011
+Paid at year-end (SEK) 44.06 46.77
+Highest paid during the year (SEK) 49.33 55.70
+Lowest paid during the year (SEK) 41.43 40.60
+Number of shares at year-end (millions) 4,330.1 4,330.1
+Number of shareholders at year-end 553,631 580,076
+Earnings per share (SEK) 4.59 4.21
+Dividend per share (SEK)! 2.85 2.85
+Pay-out ratio (%)' 62 68
+Equity per share (SEK) 25.27 26.69
+
+* For 2012 as proposed by the Board of Directors
+Sources: Euroclear Sweden and SIS Agarservice
+
+As of December 31, 2012, TeliaSonera’s issued and
+outstanding share capital totaled SEK 13,856,271,299
+distributed among 4,330,084,781 shares. All issued
+shares have been paid in full and carry equal rights to
+vote and participate in the assets of the company. At
+the general meeting of shareholders, each shareholder
+is entitled to vote for the total number of shares she or
+he owns or represents. Each share is entitled to one
+vote. TeliaSonera holds no own shares. As of Decem-
+ber 31, 2012, TeliaSonera’s Finnish pension fund held
+0.01 percent of the company’s shares and votes.
+
+There are no provisions in either the Swedish leg-
+islation or in TeliaSonera AB’s Articles of Association
+that would limit the possibility to transfer TeliaSonera
+shares. TeliaSonera is not aware of any agreements
+between major shareholders of the company regarding
+the TeliaSonera shares.
+
+The Board of Directors does not currently have any
+authorization by the general meeting of shareholders to
+issue new shares but has the authorization to repur-
+chase a maximum of 10 percent of the company’s total
+number of outstanding shares.
+
+In case of a change of control in TeliaSonera AB, the
+company could have to repay certain loans at short
+notice, since some of TeliaSonera’s financing agree-
+ments contain customary change-of-control clauses.
+
+21
+
+These clauses generally also contain other conditions
+
+including, for example, that the change of control has
+
+to cause a negative change in TeliaSonera’s credit rat-
+ing in order to be effective.
+
+Business Area Development in 2012
+
+Always being online drives increase of mobile data
+within Mobility Services
+
+Business area Mobility Services provides mobility services to
+the consumer and enterprise mass markets. Services include
+mobile voice and data, mobile content, WLAN Hotspots, mobile
+
+broadband and Wireless Office. The business area comprises
+mobile operations in Sweden, Finland, Norway, Denmark, Lithu-
+ania, Latvia, Estonia and Spain.
+
+SHARE OF GROUP TOTAL (%)
+
+NET SALES
+
+%
+100
+
+80
+60
+40
+20
+
+© 2008 2009 2010 2011
+
+OPERATING INCOME
+%
+
+100
+
+80
+
+60
+
+40
+20
+
+2012 © 2008 2009 2010 201 2012
+
+CAPEX
+
+%
+100
+
+a0
+60
+
+NUMBER OF EMPLOYEES
+
+%
+100
+
+80
+60
+
+“
+|
+
+© 2008 2009 2010 2011
+
+°
+“i
+
+© 2008 2009 2010 2011
+
+2012 2012
+
+SEK in millions, except margins, Change
+operational data and changes 2012 2011 (%)
+Net sales 50,637 51,556 -1.8
+EBITDA excl. non-recurring items 14,689 16,053 -8.5
+Margin (%) 29.0 31.1
+
+Operating income 4,200 11,122 -62.2
+Operating income excl. non-recurring
+
+items 10,400 11,322 -8.1
+CAPEX 4496 6,742 -33.3
+Subscriptions, period-end
+
+(thousands) 20,537 19,520 5.2
+Employees, period-end 7,245 7456-28
+
+Additional (unaudited) segment information available at www.teliasonera.com; see
+also section “Group Development in 2012” for information on restated financial
+information
+
+Market development
+
+The year was characterized by a continuous increase in
+data traffic. Customer demand for bandwidth appears
+to be unlimited. At the same time, the willingness to pay
+for voice traffic is decreasing and the whole industry
+
+is struggling with the challenge to capitalize from the
+increase in data traffic to compensate for lost voice
+revenue. During the year, 4G was established as one
+
+of the key enablers to allow data growth to continue
+
+
+--- Page 20 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+while maintaining a pleasant customer experience with
+sufficient data speed. Price wars occurred in several
+markets during the year, putting pressure on margins.
+
+After the successful launch of 4G tablets before
+Christmas 2011, the first 4G smartphone from Sam-
+sung was launched in February 2012. At the end of the
+year, in Sweden, 4G handsets represented around 10
+percent of all handsets sold.
+
+In the second quarter of 2012, TT-Netveerket, the
+network-sharing joint venture with Telenor was estab-
+lished in Denmark and secured 800 MHz frequencies
+which will allow further roll-out of the 4G network.
+
+Net sales
+
+Interconni
+Bal inbound roamin
+wholesale revenu
+
+Net sales in local currencies and excluding acquisi-
+tions were unchanged. In reported currency, net sales
+decreased 1.8 percent to SEK 50,637 million (51,556).
+The negative effect of exchange rate fluctuations was
+1.9 percent. The number of subscriptions increased 5.2
+percent and passed 20 million while prices generally
+declined, leaving billed revenues more or less flat (+0.5
+percent). Also interconnect rate reductions contributed
+to the net sales decrease.
+
+Only the operations in Sweden and Spain grew
+during the year. In Sweden, growth came from both
+service revenues and equipment sales. Data volume
+conversion to revenues was in decline during the year
+but stabilized towards the end of the year.
+
+Strong net intake of 668,000 subscriptions, an
+increase in the subscriber base of 22.0 percent, gener-
+ated growth in Spain. Market conditions in Denmark
+continued to be challenging and although the sub-
+scriber base increased, an ARPU decline caused falling
+net sales.
+
+Earnings
+
+EBITDA, excluding non-recurring items, decreased
+7.4 percent in local currencies and excluding acquisi-
+tions. In reported currency, EBITDA, excluding non-
+recurring items, declined 8.5 percent to SEK 14,689
+million (16,053). The EBITDA margin decreased to 29.0
+percent (31.1).
+
+The EBITDA decline was strongest in Finland and
+Norway, where both markets saw falling service
+revenue volumes. In Finland, the service margin was
+strengthened whereas in Norway, also the service mar-
+
+22
+
+gin declined however compensated for by decreasing
+addressable costs. Spain continued to improve both
+gross margin and EBITDA. Denmark had a challenging
+year with net sales losses which was compensated for
+by improved equipment margins and reduced ad-
+dressable costs, but still the EBITDA development was
+negative.
+
+Operating income, excluding non-recurring items,
+declined to SEK 10,400 million (11,322), mainly due to
+the negative EBITDA development. Amortization and
+depreciation was lower than previous year in Norway
+and the Baltic countries, as investment levels were
+adjusted to the deteriorating market conditions.
+
+Non-recurring items amounted to SEK -6,200 mil-
+lion (-200), primarily comprising goodwill impairment
+charges in the Norwegian operations related to the
+substantial goodwill amount originating from the acqui:
+sition of NetCom ASA in 2000, and the current assess-
+ment of the achievable long-term return on investment.
+Towards the end of the year, non-recurring charges
+related to the cost savings program increased.
+
+CAPEX
+
+CAPEX decreased to SEK 4,496 million (6,742) and
+the CAPEX-to-sales ratio to 8.9 percent (13.1). CAPEX,
+excluding licenses and spectrum fees, amounted to
+SEK 4,397 million (4,468) and the CAPEX-to-sales
+was flat at 8.7 percent (8.7). Cash flow, measured as
+EBITDA, excluding non-recurring items, minus CAPEX,
+increased to SEK 10,193 million (9,311).
+
+SEK in millions, except margins Change
+and changes 2012 _2011 (%)
+Net sales 50,637 51,556 -1.8
+of which Sweden 17,297 16,695 3.6
+of which Finland 8,173 8,885 -8.0
+of which Norway 7,582 8,261 -8.2
+of which Denmark 4,835 5,525 -12.5
+of which Lithuania 1,277 1,451 -12.0
+of which Latvia 1,608 1,722 -6.6
+of which Estonia 1515 1608 -5.8
+of which Spain 8,382 7,451 12.5
+EBITDA excl. non-recurring items 14,689 16,053 _-8.5
+of which Sweden 7,367 7,545 -2.4
+of which Fintand 2,438 2,843 -14.2
+of which Norway 2,409 2,891 -16.7
+of which Denmark 549 744 -26.2
+of which Lithuania 339 405 -16.3
+of which Latvia 543 653-168
+of which Estonia 4t7 553 -24.6
+of which Spain 627 420 49.3
+Margin (%), total 29.0 314
+Margin (%), Sweden 426 45.2
+Margin (%), Finland 298 32.0
+Margin (%), Norway 318 © 35.0
+Margin (%), Denmark 4 13.5
+Margin (%), Lithuania 265 27.9
+Margin (%), Latvia 338 37.9
+Margin (%), Estonia 275 34.4
+Margin (%), Spain 75 5.6
+
+
+--- Page 21 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Net sales in local currencies
+
+and excluding acqu 2012
+Change (%), total 0.1
+Change (%), Sweden 3.6
+Change (%), Finland “4.4
+Change (%), Norway -8.6
+Change (%), Denmark -9.2
+Change (%), Lithuania -8.6
+Change (%), Latvia -4.3
+Change (%), Estonia =2H1
+Change (%), Spain 16.9
+
+Fiber roll-out is gaining momentum within
+Broadband Services
+
+Business area Broadband Services provides mass-market
+services for connecting homes and offices. Services include
+broadband over copper, fiber and cable, TV, voice over internet,
+home communications services, IP-VPN/Business internet,
+leased lines and traditional telephony. The business area
+
+operates the group common core network, including the data
+network of the international carrier business. The business area
+comprises operations in Sweden, Finland, Norway, Denmark,
+Lithuania, Latvia (49 percent), Estonia and international carrier
+operations.
+
+SHARE OF GROUP TOTAL (%)
+
+NET SALES
+%
+100
+
+80
+
+OPERATING INCOME
+
+%
+100
+
+80
+60
+
+60
+© «0
+= | | | | | > =
+© 2008 2009 2010 2011 2012 2 2008 2009 2010 2011 2012
+CAPEX NUMBER OF EMPLOYEES
+‘00 100
+20 20
+60 60
+0 | «0
+20 20
+© 2008 2009 2010 2011 2012 2 2008 2009 2010 2011 2012
+SEK in millions, except margins, Change
+operational data and changes 2012 2011 (%)
+Net sales 35,723 36,677 -2.6
+EBITDA excl. non-recurring items 10,953 11,961 -8.4
+Margin (%) 30.7 32.6
+Operating income 4,003 6,582 -39.2
+Operating income excl. non-recurring
+items 6,191 7,168 -13.6
+CAPEX 5,445, 5,263 3.5
+Subscriptions, period-end
+(thousands)
+Broadband 2,532 2,481 21
+Fixed voice and VoIP 4,269 4,805 11.2
+TV 1,332 1,177 13.2
+Employees, period-end 13,277. 13,071 1.6
+
+Additional (unaudited) segment information available at www.teliasonera.com; see
+also section “Group Development in 2012” for information on restated financial
+information.
+
+23
+
+Market development
+
+Customers continue to move from traditional to IP-
+based services and during the year, revenues from IP
+services surpassed traditional revenues. In Sweden,
+TV ARPU (average revenue per user) and broadband
+ARPU increased more than 5 percent in 2012.
+
+In August, TeliaSonera and Samsung launched a
+Smart TV solution, unique in terms of easy to use and
+customer friendly, as it does not require any external
+set-top-box. The Smart TV solution was launched in
+Estonia in late 2012 and will be launched in Sweden and
+Finland during 2013. In 2012, TeliaSonera also signed
+an agreement with HBO Nordic enabling TeliaSonera’s
+TV customers to see a number of the world’s best TV
+series the day after the US premiere of each episode.
+At year-end, half of TeliaSonera’s Swedish consumer
+broadband customers were also using the TV service.
+
+TeliaSonera continues to invest in fiber network roll-
+out, and during the year almost 200,000 new homes
+were connected to the fiber network. In Sweden, four
+out of ten single-dwelling households being offered
+TeliaSonera’s services sign up for them. Roll-out will be
+selective to ensure a good return on investment. By the
+end of 2014, TeliaSonera aims to expand the coverage
+by fiber to 2.3 million connected homes in the Nordic
+and Baltic countries, of which almost 1 million in Swe-
+den. Currently, the average TeliaSonera fiber customer
+in Sweden uses two services.
+
+In December, TeliaSonera decided that its subsidiary
+in Norway, NextGenTel, did not constitute the appropri-
+ate platform to compete successfully in the Norwegian
+broadband market and that other parts of the business
+would be prioritized. As a result of the divestment,
+TeliaSonera recognized a goodwill write-down of SEK
+1.6 billion in the fourth quarter of 2012.
+
+Net sales
+
+Net sales in local currencies and excluding acquisitions
+decreased 1.7 percent. In reported currency, net sales
+decreased 2.6 percent to SEK 35,723 million (36,677).
+The negative effect of exchange rate fluctuations was
+1.1 percent and the positive effect of acquisitions and
+disposals was 0.2 percent.
+
+The number of broadband subscriptions rose above
+2.5 million, an increase of 51,000 during the year. The
+change in mix from traditional services to IP based
+services results in both net sales and margin pressure.
+Sweden and Finland stand for the largest part of the
+decline. The number of TV subscriptions increased by
+155,000 to 1.3 million, of which 0.6 million in Sweden.
+Total fixed-voice subscriptions decreased by 673,000
+to 3.6 million, offset by an increase of VoIP subscrip-
+tions of 137,000, to 0.7 million.
+
+
+--- Page 22 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Earnings
+
+EBITDA, excluding non-recurring items, decreased
+7.8 percent in local currencies and excluding acquisi-
+tions. In reported currency, EBITDA, excluding non-
+recurring items, declined 8.4 percent to SEK 10,953
+million (11,961). The EBITDA margin decreased to 30.7
+percent (32.6).
+
+The EBITDA decline was strongest in Sweden, down
+by 8.9 percent, as the net sales and gross margin
+decrease following the unfavorable product mix shift
+could not be met by lower addressable costs. In local
+currency excluding acquisitions, Norway, Denmark,
+Lithuania and International Carrier managed to improve
+EBITDA. Finland lost 14.3 percent of the 2011 EBITDA
+as a consequence of both lower net sales and lower
+gross margins.
+
+Operating income decreased to SEK 4,003 million
+(6,582). A large part of the decline was caused by the
+write-down of goodwill related to NextGenTel. Operat-
+ing income, excluding non-recurring items, was SEK
+6,191 million (7,168), in line with the EBITDA decline.
+Due to the fiber investments, amortization and depre-
+ciation was slightly higher than previous year.
+
+CAPEX
+
+CAPEX increased to SEK 5,445 million (5,263) and the
+CAPEX-to-sales ratio increased to 15.2 percent (14.3).
+About SEK 1.7 billion was spent on fiber investments.
+Cash flow, measured as EBITDA, excluding non-re-
+curring items, minus CAPEX, decreased to SEK 5,508
+million (6,698).
+
+SEK in millions, except margins Change
+and changes 2012 _2011 (%)
+Net sales 35,723 36,677 -2.6
+of which Sweden 20,043 20,767 -3.5
+of which Finland 5,584 6,055 -7.8
+of which Norway 1,083 1,063 19
+of which Denmark 1,092 1,150 -5.0
+of which Lithuania 1915 1,962 -2.4
+of which Estonia 1,761 1,903 -7.5
+of which International Carrier 5,388 5,036 7.0
+EBITDA excl. non-recurring items 10,953 11,961 = -8.4
+of which Sweden 7.715 8,473 -8.9
+of which Fintand 1,336 1,608 = -16.9
+of which Norway 183 174 5.2
+of which Denmark 125 83 50.6
+of which Lithuania 774 7910-2.
+of which Estonia 463 539 14.1
+of which International Carrier 357 29318
+Margin (%), total 30.7 326
+Margin (%), Sweden 385 40.8
+Margin (%), Finland 239 26.6
+Margin (%), Norway 16.9 16.4
+Margin (%), Denmark 11.4 7.2
+Margin (%), Lithuania 404 40.3
+Margin (%), Estonia 263 © 28.3
+Margin (%), International Carrier 6.6 58
+
+Net sales in local currencies
+
+and excluding acquisitions 2012
+Change (%), total S157,
+Change (%), Sweden =3:7,
+Change (%), Finland “4.4
+Change (%), Norway 1.5
+Change (%), Denmark “1.4
+Change (%), Lithuania 1.4
+Change (%), Estonia -3.9
+Change (%), International Carrier 68
+
+All countries delivering positive growth
+within Eurasia
+
+Business area Eurasia comprises mobile operations in Ka-
+zakhstan, Azerbaijan, Uzbekistan, Tajikistan, Georgia, Moldova
+and Nepal. The business area is also responsible for developing
+TeliaSonera’s shareholding in Russian MegaFon (25 percent)
+
+and Turkish Turkcell (38 percent). The main strategy is to create
+shareholder value by increasing mobile penetration and intro-
+ducing value-added services in each respective country.
+
+SHARE OF GROUP TOTAL (%)
+
+NET SALES OPERATING INCOME
+% %
+
+100 100
+
+80 80
+
+60 60
+
+40 40
+
+"Em mmm *
+
+© 2008 2009 2010 2011 2012  ° 2008 2009 2010 2011
+Subsidiaries #Associated companies
+
+2012
+
+CAPEX NUMBER OF EMPLOYEES:
+100 100
+80 80
+60 ©
+40 40
+“SRan om =
+© 2008 2009 2010 2011 2012 2 2008 2009 2010 2011 2012
+SEK in millions, except margins, Change
+operational data and changes 2012 2011 (%)
+Net sales 19,731 17,330 13.9
+EBITDA excl. non-recurring items 9,976 8,850 127
+Margin (%) 506 51.1
+Income from associated companies 13,815 5,828 137.0
+Russia 11,542 4,504 156.3
+Turkey 2,280 1,331 = 71.3
+Operating income 20,629 12,593 63.8
+Operating income excl.
+non-recurring items 12,340 11,842 42
+CAPEX 4,739 4,538 44
+Subscriptions, period-end (thousands)
+Subsidiaries 42,535 34,840 922.1
+Associated companies 110,700 104,325 6.1
+Employees, period-end 4,980 4,994 -0.3
+
+Additional (unaudited) segment information available at www.teliasonera.com; see
+also section “Group Development in 2012” for information on restated financial
+information.
+
+24
+
+
+--- Page 23 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Market development
+The number of subscriptions in the consolidated opera-
+tions reached 40 million during the third quarter 2012.
+All markets grew in local currencies.
+
+In order to meet the increasing demand for mo-
+bile data services in Kazakhstan, TeliaSonera signed
+an agreement to acquire valuable frequencies in the
+2.5/2.6 GHz band, which are compatible for use with
+WiMax and other mobile data transmission technolo-
+gies, during the fourth quarter. In addition, TeliaSonera
+agreed to make an indirect minority investment in
+KazTransCom, a listed company that owns, among
+other businesses, a fiber optics network in Kazakhstan.
+
+The market conditions in Uzbekistan changed signifi-
+cantly during the second half of the year. The competi-
+tor MTS lost its license which caused a massive inflow
+of former MTS customers, both to Ucell and to the
+other remaining player. It is unclear for how long these
+market conditions will be maintained.
+
+As expected, mobile data growth has continued ata
+high rate. During the year, data revenues increased 46
+percent and data volumes by some 300 percent.
+
+Net sales
+
+Net sales in local currencies and excluding acquisitions
+increased 13.5 percent. In reported currency, net sales
+increased 13.9 percent to SEK 19,731 million (17,330).
+The positive effect of exchange rate fluctuations was
+0.4 percent.
+
+In Kazakhstan, the largest market in the business
+area, sales increased by 1.8 percent in local currency.
+Growth was generated by continued strong increase in
+the subscriber base by 2.6 million to 13.5 million and
+increased usage. The reduction in average revenue per
+user as a result of price pressure on voice and data ser-
+vices was compensated for by the increase in subscrip-
+tions and a 38 percent growth in minutes of use. The
+main three mobile operators in Kazakhstan have agreed
+ona 15 percent annual reduction in interconnect prices
+for the coming three years.
+
+In Azerbaijan, net sales increased 9.4 percent in
+local currency despite relatively small growth in the
+customer base as minutes of use increased 36 percent.
+Azercell has successfully launched several new offers
+to promote and increase mobile data penetration and
+data revenues represented 9 percent of total revenues
+in the fourth quarter.
+
+In Uzbekistan, the new market situation where the
+competitor MTS lost its license resulted in high inflow of
+new customers during the second half of the year. Rev-
+enue grew 44.1 percent in local currency, as customer
+growth was 23 percent and average revenue per user
+increased at the same time.
+
+In Nepal, net sales in local currency increased 51.3
+percent to the equivalent of SEK 2,716 million (1,916)
+as a result of the higher subscription base which in-
+creased 32 percent and an increase in average revenue
+per user.
+
+25
+
+Earnings
+
+EBITDA, excluding non-recurring items, increased 12.7
+percent in local currencies and excluding acquisitions.
+In reported currency, EBITDA, excluding non-recurring
+items, increased 12.7 percent to SEK 9,976 million
+(8,850). The EBITDA margin was 50.6 percent (51.1).
+The growth in EBITDA, in local currencies, was mainly
+driven by increased net sales in Azerbaijan, Uzbekistan
+and Nepal. In Kazakhstan, gross margin was under
+pressure due to high interconnect costs. Uzbekistan
+and Nepal were negatively impacted by taxes and fees
+introduced during the year.
+
+Operating income, excluding non-recurring items,
+increased to SEK 12,340 million (11,842). The EBITDA
+improvement was offset by increased amortization and
+depreciation, mainly in Azerbaijan and Uzbekistan.
+Income from associates decreased, mainly due to
+lower income from MegaFon as a consequence of the
+changed capital structure of the company and cur-
+rency effects, in combination with reduced ownership.
+Turkcell showed steady improvement.
+
+Non-recurring items totaled SEK 8,289 million (750),
+of which SEK 8,391 million related to the MegaFon
+transactions during the year.
+
+CAPEX
+
+CAPEX increased to SEK 4,739 million (4,538) and
+
+the CAPEX-to-sales ratio decreased to 24.0 percent
+(26.2). CAPEX, excluding licenses and spectrum fees,
+was SEK 4,486 million (4,129) and the CAPEX-to-sales
+ratio 22.7 percent (23.8). CAPEX was used to improve
+capacity and coverage, and particularly to support
+
+the rapid growth in Uzbekistan and Nepal. Cash flow,
+measured as EBITDA, excluding non-recurring items,
+minus CAPEX, increased to SEK 5,237 million (4,312).
+
+SEK in millions, except margins Change
+and changes 2012 _2011 (%)
+Net sales 19,731 17,330 13.9
+of which Kazakhstan 8,256 7,913 43
+of which Azerbaijan 3,934 3,449 14.1
+of which Uzbekistan 2,369 1,738 36.3
+of which Tajikistan 927 8341.2
+of which Georgia 1,011 926 9.2
+of which Moldova 536 518 3.5
+of which Nepal 2,716 1,960 386
+EBITDA excl. non-recurring items 9,976 8,850 12.7
+of which Kazakhstan 4602 4,687 -1.8
+of which Azerbaijan 1,964 1,682 16.8
+of which Uzbekistan 904 688 31.4
+of which Tajikistan 470 384 22.4
+of which Georgia 397 362 97
+of which Moldova 193 179 78
+of which Nepal 1,614 1,084 48.9
+Margin (%), total 50.6 514
+Margin (%), Kazakhstan 557 59.2
+Margin (%), Azerbaijan 499 48.8
+Margin (%), Uzbekistan 38.2 39.6
+Margin (%), Tajikistan 507 46.0
+Margin (%), Georgia 393 39.1
+Margin (%), Moldova 36.0 34.6
+Margin (%), Nepal 594 55.3
+
+
+--- Page 24 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Net sales in local currencies
+
+and excluding aca) 2012
+Change (%), total 13.5,
+Change (%), Kazakhstan 1.8
+Change (%), Azerbaijan 9.4
+Change (%), Uzbekistan 44.4
+Change (%), Tajikistan 8.8
+Change (%), Georgia 3.0
+Change (%), Moldova 2.9
+Change (%), Nepal 51.3
+
+Associated companies — Russia
+
+MegaFon (associated company, in which TeliaSonera
+holds 25.2 percent and consolidates 27.6 percent,
+reported with a one-quarter lag since the fourth quarter
+of 2012; historical figures have been restated) in Rus-
+sia reported a subscription base of 64.8 million, an
+increase of 4.2 million.
+
+TeliaSonera’s income from Russia increased to SEK
+11,542 million (4,504), including net capital gains of
+SEK 8,391 million. Excluding capital gains, TeliaSon-
+era’s income from Russia decreased to SEK 3, 151 mil-
+lion (4,504), negatively affected by a changed capital
+structure and lower effective ownership. The Russian
+ruble depreciated 2.7 percent against the Swedish
+krona, which had a negative impact of SEK 85 million.
+
+Associated companies — Turkey
+Turkcell (associated company, in which TeliaSonera
+holds 38.0 percent, reported with a one-quarter lag) in
+Turkey reported a subscription base of 35.2 million, an
+increase of 0.8 million. In Ukraine, the number of sub-
+scriptions increased by 1.4 million to 10.7 million.
+TeliaSonera’s income from Turkey increased to SEK
+2,280 million (1,331). The Turkish lira depreciated 9.1
+percent against the Swedish krona, which had a nega-
+tive impact of SEK 209 million.
+As in the previous year, no dividend from Turkcell
+was decided and paid in 2012.
+
+Other operations
+
+Other operations comprise Other Business Services,
+TeliaSonera Holding and Corporate functions. Other Business
+
+Services is responsible for sales of managed-services solutions
+to business customers in the Nordic countries.
+
+SEK in millions, Change
+except changes 2012 _2011 (%)
+Net sales ,799 3,992 8
+EBITDA excl. non-recurring items 451 397 13.6
+Income from associated companies -50 114 56.1
+Operating income 534-54 13
+Operating income excl.
+
+non-recurring items 351 -408 «= 14.0
+CAPEX 1,014 842 20.4
+
+Additional (unaudited) segment information available at www.teliasonera.com; see
+also section “Group Development in 2012” for information on restated financial
+information
+
+Net sales in local currencies and excluding acquisitions
+and divestments decreased 3.3 percent, mainly asa
+result of winding-up the retail chain Veikon Kone. In
+reported currency, net sales decreased to SEK 3,799
+million (3,992).
+
+EBITDA, excluding non-recurring items increased to
+SEK 451 million (397) mainly driven by improvements in
+the customer financing operation TeliaSonera Finans.
+
+Income from associated companies increased to
+SEK -50 million (-114). 2011 was impacted by a SEK 63
+million impairment charge.
+
+Operating income was SEK -534 million (-541). The
+improvement in EBITDA excluding non-recurring items
+was neutralized by restructuring charges and write-
+downs in connection with winding-up Veikon Kone.
+
+Acquisitions and Divestitures
+
+Date Country Comments
+
+February/- Kazakhstan On February 1, TeliaSonera completed the
+December first phase of its previously announced trans-
+2012 action to increase its ownership in Kcell (then
+TOO GSM Kazakhstan, later converted to AO
+Kcell), by acquiring a 49 percent stake in the
+company from Kazakhtelecom at a purchase
+price of USD 1,519 million (approximately
+SEK 10.5 billion). TeliaSonera further agreed
+to sell 25 percent of the shares in Kcell in an
+Initial Public Offering (IPO). On December
+12, TeliaSonera confirmed the IPO of Kcell
+and received USD 525 million (approximately
+SEK 3.5 billion) in proceeds from the offer-
+ing. TeliaSonera now holds a direct and indi-
+rect interest of 61.9 percent (37.9) in Kcell
+TeliaSonera acquired all shares in Svenska
+Stadsnat AB, a company providing fiber
+capacity to municipalities, companies and
+households.
+
+Cambodia/ TeliaSonera announced that it had sold its
+Nepal 18.6 percent stake in Smart Mobile (Latelz
+Co. Ltd.) in Cambodia, and entered into an
+agreement in order to further increase its
+ownership in Ncell Pvt. Ltd. in Nepal.
+
+On April 24, TeliaSonera announced that
+OAO MegaFon’s shareholders, TeliaSonera,
+AF Telecom and Altimo had resolved the gov-
+ernance disputes in Russia's second largest
+mobile operator and agreed that the compa-
+ny would pay a dividend of USD 5.15 billion
+and pursue an Initial Public Offering (IPO).
+
+In the second quarter of 2012, TeliaSonera
+recognized a net capital gain of SEK 3,013
+million and received a one-time dividend of
+SEK 12,366 million. On November 28, 2012,
+TeliaSonera confirmed the IPO of MegaFon
+and recognized a net capital gain of SEK
+5,378 million from the offering. TeliaSonera
+now owns 25.2 percent in MegaFon (35.6).
+
+February Sweden
+
+29, 2012
+
+April5,
+2012
+
+April/ Russia
+November
+
+2012
+
+
+
+--- Page 25 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+April 26,
+2012
+
+Nepal
+
+TeliaSonera, through its 75.45 percent
+owned Dutch subsidiary TeliaSonera Asia
+Holding B.V., acquired the remaining 49 per-
+cent of the shares and votes in the Cypriot
+holding company Airbell Services Ltd., which
+in conjunction increased its ownership from
+50 to 75 percent of the shares in the Nepa-
+lese regional mobile operator Nepal Satellite
+Telecom Pvt. Lid. According to the agree-
+ment, the purchase price was partly paid
+
+in cash, while the remaining consideration
+was contingent on the fulfillment of certain
+conditions. All conditions are not yet fulfilled.
+Further, after signing the agreement, new
+provisions in Nepal regarding telecom com-
+pany crossholdings have been announced.
+TeliaSonera is also a shareholder in Ncell Pvt.
+Ltd., which means that a formal approval of
+the transaction by the Nepalese authorities
+is needed. This approval has not yet been
+received but discussions and negotiations
+with the authorities are currently ongoing.
+For further information on the preliminary
+purchase price allocation, see Note C34 to
+the consolidated financial statements.
+
+May-July Lithuania
+
+2012
+
+On May 10, TeliaSonera announced the
+agreement to acquire 7.87 percent of the
+shares in TEO LT, AB from East Capital for
+EUR 0.637 (LTL 2.20) per share and the
+transaction was completed on May 10. Since
+May 8, TeliaSonera also acquired an addi-
+tional 6.55 percent of the outstanding shares
+in TEO through open market purchases
+
+at the same price. On June 5, TeliaSonera
+launched a voluntary takeover bid to acquire
+the outstanding shares in TEO for the price
+of EUR 0.637 per share in cash. Following the
+completion of the takeover bid and including
+open market transactions, TeliaSonera since
+July 4 holds 88.15 percent of TEO. The total
+value of the share purchases amounted to
+SEK 875 million.
+
+August 31, Sweden
+
+2012
+
+December Norway
+20, 2012
+
+December Kazakhstan
+28, 2012
+
+TeliaSonera, through its subsidiary Cygate
+Group AB, acquired Information Infrastruc-
+ture Management Nordic AB, a Swedish sys-
+tem integrator specialized in the datacenter
+market.
+
+TeliaSonera announced the signing of an
+agreement to divest its subsidiary NextGen-
+Tel AS to Telio Holding, a company listed on
+the Oslo Stock Exchange. The sales price
+was NOK 601 million (approximately SEK 700
+million) on a cash and debt free basis (enter-
+prise value). The transaction was closed on
+January 31, 2013.
+
+TeliaSonera announced that the formal
+conditions to complete the acquisition of
+
+the WiMax operations of Alem Commu-
+nications, from its owner Midas Telecom,
+and an indirect minority investment in TOO
+KazTransCom, a company listed on the
+Kazakhstan Stock Exchange and owning,
+among other businesses, a fiber optics net-
+work in Kazakhstan, through the purchase of
+shares from its owner Alatau, had been met.
+‘The transactions were completed on January
+11, 2013. According to the closing provisions
+of the agreements, the consideration paid,
+mainly after net debt adjustments, was USD
+106 million for the WiMax operations, TOO
+KazNet Media, which also received a USD 64
+million shareholder contribution from Telia-
+Sonera, and USD 22 million for the indirect
+holding in KazTransCom
+
+27
+
+Legal and administrative proceedings
+
+In its normal course of business, TeliaSonera is involved
+in a number of legal proceedings. These proceedings
+primarily involve claims arising out of commercial law
+issues and matters relating to telecommunications reg-
+ulations and competition law. For further information,
+see Note C30 to the consolidated financial statements.
+
+Innovation, Research and Development
+
+Innovation, research and development (R&D) activi-
+ties are performed to ensure TeliaSonera’s pioneer-
+ing position in the telecom industry as well as support
+future profitable growth and cost efficiency. The main
+focus is on developing the core network access and
+telecommunication service solutions. To support the
+core business, value-added services are facilitated in
+partnership with leading brands and players to enhance
+the offerings to various customer segments.
+
+A key tool for innovation is partnership with external
+actors. The possibility to leverage such a partnership by
+investing in the partner was re-introduced in 2012 and
+two investments were made. The innovation and R&D
+activities strive to develop high-quality and innovative
+services, products and systems that offer a world-
+class user experience. Customer focus, cooperation
+with partners and innovation clusters, open standards,
+integration of third party solutions, holistic approach
+and business models are specifically considered in the
+innovation and R&D work.
+
+The key focus for innovation and R&D during 2012
+has been world-class network quality in mobile and
+fiber, mobile data development, substantially improved
+business support systems and to strengthen TeliaSon-
+era’s market leadership. OTT (over-the-top) commu-
+nication and video solutions in combination with the
+ever-growing use of data has increased the attention
+on new solutions and business models to rebalance the
+revenues from voice to data. The consumer portfo-
+lio is developed with new functionality and services
+regarding digital home, IPTV, media and applications.
+The business portfolio is being further developed with
+emphasis on cloud-based services, applications and
+net-based communication solutions, where TeliaSon-
+era intends to continue to explore opportunities to work
+closely with partners. TeliaSonera is also working with
+partners to develop the M2M (machine-to-machine)
+area to facilitate new useful services.
+
+As of December 31, 2012, TeliaSonera had 446 pat-
+ent “families” and 2,628 patents and patent applica-
+tions, none of which, individually, is material to its busi-
+ness. TeliaSonera has increased the efforts regarding
+commercialization of the patent portfolio.
+
+In 2012, TeliaSonera incurred R&D expenses of SEK
+385 million (508).
+
+
+--- Page 26 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Environment
+
+TeliaSonera is committed to environmental respon-
+sibility. The work is guided by TeliaSonera’s Code of
+Ethics and Conduct which serves as an overall policy
+document, also covering the majority-owned subsidiar-
+ies. Annually, TeliaSonera also publicly reports on its
+environmental performance in a separate Sustainability
+Report.
+
+‘The TeliaSonera Sustainability Report is available at:
+www.teliasonera.com/Sustainability-Report
+
+(Information on the TeliaSonera website does not form
+part of this Report)
+
+The environmental impact from TeliaSonera’s opera-
+tions is mainly associated with energy utilization and
+material usage. Customers demand 24/7 mobile and
+internet connectivity and even if using cutting-edge
+technology, the energy consumption required to
+meet this demand and to run the operations currently
+represent the greatest part of TeliaSonera’s calculated
+carbon footprint. One permanent priority is to continu-
+ously strive to find more energy-efficient solutions for
+networks and data centers. With 2012 as the base year,
+group common targets are:
++ To reduce carbon dioxide (CO,) emissions by 20 per-
+cent per subscription equivalent by 2020; and
++ To increase energy efficiency (measured as kWh
+electricity purchased in operations) by 20 percent by
+
+2020.
+
+The progress on the targets will be reported to Group
+Management bi-annually.
+
+TeliaSonera’s operations also generate waste of
+various kinds, including hazardous waste, electronic
+equipment, networks devices and cables, and waste
+from office premises. Technology shifts currently
+represent a considerable challenge in terms of waste
+management, particularly in relation to the handling of
+disused poles, which contain hazardous substances,
+and to the recycling of valuable copper cables.
+
+TeliaSonera’s indirect environmental impacts include
+various ways in which customers can use TeliaSonera’s
+services to reduce their CO, emissions. Other indirect
+environmental impacts related to TeliaSonera’s value
+chain include activities such as the manufacturing of
+the equipment and devices used by customers and
+TeliaSonera’s own network equipment, as well as the
+end-of-life treatment of these products.
+
+Asa minimum, TeliaSonera companies shall comply
+with local legal requirements wherever they operate.
+TeliaSonera in Sweden does not conduct any opera-
+tions subject to environmental permits from authori-
+ties according to the Swedish Environmental Code,
+Chapter 9.
+
+28
+
+Remuneration to Executive Management
+
+Proposed remuneration policy for executive
+management 2013
+
+The Board of Directors’ proposal for the remuneration
+policy for executive management, to be adopted at the
+Annual General Meeting on April 3, 2013, is as follows.
+
+Remuneration principles
+
+TeliaSonera’s objective is to offer remuneration levels
+and other employment conditions required to attract,
+retain and motivate high caliber executives needed to
+maintain the success of the business. Remuneration
+should be built upon a total reward approach allowing
+for a market relevant — but not market leading — and
+cost effective executive remuneration based on the fol-
+lowing compensation components.
+
+1. Base salary
+
+2. Pension
+
+3. Other benefits
+
+Remuneration structure
+
+Base salary
+
+The base salary should reflect the competence re-
+quired in the position and the responsibility, complexity
+and the business contribution of the executive. The
+base salary should also reflect the performance of the
+executive and consequently be individual and differen-
+tiated.
+
+Pension
+Pension and other retirement benefits should be based
+on the defined contribution method.
+
+Other benefits
+
+The termination period may be up to six months when
+given by the executive and up to 12 months when given
+by the employer (in relation to the CEO six months). In
+case of termination given by the employer, the execu-
+tive may be entitled to a severance payment of up to 12
+months (in relation to the CEO 24 months). The sever-
+ance payment shall not constitute a basis for calcula-
+tion of vacation pay or pension benefits and shall be
+reduced should the executive be entitled to pay from a
+new employment or from conducting his own business
+during the period under which the severance is payable
+to the executive.
+
+The executive may be entitled to a company car
+benefit, health care provisions, travel insurance, etc. in
+accordance with local labor market practice.
+
+The Board of Directors is allowed to make minor
+deviations on an individual basis from the principles
+stated above.
+
+
+--- Page 27 ---
+
+TeliaSonera Annual Report 2012
+
+> Board of Directors’ Report
+
+Long-term variable pay program
+
+The Annual General Meeting held on April 3, 2012,
+decided to launch a long-term variable pay program
+which includes approximately 100 key employees. This
+program is not available for the members of Group
+Management. A long-term variable pay program should
+ensure long-term sustainability of the company, secure
+a joint interest in increased shareholder value and
+provide an alignment between key employees and the
+shareholders by sharing risks and rewards of the Telia-
+Sonera share price.
+
+The program rewards performance measured over a
+minimum of a three year period, is capped to a maxi-
+mum of 37.5 percent of the annual base salary and is
+equity based (invested and delivered in TeliaSonera
+shares with the ambition that the employees should re-
+main shareholders also after vesting). A prerequisite for
+payout from such a program is the continuous employ-
+ment at the end of the performance period. The pro-
+gram measures performance over a 3-year period in
+relation to Earnings Per Share (EPS, weight 50 percent)
+and Total Shareholder Return (TSR, weight 50 percent)
+compared to a corresponding TSR development of a
+pre-defined peer-group of companies. The program
+may be annually repeated. In 2011, an equal program
+was launched for approximately 90 key employees. The
+prevalence of a long-term variable pay program is sub-
+ject to the approval of the Annual General Meeting. For
+more information, see Note C32 to the consolidated
+financial statements.
+
+Parent Company
+
+The parent company TeliaSonera AB (Corporate Reg.
+No. 556103-4249), which is domiciled in Stockholm,
+comprises group executive management functions
+including the group’s internal banking operations. The
+parent company has no foreign branches.
+
+The parent company’s financial statements have
+been prepared in accordance with the Swedish Annual
+Accounts Act, other Swedish legislation, and stand-
+ard RFR 2 “Accounting for Legal Entities” and other
+statements issued by the Swedish Financial Reporting
+Board.
+
+Net sales increased to SEK 61 million (30), of which
+SEK 58 million (30) was billed to subsidiaries. Income
+after financial items ended at SEK 13,414 million
+(11,034), due to lower other operating expenses and
+improved financial net. Income before taxes was SEK
+13,954 million (10,972) and net income was SEK 12,327
+million (9,691).
+
+29
+
+Total investments were SEK 21,723 million (4,042), of
+which SEK 20,695 million referred to shareholder con-
+tributions to subsidiaries. Cash and cash equivalents
+totaled SEK 26,803 million (8,847) at year-end. The
+balance sheet total increased to SEK 265,965 million
+(221,309). Shareholders’ equity was SEK 81,871 million
+(81,848), of which non-restricted equity SEK 66, 160
+million (66,137). The equity/assets ratio was 29.9 per-
+cent (35.8). Net debt amounted to SEK 140,152 million
+(112,574).
+
+As of December 31, 2012, the number of employees
+was 241 (249).
+
+Significant Events after Year-End 2012
+
++ On February 1, 2013, Mannheimer Swartling (MSA),
+finalizing the assignment given by TeliaSonera in
+October 2012, presented its review of TeliaSonera’s
+investments in Uzbekistan. MSA did not find any
+substance to the allegations that TeliaSonera com-
+mitted bribery or participated in money laundering
+in connection with these investments but directed
+serious criticism at TeliaSonera for shortcomings in
+the investment process and that the internal controls
+were not sufficient.
+
+On the same day, TeliaSonera’s Board of Directors
+issued a statement, concluding that the investments
+were not carried out in a satisfactory manner and that
+the Board concurred with and shared MSA's criti-
+cism. The Board also stated that it wants to increase
+its efforts in developing principles and processes that
+respect human rights and protect the company from
+corruption. The goal is to ensure that TeliaSonera’s
+anti-corruption efforts attain high standards and
+stand up to a stringent international comparison.
+
+The full statement of the Board of Directors is available at:
+http://bit.ly/11 qVix4
+
+(Information on the TeliaSonera website does not form part
+of this Report)
+
+On February 1, 2013, Lars Nyberg resigned from his
+position as President and CEO of TeliaSonera AB
+
+and Per-Arne Blomquist, Executive Vice President
+and CFO, was appointed acting President and CEO.
+On February 6, 2013, Veysel Aral, CEO of AO Kcell
+and Regional Head of Central Asia, was appointed
+President of Business area Eurasia. Veysel Aral will
+keep his role as CEO of Kcell.
+
+On February 6, 2013, Christian Luiga, Head of Corpo-
+rate Control, was appointed acting CFO of TeliaSonera.
+
+
+--- Page 28 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Corporate Governance Statement
+
+Introduction and Compliance
+
+This Corporate Governance Statement has been
+adopted by the Board of Directors at its meeting on
+March 6, 2013. It presents an overview of TeliaSonera’s
+corporate governance model and includes the Board’s
+description of the internal control environment and risk
+management regarding financial reporting.
+
+The 2012 Corporate Governance Statement has
+been prepared according to the Swedish Corporate
+Governance Code and the Swedish Annual Reports Act
+and has been audited by the external auditors.
+
+Itis the opinion of the Board of Directors that
+TeliaSonera has complied with the Swedish Corporate
+Governance Code during 2012. However, with respect
+to Section 8.1 of the Code, the annual evaluation of
+the work of the Board of Directors was performed by
+the Nomination Committee and not the Board itself.
+Further, there has been no infringement of applicable
+stock exchange rules and no breach of good practice
+on the securities market reported by the NASDAQ OMX
+Stockholm’s Disciplinary Committee or the Swedish
+Securities Council.
+
+TeliaSonera’s strategy means that the company
+does business in some of the world’s most challeng-
+ing markets when it comes to corruption and violations
+of human rights. The importance of a zero tolerance
+across the entire organization for corruption and
+human rights abuses can therefore not be underesti-
+mated. In 2012, a large part of the work of the Board
+of Directors and Group Management was devoted to
+sharpening the focus on these sustainability risk issues
+and significant new measures were implemented and
+announced.
+
+In addition, development work in corporate govern-
+ance during 2012 primarily focused on risk manage-
+ment related to IT risks and on improved financial
+reporting processes, in particular as regards process
+harmonization and cash-flow reporting.
+
+Updated information required by the Swedish Corporate
+Governance Code is available at:
+www.teliasonera.com/Corporate-Governance
+
+(Information on the TeliaSonera website does not form part of
+this Statement)
+
+Governing Bodies
+
+TeliaSonera’s main governing bodies are:
+
++ The Shareholders’ General Meeting
+
++ The Board of Directors
+
++ The CEO, assisted by Group Management
+
+Shareholders
+
+Sommitice General Meeting Auditors
+panuneration Board of Directors Audit Committee
+
+Committee
+| croorice Group Legal Affairs
+
+Group
+Human Resources
+
+30
+
+Business area
+Br
+
+db
+
+Business area
+Eu
+
+Shareholders
+
+Shareholders’ General Meeting
+
+TeliaSonera is a Swedish public limited liability com-
+pany and is governed by the Swedish Companies Act,
+the NASDAQ OMX Stockholm Rule Book for Issuers,
+the Swedish Corporate Governance Code and the
+company’s Articles of Association. The Shareholders’
+General Meeting is the company’s highest decision-
+making forum where the owners exercise their share-
+holder power.
+
+
+--- Page 29 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+For further information regarding:
+
++ Swedish Companies Act (2005:551), Annual Reports Act
+(1995:1554), Securities Market Act (2007:528):
+www.riksdagen.se/en, www.government.se
+
++ NASDAQ OMX Stockholm (issuer rules and surveillance):
+
+www.nasdagomx.com
+
++ Swedish Corporate Governance Code and specific features
+of Swedish corporate governance:
+www.corporategovernanceboard.se
+
+The TeliaSonera share is listed on NASDAQ OMX Stock-
+holm and NASDAQ OMX Helsinki. TeliaSonera has only
+one type of shares. Each TeliaSonera share represents
+one vote at the General Meeting of Shareholders. At
+year-end 2012, TeliaSonera had 553,631 shareholders.
+For more information on the shareholder structure, see
+the Board of Directors’ Report.
+
+The Annual General Meeting 2012 was held in Stock-
+holm on April 3, 2012. Among other issues, the Annual
+General Meeting 2012 decided upon the following:
+
++ Composition of the Board of Directors
+
++ Distribution of profits
+
++ Remuneration policy for the executive management
+
++ Authorization for the Board to decide upon acquisi-
+tions of the company’s shares within certain limits
+
++ Long-term incentive program for key employees
+
++ Election of auditors
+
+TeliaSonera’s Articles of Association are available at:
+www.teliasonera.com/Corporate-Governance, and AGM min-
+utes and related documents at: www.teliasonera.com/AGM
+(Information on the TeliaSonera website does not form part of
+this Statement)
+
+Nomination Committee
+
+TeliaSonera’s Nomination Committee consists of repre-
+sentatives of the company’s four largest shareholders
+at the time of notice of the Annual General Meeting and
+which also wish to participate in the nomination pro-
+cess, and the Chairman of the Board of Directors. The
+Nomination Committee presently consists of:
+
++ Kristina Ekengren, Chairman (the Swedish State)
+
++ Kari Jarvinen (the Finnish State through Solidium Oy)
++ Per Frennberg (Alecta)
+
++ Jan Andersson (Swedbank Robur Fonder)
+
++ Anders Narvinger, Chairman of the Board
+
+The Nomination Committee shall in accordance with its
+instruction:
+
+Nominate the Chairman and other members of the
+Board of Directors
+
+Propose the Board remuneration that is divided
+among the Chairman and other members and remu-
+neration for serving on committees
+
+Nominate the Chairman of the Annual General
+Meeting
+
+Nominate the external auditors
+
+31
+
+The Nomination Committee receives information
+
+from the Chairman of the Board and the CEO on
+TeliaSonera’s position and strategic direction. Based
+on that information, the committee assesses the
+competences needed in the Board of Directors as a
+whole and evaluates the competences of the present
+Board members. Taking into account the competences
+needed in the future, the competences of present
+Board members and the present Board members
+availability for re-election, the committee nominates
+Board members to the General Meeting. The Nomina-
+tion Committee has reported that it complies with the
+guidelines in the Swedish Corporate Governance Code
+and that it intends to report its activities at the Annual
+General Meeting and on the company’s website.
+
+Shareholders are welcome to send nomination proposals to
+the Nomination Committee. Proposals can be sent by e-mail
+to: forslagtillstyrelseledamot@teliasonera.com
+
+Board of Directors
+
+Responsibilities
+
+The Board of Directors is responsible for the organi-
+
+zation of the company and the administration of the
+
+company’s affairs. The Board shall regularly assess the
+
+company’s financial position and shall ensure that the
+
+company’s organization is structured in such a manner
+
+that accounting, management of funds and the com-
+
+pany’s finances in general are monitored in a satisfac-
+
+tory manner. In that role the Board makes decisions on
+
+inter alia:
+
++ The strategic direction and key strategic initiatives of
+the group
+
++ Major investments
+
++ The capital structure and dividend policy
+
++ Appointment and dismissal of the CEO
+
++ The delegation of authority
+
++ The development of group-wide policies
+
++ The overall organization of the group
+
++ The internal control environment and risk
+management model of the group
+
++ The core content of the group’s external
+communication
+
+The guidelines for the work of the Board of Directors
+are set down in standing orders. The standing orders
+contain rules regarding the number of ordinary board
+meetings, the agenda items for ordinary board meet-
+ings, the tasks of the Chairman of the Board, the divi-
+sion of responsibilities between the Board and the CEO
+and how work is to be carried out in committees.
+
+
+--- Page 30 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Members and independence
+
+The Board of Directors consists of eight members
+elected by the Annual General Meeting, serving one-
+year terms, and three employee representatives (with
+three deputies) from the Swedish operations. A Finn-
+ish employee representative is present at the Board
+meetings, but without voting rights. Anders Narvinger
+is Chairman of the Board. The other members of the
+Board, elected by the Annual General Meeting, are
+Timo Peltola (Vice-Chairman), Maija-Liisa Friman,
+Ingrid Jonasson Blank, Olli-Pekka Kallasvuo, Lars Ren-
+str6m, Jon Risfelt and Per-Arne Sandstr6m.
+
+In accordance with the guidelines of the Swedish
+Corporate Governance Code, all members elected by
+the Annual General Meeting 2012 are considered to be
+independent in relation to the company, to the adminis-
+tration of the company and to major shareholders.
+
+The members of the Board of Directors are present-
+ed in more detail at the end of this Statement.
+
+Meeting structure for strategic planning and
+external reporting
+
+The work of the Board follows an annual cycle. This
+enables the Board to appropriately address each of its
+duties and to keep strategic issues, risk assessment
+and value creation high on the agenda.
+
+Statutory meeting
+
+The annual cycle starts with the statutory Board meet-
+ing which is held immediately after the AGM. At this
+meeting, members of the Committees are appointed
+and the Board resolves on matters such as signatory
+powers.
+
+Q1 report meeting
+
+At the next ordinary meeting, the Board approves the
+interim financial report and reviews the risk report for
+the first quarter of the year.
+
+Q2 report meeting
+
+The Board convenes to approve the interim financial
+report and review the risk report for the second quarter
+of the year.
+
+First strategic planning meeting
+
+A Board meeting focused on the first step of the strate-
+gic planning process by discussing the scope and key
+assumptions. This meeting is also combined with Board
+training activities, such as visiting specific sites, etc.
+
+Q3 report meeting
+
+A Board meeting is held to approve the interim financial
+report and review the risk report for the third quarter of
+the year and to discuss the second step of the strategic
+planning process — the strategic options. This meeting
+is also devoted to the annual evaluation of the Board’s
+internal work.
+
+32
+
+Business and financial plan meeting
+
+As the final step of the strategic planning process, a
+meeting is held for the Board to approve manage-
+ment’s business and financial plan and to discuss
+target setting for executive management. This meeting
+also comprises an annual review of the capital structure
+and dividend policy.
+
+Q4 report and full-year financial results meeting
+Following the end of the calendar year, this Board
+meeting focuses on the financial results of the entire
+year and the fourth-quarter financial report and risk
+report, also including a final decision on target setting
+for executive management and the dividend proposal
+for the year.
+
+Annual Report meeting
+
+This meeting closes the annual work cycle of the Board
+of Directors by an approval of the Annual Report anda
+review of the Sustainability Report.
+
+THE BOARD’S ANNUAL WORK CYCLE
+
+Business and
+financial plan
+meeting
+
+Q4 Report and full-
+year results meeting
+
+Annual
+
+Report
+
+Q3 Report meeting
+meeting -
+
+Ordinary board
+
+meetings Statutory
+
+= annual cycle meeting
+First
+strategic Q1 Report
+planning meeting
+meeting
+
+Q2 Report meeting
+
+As the Board is responsible for financial oversight,
+financials are presented and evaluated at each Board
+meeting. Furthermore, each Board meeting generally
+includes reports on Committee work by the respec-
+tive Committee Chairman. At each Board meeting, the
+President and CEO reports on business and market
+developments as well as on the financial performance.
+The Board is regularly informed of any whistle-blower
+cases and developments in significant legal and regula-
+tory matters.
+
+Organization
+
+To improve board work efficiency, the Board of Direc-
+tors has appointed a Remuneration Committee and an
+Audit Committee. The committees prepare recommen-
+
+
+--- Page 31 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+dations for the Board. The Remuneration Committee
+handles issues regarding salary and other remunera-
+tion to the CEO and Group Management and incentive
+programs that target a broader group of employees.
+The Remuneration Committee has the authority to ap-
+prove remuneration to persons in TeliaSonera’s Group
+Management, except for the CEO. The Audit Commit-
+tee reviews for example financial statements, account-
+ing, internal controls and auditing. The Audit Commit-
+tee has the authority to decide on audit scope and audit
+fees and to approve purchase of non-audit services
+from the auditors.
+
+ORGANIZATION OF THE BOARD WORK
+
+Board of Directors
+11 members
+
+Remuneration
+Committee
+4 members
+
+Audit
+Committee
+4members
+
++ Remuneration policy
+
++ Long-term incentive
+programs
+
++ Executive
+compensation
+
+Oversight over
++ Financial reporting
++ Internal controls
+
++ Auditing
+
+Board work during 2012
+
+In 2012, the Board of Directors held 8 ordinary meet-
+ings as well as 9 extra meetings. In addition to following
+up on the day-to-day business of the group, the Board
+of Directors paid special attention to:
+
++ Strategic options, with specific review of the chang-
+ing business environment in the telecom industry
+Follow-up of major strategic initiatives within the
+business areas, including for example pricing strat-
+egy and fiber roll-out
+
+Comprehensive and detailed review of the overall
+sustainability risks for the group, including deci-
+sions on an updated mergers and acquisitions (M&A)
+process, a new compliance function and updated
+policies and guidelines
+
+Close follow-up and attention to the severe corrup-
+tion and money-laundering allegations related to
+the investments in Uzbekistan, including initiating an
+external review by a well-renowned law firm
+Reviewing efficiency programs aiming at a cost
+reduction of some SEK 2 billion net over the coming
+two years
+
+Regulatory developments in the telecom industry
+Structure for target model and financial targets
+Potential acquisitions and increase of ownership in
+subsidiaries
+
+33
+
+Follow-up of the initial public offerings (IPOs) of Kcell
+and MegaFon
+
+Investments in frequencies, in particular in Finland,
+Denmark and Norway
+
+Follow-up of CAPEX, in particular related to network
+investments
+
+Development in associated companies in Turkey and
+Russia
+
+Development and governance of IT projects in the
+group
+
+Funding and debt structure
+
+Organizational issues
+
+Human Resources issues, in particular succession
+planning and performance management
+
+Follow-up of the compliance with the OECD Guide-
+lines for Multinational Enterprises
+
+Sustainability Priority action plan approval and
+regular follow-up
+
+Reviewing the TeliaSonera Sustainability Report
+
++ Continuous evaluation of the performance of the
+CEO
+
+According to Section 8.1 of the Swedish Corporate
+Governance Code, the Board of Directors is to evalu-
+ate its work annually, using a systematic and structured
+process, and make the results of the evaluation avail-
+able to the Nomination Committee where relevant. In
+TeliaSonera, the Nomination Committee itself initiates
+and performs such an evaluation of the Board work.
+
+Remuneration Committee
+
+Anders Narvinger is Chairman of the Remuneration
+
+Committee. In 2012, the Committee handled, amongst
+
+others, the following issues:
+
++ Initiating and pursuing the recruitment process for a
+new CEO, as the contract with the then CEO was to
+expire in December 2013
+
++ Structure for target model and financial targets
+
++ Succession planning
+
++ Performance management
+
++ Remuneration to the CEO and Group Management
+
+In 2012, the Remuneration Committee held 7 minuted
+meetings and 2 extra meetings devoted to the CEO
+recruitment. In addition, the Committee members were
+engaged in interviews with a number of CEO candi-
+dates.
+
+
+--- Page 32 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Members of the Committees
+of the Board of Directors in 2012
+
+Audit
+Committee
+
+Remuneration
+Committee
+
+Anders Narvinger
+(Chairman)
+
+Timo Peltola
+
+Lars Renstr6m
+Per-Arne Sandstr6m
+
+Maija-Liisa Friman
+(Chairman)
+
+Anders Narvinger
+Ingrid Jonasson Blank
+Jon Risfelt
+
+Audit Committee
+
+Maija-Liisa Friman is Chairman of the Audit Commit-
+tee. In 2012, the Committee held 6 meetings. At each
+following Board meeting, the Chairman of the Audit
+Committee reports a summary of the issues raised,
+proposals as well as assessments and reviews per-
+formed within the Committee. When identifying risk
+areas related to the financial reporting, the Commit-
+tee collaborates with the CEO and CFO, the external
+auditors as well as the internal audit and internal control
+functions. The input forms the basis when deciding
+
+on future focus areas. For 2012, five focus areas were
+identified by the Committee for monitoring and assess-
+ment:
+
+Financial reporting and process, with specific focus
+on risk identification and the internal controls process
+Large projects
+
+Mergers and acquisitions, with special attention to
+the Kcell and MegaFon initial public offerings (IPOs)
+Financial and operational risks in Eurasia, including
+developments in the associated companies
+
+Impact of revised international pension accounting
+standards and potentially sharpened capital ratio
+requirements for the Swedish pension fund
+
+Work in 2012 included, amongst others, the following
+issues:
+
++ Increased focus on sustainability from a control and
+risk perspective
+
+Assessment of the environment of internal controls
+over financial reporting as well as over business
+operations, including the whistle-blower process
+Assessment of the quality and integrity of the
+enterprise risk reporting
+
+Reviews of the company’s external financial reporting
+Reviews of the reports issued by the external auditors
+Review and follow-up of whistle-blower cases
+Overseeing developments in large operational risk
+areas such as the Eurasian operations, procurement
+and large projects
+
+Reviews of head office functions, e.g. Financial
+Shared Services, Group Treasury and Group
+Procurement
+
+34
+
++ Overseeing improvements of financial reporting
+processes
+
++ Reviews of accounting principles of importance to
+the company
+
++ Reviews of corporate policies as preparation for
+Board approval
+
++ Assessment of the group’s capital structure
+
++ Assessment and approval of the audit plans of
+external and internal auditors
+
++ Assessment of the independence of external auditors
+
+In 2012, follow-up of the main large projects and
+sustainability risk management were added as perma-
+nent topics to the agenda of the 2013 Audit Committee
+meetings.
+
+In 2012, the Committee attended an internal special
+training session focused on the accounting for financial
+and hedging transactions, and transactions related to
+mergers and acquisitions. The Committee was also
+updated on IFRS developments by the group finance
+function and the external auditors.
+
+The Audit Committee applied a systematic and
+structured evaluation of its internal work. The result of
+this evaluation was reported to the Board of Directors.
+Asummary of the evaluation was also presented to the
+Nomination Committee.
+
+CEO and Group Management
+
+The CEO is responsible for the company’s business
+development and leads and coordinates the day-to-
+day operations in accordance with the decisions of
+the Board of Directors. Headed by the CEO, the Group
+Management currently consists of eleven members:
+the CEO, CFO, General Counsel, Head of Group
+Human Resources, Head of Group Communications,
+ClO, Presidents of the business areas, Head of busi-
+ness sales division Business Services and Head of
+TeliaSonera Finland. Group Management meets ona
+monthly basis. These meetings are devoted to follow-
+up on strategic and business performance, major
+change programs, risks and other issues of strategic
+nature and group-wide importance.
+
+The members of Group Management are presented
+in more detail at the end of this Statement.
+
+Group-wide Governance Framework
+
+TeliaSonera’s group-wide governance framework is
+designed to ensure that operational results correspond
+to decisions made, and is structured to encourage all
+employees to strive, within set boundaries, towards
+the same goals, with a common clear understanding
+of direction, shared values, roles, responsibilities and
+authority to act. This governance framework has been
+decided by the Board of Directors.
+
+
+--- Page 33 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Deciding what we shall achieve
++ Mission
+
++ Vision
+
++ Strategy
+
++ Operational and financi
+
+Setting the boundaries for how we act
++ Shared values
+
++ Sustainability
+
++ Group policies
++ Organization
++ Delegation of obligations and authority
+
+Follow-up of our performance
++ Business reviews
++ Performance management
+
+Deciding what we shall achieve
+
+In order to provide general guidance to the employ-
+ees, the Board of Directors has issued mission and
+vision statements. Further, the Board yearly adopts a
+strategy, setting more specific directions for a three-
+year period as well as yearly operational and financial
+targets.
+
+Mission - to provide network access and
+telecommunication services
+
+TeliaSonera’s mission is to help people and companies
+communicate in an easy, efficient and environmen-
+tally friendly way, by providing network access and
+telecommunication services. Our focus is to deliver a
+world-class customer experience, while ensuring the
+quality of our networks and maintaining a cost efficient
+structure. TeliaSonera is an international group with a
+global strategy, but wherever we operate we act as a
+local company.
+
+Our focus areas
+
++ Providing world-class customer experience
++ High quality networks
+
++ Driving cost efficiency
+
+Vision — to contribute to a world with better
+opportunities
+
+TeliaSonera is a world-class service company, recog-
+nized as an industry leader. We are proud pioneers of
+the telecom industry, a position we have gained by be-
+ing innovative, reliable and customer friendly. Wherever
+we operate, we act in a responsible way, based ona
+firm set of values and business principles. Our services
+form a major part of people’s daily lives — for business,
+education and pleasure.
+
+35
+
+Strategy — a world class customer experience
+Today communication services are an integral part of
+people’s daily lives. Since the arrival of smartphones
+and tablets, we rely increasingly on digital communica-
+tion for social and business interaction. A trend which
+will only grow stronger in the coming years. Communi-
+cation services have moved from being expensive and
+exclusive to being available, affordable and personal.
+Our ambition is to translate our strategy to provide a
+world-class customer experience, industry leading net-
+work quality and to have a competitive cost structure.
+
+Operational and financial targets
+
+Operational and financial targets are set for the group
+as a whole and for each business area, business unit
+and multi market operations.
+
+Setting the boundaries for how we act
+
+The Board of Directors sets the boundaries on how
+the employees shall act. Key elements in setting the
+boundaries are shared values, code of ethics and
+conduct, group policies, organizational structure and
+delegation of obligations and authority.
+
+Shared values — making us stronger together
+TeliaSonera’s shared values — “Add value,” “Show re-
+spect” and “Make it happen” — shape the way we work
+every day.
+
+Add value
+
+We are customer focused and business minded. Inno-
+vation and pioneering are important aspects of our her-
+itage and culture. By collaborating in teams and across
+borders, we share knowledge and use our resources.
+efficiently. We take ownership, follow up and give feed-
+back to ensure that we foster simple and sustainable
+solutions that deliver value for our customers.
+
+Show respect
+
+We demonstrate trust, courage and integrity in every-
+thing we do. We place a high value on our employees’
+knowledge and diversity, and share the responsibility
+for creating a good working climate. We treat others
+the way we want to be treated; in a professional and
+fair manner. We carefully protect customer privacy and
+network integrity, and always act in the best interests of
+our customers and our company.
+
+Make it happen
+
+We constantly make decisions to drive development
+and change; planning and fast implementation are
+crucial to our business. We make the best use of our
+employees’ competence and commitment to maintain
+a dynamic business climate where everyone contrib-
+utes. We make it easy and rewarding to do business
+with us, and always deliver on our promises.
+
+
+--- Page 34 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Sustainability
+
+TeliaSonera strives for sustainability throughout the
+value chain, and aims to be fully accountable to the
+stakeholders. The term sustainability is used as an um-
+brella term covering all efforts to realize economic as
+well as environmental and social sustainability through
+responsible business operations.
+
+TeliaSonera’s sustainability work involves ensuring
+environmental and social sustainability along the sup-
+ply chain, taking care of the well-being of the employ-
+ees, reducing own carbon footprint and those of the
+customers, respecting human rights, complying with
+ethical business practices in all markets, improving
+the protection of customer privacy, protecting children
+online, and supporting research related to exposure to
+electromagnetic fields.
+
+Managing sustainability opportunities and risks is an
+integral part of TeliaSonera’s operations and one of the
+main risk areas within the enterprise risk management
+framework. Since 2012, compliance with sustainability-
+related requirements, as well as sustainability risk man-
+agementis a permanent item on the Audit Committee
+agenda. TeliaSonera aims to ensure that the sustain-
+ability management practices are constantly updated
+on present and future issues and developments, and
+that the stakeholders can play a proactive role.
+
+Code of ethics and conduct
+
+Sustainability work is guided by the TeliaSonera Code
+of Ethics and Conduct, which serves as an overall
+policy document. The Code defines how TeliaSonera’s
+employees should interact with different stakeholders,
+including customers, business partners, competitors,
+co-workers, shareholders, governments and regulatory
+bodies, as well as local communities wherever Telia-
+Sonera operates. The policy document covers all enti-
+ties in which TeliaSonera holds more than a 50 percent
+ownership and is available in 21 languages.
+
+In order to continue the implementation efforts
+which started in 2011 and to further ensure full compli-
+ance with the Code, a related e-learning tool has been
+created and the roll-out will start in 2013. The training
+tool focuses on anti-corruption and human rights.
+
+The TeliaSonera Code of Ethics and Conduct is available at:
+www.teliasonera.com/Code-of-Ethics
+
+(Information on the TeliaSonera website does not form part of
+this Statement)
+
+Policies on anti-corruption and supply chain conduct
+TeliaSonera has a Clear position against corruption, and
+prioritizes anti-corruption work. In 2012, TeliaSonera
+prepared a new group policy on anti-corruption, which
+is due to be finalized by early 2013. In order to further
+develop anti-corruption practices, cooperation with
+Transparency International was initiated, with the aim of
+reaching a best-practice international standard.
+
+To ensure sustainability in the supply chain, the
+TeliaSonera Supplier Code defines the conduct ex-
+pected from suppliers in relation to protecting human
+and labor rights, promoting occupational health and
+safety, environmental management and ethical busi-
+ness practices. The conduct rules are mandatory to
+major suppliers.
+
+The TeliaSonera Supplier Code is available at:
+wwww.teliasonera.com/Supplier-Code
+
+(Information on the TeliaSonera website does not form part of
+this Statement)
+
+Sustainability reporting
+
+TeliaSonera annually reports its sustainability perfor-
+mance in the Sustainability Report. As of 2012, the
+external auditors submitted a review report on the
+Sustainability Report. TeliaSonera applies the Global
+Reporting Initiative guidelines for reporting on sus-
+tainability including the telecommunications sector
+supplement pilot. The report is intended to respond to
+internal and external stakeholders’ interest for informa-
+tion and request for increased transparency regarding
+the sustainability work. Internally, TeliaSonera uses the
+Sustainability Report to collect, highlight and share
+information about best practices across the group.
+
+‘The TeliaSonera Sustainability Report is available at:
+www.teliasonera.com/Sustainability-Report
+
+(Information on the TeliaSonera website does not form part of
+this Statement)
+
+36
+
+Whistle-blower process
+
+The Board of Directors has established a process which
+enables employees to anonymously report violations
+
+in accounting, reporting or internal controls, as well as
+non-compliance with the TeliaSonera Code of Ethics
+and Conduct, a so called whistle-blower process. The
+employees’ whistle-blower tool is based on an intranet
+solution.
+
+To the reader: If you believe there are deficiencies in Telia
+Sonera’s financial reporting or if you suspect any misconduct
+within the TeliaSonera group, you may address your concerns
+
+to:
+
+TeliaSonera AB, Board of Directors
+
+Att: Jan Henrik Ahrnell, Secretary of the Board
+SE-106 63 Stockholm, Sweden
+
+
+
+--- Page 35 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Group policies
+
+The heads of head office functions shall secure that
+necessary group policies, instructions and guidelines
+are issued within their respective area of responsibility.
+Group policies are decided by the Board of Directors
+and currently — in addition to the TeliaSonera Code of
+Ethics and Conduct — the Board has issued the follow-
+ing group policies.
+
+GROUP POLICIES ISSUED BY THE BOARD
+— AREA AND PURPOSE
+
+@ Financial To set the rules for credit ratings and how
+management __ financial risks shall be managed
+@ Risk To describe the enterprise risk manage-
+management ment framework
+@ Sourcing To minimize the total cost of purchased
+goods and services by setting rules for
+how to use the purchasing power of the
+group
+@ Insurance To have an insurance cover for manage-
+ment, employees and business activi-
+ties in line with peers within the telecom
+industry
+@ Privacy To respect and safeguard customer
+privacy by setting high and consistent
+standards
+@ Security To describe the governance as well as
+
+control, facilitation and implementation of
+security measures
+
+To ensure that all communication of the
+group is accurate and provided in a pro-
+fessional and timely manner
+
+To set the strategic direction and clarify
+the approach on designing and imple-
+menting remuneration practices for
+employees at all levels
+
+To ensure that recruitment is used as an
+enabler for continued business success
+
+@ Communication
+
+@ Remuneration
+
+@ Recruitment
+@ Pensions To assist in providing pension benefits by
+clarifying the structure, design and man-
+agement of pension plans
+
+To set the standards for ethical business
+practices throughout the operations
+
+To ensure a high standard of ethical
+behavior towards the capital markets by
+defining trading and reporting rules
+
+To protect the investments in research
+and development and to utilize the patent
+portfolio effectively
+
+@ Anti-corruption
+
+@ Insider trading
+
+@ Patents
+
+Organization
+
+TeliaSonera’s largest businesses are Mobility Services,
+Broadband Services and the holdings of TeliaSonera in
+Eurasia, Russia and Turkey. In order to ensure strong
+leverage for profitable growth and cross-border syner-
+gies, TeliaSonera is organized in three international
+business areas. The business areas have full profit and
+loss responsibilities for their assigned businesses.
+
+37
+
+The Finnish business operation in total is also sepa-
+rated into one consolidated reporting area managed
+in a matrix with business areas Mobility Services and
+Broadband Services. A separate sales unit for all sales
+to business customers is established in Sweden and
+Finland.
+
+Business area Mobility Services
+
+The business area comprises mobile operations in
+Sweden, Finland, Norway, Denmark, Lithuania, Latvia,
+Estonia and Spain.
+
+Business area Broadband Services
+The business area comprises operations in Sweden,
+Finland, Norway, Denmark, Lithuania, Latvia, Estonia
+and international carrier operations.
+
+Business area Eurasia
+
+The business area comprises mobile operations in Ka-
+zakhstan, Azerbaijan, Uzbekistan, Tajikistan, Georgia,
+Moldova and Nepal. The business area is also respon-
+sible for developing TeliaSonera’s shareholdings in
+Russian MegaFon and Turkish Turkcell.
+
+Head office functions
+
+The head office functions assist the CEO in setting the
+framework for the activities of the business areas and
+provide the business areas with process development
+support and common platforms within the areas com-
+munication, finance (including M&A and procurement),
+human resources, IT and legal affairs.
+
+Delegation of obligations and authority
+
+The CEO has issued a delegation of obligations and
+authority, which defines the obligations imposed on the
+heads of business areas, including the heads of sales
+division Business Services and TeliaSonera Finland,
+and corporate functions, and within which limits they
+may make decisions.
+
+Follow-up of our performance
+
+Performance follow-up is essential in order to be able
+to take corrective measures and plan for the future.
+Performance follow-up is performed on organizational
+units as well as on an individual level.
+
+Business reviews
+
+The CEO sets goals for the operations based on the
+decisions of the Board of Directors. To ensure per-
+formance, managers have annual targets for their
+particular operations. The planning of the business is
+documented in annual operating plans and the follow-
+up is conducted on a monthly basis, complemented
+with forecasts and quarterly business review meetings
+on business unit and business area levels. The business
+review meetings are held as physical meetings and
+include financial and business reviews for the report-
+ing period and forecast period, risks and operations
+performance metrics on network quality and customer
+
+
+--- Page 36 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+service levels. At the business area review meetings,
+the CEO, CFO, Group Controller and selected mem-
+bers of Group Management attend in addition to the
+respective business area management.
+
+The Board of Directors receives reports on operation-
+al performance on a monthly basis and at each regular
+Board meeting, the group’s operational and financial
+performance is presented in detail by the CEO and the
+CFO. The business area heads also regularly present
+their view on the business development to the Board.
+
+Performance management
+
+In order to outperform competition and reach challeng-
+
+ing goals, TeliaSonera is developing a high perfor-
+
+mance company culture. Setting individual objec-
+
+tives linked to strategic business goals and providing
+
+frequent feedback are crucial activities for managers
+
+at all levels. TeliaSonera has established a group-wide
+
+performance management model currently valid for the
+
+five highest management levels in the organization.
+The model, which aims to focus on TeliaSonera’s
+
+business objectives and to cascade them into the dif-
+
+ferent business areas, is designed to:
+
++ Help managers to set and cascade business objec-
+tives
+
++ Review individual performance
+
++ Develop and reward high performance
+
++ Address poor performance
+
+In TeliaSonera, performance is not only about what you
+achieve but also how you achieve your objectives, i.e.
+what kind of competences and behaviors the employee
+applies in order to reach results. A group-wide compe-
+tency framework is established that outlines successful
+leadership competences for different roles and levels.
+The framework offers support to leaders when provid-
+ing feedback to individuals on performance and on
+which competences to develop. In order to establish
+shared principles and expectations on competences
+and behaviors, TeliaSonera’s shared values are used as
+a platform for the evaluation of preferred behaviors.
+
+TeliaSonera’s performance management process is
+annual. The year starts with setting objectives and ends
+with a performance evaluation. Consequence manage-
+ment is applied, which means that high performance is
+rewarded and poor performance addressed. Perfor-
+mance has a direct impact on compensation as well as
+career- and development opportunities.
+
+The Board of Directors’ Remuneration Committee
+reviews the individual performance of Group Manage-
+ment members on a yearly basis.
+
+38
+
+Enterprise Risk Management
+
+Integrated risk management and governance
+
+Risk management is an integral part of the group’s
+operational activities, business planning process and
+monitoring of business performance. Risks that may
+pose a threat to achieving business objectives are
+identified, and measures are implemented to mitigate
+and monitor the identified risks. The aim is not only to
+focus on negative risks, but also to acknowledge that
+successful risk management is essential for grasping
+business opportunities and growth.
+
+ENTERPRISE RISK MANAGEMENT - LINES OF DEFENSE
+
+Risk
+management
+
+Compliance
+assessment
+
+Operational
+management
+
+practice
+Internal controls
+
+Revenue
+assurance
+
+The roles and responsibilities for operational risk
+management, monitoring and compliance as well as
+assurance activities are as follows:
+
++ The line organization has the ownership, responsibil-
+ity and accountability for assessing, controlling and
+mitigating risks
+
+The Risk Management Committee facilitates and
+monitors the implementation of effective risk man-
+agement practices within the operations as well as
+sets the reporting requirements and coordinates
+compliance assessments throughout the group
+
+The group internal audit function provides independ-
+ent assurance on effective corporate governance,
+internal controls and risk management procedures
+External parties, such as the external auditors and
+regulatory bodies provide assurance in relation to
+specific objectives and requirements, e.g. on the
+information presented in the consolidated financial
+statements or reported to the Swedish Financial
+Supervisory Authority
+
+According to the TeliaSonera Risk Management Policy,
+all TeliaSonera employees are responsible for acknowl-
+edging the risks that are taken as part of the daily work.
+Line management is responsible for implementing
+
+risk management in the ordinary line organization. To
+support line management, and enable a consistent risk
+view throughout the group, the risk management work
+has been divided into three function-based risk areas
+which are:
+
++ Business and Finance —- Group CFO
+
++ Sustainability - Head of Group Communications
+
++ IT and Security —- Group ClO
+
+
+--- Page 37 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+RISK MANAGEMENT - REPORTING AND GOVERNANCE
+
+Issue overall policy Board of Directors
+
+Audit Committee
+
+Monitor
+
+Delegate, execute
+
+Group Management
+
+BULOday ——
+
+Risk Management Committee
+
+Line organization
+
+Governance
+
+Issue instructions and
+guidelines, inform,
+educate, report
+(consolidated level)
+
+SS
+&
+Finance
+
+Identity, assess,
+monitor, implement
+measures, report
+
+The function-based risk areas are responsible for
+deciding on how to manage risks, i.e. issuing guide-
+lines regarding identification, mitigation, execution and
+reporting. The risk areas are also responsible for moni-
+toring risks as well as monitoring compliance assess-
+ments and reporting to the Chief Risk Officer (CRO).
+
+The CRO is responsible for coordinating and moni-
+toring the risk management processes in the group,
+monitoring the compliance with the group policy for
+risk management and reporting to Group Management
+and the Board of Directors. The CRO coordinates the
+work through the Risk Management Committee with
+members from Group Legal Affairs, Corporate Security,
+Sustainability and Group Internal Audit.
+
+Risk management process
+
+The main components of the risk management process
+are risk assessment, risk treatment and continuous
+monitoring. Formal procedures and processes are es-
+tablished within each function-based risk area and line
+management is responsible for follow-up on the agreed
+upon and reported risk treatment activities.
+
+RISK MANAGEMENT - PROCESS FLOW
+
+Risk assessment Risk treatment
+
+Risks to
+be treated
+
+Identify risk Accept risk
+
+Evaluate risk
+
+Continous monitoring
+
+Identify risk
+isk
+
+Analy:
+
+Threats/
+opportunities
+
+Risks/activities decided
+to be monitored
+
+Evaluate risk
+
+39
+
+Compliance evaluations and assessments shall be con-
+ducted proactively, repeatedly and timely by manage-
+ment in order to ensure that all employees are aware
+
+of and take steps to comply with the relevant require-
+
+ments. Compliance means conforming to both external
+
+and internal requirements such as the applicable legis-
+lation, commitments to international norms and internal
+policies, instructions and guidelines.
+
+In 2012, the function-based risk areas and the Risk
+
+Management Committee amongst others:
+
++ Conducted group-wide risk assessments to establish
+a baseline for further compliance work, e.g. Human
+Rights Impact Assessments
+
++ Initiated work to strengthen the compliance efforts,
+e.g. deciding on coordination of vendor audits and
+assessments
+
+The objective of the continuous risk management pro-
+cess is to regularly assess, treat and monitor business/
+finance, sustainability and IT/security risks that may
+harm the achievement of TeliaSonera’s objectives. The
+line organization is responsible for assessing, mitigat-
+ing and reporting risks. The reporting and follow-up is
+facilitated by each risk area. Quarterly, the CRO con-
+solidates risk reporting to Group Management and the
+Board of Directors. The consolidated report is divided
+into Financial, Business, Country, Legal and Regula-
+tory, and Sustainability risks.
+
+Business & Finance
+
+Aprocess exists to regularly identify business and
+financial risks that could lead to material misstatements
+of financial information. The risks are reported by each
+subentity and presented in quarterly business review
+meetings.
+
+Sustainability
+
+The Board of Directors has the overall responsibility for
+sustainability issues and the TeliaSonera Code of Ethics
+and Conduct. In operational terms, management at all
+levels is responsible for putting the Code into practice.
+At TeliaSonera group level, sustainability issues are the
+responsibility of the Head of Group Communications,
+who is amember of TeliaSonera Group Management.
+Function-related activities are managed by the Head of
+Sustainability, who reports to the Head of Group Com-
+munications.
+
+Sustainability risk management is integrated with
+the line organization. A sustainability risk is an event,
+uncertainty or threat scenario that might harm Telia-
+Sonera’s goal to be economically, environmentally and
+socially responsible throughout the business opera-
+tions. The risks are related to failing to e.g. respect hu-
+man rights, apply ethical business behavior, take care
+of the well-being of the employees, ensure customer
+privacy and freedom of expression as well as protect
+children online.
+
+
+--- Page 38 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Issues related to human rights, such as lawful intercep-
+tion, network shutdowns, content-blocking, per-
+
+sonal data-storing, government relations and license
+agreements, pose a high risk to the telecom industry.
+TeliaSonera is one of the initiators of an industry dia-
+logue established among telecoms companies for the
+purpose of developing guiding principles for actions to
+be taken when their operations might be used for viola-
+tions of freedom of expression and privacy.
+
+Risks may also arise from merger and acquisition
+(M&A) activities and the supply chain. To mitigate risks
+arising from M&A activities, TeliaSonera has devel-
+oped sustainability-related due diligence work, e.g. by
+improving risk assessments in relation to countries and
+potential business partners. The TeliaSonera Supplier
+Code governs sustainability work and acting in the sup-
+ply chain. To improve quality and efficiency of assuring
+adherence to the Code, TeliaSonera in 2012 engaged
+in the Joint Audit Cooperation (JAC) scheme for the ICT
+sector.
+
+Sustainability risk management is prioritized within
+three sub-risk areas: Privacy and Freedom of Expres-
+sion, Anti-corruption and Supply Chain. In 2013, the
+risk and compliance work will focus on improvements
+within all three areas.
+
+IT & Security
+
+Within IT and security, potential risks and threats are
+continuously identified and mitigated to ensure that
+TeliaSonera’s business strategies and objectives are
+not jeopardized due to security and IT risks.
+
+The risk and security work aims to control, facili-
+tate and implement well-balanced security measures
+throughout the operations. In TeliaSonera, security
+measures are characterized by appropriate security
+and risk awareness, prevention, preparedness, and the
+ability to respond to, and recover from, incidents and
+changes in the environment. Products, services, and
+key strategic and operational processes must continu-
+ously, throughout their life cycles, undergo thorough
+analysis to identify risks and threats affecting the busi-
+ness. The analysis aims to guide decision making and
+ensure proper implementation of measures to meet
+compliance and balance risk exposure.
+
+Details about risks and uncertainties
+
+Risks and uncertainties related to business, sustain-
+ability and shareholder issues are further described in
+Note C35 and financial risks in Note C27 to the consoli-
+dated financial statements.
+
+Internal Controls over Financial Reporting
+
+In accordance with the Swedish Companies Act and
+the Swedish Corporate Governance Code, the Board
+of Directors is responsible for internal controls over
+financial reporting. The Board continually reviews the
+performance of internal controls and initiates activities
+to foster continuous improvement of internal controls.
+
+40
+
+TeliaSonera’s risk management framework includes
+internal controls over financial reporting, and is in line
+with the COSO framework for internal controls. It con-
+sists of interrelated areas, which are control environ-
+ment, risk assessment, control activities, information
+and communication, and monitoring.
+
+Internal control is an integral part of TeliaSonera’s
+corporate governance and enterprise risk management
+which involves the Board of Directors, executive man-
+agement and other employees. It is a process which
+includes methods and processes to:
+
++ Safeguard the group’s assets
+
++ Ensure the reliability and correctness of financial
+reporting
+
++ Secure compliance with applicable legislation and
+guidelines
+
++ Ensure that objectives are met and continuous im-
+provement of operational efficiency
+
+The objective for TeliaSonera’s financial reporting is to
+be in line with the highest professional standards and to
+be full, fair, accurate, punctual and understandable.
+
+Control environment
+The most essential parts of TeliaSonera’s control
+environment are the group policies. Management at
+all levels is responsible for ensuring that group poli-
+cies and requirements are implemented and applied.
+Group-wide controls exist and are reviewed on an an-
+nual basis. The purpose of the group-wide controls is to
+ensure that the organization complies with Delegation
+of obligation and authority, financial policies and the
+reporting framework.
+Management at each business unit or corporate
+function is responsible for ensuring that:
++ Monthly and quarterly financial statements comply
+with TeliaSonera’s accounting policies
++ Financial reports are delivered on time
++ Sufficient internal controls exist and are performed
++ Required reconciliations are properly done
++ Material business and financial risks are identified
+and reported
+
+The TeliaSonera financial shared services unit supports
+harmonized and standardized financial accounting pro-
+cesses and controls across large wholly-owned units.
+
+Risk assessment
+
+TeliaSonera has a risk based approach towards internal
+controls over financial reporting. As described in sec-
+tion “Enterprise Risk Management,” the management
+of risks relating to the financial reporting is incorpo-
+rated in the risk management framework, risk area
+Business & Finance. As such, assessment and man-
+agement of risks that may result in inaccurate finan-
+cial reporting is a natural part of the daily work. Risk
+assessments are performed both from a top-down and
+bottom-up perspective.
+
+
+--- Page 39 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Control activities
+
+All business processes across TeliaSonera include
+controls regarding the initiation, approval, recording
+and accounting of financial transactions. Major pro-
+cesses, including related risks and key controls (also IT
+controls), are described and documented in a common
+and structured way. Controls are either automated or
+manual and designed to ensure that necessary actions
+are taken to either prevent or detect material errors
+
+or misstatements and to safeguard the assets of the
+company. Controls for the recognition, measurement
+and disclosure of financial information are included in
+the financial closing and reporting process, including
+controls for IT applications used for accounting and
+reporting.
+
+Information and communication
+
+Instructions, guidelines and requirements regarding
+accounting and reporting as well as performing internal
+controls are made accessible to all relevant employees
+through the use of TeliaSonera’s regular internal com-
+munication channels. In recent years, staff at group
+level has also significantly increased internal training
+activities to ensure harmonization within important
+areas such as revenue recognition, distinction between
+capital and operating expenditure, etc.
+
+Business operations performance metrics are
+reported monthly and the results for all entities are
+shared with all business unit managers and their man-
+agement teams. The sharing gives a good opportunity
+for benchmark and learning within the group.
+
+TeliaSonera promotes an open, honest and trans-
+parent flow of information, especially regarding the per-
+formance of internal controls. Control performers are
+encouraged to disclose any problems concerning their
+controls in the monthly reporting, so that any problem
+can be taken care of before it, possibly, causes errors
+or misstatements.
+
+Monitoring of control activities
+TeliaSonera has implemented a structured monthly
+process for the monitoring of the performance of
+internal controls. This process includes all major busi-
+ness units, business areas and corporate functions and
+consists of a self-assessment of the performance of all
+controls in the group. A risk-based testing of key con-
+trols is carried out on behalf of management in order to
+assess the quality of the internal controls.
+
+The results of the monitoring and testing activities
+are communicated to all relevant business units as
+well as to the Audit Committee. The Audit Committee
+receives reports directly from both external and internal
+auditors. The reports are discussed and follow-up
+observations are made by the committee. Both the
+external and internal auditors are represented at the
+committee meetings. At least once a year, the entire
+Board of Directors meets with the external auditors, in
+part without the presence of management.
+
+a
+
+Control Activities in Business Operations
+
+The purpose of internal controls over business opera-
+tions is to monitor and support the development within
+TeliaSonera’s corporate strategic focus areas. The
+monitoring of business operations performance is
+supported by defined metrics measurements; the Six
+Sigma framework. The metrics measure, amongst oth-
+ers, performance in networks and customers’ experi-
+ence with TeliaSonera.
+
+Monthly, the Board of Directors receives a summary
+of metrics measures by business unit.
+
+Six Sigma is a systematic problem solving methodol-
+ogy that utilizes a broad set of statistical tools to meas-
+ure, analyze and improve a company’s operational
+performance, practices and systems. Lean Six Sigma
+focuses on identifying waste and defects in opera-
+tions by means of statistical analysis. It also focuses on
+finding out and removing the root causes of problems.
+At the end of 2012, TeliaSonera had altogether more
+than 60 certified Six Sigma black belts and 370 green
+belts. During 2012, 13 green belt courses and 1 black
+belt course were arranged and as a result 93 new green
+belts and 4 new black belts were certified.
+
+SIX SIGMA
+
+Remove the root cause
+and hold the gain
+
+Peine ) Measure Analyze ) ee r=
+
+Understand the problem
+
+Define Measure & Analyze Implement Establish
+what Current performance levels improvement _ control
+business for fact-based decision actions in the mechanisms
+problem making on actions to line organization to hold the
+to solve remove root cause across the achieved gain
+relevant function
+IT Governance Approach
+
+The TeliaSonera IT strategy was further developed
+during 2012. The IT strategy stipulates how IT shall en-
+able business success, in particular when addressing
+business demand for improved customer experience,
+business growth, cost efficiency and the One TeliaSon-
+era approach.
+
+IT supply is managed through four strategic focus
+areas, as follows:
++ Improve customer experience
++ Provide agile and speedy IT services
++ Improve operational efficiency
++ One IT service company
+
+IT Governance stipulates the governing bodies with
+their roles and responsibilities in TeliaSonera, enabling
+one common decision and efficient communication.
+
+
+--- Page 40 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+IT GOVERNANCE BODIES AND THEIR RESPONSIBILITIES
+
+Board of Directors
+Business IT Board
+
+Chief Information Officer
+
+Common area Steering Groups,
+Business area Steering Groups
+
+Common Proj
+in line with IT Ro
+
+The Business IT Board consists of the members of
+Group Management. There are common area steer-
+ing groups for the areas Enterprise, Customer and
+Common IT. One of these, the Enterprise Area Steer-
+ing Group, which is chaired by the CFO, shall focus
+on the overall process governance and development
+roadmap. Two of the business area steering groups
+are the Mobility Product Steering Committee and the
+Broadband Development Steering Committee. As an
+example, the Mobility Product Steering Committee
+shall monitor and manage the business area’s all global
+and local product/offering- and process projects.
+
+Group Internal Audit
+
+The internal audit function reviews the group opera-
+tions and makes proposals aiming at improving internal
+control environments as well as efficiency in processes
+and systems. Through operational reviews, a system-
+atic, disciplined approach to evaluate and improve the
+effectiveness of governance is achieved. The Eurasian
+operations are an important part of the audit scope,
+including on-site reviews with focus on revenue assur-
+ance, processes and governance.
+
+The work of group internal audit is defined in the
+annual audit scope. The audit scope determines the
+priorities and is also aligned with the business plan and
+strategy in order to consider the overall business objec-
+tives and risks. The audit scope is approved by the
+Audit Committee and presented to the external auditors
+on an annual basis. The detailed internal audit assign-
+ments, within the audit scope, are defined on a quarter-
+ly basis. The quarterly audit assignments are discussed
+with the external auditors in order to identify areas for
+mutual reliance and to avoid duplicate work.
+
+The Head of Group Internal Audit reports adminis-
+tratively to the CEO and CFO, and in addition, function-
+based also to the Audit Committee on a quarterly basis.
+The results from each specific audit assignment are re-
+ported to the line manager responsible for the audited
+area or unit, and in addition to the relevant function-
+related area manager and to the external auditors.
+
+42
+
+The Head of Group Internal Audit is also responsible,
+together with two external members acting within the
+Equality of Access Board, for overseeing developments
+in relation to equal treatment of internal and external
+wholesale customers in Sweden.
+
+Auditors
+
+Number of auditors and duties
+
+According to its Articles of Association, TeliaSonera
+AB shall have no less than two and no more than three
+auditors and no more than the same number of deputy
+auditors. The Annual General Meeting can also appoint
+only one auditor, if the auditor in question is a public
+accounting firm. The auditors report to the sharehold-
+ers at General Meetings. The duties of the auditors
+include:
+
+Updating the Board of Directors on the planning,
+scope and content of the annual audit
+
+Examining financial statements to assess accuracy
+and completeness of the accounts and adherence to
+applicable financial reporting standards
+
+Advising the Board of Directors of non-audit services
+performed, the consideration paid and other issues
+determining the auditors’ independence
+
+The auditors submit a report to the Audit Committee
+and Group Management on TeliaSonera’s quarterly
+financial statements and issue a review report on the
+third quarter consolidated financial statements. For
+further information on the contacts between the Board
+and the auditors, see sections “Board of Directors” and
+“Internal Controls over Financial Reporting.”
+
+Current auditors and fees
+At the Annual General Meeting 2012, Pricewaterhouse-
+Coopers AB was re-elected as auditor until the end of
+the Annual General Meeting 2013. Pricewaterhouse-
+Coopers AB has appointed Anders Lundin (born 1956),
+Authorized Public Accountant, and Jeanette Skoglund
+(born 1958), Authorized Public Accountant, to serve as
+auditors, with Anders Lundin as the auditor in charge.
+PricewaterhouseCoopers AB is often engaged by Telia-
+Sonera’s largest shareholder, the Swedish State, for
+both audit and advisory services. Anders Lundin is also
+auditor of AarhusKarlshamn AB, AB Electrolux, Hus-
+qvarna AB, Melker Schérling AB and Svenska Cellulosa
+AB SCA. Jeanette Skoglund is also auditor of Ratos AB.
+Neither Anders Lundin nor Jeanette Skoglund holds
+any shares in TeliaSonera AB.
+
+For information on fees paid for audit-related and
+other services, see Note C33 to the consolidated finan-
+cial statements.
+
+
+--- Page 41 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Board of Directors
+
+b
+=
+
+Anders Narvinger
+
+(Born 1948)
+
+Chairman of the Board of Directors.
+Elected to the Board in 2010. He
+
+is Chairman of the Remuneration
+Committee of TeliaSonera and a
+member of the Audit Committee.
+Mr. Narvinger has been CEO of
+Association of Swedish Engineering
+Companies and he has previously
+also served as President and CEO
+of ABB AB ands Chairman of the
+Boards in Trelleborg AB, Alfa Laval
+‘AB, Coor Service Management AB
+and Capio AB. He is also a board
+member of JM AB, Pernod Ricard
+S.A. and AF AB. Mr. Narvinger holds
+a Master of Science in Engineering
+and a Bachelor of Science in Busi-
+ness and Economics.
+
+Shares in TeliaSonera: 20,000.
+
+Olli-Pekka Kallasvuo
+(Born 1953)
+
+Elected to the Board of Directors
+in 2012. Mr. Kallasvuo was CEO
+and board member of Nokia Oyj
+from 2006 to 2010. Previously, he
+held various executive positions
+at Nokia, including the positions
+of COO, CFO, Head of Mobile
+Phones Division and Head of Nokia
+Americas. Mr. Kallasvuo is today
+Vice-Chairman of SRV Group Plc.
+and he is also a board member of
+Aperios Group, Zenterio AB and
+
+Foundation for Economic Education.
+
+Mr. Kallasvuo holds a Master of Law
+and an honorary doctorate.
+Shares in TeliaSonera: 35,896.
+
+Timo Peltola
+
+(Born 1946)
+
+Vice-Chairman of the Board of Direc-
+tors. Elected to the Board in 2004.
+He is a member of the Remunera-
+tion Committee of TeliaSonera. In
+addition, Mr. Peltola is a board
+member of SAS AB, AW-Energy Oy
+and Securities Market Association.
+He is also a member of the Advisory
+Boards of CVC Capital Partners
+‘Svenska AB and Citigroup Nordic.
+Mr. Peltola served as President and
+CEO of Huhtamaki Oyj between 1989
+and 2004. Mr. Peltola holds a Doctor
+degree in Economics he.
+
+Shares in TeliaSonera: 7,140.
+
+Lars Renstrém
+
+(Born 1951)
+
+Elected to the Board of Directors
+
+in 2009. He is a member of the
+Remuneration Committee of Telia-
+Sonera. Mr. Renstrém is since 2004
+President and CEO of Alfa Laval AB.
+He has previously served as Presi-
+dent and CEO of Seco Tools AB and
+has held several senior managerial
+positions within Atlas Copco AB,
+Telefonaktiebolaget LM Ericsson
+and ABB AB. Mr. Renstrém is the
+Chairman of the Board of ASSA
+ABLOY AB and a board member of
+Alfa Laval AB. Mr. Renstrém holds
+a Master of Science in Engineering
+and a Bachelor of Science in Busi-
+ness and Economics.
+
+Shares in TeliaSonera: 10,000.
+
+43
+
+Maija-Liisa Friman
+
+(Born 1952)
+
+Elected to the Board of Directors in
+2007. She is Chairman of the Audit,
+Committee of TeliaSonera. Ms.
+Friman is Chairman of the Boards
+of Ekokem and Helsinki Deacon-
+ess Institute and Vice-Chairman
+
+in Neste Oil Oyj. In addition, she
+
+has board assignments in Finnair
+Oyj and LKAB. She is also a board
+member and partner of Boardman
+Oy. Previously Ms. Friman was CEO
+of Aspocomp Group Oyj. Ms. Friman
+holds a Master of Science in Chemi-
+cal Engineering.
+
+Shares in TeliaSonera: 5,597.
+
+Jon Risfelt
+
+(Born 1961)
+
+Elected to the Board of Directors
+
+in 2007. He is a member of the
+Audit Committee of TeliaSonera.
+
+In addition, Mr. Risfelt holds board
+assignments in Ortivus AB, Bilia AB,
+Braganza AS, including Chairman in
+its subsidiary Ticket Business Travel
+AB, and Vanna AB. He has earlier
+served as CEO of Europolitan AB,
+Nyman & Schultz AB and Gambro.
+Renal. He has held various manage-
+rial positions within the American Ex-
+press Group, Scandinavian Airlines
+and Ericsson. Mr. Risfelt holds a
+Master of Science in Chemical
+Engineering.
+
+Shares in TeliaSonera: 10,000.
+
+Ingrid Jonasson Blank
+(Born 1962)
+
+Elected to the Board of Directors in
+2010. She is a member of the Audit
+Committee of TeliaSonera. Ms.
+Jonasson Blank has been Executive
+Vice President of ICA Sverige AB and
+has held a number of managerial po-
+sitions in the ICA Group. She is also
+a board member of Bilia AB, Fiskars
+Oy, ZetaDisplay AB, Forex Bank AB,
+TravelSupport AB, Ambea Group and
+Hellefors Bryggeri AB. Ms. Jonasson
+Blank holds a Bachelor of Science
+
+in Business Administration and
+Economics.
+
+Shares in TeliaSonera: 1,000.
+
+Per-Arne Sandstr6m
+(Born 1947)
+
+Elected to the Board of Directors in
+2010. He is a member of the Remu-
+neration Committee of TeliaSonera.
+Mr. Sandstrém has been deputy
+CEO and Chief Operating Officer of
+Telefonaktiebolaget LM Ericsson
+and has held a number of manage-
+rial positions in the Ericsson Group.
+He is a board member of SAAB AB.
+Mr. Sandstrém studied engineering.
+Shares in TeliaSonera: 400.
+
+
+--- Page 42 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Board of Directors
+
+Agneta Ahlistr6m
+
+(Born 1960)
+
+Employee representative, ap-
+pointed by the trade union to the
+Board of Directors in 2007. Ms.
+Anistrém is Chairman of Swedish
+Union for white-collar workers in the
+private labour market, Telecom-
+
+munications section (Unionen-Tele).
+
+Previously, she was Chairman of the
+section of SIF-TELE at TeliaSonera
+International Carrier.
+
+Shares in TeliaSonera: 200.
+
+Deputy employee representatives
+
+Magnus Brattstr6m
+
+(Born 1953)
+
+Employee representative, appointed
+by the trade union to the Board of
+Directors in 2009. Mr. Brattstrém is
+Chairman of Union of Service and
+Communication Employees within
+TeliaSonera, SEKO klubb TeliaSon-
+era, and a member of the European
+Work Council at TeliaSonera. He is
+also a board member of Telia Pen-
+sion Fund.
+
+Shares in TeliaSonera: 20.
+
+Stefan Carlsson
+
+(Born 1956)
+
+Employee representative, ap-
+pointed by the trade union to the
+Board of Directors in November
+2009. Mr. Carlsson is deputy
+Chairman of the Swedish Union for
+white-collar workers in the private
+labour market, Telecommunications
+section (Unionen-Tele) and member
+of the federal board of Unionen.
+Previously, he was second deputy
+Chairman of SIF and Unionen.
+Shares in TeliaSonera: 650.
+
+Marianne Johansson (born 1957), Unionen-Tele. Shares in TeliaSonera: 1,500.
+Arja Kovin (born 1964), Unionen-Tele. Shares in TeliaSonera: 0.
+Peter Wiklund (born 1968), SEKO klubb TeliaSonera. Shares in TeliaSonera: 0.
+
+Information on the members of the Board of Directors is also available at www.teliasonera.com/Corporate-Governance
+Shares in TeliaSonera include shareholdings by spouse and/or affiliated persons when appropriate. Holdings as of the publication date of this Annual Report.
+‘The information is regularly updated at www.teliasonera.com/Insiders
+
+Remuneration and other benefits during 2012, attendance and number of shares
+
+Elected
+Name year
+Anders Narvinger 2010
+Timo Peltola 2004
+Maija-LiisaFriman 2007
+Ingrid Jonasson Blank 2010
+Olli-Pekka Kallasvuo? 2012
+Conny Karlsson’ 2007
+Lars Renstrém 2009
+Jon Risfelt 2007
+Per-Arne Sandstrém 2010
+Agneta Ahistrém 2007
+Magnus Brattstrém 2009
+Stefan Carlsson 2009
+
+Independent’ Position
+
+Chairman of the Board and
+Chairman of the Remunerat
+
+Presence
+board
+
+meetings _Committee
+
+ition Remuneration
+
+Yes Committee WNT Audit
+Yes Vice-Chairman of the Board 17/17 Remuneration
+Director and Chairman of the
+
+Yes Audit Committee WNT Audit
+Yes Director wT Audit
+Yes _ Director 12/13
+Yes _ Director 3/4 Audit
+Yes _ Director 15/17 Remuneration
+Yes _ Director wT Audit
+Yes _ Director 15/17 Remuneration
+
+- Employee Representative wT
+
+- Employee Representative 13/17
+
+- Employee Representative 15/17
+
+* Independent in relation to the company, the administration of the company and to major shareholders.
+2 Member of the Board of Directors since April 3, 2012.
+8 Member of the Board of Directors until April 3, 2012.
+
+See also Note C32 to the consolidated financial statements.
+Information on the members of the Board of Directors is also available at www.teliasonera.com/Corporate-Governance
+Shares in TeliaSonera include shareholdings by spouse and/or affiliated persons when appropriate. Holdings as of the publication date of this Annual Report.
+‘The information is regularly updated at www.teliasonera.com/Insiders
+
+Total
+
+Presence remuneration
+committee and benefits
+
+meetings
+
+9/9
+6/6
+9/9
+
+6/6
+4/4
+
+2/2
+9/9
+6/6
+9/9
+
+(SEK)
+
+1,255,020
+485,004
+
+600,000
+525,006
+334,650
+142,040
+485,004
+550,008
+485,004
+
+Shares
+in Telia-
+Sonera
+
+20,000
+7,140
+
+5,597
+1,000
+35,896
+
+10,000
+10,000
+400
+200
+20
+650
+
+
+--- Page 43 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Group Management
+
+Lars Nyberg
+
+(Born 1951)
+
+President and Chief Executive Officer
+since 2007. Mr. Nyberg is also Chair-
+man of DataCard Corp. and Autoliv
+Inc. and a board member of OAO.
+MegaFon', GSMA and the University
+of Stockholm. Between 1995 and
+2003 he was Chairman and CEO
+
+of NCR Corp, where he continued
+
+as Chairman until 2005. Previously,
+Mr. Nyberg held several manage-
+rial positions in Philips, and was a
+member of Philips Group Manage-
+ment Committee. Mr. Nyberg holds
+a Bachelor of Science in Business
+Administration.
+Shares in TeliaSonera: 50,0002.
+
+Mr. Nyberg resigned from his
+position as President & CEO on
+February 1, 2013.
+
+Cecilia Edstr6m
+
+(Born 1966)
+
+Senior Vice President and Head of
+Group Communications since May
+2008. Previously, Ms. Edstrom was
+Senior Vice President and Head of
+Corporate Relations at Scania AB,
+where she held a number of senior
+Positions since 1995. Ms. Edstr6m
+started her career in corporate fi-
+nance at SEB in 1989. She is a board
+member of OAO MegaFon and BE
+Group AB. Ms. Edstrém holds a
+Bachelor of Science in Finance and
+Business Administration.
+
+‘Shares in TeliaSonera: 2,800°.
+
+Per-Arne Blomquist
+
+(Born 1962)
+
+Executive Vice President and Chief
+Financial Officer of TeliaSonera
+since September 2008. Prior to.
+joining TeliaSonera, Mr. Blomquist
+was Executive Vice President and
+CFO of SEB, from 2006, and Head
+of Group Finance of SEB between
+2001 and 2006. Between 1997 and
+2000 he held various positions at
+Telia, e.g. as managing director of
+Telia Féretag. Mr. Blomquist started
+his career at Alfa Laval AB in 1989.
+He is a board member of Lernia AB
+and Djurgarden Hockey AB. Mr.
+Blomquist holds a Bachelor of Sci-
+ence in Business Administration and
+Economics.
+
+Shares in TeliaSonera: 50,300.
+
+Mr. Blomquist was appointed
+acting President & CEO on
+February 1, 2013.Mr: Christian
+Luiga, Head of Corporate Control,
+was appointed acting CFO and
+member of Group Management on
+February 6, 2013.
+
+Karin Eliasson
+
+(Born 1961)
+
+Senior Vice President and Head
+
+of Group Human Resources since
+2008. Prior to joining TeliaSonera,
+Ms. Eliasson was Senior Vice Presi-
+dent Human Resources at Svenska
+Cellulosa Aktiebolaget, SCA and
+before that CEO of Novare Human
+Capital AB and Vice President Or-
+ganizational Development at Stora
+Enso AB. She is a board member
+of Turkcell lletisim Hizmetleri A.S.
+Ms. Eliasson holds a Bachelor of
+Science in Human Resource.
+Shares in TeliaSonera: 2,100.
+
+Jan Henrik Ahrnell
+
+(Born 1959)
+
+Senior Vice President, General
+Counsel and Head of Group Legal
+Affairs since 1999. He has been em-
+ployed by TeliaSonera since 1989.
+Prior to serving as General Counsel,
+Mr. Ahrnell was the head of various
+legal departments within the Telia-
+Sonera Group and served as corpo-
+rate counsel in various TeliaSonera
+companies. He is a board member
+of Swedish IT & Telecom Industries.
+Mr. Ahrnell holds a Master of Law.
+Shares in TeliaSonera: 12,000.
+
+Malin Frenning
+
+(Born 1967)
+
+President of business area Broad-
+band Services since January
+
+2011 and previously deputy since
+February 2010. Ms. Frenning has
+more than ten years of experience
+from senior managerial positions
+
+in TeliaSonera with specific focus
+
+on the carrier business, interna-
+tional business strategy and product
+management. Ms. Frenning holds
+
+a Master of Science in Mechanical
+Engineering and is Honorary Doctor
+of Technology at Lulea University of
+Technology.
+
+Shares in TeliaSonera: 400.
+
+45
+
+Robert Andersson
+
+(Born 1960)
+
+President and Chief Executive
+Officer of Sonera in Finland since
+May 2012. Prior to joining Telia-
+Sonera, Mr. Andersson held several
+managerial positions within Nokia in
+different international business and
+support roles, including Executive
+Vice President of Customer and
+Market Operations, Executive
+
+Vice President, Devices Finance,
+‘Strategy and Sourcing and Senior
+Vice President Corporate Alliances
+and Business Development. He is
+a board member of Enea AB. Mr.
+Andersson holds a Master of Sci-
+ence in Economics and a Master in
+Business Administration.
+
+Shares in TeliaSonera: 10,000.
+
+Sverker Hannervall
+
+(Born 1960)
+
+Senior Vice President and Head of
+sales division Business Services in
+Sweden and Finland since 2008.
+Between 2004 and 2008 he was
+General Manager of Cisco Systems
+in Sweden. Previously, Mr. Han-
+nervall was President and CEO of
+Trio AB and prior to that Executive
+Vice President of Telelogic AB.
+Between 1984 and 1997 he held
+various managerial positions at IBM.
+Mr. Hannervall holds a Master of
+Science in Engineering.
+
+Shares in TeliaSonera: 0.
+
+
+--- Page 44 ---
+
+TeliaSonera Annual Report 2012
+
+> Corporate Governance Statement
+
+Group Management
+
+Tero Kivisaari
+
+(Born 1972)
+
+President of business areas Mobility
+Services (since 2012) and Eurasia
+(since 2007). Mr. Kivisaari was
+previously Chief Financial Officer
+and Vice President of business area
+Eurasia. Mr. Kivisaari has also been
+CFO of SmartTrust AB. Before that
+he held the position of Vice Presi-
+dent of Sonera Oy/’s International
+Operations. He is a board member
+of Turkcell letisim Hizmetleri A.S.,
+Fintur Holdings B.V. and Nurminen
+Logistics Oyj. Mr. Kivisaari holds
+Master Degrees in Science and
+Economics.
+
+Shares in TeliaSonera: 0.
+
+Mr. Veysel Aral, CEO of AO Kcell
+and Regional Head of Central
+
+Asia, was appointed President of
+business area Eurasia and member
+of Group Management on
+February 6, 2013.
+
+Ake Sédermark
+
+(Born 1954)
+
+Senior Vice President and Chief
+Information Officer at TeliaSonera
+since December 2008. Prior to
+joining TeliaSonera, Mr. Séder-
+mark was Senior Vice President at
+NASDAQ OMX Group and since
+2005 Head of Development at OMX
+Market Technology. Between 1997
+and 2005 he held various manage-
+tial positions at Atos Origin and at
+SEB IT between 1984 and 1997. Mr.
+‘Sédermark started his career at VPC
+(Swedish Central Security Deposi-
+tory) and his educational back-
+ground is in computer technology.
+Shares in TeliaSonera: 6,000.
+
+1 As of December 31, 2012, Mr. Nyberg held 100,000 shares in OAO MegaFon
+
+? By way of pension insurance
+® Partly by way of pension insurance
+
+Information on the members of Group Management is also available at www.teliasonera.com/Corporate-Governance
+Shares in TeliaSonera include shareholdings by spouse and/or affiliated persons when appropriate. Holdings as of the publication date of this Annual Report.
+‘The information is regularly updated at www.teliasonera.com/Insiders
+
+Remuneration and other benefits during 2012,
+capital value of pension commitments
+
+Total Capital value
+Base Other Other Pension remuneration of pension
+
+SEK salary _remuneration benefits expense __andbenefits _ commitment
+
+Lars Nyberg, CEO 10,504,008 3,064,776 81,727 9,046,776 22,697,287 =
+
+Per-Arne Blomquist, EVP 5,278,524 2,247,356 86,195 2,006,984 9,619,059 -
+
+Other members of Group
+
+Management (8 individuals) 25,254,661 8,496,848 678,360 10,291,669 44,721,538 16,355,779
+
+See also Note C32 to the consolidated financial statements and the Board of Directors’ Report (Remuneration to Executive Management).
+
+46

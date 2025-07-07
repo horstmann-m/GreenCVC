@@ -1,0 +1,642 @@
+
+
+--- Page 1 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Consolidated Management Report for the year ended December 31, 2021
+(In thousands of euros)
+
+THE SPANISH ECONOMY IN 2021
+
+After the global economic debacle that occurred in 2020 as a result of the pandemic, 2021 was
+destined to be the year of recovery, but the truth is that due to the subsequent covid waves
+throughout the year, the rebound effect has been more moderate than initially expected.
+Indeed, the preliminary data currently available (e.g. the International Monetary Fund in its
+latest forecast report) point to a 5.9% increase for the year, which is not sufficient to
+compensate for the previous year's decline. By regions, the United States is thought to have
+grown by 5.6%, primarily as a result of the extraordinary fiscal stimulus aimed at supporting
+domestic demand in addition to the expansionary monetary policy that has been in place for
+almost a decade.
+
+With regard to Europe, the IMF forecasts put the year-on-year growth at 5.2%, while for Spain,
+although there is a difference in the preliminary data, the IMF, as well as Funcas, forecasts
+4.9% growth, a figure far from the GDP decline that was experienced in 2020, which exceeded
+10.8%. According to the same source, France would post a 6.7 per cent GDP growth, Italy 6.2
+per cent and Germany, which is lagging behind, a meagre 2.7 per cent.
+
+After a long period of declining prices, inflationary pressures have emerged as a
+macroeconomic novelty in 2021. The most common explanation for this phenomenon is related
+to both the rise in energy commodities and the bottlenecks in the supply of both final and,
+especially, intermediate goods, as a consequence of the lockdowns and restrictions that
+countries have suffered globally and, in particular, those that manufacture components for
+production processes and supply chains. The effect has been felt particularly strongly in the
+automotive sector, as will be discussed in the section on the advertising market evolution.
+
+These inflationary trends have been very evident in the United States, where they have
+reached levels above 6% on a year-on-year basis. As far as Europe is concerned, the figure
+for the end of 2021 on a year-on-year basis is 5%, while in Spain the figure was set at 6.5%,
+following an accelerated upward movement that began in the second half of the year.
+
+The best macroeconomic data of the year undoubtedly came from the employment sector, with
+an unemployment rate that, according to Funcas, averaged 15.1% for the year and effective
+Social Security enrolment which, at year-end, was above pre-pandemic levels.
+
+With regard to the foreseeable evolution of both the world and Spanish economies in 2022,
+obviously, and similarly to this time last year when the economy was in the final stages of the
+fourth wave of covid, all projections will be based on the hypotheses that are considered in
+relation to the evolution of the omicron variant and of future strains, as well as the possibilities
+of the pandemic phenomenon becoming endemic. Once again, forecasts vary from one source
+to another although, focusing on the IMF's most recent estimates, the central scenario, slightly
+more negative than in its previous forecast, would be a growth of 4.4% at a global level, i.e.
+one and a half points below that seen in 2021, a situation that would affect most economies,
+with the United States growing by 4% compared with 5.6% last year and the European Union
+by 3.9% (5.2% in 2021), while Spain would be one of the few exceptions, with an expected
+growth rate (5.8%) higher than in 2021.
+
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+98
+
+
+--- Page 2 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+The evolution of inflation will continue to be closely monitored in view of the unusually high
+levels reached at the date this Management Report was prepared. In Spain, according to the
+Bank of Spain, price pressures should ease in 2022 due to both the reduction in the base and
+the partial reversal of the increase in energy prices that the futures markets point towards so,
+although there would be an upturn from 3% in 2021 to 4% this year in terms of annual
+averages, there would be a gradual slowdown, especially in the second half of the year, which
+would bring it to under 2% by year-end.
+
+Another element to closely monitor throughout the year, which is intrinsically correlated with
+the evolution of the price index, is the European Central Bank's monetary policy, which could
+be inclined to embark on a more restrictive path both in the event that inflation levels persist at
+higher than expected and as a more or less mirrored reaction to the 2022 rate hike announced
+by the US Federal Reserve.
+
+ORGANISATIONAL STRUCTURE
+
+The corporate purpose of Mediaset Espafia Comunicacién, S.A., parent company of the
+Consolidated Mediaset Espafia Group, is the indirect management of a public television
+service. At 31 December 2021, it was commercially operating seven television channels
+(Telecinco, Factoria de Ficcién, Boing, Cuatro, Divinity, Energy and Be Mad). It is also the
+parent company of a Group of companies known as the Grupo Mediaset Espana
+Comunicaci6n.
+
+The distribution of the Parent Company’s share capital at year end 2021 and 2020 was as
+follows:
+
+2021 2020
+Owner ownership ownership
+%. %
+MFE-MediaForEurope N.V. 55.69 53.26
+Market 44.31 42.38
+Treasury shares - 4.36
+Total 100.00 100.00
+
+Traditionally, the Group's activities have focused mainly on the exploitation of advertising on
+the Company's TV channels, and in recent years it has expanded into activities that are
+complementary and linked to the traditional TV business, such as:
+
+- Audiovisual production
+
+- Distribution of content
+
+- Sale of digital advertising
+
+- Exploitation of an OTT Platform
+
+99
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 3 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+THE TELEVISION BUSINESS IN 2021
+
+The free-to-air television business in 2021, like the rest of the country's economic activities,
+has been strongly influenced by the evolution of the successive waves of the
+pandemic. Generally speaking, business improved gradually from the beginning of the year,
+when the effects of the fourth wave were still being felt, and as the vaccination process
+progressed and social restrictions were being lifted, a process of normalisation became evident
+from the second quarter onwards, which, generally speaking and with some ups and downs,
+lasted until the end of the year, precisely when the sixth wave began.
+
+With regard to the advertising market situation, which still accounts for a significant part of the
+Group's revenue base, although it is clearly decreasing due to the momentum of new business,
+according to data from the Infoadex consultancy firm, advertising investment increased by
+8.3% in the year to 1,776 million euros, a figure that shows, similarly to what we saw in 2020,
+that advertising activity became closely correlated with the evolution of the pandemic, in such
+a way that advertisers started to contract campaigns again when they observed the slightest
+signs of normalisation in citizens consumption habits. In any case, the distribution of the
+television recovery between the different sectors has been far from homogeneous throughout
+the year, which has produced divergent relative situations between them at different points in
+the year. In this regard, special mention should be made of the automotive sector
+performance, which, especially from September onwards, began feeling the impact of the lack
+of components and manufacturing parts, all of which led to a generalised disruption of
+production lines and, ultimately, to the virtual elimination of its advertising campaigns, a
+situation which, at the date this Management Report was prepared, has not yet returned to
+normal, although it is expected to do so in the coming months.
+
+Regarding TV advertising data for the different operators, as of 31 December, Infoadex data
+show that the Group accounted for 43.2% of total TV advertising, marking a difference of 2.8
+points with its main competitor. Our record for the year is in percentage terms identical to that
+of the previous year.
+
+As for the audiovisual advertising market, which includes TV plus digital (excluding search
+engines), the increase in 2021 compared to 2020 was 12.9%, according to Infoadex data.
+
+In terms of audience, the figures for the year (always in terms of Total Day) show that our
+Group continues to be the global leader with an audience share of 28.2% and a difference of
+0.9 points with our main competitor.
+
+Telecinco has once again led the audience with 14.9%, 1.1 points behind its main competitor,
+while Cuatro reached 5.3% and the rest of the Group's thematic channels 8.1%, which is a 1
+point difference with respect to that of its main competitor's thematic channels.
+
+Comparing the Group's results in 2021 with those of 2020, the following can be seen:
+
+e Net turnover increased from 836,647 thousand euros to 876,337 thousand euros,
+primarily as a result of the increase in advertising sales.
+
+100
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 4 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+¢ Operating expenses rose from 606,122 thousand euros to 651,043 thousand euros, an
+increase which can be explained by the normalisation of the advertising business in the
+year compared to the unusual year that was 2020 when, especially during the lockdown
+period, costs were radically reduced, as well as the impact of the 2020 European
+Football Championship which took place in 2021.
+
+¢ Finally, the Parent Company's net result for 2021 is 181,031 thousand euros compared
+to 178,731 thousand euros in 2020.
+
+In January 2021, the Group acquired a 3.43% stake in Prosieben Sat in addition to the 9.75%
+of the German TV operator's shares that had been purchased in November 2019 and March
+2020 respectively. The latter acquisition was carried out entirely with Mediaset’s own
+resources. All these operations are of a purely industrial nature and are closely related to the
+Group's strategic vision in the sense of a more global approach to the objectives, challenges
+and opportunities offered to media operators in the international competitive environment and
+which constitute a fundamental part of the Group's future-oriented business strategy.
+
+DIVIDENDS AND TREASURY SHARES
+The Group’s Parent Company has not distributed dividends in 2020 or 2021.
+INVESTMENTS IN RIGHTS AND CINEMA
+
+Telecinco Cinema is a subsidiary of the Mediaset Espafa Group and is responsible for
+complying with the obligation to participate in cinematographic works. The current General Law
+on Audiovisual Communication establishes that television audiovisual communication service
+providers must contribute annually to the advance financing of cinematographic films with at
+least 3% of the revenues accrued in the previous year. Mediaset Espafa complies with this
+obligation through Telecinco Cinema productions.
+
+While 2020 was a devastating year for the sector, it is fair to say that it did not recover to pre-
+pandemic levels in 2021, with gross box office takings still 40% below those recorded in 2019.
+
+The first film released this year was "Operation Camaron". It was realeased in late June by
+The Walt Disney Company, with box-office takings of 3.5 million euros and a total of 600,000
+viewers. On 12 November, "Way Down" arrived in Spanish cinemas from Sony Pictures
+Entertainment. Directed by Jaume Balaguer6, the film, starring Freddy Highmore ("The Good
+Doctor"), has grossed 6 million euros in Spanish cinemas to date and has been seen by almost
+one million viewers.
+
+Filming in 2021 began with "El cuarto pasajero", a new collaboration between the Group and
+Alex de la Iglesia after the successful experience of "Perfectos Desconocidos". Starring Alberto
+San Juan, Ernesto Alterio, Blanca Suarez and Rubén Cortada, the film will be released in late
+2022 by Sony Pictures Entertainment.
+
+In the summer, "No haberlos tenido" was shot, a comedy written by Manuel Burque and Josep
+Gatell (screenwriters of "Es por tu bien" and "Operacién Camar6n") and directed by Victor
+
+101
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 5 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+Garcia Leon. The film stars Tito Valverde, Gracia Olayo, Ernesto Sevilla and Toni Acosta, and
+will be released in 2023.
+
+The next shoot was "Rainbow", a project directed by Paco Leon (Kiki, el amor se hace") and
+written by himself and Javier Gullén. The film, starring Dora Postigo, Carmen Maura and
+Carmen Machi, will be released in cinemas in autumn 2022 and will be streamed worldwide
+on Netflix shortly afterwards.
+
+With regard to the releases planned for 2022, "Malnazidos" will be released on 11 March by
+Sony Pictures Entertainment. Directed by Javier Ruiz Caldera and Alberto de Toro, the film
+features Micky Esparbé and Aura Garrido among others. In addition to the previously
+mentioned "Rainbow" and "El cuarto pasajero", the long-awaited "Tadeo Jones 3", the third
+instalment in the saga that has been so successful for Telecinco Cinema, will hit cinemas in
+the summer. The film, like its predecessors, will be released in Spain and the rest of the world
+by Paramount Pictures. As for filming, "Mari2", a film written by Breixo del Corral and Pablo
+Alen and directed by Lucia Alemany, will start shooting at the beginning of the year. The film
+stars Ernesto Alterio and Paco Leén and has the same co-producers as "Way Down" and will
+be released in 2023 by The Walt Disney Company. Around the middle of the year, Telecinco
+Cinema will shoot "Casi Familia", a screenplay by Diego San José ("Ocho Apellidos Vascos")
+and Borja Echevarria, to be directed by Alvaro Fernandez Armero ("Si yo fuera rico"), which
+Universal Pictures will release in Spanish cinemas in 2023.
+
+INTERNET
+
+In 2021 our Group consolidated its leadership in digital video consumption according to
+Comscore data, reaching its best result ever with 6,171 million videos viewed between January
+and December, 18% more than in 2020, a figure 2,000 videos higher than its main competitor
+and six times higher than RTVE's figure, coming second place in the global ranking of videos
+viewed and surpassed only by Google, beating its best monthly record in March with a record
+of 695 million videos viewed.
+
+Analysing web traffic in 2021, we observed an all-time record in the average monthly number
+of unique users who visited Mediaset Espafia's sites, reaching 19.4 million unique users per
+month, an increase of 7% compared to the figure obtained in 2020. The month of October
+registered the best monthly figure ever with 20.8 million unique users.
+
+The data show that we have witnessed a significant growth in users throughout the year on
+the different websites, with "Telecinco.es" seeing particularly good results with a 6% increase
+in unique users at the end of the year, compared to 2020 and a monthly average of 11.1 million,
+compared to the 9.8 million unique monthly users of its main competitor. In addition, the site
+reached 1,707 million videos, an improvement of 53% compared to the previous year and
+compared to Atresmedia's 242 million. In June alone, the Mediaset site beat its absolute
+maximum with 221 million videos. "Cuatro.com" beat its all-time high in video views with 247
+million reproductions, surpassing LaSexta.com, which reported 198 million video views.
+
+In terms of television content platforms, "Mitele.es" strengthened its leadership in video
+
+consumption, beating its annual record of 3,371 million videos viewed, 13% more than in 2020,
+
+compared to 2,704 million for Atresplayer, one of its main competitors, and reaffirming its
+102
+
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 6 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+leadership as the most consumed live and on-demand television content platform. Meanwhile,
+the digital native content platform "Mtmad" has achieved a total of 391 million views,
+representing a 13% growth compared to 2020, its absolute record with 1.7 million unique users
+per month, 40% more than in 2020.
+
+Divinity" improved its web traffic by 21% compared to the previous year, with a monthly
+average of 3.6 million users, reaching an all-time high. The El Desmarque, Uppers and Nius
+sites also deserve to be mentioned, as they have shown very good results in 2021. In the case
+of "Nius", the site has grown to 4.8 million monthly average users, with a peak in December of
+6.7 million. As for "El Desmarque", the monthly average number of unique users has reached
+4.8 million, while "Uppers" has grown by almost 90% over the year to 1.2 million unique users
+per month, after reaching its best result ever in October with 2.4 million. Also worth a mention
+is the "Yasss" website, which has doubled its previous year's figure to 703,000 unique users
+per month.
+
+The loyalty and uptake strategy in 2021 enabled "Mitele PLUS" to reach 215,639 subscribers
+in November, its absolute record. In addition, in the last quarter of the year, "Mitele PLUS"
+launched two new subscription packages: the cinema channel "AContra+", which already has
+an extensive catalogue of more than 350 national and international feature films of all genres
+that are regularly updated, and "Dizi", a channel specialising in globally successful Turkish
+series, which already has twelve titles in its catalogue. Finally, it is worth mentioning that the
+contact sports channel "Fight Sports" is also available on Mediaset Espafia's subscription
+platform.
+
+TREASURY SHARES
+
+As at 31 December 2021, the Company had amortised almost all of the treasury shares held
+by the Company except for two shares which it maintains and which, as at 31 December 2020,
+amounted to 14,269,073 shares, equivalent to 4.36% of the share capital.
+
+PAYMENTS TO SUPPLIERS
+
+In 2021, the average payment period to the Group’s Spanish suppliers was 74 days, a figure
+that compares with 86 days in the previous year. These figures can be explained almost
+exclusively by the rigorous control exercised by the Group in relation to the commercial and
+tax requirements that must be met by the invoices received and which means that these are
+not paid until the detected incidences have been rectified. With the disruption created by the
+lockdown measures and the emergence of working from home, many suppliers have been
+much slower in complying with the said requirements. In all other respects, the Group
+scrupulously complies with the guidelines set out in the said legislation combating late
+payment.
+
+MEDIASET ESPANA SHARES
+
+From a stock market point of view, 2021 saw two very distinct periods: during the first half of
+
+the year, expectations for a recovery in the sector were improving, which led to generalised
+
+revaluations across the sector as a whole. From then on, with the appearance of successive
+103
+
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 7 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+waves of Covid and the supply crisis in the automotive sector, one of the most important in the
+advertising market, the positive trend reverted to the point of cancelling out the gains
+accumulated up until then and even ending the year with reductions which, in the case of
+Mediaset Espafia, reached up to 3.5%.
+
+The annual maximum for Mediaset Espafa's shares was recorded on 31 May (5.79 euros),
+while the minimum was on 17 December (3.83 euros). At year end, the share price reached
+4.11 euros.
+
+At the sector level, the best year-end results were achieved by French operators TF1 and M6,
+which are in the process of merging, with year-on-year increases of 32.4% and 29.4%
+respectively. Mediaset Italia, which changed its name during the year to MediaForEurope,
+recorded a year-on-year increase of 2.6%.
+
+During the year, Mediaset Espafia cancelled the 14.3 million shares it held as treasury shares,
+bringing its share capital to 313,166,144 shares.
+
+Mediaset Espafia's amount traded in shares in the year was 449 million euros, which ranks it
+ninth in the Ibex Medium Cap index of which it is a member.
+
+CORPORATE GOVERNANCE
+
+Corporate Governance best practices pursue the implementation of rules, principles and
+incentive in companies that help protect the interests of the company and the stakeholders and
+guarantee professional management conduct.
+
+Mediaset Espafia’s commitment to the rules and principles of good governance has been
+evident from the moment we became a listed company in 2004. Ever since then, our principal
+objective has been to adapt our various bodies of rules to the Code of Good Governance as
+well as the approval of others that did not exist until now: our Code of Ethics, which must be
+complied with by any individual or legal entity that collaborates in any area or in any way with
+us, and the Internal Code of Conduct of Mediaset Espafia Comunicacién, S.A. and its Group
+of companies for matters related to the Securities Markets.
+
+This also implied a quantitative and qualitative review of the Board of Directors and the
+Committees composition in order to comply with the recommendations in this area.
+
+The verification by independent auditors of our reports on (i) Corporate Governance; (ii)
+Directors’ Remuneration; and (iii) Statement of Non-Financial Information, including the
+binding submission of the latter to the shareholders at the Annual General Meeting, have
+placed us at the forefront of companies in terms of Corporate Governance, as has been
+recognised by various institutions specialising in this area.
+
+The non-financial information for the financial year 2021 is presented in a separate report
+
+following this Consolidated Management Report, "Statement of Non-Financial Information".
+
+The "Annual Corporate Governance Report" and the "Annual Report on Directors’
+
+Remuneration" for the 2021 financial year are presented separately and by reference, and are
+104
+
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+
+--- Page 8 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+available on the website of the National Securities Market Commission (CNMV), in the
+Company's information section, Mediaset Espafia Comunicacién, S.A., in the "Information on
+Corporate Governance" section, all of which form part of this Consolidated Management
+Report.
+
+HEDGING OF FINANCIAL RISKS
+
+The Group arranges financial instruments to hedge exchange differences relating to
+transactions in foreign currencies (mainly purchases of third-party production rights). The
+purpose of these hedging transactions is to offset the impact on the consolidated statement of
+profit or loss of exchange-rate fluctuations in relation to outstanding liabilities relating to the
+aforementioned transactions and, for such purpose, currencies are purchased for the amount
+of such liabilities, which are contracted at the scheduled payment dates.
+
+RISK CONTROL
+
+The Group’s risk management policy is described in Note 13.6 to the accompanying
+Consolidated Financial Statements.
+
+RESEARCH AND DEVELOPMENT
+
+Our main investments are concentrated on the present and future content broadcast by our
+Group. Although we do not have a specific Investment and Development department,
+innovation is one of our critical points of development.
+
+ENVIRONMENTAL MATTERS
+
+In view of the Group’s business activities, it does not have any environmental liability,
+expenses, assets, provisions or contingencies that might be significant with respect to its
+equity, financial position or results of the Group.
+
+SIGNIFICANT EVENTS AFTER THE REPORTING PERIOD
+
+In January 2022 the Company has completed the cancellation of the first tranche of the
+derivative corresponding to the second acquisition of Prosieben shares that took place in
+March 2020.
+
+CAPITAL STRUCTURE
+
+At 31 December 2021, the Parent’s share capital amounted to 156,583 thousand euros
+representing 313,166,144 shares. All the shares are represented by book entries and are of
+the same class.
+
+The Company’s shares are traded on the Madrid, Barcelona, Bilbao and Valencia Stock
+Exchanges. The ISIN code is ES0152503035.
+
+On 22 June 2020 Mediaset Espajia left the Ibex 35 as it did not meet the capitalisation and
+volume requirements to remain in the selective index. The lower trading volumes are due to
+105
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 9 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+the high number of shares that were immobilised as a requirement to apply for the withdrawal
+right in the "Media for Europe" (MFE) project. In August, the number of shares frozen amounted
+to around 35 million shares. The heavy penalty in terms of capitalisation is mainly due to the
+impact of the pandemic. On the same date, i.e., 22 June, Mediaset Espafia joined the Ibex
+Medium Cap index.
+
+OUTLOOK FOR THE COMPANY'S BUSINESS DEVELOPMENT
+
+The Group's business in 2022, like that of the Spanish economy as a whole, will be inextricably
+linked to the evolution of Covid and the eventual disappearance of the most perverse effects
+of the pandemic as a result of the vaccination processes and also of the reduced virulence of
+the new strains that may appear once the effects of Omicron have subsided, although, as we
+have already seen in the section on the economic situation, the central scenario is that global
+growth will be lower than in the previous year, although, as far as Spain is concerned, growth
+in 2022 is estimated to be higher than in 2021.
+
+Regarding the media business, our Group will continue to seek to increase its revenue base
+towards activities that have a promising future: digital advertising revenues from our internet
+platforms, and the development of HbbTv, which combines the advantages of audience
+targeting for advertisers with the possibility of more direct advertising, and the sale of content
+to third parties taking advantage of the important weight our in-house productions have in our
+programme schedule together with the existence of a steadily increasing structural base for
+the creation of content both directly in house or through stakes in independent producers and
+all this without forgetting the growing demand for domestic production by the new audiovisual
+platforms, phenomena and situations that have already crystallised and shown very positive
+results in 2020.
+
+With regard to this production and content-distribution activity, the Group created a company
+(“Mediterraneo”) at the end of 2018 to serve as a content warehouse to bring together, from a
+business perspective, those non-advertising activities which already have a proven record of
+experience and success and encompass a diverse range of categories such as entertainment,
+fiction, films, sporting events and digital formats, to which we add our experience in content
+marketing (we already have customers in approximately 190 territories) to other operators,
+channels, devices, SVOD platforms, etc., an activity that has continued in 2020 with strong
+growth rates.
+
+Therefore, in light of the above and always mindful of retaining our position as a frontrunner
+and which has led us to maintain our undisputed lead among the Spanish communication
+groups, we can state that our Group intends to continue its process of transition from a TV
+operator to become a media company in the broadest sense of the word, maintaining its
+privileged position where traditional television is concerned while working to strengthen and
+develop those new lines of business that are directly linked to traditional TV, which represents
+a huge opportunity and for which we are well prepared due to our experience and success
+both in advertising sales and in the creation, production and exploitation of multi-platform
+audiovisual content.
+
+Based on television consumption data measured in minutes/day and the weight of free-to-air
+television in terms of global audiovisual consumption via the various platforms, we hope that
+106
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 10 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+the share of TV advertising revenues in the overall advertising pie remains high, demonstrating
+the importance of TV as a means of distributing advertising messages due to its penetration,
+simultaneous exposure to consumers, standardised audience and impact measurement
+techniques, and the security of its environment since it is a strictly-regulated media.
+
+We will continue our efforts to ensure the distribution of our content across all the platforms
+and devices available to viewers (TV, on-line platforms, etc.) by investing in both economic
+resources and personnel in line with what we have been doing in recent years, with innovative
+initiatives aimed at increasing the universe of unique users and always with a strategy based
+on the sale of advertising in the different media as the main source of income. In this context,
+we will continue to exploit growth opportunities through acquisitions that add value, as we have
+done in recent years.
+
+In this context of an ever changing market and new forms of audiovisual content distribution,
+our Group’s business strategy will continue to focus on maintaining our leadership position
+both in terms of audience and exploitation of the advertising market, with a strong presence in
+the production of in-house content both through our own resources and in association with
+independent producers, including those in which we have a non-controlling ownership interest
+and whose number has been increasing in recent years as the product typology base has
+expanded.
+
+Indeed, we consider that robust and diverse in-house production provides us with a unique
+strong point that enables us both to equip ourselves with exclusive content that has historically
+been praised by the public and to take advantage of the marketing opportunity resulting from
+the emergence of new operators that demand quality content.
+
+In terms of costs, we will continue with our traditional focus on costs with the objective of,
+adapting to the environmental conditions that affect revenue generation and helped by the
+weight of our in-house production, determining an optimal base that allows us to maximise our
+margins and cash flows by taking advantage of the operating leverage that is inherent to the
+free-to-air TV sector.
+
+With regards to our programming grid, we will continue to exploit the genres that have
+historically been popular with audiences and that have made us the leading group, as well as
+our strategy of diversifying and focusing on audiences through our family of channels in order
+to achieve a better understanding of the audience and also a more attractive company profile
+for our customers. In the context of sporting event rights our strategy will continue to focus on
+taking advantage of those windows of opportunity that enable us to acquire popular events
+capable of increasing our audience and advertising levels, provided that the cost of buying
+such rights allow us the possibility to make them profitable.
+
+Finally, maintaining a solid financial and equity position will continue to be a primary objective,
+as we believe that it not only enables us to objectively and independently consider, the
+operational and business opportunities that may arise in such a changing market, but also
+strengthens our competitive position in the market, given the high financial leverage that affects
+most companies operating in our sector.
+
+107
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.
+
+
+--- Page 11 ---
+
+Mediaset Espafia Comunicacion, S.A. and Subsidiaries
+
+Explanatory Notes to the Consolidated Financial Statements for the year ended
+31 December 2021
+(In thousands of euros)
+
+We will remain alert to any investment opportunities (particularly with regard to our new digital
+or content production and distribution businesses) that could bring growth or increased
+margins to our Group, for which we believe our positive cash position and intact borrowing
+capacity is a unique advantage. In this regard, we will pay particular attention to the investment
+possibilities that will allow us to move forward in the international consolidation of our business,
+as we believe that the future of the sector will necessarily depend on the possibilities of
+developing specific projects in this area as the only way to ensure sustainable and lasting
+growth, without renouncing the strength of the local business, particularly in the field of content
+production, where we already have both varied and complete firepower through our strategy
+of minority shareholdings in companies in the sector, and we intend to expand and broaden
+the range of investments we have as a means of attracting and retaining talent in an
+environment in which the demand for quality products is ever increasing.
+
+108
+DISCLAIMER: The English version is a translation of the original in Spanish for Information
+purposes only. In case of a discrepancy, the Spanish original will prevail.

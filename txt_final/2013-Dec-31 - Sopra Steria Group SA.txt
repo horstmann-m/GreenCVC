@@ -1,0 +1,2586 @@
+
+
+--- Page 1 ---
+
+44
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Sopra’s business and key events in 2013
+
+This report includes the summary of the management report as well
+as the Group’s financial statements.
+
+1.1. Business in 2013 -
+Background
+
+Over the last few years, Sopra has developed a specific business
+model based on Consulting, Systems Integration, Application
+Outsourcing and Software Solutions Development (banking,
+human resources and real estate sectors).
+
+The Group has positioned itself and adopted a successful model
+based not only on increasingly rapid technological and digital
+development but also on outsourcing and business combinations.
+This novel business model makes it difficult to make a comparison
+with other companies within the sector which have positioned
+themselves differently.
+
+The sector saw slightly negative growth in 2013, after reporting
+very weak growth in 2012. Revenue of companies in the Software
+and Services sector decreased by about 0.2% in France, compared
+to an increase of 0.8% in 2012 (Source: Syntec).
+
+Sopra posted revenue of €1,349.0 million in 2013, representing
+total growth of 10.9% and organic growth of 4.3%.
+
+At 31 December 2013, the Group employed a workforce of
+16,284 people, an increase of nearly 2,000 staff compared to
+2012, including 1,080 net recruits and around 900 integrated
+employees resulting from acquisitions.
+
+Registration Document 2013 - Sopra
+
+Sopra’s business and key events in 2013
+
+1.2. Key events of the year
+
+1.2.1. ACQUISITION OF HR ACCESS
+
+Sopra’s acquisition of HR Access is in line with its strategy, which
+aims not only to consolidate our positioning in the Human
+Resources (HR) management market, but to attain the ambitious
+objective of earning 30% of our revenue in software publishing as
+well. The transaction guarantees that HR Access can continue its
+activities and the possibility of contributing to the Group’s global
+strategy. Sopra is able to offer a complete HR solution, perfectly
+suited to the human resources market and companies of all sizes.
+
+HR Access solutions meet the needs of public- and private-sector
+companies in all industries. It has a stable client base comprised
+mainly of a number of CAC 40 companies. The transaction
+supplements Sopra’s solutions offerings marketed under the
+Pléiades brand, widely used in the public and private sectors in
+France. The solutions offered by HR Access and Sopra include
+functionalities to manage personnel, skills, time, activities and
+payroll. Each is available in the form of a traditional license or
+outsourced service. HR Access and Sopra have a number of
+strengths in common: high-quality products, proven Research
+and Development capacity and in-depth knowledge of the human
+resources sector.
+
+Sopra is overseeing the continuity of product development. Clients,
+whether they have chosen HR Access or Pléiades solutions, will not
+see their investments compromised in any way.
+
+HR Access has been consolidated since 1 April 2013. Over a full
+year, Sopra’s HR solutions generated revenue of approximately
+€100 million
+
+
+--- Page 2 ---
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Consolidated financial statements
+
+Consolidated financial statements
+
+2.1. Consolidated income statement
+
+{in millions of euros) Amount % Amount %
+Revenue 1,349.0 1,216.7
+
+Staff costs - Employees -911.9 -811.8
+
+Staff costs — Contractors -105.6 -100.1
+
+Operating expenses -201.3 -178.2
+
+Depreciation, amortisation and provisions -21.3 -17.0
+
+Operating profit on business activity 108.9 8.1% 109.6 9.0%
+Expenses related to stock options and bonus share allotment
+
+plans -3.0 -2.2
+
+Amortisation of allocated intangible assets 48 -4.2
+
+Profit from recurring operations 101.1 7.5% 103.2 8.5%
+Other operating income and expenses 2.8 -11.9
+
+Operating profit 103.9 7.7% 91.3 7.5%
+Cost of net financial debt -7.0 7.2
+
+Other financial charges and expense -1.4 -1.0
+
+Tax charge -32.5 -33.6
+
+Share of net profit of equity-accounted companies 8.4 6.1
+
+Net profit before profit or loss from discontinued
+
+operations 71.4 5.3% 55.6 4.6%
+Profit after tax from discontinued operations - -
+
+Net profit 71.4 5.3% 55.6 4.6%
+Group share 71.4 5.3% 55.6 4.6%
+Minority interests - - - -
+
+Consolidated revenue amounted to €1,349.0 million in 2013, representing organic growth (calculated at constant exchange rates and
+comparable consolidation scope) of 4.3% compared to the previous year. This growth varied by country and business activity:
+
+Revenue 2012 Total Organic
+{in millions of euros) Published growth growth
+
+France 828.0 795.8 4.0% 4.1%
+Europe (without France) 247.6 225.4 9.8% 9.6%
+= United Kingdom 83.9 81.6 2.8% 1.8%
+= Spain 75.9 74.8 1.5% 1.5%
+a Italy 44.0 39.2 12.2% 12.2%
+= Switzerland 10.6 11.3 -6.2% -3.6%
+= Benelux 13.7 11.0 24.5% 24.5%
+m= Germany 19.5 75 NS Ns
+Sopra Banking Software 217.3 195.5 11.2% -0.3%
+HR Access (9 months) 56.1 2.4%
+SOPRA 1,349.0 1,216.7 10.9% 4.3%
+
+Registration Document 2013 - Sopra | 45
+
+
+--- Page 3 ---
+
+46
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Consolidated financial statements
+
+France Amount % Amount %
+Revenue 828.0 795.8
+
+Organic growth +4.1%
+
+Operating profit on business activity 68.4 8.3% 68.2 8.6%
+Profit from recurring operations 66.2 8.0% 66.3 8.3%
+Operating profit 64.2 7.8% 64.6 8.1%
+
+In France, revenue totalled €828.0 million, representing organic
+growth of 4.1%. This solid growth was backed by the transport,
+utilities and public service sectors, as well as financial services
+to a lesser extent. Operating profit on business activity came
+in at €68.4 million, representing a margin of 8.3% in the year,
+compared with 8.6% in 2012. Despite persistent price pressures
+and investments that weighed on profitability, business activity
+
+was robust in 2013. The year saw numerous contract signings,
+in particular for fixed-price projects and application management
+services, and there was a considerable rise in requests relating to
+mobility, cloud services and architecture. The Group's performance
+in France was also buoyed by the gradual turnaround achieved by
+the consulting business, which returned to growth and profitability
+over the course of the year.
+
+Europe (without France) Amount % Amount %
+Revenue 247.6 225.4
+
+Organic growth +9.6%
+
+Operating profit on business activity 12.6 5.1% 13.2 5.9%
+Profit from recurring operations 12.0 4.8% 13.0 5.8%
+Operating profit 10.8 4.4% 11.3 5.0%
+
+In Europe (excluding France), revenue totalled €247.6 million, up a total of 9.8% (including organic growth of 9.6%). Operating profit on
+business activity totalled €12.6 million, representing a margin of 5.1% in 2013, compared with 5.9% in 2012.
+
+Registration Document 2013 - Sopra
+
+
+--- Page 4 ---
+
+| PERFORMANCE IN EUROPE (EXCLUDING FRANCE)
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Consolidated financial statements
+
+Amount % Amount %
+United Kingdom
+Revenue 83.9 81.6
+Organic growth +1.8%
+Operating profit on business activity 6.2 7.4% 5.3 6.5%
+Profit from recurring operations 6.2 7.4%. 5.3 6.5%
+Operating profit 5.7 6.8% 4.0 4.9%
+Spain
+Revenue 738) 74.8
+Organic growth +1.5%
+Operating profit on business activity 47 6.2% 4.6 6.1%
+Profit from recurring operations 4.3 5.7% 44 5.9%
+Operating profit 3.6 4.7% 4.0 5.3%
+Italy
+Revenue 44.0 39.2
+Organic growth +12.2%
+Operating profit on business activity 1.7 3.9% 11 2.8%
+Profit from recurring operations 1.6 3.6% 1.1 2.8%
+Operating profit 1.6 3.6% 11 2.8%
+Switzerland
+Revenue 10.6 11.3
+Organic growth -3.6%
+Operating profit on business activity 11 10.4% 1.4 12.4%
+Profit from recurring operations 1.1 10.4% 1.4 12.4%
+Operating profit 11 10.4% 1.4 12.4%
+Belgium
+Revenue 17 11.0
+Organic growth +24.5%
+Operating profit on business activity 0.4 2.9% 0.3 2.7%
+Profit from recurring operations 0.3 2.2% 0.3 2.7%
+Operating profit 0.3 2.2% 0.3 2.7%
+Germany
+Revenue 19.5 75
+Organic growth NS
+Operating profit on business activity 1.5 -7.7% 0.5 6.7%
+Profit from recurring operations 1.5 -7.7% 0.5 6.7%
+Operating profit “1.5 -7.7% 0.5 6.7%
+
+In the United Kingdom and Spain, growth remained moderate but profitability stabilised at altogether appropriate levels, while in Germany
+the investments made in support of the aerospace sector impacted short-term profitability.
+
+Amount % Amount %
+Sopra Banking Software
+Revenue 217.3 195.5
+Organic growth -0.3%
+Operating profit on business activity 23.6 10.9% 28.2 14.4%
+Profit from recurring operations 18.6 8.6% 23.9 12.2%
+Operating profit 15.4 7.1% 22.1 11.3%
+
+Registration Document 2013 - Sopra
+
+47
+
+
+--- Page 5 ---
+
+48
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Consolidated financial statements
+
+Sopra Banking Software continued to focus on building up
+its comprehensive offering. This subsidiary posted revenue of
+€217.3 million in 2013, representing positive total growth of
+11.2% and negative organic growth of 0.3%. Although the
+rationalisation of its business model requires time and investments,
+
+the level of business activity in France, the United Kingdom, the
+Middle East and Africa generated a satisfactory operating profit
+on business activity of €23.6 million, corresponding to 10.9% of
+revenue (vs 14.4% in 2012).
+
+Amount % Amount %
+HR Access (9 months)
+Revenue 56.1 -
+Organic growth +2.4% -
+Operating profit on business activity 43 7.7% -
+Profit from recurring operations 43 7.7% -
+Operating profit 13.5 24.1% -
+
+With regard to HR Access, the entity's integration programme
+has been successful and its strategic plan built around services
+was well received by the market. Nine-month revenue came to
+€56.1 million, corresponding to organic growth of 2.4%. The year
+ended on a high note, with licence signings coming in strong. The
+subsidiary’s profit from recurring operations was €4.3 million,
+corresponding to a margin of 7.7%, well above the Group’s
+announced targets.
+
+At Group level, total staff_costs for employees, sub-contractors
+and external contractors represented 75.4% of revenue, compared
+to 74.9% in 2012.
+
+At the end of December 2013, the year-end workforce totalled
+16,284 people, compared to 14,303 people at the end of
+December 2012. This workforce growth is linked to:
+
+= external growth which led to the integration of around 900 new
+employees;
+
+= an increase in the number of employees (recruitments net of
+departures) amounting to 1,080 people.
+
+Operating expenses as a percentage of revenue increased
+slightly, totalling 14.9% (i.e. €201.3 million) compared to 14.6%
+(i.e. €178.2 million) in 2012. They take into account the French
+R&D tax credit in the amount of €10.8 million in 2013, versus
+€6.1 million in 2012.
+
+Depreciation, amortisation and provisions, which came to 1.6% of
+revenue in 2013, increased by 0.2% relative to the previous year,
+mainly as a result of the structure of HR Access being taken into
+account,
+
+Operating profit on business activity totalled €108.9 million or
+8.1% of revenue, compared with €109.6 million or 9.0% of
+revenue in 2012.
+
+Profit_from recurring operations amounted to €101.1 million,
+corresponding to 7.5% of revenue, compared to €103.2 million
+and 8.5% of revenue in 2012, decreasing by 1%.
+
+Expenses related to stock options (€0.2 million) remained stable in
+2013 compared to 2012.
+
+Expenses associated with the bonus share _allotment_plan
+implemented in June 2012 totalled €2.6 million in 2013, compared
+to €2.0 million in 2012.
+
+After allocating goodwill on acquisitions, additions to amortisation
+of allocated intangible assets totalled €4.8 million in respect of
+2013, compared with €4.2 million in respect of 2012.
+
+Operating profit totalled €103.9 million or 7.7% of revenue,
+compared with €91.3 million or 7.5% of revenue in 2012.
+
+Other operating income and expenses amounted to net income of
+€2.8 million, compared to a net expense of €11.9 million in 2012.
+
+Registration Document 2013 - Sopra
+
+The cost_of net financial debt totalled €7.0 million in 2013,
+compared with €7.2 million in 2012. Net financial expense,
+including hedging impact, came to €6.6 million in 2013, versus
+€5.8 million in 2012. This interest expense takes into account
+contributions to the blocked profit-sharing reserve, amounting to
+€2.0 million in 2013 and €1.9 million in 2012.
+
+Other financial income and expense amounted to an expense of
+€1.4 million in 2013, as against an expense of €1.0 million a year
+earlier.
+
+The 2013 tax expense totalled €32.5 million, compared with
+€33.6 million in 2012.
+
+In 2013, profit from equity-accounted associates included the
+following
+
+= the Group’s share in Axway’s profit for the period (25.97% of
+€35.6 million): €9.1 million;
+
+= the impact of the dilution of Axway’s share capital: (-)€0.7 million.
+The Group’s net profit came to €71.4 million in 2013, corresponding
+to 5.3% of revenue, compared to €55.6 million and 4.6% of
+revenue in the previous year.
+
+Basic earnings per share (calculated on the basis of the weighted
+average number of shares outstanding during the financial year)
+was €6.00 compared to €4.67 in 2012, and diluted earnings
+per share (taking into account share subscription options already
+granted but not yet exercised) was €5.92 compared to €4.62 a
+year earlier.
+
+2.2. Balance sheet and financial
+structure
+
+Non-current assets were €570.0 million at 31 December 2013, up
+
+from €565.3 million the previous year. This item mainly reflects the
+
+following movements:
+
+= the increase in goodwill (€317.5 million vs €314.6 million in
+2012);
+
+= the decrease in intangible assets (€54.0 million vs €59.2 million
+in 2012);
+
+athe increase in property and equipment (€49.2 million vs
+€39.2 million in 2012);
+
+= the increase in equity-accounted investments (Axway Software)
+(€118.8 million vs €113.8 million in 2012);
+
+= the decrease in deferred tax assets (€25.6 million vs €34.5 million
+in 2012).
+
+Trade accounts receivable totalled €442.4 million, compared with
+
+€384.3 million in 2012.
+
+Cash and cash equivalents amounted to €102.2 million compared
+to €47.4 million in 2012.
+
+
+--- Page 6 ---
+
+At 31 December 2013, consolidated shareholders’ equity totalled
+€357.9 million compared to €305.3 million in 2012. The statement
+of changes in consolidated shareholders’ equity included in
+Chapter 5 of this Registration Document provides a detailed
+presentation of the principal movements.
+
+Borrowings and financial debt totalled €256.8 million, compared
+with €251.4 million in 2012, including €106.8 million in long-term
+bank borrowing, €61.0 million in current bank borrowing,
+€7.6 million in IT lease finance agreements and €29.8 million in
+additions to the special employee profit-sharing reserve.
+
+Net debt at end-2013 totalled €154.6 million
+
+Net bank debt, excluding the employee profit-sharing liability,
+totalled €124.8 million. This net debt corresponds to the
+difference between consolidated net debt and the special employee
+profit-sharing reserve. A breakdown of the change in net debt can
+
+Sopra Group SA comprises all of the Consulting, Systems Integration
+and Solutions Development activities in France except for HR Access
+and Sopra Banking Software, as well as all the Group’s functional
+services. The company has Systems and Solutions Integration
+subsidiaries in Europe, includes the banking software publishing
+subsidiary Sopra Banking Software, and holds a 25.72% interest in
+Axway Software, a global software developer and market leader in
+governing data streams.
+
+3.1. Income statement
+
+Revenue amounted to €853.3 million in 2013, as against
+€819.2 million a year earlier.
+
+Operating profit came to €51.5 million, down from €52.1 million
+a year earlier.
+
+The Group’s net financial income was €1.3 million in 2013,
+compared to a net financial expense of €2.2 million in 2012.
+Pre-tax profit on ordinary activities was €52.9 million, compared to
+€50.0 million a year earlier.
+
+Exceptional items amounted to an expense of €1.4 million in 2013,
+as against an expense of €0.2 million in 2012
+
+The discretionary and non-discretionary employee profit-sharing
+expense was €5.2 million, compared to €6.5 million in 2011, and
+the corporate income tax expense declined from €8.4 million to
+€5.3 million.
+
+Net profit came to €40.9 million in 2013, as against €34.8 million
+in 2012.
+
+In accordance with article 39-4 of the French Tax Code, we bring
+to your attention the fact that the accounts for the year ended
+31 December 2013 include €131,190 in respect of non-deductible
+expenses.
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Sopra Group SA company financial statements
+
+be found in Note 26.2 to the consolidated financial statements, in
+
+Chapter 5 of this Registration Document.
+
+Other current liabilities, which totalled €416.4 million in 2013
+
+compared to €337.1 million in 2012, mainly comprised:
+
+= employee-related liabilities (personnel and social security) for
+€199.8 million;
+
+= tax liabilities for €112.3 million, essentially corresponding to
+value added tax included in client receivables;
+
+= accrued income and prepayments for €100.1 million, comprising
+the portion of billing revenue already issued but yet to be booked
+as revenue.
+
+At 31 December 2013, the Group’s financial position remained
+
+strong, with total equity of €357.9 million and net debt of
+
+€154.6 million.
+
+Sopra Group SA company financial statements
+
+3.2. Balance sheet
+
+Shareholders’ equity was €239.2 million at 31 December 2013,
+
+compared to €217.7 million a year earlier.
+
+This change was due primarily to the following factors:
+
+= the net profit for the year of €40.9 million;
+
+= payment of dividends in respect of the 2012 financial year
+amounting to (-)€20.2 million;
+
+= the capital increase related to the exercise of stock options for
+€0.8 million
+
+Pursuant to the provisions of Articles L. 441-6-1 and D. 441-4
+
+of the French Commercial Code, we hereby inform you that the
+
+balance of trade accounts payable at 31 December 2013 comprises
+
+the following elements:
+
+Total Amount Amount
+
+outs- Amount due in due in
+
+tanding not yet lessthan more than
+
+(in thousands of euros) == amount due 60 days 60 days
+At31 December 2012 44,421 43,765 552 104
+At31 December 2013 43,896 43,409 478 9
+
+Sopra observes the payment terms required by law in France for
+trade accounts payable: a maximum of 60 days from the issue date
+of the invoice.
+
+Fixed assets decreased to €479.8 million, from €383.2 million
+in 2012. These were comprised of €369.6 million in non-current
+financial assets, €83.1 million in intangible assets and €27.1 million
+in property and equipment.
+
+3.3. Identity of shareholders
+
+Sopra Group’s share ownership structure is described in Section 2
+(“Current ownership”) of Chapter 7 of this Registration Document.
+
+Registration Document 2013 - Sopra
+
+49
+
+
+--- Page 7 ---
+
+50
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Strategy and objectives: recent trends and outlook for 2014
+
+and outlook for 2014
+
+4.1. Key events in 2013
+
+4.1.1. TARGETS COMFORTABLY ACHIEVED THANKS
+
+TO SUSTAINED GROWTH
+
+Sopra delivered sustained growth in 2013, enabling it to exceed
+the targets set in 2012. Total Group revenue grew by 10.9% to
+€1.349 billion in 2013. With organic growth of 4.3% and a margin
+on operating activities of 8.1%, Sopra significantly outperformed
+comparable companies, particularly in the French market, which
+alone accounted for two-thirds of total revenue. The Group also
+cut its debt by almost 25% in 2013.
+
+Sopra’s workforce totalled 16,284 employees at end 2013, an
+increase of 14% on 2012. This growth was the result both of net
+recruitment across the Group's various sites and of employees
+added to the Group via acquisitions.
+
+4.1.2. GROWTH IN THE SOFTWARE VENDING
+BUSINESS
+
+In 2013, Sopra confirmed its status as a major vendor of business
+solutions, in particular thanks to the acquisition of HR Access and
+stable performance at the Sopra Banking Software subsidiary.
+Solutions vending now represents a quarter of the Group’s total
+revenue, split equally between France and other countries (Europe
+and Rest of World).
+
+While Sopra Banking Software alone generates two-thirds of
+software vending revenue, revenue from dedicated human resources
+solutions almost tripled in one year. These results are perfectly
+aligned with the Sopra 2015 project, which aims in particular to
+strengthen the Group’s positioning not only in software vending
+but also in the human resources management market.
+
+4.1.3. CONSOLIDATION OF THE KEY CLIENTS
+PROGRAMME
+
+Sopra continued to develop its businesses with strategic key clients
+in 2013. As a result, 30 major clients in industry, finance, the public
+sector, transport, retail and telecoms/media accounted for 53%
+of the Group’s total revenue in 2013. This concentration strategy
+continues to bear fruit and drive growth, with revenue generated
+from these key accounts up 13% relative to 2012
+
+The increase in the proportion of fixed-price projects, up from 19%
+of services revenue in 2012 to 25% in 2013, together with the
+reduction in technical assistance services, also demonstrates the
+Group's ability to focus on major projects that deliver high added
+value to clients.
+
+Registration Document 2013 - Sopra
+
+Strategy and objectives: recent trends
+
+The Group also achieved growth of 18% in the public sector in
+2013, driven in particular by a number of large projects in the
+defence sector.
+
+4.2. Strategic priorities in 2014
+
+In 2014, Sopra will continue its strategic planning under what was
+previously referred to as the “Sopra 2015” project, now given fresh
+impetus as the “Sopra 2016” project. This project aims above all
+to create value for the Group’s clients, but also its shareholders
+and employees, in order to secure their engagement, thus bringing
+their own long-term goals and ambitions in line with those of the
+Group
+This ambitious project, which has set 2015 targets for revenue
+between €1.5 billion and €2 billion (with operations outside
+France accounting for 35-40% of the total) and an operating
+margin on business activity of around 10%, has four main strategic
+thrusts:
+= moving up the value chain so as to better serve the business-
+related and competitiveness challenges faced by the Group’s
+clients;
+= expansion in Europe;
+
+athe development of solutions able to precisely meet client
+requirements;
+
+= innovation, so as to ensure that the Group’s clients are able to
+fully benefit from the opportunities offered by the latest digital
+and technology advances.
+
+4.2.1. CONFIRMING THE GROUP’S INNOVATION
+
+AND TRANSFORMATION EFFORTS
+
+The Group's core activity is to understand its clients’ businesses in
+order to help them overcome their key challenges and boost their
+competitiveness. To maintain its positioning as a preferred strategic
+partner that provides its clients with a high level of added value,
+supports their development and optimises their operating costs,
+the Group needs to continue to focus on and invest in delivering
+an offering that is both innovative and differentiating.
+
+Growth in the digital market is characterised by an increasing
+number of technological developments in the digital arena (the
+cloud, big data, social networks, mobility, etc.). While these
+developments give rise to tremendous opportunities for innovation
+and growth, they require Sopra to be proactive and to constantly
+question its business model. The Group needs to embrace emerging
+technologies so that it can then advise its clients on the best way to
+use those technologies to meet their needs.
+
+
+--- Page 8 ---
+
+4.2.2. STRENGTHENING THE GROUP’S POSITION
+AS A SOLUTIONS VENDOR
+
+Solution vending is a key area of development in which Sopra will
+continue to invest. Within the framework of the Group’s strategic
+plan, the aim is to enhance Sopra’s sector-specific offerings while
+expanding its geographical coverage and ensuring the quality and
+performance of the services it delivers.
+
+Concerning human resources management solutions, one of the
+projects for 2014 will be to combine HR Access and Pléiades in
+order to be able to offer clients an end-to-end HR management
+solution and consolidate the Group's position in this market.
+
+4.2.3. STEPPING UP GROWTH IN THE EUROPEAN
+MARKET
+
+The Group's European subsidiaries (excluding France) grew by 9.6%
+in 2013, sometimes in economically challenging markets.
+
+In 2014, Sopra will continue to expand its European presence on
+the basis of a stronger Group culture, with the aim of generating
+40% of total revenue from its European subsidiaries.
+
+4.2.4. CONTINUING WITH THE EXTERNAL GROWTH
+STRATEGY
+
+By acquiring HR Access, the Group demonstrated its ability to
+integrate the offerings and expertise of external companies, not
+only technically but also culturally. The most recent acquisitions
+have significantly boosted overall growth and helped strengthen
+Sopra’s position in its various markets.
+
+In 2014, the Group will continue with its aggressive external
+growth strategy, which will help achieve its targets in terms not
+only of results but also of strategic positioning and geographical
+coverage.
+
+4.3. Recent developments
+
+4.3.1. PROPOSED FRIENDLY TIE-UP BETWEEN SOPRA
+AND STERIA TO CREATE A EUROPEAN LEADER
+
+IN DIGITAL TRANSFORMATION
+
+On 8 April 2014, Sopra and Steria announced their intention to
+create, by carrying out the proposed tie-up, a European leader in
+digital services with combined revenue of €3.1bn and operations in
+24 countries, harnessing the talents of over 35,000 professionals.
+This tie-up would enable the new group to meet the following
+targets:
+
+= combined revenue of €3.1bn and a group boasting over
+35,000 professionals, located in 24 countries, at the service of
+major international clients;
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Strategy and objectives: recent trends and outlook for 2014
+
+a highly complementary business activities and geographies,
+creating one of the most complete portfolios of offerings
+available on the market;
+
+= a Solutions and Business Process Services activity representing
+25% of revenue;
+
+=a value-creating transaction, thanks to significant revenue
+synergies and annual operational cost savings of €62m;
+
+= balanced corporate governance, with Pierre Pasquier as Chairman
+of the Board of Directors and Francois Enaud Chief Executive
+Officer;
+
+= a new entrepreneurial project backed by a stable reference
+shareholder base and a shareholders’ pact between Sopra GMT
+and Soderi.
+
+The proposed tie-up will take the form of a friendly, voluntary Offre
+Publique d‘Echange""’ (Public Exchange Offer) initiated by Sopra for
+all of the shares of Steria on the basis of one (1) Sopra share for
+four (4) Steria shares (the “Offer”)
+
+The Board of Directors of Soderi, the associé commandité (general
+partner) of Steria, as well as the Supervisory Board of Steria and
+the Board of Directors of Sopra approved this proposed tie-up and
+gave it their support.
+
+The two firms share cultures of independence and growth and a
+great deal of mutual respect, making the idea of combining forces a
+natural decision. The accelerating pace of the digital revolution and
+new modes of consuming services are giving rise to a deep-seated
+change in the market. In this context the tie-up aims to deliver the
+best transformation solutions to clients so that they can adapt to
+the digital world. The alliance between Sopra and Steria would
+allow the two firms to put together one of the most complete
+portfolios of offerings available on the market, from software
+solutions to business process execution. This industrial project
+would also benefit the employees of both entities, who would be
+able to evolve and acquire new skills, and shareholders, who would
+be able to accompany Sopra and Steria in a foundational, value-
+creating project.
+
+Balanced corporate governance and stable reference
+shareholder structure
+
+The new group would operate with a balanced corporate
+governance structure in the framework of a proposed tie-up
+between equals.
+
+Pierre Pasquier would be Chairman of its Board of Directors and
+Francois Enaud would be Chief Executive Officer. On the Board
+of Directors, Sopra and Steria would each be represented by four
+directors, in addition to independent members and employee
+representatives.
+
+The share capital of the new combined entity would be structured,
+on the one hand, around a core block representing the founders
+and certain managers of Sopra, holding a total of approximately
+22% of the share capital, a block owned by Geninfo representing
+7% of the share capital, and finally a c.10% block owned by
+former and current employees-shareholders of Steria. The above-
+mentioned blocks together represent 39% of the share capital. This
+shareholder structure would be materialised by a shareholders’ pact
+between Sopra GMT and Soderi, with the latter representing the
+former employee-shareholders of Steria.
+
+(1) Sopra and Steria reserve the possibilty of completing the tie-up by means of a fusion statutaire merger if necessary.
+
+Registration Document 2013 - Sopra
+
+
+--- Page 9 ---
+
+52
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Strategy and objectives: recent trends and outlook for 2014
+
+Very strong complementary fit of business activities
+
+and geographic segments
+
+From an industrial perspective, the proposed tie-up between Sopra
+and Steria is a response to the market changes brought about
+by the digital revolution and new modes of consuming services.
+The new group would be able to make the transition from a
+positioning as “Systems Developer-Integrator” to “Service Creator-
+Operator”, with a critical mass and the capacity to deliver the best
+transformation solutions to its clients. The portfolio of offerings
+would be among the most complete on the market.
+
+The new group would generate 25% of its annual revenue from
+Solutions and Business Process Services, activities with the highest
+levels of growth and profitability both for Sopra and Steria. This
+proportion would develop rapidly, as a result of organic and
+external growth as well as the synergies related to the tie-up.
+
+In terms of business activities and geographic segments, the
+complementary fit between the two entities is very strong. Sopra
+brings the power of its organisation in France, the strength of
+its banking, human resources and real estate products and its
+effective application management model. For its part, Steria brings
+its international reach (Europe and Asia) with a strong positioning
+in the United Kingdom, a pertinent offering in Business Process
+Services and its expertise in IT infrastructure management.
+
+Industrial-scale production capacity would be significantly
+reinforced with an array of offshore and nearshore service centres
+representing a workforce of approximately 8,000 people, including
+over 6,000 in India.
+
+A value-creating transaction drawing upon on a strong set
+
+of synergies
+
+Reinforcing competitive positioning and the complementary fit of
+offerings and geographic locations would lead to faster revenue
+growth. For example, Sopra would be able to benefit from the
+European positions of Steria to accelerate the commercialisation
+and rollout of its software solutions; for its part, Steria would
+be able to leverage Sopra’s offshore capacity in India for its
+French clients. The proposed tie-up should also generate annual
+operational cost synergies of €62m commencing in 2017. The
+transaction is expected to have a neutral effect on basic earnings
+per share in 2015 and be strongly earnings enhancing as of 2016.
+The ambition is to form a group that is capable of generating
+strong organic growth with the objective of achieving revenue of
+over €4bn and progressively improve the operating margin on
+business activity to approach the 10% mark.
+
+Schedule and conditions of the transaction
+
+The Offer will be subject to the customary terms, notably to a
+success threshold of at least 66.67% of the share capital and voting
+rights issued by Steria.
+
+Filing of the Offer could take place in May 2014.
+
+Following the information-consultation of the companies’
+
+employee-representing bodies and successful completion of the
+Offer, a merger of the groups is expected to be carried out.
+
+Registration Document 2013 - Sopra
+
+4.3.2. CHANGES IN SOPRA'S SENIOR LEADERSHIP
+
+In connection with the proposed friendly tie-up between Sopra
+and Steria, Sopra’s Board of Directors, convened on 15 April 2014,
+approved the appointment of Vincent Paris as the Group's Chief
+Executive Officer, replacing Pascal Leroy. This appointment will be
+effective from 1 May.
+
+Pascal Leroy, who has served as Deputy CEO and then Chief
+Executive Officer of Sopra over the last four years, will continue to
+oversee the Group’s operations and functions until 30 April.
+
+Vincent Paris, who has been Deputy CEO of Sopra since
+January 2014, will be responsible for the day-to-day management
+of Sopra’s operations until the effective completion of the friendly
+tie-up with Steria, planned for this summer.
+
+As announced publicly and subject to the successful completion
+of the proposed tie-up, Pierre Pasquier will serve as Chairman of
+the Board of Directors of the new entity, Sopra Steria Group, with
+Francois Enaud as its Chief Executive Officer and Vincent Paris as
+Deputy CEO.
+
+4.3.3. ACQUISITION
+OF COR&FIA BANKING SOLUTIONS GMBH
+
+The acquisition of German company COR&FJA Banking
+Solutions GmbH was announced in November 2013 and completed
+in February 2014. This acquisition will boost Sopra Banking
+Software's international presence and enable this subsidiary to
+offer a new range of sector-specific services to a broader client
+portfolio.
+
+4.3.4. PROPOSED ACQUISITION OF THE HR ACCESS
+SERVICE BUSINESS OF IBM FRANCE
+
+On 24 April 2014, Sopra announced its intention to acquire the HR
+Access Service business, which was owned until that date by IBM
+France, via its subsidiary Sopra HR Software. This acquisition would
+significantly increase the pace at which Sopra deploys its strategy
+for human resources solutions.
+
+The proposed acquisition, if completed, would further Sopra’s
+strategic plan, which targets a strong presence in software solutions
+and associated services. It would bring the Group closer to clients,
+enhance its solutions oriented approach and provide recognised
+expertise on the human resources market. The HR Access Service
+business would join Sopra HR Software in making Sopra’s HR
+solutions offering a market standard. The transaction would take
+the form of a partial transfer of business (cession partielle fonds de
+commerce). The acquisition price has not been made public. The
+proposal has been approved by Sopra’s Board of Directors. The
+transaction, subject to the usual conditions precedent including
+consultation with employee representative bodies, is expected to be
+finalised in July 2014. With this acquisition, the annual pro forma
+revenue of Sopra’s HR solutions offerings would be approximately
+€150m in 2014.
+
+
+--- Page 10 ---
+
+4.3.5. REVENUE FOR THE FIRST QUARTER OF 2014
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Strategy and objectives: recent trends and outlook for 2014
+
+1 15" QUARTER 2014.
+Q1 2013 Q1 2013 Total Organic
+{in millions of euros) Q1 2014 Pro forma Reported growth growth”
+France 197.8 193.5 192.1 3.0% 2.2%
+Europe (excluding France) 63.8 60.5 59.9 6.5% 5.5%
+of which United Kingdom 22.3 21.7 21.1 5.7% 2.8%
+of which Spain 20.8 17.6 17.6 18.2% 18.2%
+of which Italy 10.3 11.2 11.2 -8.0% -8.0%
+of which Switzerland 2.9 2.8 2.8 3.6% 3.6%
+of which Benelux 43 3.4 3.4 26.5% 26.5%
+of which Germany 3.2 3.8 3.8 -15.8% -15.8%
+Sopra Banking Software 60.7 58.3 53.0 14.5% 4.1%
+Other Solutions 36.1 31.0 16.3 NS 16.5%
+SOPRA GROUP 358.4 343.3 321.3 11.5% 4.4%
+
+(1) At constant consolidation scope and exchange rates.
+
+The Group posted revenue of €358.4 million for the first quarter of
+2014, representing total growth of 11.5% and organic growth of
+4.4%. Amid a slight market upturn, Sopra once again demonstrated
+its ability to outperform
+
+In France, business activity remained robust, continuing the trend
+noted at the end of last year, with the Group turning in a solid
+performance. Revenue for the quarter came to €197.8 million,
+representing total growth of 3.0% and organic growth of 2.2%.
+Sopra capitalized on its strong positioning among major clients,
+with numerous contract signings. In addition, some of the large
+contracts signed at the end of 2012 have hit their stride and are
+now attaining the profitability targets set for them.
+
+In its other European markets, the Group’s business activity also
+experienced growth. Sopra posted revenue in Europe (excluding
+France) of €63.8 million, achieving total growth of 6.5% and
+organic growth of 5.5%. Spain and the Benelux countries had
+an excellent start to the year with organic growth well over 15%,
+while adverse economic conditions affecting certain projects in
+Germany and Italy weighed on the Group’s performance there.
+Sopra’s performance in other European markets was in line with
+expectations.
+
+Sopra Banking Software recorded revenue of €60.7 million for the
+quarter, representing total growth of 14.5% and organic growth of
+4.1%. The subsidiary continued to develop, in particular by building
+up offshore teams in India and enhancing its industrialisation
+process to handle current large-scale projects. The period saw a
+significant (8%) rise in licence signings, and sales synergies with
+COR&FA Banking Solutions, the Group's most recently completed
+acquisition (consolidated since 1 January), began to materialise,
+with the signing of the first cross-sold contract.
+
+The Group's other solutions, for human resources and real estate,
+saw strong growth. Real estate solutions posted organic growth
+of more than 7%, while human resources solutions exceeded
+20%. The remainder of the year is expected to offer excellent
+opportunities for this business segment, which enjoys a promising
+order book.
+
+Sopra also announced the proposed acquisition, by its subsidiary
+Sopra HR Software, of HR Access Service Line, currently owned by
+IBM France (see press release dated 24th April). If completed, this
+transaction would position Sopra even more strongly to deliver
+on its software solutions strategy, expectedly resulting in pro
+forma 2014 revenue of over €150 million for the Group’s Human
+Resources Solutions business as a whole.
+
+In the first quarter, 430 staff joined the Group as new hires and
+115 on the acquisition of COR&FA Banking Solutions. The total
+workforce now comprises 16,835 people.
+
+Sopra maintains a 25.66% stake in its former subsidiary Axway
+Software. For first quarter 2014, Axway reported an encouraging
+revenue performance of €52.0 million, representing organic
+growth of 6.1%. This momentum has enabled the company to
+confirm its targets for the year, which include significant organic
+and external growth and an operating margin on business activity
+at least equal to that achieved in 2013 (15.8%).
+
+4.3.6. CHANGE IN FINANCIAL POSITION
+
+There has not been any significant change in the Group’s financial
+or trading position since the close of the last financial year for
+which audited financial statements or interim financial statements
+have been published
+
+4.4. Outlook for 2014
+
+For the 2014 financial year Sopra is aiming for organic growth of
+between 3% and 5%, as well as an improvement in its operating
+margin on business activity.
+
+If the proposed acquisition of HR Access Service comes to fruition,
+the Group’s pro forma revenue will be approximately €1.5bn for
+the financial year, representing total growth of approximately 11%
+and the net debt target for the end of the financial year will be
+between €120 million and €140 million
+
+Registration Document 2013 - Sopra
+
+53
+
+
+--- Page 11 ---
+
+54
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Subsidiaries and associated entities
+
+5.1. Acquisitions of equity
+interests in subsidiaries
+and associated entities
+
+5.1.1. NEWLY CONSOLIDATED COMPANIES
+
+= HR Access — At the beginning of April 2013, Sopra acquired
+100% of the share capital of the HR Access group. HR Access
+offers a complete range of global and integrated HR solutions,
+designed to meet the needs of a vast set of companies across
+all business sectors. The solutions offered are dedicated to
+managing personnel, time and activities, skills and payroll.
+HR Access serves more than 625 clients in 54 countries,
+and generated 2012 revenue of €75 million. It has nearly
+900 employees in France, Spain and Tunisia. All HR Access
+businesses have been consolidated since 1 April 2013.
+
+= Altime — In October 2013, Sopra Banking Software acquired two
+consulting companies which underwent a simplified merger with
+Sopra Banking Software with effect from 31 December 2013
+Over three months, these two entities contributed €1.2 million
+in revenue with 24 employees.
+
+5.1.2. DECONSOLIDATED ENTITIES
+
+No Sopra Group entities were deconsolidated in financial year
+2013
+
+5.2. Legal reorganisations
+and restructurings
+
+Following the 2012 acquisitions, a legal entity rationalisation
+process gave rise to the transactions listed below, none of which
+had any impact on the consolidated financial statements:
+
+= Adeuza was wound up by way of a complete transfer of assets
+and liabilities (transmission universelle de patrimoine, TUP) to
+Sopra Group on 29 June 2013;
+
+= Sopra Group Ltd’s business was transferred to Sopra Group
+Financial Services Ltd effective 1 January 2013. The corporate
+name of Sopra Group Ltd was changed to Sopra Group Holding
+Ltd and that of Sopra Group Financial Services Ltd was changed
+to Sopra Group C&S! Ltd;
+
+Registration Document 2013 - Sopra
+
+Subsidiaries and associated entities
+
+mall shares constituting the issued capital of Sopra Group
+Solutions UK Ltd were transferred to Sopra Banking Software
+SA by Sopra Group Holding Ltd on 28 June 2013, the two first
+two companies being wholly owned subsidiaries of Sopra Group.
+On 30 September 2013, Sopra Banking Software Ltd’s business
+was contributed to Sopra Group Solutions UK Ltd. Sopra Group
+Solutions UK Ltd was renamed Sopra Banking Software Ltd
+effective 8 October 2013 (the previously existing entity under the
+name Sopra Banking Software Ltd was renamed SBS123 Ltd);
+
+the Spanish company CS Sopra Espafia was merged with Sopra
+
+Group Informatica at the end of June 2013 (effective retroactively
+for accounting purposes from 1 January 2013);
+
+Sopra Banking Paris was wound up without liquidation by way
+of a complete transfer of assets and liabilities (TUP) to Sopra
+Banking Software on 29 June 2013;
+
+athe business of the Belgian company Business Architects
+International was transferred to Sopra Banking Software Belgium
+effective 1 January 2013, after which this entity was merged by
+way of a cross-border transaction with Sopra Banking Software
+in France on 30 June 2013, effective retroactively for accounting
+purposes from 1 April 2013;
+
+= the Belgian company Sopra Banking Software Participations was
+merged by way of a cross-border transaction between this entity
+and Sopra Banking Software in France on 31 May 2013, effective
+retroactively for accounting purposes from 1 January 2013;
+
+Sopra Banking Software Factory's business was transferred to
+
+Sopra Banking Software Belgium, a wholly owned subsidiary of
+Sopra Group, on 1 January 2013;
+
+all shares constituting the issued capital of SOPRAntic were
+transferred to Sopra Group by Sopra Banking Software on
+28 June 2013. The corporate name of SOPRAntic was changed
+to Sopra Banking Software Morocco.
+
+A legal entity rationalisation process was also applied to the new
+
+HR Access sub-group, without any impact on the consolidated
+
+financial statements:
+
+m HR Access Netherlands CV was dissolved on 30 June 2013;
+
+= HR Access Solutions BV was merged by way of a cross-border
+transaction between this entity and Sopra HR Software in France,
+effective retroactively for accounting purposes from 1 July 2013;
+
+= HR Access Solutions SAS was merged using the simplified
+procedure with Sopra HR Software on 31 December 2013,
+effective retroactively for accounting purposes from 1 July 2013.
+
+5.2. List of consolidated
+companies
+
+This list is detailed in Chapter 6, Section 5.9, “Individual financial
+statements”.
+
+
+--- Page 12 ---
+
+fl Risk factors
+
+The procedures implemented to control and manage these risks
+are presented in the Chairman of the Board of Directors’ report in
+Chapter 2 of this Registration Document.
+
+The Group carried out a review of the risks that could have a
+material adverse effect on our business, financial position or results
+(or our capacity to achieve our objectives). We believe that we are
+not exposed to any material risks other than those presented in
+this Registration Document. We draw the attention of our investors
+to the fact that the list of risks presented below is not exhaustive.
+The Group may be exposed to unknown risks or other risks that
+were not considered as of the date this Registration Document
+was published and that are liable to have an adverse effect on the
+Group, our business, our financial condition or the price of the
+Group’s shares.
+
+This document contains forecasts in respect of which there are
+risks and uncertainties concerning the Group's future growth and
+profitability. Readers are reminded that licence agreements, which
+often represent investments for our clients, are generally more
+significant in the second half of the year, and may therefore have a
+more or less favourable impact on full-year performance.
+
+Irrespective of the strategic risk associated with the Group's
+competitive positioning and the risk that its business model
+might lose its relevance, Group senior management decided,
+after consulting the Executive Committee, that operational risks
+associated with human resources and production constituted the
+Group’s main risks, as well as risks related to business relations
+with key clients and cash management. As such, these risks are the
+subject of ongoing action plans.
+
+Provisions are recognised in respect of all ongoing disputes,
+as described in Notes 28 and 37 to the consolidated financial
+statements, in Chapter 5 of this document.
+
+Risks are recognised in accordance with the method presented in
+Note 1.20 to the consolidated financial statements, in Chapter 5
+of this document.
+
+The Group is not aware of any legal or arbitration proceedings
+which could have a significant impact other than those reflected
+in the Group's financial position. As of the publication date of this
+document, Sopra Group is not aware of any governmental, legal
+or arbitration proceedings, including any proceedings that may be
+suspended or threatened, which may have or which have had a
+material impact on the Company's financial position or profitability
+during the past twelve months.
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Risk factors
+
+6.1. Main operational risks
+
+6.1.1. HUMAN RESOURCES (HR) RISKS
+
+In a service business, which also faces certain skill shortages,
+human resources risks are naturally critical. The performance of the
+recruitment process, skill and career management, the permanence
+of key roles and the sharing of the Group’s culture and values are
+key issues deserving of constant attention.
+
+Among the main issues involved in human resources, the optimal
+use and thus the expert knowledge of the resources already present
+in the Group (skills, aptitudes, potential) is an area of particular
+importance, as the primary operating entities continue to grow
+in size.
+
+The organisation, tools and human resources processes contributing
+to the control of this risk across the Group have been reinforced in
+recent years, as described below.
+
+The HR vision supporting the Enterprise Project over the next three
+years is updated annually and broken down to individual business
+unit level. With this in mind, the company’s HR requirements are
+expressed in terms of headcount, changes in the Group’s business
+lines and skills development requirements in line with the key
+challenges faced.
+
+Within this framework, the Group's performance measurement
+and career management system aims to share employees’ specialist
+knowledge and draw up individual and collective HR development
+plans aligned with the company’s needs as well as with employees’
+capabilities and career goals.
+
+This system is based around the following components. Employee
+performance is assessed by project managers on a_project-by-
+project basis. These assessments feed into annual career interviews
+with line managers. Human Resources Committees, made up of
+management and all line managers in each business unit, meet
+twice a year to assess and review employees’ roles, performance
+and future development. In particular, they are intended to
+share employees’ knowledge, assess their skills, performance and
+development potential from a cross-functional perspective, and
+draw up associated development plans. These Human Resources
+Committees, which exist at each level of decision-making (branch,
+division, country and Group), serve to ensure that performance
+is assessed consistently and fairly and that career management
+is aligned with the objectives embodied in the strategic HR
+vision. Action plans are then rolled out and managed throughout
+the year within each entity.
+
+The Human Resources Department works with Heads of HR in each
+division to support management by coordinating these various
+systems.
+
+In response to growth in operating entities, the network of line
+managers within each branch, to whom branch managers may
+delegate responsibility for employee career management, has been
+strengthened.
+
+Registration Document 2013 - Sopra
+
+55
+
+
+--- Page 13 ---
+
+56
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Risk factors
+
+The capacity to produce a sufficient number of leaders capable
+of managing large projects which are complex in terms of their
+volume, client needs, technology and production methods, such
+as offshore sourcing, affects the potential long-term growth of
+the Group.
+
+An ambitious programme, which aims to favour the emergence
+within the Group of its future leaders (project managers, architects,
+experts, etc.) led to a rethinking of the career paths, skill use
+opportunities and employment conditions of the Group's staff
+employed in productive subdivisions.
+
+Section 2, “Our responsibility to our employees”, of the Group's
+Sustainable Development and Corporate Social Responsibility
+Report (Chapter 4) provides an overview of the human resources
+policy.
+
+6.1.2. PRODUCTION RISKS
+
+The main risk lies in the Group’s ability to deliver on its commitments
+to clients in respect of quality, timescales and costs: to deliver
+products and services in line with specifications and within the
+stipulated timescales and allocated budget, particularly in the
+context of major client programmes. Providing responses to fully
+meet client demands and the control of production quality are
+among the primary challenges faced by the Group.
+
+Controlling such risks requires a perfect knowledge of numerous
+constantly evolving technical and business environments, the
+application of a prior validation procedure covering technical,
+legal and financial aspects, a tried and tested project management
+methodology designed to integrate the participation of Xshore
+production platforms, together with a management system for
+monitoring and controlling technical and accounting aspects.
+
+On another front, the realisation of the growing importance
+of issues related to the reliability of IT and communications
+infrastructure led to the role of the Head of Information Systems
+Security (within the Industrialisation department) being extended
+This initiative meets a need to spur greater involvement among
+all stakeholders across the Group in analysing risks associated
+with information systems and defining action plans in a context
+of growing interdependence between entities and onshore and
+offshore production sites.
+
+6.1.3. RISKS RELATED TO BUSINESS RELATIONS
+WITH KEY CLIENTS
+
+Commercial efficiency depends upon the ability to mobilise all
+client-related knowledge, where relationships with major clients
+extend over a number of years and involve numerous employees,
+often belonging to different units. Mastering this knowledge is a
+key factor, which permits an understanding of, and an appropriate
+response to, clients’ needs but also allows for better management
+of the risk of losing a client or a major contract.
+
+The sales approach used for major accounts is coordinated in
+the form of a procedure involving the members of the Executive
+Committee for the management of major commercial programmes.
+
+Registration Document 2013 - Sopra
+
+6.1.4. CASH MANAGEMENT RISKS
+
+The results obtained during the last two years in promoting better
+control of working capital requirements are largely attributable
+to the fact that improving the management of the client cycle
+remained a top priority throughout this period.
+
+The Finance Department, which manages the provisional financing
+plan, alongside the Legal Department and all operational managers
+remained mobilised to improve the Group’s performance in this area.
+Training efforts were pursued on behalf of managers, sales
+engineers and project managers, who contribute on a day-to-day
+basis to the hands-on implementation of directives in this area
+Effective management of invoicing and receipts remains a high-level
+priority.
+
+In addition, organisational improvements are allowing for a better
+separation of functions within the Finance Department, thus
+strengthening its control of the cash cycle.
+
+Finally, negotiated bank borrowing facilities help the Group
+manage its liquidity risk.
+
+6.2. Other risks
+
+6.2.1. LEGAL RISKS
+
+a. Intellectual property
+
+Brands
+
+Sopra and its subsidiaries have trademark protection for the main
+brand names used in each country.
+
+The brand portfolio is managed by the Group’s Legal Department
+with assistance from an industrial and intellectual property advisor.
+
+Patents
+
+Sopra Banking Software Belgium holds patents concerning
+technical algorithms used by various components (technological
+and functional) of the Sopra Banking Platform software suite,
+designed for banks and financial institutions.
+
+Neither Sopra nor any of its subsidiaries have filed for or hold other
+patents for software.
+
+Software licences
+
+Sopra and its subsidiaries own exclusive rights to all their software,
+either through having developed it in-house or by having acquired
+these rights.
+
+All of the Group’s software is protected by copyright. In some
+cases, copyright protection has been filed with bodies such as
+Logitas.
+
+Sopra and its subsidiaries only grant non-exclusive, non-transferable
+user licences for software packages supplied to their clients.
+
+b. Software distribution
+
+Software developed by Sopra or by Sopra Banking Software is
+usually marketed directly by the Group. The Group has nonetheless
+set up a number of distribution agreements with partners.
+
+
+--- Page 14 ---
+
+c. Specific regulations
+
+The Group is not subject to any specific regulations and its activities
+are not subject to any legal, regulatory or public authorisation.
+
+6.2.2. INDUSTRIAL AND ENVIRONMENTAL RISKS
+
+Sopra Group operates exclusively in the field of IT services and is
+therefore not exposed to any specific industrial or environmental
+risk.
+
+6.2.3. FINANCIAL RISKS
+
+Financial risks are discussed in Note 34 to the consolidated financial
+statements, in Chapter 5 of this document.
+
+Negotiated bank borrowing facilities help the Group manage
+its liquidity risk. The Group's policy concerning this matter is to
+have borrowing facilities at its disposal which are much more
+extensive than its needs. Sopra has entered into three syndicated
+credit facilities with its banks: in the amounts of €132 million
+in April 2008, €150 million in June 2011 and €128 million
+in June 2012. The Group has undertaken to comply with the
+covenants described in Note 36.4 to the consolidated financial
+statements, in Chapter 5 of this document.
+
+The Company has conducted a specific review of its exposure
+to liquidity risk and considers that it is able to meet its future
+maturities.
+
+As of this writing, there are no elements likely to have a material
+impact on Sopra’s financial position and performance.
+
+6.2.4. RISK OF CLIENT OR SUPPLIER DEPENDENCY
+
+a. Risk of client dependency
+
+In 2011, our number one client accounted for 7.3% of Group
+revenue; the top five clients represented 23.4% and the top ten
+represented 37.4%.
+
+In 2012, our number one client accounted for 7.4% of Group
+revenue; the top five clients represented 23.4% and the top ten
+represented 34.6%.
+
+In 2013, our number one client accounted for 7.6% of Group
+revenue; the top five clients represented 24.0% and the top ten
+represented 35.6%.
+
+Our main clients include BNP Paribas, CNAM/CPAM, Crédit Agricole,
+Airbus Group, EDF, Orange, Mulliez-Auchan, SFR and Société Générale.
+
+b. Risk of supplier dependency
+
+The most significant suppliers are the travel agency, the organisation
+issuing restaurant vouchers for staff members, a few sub-contractors
+and the owners of premises. There are many other suppliers each
+representing a low purchase amount. There is no significant risk
+related to the insolvency of any of our suppliers or subcontractors.
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Risk factors
+
+6.2.5. RISKS RELATED TO THE NATURE OF CONTRACTS
+
+The breakdown of revenue according to the nature of contracts is
+
+summarised in the table below:
+
+Consulting 5% 6%
+
+% of Group's total revenue
+
+2012
+
+Fixed-price projects 19% 15%
+Technical assistance 22% 28%
+Application outsourcing 29% 30%
+Industry application solutions 25% 21%
+TOTAL 100% 100%
+
+The revenue items exposed to the risk inherent in the determination
+of costs are:
+
+= 100% of fixed-price projects;
+
+= approximately 50% of application outsourcing;
+
+= approximately 20% of industry application solutions.
+
+About 38% of the Group’s total revenue is exposed to the
+risk inherent in the determination of costs during contractual
+negotiations. For information, in recent financial years we have not
+
+recorded any material fixed price overruns that would affect our
+ability to generate margins.
+
+6.2.6. RISKS RELATED TO DOWNTIME
+
+Downtime is equal to the number of days between two projects
+(excluding training, illness, paid leave, pre-sales, etc.) divided by
+the total number of days worked by the Group’s active engineers.
+
+This rate was approximately 5.0% in 2013 and 6.6% in 2012.
+
+6.2.7. INSURANCE AND RISK COVERAGE
+
+a. Civil liability insurance
+
+Sopra has taken out liability coverage with Allianz, a policy
+including business liability insurance, comprehensive general
+liability insurance, products and services liability insurance and
+professional liability insurance, both for the parent company and
+its subsidiaries.
+
+This policy provides worldwide cover with the exception of the
+United States, Canada, North Korea and, in particular, as part of
+the Group’s business in and to the entire world, with the exception
+of Sudan and South Sudan, depending on the loss involved, for the
+period from 1 January 2013 to 31 December 2013
+
+The amounts of the cover and excesses are as follows:
+
+Business liability / Comprehensive general liability
+
+a All-inclusive (bodily injury, property damage and financial losses,
+whether consecutive or not): €40,000,000 per year covered, of
+which €1,500,000 for accidental environmental damage.
+
+= Excess: €15,000 for all damage claims except bodily damage.
+
+Registration Document 2013 - Sopra
+
+57
+
+
+--- Page 15 ---
+
+58
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+Products and services liability / Professional liability
+
+a All-inclusive (bodily injury, property damage and financial losses,
+whether consecutive or not): €40,000,000 per year covered, of
+which:
+
+© additional expenses: €10,000,000 per year covered,
+© computer viruses: €5,000,000 per year covered
+
+= Excess: €15,000 for additional expenses and €150,000 for all
+damage claims except bodily damage.
+
+7.1. Corporate offices and
+positions held by each
+company officer during
+the financial year
+
+This information is provided in Chapter 2, Section 3 of this
+Registration Document.
+
+7.2. Details of compensation
+paid to company officers
+
+The company officers occupying a position within the Group who
+received fixed and variable compensation in respect of financial
+year 2013 are as follows:
+
+m= Pierre Pasquier, Chairman of the Board of Directors;
+a Pascal Leroy, Chief Executive Officer.
+
+The Chairman’s role justifies the fact that part of his compensation
+is conditional upon the achievement of targets set at the beginning
+of the year.
+
+7.2.1.
+
+b. Civil liability relating to aeronautic products
+
+Sopra has taken out a specific insurance policy covering liability
+arising from aerospace products.
+
+c. Directors’ and officers’ liability insurance
+
+Sopra has also contracted an insurance policy covering senior
+executives’ liability.
+
+Information concerning company officers
+
+Like all Executive Committee members, company officers holding a
+position within the Group received variable compensation in 2013
+based on 2012 results and receive such compensation in 2014
+based on 2013 results. This variable component may represent up
+to:
+
+= 40% of fixed annual compensation where the Group’s profitability
+
+target as well as individual targets are met;
+
+= 60% of fixed annual compensation for very strong performance.
+As a result of the alignment of the variable remuneration system
+applicable to executive company officers with that of all Executive
+Committee members, the Group departs from the recommendations
+of the AFEP-MEDEF Code of corporate governance, which states
+that “when qualitative criteria are used, a limit must be determined
+for the qualitative portion”. For the Group, qualitative criteria do
+not entitle the beneficiary to receive variable remuneration but
+serve instead to determine the upward or downward adjustment
+in the amount calculated in respect of the main profitability target
+shared by all senior executives and Executive Committee members.
+Due to the fact that these targets are not announced publicly, they
+may be determined without giving consideration to any factors
+other than the interests of the Group.
+
+SUMMARISED STATEMENT OF COMPENSATION PAYABLE AND OPTIONS AND SHARES ALLOCATED
+
+TO PIERRE PASQUIER (TABLE 1 — AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON
+
+17 DECEMBER 2013)
+
+Compensation payable in respect of the financial year €479,955 €481,449
+Valuation of multi-year variable compensation allocated during the financial year - -
+Valuation of options allocated during the financial year - -
+Valuation of performance-based shares allocated during the financial year - -
+TOTAL €479,955 €481,449
+
+Registration Document 2013 - Sopra
+
+
+--- Page 16 ---
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+7.2.2. SUMMARISED STATEMENT OF COMPENSATION PAID TO PIERRE PASQUIER (TABLE 2 — AMF POSITION-
+RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Amount due Amount paid Amount due Amount paid
+Fixed compensation €350,000 €350,000 €350,000 €350,000
+Annual variable compensation €105,000 €105,000 €105,000 €192,500
+Multi-year variable compensation - - - -
+Exceptional compensation - - - -
+Directors’ fees €20,622 €19,950 €19,950 €11,427
+Benefits in kind €4,333 €6,499 €6,499 €6,499
+TOTAL €479,955 €481,449 €481,449 €560,426
+
+As Chairman and CEO of Sopra GMT, the holding company that
+manages Sopra, Pierre Pasquier received fixed compensation
+in respect of the 2013 financial year from that company in the
+
+amount of €60,000. As Chairman of Axway Software, as indicated
+in its registration document, he also received fixed compensation
+from the latter company in the amount of €120,000.
+
+7.2.3. SUMMARISED STATEMENT OF COMPENSATION PAYABLE AND OPTIONS AND SHARES ALLOCATED
+TO PASCAL LEROY (TABLE 1 —- AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED
+
+ON 17 DECEMBER 2013)
+
+Compensation payable in respect of the financial year €498,322 €463,247
+Valuation of multi-year variable compensation allocated during the financial year - -
+Valuation of options allocated during the financial year - -
+Valuation of performance-based shares allocated during the financial year - -
+TOTAL €498,322 €463,247
+
+Pascal Leroy was named Deputy CEO on 29 October 2010 and
+subsequently Chief Executive Officer, effective from 20 August 2012.
+By way of exception to the guidelines set forth in the AFEP-MEDEF
+Code, the exercise of the 42,000 share subscription options
+(changed to 44,731 following adjustments for the Axway spin-off)
+allotted to Pascal Leroy on 29 March 2011 and exercisable as of
+30 March 2016 is not conditional on performance. These options
+were allotted in order to ensure that Mr Leroy’s interests were
+aligned with those of the shareholders. As a condition for this
+
+grant, Pascal Leroy agreed, for as long as he remains a Sopra
+Group company officer, not to sell or transfer more than 5% of
+the shares resulting from the exercise of these options in any given
+year. The performance requirement is only taken into account in
+respect of the variable component of compensation paid to the
+Group’s executives. The exercise price of these options was set at
+the average market price of the 20 days preceding the allocation,
+without a discount, in accordance with Group rules.
+
+7.2.4. SUMMARISED STATEMENT OF COMPENSATION PAYABLE TO PASCAL LEROY (TABLE 2 — AMF POSITION-
+RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Amount due Amount paid Amount due Amount paid
+Fixed compensation €400,000 €400,000 €341,806 €341,806
+Annual variable compensation €80,000 €102,542 €102,542 €105,000
+Multi-year variable compensation - - - -
+Exceptional compensation - - - -
+Directors’ fees - - - -
+Benefits in kind €18,322 €18,322 €18,899 €18,899
+TOTAL €498,322 €520,864 €463,247 €465,705
+
+Registration Document 2013 - Sopra
+
+59
+
+
+--- Page 17 ---
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+7.2.5. COMPENSATION OF MEMBERS OF THE BOARD OF DIRECTORS (TABLE 3 — AMF POSITION-
+RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+| STATEMENT OF DIRECTORS’ FEES AND OTHER COMPENSATION RECEIVED BY NON-EXECUTIVE COMPANY OFFICERS
+
+Christian Bret (appointed on 19 June 2012)
+
+Directors’ fees €22,951 €12,749
+Other compensation - -
+Alain Brodelle (term expired on 19 June 2012)
+
+Directors’ fees - €7,602
+Other compensation - -
+Kathleen Clark-Bracco (appointed on 19 June 2012)
+
+Directors’ fees €22,951 €9,661
+Other compensation - -
+Philippe Citerne (term expired on 19 June 2012)
+
+Directors’ fees - €12,749
+Other compensation - -
+Delphine Inesta (term expired on 19 June 2012)
+
+Directors’ fees - €10,373
+Other compensation - -
+Gérard Jean €27,362 €22,586
+
+Directors’ fees
+
+Other compensation - -
+Héléne Martel-Massignac (resigned effective 22 May 2013) €15,931 €17,295
+Directors’ fees
+
+Other compensation - -
+Francoise Mercadal-Delasalles (appointed on 19 June 2012) €14,399 €5,975
+Directors’ fees
+
+Other compensation - -
+Bernard Michel (Advisor) (appointed on 19 June 2012)
+
+Directors’ fees €19,809 €23,554
+Other compensation - -
+Jean Mounet (appointed on 19 June 2012)
+
+Directors’ fees €14,399 €8,961
+Other compensation - -
+Francois Odin
+
+Directors’ fees €22,190 €27,909
+Other compensation - -
+Jean-Luc Placet (appointed on 19 June 2012)
+Directors’ fees €20,894 €12,081
+Other compensation -
+
+Hervé Saint-Sauveur
+
+Directors’ fees €40,264 €38,543
+Other compensation - -
+Jean-Francois Sammarcelli
+
+Directors’ fees €8,228 €8,530
+Other compensation - -
+Gérard Vincent (term expired 19 June 2012)
+
+Directors’ fees - €11,482
+Other compensation - -
+TOTAL €229,378 €230,050
+
+GO | Registration Document 2013 - Sopra
+
+
+--- Page 18 ---
+
+The total amount of directors’ fees to be allocated with respect
+to the 2013 financial year was €250,000 (the seventh resolution
+approved by the General Meeting of 13 June 2013): The directors’
+fees allocated to Pierre Pasquier with respect to 2013, totalling
+€20,622, are presented in the table found in Section 7.2.2.
+
+Directors’ fees are allocated to participants in meetings of the Board
+of Directors and its committees (voting and non-voting members),
+solely on the basis of their effective participation in those meetings,
+whether by physical presence or telephone. The participation of
+chairmen in their respective committees was counted double.
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+Other compensation paid in 2013
+
+It should be noted that:
+
+= Kathleen Clark-Bracco’s compensation in respect of financial year
+2013 was €204,750 on the basis of her status as an employee of
+Sopra GMT, the holding company that manages Sopra;
+
+= Trigone, a company controlled by Jean Mounet, invoiced
+commercial consulting services totalling €366,250 in 2013
+under the terms of a contract signed in 2009.
+
+7.2.6. SHARE SUBSCRIPTION AND PURCHASE OPTIONS ALLOCATED DURING THE YEAR TO EXECUTIVE OFFICERS
+(TABLE 4 — AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Valuation of
+
+options via Number
+
+method used _ of options
+
+Number in consolidated allocated
+Name of executive and date Type of financial during the Exercise Exercise
+company officer of plan options statements year price period
+
+7.2.7. SHARE SUBSCRIPTION AND PURCHASE OPTIONS EXERCISED DURING THE YEAR BY EXECUTIVE OFFICERS
+(TABLE 5 —- AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Number and Number of options
+
+Name of executive company officer date of plan exercised during the year Exercise price
+Pascal Leroy Plan no. 5 (26/05/2005) 5,326 €53.84
+The options exercised had been allocated to Pascal Leroy on 21 December 2006, prior to his appointment as a company officer.
+7.2.8. BONUS SHARES ALLOCATED TO COMPANY OFFICERS
+(TABLE 6 —- AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+Valuation of
+options via
+method used
+. Number Number of shares in consolidated Conditions
+Name of executive and date allocated during financial — Acquisition for freeing
+company officer of plan the year statements date Vesting date shares
+
+Registration Document 2013 - Sopra
+
+61
+
+
+--- Page 19 ---
+
+62
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+7.2.9. BONUS SHARES ALLOCATED TO COMPANY OFFICERS THAT WERE FULLY VESTED DURING THE YEAR
+(TABLE 7 —- AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Number of options
+
+Number and made available during Vesting
+Name of executive company officer date of plan the financial year Exercise price conditions
+7.2.10. TIMELINE OF SHARE SUBSCRIPTION AND PURCHASE OPTION ALLOCATIONS
+(TABLE 8 —- AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+Plan No. 7
+- GM of
+Date of General Meeting Plan No. 5- GM of 26 May 2005 Plan No. 6 - GM of 15 May 2008 10May2011 Total
+Date of Board of Directors or Executive Board
+meeting 25/07/2006 | 21/12/2006* | 08/01/2007 | 18/03/2008* —17/03/2009* | 15/04/2010* | 29/03/2011* 20/11/2011
+Total number of shares that may be subscribed
+or purchased 30,000 67,000 5,000 50,000 20,000 30,000 49,500 5,000 256,500
+Of which: number of shares held
+by Pascal Leroy as a company officer 42,000 42,000
+Exercise price 57.85 58.80 60.37 45.30 27.16 53.68 72.00 43.22
+Number of shares initially allocated or
+readjusted following the Axway spin-off 30,000 70,423 5,000 52,642 21,302 31,953 52,720 5,000 269,040
+Initial or readjusted exercise price following
+the Axway spin-off 53.84 41.16 24.13 49.03 66.61
+Of which: number of shares held
+by Pascal Leroy as a company officer 44,731 44,731
+Date at which options may be exercised 26/07/2011 | 22/12/2011 | 09/01/2012 | 19/03/2013 18/03/2014} 16/04/2015] 30/03/2016 § — 21/10/2016
+Expiration date 24/07/2014 | 20/12/2014 | 07/01/2015 | 17/03/2016 16/03/2017 | 14/04/2018 | 28/03/2019 19/10/2019
+Subscription or purchase price 57.85 53.84 60.37 41.16 24.13 49.03 66.61 43.22
+Operating procedures NA NA NA NA NA NA NA NA
+Number of shares subscribed at 31/12/2013 0 22,901 0 3,196 26,097
+Cumulative number of share subscription
+or purchase options cancelled or lapsed 30,000 20,359 5,000 9,500 64,859
+Share subscription or purchase options
+remaining at 31/12/2013 0 27,163 0 39,946 21,302 31,953 52,720 5,000 178,084
+
+* Quantity and exercise price for option allocations adjusted folowing the Anway spin-off ad fisting transactions
+
+NA: not applicable
+
+A total of 26,097 subscription options were exercised in 2013
+
+under Plan 5
+
+No further options may be granted under Plan 5, Plan 6, or Plan 7.
+At the Combined General Meeting held on 19 June 2012, the
+shareholders authorised the Board of Directors to issue options
+under Plan 8. No shares have yet been allotted under this plan.
+
+Adjustments were made to the exercise price and volume of Sopra
+share subscription options yet to be exercised as at 14 June 2011
+to reflect the Axway spin-off and capital increase with pre-emptive
+rights for existing shareholders. These adjustments are set out in
+
+the table above.
+
+Registration Document 2013 - Sopra
+
+Based on these adjustments, the number of Sopra shares issuable
+against outstanding options is 178,084.
+On 19 June 2012, the General Meeting set a limit of 5% of the
+share capital for the issue of new shares against subscription
+options provided for under Plan 8, with the qualification that the
+issue of any subscription and/or purchase warrants for redeemable
+shares (BSAAR), as well as any bonus share issues, would result in
+this limit being lowered such that the total value of the securities
+
+issued would not exceed 5% of the share capital.
+
+
+--- Page 20 ---
+
+In light of the 166,875 bonus shares issued under the plan
+authorised by the General Meeting of 19 June 2012 (see Note 25.3
+of Chapter 5 of this document), the number of options that could
+still be issued as of 31 December 2013 under Plan 8 was 427,799.
+This in turn brings the maximum number of Sopra shares to be
+issued in respect of options to be exercised to 605,883.
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information concerning company officers
+
+On exercising their options, holders of Sopra options as at
+14 June 2011 are eligible to receive one free Axway Software share
+held by the Company for each Sopra option originally granted. The
+number of Axway Software shares that could thus be distributed
+by way of the exercise of Sopra Group options totalled 162,500 as
+at 31 December 2013.
+
+7.2.11. TEN LARGEST STOCK OPTION ALLOCATIONS TO EMPLOYEES WHO ARE NOT COMPANY OFFICERS
+AND OPTIONS EXERCISED BY SAID EMPLOYEES DURING THE YEAR (TABLE 9 — AMF POSITION-
+RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Number of
+
+options allocated/
+
+Ten largest stock option allocations to employees
+who are not company officers and options exercised
+by said employees during the year
+
+number of shares
+subscribed or
+
+Weighted
+average
+
+purchased price Plan 5 Plan 6 Plan7
+
+Ten largest stock option allocations during the year by the
+Company, and by any other Group entities able to grant
+options, to employees of the Company and of any other
+Group entities able to grant options (summary information)
+Stock options granted by the Company and by the
+aforementioned entities exercised during the year by the
+ten employees of the Company and these entities having
+thus exercised the largest number of stock options
+(summary information)
+
+20,771 €51.89 20,771 0 0
+
+7.2.12. TIMELINE OF BONUS SHARE ALLOTMENTS (TABLE 10 — AMF POSITION-RECOMMENDATION NO. 2009-16,
+
+REVISED ON 17 DECEMBER 2013)
+
+Date of General Meeting
+
+Plan 1 of
+19 June 2012
+
+Date of Board of Directors meeting
+
+Total number of bonus shares allotted
+
+of which company officers
+
+Share acquisition date
+
+Holding period end date
+
+Number of shares subscribed at 31 March 2014
+
+Cumulative number of shares cancelled or lapsed
+
+Number of allocated bonus shares remaining at end of period
+
+19/06/2012
+166,875
+
+0
+01/07/2014
+30/06/2016
+0
+
+28,200
+138,675
+
+Registration Document 2013 - Sopra
+
+63
+
+
+--- Page 21 ---
+
+64
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+
+Information concerning company officers
+
+7.2.13. EMPLOYMENT CONTRACTS, SUPPLEMENTARY PENSION PLANS, COMMITMENTS DUE
+
+ON THE TERMINATION OF SERVICE OR CHANGE OF FUNCTIONS, NON-COMPETITION CLAUSES
+(TABLE 11 — AMF POSITION-RECOMMENDATION NO. 2009-16, REVISED ON 17 DECEMBER 2013)
+
+Employment
+contract
+
+or likely to become due on
+the termination of service
+
+Supplementary
+pension plan
+
+or change of functions
+
+Indemnities
+relating to a non-
+
+Senior executive officer Yes No
+
+Yes No Yes No
+
+Pierre Pasquier
+
+Chairman
+
+Date of appointment: 2012
+
+End of term: 2018 x
+
+Pascal Leroy
+Chief Executive Officer
+
+Date of appointment: 2012
+End of term: indefinite x*
+
+x xe
+
+x
+
+* By way of exception to AFEP-MEDEF guidelines, given his seniority in the Group, Pascal Leroy’s employment contract was not terminated when he was named Chief Executive Officer.
+
+The contract remains in suspension as of his appointment to the position of Deputy CEO on 29 October 2010.
+** On 17 October 2012 the Board of Directors voted, on recommendation from the Compensation Committee, to grant Pascal Leroy a guarantee. This guarantee would be triggered
+
+only if his company officer status and his employment contract were to be terminated simultaneously, on the Company's initiative, except in the event of gross negligence, wilful
+
+misconduct, or compulsory retirement. The target amount of this guarantee will be equal to Pascal Leroy's average variable compensation, assuming fulfilment of targets, over the
+
+two financial years immediately preceding the termination of his company officer status. The amount effectively paid will be determined by multiplying the target amount by his
+
+average level of performance over the preceding two financial years. His average level of performance is defined as the ratio of his average variable compensation effectively paid
+
+over the preceding two financial years to his average variable compensation assuming fulfilment of targets. Thus, the payment of the guarantee is conditional upon the fulfilment,
+
+and prior recognition thereof by the Board of Directors, of the performance criteria agreed on as a basis for releasing variable compensation during the benchmark period. Moreover,
+
+the amount of the guarantee will be strictly proportional to the performance assessment validated by the Board of Directors.
+Pursuant to the provisions of the French Commercial Code, this guarantee was submitted for approval by the General Meeting of 13 June 2013 (fifth resolution).
+
+Registration Document 2013 - Sopra
+
+
+--- Page 22 ---
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Information on transactions in securities by directors or persons designated by Article L. 621-18-2 of the French Monetary and Financial Code
+
+Information on transactions in securities
+by directors or persons designated
+by Article L. 621-18-2 of the French Monetary
+and Financial Code
+
+Pursuant to Article 223-26 of the general regulations of the AMF, the transactions referred to in Article L. 621-18-2 of the French Monetary
+and Financial Code during financial year 2013, relating to Sopra shares, were as follows:
+
+Transaction Transaction Number of Transaction
+Category”) Name Function type ?) date securities Unit price amount
+a SEI ®) Chief Executive Officer A 02/01/2013 826 €47.9013 €39,566
+a SEI Chief Executive Officer A 04/01/2013 77,000 €47.9985 €3,695,885
+a SEI Chief Executive Officer A 08/01/2013 37,700 €48.0000 €1,809,600
+a SEI Chief Executive Officer A 09/01/2013 12,300 €47.9973 €590,367
+
+Francoise
+
+a Mercadal-Delasalles Director A 15/03/2013 1 €56.7500 €57
+a SEI Chief Executive Officer A 16/09/2013 1,355 €67.8851 €91,984
+a SEI Chief Executive Officer A 17/09/2013 843 €67.9107 €57,249
+a SEI Chief Executive Officer A 18/09/2013 51 €67.9400 €3,465
+a SEI Chief Executive Officer A 23/09/2013 20,766 €69.0192 €1,433,253
+a SEI Chief Executive Officer A 24/09/2013 1,985 €68.5000 €135,973
+a SEI Chief Executive Officer A 30/09/2013 500 €65.0000 €32,500
+a SEI Chief Executive Officer A 01/10/2013 3,500 €64.2293 €224,803
+a Pascal Leroy Chief Executive Officer sO. 04/10/2013 5,326 €53.8400 €286,752
+a Pascal Leroy Chief Executive Officer G 04/10/2013 5,326 €0.0000 €0
+a SEI Chief Executive Officer A _ 06/12/2013 12,000 €72.3663 €868,396
+
+(1) Category a: Members of the Board of Directors, CEO.
+(2) Type of transaction: A: Acquisition; D: Disposal, 5: Subscription; E: Exchange; G: Gift; SO: Exercise of stock options.
+(3) SEI is a French société par actions simplifiée (SAS, simplified joint stock company) with variable capital controlled by several of the Group's current and former senior managers.
+
+Pascal Leroy, Chief Executive Officer of Sopra, serves as Chairman of SEI.
+
+In addition, the following declarations of threshold crossings by registered intermediaries or fund managers were filed with the AMF in 2013:
+
+Shareholder(s) Crossing
+
+. AMF having of threshold(s)
+Date at which threshold(s) declaration crossed the in capital and Number of —% of voting
+crossed number threshold(s) voting rights Type shares rights
+04/12/2013 213C1877 FMR LLC 5% Increase 603,728 5.07%")
+01/10/2013 213C1510 Caravelle SA 5% Decrease : :
+
+(1) On the basis of share capital composed of 1 1,914,789 shares representing the same number of voting rights.
+
+Registration Document 2013 - Sopra
+
+65
+
+
+--- Page 23 ---
+
+66
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+Employee share ownership
+
+9] Employee share ownership
+
+Pursuant to the provisions of Article L. 225-102 of the French
+Commercial Code, we hereby inform you that, at 31 December 2013
+
+= employees of the Company or its affiliates held 12,153 Sopra
+shares in the form of units in company mutual funds (FCPE)
+through an employee savings plan;
+
+= no shares in the Company were held at 31 December 2013
+by employees or former employees through company mutual
+funds (FCPE);
+
+no shares in the Company were held at 31 December 2013 by
+employees during periods of inalienability provided for in Articles
+L. 225-194 and L. 225-197 of the French Commercial Code.
+
+Information required by Law 2006-387
+
+of 31 March 2006 relating to public
+
+acquisition offers
+
+1° The Company's ownership structure is presented in Chapter 7,
+
+Section 2 of this Registration Document.
+
+2° There are no restrictions in the Articles of Association:
+
+* relating to the number of voting rights per share; the
+General Meeting held on 22 June 2010 approved the
+elimination of double voting rights (Article 29 of the
+Articles of Association). Each Sopra share is attributed one
+voting right,
+
+e shares are freely tradable, other than as specified by
+applicable laws or regulations (Article 11 of the Articles of
+Association).
+
+The Company has not been informed of any clauses of agreements
+
+pursuant to Article L. 233-11 of the French Commercial Code.
+
+3° Any direct or indirect participating interests in the capital of
+the Company of which the latter has been informed pursuant
+
+to Articles L. 233-7 and L. 233-12 are presented in Chapter 7,
+
+Section 2 of this Registration Document.
+
+4° There are no special controlling rights.
+
+5° There is no control mechanism provided under an employee
+share ownership scheme.
+
+6° Agreements between shareholders of which the Company is
+aware and which may give rise to restrictions on share transfers
+and voting rights are presented in Chapter 7, Section 2 of this
+Registration Document.
+
+7° The regulations applicable to the appointment and replacement
+of the members of the Board of Directors are set forth in
+Article 14 of the Articles of Association. The regulations
+relating to the amendment of the Company's Articles of
+
+8°
+
+9°
+
+Association are contained within Article 33 of the Articles
+of Association, which states that the Extraordinary General
+Meeting alone shall be authorised to amend any and all
+provisions of the Memorandum and Articles of Association.
+
+The powers of the Board of Directors are described in
+Article 17 of the Articles of Association. “The Board of
+Directors determines the overall business strategy of the
+Company and supervises its implementation. It examines any
+and all matters related to the efficiency and effectiveness of
+business operations and reaches decisions about any and
+all issues concerning the Company, within the limits of the
+corporate purpose and except for those matters which, by
+law, can only be decided on by the shareholders in a General
+Meeting.”
+
+In addition, the Board of Directors has been given delegations
+of authority by the Combined General Meeting of 19 June 2012
+in the nineteenth to the thirty-second resolutions.
+
+Agreements concluded by the Company that might be
+amended or cease to apply in the event of a change in the
+ownership of the Company mainly concern the syndicated
+credit facilities concluded in April 2008, June 2011 and
+June 2012.
+
+10° There are no agreements providing for the payment of
+
+compensation to the members of the Board of Directors or to
+employees upon their resignation or their dismissal without
+just cause or should their employment contract be terminated
+due to a public offer, other than those stipulated in the
+related-party agreements in the Statutory Auditors’ special
+report on said agreements at the end of Chapter 6 of this
+Registration Document.
+
+Sustainable development and corporate
+
+social responsibility
+
+This information is provided in Chapter 4 of this Registration Document
+
+Registration Document 2013 - Sopra
+
+
+--- Page 24 ---
+
+MANAGEMENT REPORT OF THE BOARD OF DIRECTORS
+
+Summary of resolutions submitted for the approval of shareholders at the General Meeting of 27 June 2014
+
+Miscellaneous
+
+12.1.Delegations of authority
+granted to the Board
+of Directors by past
+General Meetings
+
+This item is addressed in Chapter 7, Section 4.
+
+12.2.Share buyback programme
+
+This item is addressed in Chapter 7, Section 2.3
+12.3.Regulated agreements
+
+12.3.1. COMMITMENTS TO COMPANY OFFICERS
+This item is addressed in Chapter 2, Section 1.2
+
+12.3.2. OTHER REGULATED AGREEMENTS
+
+Please refer to the special report of the Statutory Auditors.
+
+12.3.3. RECLASSIFICATION OF REGULATED
+AGREEMENTS
+
+At its meeting of 17 February 2014, in order to rationalise and
+efficiently manage the monitoring of inter-company agreements,
+the Board of Directors decided to exclude agreements concerning
+routine operations concluded under normal terms between Sopra
+
+and its fully-owned subsidiaries from the scope of the regulated
+agreement scheme. Such agreements include the following:
+
+= Cash management agreements concluded with the subsidiaries
+(Sopra Group Ltd, Sopra Group GmbH, Sopra Belux, Sopra Group
+SpA, SOPRAntic, Sopra Informatique, Sopra Group Informatica,
+Sopra Luxembourg)
+
+= Agreements entered into with Sopra Banking Software:
+Assistance provided by functional divisions,
+© Head office expenses,
+© Civil liability insurance,
+* Cash management agreements,
+¢ Lease on premises in Annecy,
+© Agreements to sublet premises,
+© Provision of IT resources,
+© Provision of personnel.
+
+= Tax consolidation agreements concluded by Sopra, the Group's
+parent company, and each of its consolidated subsidiaries,
+namely:
+© Sopra Banking Software, and
+© Sopra HR Software.
+= Sale of shares in SOPRAntic to Sopra Banking Software.
+As a result, these agreements will no longer be mentioned in
+the Statutory Auditors’ special report on regulated agreements
+and commitments, approved by the Annual General Meeting of
+Shareholders. Nevertheless, the application of these agreements
+will continue to be presented in documentation on transfer prices
+drawn up for each financial year, pursuant to the Company's
+obligations. This documentation is reviewed by the Statutory
+Auditors and transmitted to the Audit Committee on an annual
+basis.
+
+Summary of resolutions submitted
+
+for the approval of shareholders
+at the General Meeting of 27 June 2014
+
+These items are summarised in Chapter 8, Section 1 of this Registration Document.
+
+Paris, 23 April 2014,
+
+The Board of Directors
+
+Registration Document 2013 - Sopra
+
+67
+
+
+--- Page 25 ---
+
+68
+
+ANNEX TO THE MANAGEMENT REPORT OF THE BOARD OF DIRECTORS.
+Summary of results for the last five financial years for Sopra Group SA (individual financial statements)
+
+Summary of results for the last five financial years
+for Sopra Group SA (individual financial statements)
+
+(in euros) 2013 2012 2011 2010 2009
+
+Financial position of the Group at the year-end
+
+= Share capital 11,919,583 11,893,486 11,893,486 47,415,780 47,010,172
+= Number of shares issued 11,919,583 11,893,486 11,893,486 11,853,945 11,752,543
+= Number of bonds convertible into shares - - - - -
+
+Results of operations for the year
+
+= Revenue excluding VAT 853,281,417 819,228,076 850,278,131 770,733,208 723,828,915
+= Profit before tax, depreciation, amortisation and provisions 56,398,937 32,010,128 236,531,998 46,353,303 9,483,156
+= Corporate income tax 5,312,553 8,406,288 21,143,182 13,045,706 10,372,243
+= Profit after tax, depreciation, amortisation and provisions 40,946,527 34,841,059 173,287,949 42,557,634 44,462,844
+= Amount of profit distributed as dividends 22,647,208 20,218,926 22,597,623 9,483,156 9,402,034
+
+Earnings per share
+= Profit after tax but before depreciation, amortisation and
+
+provisions 4.29 1.98 18.11 2.81 4.87
+= Profit after tax, depreciation, amortisation and provisions 3.44 2.93 14.57 3.59 3.78
+= Dividend paid per share 1.90* 1.70 1.90 0.80 0.80
+Employee data
+a Number of employees 8,901 8,395 8,654 7,843 7,596
+a Total payroll 382,986,738 358,743,374 363,402,201 328,767,823 312,763,163
+= Social and social benefit charges paid (social security, social
+
+bodies, etc.) 170,862,230 167,007,884 169,287,774 150,925,734 143,666,230
+
+* Subject to approval by the General Meeting of 27 June 2014.
+
+authority «
+
+in the
+
+orm of
+
+= The authorisation granted to the Board of Directors by the securities entitling access to the Company’s share capital was
+twentieth resolution, to cancel the shares that the Company not used.
+may have repurchased under share repurchase programmes, = The delegation of authority given to the Board of Directors
+was not used. by the twenty-third resolution, to decide to increase the
+
+a The delegation of powers to the Board of Directors by the number of shares or securities giving access to the Company's
+twenty-second resolution to increase the Company's share capital to be issued pursuant to the delegation of authority
+share capital by up to €3.5 million in par value, maintaining provided for in the twenty-second resolution, up to a maximum
+pre-emptive subscription rights, by issuing shares or any other of 15% of the amount of the initial issue and at the same price,
+
+in the event of excess demand, was not used.
+
+Registration Document 2013 - Sopra
+
+
+--- Page 26 ---
+
+REPORT OF THE BOARD OF DIRECTORS RELATING TO SHARE SUBSCRIPTION OPTIONS
+Summary of results for the last five financial years for Sopra Group SA (individual financial statements)
+
+= The delegation of authority given to the Board of Directors by
+the twenty-fourth resolution, to decide to increase the share
+capital through the capitalisation of reserves, the issue of new
+shares or by increasing the par value of existing shares, was not
+used.
+
+= The delegation of powers to the Board of Directors by the
+twenty-fifth resolution to increase the Company's share
+capital by up to €3.5 million in par value, eliminating pre-emptive
+subscription rights, by issuing shares or any other securities
+entitling access to the Company’s share capital as part of a public
+offering was not used
+
+= The delegation of authority given to the Board of Directors by
+the twenty-sixth resolution, to decide to increase the number
+of shares or securities giving access to the Company’s share
+capital to be issued pursuant to the authorisation referred to
+in the twenty-fifth resolution, without pre-emptive subscription
+rights for existing shareholders, up to a maximum of 15% of the
+amount of the initial issue and at the same price, in the event
+that the issue is oversubscribed, was not used.
+
+= The delegation of powers to the Board of Directors by the
+resolution to increase the Company’s
+
+twenty-seventh
+
+share capital by up to €3.5 million in par value, eliminating
+pre-emptive subscription rights, by issuing shares or any other
+securities entitling access to the Company’s share capital as part
+of an offering reserved for qualified investors or a restricted circle
+of investors, as provided for in paragraph II of Article 411-2 of
+the French Monetary and Financial Code, was not used.
+
+= The delegation of authority given to the Board of Directors
+by the twenty-eighth resolution, to decide to increase the
+Company's share capital, without pre-emptive subscription
+rights for existing shareholders, in consideration of contributions
+in kind consisting of equity securities or other securities giving
+access to equity, was not used.
+
+= The delegation of authority given to the Board of Directors
+by the twenty-ninth resolution, to decide to increase the
+Company's share capital in favour of employees of the Company
+or other companies within the Group that are members of an
+employee savings plan, was not used.
+
+Paris, 23 April 2014,
+
+The Board of Directors
+
+N opti
+
+ons
+
+The Board of Directors did not use the authorisation given by the thirtieth resolution of the Combined General Meeting of 19 June 2012
+
+to grant share subscription options to employees.
+Paris, 23 April 2014,
+
+The Board of Directors
+
+Registration Document 2013 - Sopra
+
+69
+
+
+--- Page 27 ---
+
+70
+
+REPORT OF THE BOARD OF DIRECTORS
+
+Summary of results for the last five financial years for Sopra Group SA (individual financial statements)
+
+ort of the Board of Directc
+by the General Meeting to issue
+or acquire redeemable shares |
+
+of the Company or its Group
+
+The Board of Directors did not use the authorisation given by
+the thirty-first resolution of the Combined General Meeting of
+19 June 2012 to issue BSAARs to employees and/or officers of the
+Company or its Group.
+
+t of the
+
+16 shareho
+
+ders
+
+S relating to the autho
+varrants to subscribe for and/
+
+elating to the autho
+in the General Mee
+
+‘isation giver
+
+ra
+AS
+
+oyees and/or offi
+
+eMp
+
+The Board of Directors did not use the authorisation given by
+the ninth resolution of the Combined General Meeting of
+13 June 2013 to issue BSAARs to employees and/or officers of the
+Company or its Group.
+
+Paris, 23 April 2014,
+
+The Board of Directors
+
+ation oranted
+ot bonus § she
+
+wike)
+
+by tr
+in fay
+
+pelme of
+
+eMC
+
+The Board of Directors used the authorisation granted by the
+thirty-second resolution at the General Meeting of 19 June 2012
+to proceed with an equitable allotment of 15 shares to
+11,125 employee grantees, for a total of 166,875 shares.
+
+At 31 December 2013, there were no more than 9,245 employees
+concerned, for a total of 138,675 shares. This allotment could
+represent up to approximately 1.16% in maximum theoretical
+dilution. This maximum theoretical dilution does not take into
+account the loss of rights of employees leaving the Group during
+
+Registration Document 2013 - Sopra
+
+es and officers of the | Co MOE
+
+Fes
+
+ANY OF ITS Group
+
+the period from 1 January 2014 to the date after which they will
+effectively become the owners of the shares (the vesting period
+lasts between two and four years, depending on the country of
+employment).
+
+Paris, 23 April 2014,
+
+The Board of Directors

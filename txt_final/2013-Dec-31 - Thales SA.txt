@@ -1,0 +1,2236 @@
+
+
+--- Page 1 ---
+
+8
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+1.1
+
+1.1.1
+
+In 2013, Thales achieved all its objectives. Whilst sales were stable, as
+expected, the Group achieved a substantial improvement in operating
+
+GROUP MANAGEMENT REPORT
+
+Report on operations and results
+
+profitability, with a strengthened financial situation, and a strong growth
+of order intake, particularly in emerging markets.
+
+1.1.1.1 Key figures (adjusted)
+
+(€ million) 2013 2012 Total change Organic change*!
+Order intake 168 13,285 +7% +10%
+Order book'! 29,527 29,849 1% +0%
+Sales 194 4,158 +0% +3%
+EBIT!) 1,003 927 +8% +11%
+in % of sales 7.1% 6.5%
+
+Adjusted net income, Group sharel*! 644 570 +13%
+
+Adjusted net income per share [in euros}* 3.20 2.86 +12%
+
+Net income, Group share 573 586 2%
+
+Dividend per share (in euros}'*! 1.120 0.88 +27%
+
+Free operating cash flow"! 466 669
+
+Net cash 1,666 1,528
+
+la) Restated to take into account IAS} R first adoption (see note 1-a of the notes fo the consolidated financial statements).
+
+lb} In this report, “organic” means “on a like-forlike basis and at constant exchange rates".
+
+(d) Non-GAAP measure, see definition below in the section “Presentation of financial information”.
+
+{
+tt
+{c) In 2013, the Group revised the rules for valuing the order book, especially in civil avionics, so that the approach provides a better reflection of the economic reality.
+{
+{
+
+fe]. Total amount proposed fo the AGM on 14 May 2014, including the interim dividend of €0.27 paid in December 2013
+
+1.1.1.2 Presentation of financial
+information
+
+Accounting policies
+
+The consolidated financial statements of the Thales group are prepared
+in accordance with IFRS (International Financial Reporting Standards)
+as approved by the European Union at 31 December 2013
+
+These principles, described in note 23, are consistent with those applied
+for the year ended 31 December 2012, except for the following
+elements: IAS 19 revised (Employee Benefits), IFRS 13 (Fair value
+measurement} and the amendment to IFRS 7 (Disclosures and Offsetting
+Financial Assets and Financial Liabilities). Annual Improvements to IFRS,
+published in May 2012, has no significant impact for the Group.
+
+Non-GAAP financial measures
+
+In order to enable better monitoring and benchmarking of its operating
+and financial performance, the Group presents two main non-GAAP
+
+THALES REGISTRATION DOCUMENT 2013
+
+indicators, excluding non-operating and non-recurring items. They are
+determined as follows
+
+= EBIT, an adjusted operating metric, equivalent to income from
+operations excluding the amortisation of intangible assets acquired
+(purchase price allocation, “PPA") recorded as part of important
+business combinations.
+Starting from | January 2014 and the start of application of the new
+IFRS 10 and IFRS 11 standards, EBIT will also include share in net
+income (loss) of equity affiliates.
+
+Adjusted net income refers to net income, excluding [i] amortisation
+of intangible assets acquired, (ii) disposal of assets and others,
+(iii) change in fair value of derivative foreign exchange instruments
+(recorded in “other financial results” in the consolidated accounts),
+(iv) actuarial gains or losses on long-term benefits (accounted within
+the “finance costs on pensions and employee benefits” in the
+consolidated accounts, net of the corresponding tax effects.
+
+For reminder, only the consolidated financial statements are audited
+by the statutory auditors, including the EBIT set out in note 3 to the
+consolidated financial statements “Segment information". Adjusted
+financial data other than provided in note 3 “Segment Information”, is
+subject to the verification procedures applicable to all of the information
+provided in this report
+
+www.thalesgroup.com
+
+
+--- Page 2 ---
+
+The impact of these adjustments on the income statement is shown below:
+
+> IMPACT OF ADJUSTMENT ENTRIES ON INCOME STATEMENT — 2013,
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Adjustments
+Change in
+Consolidated Gain (loss) fair value of Adjusted
+income —_Amortisation of on disposal derivative income
+statement intangible assets _of assets and exchange statement
+(€ million) 2013 (PPA) others instruments 2013
+Sales 14,194 14,194
+Cost of sales (10,845) (10,845)
+R&D (673) (673)
+Selling, general and administrative expenses (1,554) (1,554)
+Restructuring costs (119) (119)
+EBIT N/A 1,003
+Amoriisation of intangible assets acquired [PPA] (98) 98 2
+Income from operations 905 98 N/A
+Impairment of non current operating assets (4) (4)
+Disposal of assets, change in scope of consolidation
+
+and other 12 (12)
+Income of operating activities 913 98 (12) 999
+Cost of net financial debt (I) (1)
+Other financial income (expense) (50) 29 (21)
+Net financial expense (51) 29 (22)
+Finance costs on pensions and other employee benefits (72) (72)
+Income tax (237) (34) (10) (281)
+Share in net income {loss} of equity affiliates 20 20
+Net income 573 64 (12) 19 644
+
+REGISTRATION DOCUMENT 2013 THALES 9
+
+
+--- Page 3 ---
+
+10 THALES
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+> IMPACT OF ADJUSTMENT ENTRIES ON INCOME STATEMENT — 2012
+Adjustments
+Change in
+Consolidated Gain (loss) _ fair value of Actuarial Adjusted
+income _Amortisation of —_on disposal derivative gains/losses income
+statement intangible assets _ of assets and exchange on other long- statement
+(€ million) 20120 (PPA) others instruments _ term benefits 2012
+Sales 14,158 14,158
+Cost of sales (10,868) (10,868)
+R&D (687) (687)
+Selling, general and administrative expenses _—_—(1,558) (1,558]
+Restructuring costs (118) (118)
+EBIT N/A 927
+Amorttisation of intangible assets acquired
+(PPA) (112) 112
+Income from operations 816 112 N/A
+Impairment of non current operating assets (15) (15)
+Disposal of assets, change in scope of
+consolidation and other 123 (123) -
+Income of operating activities 923 112 (123) 913
+Cost of net financial debt (13) (13)
+Other financial income (expense) (53) 26 (27)
+Net financial expense (66) 26 (40)
+Finance costs on pensions and other
+employee benefits (99) 15 (84)
+Income tax expense (197) (39) 8 (9) (5) (242)
+Share in net income (loss) of equity affiliates 24 24
+Net income 586 73 (115) 17 10 570
+a) Restated to take into account IAST9 first adoption (see note 1-0 of the notes fo the consolidated financial statements}
+1.1.1.3 Order intake
+(€ million) 2013 2012 Total change —_ Organic growth
+ORDER INTAKE
+Aerospace 4,130 4,051 +2% +9%
+Transport 1,492 1,653 -10% -8%
+Defence & Security 7,661 6,748 +14% +17%
+DCNS (at 35%) 795 758 +5% +5%
+Others and discontinued activities 90 75
+TOTAL 14,168 13,285 +7% +10%
+
+New orders booked in 2013 amounted to €14,168m, a 7% increase
+compared to 2012 (+10% at constant exchange rates and scope]. At
+
+] December 2013 the consolidated order book stood at €29,527m,
+representing more than two years of sales. The book-tobill ratio (order
+intake to sales) amounted to 1.00 for the full year 2013
+
+Nineteen significant orders over €100m unit value were registered
+in 2013, compared to ten!” in 2012.
+
+{1} Including two contracts booked by DCNS.
+
+REGISTRATION DOCUMENT 2013
+
+Ten of these major 2013 contracts are for emerging market customers,
+compared to two in 2012
+
+= in Aerospace, the Group won several major contracts: in Avionics,
+a UK A400M aircrew training and simulation service contract
+and in Space, a contract with the European Space Agency (ESA)
+as prime contractor for the 2016 and 2018 missions of the
+Exomars scientific programme, as well as several contracts for
+satellites, including a dualuse communication satellite for Brazil,
+an observation satellite for an African country and a new tranche
+of the European Meteosat programme;
+
+www.thalesgroup.com
+
+
+--- Page 4 ---
+
+= in Transport, two major main line rail signalling orders were signed
+in South Africa and Egypt.
+
+= in Defence & Security, the Group booked several large orders: in
+France, with the second tranche of the Contact software defined
+radio programme, the Atlantique 2 maritime patrol aircraft renovation
+and the new F3R standard Rafale [laser targeting pod, electronic
+systems}. In the United Kingdom, Thales was awarded a sensor system
+support contract for the Royal Navy. In emerging markets, several
+major contracts were captured in Defence & Security, particularly in
+the Middle East (Saudi frigates upgrade, air defence radars in the
+United Arab Emirates, optronics and critical infrastructure security)
+
+Orders for a unit value of less than €10m represent almost half of the
+
+order intake in terms of value.
+
+New orders in emerging markets recorded a sharp rise (+30%)
+compared to 2012, at €4,566m, and amounted to 32% of total
+order intake, compared to 26% over the same period in 2012. This
+growth was particularly significant in the Middle East, where the Group
+order intake nearly doubled compared to 2012
+
+New orders for Aerospace amounted to €4,130m, compared to
+€4,051m for 2012. Excluding the impact due to the disposal of
+activities in 201 2 (civil fixed-wing aircraft simulation, Diehl Aircabin),
+Avionics order intake remained generally stable, as the continued
+growth in on-board avionic activities, both original equipment and
+support, and helicopters avionics compensated lower orders in in-flight
+entertainment, tubes and imaging (after the high level of orders witnessed
+in 2012). Space activities saw major growth in orders, particularly
+in observation and exploration satellites (Exomars, Meteosat, Cosmo-
+Skymed programmes}, whereas the Telecom segment was down,
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+despite the signature of the above-mentioned contract for a dualuse
+communication satellite contract in Brazil.
+
+In the Transport segment, new orders amounted to €1,492m, compared
+to €1,653m in 2012 (during which several high unit value contracts
+were notified: mainline rail network in Denmark, Singapore urban rail).
+However, 2013 witnessed several significant commercial successes,
+particularly in emerging markets: mainline rail signalling contracts in
+South Africa (Cape region) and in Egypt (CairoAlexandria line), and
+metros in China (Hong Kong, Guangzhou, Nanjing) and in Latin America
+{Santiago}.
+
+Defence & Security order intake stood at €7,661m versus €6,748m
+in 2012, which represented an organic growth of 14%. This evolution
+reflects the sharp rise in orders for Defence Mission Systems, driven in
+particular by the UK Royal Navy sensor system support contract, the new
+F3R standard Rafale and the French Atlantique 2 maritime patrol aircraft
+renovation and the Sawari | Saudi frigates upgrade. Orders for Secure
+Communications and Information Systems recorded a strong increase,
+particularly in radio-communications (new tranche of the French Contact
+software defined radio contract), in military communications networks
+(France, NATO), as well as in cybersecurity. Order intake for Land and
+Air Systems was mainly stable, with successes in air defence, optronics
+and weapons systems in the Middle East or in air traffic management
+in the Philippines, Brazil and Africa
+
+DONS order intake (at 35%) totalled €795m in 2013, compared
+to €758m in 2012. The key orders booked during the period were
+the Sawari | frigates upgrade contract for Saudi Arabia, as well as
+amendments to the French FREMM frigates and submarine programmes.
+
+1.1.1.4 Sales
+
+(€ million) 2013 2012 Total change —_ Organic change
+‘SALES
+
+Aerospace 4,451 4AI7 +1% +6%
+Transport 1,481 1,535 A% 2%
+Defence & Security 6,988 7,081 “1% +1%
+DCNS (at 35%) 1,176 1,027 +14% 414%
+Others and discontinued activities 98 98
+
+TOTAL 14,194 14,158 +0% +3%
+
+Group sales totalled €14,194m at 31
+almost identical to the 2012 figures".
+
+December 2013, which is
+
+In Aerospace, sales amounted to €4,451m, a 1% increase compared
+to 2012 (+6% at constant exchange rates and scope}. Avionics activities
+continued their strong progression, driven by flight avionics systems
+(Airbus, Bombardier}, in-flight entertainment and military simulation
+activities (A400M). Tubes and imaging activities also made a positive
+contribution to sales. Space sales increased slightly, both in observation
+and exploration activities (Cosmo-Skymed, Exomars} and in Telecom
+(Iridium, Eutelsat and Arabsat programmes)
+
+Sales for Transport segment recorded €1,481m, compared to
+€1,535m at end of 2012 |-2% at constant exchange rates and scope).
+Signalling activity sales were slightly up due to recent order intake
+while only partially offsetting lower sales in ticketing due to some major
+contracts coming to an end
+
+(1) The foreign exchange impact on sales was -€227m, mainly because of the appreciation of the euro against the Australian dollar, the Pound sterling and the American dollar.
+
+REGISTRATION DOCUMENT 2013 THALES
+
+
+--- Page 5 ---
+
+12
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Defence & Security sales came to €6,988m, down 1% [+1% at constant
+exchange rates and scope}. Secure Communications and Information
+Systems sales were slightly down over the period, despite the increase
+of radio communications (ramp up of the Contact contract in France)
+and of cybersecurity. Land and Air Systems recorded slightly lower sales
+in 2013, particularly in armaments and air defence activities. At the
+same time, sales of Defence Mission Systems saw a major increase
+over the period, mainly driven by the French Rafale programme, the
+
+1.1.1.5 Adjusted results
+
+Indian Mirage 2000 upgrade, as well as electronic warfare and
+sonar activities.
+
+DCNS sales (at 35%) amounted to €1,176m at 31 December 2013,
+a 14% increase compared to 31 December 2012. This evolution
+reflects a good progress of the programmes in France (FREMM frigates,
+Barracuda submarines) and internationally (submarines in India and
+Brazil, Mistral-class projection and command ship for Russia)
+
+> EBIT
+
+(€ million) 2013 2012 Total change —_ Organic growth
+
+EBIT
+
+Aerospace 370 297 +24% +20%
+in % of sales 8.3% 6.7%
+
+Transport G7 95 +3% +7%
+in % of sales 6.5% 6.2%
+
+Defence & Security 518 504 +3% +5%
+in % of sales 7A’ 71%
+
+DCNS [at 35%) 63 79 -20% 15%
+in % of sales 5.4% 77%
+
+Others and discontinued activities (45) (48)
+
+TOTAL 1003 927 + 8% +11%
+in % of sales 7.1% 6.5%
+
+In 2013, the Group's EBIT came to €1,003m, or 7.1% of sales
+compared to €927m (6.5% of sales} en 201 2. This 8% increase in EBIT
+(+11% in organic terms) reflects ongoing performance improvement
+measures.
+
+The Aerospace segment's EBIT continues to grow, reaching €370m
+(8.3% of sales), compared to €297m (6.7% of sales} in 2012. In
+Avionics, the marked growth in results, boosted by the civil avionics
+activities and in-flight entertainment, is due to a favourable volume
+impact and improved project execution. Space activities also recorded
+improved EBIT in 2013, thanks to more efficient project management
+and reduced restructuring costs.
+
+The Transport segment posted an EBIT of €97m (6.5% of sales), stable
+compared to 31 December 2012 (€95m, or 6.2% of sales}. This
+stable profit level over 2013 reflects a more efficient execution of
+contracts during the second halfyear, despite an unfavourable mix
+and volume effect:
+
+The EBIT of Defence & Security increased in 2013 and totalled €518m
+(7.4% of sales}, compared to €504m in 2012 (7.1% of sales). Thanks
+to good contract execution and efficient indirect cost control, Secure
+Communications and Information Systems showed an increasing EBIT
+in 2013. Defence Mission Systems recorded a slight increase in EBIT
+compared to last year, despite higher restructuring costs, which offset
+
+the project execution improvement. By contrast, EBIT for Land and
+Air Systems was lower, mainly due to an unfavourable volume effect
+during the period
+
+The EBIT for DENS (at 35%) reached €63m at 31 December 2013,
+significantly lower than in 2012 (20%) despite strong sales growth
+The deterioration of operating profitability is due to difficulties in the
+execution of civil nuclear projects.
+
+Adjusted income of operating activities
+
+Adjusted operating income came to €999m compared with €913m
+in 2012 (+9%], in line with the increase in EBIT, as impairment on
+intangible assets was limited at -E4m compared with -€15m in 2012
+
+Adjusted financial income
+
+Adjusted net financial expense, came to -€22m compared to -€40m
+in 2012, mostly due to the fall in financial costs following the refinancing
+of the 2013 bond at favourable market conditions. Adjusted finance
+costs on pensions and other employee benefits"! dropped to -€72m
+compared to -€84m!") in 2012, thanks to the fall in interest costs.
+
+(1) Restated to take into account |AS19 R first adoption (see note I-a of the notes to the consolidated financial statements}.
+
+THALES REGISTRATION DOCUMENT 2013
+
+www.thalesgroup.com
+
+
+--- Page 6 ---
+
+Adjusted net income
+
+Share in net income of equity affiliates recorded a slight decrease at
+€20m, compared to €24m last year.
+
+Thus, 2013 closed with an adjusted net profit, Group share!’! of
+€64Am, representing an increase of 13% compared to 2012, after
+adjusted net income tax" of €281m against -€242m"", giving an
+effective tax rate of 31%, which is similar to last year. Adjusted net
+income per share!'! was €3.20 compared to €2.86" in 2012, up 12%
+
+1.1.1.6 Consolidated results
+
+Income from operations
+
+Consolidated EBIT came to €905m compared to €816m in 2012
+representing an increase of +11%. This increase reflects the changes
+mentioned above (cf. paragraph “EBIT" in the section "Adjusted
+Results"), as well as the decline in the effect of amortisation of intangible
+assets acquired ("PPA"), which came to -€98m in 2013 compared
+to-€112m the previous year, mainly linked to acquisitions of Alcatel’s
+Space and Transport activities in 2007 and the entry (2007) then
+increase of equity interest (2011) in DCNS
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Income of operating activities
+
+Consolidated income of operating activities came to €913m,
+broadly stable compared to the previous year, with the progression
+in EBIT in 2013 offset by the capital gains registered in 2012 from
+the disposals of the civil simulation activity in the United Kingdom and
+the 49% participation in Diehl Aircabin in Germany.
+
+Financial result
+
+Financial expense was -€51m compared to -€66m in 2012, mainly
+due to the decrease in financial costs following the refinancing of
+the 2013 bond payment at favourable market conditions. The other
+components of pension charge declined to -€72m against -€99m
+in 2012, thanks to the reduction in interest expense
+
+Net income
+
+Consolidated net profit, Group share, reduced slightly to €573m
+compared to €586m during the previous year, with a tax expense of
+-€237m compared to -€197m in 2012
+
+1.1.1.7 Financial position at 31 December 2013
+
+Free operating cash flow”! was €466m compared to €669m in the previous year, during which the Group had received significant payments
+at the end of the year.
+
+(€ million) 2013 2012
+Operating cash flows 1415 1,346
+Change in working capital requirements and in reserves for contingencies (275) 13
+Payment of contributions /pension benefits (1.26) (113)
+Financial interest paid (24) (37)
+Income tax paid (91) (125)
+Net operating cash flow’) 899 1,084
+Net operating investments (433) (415)
+Free operating cash flow 466 669
+Net (acquisitions|/disposals (89) 156
+Deficit payments on pensions in the United Kingdom (64) (64)
+Dividends (181) (155)
+Foreign exchange and others 6 17
+Change in net cash 138 623
+
+{a} Excluding deficit payments on pensions in the United Kingdom.
+
+Due to increased dividend payments and net (acquisitions)/disposals of
+-€89m in 2013, compared to a positive balance of €156m in 2012
+thanks to different disposals of assets, net cash amounted to €1,666m
+up €138m compared fo yearend 2012
+
+Equity, Group share, was €3,91 1m compared to €3,54 1m!" at year
+end 2012, which takes into account a consolidated net income of
+€573m
+
+{1} Restated to take into account IAS 19 R first adoption (see note I-a of the notes to the consolidated financial statements)
+(2) Operating cash flow + changes in working capital requirement (WCE) and in reserves for contingencies — net financial interests paid — payment of pension benefits (excluding
+deficit payments on pensions in the United Kingdom} — tax — net operating investments.
+
+REGISTRATION DOCUMENT 2013 THALES
+
+13
+
+
+--- Page 7 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+1.1.1.8 Proposed dividend
+
+At the Annual General Meeting on 14 May 2014, the Board of directors
+will recommend the distribution to shareholders of a dividend of €1.12
+per share, up 27%. This corresponds to an increase in the payout ratio
+to 35% of the adjusted net income, compared to 30% last year.
+
+If approved, the exdividend date will be 27 May 2014 and the
+payment date 30 May 2014. The dividend will be paid entirely in cash
+and will total €0.85 per share, after deducting the interim dividend of
+€0.27 per share already paid in December 2013
+
+1.1.2 Risk factors
+
+Thales is exposed to a number of risks and uncertainties which could
+materially affect its business, reputation, financial position, results or
+ability to achieve its objectives. The risks described below are not the
+only ones that Thales faces. Other risks, unknown to Thales on this date,
+or which presently appear to be non-significant, could also have an
+unfavourable impact on the business, profitability and financial position
+of the Group or its ability to achieve its objectives:
+
+Generally, Thales may be faced with a number of financial, legal,
+operational and strategic risks.
+
+1.1.2.1 Financial risks
+
+1.1.2.1.1 Liquidity
+
+Thales’ liquidity risk corresponds to its level of exposure to changes in
+the main market indicators that could lead to an increase in the cost of
+credit or even to a temporary limitation of access to external sources
+of financing
+
+The Group manages this risk by trying to anticipate its cash needs and
+ensures that these are covered by the Group's shorHerm and longterm
+financial resources as follows:
+
+= shareholders’ equity, listed by heading in note 14 to the consolidated
+financial statements;
+
+= gross debt, listed by maturity in note 11 to the consolidated financial
+statements;
+
+= committed, undrawn credit facilities granted by banks as backup to
+the commercial paper programme and acting as a financial reserve
+These are described in more detail in note 21 to the consolidated
+financial statements.
+
+The principle of centralising the entities’ shortterm assets and liabilities
+(cash pooling) is applied to the combination of entities in the same
+currency zone (euro zone, sterling zone, dollar zone and Australian
+dollar zone, etc.) and, in some cases, in the same country.
+
+14. THALES REGISTRATION DOCUMENT 2013
+
+1.1.1.9 Outlook for 2014
+
+Order intake in emerging markets should continue to increase, with
+double-digit growth expected for 2014, allowing to offset the expected
+fall of order intake from mature countries, particularly in defence markets.
+
+Sales should remain stable.
+
+A continuing drive to improve performance should enable the Group
+to post a further increase in EBIT, which should increase by 5 to 7%
+compared to 2013
+
+Through the consolidation and centralisation of cash requirements and
+surpluses of its units, the Group is in a position to:
+
+= simplify cash management and match the cash positions of units to
+produce a single consolidated position that is easier to manage; and
+
+= gain prime access to financial markets through the parent company’s
+financing programmes, rated by Standard & Poor's and Moody's
+(see below)
+
+At 31 December 2013, cash recorded under consolidated assets
+
+amounted to €3,023.8m (compared with €2,518.3m at end-201 2),
+
+including
+
+= €2,051.7m held by the parent company and available for immediate
+use (€1,721.8m in 2012);
+
+= €501.8m in the bank credit balances of subsidiaries (€392.8m in
+2012), most of them outside of France. This figure includes, inter
+alia, payments received in the last few days of the financial year and
+subsequently transferred to the corporate treasury account;
+
+= €470.3m in cash held directly by the companies in joint ventures
+(prorated by Thales’ interest in each joint venture), including €218.5m
+for DCNS for which Group cash pooling cannot be used in certain
+cases (€403.7m in 2012, of which €191.3m for DCNS)
+
+Cash at bank and equivalents at yearend is solely invested in bank
+
+deposits, in very shorterm bank certificates of deposit with firsttier
+
+banks or in money market funds. At the date of publication, Thales’
+
+credit risk ratings were as follows
+
+Moody’s Standard & Poor's
+
+Medium and long-term loans A2 BBB+
+Outlook Negative Positive
+Commercial paper & shortterm
+
+loans Prime-1 A2
+
+The decrease of Thales’ credit risk rating doesn't place at risk financial
+covenants included in financing contracts. The coming into effect of
+the unique clauses providing for accelerated repayment would only
+apply in the event that the State no longer held its golden share and,
+simultaneously, the ratio of consolidated net financial debt to EBITDA
+(earnings before interest, taxes, depreciation and amortisation) were
+to exceed 3
+
+www.thalesgroup.com
+
+
+--- Page 8 ---
+
+A lower rating would result in an increase (capped) in the margins
+applicable to the committed credit facility of €1.5bn (described in
+note 21 to the consolidated financial statements}; at the same time,
+these margins would be improved (with a minimum threshold) in the
+event of a rating upgrade.
+
+1.1.2.1.2 Interest rates
+
+Thales is exposed to interest rate volatility and in particular its impact
+on the conditions associated with variable-rate financing. To limit this
+risk, Thales operates an active policy of interest rate hedging,
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+The Corporate Financing and Treasury Department consolidates data on
+Thales’ exposure to interest rate risk and uses the appropriate financial
+instruments to hedge those risks.
+
+Thales policy is to control interest rate and counterparty risks and to
+optimise its funding and banking operations by consolidating and
+pooling the cash surpluses and requirements of all its units
+
+The breakdown of Thales’ debt by type of interest rate is described
+in note 21 to the consolidated financial statements. The table below
+summarises the Group's exposure to interest rate risk before and after
+hedging. Based on the Group's average net cash (taking into account
+hedging instruments), a 1% rise in interest rates would decrease financial
+
+expense in 2013 by €12m (compared to €11.1m in 2012)
+<1 year > 1 year Total
+(€ million) Fixed Variable Fixed Variable Fixed Variable
+Financial liabilities (70.0) (387.2) (1,447.1) (77.9) (1,517.1) (465.1)
+Financial assets 3,648.5 0.0
+Net sure before taking account of derivatives (70.0) 1,44;
+
+Derivatives
+
+NET EXPOSURE AFTER TAKING ACCOUNT OF DERIVATIVES
+
+(20.6)
+(90.6)
+
+20.6
+3,281.9
+
+950.0
+(497.1)
+
+(950.0)
+
+929.4
+(587.7)
+
+(929.4)
+
+(1,027.9) 2,554.0
+
+1.1.2.1.3 Foreign exchange
+
+Due to the international nature of its business, Thales is exposed to the
+risk of exchange rate fluctuations.
+
+a) Business-related currency risk
+
+Businesstelated currency risk occurs when some of the business is billed
+in a currency other than that of the related costs
+
+a. Asa general rule, Thales is structurally immune to exchange rate
+fluctuations for a significant part of its business activity. More than
+40% of Thales’ sales are generated in the euro zone, which is also
+where most of its industrial operations are located. More generally,
+the reinforcement of the Group's international industrial footprint
+allows the Company to manufacture and invoice in local currency,
+thereby eliminating exchange rate risk on local sales.
+
+b. The accounts of Thales subsidiaries located in countries where
+the official currency is not the euro are translated into euros in the
+Group's consolidated financial statements. A fall in these currencies
+against the euro is likely to have a negative impact on the accounts.
+lis impact on profitability is limited, however, since the cost base
+of these subsidiaries is essentially in the same currency as their
+sales. The main currencies are the Pound sterling, the US dollar,
+the Canadian dollar and the Australian Dollar.
+
+«. For certain Group businesses (civil avionics and tubes, civil space,
+etc.}, the US dollar ("USD") is the reference transaction currency. For
+business activities outside the dollar zone (the in-flight entertainment
+business is based essentially in the United States and is therefore
+largely immune to this risk), a specific currency risk hedging policy
+is implemented
+
+e For equipment transactions (avionics and tubes], this policy is
+defined on the basis of sales forecasts in USD, after accounting
+for corresponding purchases in USD. For these transactions, net
+exposure to dollar risk represents around 3% of the Group's total
+sales for 2013
+
+For longer-term programmes in markets traditionally denominated in
+USD (primarily in civil space and simulators), each bid is examined
+for profitability in the light of the effect of currency fluctuations,
+after accounting for corresponding purchases in USD, and, if
+necessary, is specifically hedged through market transactions
+(forward exchange-rate contracts and options)
+
+Where necessary, a similar approach is adopted for other Thales
+activities if a customer specifically requires a contract denominated
+in USD on an ad hoc basis.
+
+Overall, net exposure represented around 4% of the Group's total
+sales for 2013
+
+e As well as this direct dollar risk, which concerned around 7%
+in total of consolidated sales at end-2013, the Group is also
+exposed to an “indirect” dollar risk on contracts denominated in
+currencies other than the dollar. This occurs when it is bidding
+against companies that benefit from a cost base in dollars. Analysis
+by product line and region shows that approximately one quarter
+of total sales may be exposed to this “indirect” dollar risk
+
+The “dollar risk" is thus the main currency risk that Thales needs to
+hedge. The figures corresponding to the hedging of business-related
+dollar risk are as follows:
+
+= USD 2,795m, the amount of financial instruments hedging net firm
+commitments (USD risk against Euro, Canadian dollar and Pound
+sterling) at 31 December 2013 compared to USD 3,102m at
+31 December 2012;
+
+REGISTRATION DOCUMENT 2013 THALES
+
+15
+
+
+--- Page 9 ---
+
+16 THALES
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+= USD 281m, the amount of financial instruments hedging bids in
+USD against the Euro, Canadian dollar and Pound sterling at
+1 December 2013 compared to USD 238m at 31 December 2012
+
+Operating receivables and payables denominated in foreign currency
+are exchange-rate hedged and therefore not exposed to currency risk
+
+The change in value of financial instruments (forward transactions) used
+as cash flow hedges is recognised in shareholders’ equity. A decrease
+(increase) of 5% in the US dollar compared to the Euro, Pound sterling
+and Canadian dollar, would have increased (decreased) shareholder's
+equity by approximately €103m at 31 December 2013 compared to
+€118m at 31 December 2012. The premium/discount component is
+not eligible to cash flow hedge accounting and is recognised through
+profit and loss. In 2013, the change in market value of the discount/
+premium was -€1 1m
+
+The change in value of financial instruments matched with portfolios of
+sales offers which are not eligible for hedge accounting is recognised in
+profit and loss. A decrease (increase) of 5% in the US dollar compared
+to the Euro, Pound sterling and Canadian dollar, would have increased
+(decreased) the result by approximately €2m at 31 December 2013
+compared to €5m at 31 December 2012
+
+Foreign currency-denominated financial debt does not generate any
+exposure in profit and loss, as it is either denominated in the functional
+currency of the entity in which it is recognised, or is used as a net
+foreign investment hedge.
+
+b) Management of risks relating to foreign
+currency-denominated assets
+
+Thales hedges a very limited part of its foreign currency-denominated
+
+assets, mainly those likely to be disposed of at a future date. The
+
+main criteria for determining whether or not a given foreign currency
+
+denominated asset should be hedged are as follows
+
+= the nature of the business involved;
+
+a the structure of Thales’ commitment with respect to jointly-held
+companies, in particular the specific features of the shareholders’
+agreement in each joint venture
+
+In general, hedging is achieved by loans or currency swaps in the
+
+same currency as the assets to be hedged. The actual application of
+
+this policy also depends on
+
+a the objective of optimising hedges in the light of market conditions
+(availability of foreign currency, interest rates, hedging rate, etc.);
+
+the risks inherent in the future value of the assets being hedged and
+the nature of the business of the corresponding subsidiaries.
+
+> SUMMARY OF ASSET RISKS AT 31 DECEMBER 2013 FOR MAIN CURRENCIES
+
+(€ million) GBP usD AUD
+Assets 1,795.2 938.8 733.4
+Liabilities 1,752.7 434.0 407.5
+Net position before management 42.5 504.8 325.9
+Offbalance-sheet position (39.4
+
+NET POSITION AFTER MANAGEMENT 3.1 504.8 325.9
+1.1.2.1.4 Shares by €3,512m in investments, representing an underlying shortfall of
+
+Thales was not exposed to any significant equity risk at end-2013,
+excluding the risk on treasury shares
+
+At 31 December 2013, Thales held 2,490,177 treasury shares,
+representing 1.21% of the share capital
+
+1.1.2.1.5 Off-balance-sheet commitments
+
+a) Pension commitments
+
+Defined-benefit pension plans are in place for certain Thales employees,
+mainly in the United Kingdom and the Netherlands, and are externally
+funded by the Company under the provisions of the applicable national
+legislation.
+
+At 31 December 2013, Thales’ commitments in the United Kingdom
+and the Netherlands toward current employees (access to these plans
+has been closed to new employees in the UK), former employees and
+retired employees amounted to €4,314m for both countries, hedged
+
+REGISTRATION DOCUMENT 2013
+
+€802m. At 31 December 2013, these investments consisted of
+
+= 38% in equities;
+
+= 37% in fixed-rate bonds;
+
+= 8% in inflation linked bonds;
+
+= 7% in alternative liquid investments;
+
+= 6% in alternative long-term investments (e.g. real estate, infrastructure,
+etc.);
+
+= 4% in cash
+
+Changing market parameters could affect the amount of the shortfall
+
+and the annual costs of defined-benefit plans. At 31 December 2013,
+
+the main risk variables were as follows, listed in order of importance:
+
+= a reduction or increase in the discount rate applied to liabilities,
+which could increase or reduce the unfunded status; this variable
+
+is partly offset by changes in the value of fixed-rate hedging bonds
+held as plan assets and interest rate swaps;
+
+changes in the total return on investments in equities and other assets;
+
+www.thalesgroup.com
+
+
+--- Page 10 ---
+
+= changes in the forecast inflation rate;
+= a substantial change in mortality tables;
+= exchange rate fluctuations (mainly sterling against the euro}
+
+Thales has introduced quarterly reporting on its pension plan positions
+and makes regular projections measuring the sensitivity of unfunded status
+to possible changes in market parameters taking into account correlation
+factors. In some countries, such as the UK and the Netherlands, Thales
+is committed to defined-benefit pension schemes, but plan assets are
+managed by trustees in accordance with the applicable regulations and
+in consultation with the Group. Plan assets are allocated with regard
+to the long-term nature of the commitments they cover.
+
+b) Parent company guarantees
+
+Thales, as the parent company, issues guarantees on commitments
+undertaken by its subsidiaries on commercial contracts. These
+guarantees are centralised by the Group Corporate Financing &
+Treasury Department.
+
+Guarantees are issued out of an envelope of €3bn dedicated each year
+to the Chairman and Chief Executive Officer by the Board of directors.
+Prior to each renewal of the authority granted to the Chairman & Chief
+Executive Officer, the Group's Treasury and Funding Department reports
+to the Board of directors on the level of use of this envelope, based
+on the monitoring carried out by the Group Corporate Financing &
+Treasury Department.
+
+At 31 December 2013, outstanding guarantees issued by the parent
+company in support of its subsidiaries stood at €10,884m. This figure
+includes all commitments given in relation to Thales Alenia Space
+(matched by a counter-guarantee from Finmeccanica in proportion to
+its 33% interest in Thales Alenia Space).
+
+Thales manages risks connected to these parent company guarantees
+and optimises the financial conditions of the transactions guaranteed
+The main objectives of this risk management policy are as follows:
+
+= to limit risks to those corresponding to normal commitments on
+commercial contracts, particularly in terms of volume and duration;
+
+= to limit the issue of guarantees to commitments made by wholly-
+owned subsidiaries, with guarantees on commitments by consortia
+or joint ventures only in proportion to the Group's equity interest
+or counterguaranteed by the other shareholder in proportion to its
+interest;
+
+= toenable its subsidiaries to benefit, when appropriate, from the credit
+rating of the parent company by controlling the financial conditions
+of the transactions guaranteed
+
+Client credit
+
+Credit risk relates to the risk that a party to a contract will default on its
+commitments or fail to pay what it owes.
+
+1.1.2.1.6
+
+a) Risk relating to failure of a private-sector customer
+Nongovernmental customers (aircraft manufacturers, airlines, private
+infrastructure operators and industry] account for approximately 25%
+of Thales’ sales. These customers may encounter major and/or
+prolonged financial difficulties that could lead to payment defaults or
+order cancellations. Such occurrences could have a negative impact
+on Thales’ sales, profitability and financial position
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+To mitigate these risks, Thales conducts regular analysis of the ability
+of customers to meet their obligations. When necessary, Thales may
+request bank guarantees or corporate guarantees, or may use credit
+insurers.
+
+b) Credit risk relating to public-sector customers
+
+Public, Government and institutional customers account for around 75%
+of Thales’ sales. Thales works with a large number of countries. Some
+of these could present a significant credit risk which could, for example,
+lead them to suspend an order in production, or make them be unable
+to pay on delivery, as agreed under the terms of the contract. To limit
+its exposure to these risks, Thales takes out insurance with export credit
+agencies (such as Coface in France] or private insurers.
+
+At 31 December 201 3, only two customers accounted for annual sales
+for Thales in excess of €500m: the French State (around €3bn, including
+one third related to DCNS) and the British State (approx. €1bn). At
+31 December 2013, these two countries still have firstclass or high
+quality ratings (France AA by S&P’s and Aal by Moody's - UK AAA
+by S&P’s and Aal by Moody's)
+
+1.1.2.2 Litigation
+
+1.1.2.2.1 Compliance with laws and regulations
+
+The Group operates its business in a strict and evolving complex legal
+and regulatory environment, both nationally and internationally.
+
+The legal and regulatory framework in which Thales operates covers a
+broad range of areas, relating in particular to company law, financial
+market regulation, fiscal legislation, labour law, export control and
+measures to combat corruption and money laundering
+
+Thales is able to monitor developments within this legal and regulatory
+framework through its international network. The Company is not always
+able to foresee them, however, and in this respect its business could
+be affected
+
+Despite the steps taken by Thales as a company to comply with all
+applicable legislation, risks still exist due to their inherent nature, the
+interpretative powers of regulatory agents and changes in legal/judicial
+precedent and sanctioning powers.
+
+In most cases, regulators in conjunction with the judicial authorities
+have the right to initiate legal proceedings, which could expose the
+Group or its employees to civil, administrative or criminal rulings. Such
+attuling could, if applicable, involve a temporary ban on trading, which
+would in tun have an adverse impact on the Group's profitability and
+financial position
+
+To manage this complexity, Thales has set up a Risks & Internal
+Control Committee, which uses legal and regulatory riskmapping to
+evaluate and monitor the implementation and continuous improvement
+of compliance plans at each unit. Compliance actions rely for these
+needs on networks of compliance officers who may be specialists
+(export control], on risk sponsors in charge of the prevention of each of
+the major risks identified and monitored by the Risks & Internal Control
+Committee, or on a dedicated organisation as regards international
+trade (cf. below)
+
+REGISTRATION DOCUMENT 2013 THALES
+
+17
+
+|
+
+
+--- Page 11 ---
+
+18
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+The Risks & Internal Control Committee participates in the preparation
+of the annual audit plan and monitors the conclusions of the regular
+controls conducted by the Internal Audit Department in these
+compliance areas
+
+Regular reports are submitted to the Audit and Accounts Committee
+of the Thales Board of directors, which in turn may issue compliance
+audit directives within the entire Group
+
+a) Management of commercial activities
+
+Because of its presence in more than 50 countries and the diversity
+of its markets and business segments, Thales is subject to national
+laws, particularly those resulting from the transposition of international
+conventions (OECD convention, UN convention to fight corruption,
+European Union convention, Council of Europe conventions, etc.) and
+to international norms and standards to fight corruption
+
+Infringement of these laws could have serious legal consequences for
+the individuals or entities concerned. It could also have a significant
+impact on the image and reputation of the Group as a whole
+
+In response to the regulatory requirements in terms of prevention of
+corruption and business ethics in general, Thales has for a number
+of years operated a strict international compliance and integrity
+programme. This programme is regularly assessed and readjusted
+according to changes in legislation and external risks (country risks,
+etc.}, internal risks (areas for improvement identified by the internal audit,
+risks committee etc.) and the Group's commercial strategy.
+
+It is implemented on the basis of a coherent set of directives that
+is included in the Group's reference system, dedicated units and
+independent control resources
+
+Business risks are addressed throughout all governance processes.
+From the preliminary phase of a project, these operating processes
+envisage action plans to mitigate business risks, focusing particularly
+on the prevention of corruption.
+
+Thales strictly governs the use of agents and consultants through a very
+detailed procedure, which requires in-depth preliminary verifications
+(due diligence) — reinforced by the analysis of red flags or risk factors,
+as well as appropriate representations and engagements from
+these consultants. Designed by the Group's Ethics and Corporate
+Responsibility Department, this procedure, updated in early 2013, is
+regularly revised in consultation with the Group Legal Department and
+the Sales and Marketing Department.
+
+In addition, to underpin its strategy of strengthening its presence
+internationally and its establishment in target countries, Thales vets
+and selects local industrial partners. The vetting and selection process is
+aimed at sealing long+erm partnerships with local industrial companies
+that meet a series of criteria with regard to business integrity and
+ethics, competence and expertise. This scheme is part of the policy
+of deploying tailored and reasonable prior due diligence procedures
+for third parties
+
+[1] Advancing UK AeroSpace, Defence & Security Industries.
+(2) AeroSpace and Defence Industries Association of Europe.
+
+(3) International Chamber of Commerce.
+
+{4} International Business Community, representing 22 employer organisations.
+{5} International Organization for Standardization.
+
+THALES REGISTRATION DOCUMENT 2013
+
+An international, dedicated network, independent of the operational
+commercial structures, conducts the verifications required, enhanced by
+outside studies and diagnostics performed by companies that specialise
+in business intelligence — during the vetting and selection phases for
+agents, consultants and local industrial partners for Thales.
+
+In addition, by relying on risk mapping and rigorous internal control
+procedures, Thales’ Audit & Internal Control Department regularly
+conducts compliance and integrity audit missions which cover all
+processes to manage commercial risks.
+
+Thales is particularly keen to make its employees aware of ethical
+business conduct as soon as they join the Group. Adherence and
+accountability are key to the awareness and training model designed
+by the Ethics and Corporate Responsibility Department. A broad array
+of tools (Code of Ethics, reference guide, best practice guides, etc.) and
+training sessions {face-to-face training and elearning are now available
+in French, English and German) is available to staff throughout their
+professional lives. Special attention is paid to employees involved in
+the sales processes, project management and purchasing. The training
+plan for “Business Ethics and Preventing Corruption”, which is world-
+wide in scope, is as a priority intended for this group of employees.
+
+Thales also continues to disseminate and foster best practices among its
+suppliers and subcontractors, requiring them to subscribe to the terms of
+its Purchasing & Corporate Responsibility Charter. In this connection, in
+France in 2012 Thales received government recognition for responsible
+supplier relations. This is a three-year label given to French businesses
+that have demonstrated longterm balanced relations with their suppliers.
+
+Thales also actively participates in national professional organisations
+(MEDEF, GIFAS, ADS"!, etc.) and international organisations (ASD"|,
+ICC*!, B20", etc.) dealing with business ethics, and within the working
+groups of intergovernmental organisations (OECD, United Nations,
+ISO"), etc.). In September 2013, Thales signed the recommendations
+of the Chairmen and CEOs of member companies in the B20
+“Transparency and Anti-corruption” Task Force intended for Heads of
+State of the G20, which calls on them to step up the fight against
+corruption by facilitating the emergence of new approaches (industry
+actions, public/ private-sector dialogue, etc.]. Thales was also chosen
+by the French Ministry of Foreign Affairs to present its anti-corruption
+policy at the Fifth Conference of the States Parties to the United Nations
+Convention against Corruption. This conference, which took place in
+November 2013 in Panama, was attended by 1,600 representatives
+from 132 countries, as well as all governmental or non-governmental
+organisations concerned by these issues; the choice of the French
+government illustrates the reputation of the Group for business ethics
+and corporate social responsibility.
+
+www.thalesgroup.com
+
+
+--- Page 12 ---
+
+The Group actively participates in a variety of initiatives in the fight
+against corruption, both at European level (Business Ethics Committee
+of the ASD) and under the global sectoral initiative of the Aeronautics
+and Defence industries (IFBEC!"!) whose most recent world forum took
+place in Washington in September 2013
+
+Thales is also a stakeholder in international standardisation work carried
+out within the ISO on compliance and anti-corruption programmes.
+
+At the same time, since 2012, Thales has been ranked by TI - an
+NGO working to combat corruption worldwide - as one of the top
+10 companies of the Defence sector. The Transparency International?!
+report published in October 2012 presents an analysis of the corruption
+prevention programmes of the world’s 129 biggest defence sector
+companies. The companies are assessed in five areas (leadership,
+governance and organisation — risk assessment — company codes and
+policies - training — personnel and helplines) with regard to the ethics
+and anti-corruption systems they have put in place
+
+In addition, for the second consecutive year, Thales obtained the
+“Global Compact Advanced" level of the UN Global Compact, which,
+by respecting 21 specific criteria, is the highest level of reporting and
+performance in responsible development. Among the 8,000 companies
+that are members of the Global Compact, only 360 have so far
+obtained the Global Compact Advanced level — 26 of them are French
+and only one is in the aerospace & defence sector.
+
+b) Export control
+
+Exports account for a significant proportion of Thales’ business. Many
+of the Group's products and systems are designed for military or dual-
+use applications. Consequently, the export of these products or systems
+to customers located outside Thales’ domestic markets where they are
+manufactured, particularly in the defence sector, may be subject to
+limitations, export licences or specific export controls (imposed by the
+countries in which Thales operates, as well as by other countries where
+the suppliers of component products or technologies are based, most
+notably the United States)
+
+There are no guarantees that (i) the export controls to which Thales is
+subject will not be tightened, (ii) new-generation products or systems
+developed by Thales will not be subject to similar or tighter controls
+and, (iii) geopolitical factors will not make it impossible for Thales or
+its suppliers to obtain export licences for certain customers or make it
+more difficult for Thales to execute previously signed contracts. Further
+limitations on access to military markets would thus have a negative
+impact on Thales’ business, profitability and financial position
+
+Thales has put in place systems and formal procedures to ensure
+compliance with applicable regulations and controls, and reinforces
+these measures through awareness-aising programmes with dedicated
+elearning modules. Operating units have access to a network of
+specialists within the Group, in charge of monitoring the application
+within operational units of compliance rules determined at Group level
+as well as monitoring the necessary authorisations and conformity of
+their implementation
+
+{1} International Forum on Business Ethical Conduct.
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+c) Competition
+Thales’ business activities are subject to a wide range of national and
+
+international regulations mainly aimed at combating anticompetitive
+practices.
+
+Infringement of these rules could lead to severe sanctions, such as fines,
+payment of damages, and legal bans. They could also have a serious
+impact on the Group's reputation
+
+To avoid any such infringements, Thales has initiated an awareness-
+raising programme to these rules, in particular through the rolkout of a
+dedicated elearning tool and training programmes.
+
+d) Intellectual property
+
+Thales is exposed to two main types of intellectual property risk:
+dependence on third-party technology and third-party actions
+against the Company for perceived infringement of their intellectual
+property rights
+
+To reduce the risk of reliance on critical third-party technology, Thales
+has implemented an identification process and management of each
+situation with a precise, strategic "Make/Team/Buy” (MTB) plan
+
+Given the nature of its activities and the specific features of its products,
+Thales conducts most of its research and development work in-house and
+controls the technology which is critical to the business. Thales is one
+of the largest filers of patents in France and was recognised in 2012
+and 2013 by Thomson Reuters as one of the 100 most innovative
+companies in the world. Thales’ extensive intellectual property portfolio
+(over 15,000 patents, as well as software and know-how) and its
+presence throughout the value chain (equipment, systems and systems
+of systems} reduce its reliance on third-party technology. As a result,
+Thales’ dependence on such technology can be considered very low.
+
+To reduce the risk of third-party actions for alleged infringement of their
+intellectual property rights by Thales entities, the Group identifies and
+analyses this risk in the context of its own patent filing procedures and/
+or when embarking on technical research or product development.
+
+In the event of a third-party infringement claim against a Thales company,
+the legal and technical analysis of the allegedly infringing products and
+intellectual property rights are handled centrally by Thales experts, with
+the assistance of specialist external consultants where needed
+
+1.1.2.2.2 Litigation
+Due to the nature of its business activities, Thales is exposed to the risk
+of technical and commercial litigation
+
+To prevent disputes or limit their impact, Thales policy is to systematically
+seek alternative methods of dispute resolution. This policy is reviewed
+on a regular basis to take into account changes in the Company's core
+areas of business and is backed by employee training programmes.
+
+In addition, Thales implemented a procedure several years ago to
+centralise all civil and criminal litigation and claims. These are handled
+by the corporate legal affairs department, with the support of the Group
+companies concerned.
+
+(2) Defence Companies Anticorruption Index 2012 ~ Transparency International — hitp://companies.defenceindex.org/report
+
+REGISTRATION DOCUMENT 2013 THALES
+
+19
+
+
+--- Page 13 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+At the end of 2002, a group of French manufacturers, including Thales
+and one of its subsidiaries, collectively received a request for arbitration
+relating to the execution of old contracts. In proportion to each industrial
+partner's involvement, Thales would have been liable for around 20% of
+the total claim of $260 million. Under an agreement signed in 2003,
+the client withdrew its request for arbitration
+
+In November 2012, the claimant filed a new request for arbitration
+for a revised amount of €226 million. Industrial partners are strongly
+challenging this claim and at this date it is not possible to evaluate
+any potential financial risk. Consequently, Thales has not recognised
+any provision
+
+This procedure is still in process
+
+The Company knows of no other governmental, legal or arbitration
+procedures, pending or threatened, that are likely to have or that have
+had a significant impact on the financial situation or profitability of the
+Company and/or Group over the last 12 months
+
+1.1.2.3 Risks related to Thales’ businesses
+
+1.1.2.3.1 Competitive environment
+
+The markets in which Thales operates are highly competitive, both
+in terms of international groups, especially in a context of shrinking
+defence budgets in their home countries, and in terms of local or niche
+companies in certain market segments. This competitive pressure could
+negatively impact Thales’ commercial position, sales and profits
+
+There is also no guarantee that competition will not intensify, particularly
+in an unfavourable environment, or that Thales will be able to successfully
+fight its current or future competitors.
+
+In order to limit the impact of this risk, Thales continues its research and
+development efforts in order to provide competitive and differentiating
+elements to the Group's operating units and also works to upgrade
+its product offer in order to meet the needs of its customers, in both
+defence and civil markets
+
+Unfavourable trends in the civil
+aviation market
+
+1.1.2.3.2
+
+Demand for air travel appears closely linked to general economic
+trends, but is also affected by specific factors, such as the characteristics
+of aircraft fleets in service, regulatory changes (new environmental
+standards, deregulation, etc.) and the ability of airlines to access
+financing. In addition, the civil aviation market is also susceptible
+to the effects of intensification (real or perceived) of terrorist activity,
+as well as conflicts and epidemics or disasters, which can have an
+important, if temporary, impact on air traffic and thus affect the entire
+civil aviation market.
+
+The economic environment is therefore likely to remain unsettled,
+especially in Europe. In order to remain profitable in a difficult market,
+airlines could cancel or postpone orders and aircraft manufacturers
+might have to reduce production rates. This environment could also lead
+
+20 THALES REGISTRATION DOCUMENT 2013
+
+the airlines to reduce or delay their maintenance expenditure or their
+investments in inflight entertainment systems. Similarly, air navigation
+service providers could reduce or delay investments in air traffic control
+equipment and systems. Were they to materialise, these factors could
+have a negative impact on Thales’ profitability and financial position
+
+To limit the impact of this risk, Thales is pursuing action on two fronts
+(i) ongoing improvements to its competitive performance and industrial
+flexibility in order to better manage trading fluctuations during the cycle
+and (ii) a comprehensive strategy seeking a balance within the business
+portfolio (with exposure to the civil aviation market reduced to around
+15% of Group sales}.
+
+1.1.2.3.3 Dependence on public procurement
+
+Thales generates most of its business from governments, particularly
+in the defence markets in France and the UK, and, to a lesser extent,
+in the rest of Europe, North America and Australia. In these markets,
+public spending is dependent on political and economic factors and
+is therefore likely to fluctuate from one year to the next. A significant
+reduction in defence budgets, particularly in Europe as part of a
+more restrictive budget policy, could affect the Group's business and
+profitability. In effect, a reduction in the budget resources of government
+customers could generate delays in order booking, contract execution,
+payments or a decrease in funding for research and development
+programmes.
+
+Thales has based its strategy on a balanced portfolio of defence
+operations (approximately 55% of sales) and civil operations
+(approximately 45% of sales). The overall solidity of the portfolio
+is underpinned by a diversified base of orders with a unit value of
+less than €10Om. Finally, the broad geographic spread of Thales’
+business, particularly through its international operations, ensures further
+iversification of its customer base.
+
+1.1.2.3.4 Control of projects and programmes
+
+Many of Thales’ products and systems are highly complex due to
+their advanced technology content, the rigorous operational constraints
+and harsh environments in which they operate (which require them to
+be extremely reliable) and the contractual arrangements surrounding
+their sale (comprehensive prime contractorships for large-scale systems,
+public-private partnerships or equivalent, local shares, compensation
+commitments etc.)
+
+The actual cost of design, development and manufacture may therefore
+exceed initial cost estimates, which in turn may adversely impact
+Thales’ results and financial position, especially considering that the
+associated contracts are generally based on a fixed, all-inclusive price.
+In addition, many contracts include stringent performance levels and/
+or tight delivery schedules for the products or systems sold, particularly
+given the increased competition. If Thales is unable to deliver these
+products or systems in line with the required level of performance and/
+or delivery schedule, customers may demand penalty payments or
+even decide to terminate the contract. The occurrence of such events
+could have a material impact on Thales’ results and financial position
+
+www.thalesgroup.com
+
+
+--- Page 14 ---
+
+Bid and project management is therefore subject to a detailed risk
+management and assessment process. Thales ranks the various levels
+of criticality. Critical bids and projects are specifically monitored at
+the management level of the operating entities (business lines, Global
+Business Units) and, as needed, by the Group's executive management.
+
+Contractual risk assessment is an integral part of the tendering process.
+Depending on the complexity of the bid, this procedure involves a
+number of steps which progressively reveal the estimated level of
+profitability and the associated risks to be assessed. Particular attention
+is paid to long-term sales contracts that include fixed prices valid for
+the entire duration of the agreement.
+
+For certain contracts that run for several years and involve products
+and services with a high degree of complexity, regular reviews are
+organised in order to monitor the technical and financial progress:
+
+The Group continues to pay particular attention to analyses and
+action plans for the management efficiency of bids and projects by
+measuring and monitoring financial variance on the projects and the
+implementation of corrective actions
+
+The Group also continued action plans to improve the management
+of bids and projects, engineering and the supply chain. These actions
+aim in particular to:
+
+= improve the management of commitments made, with widespread
+use of independent peer reviews, closer involvement of Purchasing,
+Production, Legal and Quality Control and the introduction of a
+“Project Design Authority” responsible for developing the technical
+project solution (during the bid or project execution phase);
+
+identify the centres of expertise (R&D, integration, production and
+services) within Thales in order to increase synergies and expertise
+and provide the best responses to the solution;
+
+improve the development of product lines in order to streamline new
+developments and thus reduce risks;
+
+introduce advanced training for project managers to obtain
+International Project Management Association (IPMA) certification
+At the end of 2013, nearly 650 project managers within the Group
+have gained IPMA certification, with approximately 240 certified
+during the year.
+
+1.1.23.5 Political risks
+
+Thales generates a significant proportion of its sales in emerging markets
+and countries that can be, or could become, politically or economically
+unstable. These markets might therefore present risks with the potential
+to affect the Group's profitability and financial position
+
+In particular, a change in government, major political event, armed
+conflict, act of terrorism, sharp deterioration in the balance of payments,
+industrial action, strike or protest could lead to various types of risks.
+These include:
+
+= more restrictive currency control, with limitations or exclusions on
+withdrawing currency from a client country, preventing it from
+honouring its financial commitments towards Thales;
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+impairment of assets because of devaluations of the local currency
+or other measures taken by public authorities that significantly affect
+the value of operations;
+
+expropriation (by confiscation, nationalisation, requisition, etc.) or the
+forced sale of Thales’ interest in a local company, or, more broadly,
+discriminatory measures that compromise Thales’ operations in a
+country;
+
+a security situation entailing a risk of attack on the physical safety
+of its employees and/or its facilities, which strongly limit or prevent
+Thales from assuming its performance obligations under a contract,
+or reduce or prohibit the use of its local industrial assets;
+
+an unexpected breach of a contract or commitment;
+
+an unfair call of a bond or a guarantee;
+
+the non-certification of documents eligible for payment, or non-
+payment on the due dates stipulated in a contract, which prevent
+the anticipated progress of that contract.
+
+To limit the financial impact of these risks, Thales uses government and/
+or private-sector insurers when necessary to provide appropriate cover.
+tt may also transfer receivables without recourse to financial institutions
+
+In addition, the Group has deployed a global procedure for employee
+security, protection and monitoring to ensure they have an appropriate
+level of security in the countries in which they perform their work.
+
+1.1.2.3.6 Violations of data confidentiality
+
+Thales is exposed to the risk of attacks on the security of its industrial
+infrastructures or its information technology systems (hacking attempts
+to access confidential information, threats to the physical security of
+facilities, etc.). The occurrence of such events could affect the rollout
+of the Group's activities and its reputation and, consequently, its results
+and financial situation
+
+In its defence businesses, the Group is subject to different national
+regulations requiring it to implement measures to protect its employees
+and industrial assets.
+
+The Group is therefore subject to a large number of audits and
+inspections by the national supervisory authorities.
+
+The Group has also established internal policies to protect its sites and
+sensitive information systems and increase employee awareness. These
+policies, which are replicated in all the subsidiaries, are relayed by
+the network of information system safety and security officers in the
+countries and the Global Business Units. For example, the application
+of Thales’ “Information System Security” policy, based on ISO 27000,
+relies on the secure architecture of its information system, the critical
+awareness of users and IT personnel and appropriate means of
+monitoring and surveillance; it is regularly assessed through audits,
+wulnerability tests and surveys
+
+REGISTRATION DOCUMENT 2013 THALES 21
+
+
+--- Page 15 ---
+
+22
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+1.1.23.7 Management of supplier risk
+
+Purchases constitute a very significant proportion of Thales’ business,
+representing nearly half its sales in manufacturing, services, equipment
+and subsystems. Thales is thus exposed to the risk of industrial, technical
+or financial failure of any of its suppliers, which in turn could affect the
+Company's profitability and performance.
+
+There are two major types of supplier risk
+
+= legal or regulatory non-compliance (ethics, export control, intellectual
+property, etc.); these risks are handled by the departments concerned
+using the Group Risk Management system, with the support of the
+Purchasing Department;
+
+structural and operational risks that could disrupt supply are dealt with
+by the Purchasing Department using the Group Risk Management
+system. The Purchasing Department has identified two key triggers
+supplier default and economic dependence. Although individual
+events might be considered to have a minor financial impact, they
+could potentially occur several times a year. The financial impact
+could become significant if several events are considered together,
+due to the domino effect and the large number of suppliers in Thales’
+supplier panel
+
+a) Management of the risks of supplier default
+
+Supplier default could be caused by a major incident at one of its sites,
+by its external environment (shortage of raw materials - particularly
+critical materials - or components, major political instability, natural
+disaster, etc.) or through mismanagement. The supplier's management
+performance is monitored both in operating terms (lack of procurement
+planning, failure to manage tier 2 suppliers, loss of control over
+industrial processes, plant obsolescence, etc.) and in cross-disciplinary
+and financial terms (poor skills management, loss of know-how, fall
+in sales, mismanagement of working capital requirement, cash flow
+problems, administration or bankruptcy protection, etc.). A combination
+of problems could lead to the disappearance of a company or its
+takeover by investors with different interests from those of Thales.
+
+Faced with this risk of a supply shortage, Thales seeks to implement a
+dual sourcing (or alternative-source) policy for each technology family,
+regularly updated and accompanied by buffer stocks that cover its
+requirements until customer contracts have been fulfilled
+
+In addition, taking into account the increased risk of fragility of certain
+suppliers in the current economic climate, Thales has introduced a
+special measure aimed at identifying, from among its critical suppliers,
+those that would be particularly exposed financially and implementing
+an appropriate action plan to ensure continuity of supply. Apart from
+individual monitoring, analysis is carried out by technology field
+in conjunction with the professional bodies concerned to identify
+appropriate solutions.
+
+THALES REGISTRATION DOCUMENT 2013
+
+Alongside these financial supervision measures, Purchasing and
+Quality Control have stepped up their appraisal, accreditation and
+management of supplier performance to better identify structural risks.
+Supplier performance audits are broad-based (quality control, industrial
+maturity, flow optimisation, compliance with environmental regulations,
+expertise in technical and technological processes, financial solidity,
+etc.) and therefore allow a complete risk analysis to be carried out
+When executing a purchasing contract, Thales closely monitors the
+implementation by the supplier of measures aimed at tackling the risks
+identified during the selection process
+
+b) Management of the risks of economic dependence
+
+The economic dependence of small and medium-sized enterprises
+(SMEs] on Thales is considered a separate risk in its own right. It is
+particularly significant now that the economic crisis has disrupted the
+sales portfolios of a number of them, jeopardising the operating cycle
+with Thales and potentially leading to a supply shortage
+
+In order to mitigate this risk, the commitment rate (orders placed by
+Thales as a percentage of the supplier's total annual sales) is monitored
+for each panel of suppliers by market segment and for the main countries
+where the Group is implanted (France, the UK, the Netherlands, etc.)
+If the commitment rate exceeds 50% for more than two consecutive
+years, an action plan coordinated with internal prescriptors and internal
+users is drawn up and implemented in order to return to a reduced
+commitment rate.
+
+The procurement policy, supplier selection and performance monitoring
+processes and supervisory and risk mitigation measures are all designed
+to reduce these risks, both during the bidding phase and during the
+preliminary project phase.
+
+1.1.23.8 Raw materials risk
+
+Given the nature of its business, Thales uses few raw materials.
+The Group's exposure to raw materials risk is therefore negligible
+
+1.1.2.3.9 Risk related to failure of equipment
+
+or technology
+
+Thales systems and equipment are highly complex and technical and
+are likely to be integrated within high-value civil or military platforms.
+A malfunction of any such systems, equipment or technologies could
+result in client claims or third-party litigation. Thales could thus be held
+liable in the event of damage to property or personal injury. Were
+they to occur, such events would be liable to impact Thales’ results and
+financial position, as well as its reputation
+
+In order to limit the impact, Thales has put Group-wide procedures in
+place (risk management, Design Authority, quality, documentation and
+contractualisation). In addition, Thales conducts a policy to maintain
+appropriate insurance coverage (see section 1.1.2.7 below]
+
+www.thalesgroup.com
+
+
+--- Page 16 ---
+
+1.1.2.3.10 Risk of lower impact of performance
+improvement measures
+
+Thales initiated a plan to improve the Group's overall performance. This
+performance plan provides a common framework within which the units
+can implement plans and measurements adapted to their own issues in
+terms of performance improvements. The programme, whose objectives
+are validated during the multi-year budget preparations, covers all
+Group issues in terms of growth, competitivity and talent development.
+
+The actual results may differ significantly from the objectives. Performance
+initiatives are based on economic and commercial assumptions defined
+during the preparation of the Group's multi-year budget and do not
+take into consideration any potential changes that could affect Thales’
+operations or its markets, such as the development of new activities,
+increased competition in its domestic or export markets or unfavourable
+regulatory or legislative changes.
+
+Furthermore, the future earnings and financial position of Thales could
+be negatively impacted if the proposed initiatives could not be fully
+implemented or if they failed to generate the expected results according
+to the original timetable. The cost of implementing these initiatives could
+also be higher than forecast.
+
+Thales pays particular attention to the management and monitoring
+of performance improvement initiatives. The Group's corporate
+management regularly reviews the progress of the main initiatives
+Expected impacts for all initiatives for the year are regularly updated
+as part of the Group's steering process.
+
+1.1.23.11 Human resources risk
+
+a) Health and safety at work
+
+Ensuring a healthy and safe working environment for its employees
+pursuant to the laws in force, monitoring procedures, preventing
+health and professional risks and employee training are key priorities
+for Thales.
+
+These principles are reflected in a structure designed to prevent risks
+related to health and safety in the workplace. Concrete measures are
+implemented to anticipate and manage health risks that might occur at
+the international level. The creation of a permanent Health Supervision
+Unit, a Crisis Unit in the event of a major international health risk and
+the implementation of a specific procedure for missions in countries
+posing a major health risk all contribute to better management of
+the risks in this area. Finally, regular and specific monitoring of risks
+(discriminatory practices, moral and sexual harassment, injuries to health
+such as professional and psychosocial risks, etc.) that could affect the
+Group's employees is conducted every year on the basis of specialised
+indicators. Undertakings made by the Group HR Department on
+employees’ occupational health and safety worldwide are on-going
+Thus, new employees, whatever their country, can have a medical in
+the year of recruitment with Thales.
+
+Thales is also committed to increasing the quality of life in the
+workplace. In France, negotiations have been conducted with trade
+union organisations at Group level with the aim of reaching a new
+agreement on “Quality of Life at Work", following on from an agreement
+signed in 2009, which defined a general framework for prevention,
+with a particular focus on the detection and prevention of psycho-social
+risks by implementing preventive actions at employee level and by
+collective preventive actions.
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Proof of the Group's continuing commitment to certification,
+95 Thales entities (representing 65% of the workforce] had obtained
+OHSAS 18001 certification by the end of 2013
+
+b) Talent development
+
+If Thales is not attractive enough to recruit the qualified staff it needs
+in a timely manner and retain and motivate its employees to develop
+and conduct its business, sales and operating profitability could be
+negatively affected. Thales’ success and performance effectively
+depend on its capacity to recruit employees in the different employment
+markets, in France and abroad, the quality of the key skills and the
+commitment of its employees, and its capacity to globally manage the
+talents required for the development of its activity worldwide.
+
+Thales therefore attaches great importance to its attractiveness and
+positioning as a top employer, ensuring a good external image which
+will boost recruitment and an internal situation that will contribute to
+retaining employees.
+
+Asan attractive and recognised employer in France, Thales also intends
+to build its image in all the countries where the Group is already present
+or is intending to develop
+
+Thus, particular attention is paid to the systematic deployment of
+recruitment tools and organisations in emerging markets. In addition,
+a global recruitment function, attached to the HR general management
+has been created to help the Group develop in these geographical
+zones. The global process of identification and management of the
+Group's talents has also been reinforced, by encouraging exchanges
+between management teams in different parts of the organisation
+
+Thales is also continuing its dynamic skills management policy for the
+Group's main professional families. A steering committee per family,
+composed of operational and HR managers, annually analyses
+developments in the jobs, expertise, and the needs of the Company,
+and establishes action plans (training, anticipated management of
+internal mobility, external recruitment etc.). To complement this tool,
+each year the Group's internal University updates the key programmes
+in response to changing needs.
+
+Finally, in 2013, the Group signed, with all the representative trade
+unions in France, agreements to welcome young people in work
+study programmes or those already graduated through the transfer
+of knowledge (so-called “Generation contracts"), the development of
+mixity in the organisation (Gender Equality Agreement), and anticipated
+management of jobs and skills.
+
+These agreements will enable the Group, in the coming months and
+years in France, to better manage the integration of young graduates,
+improve the development of critical skills, favour diversity and better
+anticipate change in the Group
+
+1.1.2.4 Environmental risks
+For many years, Thales has conducted regular analysis and update
+of environmental risks in accordance with its business activities,
+
+scientific and technical developments and the emerging environmental
+challenges.
+
+REGISTRATION DOCUMENT 2013
+
+THALES 23
+
+
+--- Page 17 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+This analysis aims at
+
+= ensuring that employees and surrounding residents are not exposed
+to health and environmental risks (pollution, asbestos, etc]; through
+their activities or work environment, including outside of Thales sites
+and in production units;
+
+ensuring the compliance of activities and products (substances,
+waste, etc};
+
+analysing the impact of new regulations, including on product design;
+
+analysing the impact of the environment on activities (water stress,
+climatic events, etc.);
+
+specifying an appropriate organisation and associated action
+plans, either at Group level or locally, according to the results of
+this analysis.
+
+In support of this analysis, an Environmental Management System has
+been deployed at all sites in order to ensure the control and limitation
+of the products’ and activities’ environment impacts. Integrated into the
+Group commitments, this management system is applied to the different
+functions. As such, environmental competences have been widened to
+include engineering, research, procurement and contracts.
+
+At the end of 2013, 125 entities had been certified ISO
+representing 82% of the Group's workforce
+
+At 31 December 2013, the amount of reserves for environmental
+contingencies amounted to €7.8m
+
+14001,
+
+1.1.2.5 Risks relating to strategic
+acquisitions and investments
+
+Thales regularly looks to acquire new companies (as well as making
+strategic investments and combining business activities through joint
+ventures, etc.) in order to round out its technological portfolio and
+strengthen its presence in certain markets. Integrating these businesses
+within Thales could prove more difficult and take longer than envisaged,
+requiring a more significant involvement by senior managers and the
+teams concerned and, in turn, negatively impacting the Company's
+results and financial position.
+
+In addition, there are no guarantees that the newly acquired companies
+will perform as well as expected in accordance with the initial business
+plans, which form the basis of the investment decision. This type of
+variance could lead to the recognition of impairment losses on goodwill
+and other intangible assets, thereby negatively impacting Thales’ results
+and financial position
+
+Before any planned acquisitions, Thales conducts audits and due
+diligence with the assistance of external consultants where necessary,
+in order to analyse the fundamentals of the target company. A review is
+also conducted at each key stage in the acquisition process to confirm
+Thales’ interest and specify the necessary conditions and parameters
+to ensure a successful outcome. The newly acquired company is then
+integrated into Thales’ financial reporting system so that its performance
+can be monitored.
+
+24 THALES REGISTRATION DOCUMENT 2013
+
+1.1.2.6 Risks linked to joint ventures,
+consortiums and minority
+
+investments
+
+Thales generates an important part of its sales within the framework of
+various consortiums, joint ventures and investments, where control is
+shared with other partners.
+
+The signing of partnerships and alliances with other market players is an
+integral part of Thales’ strategy, particularly as part of its international
+development, and the share of sales generated by consortiums,
+common companies and investments is likely to increase
+
+However, Thales exercises a variable degree of control over these
+consortiums, common companies and investments. The risk of
+disagreement or blockage, inherent in any jointlycontrolled entity, exists,
+particularly in those where important decisions require the unanimity of
+members or where there are limited exit rights.
+
+Consequently, the Group ensures that appropriate governance modes
+are defined, in order to best protect its interests. In addition, activities
+managed by consortiums, common companies and investments are
+integrated into the Group's financial reporting system in order to monitor
+their performance and all the Group's procedures and directives apply
+to joint ventures where Thales has exclusive control
+
+1.1.2.7 Insurance
+
+Thales’ Insurance and Risk Management Department, based at head
+office and reporting to the SEVP Finance & Information Systems, is
+responsible for the Group's insurance activities and insurable risk
+management. It is in charge of Group operations and oversees policy
+implementation by Group companies.
+
+The Group covers the financial consequences of the risk of accidental
+damage suffered or caused by property or people using appropriate
+insurance policies with leading international insurance and reinsurance
+companies.
+
+The insurance policies arranged by the Group to cover these major
+risks relate to areas such as
+
+= damage to property and consequent operating losses;
+
+transport;
+
+testing and development;
+
+aviation liability, including liability for aeronautical products and
+hull/test flight insurance;
+
+civil liability for space products;
+
+risks of damage to or by naval vessels by subsidiaries, as naval
+equipment suppliers;
+
+general third-party liability;
+
+environmental liability;
+
+= liability of executive officers and directors.
+
+www.thalesgroup.com
+
+
+--- Page 18 ---
+
+Whilst certain damageable events were notified to insurers, the Group
+had no major loss in 2013
+
+Thales’ policy is to arrange cover on the insurance market based on the
+rates and limits that it considers reasonable, in view of the conditions
+offered by the market. Limits are applicable to insurance for major
+risks, while general exclusions for the entire market (e.g. asbestos}
+also apply to Thales.
+
+The maximum coverage limit of €1.3bn in 2013 for damage to
+property and consequent business interruptions takes into account an
+estimate of the maximum loss caused to an industrial site which the
+Group could incur for direct damages and business interruptions
+
+Levels of liability cover depend on the quantification of a reasonable
+claim expectancy for Thales, as identified by the risk map of the main
+business activities and at Group level, and on cover capacity available
+on the insurance market. The insurance coverage for aviation liability
+commitments, which is covered by a specific programme, amounts
+to USD 2bn
+
+The insurance industry, which was affected by the recent financial crisis,
+is still trying to reduce its overall risk exposure. We are witnessing an
+increase in insurance premiums, a rise in deductibles and additional
+limits on the scope of cover. In addition, there are fewer insurers with
+the necessary resources and financial capacity to insure major industrial
+risks. There are no guarantees that Thales will be able in the future to
+maintain current levels of insurance under similar financial conditions
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+In order to reduce its exposure to insurance market volatility, Thales
+insures major risks on a twortier basis
+
+= the Group's contribution, through captive insurance and reinsurance
+companies, towards the settlement of claims, to a maximum net
+retention of €13.5m per year, for damage to property and consequent
+business interruptions, transport, general third-party liability, testing
+and development and space risks;
+
+= transfer to insurers of payment for catastrophic losses
+
+An active Prevention and Protection policy for industrial sites is designed
+to reduce the magnitude and frequency of the accidental risks of fire
+or explosion and to detect other exposures, such as environmental or
+natural disasters and the vulnerability of critical industrial facilities. In
+2013, more than 80% of the assets insured were the subject of a “multi-
+peril” audit by the insurers during their visits to the principal operating
+sites and infrared thermography inspections by an outside organisation
+specialised in the prevention of electrical damage.
+
+In accordance with Group processes, measures were taken to minimise
+business interruption and the consequences of any unforeseen events
+An organisational structure and crisis management tools are in place
+to deal as efficiently as possible with the immediate consequences of
+a catastrophic event and to take the necessary emergency measures.
+
+Thales continues to roll out professional indemnity cover for its staff. In
+addition, specific and/or local cover has been arranged to comply
+with the regulations in force and to satisfy the specific requirements of
+certain activities or projects, particularly public-private partnerships.
+
+REGISTRATION DOCUMENT 2013 THALES 25
+
+
+--- Page 19 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+1.1.3
+
+Social, environmental and societal information
+
+Table of reconciliation decree no. 2012-557 of 24 April 2012
+
+In accordance with decree no. 2012-557 of 24 April 2012 and with
+Article R. 225-105-1 of the French Commercial Code on transparency
+obligations for companies on social and environmental matters, in
+its management report, Thales provides information on the Group's
+social, environmental and societal issues. This information, which has
+
+been verified by a declaration of inclusion and an assurance repor!
+moderated by independent verifiers, presented on pages 221 and 222
+for the social data, on pages 237 and 238 for the environmental data
+and on pages 246 and 247 for the societal data, is presented in full in
+chapter 4 on “Corporate Responsibility” in this registration document.
+
+Decree no. 2012 - 557 of 24 April 2012 Page Section
+1) SOCIAL INFORMATION 206 Al SOCIAL INFORMATION
+a) Employment 207 41.1 A responsible employment policy
+Total workforce and breakdown of employees by 207 Al] A responsible employment policy
+gender, age and geographical area 217 4.1.6.2 Gender equality
+Recruitments and redundancies/dismissals 209 4.1.1.2 Rectuitments
+209 4.1.1.3 Departures
+Remuneration and salary progression 214 4.1.5 Group profitsharing policy
+b) Organisation of work
+Organisation of working hours 217 4.1.6.1.5 Working time
+Absenteeism 217 4.1.6.1.3 Data on accidents at work and absenteeism
+¢) Employee relations
+Organisation of social dialogue, especially procedures 210 4.1.2.1 Collective bargainin
+for providing information to and consuling wih sia 211 4.1.2.2 Appropriate sscial dialogue bodies
+nd negotctin with them
+Summary of collective agreements
+d) Health & safety
+Health and safety conditions at work 216 4.1.6.1 Asafe and healthy working environment: workplace health
+and safety
+Summary of health and safety agreements entered
+into with trade union organisations or employee
+representatives with regard to health and safely at work
+Frequency and severity of work-related accidents and 217 4.1.6.1.3 Data on accidents at work and absenteeism
+sick leave and occupational influences
+e) Training
+Policies implemented for training 213 4.1.4 Training
+Total number of training hours
+f) Equal opportunities
+Measures taken to promote gender equality 217 4.1.6.2 Gender equality
+Measures taken to promote the employment and 218 4.1.6.3.2 Disabled people's employment around the world
+integration of disabled persons 219 4.1.6.3.3 Disabled people's employment in France
+239 4.3.1.2 Group initiatives to support people with disabilities
+Anti-discrimination policy 217 4.1.6.2 Gender equality
+218 4.1.6.3 __ Diversity and non-discrimination
+
+26 THALES REGISTRATION DOCUMENT 2013 www.thalesgroup.com
+
+
+--- Page 20 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Decree no. 2012 - 557 of 24 April 2012 Page Section
+g) Promotion of and compliance with the International
+Labour Organisation fundamental conventions:
+Respect for freedom of association and right to collective 216 4.1.6 Promoting social responsibility
+bargaining
+Elimination of discrimination in respect of employment
+and occupation
+Elimination of forced or compulsory labour
+Effective abolition of child labour
+221 Al7 Statutory Auditors’ independent third-party report
+on consolidated social information published in the
+management report
+2) ENVIRONMENTAL INFORMATION 223 42 ENVIRONMENTAL INFORMATION
+a) General policy 223 421 General policy on environmental issues
+Organisation of the Company to take account 224 4.2.1.2 Environmental organisation
+of environmental questions and, if applicable, 225 4.2.1.4 Control and prevention of environmental risks and pollution
+environmental assessment and certification processes
+Employee training and information training initiatives on 224 4.2.1.3. Stakeholder training and information
+protection of the environment
+Measures taken to prevent environmental risks and 225 4.2.1.4 Control and prevention of environmental risks and pollution
+pollution
+Amount of provisions and guarantees set aside for 226 4.2.1.5 Guarantees, provisions and compensation
+environmental risks
+b) Pollution and waste management 227 4.2.2 Pollution and waste management
+Measures taken to prevent, reduce and clean up 227 4.2.2.1 Limiting discharges
+discharge into the air, water and soil seriously affecting 235 4.27 Environmental indicators
+the environment
+Measures taken to prevent, recycle and eliminate waste 227 4.2.2.2 Preventing production, recycling and eliminating waste
+235 4.2.7 Environmental indicators
+Mitigation of noise and other forms of pollution related = 227 4.2.2.3 Fighting pollution
+to a business activity
+¢) Sustainable use of resources 228 4.2.3 Sustainable use of resources
+Water consumption and supply in accordance with 228 4.2.3 Consumption of water and measures to improve its efficient
+local constraints use
+235 4.2.7 Environmental indicators
+Consumption of raw materials and measures taken to 228 4.2.3.2 Consumption of raw materials and measures to improve
+improve efficiency of their use their efficient use
+233 4.2.6.1 Innovation for the development of green technologies
+Energy consumption, measures taken fo improve energy 229 4.2.3.3 Energy consumption and, where applicable, measures
+efficiency and use of renewable energy to improve energy efficiency and renewable energy use
+235 4.2.7 Environmental indicators
+land use 229 4.2.3.4 — land use
+d) Climate change 229 424 Fighting climate change
+Greenhouse gas emissions 229 4.2.4.1 Reduction of greenhouse gas emissions from activities
+235 4.2.7 Environmental indicators
+Adaptation to the consequences of climate change 230 4.2.4.2 Contribution to fighting climate change
+e) Protection of biodiversity 232 42.5 Protection of biodiversity
+Measures taken to preserve and develop biodiversity 232 4.2.5 Protection of biodiversity
+237 429 Statutory Auditors’ independent third-party report
+
+on consolidated environmental information published
+in the management report
+
+REGISTRATION DOCUMENT 2013 THALES
+
+27
+
+
+--- Page 21 ---
+
+28
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+Decree no. 2012 - 557 of 24 April 2012 Page Section
+3) INFORMATION ON SOCIETAL COMMITMENTS IN
+FAVOUR OF SUSTAINABLE DEVELOPMENT 239 43 SOCIETAL INFORMATION
+a) Territorial, economic and social impact of the
+Company's activities 239 43.1 Territorial, economic and social impact of the business
+In terms of regional employment and development 239 4.3.1.1 Territorial policy and programme by Géris consultants
+on resident or local populations in France
+b) Relations with people or organisations with an 240 43.2 Stakeholder relations
+interest in the Company's activities, especially
+associations for inclusion, teaching establishments,
+associations for defence of the environment,
+consumer associations and local residents’
+associations
+Conditions for dialogue with these people or 240 4.3.2.1 Partnerships with professional, international
+organisations and non-governmental organisations
+Partnership or sponsorship operations 210 4.1.1.4.2. Educational partnerships and links with schools students
+231 4.2.4.2.4 Inthe definition of international standards and partnerships
+232 4.2.5 Protection of biodiversi
+241 4.3.2.2 Thales’ initiatives with charitable organisations
+¢) Subcontractors and suppliers 241 43.3 Relations with suppliers: a responsible approach
+Recognition of social and environmental issues in the 224 4.2.1.3.2. Involving suppliers
+procurement policy 241 4.3.3. Relations with suppliers: a responsible approach
+Importance of subcontracting and recognition of 225 4.2.1.3.3 Relations with stakeholders
+subcontractors’ and suppliers’ corporate responsibility in 231 4.2.4.2.4 \n the definition of international standards and partnerships
+relations with them 232 425 Protection of biodiversity
+241 4.3.3 Relations with suppliers: a responsible approach
+d) Fair business practices 242 43.4 Fair practices
+Actions undertaken to prevent corruption 242 4.3.4.1 Preventing corruption
+245 4.3.5 Societal indicators
+Measures taken to ensure consumer health and safety 244 4.3.4.2 Health and safety of consumers
+e) Other actions undertaken to promote Human Rights 242 43.4 Fair practices
+216 4.1.6 Promoting social responsibilty
+233 4.2.6.2 — Ecoresponsible products
+244 4.3.4.3. Actions to support Human Rights
+246 43.6 Statutory Auditors’ independent third-party report
+
+on consolidated societal information publishes
+in the management report
+
+THALES REGISTRATION DOCUMENT 2013
+
+
+--- Page 22 ---
+
+FINANCIAL INFORMATION 2013
+
+Group management report
+
+1.1.4 Events since year-end
+
+No significant events after reporting period.
+
+REGISTRATION DOCUMENT 2013 THALES 29

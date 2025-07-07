@@ -1,0 +1,3508 @@
+
+
+--- Page 1 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+History of Sopra Steria Group
+
+H History of Sopra Steria Group
+
+A PERFORMANCE-ENHANCING CORPORATE PLAN
+
+Sopra Steria has reinforced its position as a European leader in
+digital transformation. The Group’s shares are listed on the SBF 120
+index, and it posted €4.1 billion in revenue and employed more than
+44,000 people in over 25 countries in 2018.
+
+Sopra Steria was born from the merger in 2014 of two of
+France's oldest digital services companies, Sopra and Steria, founded
+respectively in 1968 and 1969, and both characterised by a strong
+entrepreneurial spirit as well as a firm collective commitment to
+serving their clients.
+
+1968-1985
+
+Meeting the needs of an increasingly computerised society
+
+The emerging IT services industry is in step with the demands of an
+increasingly modern society. Sopra and Steria set ambitious growth
+targets to achieve critical mass as quickly as possible, and to meet the
+needs of major clients with innovative products and services.
+
+Sopra invests in software development and opens up new vertical
+markets. Meanwhile, Steria signs a series of major contracts from
+the public sector.
+
+1985-2000
+
+An era of rebuilding
+
+After two decades of strong momentum, the IT services market enters
+a maturity phase and faces its first tests. In 1985, Sopra rethinks its
+fundamentals. A model combining two complementary businesses
+emerges, and the company focuses on systems integration and
+software development. The Group places financial performance at
+the heart of its strategy to ensure its long-term independence and
+prepare for its initial public offering, which takes place in 1990.
+
+Steria also reorganises its functional structure. By rationalising and
+industrialising processes, it once again wins major deals. Everything
+is ready for the company to plan its initial public offering in 1999.
+
+2000-2014
+
+Contributing to clients’ digital transformation
+
+In 2001, the Internet bubble bursts accelerating market changes.
+Clients are looking for global players capable of assisting them in
+transforming their businesses.
+
+Steria responds to these challenges by making major, structural
+acquisitions. The Group doubles in size by integrating Bull’s European
+services businesses in 2001, and boosts its consulting offering with
+the acquisition of German firm Mummert Consulting in 2005. Xansa,
+a British group specialising in business process outsourcing (BPO),
+joins the Steria fold in 2007. In 2013, Steria signs one of the biggest
+contracts in its history with the UK government, strengthening its
+foothold in the public sector.
+
+Sopra combines internal and external growth to consolidate its
+European expansion and its areas of expertise: consulting, systems
+integration and solutions development. Axway, a subsidiary formed
+by bringing together the Group's software infrastructure divisions,
+
+16 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+is floated in 2011 to let it pursue its growth independently and set
+out to conquer the US market. Sopra is recognised for its expertise in
+financial services, leading to the creation of Sopra Banking Software
+in 2012. In 2014, dedicated human resources solutions are brought
+together in a single subsidiary, Sopra HR Software.
+
+2014-2019
+
+A new dimension and accelerated performance
+
+Due to the changes resulting from digital transformation, business-
+related issues are becoming increasingly significant within the
+digital services market. In this context, a friendly tie-up between
+Sopra and Steria makes perfect sense, and on 31 December 2014,
+a new European leader in digital transformation is created: Sopra
+Steria. The two groups perfectly complement each other in terms
+of business activities, strategic vertical markets and geographic
+segments, and their business cultures are closely aligned.
+
+In the first few months of 2015, the integration plan jointly designed
+by Sopra and Steria teams is successfully rolled out in the operational
+and functional departments of the new Group. At the same time,
+the Sopra Steria 2020 Project is launched in order to improve
+performance in all areas and increase added value. By capitalising
+on an end-to-end offering delivered to major clients using a vertical
+approach, the project supports initiatives within the area of digital
+technology and puts the emphasis on consulting services and the
+development of software solutions, by means of organic growth
+and acquisitions. In 2016, the Group launches New Way, a three-
+year programme aiming to unite all employees around a single
+culture and shared fundamental values. The We Share employee
+shareholding plan gives employees a greater stake in the Group’s
+expansion. With around 7% of share capital managed on behalf
+of its employees, Sopra Steria is France’s leading digital services
+company in terms of employee shareholders.
+
+Strategic investments continue in services, consulting and the
+development of business solutions. The acquisition of CIMPA in
+October 2015 boosts the Group's presence in the product lifecycle
+management (PLM) market. Following the acquisition of software
+house Cassiopae, finalised in January 2017, three new companies
+joined the Sopra Steria Group in 2017 (Kentor, 2MoRO and
+Gallitt). These acquisitions have helped to strengthen Sopra Steria’s
+positioning in Scandinavia, in the aerospace and banking vertical
+markets.
+
+In 2018, the acquisitions of BLUECARAT, a German IT services
+company (finalised on 3 May 2018) and of it-economics, a German
+digital consulting firm (finalised on 5 July 2018), strengthen Sopra
+Steria’s position in Germany.
+
+In the first half of 2018, Sopra Banking Software strengthened
+its footprint in its markets with the acquisition of O.R. System,
+followed by that of Apak in the second half.
+
+Sopra Steria thus provides end-to-end solutions to address the core
+business needs of large companies and organisations, helping them
+remain competitive and grow. Combining expert business knowledge
+and added value with innovative high-performance services, the
+company excels in guiding its clients through transformation projects
+to help them make the most of digital technology.
+
+
+--- Page 2 ---
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Overview of the digital services sector
+
+Overview of the digital services sector
+
+2.1.
+
+Main markets — Competitive environment of the digital services sector
+
+In 2018, the digital services market in Western Europe was worth an estimated €305 billion ”.
+
+| DIGITAL SERVICES MARKET IN WESTERN EUROPE (EXCLUDING HARDWARE AND SOFTWARE)
+
+Country (in billions of euros)
+
+France 40.3
+United Kingdom 90.8
+Germany 52.7
+Rest of Europe 121.2
+TOTAL 305.0
+
+Source: Gartner (Q4 2018), in constant 2013 US dollars.
+
+The market in Western Europe expanded by an estimated 4% in 2018, including growth of 4.6% in Germany, 4% in France and 2.4% in the
+United Kingdom. According to market research (source: Gartner), this trend is expected to continue, with annual growth of more than 4%
+
+out to 2022.
+
+| DIGITAL SERVICES MARKET IN WESTERN EUROPE (EXCLUDING HARDWARE AND SOFTWARE)
+
+Business (in billions of euros)
+
+Consulting 61.2
+Systems development and integration 75.7
+Outsourced IT services 129.7
+Business process outsourcing 38.4
+TOTAL 305.0
+
+Source: Gartner (Q4 2018), in constant 2013 US dollars.
+
+In 2018, the business process outsourcing and outsourced IT
+services segments expanded at estimated rates of 2.9% and 2.8%,
+respectively. The fastest-growing segments were services relating to
+applications development and systems integration (estimated 4%
+growth) and consulting (estimated 7.7% growth).
+
+The European market has two main characteristics:
+
+a three countries (the United Kingdom, Germany and France)
+account for 60% of IT services spending ‘”;
+
+= outsourcing of technology services (application maintenance and
+infrastructure management) and business process outsourcing
+together account for a little over half of IT services spending by
+European companies ‘").
+
+Furthermore, the IT services market remains fragmented despite
+
+some consolidation, with the leading player in the European market
+
+(1) Source: Gartner (Q4 2018), in constant 2013 US dollars.
+
+holding far less than a 10% share. Against this backdrop, Sopra
+Steria is one of the ten largest digital services companies operating in
+Europe (excluding captive service providers and purely local players).
+Its market share stands at over 4% in France and currently averages
+between 0.5% and 1% in the other major European markets.
+
+Sopra Steria’s main competitors in Europe are Accenture, Atos,
+Capgemini, CGI, DXC and IBM, all of which are present worldwide.
+It also faces competition from Indian groups, chiefly in the United
+Kingdom (such as TCS, Cognizant, Wipro and Infosys), and local
+companies with a strong regional presence (Indra in Spain, Fujitsu in
+the United Kingdom, Tieto and Evry in Scandinavia, etc.). Apart from
+its services business, listed rivals such as Temenos and Alfa Financials
+also command a significant presence in the software market, where
+Sopra Steria is also present, especially in banking.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 17
+
+
+--- Page 3 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Sopra Steria’s activities
+
+Sopra Steria’s activities
+
+3.1. A major European player
+in digital transformation
+
+Sopra Steria, a major European player in digital transformation, has
+one of the most comprehensive portfolios of offerings on the market,
+spanning consulting and systems integration, the development of
+business and technology solutions, infrastructure management,
+cybersecurity and business process services (BPS).
+
+The Group provides end-to-end solutions to address the core
+business needs of large companies and organisations, helping them
+remain competitive and grow throughout their transformation, from
+strategic analysis, programme definition and implementation, and
+IT infrastructure transformation and operation, to designing and
+implementing solutions and outsourcing business processes.
+
+Combining added value, innovative solutions and high-performance
+services, Sopra Steria’s hybrid model capitalises on its substantial
+experience. Thanks to very close relationships with its clients, the
+Group is able to continually innovate to guarantee that its offerings
+remain relevant to the strategic challenges of each of its vertical
+markets
+
+Sopra Steria is an independent group whose founders and managers
+control 22.4% of its share capital and 33.0% of its theoretical voting
+rights. With more than 44,000 employees in over 25 countries, it
+pursues a strategy based on European key accounts.
+
+Sopra Steria Group is also the preferred partner of Axway Software,
+whose exchange and digital enablement platforms play an important
+role in renovating information systems and opening them up to
+digital technology.
+
+For Sopra Steria, helping clients succeed in their digital transformation
+means breaking down their strategic and business challenges into
+digital initiatives through an exclusive end-to-end offering. Whether
+this takes a vertical approach (from the ideation of a need through
+to execution) or a horizontal approach (driven by data continuity),
+Sopra Steria’s approach enables it to offer multi-disciplinary teams.
+These teams are trained in the new microservices platforms, DevOps
+and cloud computing (hard skills). They are also adopting new
+methods of designing, delivering and embedding teams (soft skills).
+Sopra Steria is therefore able to offer the two key components of
+successful digital transformation: speed of execution (or delivery in
+“fast IT” mode) and openness to external ecosystems.
+
+3.1.1. CONSULTING AND SYSTEMS INTEGRATION
+
+a. Consulting
+
+Sopra Steria Consulting, the Group's consulting brand, is a leading
+consulting firm. Sopra Steria Consulting has over 40 years’ experience
+in business and technological consultancy for large companies and
+public bodies, with around 3,000 consultants in France and Europe.
+Its aim is to accelerate the development and competitiveness of
+its clients by supporting them in their digital transformation. This
+support mainly involves understanding clients’ business issues using
+substantial sector-specific expertise, and then working to design
+
+18 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+transformation roadmaps (business processes, data architecture,
+change management, etc.) to make the most of new digital
+technologies.
+
+b. Systems integration
+
+Systems integration is Sopra Steria’s original core business, and
+covers all aspects of the information system lifecycle and major
+transformation programmes. Sopra Steria is equipped to address the
+full range of its clients’ software asset needs:
+
+Design and integration
+
+Sopra Steria’s teams help their clients implement agile and industrial-
+scale projects. The Group undertakes to design and deliver systems in
+line with business requirements that are flexible and adapted to the
+new requirements of digital transformation as well as sector-specific
+regulatory constraints. This is made possible by working closely with
+the Sopra Steria Consulting teams.
+
+Performance and transformation
+
+In addition to standard information systems maintenance, Sopra
+Steria takes a continuous transformation approach to these systems
+to guarantee optimised operational efficiency for its clients, suited
+to changes in their business. The transformation approach includes
+a well-equipped and documented procedure making it possible to
+combine the issues involved in reducing the time to market with
+improved competitiveness and continuity of service.
+
+Streamlining data flow
+
+Once the systems and technologies are implemented, the information
+system gives access to reliable, relevant and critical data, offering
+better analysis of user satisfaction and optimisation of service
+performance
+
+With the increasing number of diverse data sources relating
+to fundamental changes in use, data is a more valuable to the
+company than ever. To increase the value of this data, Sopra Steria
+has developed specific know-how and expertise to manage the
+exponential growth in data volumes and associated skills (data
+science, smart machines, automation, artificial intelligence) by
+integrating them in a global solution, securing the data regardless
+of its origin (mobile devices, smart objects, data privacy, the cloud,
+multimodal and multichannel systems, etc.) and using the data by
+means of contextualised algorithms.
+
+The Group’s systems integration offering thus meets the challenges
+posed by both the obsolescence and modernisation of information
+systems, ensuring optimal flexibility and value creation.
+
+Product lifecycle management (PLM)
+
+CIMPA provides comprehensive expertise via its PLM offering, which
+covers all the various facets of PLM services
+
+= PLM strategy creation or optimisation;
+= deployment of strategy-related tools, processes or methods;
+= user training and support
+
+
+--- Page 4 ---
+
+3.1.2. IT INFRASTRUCTURE MANAGEMENT
+
+With over 4,500 technology experts worldwide and more than
+10 years’ experience in developing our outsourcing service centres
+in Europe and India, Sopra Steria provides digital transformation
+support for all technological and organisational transformation
+projects from consulting to execution in the IT infrastructure
+management sector.
+
+The hands-on approach applied for infrastructure
+management covers five types of services that are essential to
+support information system transformation for our clients:
+
+= Consulting on Services: Offers value propositions for the co-
+management and operation of transformation projects. This is
+provided across all four of the other service categories listed below;
+
+Optimum Cloud Services: A comprehensive range
+of cloud solutions and services with key market operators.
+Customisable services such as: CloudOps, CloudOptim or even
+CloudMigrationFactory to manage our clients’ cloud environments;
+
+= Application Live Services: Proven commissioning solutions,
+continuity of service and data management solutions. Customisable
+services such as: DevOps services, live services, API services
+and smart data services to ensure reliability and a high level of
+application availability;
+
+Intelligent Services: An intelligent services platform to better
+serve our clients’ employees. Customisable services such as: digital
+workplace services, support services and Al services to make client
+services more efficient;
+
+Legacy Services Plus: Technology experts in servers, storage and
+backup to optimise existing applications while also looking after
+development and interconnection with applications hosted in the
+cloud. These services are complemented by hosting capacity in
+Europe, benefiting from HDS certification (France).
+
+We assist large organisations with their strategic cloud-native, cloud-
+first or “data centre-less” initiatives.
+
+Combining consulting and multimodal delivery, our teams work
+more specifically on transformation and managed services projects
+in private, public and hybrid cloud environments.
+
+3.1.3. CYBERSECURITY
+
+With over 700 experts and several state-of-the-art cybersecurity
+centres in Europe and worldwide (France, United Kingdom,
+Singapore), Sopra Steria is a global player in protecting critical
+systems and sensitive information assets for major institutional and
+private clients.
+
+Cybersecurity covers five key areas of expertise:
+
+= Governance, Risk and Compliance (GRC): High value-added
+consulting services coupled with GRC solution integration in
+order to provide well-equipped security governance focused on
+managing business risks. In the area of regulatory compliance,
+Sopra Steria’s comprehensive support to ensure compliance with
+major French and European regulations (LPM/NIS, CNIL/GDPR,
+export control, etc.) is based on the legal and operational expertise
+of our consultants;
+
+= Application Security: A complete programme for securing
+applications, including a “secure by design” project approach and
+a unique code review as a service (CRaaS) production capacity
+made possible by our cybersecurity centres;
+
+= Cloud Security: Sopra Steria Cloud Security Services covers
+compliance with the frameworks concerned, “secure by design”
+principles, application security and overall monitoring of public
+cloud and multi-cloud environments;
+
+= Data Security: A comprehensive programme, extending from
+business-related risks to protection and surveillance measures,
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Sopra Steria’s activities
+
+designed for hybrid environments (legacy, cloud) and leveraging
+the best of big data and data science technologies;
+
+Security Intelligence Centre (SIC): A scalable Security
+Operations Centre (SOC) offering that may be used by the
+organisations known in France as opérateurs d’importance vitale,
+or OlVs (identified by the French state as having activities that are
+vital or hazardous for the population), in line with Sopra Steria’s
+certification as an authorised security incident detection service
+provider (PDIS) by the ANSSI, the French networks and information
+security agency. The leading offering of its kind in France, this
+type of SOC combines information management and artificial
+intelligence to anticipate, detect, analyse and respond to cyber
+attacks as quickly and accurately as possible.
+
+This comprehensive offering is suited for any environment and
+provides a tangible solution for the security issues specific to
+industrial systems.
+
+3.1.4. BUSINESS SOLUTIONS
+
+Sopra Steria offers its business expertise to clients via packaged
+solutions in three areas: banks and other financial institutions via
+Sopra Banking Software, human resources personnel via Sopra HR
+Software, and real estate owners and agents with its real estate
+management solutions. The Group offers its clients the most
+powerful solutions, in line with their objectives and representing the
+state of the art in terms of technology, know-how and expertise in
+each of these three areas.
+
+Solutions
+
+Sopra Banking Software: Solutions developer
+for the financial services industry
+
+Sopra Banking Software, a wholly owned subsidiary of the Group,
+is the developer of market-leading financial solutions for more than
+800 banks (direct- and branch-based retail banks, private banks,
+microfinance companies, Islamic financial institutions, centralised
+payment or credit factories) and specialist lenders around the world.
+
+Sopra Banking Software's 4,200 experts are all fully dedicated to the
+success of their clients, implementing solutions that process more
+than 800 million transactions in order to meet objectives such as
+enhancing the client experience, operational excellence, controlling
+costs, compliance and reducing risks.
+
+Beyond solutions and technologies, the question of the value
+promises made to clients is of paramount importance. This involves
+the development of new client experiences, but also the optimisation
+of existing systems. Optimisation helps to identify the investments
+needed to innovate and drive economic growth, promote advances
+in technology and ensure legal and ethical compliance. Each
+transformation is a multidimensional process specific to each client.
+This is why Sopra Banking Software works together with each of
+its clients to develop solutions and help them forge their own path
+going forward.
+
+Platform, Amplitude and Digital Experience Platform:
+Three offerings to transform banks
+
+Supported by an API, RESTful, microservices and cloud-native
+architecture, Sopra Banking Software's offerings cover all business
+processes in banking, from client relationships and banking
+production to accounting integration and regulatory reporting,
+and are entirely open. They use them to carry out their day-to-
+day operations and successfully complete their transformations to
+guarantee sustainable growth.
+
+Sopra Banking Software is recognised for the power of its solutions
+and the quality of its experts.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 19
+
+
+--- Page 5 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Sopra Steria’s activities
+
+An unrivalled global position in asset finance
+
+Sopra Banking Software’s complete, flexible and field-proven
+solution in this area covers all requirements for business and
+personal financing and loans: car loans, capital goods loans, but
+also equipment and real estate leasing, and even market financing.
+
+Thanks to the value-creating innovation culture fostered among
+all the entity's experts, combined with a collaborative working
+approach, its clients are able to raise satisfaction levels among their
+customers while driving growth.
+
+Services
+
+From consulting to analysis, planning, training of teams,
+implementation and maintenance, Sopra Banking Software also
+supports its clients by offering a wide range of related services over
+the entire life cycle of their projects.
+
+In addition to operating its own solutions, Sopra Banking Software
+offers SaaS solutions.
+
+Sopra HR Software: A market leader in human resource
+management
+
+Sopra Steria Group also develops human resource management
+solutions via Sopra HR Software (a wholly-owned subsidiary of Sopra
+Steria). Sopra HR Software is present in 10 countries, providing
+comprehensive HR solutions perfectly suited to the needs of human
+resources departments. Sopra HR Software currently has a workforce
+of 1,576 people and manages the payrolls of 850 clients with over
+12 million employees.
+
+Sopra HR Software is a partner for successful digital transformation
+of companies and anticipates new generations of HR solutions.
+
+Solutions
+
+The Sopra HR Software offerings are based on the most innovative
+business practices and cover a wide range of functions, including
+core HR, payroll, time and activity tracking, talent management, HR
+spaces for employee engagement and collaboration, and analytics.
+The offering is based on two product lines, HR Access® and Pléiades®,
+aimed at large and medium-sized public or private organisations in
+any sector and of varying organisational complexity, irrespective of
+their location
+
+Within Sopra HR Lab, the Group anticipates the best of new HR
+solutions.
+
+Services
+
+Sopra HR Software, a comprehensive service provider, offers a
+number of services linked to its solution offering. Sopra HR Software
+supports its clients throughout their projects, from consulting
+through to implementation, including staff training, maintenance
+and business process services (BPS).
+
+Sopra HR Software implements its own solutions either on-premise
+or in the cloud and also offers a wide range of managed services.
+
+Real Estate Management Solutions by Sopra Steria: The
+leading name in digital transformation for real estate
+management
+
+Sopra Steria is the leading developer/distributor/integrator/service
+manager of real estate management software in France. At the
+cutting edge of digital technologies, it offers its clients the most
+comprehensive information system on the market.
+
+20 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+Targeting major operators in the public and private sector in France
+(institutional investors, social housing, real estate management
+companies, major users), Sopra Steria covers all areas of the real
+estate industry and markets itself through comprehensive solutions
+comprising products, innovative technology services (collaborative
+environments, BIM, apps, cloud, extranet) and consulting services.
+
+With this full digital offering, Sopra Steria combines digital services
+around a single data repository for the building, its occupants
+and the management of real estate assets. This therefore makes it
+possible to achieve a higher return on the real estate portfolio while
+also improving its use and relations with occupants and service
+providers.
+
+3.1.5. BUSINESS PROCESS SERVICES
+
+Sopra Steria offers a full range of business process services (BPS)
+solutions: consulting for the identification of target operating
+models, development of transition and transformation plans, and
+managed services.
+
+Today, our BPS offering goes hand in hand with digital transformation.
+Digital technologies have opened up opportunities for improving
+key business processes in all organisations. Whether they involve
+robotics, chatbots, automatic natural language processing (NLP)
+or artificial intelligence (Al) more widely, digital technologies can
+streamline the execution of processes, cut their costs and lead to
+new approaches.
+
+Sopra Steria has forged relationships with major providers of digital
+solutions for BPS. Furthermore, we enjoy a strong presence in the
+technology ecosystem, both in France and worldwide. We thus
+have access to a dynamic network of partners as well as a singular
+ability to identify innovative solutions owing to our connections with
+the world of technology startups. We combine our own platforms
+with those of our technology partners to provide the right level
+of innovation within our design/production/operation services.
+Our specialised design teams work to ensure the best possible
+client experience for end-users and we offer our clients ways to
+considerably improve process efficiency by leveraging intelligent
+automation and machine learning. Thanks to our technology assets,
+we are helping to develop tomorrow’s operating models.
+
+Sopra Steria employs many consultants and practising professionals
+with expertise in BPS and the digital sector. They help organisations
+make the best use of new digital technologies to transform their
+activities, from their operating models to their processes and end-user
+services. Our ability to handle transformation in both its human and
+business dimensions allows us to support our clients wherever their
+digital journey takes them, helping them to move from a theoretical
+perspective on possible solutions to a focus on specific technologies.
+We eliminate inefficient practices, reorganise tasks and improve
+results for each activity entrusted to us, whether it involves individual
+business processes or highly complex shared services. Added to this
+is the experience of our employees in change management, which
+is essential to the success of any transformation. In the various BPS
+areas, we can provide the services ourselves or work in tandem with
+the client's personnel to carry out the engagement. In these cases,
+we invest in these individuals to help them become more effective
+and productive, sharing our best practices with them.
+
+Sopra Steria operates two of the largest shared service centres in
+Europe, taking charge of multiple business processes each day on
+behalf of end-clients.
+
+
+--- Page 6 ---
+
+3.2. Business expertise at the heart
+of our strategy
+
+Sopra Steria has chosen eight major vertical markets that constitute
+its areas of excellence and make up 90% of revenue. The Group has
+a comprehensive offering in each of these fields, meeting the specific
+challenges of its clients.
+
+3.2.1. BANKING
+
+The banking and financial services sector has entered a new era,
+that of Open Banking. Client demands and regulatory pressures are
+constantly increasing and new market entrants (fintech companies,
+the “Big Four” tech companies, retail and telecoms players, etc.) are
+helping to accelerate transformations in this ecosystem, moving it
+toward greater openness, a paradigm shift often referred to as the
+Open Banking revolution
+
+Faced with these new challenges, Sopra Steria aims to be a partner
+for banks, helping to facilitate and accelerate this transformation.
+
+With three core areas of expertise — understanding of the banking
+sector, its clients and the most innovative technologies — the
+Group offers powerful and agile software solutions, as well as
+their application by means of value-added use. The Group and its
+subsidiary Sopra Banking Software provide comprehensive solutions
+and turn changes in the banking world into opportunities for their
+clients, whether in risk management, regulatory compliance, data
+protection, improving the client experience, optimising performance,
+delivering differentiation or identifying new sources of income.
+
+3.2.2. PUBLIC SECTOR
+
+Faced with new expectations from civil society and businesses, the
+need to optimise their expenditure, the obligation to keep up with
+regulatory changes and driven by a wave of reforms, public sector
+entities are continuing the broad-based transformation of their
+activities, organisations and the services offered to their users.
+
+When digital technology is a force for change, Sopra Steria provides
+solutions in two main categories: (i) the digitisation of government
+services, the re-engineering of processes and, more generally,
+the modernisation of business-specific information systems via
+digital transformation programmes, and (ii) the pooling of support
+functions for central government agencies, local authorities, and key
+providers in the health and welfare sectors.
+
+As a result, public sector organisations can ensure that they meet
+their targets and priorities at the lowest cost, while giving their
+information system the agility it requires to cope with the challenges
+they face.
+
+3.2.3. | AEROSPACE, DEFENCE AND HOMELAND SECURITY
+
+a. Aerospace
+
+The aeronautics and space sector is a particularly fertile ground for
+innovation. It is subject to constraints regarding reliability, availability,
+security and performance, which require suppliers to have full
+command of the technologies and processes implemented, as well as
+a thorough understanding of their different clients’ core businesses.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Sopra Steria’s activities
+
+For optimal service, companies operating in this sector must align
+their capacities with the pace of production and optimise their
+processes and information systems while also improving profitability.
+Digital continuity and the ability to manage the product life cycle,
+from design to manufacture and after-sales services, are crucial.
+Sopra Steria’s acquisition in 2015 of CIMPA, a specialist in product
+lifecycle management, makes total sense in this context particularly
+as it was followed in 2017 by the acquisition of 2MoRO, extending
+the Group's offering in aerospace maintenance activities.
+
+To meet these challenges, Sopra Steria’s expertise comes into play
+in such critical areas as industrial efficiency, manufacturing and
+particularly the shop floor, supply chain, on-board systems and air
+traffic control.
+
+b. Defence
+
+In a tense geopolitical context, marked by the rise of new threats
+to states (cybercrime, terrorism, etc.), defence departments must
+improve their effectiveness while taking into account budgetary
+constraints. It has become essential to optimise the interoperability
+and security of critical operational systems for exchanging real-time
+information.
+
+With over 40 years’ experience in supporting the military in Europe,
+Sopra Steria combines pragmatism and innovation, thanks to
+powerful technological and process solutions
+
+= interoperability and security of military systems;
+efficiency and overall effectiveness of the armed forces;
+
+efficiency of the military supply chain (supply chain management);
+reliability of operational and communication information systems;
+
+mass data leveraging for information systems;
+
+sovereign cyber-defence solutions and services;
+
+control over costs and the complexity of ensuring compliance for
+command and control systems.
+
+c. Homeland security
+
+Sopra Steria supports public authorities in meeting the challenges of
+homeland security. The Group operates in 24 countries, serving many
+different organisations: police, emergency services, border control,
+census services, justice, customs and homeland security services.
+Sopra Steria carries out large-scale, complex and critical projects on
+behalf of these organisations, concerning:
+
+= management of surveys and domestic intelligence;
+
+road safety;
+
+automation of command and control solutions;
+
+management of identity documents, security credentials and civil
+and criminal biometrics;
+
+modernisation of civil and criminal systems and management of
+prisoners;
+
+intelligent, distributed computer systems;
+
+infrastructure security;
+
+= mobile technologies to optimise operations on the ground
+
+In addition, the Group has developed innovative solutions specific
+to the security sector, to meet the challenges and requirements of
+clients in this field (biometrics, mobile technology, fingerprint and
+genetic footprint search engines, etc.).
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 21
+
+
+--- Page 7 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Sopra Steria’s activities
+
+3.2.4. ENERGY AND UTILITIES
+
+Faced with the challenges of energy transition and the opening up of
+markets, as well as regulatory constraints, companies in the energy
+sector must be increasingly creative to improve their productivity,
+develop new products and services, control costs, reduce their
+environmental impact and rationalise their operations.
+
+In a context of strategic choices to be made between integration and
+specialisation, investment priorities focused on the regulated arena
+or the competitive sector, and the extent of internationalisation,
+digitisation is fast becoming the inevitable route to step up
+transformation for players in this sector.
+
+Sopra Steria supports energy suppliers and utilities in their strategic
+responses to trends affecting a number of areas:
+
+= experience and client acquisition: Reinventing customer relations
+and designing new services;
+
+= optimisation of asset performance: Controlling operating costs
+and securing performance;
+
+= digital transformation of engineering firms: Overhauling processes
+for the design, construction and maintenance of industrial assets;
+
+= modernisation of networks: Accompanying the decentralisation
+and the digitisation of energy networks;
+
+= transformation and performance of organisations: Facilitating
+changes in organisations and business lines necessitated by major
+changes affecting the sector.
+
+3.2.5. TELECOMS, MEDIA AND GAMING
+
+The telecoms, media and gaming sector is at the centre of the digital
+revolution, and is continually innovating to stay abreast of new
+digital interactions and the emergence of new technologies and
+usage patterns.
+
+Sopra Steria enables its clients to meet the following main challenges:
+
+= transformation of the telecommunications sector: End-to-
+end digitisation from client systems to infrastructure, network
+virtualisation, fixed-mobile convergence, reduction of the time to
+market, optimisation and digitisation of customer relationships;
+
+network management: Reduction in infrastructure management
+costs, introduction and operation of new technologies such as
+SDN/NFV or 5G, reduction in delivery times, sharing of operating
+and investment expenditures between providers;
+
+diversification: Operators offer new services such as the internet of
+things, content distribution and even financial services;
+
+core media business: Use of new technologies, optimisation of
+advertising revenue, digitisation of content, improvement in the
+creation and broadcasting of television programmes;
+
+core gaming business: Management of customer retention and
+churn, fraud reduction and control over cash flows, compliance
+with regulations, digitisation of distribution channels, and
+differentiation by customer experience.
+
+22 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+3.2.6. TRANSPORT
+
+The transport sector is undergoing far-reaching changes and must
+meet new challenges: growing international and urban traffic, new
+modes of transport (carpooling, low-cost operators, long-distance
+buses, free-floating systems for car, bike and scooter sharing, to
+name a few), the inescapable renovation of ageing networks, while
+preparing for the opening to competition and the arrival of new
+digital players (Google, Uber, BlaBlaCar, etc.)
+
+Faced with these major challenges, the transport sector must strive
+to provide door-to-door, multimodal services (rail and underground,
+bicycles, taxis, buses, scooters) with a low carbon footprint, adopting
+a passenger-centric approach.
+
+In transport, our aim is to be the digital transformation partner
+for the main players across the three key business dimensions of
+their value chain: innovation in the passenger experience to achieve
+greater simplicity and fluidity, operational management of resources
+to ensure more robust offerings, and better use of capital assets
+(fleets, infrastructure).
+
+Our ambition is also to be a recognised player in mobility ecosystems:
+mobility platforms, autonomous shuttles/vehicles, smart cities, etc.
+
+Sopra Steria has developed business know-how in all of these fields
+based on four main themes:
+
+a infrastructure management: Asset management, preventive and
+predictive management (e.g. industrial loT), factory 4.0 or factory
+of the future, maintenance of aeroplanes and rolling stock,
+mobility, paperless records, etc.;
+
+a traffic management: From timetable design to transport planning,
+rolling stock management and supervision of rail, road and air
+traffic;
+
+passenger experience: Mobile ticketing, boarding and access
+control, passenger information, and new services in stations and
+airports;
+
+= transport services tailored to smart cities: Mass transit, sustainable
+urban logistics, multimodal urban mobility services (MaaS),
+collaborative mobility management.
+
+Sopra Steria is a leading player in business and information system
+transformation for major clients in the rail, aviation, postal services
+and urban transport sectors.
+
+3.2.7. INSURANCE
+
+The insurance sector is fiercely competitive and subject to increasingly
+strict regulation. As in other areas, policyholders expect to interact
+with providers via various channels, and providers are attempting to
+develop client-centred processes in order to ensure seamless service
+for all the policyholder’s major milestones. Insurance companies and
+social welfare providers have to find a way of cutting costs while also
+optimising efficiency and providing a differentiated and harmonious
+client experience.
+
+Sopra Steria offers its clients solutions focused on transforming
+distribution models, the development of new insurance products
+and services, and operational efficiency, through services such
+
+
+--- Page 8 ---
+
+as maximising value-add for the client experience, leveraging of
+data and information assets, acceleration of paperless processes
+and digital transformation, alignment of business processes and
+information systems, and the use of smart devices for prevention,
+big data for combating fraud and artificial intelligence for smart care.
+
+3.2.8. RETAIL
+
+Retailers face a challenging business environment as well as profound
+and continual changes in the shopping habits of customers,
+who increasingly use digital technology. To remain competitive,
+transformation is essential. The aim is to secure and better manage
+retail business practices while offering a real ability to innovate to
+meet consumer demand for immediate and flexible services.
+
+Strategy and objectives
+
+4.1. Strong and original positioning
+in Europe
+
+Sopra Steria’s ambition is to be a major European player in digital
+transformation, with a comprehensive, high value-added offering,
+enabling its clients to make the best use of digital technology to
+innovate, transform their models (business as well as operational
+models), and optimise their performance.
+
+The Group's aim is to be the benchmark partner for large public
+authorities, financial and industrial operators and strategic companies
+in the main countries in which it operates.
+
+To achieve this aim, Sopra Steria will continue to strengthen its key
+competitive advantages:
+
+= business software solutions which, when combined with the
+Group’s full range of services, make its offering unique;
+
+= a position among the leaders in the financial services vertical (core
+banking and specialist lenders) bolstered by the success of the
+Sopra Banking Software solutions;
+
+= very close relationships with its clients, thanks to its roots in the
+regions where it operates and its ability to meet core business
+requirements without taking the prescriptive approach favoured
+by certain global providers.
+
+(1) Source: Truffle 100, May 2018.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Strategy and objectives
+
+Sopra Steria assists retailers with their digital transformation and has
+developed knowledge and experience in multi-channel commerce,
+optimisation of logistics chains and understanding client needs. In
+this way, the business processes and information systems of these
+companies become a lever for performance.
+
+3.3. Research and Development
+in Solutions
+
+The Group has continued its R&D efforts, investing €104.9 million in
+2018 (versus €102.2 million in 2017) in developing and expanding
+its business solutions. All of these totals are gross amounts and do
+not take into account funding related to the French R&D tax credit.
+
+4.2. Confirmed objectives and priority
+action areas
+
+4.2.1... DEVELOPMENT OF SOLUTIONS
+
+The Group, currently France’s number two software development
+company “”, confirms its medium-term target of bringing the
+share of its solution development and integration activities to 20%
+of its revenue. Through a combination of organic growth and
+acquisitions, efforts will continue to be focused on enriching the
+Group's solutions, adapting them to cloud systems and leveraging
+new digital technologies, along with the development of managed
+services and geographic expansion.
+
+The development of Sopra Banking Software, whose aim is to
+conquer markets beyond Europe, is a priority. The Group will also
+continue to strengthen its leading position in human resources and
+real estate management solutions, remaining on the lookout for new
+sector opportunities.
+
+4.2.2. EXPANSION IN CONSULTING
+
+In order to position itself even more securely with client decision-
+makers at the business department level, the Group is continuing its
+move up the value chain in Consulting, and confirms its medium-
+term target of bringing the share of these activities to 15% of
+revenue. To do this, it is gradually developing a range of consulting
+services and capacity in all of the regions in which it operates, using
+a model that favours synergies with the Group’s other business lines.
+The priorities in this area are digital consulting, upstream consulting
+(e.g. digital strategy, operating strategy, IT strategy), enhancing
+business expertise in each vertical market with special emphasis on
+the financial services vertical and building a strong brand for the
+Consulting business in the market.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 23
+
+
+--- Page 9 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Strategy and objectives
+
+4.2.3. LEVERAGING DIGITAL TECHNOLOGIES
+
+Sopra Steria has successfully completed numerous digital projects.
+Its experience has allowed it to offer a holistic approach to digital
+transformation to the market, based on a series of best practices,
+with the ultimate goal of creating the platform enterprise.
+
+Accordingly, to step up its commitment along these lines, the Group
+is continuing its investments with the following goals:
+
+= being at the cutting edge of the market in all of its services and
+business models;
+
+= strengthening its technology assets;
+= transforming its operational models;
+= educating all of its employees in digital culture, practices and skills;
+
+= keeping an eye on the market in order to clarify its digital strategy
+and target the best digital partners.
+
+Digitisation of offerings and business model adaptation
+
+The Group is gradually adapting its solutions to factor in advances
+in digital technology in a number of key areas, such as client/user
+experience, service platforms, analytics and virtual advisors, and
+accommodate the growing use of hybrid (private/public) cloud
+environments by its clients.
+
+The same approach is being applied for each of the Group’s
+major service offerings — Consulting, Application Services (Build
+and Application Management), Infrastructure Management,
+Cybersecurity, Business Process Services — with the following
+objectives
+
+= using the immense potential of new technologies for the benefit
+of all of its clients;
+
+= presenting new value propositions to the market: UX/UI strategy
+and design, digital factories, development/operation of service
+platforms, end-to-end approaches covering needs from consulting
+to run services for cloud migration and the modernisation of
+legacy information systems, etc.
+
+The digitisation of offerings and, more broadly speaking, changing
+client expectations, have led the Group to adapt its business
+models. The Group anticipates that it will be selling more and
+more solutions operated on behalf of clients and, in services,
+increasingly leveraging intellectual property (reusable components,
+implementation accelerators, integration/operation platforms, etc.),
+thereby gradually moving away from billing simply based on the
+number of person-days spent on a project
+
+Technology assets
+
+The Group is continually investing in the exploration of new ideas
+and expertise in architectures, and in emerging digital and cloud
+technologies and uses, relying on its teams of “digital champions”.
+
+At the same time, all necessary resources are being put in place
+to rapidly develop and operate digital solutions on behalf of the
+Group’s clients that are natively designed to function in hybrid
+(private/public) cloud environments:
+
+= DevOps to industrialise processes;
+
+= technology foundation to enable the quick setup of digital services
+platforms (based in particular on the components of Axway’s
+Hybrid Integration Platform);
+
+= environment for the development, management and execution of
+reusable software components;
+
+almplementation accelerators for new digital technologies
+(blockchain, augmented reality (AR)/ virtual reality (VR), smart
+machines, the internet of things (loT), etc.);
+
+24 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+= pre-trained machine learning/data science algorithms and models
+(for targeted verticals and business areas);
+
+= digital factories to enable service offerings combining consulting
+and software (e.g. cloud migration and information system
+modernisation).
+
+Transformation of operational models
+
+The Group is gradually changing the operational model for its
+services and R&D activities, by integrating its developed technology
+assets:
+
+= expanding use of new agile and collaborative approaches resulting
+from digital technologies;
+
+= rollout of processes and resources (software and digital factories)
+for industrialisation, automation and reusable components
+developed to boost productivity and quality for IT services and
+R&D activities;
+
+In particular, this involves greater use of smart machines (robotic
+process automation, intelligent automation, virtual assistants)
+in the Group’s recurring service activities (in connection with its
+Business Process Services, Infrastructure Management, Application
+Management and Support offerings) as well as expanding the
+reuse of existing technology- or business software components
+(IP blocks, open source) and the use of low-code/no-code
+development platforms for the building of solutions;
+
+= transformation in line with the location of each activity (distribution
+of roles between the onshore production teams, the shared service
+centres, and the offshore and nearshore R&D teams).
+
+Innovation
+
+Numerous initiatives are being encouraged to promote and enhance
+innovation, such as the Group’s digital champions keeping an eye
+on technology advances and uses, innovation imperatives assigned
+to project teams, internal innovation competitions to develop new
+digital uses for the Group’s vertical markets, hackathons open to
+clients and partners, as well as platforms for digital demonstrations,
+brainstorming, co-design, rapid development and technology
+intelligence open to clients, employees and partners at all the
+Group’s major locations (DigiLabs), etc.
+
+Ecosystem of partners
+
+Special efforts are being made to establish targeted partnerships
+with leading players in the digital ecosystem by vertical and by major
+technology area (startups and niche players, institutions of higher
+education and research laboratories, top software development
+companies and tech giants, etc.). It is within this framework that a
+strategic partnership has been forged with Axway.
+
+In order to ensure effective market intelligence, a collaborative
+startup observatory is made available to the Group’s teams of digital
+champions and all its managers.
+
+In certain very specific cases relating to its digital strategy, the Group
+may take equity stakes in young startups that it considers as the most
+innovative in the market, applying a corporate venturing approach.
+
+4.2.5. VERTICAL APPROACH
+
+Focused business development
+
+To support the positioning it has in view, the Group is continuing its
+policy targeting specific vertical markets, key accounts and business
+areas in all countries where it operates.
+
+In line with this approach, eight priority verticals currently account for
+nearly 90% of revenue: Financial Services; Public Sector; Aerospace,
+Defence and Homeland Security; Energy and Utilities; Telecoms and
+Media; Transport; Insurance; and Retail.
+
+
+--- Page 10 ---
+
+For each vertical, the Group selects a small number of key accounts
+(fewer than 100 at Group level) and focuses on a few different
+business areas in which it aims to secure a leading position.
+
+End-to-end vertical offerings
+
+In order to achieve its leadership objective in its targeted verticals
+and business areas, the Group mobilises the development efforts of
+its various business activities and countries to build end-to-end value
+propositions as well as offerings of business solutions designed to
+address the business challenges faced by its major clients.
+
+As part of this approach, particular emphasis is placed on the
+financial services vertical, for which the Group offers comprehensive
+responses to productivity issues and the challenges brought about by
+“platformisation” in the core banking and specialist lending sectors.
+These responses are based on Sopra Banking Software's industry-
+specific assets, the Group's technology assets and its full range of
+services.
+
+4.2.5. ACQUISITION STRATEGY
+
+The Group will continue to play an active role in market consolidation,
+in a targeted manner. Its approach will focus on three main areas:
+solutions (with the priority on banking solutions), consulting, and
+strengthening its position in certain geographies.
+
+Recent investments and
+
+5.1. Investments during the year
+
+5.1.1. ACQUISITIONS IN 2018
+
+During 2018, the Sopra Steria Group announced the following
+acquisitions:
+
+a. Apak
+
+On 18 October 2018, through its subsidiary Sopra Banking Software,
+Sopra Steria acquired 100% of Apak, which develops specialised
+lending solutions for car loans and asset finance. Apak has been
+consolidated in Sopra Steria’s consolidated financial statements since
+October 2018.
+
+b. it-economics
+
+On 6 July 2018, Sopra Steria announced that it had finalised the
+acquisition of it-economics, a German digital consulting firm, on
+5 July 2018. The planned acquisition had first been announced in a
+press release on 15 May 2018. it-economics has been consolidated
+within Sopra Steria since 5 July 2018.
+
+c. BLUECARAT
+
+On 4 May 2018, Sopra Steria announced that it had finalised its
+acquisition of BLUECARAT, a German IT services company, on 3 May
+2018. The planned acquisition had first been announced in a press
+release on 8 January 2018. BLUECARAT has been consolidated within
+Sopra Steria since May 2018.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Recent investments and developments
+
+4.3. Medium-term strategic
+objectives
+
+The Group has reaffirmed its strategy through its independent,
+value-creating corporate plan based on expansion, added value and
+differentiation, particularly through its software business. With this
+in mind, and with the market being driven by digital transformation,
+Sopra Steria is confident in its ability to steadily and continually
+improve its performance.
+
+The Group is targeting annual organic revenue growth of between
+4% and 6%, an operating margin on business activity of around
+10%, and free cash flow of between 5% and 7% of revenue.
+
+With respect to the 2019 financial year, the Group’s targets are:
+= organic revenue growth of between 4% and 6%;
+
+a slight improvement in operating margin on business activity;
+a free cash flow in excess of €150 million.
+
+developments
+
+d. O.R. System
+
+On 4 April 2018, Sopra Banking Software completed the acquisition
+of O.R. System, the developer of a counterparty risk management
+solution for the banking sector and financial institutions. The
+company has been consolidated within Sopra Steria since the second
+quarter of 2018
+
+5.1.2. INFRASTRUCTURE AND TECHNICAL FACILITIES
+
+A total of €52.2 million was invested in 2018 in infrastructure and
+technical facilities, as against €44.5 million in 2017
+
+Investments in facilities comprised the following
+
+a land and buildings: €2.1 million;
+
+a fixtures and fittings: €28.6 million;
+
+a IT equipment: €21.5 million.
+
+5.1.3. RECENT DEVELOPMENTS
+
+On 10 April 2019, Sopra Steria announced its plans to acquire
+SAB — a French core banking developer that generated €64.4 million
+in revenue in 2018 — to bolster Sopra Banking Software’s strategy.
+This proposed acquisition is subject to customary closing conditions.
+
+5.1.4. RATINGS GIVEN TO THE COMPANY BY CREDIT
+RATING AGENCIES
+
+The Company is not rated by any financial rating agencies.
+
+25
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 11 ---
+
+“ls ~DETAILED PRESENTATION OF SOPRA STERIA
+Simplified Group structure at 31 December 2018
+
+6] Simplified Group structure at 31 December 2018
+
+sopra SS steria ware
+
+5.98%)"
+
+|
+
+Sopra HR Software __ Sopra Banking Sopra Stra
+(France) Services (France)
+
+Sopra Steria Polska
+(Poland)
+
+Sopra Steria
+Holdings
+rance (United Kingdom)
+Sopra Banking
+
+> Software
+(United Kingdom)
+
+Sopra HR Software Sopra Steria Sopra Steria
+Services Euskadi
+
+(United Kingdom) (Spain)
+
+Sopra HR Software pak Group
+(Germany) (United Kingdom) Beamay a Stetia Sopra st ia
+(Fane) (United Kingdom) (Belg lux
+Sopra HR Software Apak Group
+Geloun) (Ute tse) Sopra Steria Sopra Steia PSF
+as, Recruitment Luxembourg
+Sopra HR Software |, Cassiopae US Kingdom) (Luxembourg)
+(xembourg) (United states)
+NHS Shared ;
+Sopra Bankin cimPA Business S Sopra Steria
+Sopra Rota Lf saa nan (United Kingdom (juxembourg)
+Vy) Belgiu
+
+Sopra Banking
+Sopra HR Software Software Netherlands
+‘Gwitzerland) (Nethertands)
+
+(United Kingdom) (Netherlands)
+coors Sopra Steria Group
+(United kingdom) (italy)
+
+Sopra HR Software
+(United Kingdom)
+
+cIMPA
+(Germany)
+MPA
+(United Kingdom)
+
+Sopra Bankin
+Sottware
+
+(Iceland)
+
+Sopra Banking
+Sopra HR Sofware
+7 lenboug MPA PLM Steria India Sopa Steia
+aR (inci) (Switzerland)
+Sopra Barkin
+om Pa
+Coren), 2Moro Sopa cere Sopra Steria
+Sopra Financial France) (Germany)
+Le Solution ibeta
+Spain) Sopra Seria, sot
+Wenhzo are
+ore ng Technologies (China) (Germany)
+(Morocco)
+Cassiopae MEA Sopra Stra Sewvices
+tsa (Germany)
+Sopra Software
+= Cameroun
+
+Sopra Steria
+(Austria)
+{T-Economics
+(Germany)
+
+95% (Cameroon)
+
+Sepia Barking
+[™ Gabon (Gabon)
+Sopra Banking Cote
+l= ivoire (> Cassiopae Solutions
+(Céte d'ivoire) Private (India)
+
+Sopra Steria
+horas)
+
+-onomics Schweiz
+(Switzerland)
+|, Detta Development Cassiopae Software Sopra Steria
+Bove Systems (Algeria) [> Basi Grail (Denmark)
+IT-Economics
+Sopra Banking ,
+[> Software Singapore ‘Gan Sopra Steria (Bulgaria)
+
+(Singapore (Sweden)
+
+Beng Sopa Scence
+‘and Technol [> On. System
+Tehrcogy stem (France) ‘entor
+(Russia)
+SOPRA BANKING
+SOFTWARE
+
+Note: Companies are more than 95% owned, directly or indirectly, unless otherwise indicated,
+(©) Exercisable voting rights
+
+—o__ BRANCH |
+
+26 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 12 ---
+
+Group organisation
+
+Sopra Steria Group’s governance consists of a Board of Directors,
+Chairman, Chief Executive Officer and Deputy Chief Executive
+Officers.
+
+The organisation is supported by a permanent operational and
+functional structure as well as temporary structures for the
+management of particular deals and projects.
+
+Sopra GMT, the holding company that takes an active role in
+
+managing the Group, takes part in conducting Group operations
+
+through
+
+mits presence on the Board of Directors and the three Board
+committees;
+
+= a tripartite assistance agreement entered into with Sopra Steria
+and Axway, concerning services relating to strategic decision-
+making, coordination of general policy between Sopra Steria
+and Axway, and the development of synergies between these
+two companies, as well as consulting and assistance services,
+particularly with respect to finance and control.
+
+7.1.
+
+The Group’s permanent structure is composed of four operational
+tiers and their associated functional structures.
+
+Permanent structure
+
+7.1.1. TIER 1: EXECUTIVE MANAGEMENT
+
+AND THE EXECUTIVE COMMITTEE
+
+Executive Management is represented by the Chief Executive Officer
+and the Deputy CEOs.
+
+Members of Executive Management as at 31 December
+2018:
+
+= Vincent Paris, Chief Executive Officer of Sopra Steria Group;
+
+a John Torrie, Deputy Chief Executive Officer of Sopra Steria Group
+and Chief Executive Officer of Sopra Steria UK;
+
+= Laurent Giovachini, Deputy Chief Executive Officer of Sopra Steria
+Group.
+
+The Executive Committee (ExCom) consists of Executive Management
+
+and the heads of the main operating and functional entities.
+
+The members of Sopra Steria Group's Executive Committee supervise
+
+the Group's organisation, management system, major contracts and
+
+support functions and entities and take part in the Group’s strategic
+
+planning and implementation.
+
+7.1.2. TIER 2: SUBSIDIARIES OR COUNTRIES
+
+These are the main operating entities. Their scope corresponds to
+
+one of the following:
+
+= a specific line of business (consulting and systems integration,
+business solutions, infrastructure management, cybersecurity,
+business process services);
+
+= geographic area (country).
+
+These entities are managed by their own Management Committee,
+
+comprising in particular the Director and management of tier
+3 entities
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Group organisation
+
+7.1.3 TIER 3: DIVISIONS
+
+Each country or subsidiary is made up of divisions based on two
+criteria
+
+= vertical market;
+
+= geographic area (region).
+
+7.1.4. TIER 4: BUSINESS UNITS
+
+Each division is made up of business units, which are the
+organisation's primary building blocks. They operate as profit centres
+and enjoy genuine autonomy. They have responsibility for their
+human resources, budget and profit and loss account. Management
+meetings focusing on sales and marketing strategy and human
+resources are held weekly, and the operating accounts and budget
+are reviewed on a monthly basis.
+
+The diagram below illustrates the four main tiers of the ongoing
+structure:
+
+Sopra Steria Group
+Executive Committee
+
+Subsidiaries and/or Countries
+
+Divisions
+
+Business Units
+
+7.1.5.
+
+The operational organisation is strengthened by operational support
+entities responsible for managing major transformations:
+
+OPERATIONAL SUPPORT FUNCTIONS
+
+= the Key Accounts and Partnerships Department (DGCP), responsible
+for promoting the Key Accounts policy and developing relations
+with partners. The role of this department is to coordinate the
+commercial and production approaches for our major clients,
+particularly when different entities are involved;
+
+a the Digital Transformation Office (DTO), responsible for designing
+and managing the Group's digital transformation. It also manages
+the Group’s innovation approach;
+
+the Industrial Department, responsible for industrialising working
+methods and organising subcontracting on X-shore platforms. It
+also checks that projects are properly executed
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 27
+
+
+--- Page 13 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+7.1.6. FUNCTIONAL STRUCTURES
+
+The functional departments are the Human Resources Department,
+the Communications and Marketing Department, the Corporate
+Responsibility and Sustainable Development Department, the Internal
+Control and Risk Management Department, the Finance Department,
+the Legal Department, the Real Estate and Purchasing Department,
+and the Information Systems Department.
+
+These centralised functions ensure Group-wide consistency.
+Functional managers transmit and ensure commitment to the
+Group’s core values, serve the operational entities and report directly
+to Executive Management.
+
+The Group's functional structures standardise management rules
+(information system resources, IT systems, financial reporting, etc.)
+and monitor the application of strategies and rules. In this manner,
+they contribute to overall supervision and enable the operational
+entities to focus on business operations.
+
+7.1.7. A SOLID, EFFICIENT INDUSTRIAL
+
+ORGANISATION
+
+Sopra Steria manages complex and large-scale programmes and
+projects in a market where delivery commitments are increasing and
+becoming globalised. The Group has an increasingly wide range of
+skills to support multi-site projects that generate strong gains in
+productivity with delivery models that guarantee clients an optimal
+cost structure.
+
+Sopra Steria applies an industrial production approach, supported
+
+by five levers:
+
+= production culture: Transmission of know-how and expertise in
+the field;
+
+= choice of personnel: Human resources are central to the approach,
+providing training, support and improved skills for each employee;
+
+= organisation: The Industrial Department and its representatives in
+the business units control production quality and performance,
+identify and manage risks, support project managers and roll out
+industrialised production processes;
+
+= toolkit: The Quality System, the eMedia method, the Continuous
+Delivery Kit (CDK) and associated software tools;
+
+= global delivery model: Rationalising production by pooling
+resources and expertise within service centres, with services
+located based on the needs of each client (local services in France,
+nearshore in Spain, North Africa and Poland, and offshore in
+India).
+
+7.2. Temporary structures for specific
+deals and projects
+
+The Group's organisation must retain flexibility in order to adapt
+to changes in its markets and ensure the successful completion of
+projects.
+
+These are handled by temporary teams
+= within the entities;
+
+m= under the authority of a pilot entity, established to leverage
+synergies across several entities.
+
+Each project is organised and carried out in order to meet fundamental
+objectives: client service, business success, and contribution to the
+overall growth of the Group.
+
+Depending on their particularities (size, area of expertise, geographic
+area covered) large-scale projects can be managed at the business
+unit, division, subsidiary/country or Executive Management level.
+Certain large projects requiring the resources of several business units
+may involve the creation of a division.
+
+J Risk factors and internal control
+
+financial position, business results or share price.
+
+and their potential impact on the Group.
+
+The Group performs its activities in a constantly changing environment. It is therefore exposed to risks the occurrence of which may have
+a negative impact on its business activities, results, financial position, image and outlook. This chapter sets out the main risks to which
+the Sopra Steria Group is deemed to be exposed. Other risks, of which the Group is not currently aware or which it considers as of lesser
+importance at the date when this Registration Document was drawn up, might also have an adverse effect on the Group, its operations,
+
+Sopra Steria cannot provide an absolute guarantee that its objectives will be achieved and all risks will be eliminated. The internal control
+and risk management system aims to identify and qualify the risks to which it is exposed, as well as to reduce their probability of occurrence
+
+8.1. Main risks
+
+RISK MAPPING EXERCISE AND METHODOLOGY
+
+Anew risk mapping exercise was carried out at the end of 2018. It was
+led by the Internal Control and Risk Management Department and
+involved the relevant internal stakeholders, together with Executive
+
+28 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+Management and the members of the Executive Committee.
+This risk mapping covers all internal and external risk factors and
+includes both financial and non-financial issues. The process helps
+to identify and assess risks. In particular, the assessment of risks
+involves an evaluation of their probability of occurrence and the
+estimated magnitude of their adverse impact should an event occur
+(low, medium or high). As part of this exercise, the main risks are
+identified, namely the ones that are most material for Sopra Steria,
+
+
+--- Page 14 ---
+
+in terms of probability of occurrence and the expected magnitude of
+their adverse impact. They are then ranked by category of risk.
+
+Specific mapping exercises for corruption and _influence-peddling
+risks and risks relating to the duty of care have also been taken into
+account in preparing the overall mapping of risks. The risk mapping
+was presented to the Board of Directors’ Audit Committee at the
+same time as the Group insurance programme.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+Sopra Steria’s main risk factors are presented below. They are listed
+initially in order of importance, with regard to their probability of
+occurrence and the magnitude of their potential adverse impact, in
+the summary table below.
+
+For each risk factor, a description is provided explaining in what ways
+it can affect Sopra Steria as well as the risk management measures
+put in place, i.e. policies, procedures and action plans.
+
+SUMMARY TABLE OF MAIN RISKS AND RISK MANAGEMENT MEASURES
+
+Main operating risks
+
+Main risk management measures
+
+Risk related to market
+developments and the
+transformation of the business
+model
+
+Risk related to the
+adaptation of skills*
+
+Risk related to the protection
+and security of client data
+
+Risk related
+to project delivery
+
+Risk related to continuity
+of service and information
+system security
+
+Risk related to attracting
+and retaining talent*
+
+Risk related to the loss
+of a significant client
+
+Risk related to activities
+in high-risk countries
+
+Risk related to Brexit
+
+Risks associated with
+retirement benefit obligations
+
+= Comprehensive annual strategy review
+= Governance of the transformation supervised by the Chairman and the Chief Executive Officer
+= Regular follow-up on the implementation of decisions and execution
+
+= Recruitment selectivity
+
+= HR policy including the rollout of the DPEPP approach, which stands for Dynamique Prospective
+Emplois et Parcours Professionnels, or Dynamic Forecasting of Workforce Requirements and Career
+Development
+
+a Training programmes
+
+= Security policies and procedures, with an organisational structure led by the Chief Information
+Security Officer (CISO)
+
+a ISO 27001 certification and GDPR compliance programme
+
+= Support provided by the Toulouse security operations centre (SOC)
+
+= Large-scale training and awareness programme
+
+= Organisation and procedures (including the Quality System) for the pre-sales, production and
+quality control phases of projects
+= Reviews and audits by the Industrial Department
+
+a Policy and procedures for the selection of locations for shared service centres, organisation and
+planning for continuity of service
+
+= Ambitious recruitment and retention policy
+a Policy and strategy for key accounts reviewed annually
+= Regular monitoring of the client portfolio by the Key Accounts and Partnerships Department
+
+a Implementation of an export policy and procedure
+
+= Specific committee formed to monitor the associated risks and propose action plans
+
+= Monitoring and management by Finance Departments at entity and Group levels
+
+Main non-financial risks
+
+Main risk management measures
+
+Risk of breaches of ethics or
+violations of the law*
+
+= Reinforced ethics and compliance programme, including the implementation of a system for
+preventing and combating corruption and influence peddling
+
+a Internal Control and Risk Management Department set up to coordinate and monitor compliance,
+internal control and risk management issues in a cross-functional manner
+
+= Appointment of Compliance Officers, responsible for compliance issues as well as internal control
+in each of the entities
+
+* This risk also relates to the anticipated regulatory changes provided for in Articles L. 225-102-1 III and R.225-105 of the French Commercial Code.
+
+Each of these main risks is presented in more detail on the following pages, including information describing the risk as well as the Group's
+
+risk management process.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 29
+
+
+--- Page 15 ---
+
+“ls ~DETAILED PRESENTATION OF SOPRA STERIA
+Risk factors and internal control
+
+DETAILED PRESENTATION OF THE GROUP’S MANAGEMENT OF ITS MAIN OPERATING RISKS
+
+1 RISK RELATED TO MARKET DEVELOPMENTS AND THE TRANSFORMATION OF THE BUSINESS MODEL
+
+Risk description
+
+Risk management
+
+The business activities of the Group's clients
+are changing and are being transformed as
+a result of digitisation and the emergence
+of new rivals, new businesses and new
+organisations.
+
+Clients are seeking to become more agile,
+and to do so they are reinventing their
+business models, organisational structures
+and resources.
+
+If the Group is unable to understand, satisfy
+and anticipate clients’ needs, an unsuitable
+market positioning and/or difficulties in
+implementing its strategy could potentially
+impact its financial performance.
+
+Furthermore, although some of the
+Group's activities involve multi-year
+contracts (maintenance activities, facilities
+management, outsourcing of business
+processes), its consulting and integration
+activities as well as its licence sales are
+characterised by short cycles, making it
+difficult to prepare forecasts for levels of
+activity, order intake and future earnings.
+
+The management of this risk is integrated into the development of the Group’s strategy as well
+as its effective implementation. Each year, the Group conducts a comprehensive strategy review
+and update, under the supervision of the Strategy Department, the Chairman and the Chief
+Executive Officer, covering all markets and sectors in which it operates. This review is performed
+with all activities and regions, using external studies and surveys as well as internal feedback
+from various parties, in particular all those in contact with clients. At the end of this annual
+process, a number of decisions are made. The approach to risk management is itself reviewed
+on a quarterly basis by all entities. The implementation of actions and priorities is guided and
+monitored on a regular basis by the Chairman and the Group’s Executive Committee.
+
+By way of illustration, the following decisions, in particular, were translated into actions during
+the year: development of the Consulting business, especially with regard to its move up the
+value chain; stepping up of cybersecurity activities and reinforcement of related expertise;
+acquisition strategy; acceleration of agile and/or co-design development in order to respond
+to the needs of clients and market changes; software development as a service; investments
+in centres of excellence for digital technologies and internal platforms for the development
+and assembly of modules (introduction of a digital enablement platform and hybrid digital
+platforms), strengthening of partnerships in cloud services with Microsoft, Google and Amazon;
+transformation and revamped organisation for the human resources function.
+
+In order to track technology advances in a proactive manner, an organisation has been set up
+via the Innovation Department and built around Chief Technology Officers (CTOs), together
+with the Group’s digital champions and experts, and in relation to each of the Group’s vertical
+markets. The goal is to plan ahead as effectively as possible for developments driven by new
+technologies as well as the transformation of our clients’ businesses.
+
+Risk description
+
+1 RISK RELATED TO THE ADAPTATION OF SKILLS
+
+Risk management
+
+In light of the transformation of our
+clients’ businesses as well as developments
+in digitisation and artificial intelligence,
+training and adapting employees’ skills to
+new roles are essential in the IT services and
+digital transformation industry. Any inability
+or difficulty in training Group employees in
+client needs and new activities relating to
+the digital revolution might make it difficult
+to deliver the Group's strategy and thus
+adversely impact its financial performance.
+
+Skills development aims to meet the current and future needs of the Group’s clients, but also
+to give each employee the means to take responsibility for their own professional development.
+
+Sopra Steria’s policy to maintain and develop skills is part of an overall approach aimed at
+anticipating changes in our business lines and our target populations so that we can continue
+to serve our clients and meet the objectives of the Group’s strategic plan, developing the skills of
+employees to safeguard their employability while assisting them in their career planning, supporting
+motivation and promoting employee engagement.
+
+Sopra Steria’s proactive management of change resulted in the launch of the following Group-wide
+actions during the year: the digitisation and update of the Group’s Core Competency Reference
+Guide; the standardisation of appraisal practices; and a new forward-looking approach for
+maintaining and developing skills. This approach is known by its French acronym DPEPP, which
+stands for Dynamique Prospective Emplois et Parcours Professionnels (Dynamic Forecasting of
+Workforce Requirements and Career Development). It draws on an understanding of contexts in
+the various countries to anticipate workforce trends over the next three years for each business line
+and at each level, in line with the Core Competency Reference Guide. It focuses on transformation
+trends in each speciality area, in terms of opportunities, risks and key skills, together with an analysis
+of emerging and sustainable job profiles, as well as those likely to see lower staffing levels, in order
+to adapt skills to changes affecting the market and guide HR action plans (career management,
+recruitment, training, etc.)
+
+Training policy is a decisive factor. For this reason, the objectives of the training strategy are
+reviewed and approved by the Group’s Executive Committee. The management and coordination
+of training programmes have been reinforced, courses have been redesigned and reorganised,
+digitised training has been expanded, with more MOOCs (massive open online courses) and the
+launch of e-learning modules to promote compliance with Group standards (information security,
+personal data protection, anti-corruption measures, but also e-learning tools relating to disabilities).
+
+Increase in the number of training hours delivered: 1,244,583 hours in 2018 across 99% of the Group,
+up 15.5% compared with 2017).
+
+30
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 16 ---
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+| RISK RELATED TO THE PROTECTION AND SECURITY OF CLIENT DATA
+
+Risk description
+
+Risk management
+
+A cyber attack on the Group’s
+systems, a security flaw in the
+Group's systems and/or our clients’
+systems could result in the loss of
+information or data, and depending
+on the matter concerned, the loss or
+disclosure of confidential information
+or data, particularly in sensitive
+activities. This risk of loss or disclosure
+might involve personal data in the
+BPS, maintenance and/or managed
+services activities, particularly in the
+context of payment and/or payroll
+activities.
+
+Situations such as this could result in
+a risk of client complaints, contract
+compliance risk and/or a risk of
+damage to Group property or data,
+ora risk of revenue loss.
+
+In view of the Group's activities,
+a major security breach could
+potentially result in a risk to the
+Group's image and raise doubts
+about the trust placed in us by our
+clients, and thereby result in a loss
+of business.
+
+Security and the protection of client data are key issues for the Group.
+
+To avoid security incidents that could impact the Group’s information systems, cut response times and
+implement the necessary actions particularly in the event of an attack, the Group has an information
+security policy and a solid organisational structure supported by the Chief Information Security Officer
+(CISO) within the various entities. This organisational structure with its local network, meeting different
+countries’ regulatory requirements and client demands as closely as possible, allows for in-depth
+knowledge of areas of risk and our clients’ business demands. This organisation is coordinated cross-
+functionally across the entire Group and overseen at Group level. Steering meetings are held frequently
+and reports are issued on a regular basis. Policies, procedures and the organisational approach are
+reviewed each year to ensure the best possible adaptation to the environment and risks, and to
+reinforce the entire system.
+
+The Group has opted for a cross-cutting organisational approach bringing together all participants
+in order to take early preventive action: the Security Manager, the Information Systems Department,
+the Industrial Director, the Shared Service Centre Manager, the Legal Department, the Director of
+Communications, the Insurance Manager, the Compliance Officer, the Head of the Internal Control
+and Risk Management Department, but also the Purchasing Department.
+
+Everything is controlled and audited on a regular basis. To date, the Group has earned ISO 27001
+certification for 12 of its operations, in the United Kingdom, Norway, Germany, Switzerland, Italy,
+Spain, India and France, as well as for the IT services supplied by the Information Systems Department
+to all Group entities. Other audits under ISAE 3402 are carried out regularly at the sites of the entities
+SBS, SHR and IM (France and Poland).
+
+To manage and verify compliance by contractual commitments with standards, all contracts are
+reviewed by the Legal Department. With respect to security, Sopra Steria mainly provides consulting
+services or takes part in projects in application of policies and levels of security defined and decided
+by its clients.
+
+The Group capitalises in particular on specific cybersecurity-related skills and services developed at its
+own security operations centre (SOC) and offered to its clients. Located in Toulouse, this centre offers
+threat investigation, monitoring and handling services. As a result, investigations, regular tests and
+automatic interventions can be carried out in the event of a threat, as well as early intervention and/
+or crisis management
+
+In 2018, the Group invested heavily in a security awareness and training programme for all Group
+employees (e-learning modules, internal phishing campaigns, videos, on-site training).
+
+A cybersecurity insurance policy has been taken out to supplement the Group's professional liability
+insurance, in order to ensure consistency between the Group’s insurance programmes and the
+insurance coverage obtained, particularly in the event of cyber attacks as well as to better manage
+and cover the varying types of risk: compensation claims as as a result of complaints from third parties,
+property damage and loss of use, business interruption, additional communications expenses for crisis
+management following a security incident, for example.
+
+As regards the various international and local regulations relating to data protection and security, all
+of the Group’s entities comply with national regulations relating to the protection of personal data,
+in particular the requirements of the CNIL in France.
+
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (the General
+Data Protection Regulation, or GDPR) entered into force on 25 May 2018. Sopra Steria Group and
+its subsidiaries have rolled out a programme aimed at ensuring compliance with this regulation and
+local legislation
+
+In particular, this programme overseen by the Group Legal Department, which coordinates data
+protection arrangements across all subsidiaries, includes the following
+
+= Appointment of Data Protection Officers (DPOs);
+
+= Rollout of training to all Group employees;
+
+a Adjustments to contracts;
+
+a Implementation of specific internal procedures.
+
+In addition, at Sopra HR Software, the Sopra Steria Group’s HR solutions publisher subsidiary, the
+Binding Corporate Rules (BCR) have been in place within its entities since 2015.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 31
+
+
+--- Page 17 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+1 RISK RELATED TO PROJECT DELIVERY
+
+Risk description
+
+Risk management
+
+For fixed-price projects and fixed-price services
+(contracts involving commitments as to price,
+results and lead times), any failure to complete
+the project or provide the services as agreed
+in the contract, or any provision of services or
+project delivery not in line with standards as
+specified therein, may entail a risk of default
+which, depending on the contractual causes
+and consequences, may give rise to various risks
+for Sopra Steria (contractual penalties, client
+complaints, claims for damages, non-payment,
+additional costs, early contract termination,
+reputational risk). In the current environment,
+clients’ demands are becoming increasingly
+complex.
+
+For fixed-price projects and fixed-price services,
+a poor assessment of the scale of the work
+to be done, an underestimate of the cost of
+providing the service or an incorrect estimate
+of the technical solutions to be implemented
+can lead to estimated costs being exceeded or
+contractual deadlines not being met. This delay
+can, initself, result in late delivery penalties and/
+or budget overruns (additional days), resulting
+in additional costs and potentially impacting
+project margins.
+
+In 2018, fixed-price integration projects and
+fixed-price services accounted for 19.4% and
+42.9% of the Group’s consolidated revenue,
+respectively. The breakdown of Group revenue
+according to the nature of contracts is presented
+at the end of this section (see the summary table
+on page 37 of this document).
+
+It is critical for the Group to be able to meet client demands and deliver consistent quality.
+
+In order to ensure the quality of management and execution of client projects, the Group has
+developed a series of methods, processes and controls via its Quality System. The selection
+of Project Directors and Heads of Project Management responds to specific requirements
+and criteria according to the level of risk and project complexity. Particular attention is paid
+on making any appointments. Project managers receive specific training. These courses are
+regularly updated to include issues meriting special attention and warnings relating to risks.
+
+In addition to project and line management, Industrial Managers under the authority of
+division/subsidiary managers and reporting functionally to the Group Industrial Department
+are responsible for monitoring all projects as well as the application of the Quality System.
+Structural audits are performed so as to verify the application and effectiveness of the Quality
+System among the Sopra Steria staff members concerned (management, sales, operational
+quality unit). Projects are reviewed on a regular basis, at key phases in their life cycle. These
+reviews, which are organised by the Industrial Department or by its local representatives,
+provide an external perspective on the status and organisation of projects.
+
+Monthly steering meetings facilitate an overview of quality at all levels, the monitoring of
+annual quality targets established during management reviews and the determination of the
+appropriate action plans to continuously improve production performance and the quality
+of Sopra Steria products and services. The implementation of actions agreed during steering
+committees, audits and reviews is checked by the Industrial Department.
+
+The review of proposals and contracts by line management, but also by the Industrial
+Department and the Legal Department, is an integral part of the Group’s first- and second-
+level controls relating to these issues.
+
+An annual review is performed by Executive Management to ensure that the Quality System
+remains pertinent, adequate and effective. This review is based in particular upon an analysis
+of project reviews and internal structural audits performed at all levels of the Group as well
+as upon annual quality reports produced by divisions or subsidiaries. During this review, the
+adequacy of the quality policy is evaluated, the annual quality objectives are defined and
+possible improvements and changes in the Quality System are considered.
+
+As part of its insurance programme, the Group has taken out a policy offering coverage for
+premises and operations liability as well as professional indemnity. This programme covers
+all of the Group’s companies for monetary consequences arising as a result of their civil
+and professional liability in connection with their activities, due to bodily injury, material or
+non-material damage caused to third parties. Overall coverage is limited to €150 million
+per claim and per year of insurance.
+
+32 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 18 ---
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+| RISK RELATED TO CONTINUITY OF SERVICE AND INFORMATION SYSTEM SECURITY
+
+Risk description
+
+Risk management
+
+The reliability of IT and communications
+infrastructures is an issue of growing importance
+to production. In view of its business model
+integrating service centres as well as national and
+worldwide shared data centres in nearshore and
+offshore countries, the Group is dependent on its
+remote production centres and telecommunications
+networks functioning correctly. Any claims, failures
+or shutdowns at the level of these centres could
+have an impact on both internal systems and
+client systems, resulting in a potential risk of non-
+compliance in the execution of contractual services,
+and consequently potential demands for damages
+and interest and/or loss of income.
+
+It should be noted that a proportion of the Group's
+production activities are located in India. India still
+shows various characteristics that may constitute
+risk factors (including political, economic and
+social unrest, wage inflation, natural disasters and
+pandemics).
+
+The Group has service centres in Spain, Tunisia,
+Poland and India.
+
+The continuity and security of our clients’ services is one of the key criteria in the definition
+of the policy for the Group’s production sites and the implementation decisions. The
+policy concerning site locations and all decisions taken in this regard follow the guidance
+provided by the Group based on various criteria, including client requirements and risk
+management (natural or geopolitical risks). The decision to expand into new geographies,
+countries and regions is an integral part of this policy to maintain security and reduce
+risk exposure, allowing for the management of backup plans, in particular by setting
+up redundancies and duplication between sites.
+
+Once the decision has been made, strict prevention and security procedures covering
+physical security, information systems security, power cuts, regulation of temperature
+changes, data storage and backups apply to the Group's production sites, service centres
+and data centres. The Group has a business continuity strategy that defines a nominal
+level of service and a principle of redundancy for all critical system components, relying
+in particular on multi-site replications. Remote redundancy is implemented for all critical
+system components. Business continuity and disaster recovery plans are put in place and
+reviewed on a regular basis. Contracts with our suppliers are reviewed according to their
+nature by the Information Systems Department or the General Resources Department,
+taking account of the same security and service level requirements. In the case of
+outsourcing or subcontracting, the same level of service is demanded of our suppliers.
+
+The Group has four production facilities in India. These sites are distant from each other
+and located in three different regions, thus limiting the consequences of incidents or
+risks that might arise in a specific region. In addition, the fact that a large number of
+production facilities are used across the Group, with a range of onshore, nearshore and
+offshore services, makes it possible to have backup solutions.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 33
+
+
+--- Page 19 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+| RISK RELATED TO ATTRACTING AND RETAINING TALENT
+
+Risk description
+
+Risk management
+
+In view of the Group’s ambitions in terms of
+expansion and growth, the constantly changing
+competitive environment, the talent war, the
+scarcity of certain IT skills and expertise, Sopra
+Steria may face difficulties in attracting and
+recruiting talented candidates.
+
+Recruitment difficulties and/or increased
+employee turnover may prevent the Group from
+delivering on its strategic objectives and fulfilling
+its ambitious recruitment targets to support
+its growth, thereby impacting the Group's
+financial performance. The recruitment of young
+people and the best digital professionals is also
+indispensable to maintain an adequate level of
+quality and innovation as well as a coherent age-
+earnings profile.
+
+Sopra Steria’s overall attractiveness as an employer, together with its ability to attract the
+best digital professionals and retain talented staff, are key priorities for the Group.
+
+Anambitious recruitment policy has been adopted: In 2018, the Group hired 11,662 employees
+
+(compared with 9,500 in 2017), including 4,356 new staff across all types of employment
+
+contract in France. Women make up 33% of the Group's new hires and 37% of all joiners
+
+were under 26. To meet these challenges, the Group’s recruitment policy deliberately places
+
+a priority on hiring young higher education graduates as well as the hosting of interns and
+
+students doing work-linked training, and is aimed at ensuring equality of opportunity while
+
+promoting diversity and inclusion. It is organised around five main pillars:
+
+= Building closer ties with schools and promoting digital professions to attract more young
+people, and particularly young women (in 2018, more than 780 actions of this type were
+conducted at schools);
+
+= Giving substance to employee engagement: Enriching experiences offered through
+citizenship projects (HandiTutorat, Prix Etudiants Fondation Sopra Steria Institut de France,
+etc.);
+
+= Adapting the recruitment process: Free exchanges between employees and applicants
+via sites like PathMotion and Glassdoor; increasing the number of LinkedIn subscribers
+(194,000 in 2018); improvements in rankings (15" place in the Happy Trainees survey
+in France);
+
+= In addition, the organisation devoted to recruitment has been considerably reinforced,
+particularly in France;
+
+= Encouraging mobility: Meeting the career development goals of students and employees
+by offering international mobility opportunities (including 112 interns and students doing
+work-linked training, up 57% in 2018).
+
+Aretention policy founded on a robust induction and integration strategy, a key phase in
+
+the retention of both new hires, most of whom are young people, and employees joining
+
+the Group as a result of mergers and acquisitions. It is implemented through three main
+
+measures:
+
+= An integration process tailored to seniority levels, designed to allow joiners to gain an
+understanding of the Group’s culture, values and fundamentals;
+
+= An ongoing career and skills assessment and development process to maintain staff
+employability;
+
+= An international Group employee share ownership programme to give all employees a
+more meaningful stake in the company’s performance.
+
+Employees under 30 account for 24% of the Group's total workforce (scope: staff on
+permanent contracts at 31 December 2018, excluding new hires during the year).
+
+The employee turnover rate was 16.9% for the Group as a whole at 31 December 2018,
+compared with 15.6% a year earlier.
+
+Special attention paid to well-being in the workplace: Sopra Steria has adopted a preventive
+approach to professional risks, with the aim of safeguarding the health and safety of its
+employees and subcontractors, while promoting employee well-being in the workplace.
+
+Employer brand: All of the work around the brand platform, designed to reinforce the
+Group’s employer brand, is also carried over into other actions to raise Sopra Steria’s profile,
+especially among recruitment candidates and employees.
+
+Reinforcement of the human resources and recruitment organisation: The Human Resources
+Department also underwent a reorganisation in 2018, particularly in France, so as to be
+closer to operations and better manage the adaptation of skills and resources to the specific
+requirements of projects and clients.
+
+Career management: The entire support process for annual appraisal interviews and career
+management was also revamped in 2018 to better provide for long-term management of
+skills and talent. Sopra Steria continues to develop systems for the recognition, engagement
+and retention of its employees.
+
+The training policy is instrumental in supporting career management and must ensure
+that the necessary skills are available at all times and in all places. It must also address the
+acceleration of project cycles. The full range of training topics is discussed in the “Risk related
+to the adaptation of skills” section above.
+
+The Group’s recruitment and talent management policies are described in detail in Section
+2, “Social responsibility”, in Chapter 3 of this Document (pages 83 to 87).
+
+34 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 20 ---
+
+| RISK RELATED TO THE LOSS OF A SIGNIFICANT CLIENT
+
+Risk description
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+Risk management
+
+The risk of the loss of a client or a major
+contract remains a potential risk, particularly in
+view of rapid changes in the Group's markets
+and possible consolidation within the various
+sectors. The loss of a client leads to the loss
+of the associated revenue and requires the
+reassignment of the project teams in place, a
+risk all the more difficult to manage if the loss of
+the client was not able to be predicted.
+
+In 2018, the Group's top client accounted for
+6.7% of revenue, the top five clients represented
+19% and the top ten contributed 30%.
+
+Main clients include:
+
+= In France: Airbus Group, Banque Postale, BNP
+Paribas, CNAM, Crédit Agricole, EDF, Ministry
+of Defence, Orange, Société Générale and
+SNCF;
+
+a In the United Kingdom: Ministry of Justice,
+Home Office, Ministry of Defence and
+National Health Service.
+
+The Group's policy is to maintain a multi-client and multi-sector portfolio across multiple
+geographical operations and sites, in particular to avoid any uncontrolled concentration
+risk. The Group's largest client is also a client across multiple business lines and geographical
+operations and the revenue generated with this client is based on a large number of contracts.
+The Group’s policy and strategy relating to key accounts are reviewed each year in accordance
+with country, business line and sector-specific strategic reviews in order to adapt this strategy
+to market developments. This is the object of a dedicated exercise with all concerned parties.
+Aregular review at monthly steering committee meetings is also organised within the Group.
+In addition, the IT services market is currently a full employment market, which means that,
+in the event of the loss of a significant client, it is possible to reassign staff more easily and
+limit the related impacts in terms of resources and wages.
+
+| RISK RELATED TO ACTIVITIES IN HIGH-RISK COUNTRIES
+
+Risk description
+
+Risk management
+
+Sopra Steria has locations in a number of different countries.
+Even though it operates in what are generally considered stable
+countries, the Group may be exposed to political and economic risks.
+Furthermore, in addition to geopolitical risks, in a difficult economic
+climate or new political climate, some governments may be tempted
+to adopt new regulations, taxes and duties.
+
+Furthermore, the desire for the Sopra Steria Group to expand outside
+France and carry out further acquisitions requires — in addition to
+mapping of the various country risks — knowledge of international
+regulations and certain control of operations. Any compliance risk
+and/or risk of non-control of international operations could have an
+impact in terms of performance and image.
+
+Export activity remains marginal within Sopra Steria and relates primarily
+to software development activities, licence sales and associated services.
+In order to improve controls on the Group's international expansion and
+its activities in countries where it does not have a subsidiary, specific rules
+and procedures have been put in place to organise the necessary prior
+validations and checks. This organisation allows for the monitoring and
+control of these export transactions, whether on a local level or at Group
+level. A formal export procedure has been rolled out, notably including
+the requirement for prior validation by each entity's senior management
+of any export transaction as well as guidelines for preliminary analyses
+and assessments. Formal assessment procedures for export clients
+and partners have been developed and are in the process of being
+rolled out. Specific and dedicated training sessions on export activities
+are delivered. The Group-wide rollout and implementation of these
+procedures and controls is part of an internal control and continuous
+improvement process.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 35
+
+
+--- Page 21 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+1 RISK RELATED TO BREXIT
+
+Risk description
+
+Risk management
+
+Major uncertainties remain concerning the terms of the United
+Kingdom's departure from the European Union. Against this
+backdrop, the effects remain uncertain. Brexit could have an
+unfavourable impact on the economy and market conditions, as
+well as an impact in terms of instability on the financial markets and
+international forex markets. In addition, Brexit may result in legal
+uncertainties and have associated effects such as certain decisions
+being delayed while awaiting greater visibility. The most significant
+risks seem to involve political disturbances and uncertainties and
+macroeconomic impacts. Each of these effects, as well as others
+that are not yet known and cannot be anticipated, could have an
+unfavourable impact on the Group’s activities, performance and
+financial position. It should be noted that although the Group may
+appear to be exposed to the increased volatility of euro and sterling
+exchange rates, which could have an impact in the consolidated
+financial statements of transactions carried out in the United
+Kingdom, the Group's exposure to foreign exchange transaction
+tisk seems limited insofar as its activities are conducted primarily
+by subsidiaries that operate in their own country and their own
+currency. Itshould also be noted that in spite of this context, business
+opportunities remain available.
+
+With respect to Brexit, Sopra Steria’s management in the United
+Kingdom and the Group’s Executive Committee are keeping a close eye
+on any political decisions made by the United Kingdom or the European
+Union in this area so as to take any requisite measures to reduce risk.
+
+Sopra Steria has set up a Brexit working group. This working group
+tracks and manages the potential risks identified in the following areas:
+human resources; financial, tax, legal, regulatory and IT systems; and
+data security. This involves an analysis by segment of Brexit’s implications
+for client requirements. Mitigation measures have been put in place,
+such as communications campaigns, and requests have been sent to
+certain key suppliers, particularly with regard to the hosting of data
+and data flows. This subject and its developments are being addressed
+in regular exchanges with clients in the United Kingdom. The Group
+has not identified any logistics risk of service interruption. In fact, more
+than two-thirds of business activities in sales, services and solutions are
+recurring in nature, the majority of clients are local, and both resources
+and organisations remain local, with the exception of the service centre
+in India, whose activity is not affected by Brexit. Nevertheless, anumber
+of minor preventive and anticipatory measures have been decided,
+particularly with respect to communications and relations with suppliers.
+
+| RISKS ASSOCIATED WITH RETIREMENT BENEFIT OBLIGATIONS
+
+Risk description
+
+Risk management
+
+Sopra Steria Group provides its employees with retirement benefits
+in several countries, including the United Kingdom (which accounts
+for 48% of the Group's retirement benefit obligations).
+
+The Group’s financial statements may be affected by provisions for
+obligations under defined-benefit pension plans and the associated
+liabilities.
+
+Within the framework of commitments made, the employer is obliged
+to cover any difference (deficit) between the value of the fund assets
+and the pension obligations to be paid.
+
+The evaluation of pension fund liabilities can be impacted by
+regulatory developments, changes in long-term interest rates,
+life expectancy and more generally any changes in the financial
+markets, as well as any changes in macroeconomic parameters.
+These parameters, which are external to the company, can have a
+non-neutral impact on the valuation of both assets and liabilities.
+The Group may also be compelled to meet calls for funds to make
+up for low pension contribution levels as part of the three-yearly
+negotiations with trustees in the United Kingdom or as a result of
+regulatory developments.
+
+Furthermore, assets are managed by fund trustees and invested in
+different asset classes (including shares) that are subject to the risk
+of fluctuations in financial markets.
+
+Since 2010, defined-benefit plans in the United Kingdom have been
+replaced by defined-contribution plans (pension benefits are based
+on the performance of the fund's investments over the contribution
+period), although benefits vested prior to this decision remain in effect.
+The defined benefit plans are exceptionally maintained in connection
+with a few public-sector outsourcing projects, to comply with the
+legislation and commitments made to clients.
+
+All elements relating in particular to the management and review
+of assets and liabilities, as well as the three-yearly negotiations, are
+monitored by the Group’s Finance Department. The Finance Department
+takes part in the regular exchanges with the trusts managing pension
+fund assets in the United Kingdom, and also participates in the three-
+yearly negotiations. The next round of three-yearly negotiations is to
+be held in 2020. It should be noted that the proceedings previously
+initiated by the Steria Pension Plan trustees before the High Court of
+Justice to confirm the validity and effective date of an amendment
+signed in 2006 have been settled amicably.
+
+For more information, see Note 5.3 to the consolidated financial
+statements in Chapter 4 of this document (pages 128 to 133).
+
+36 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+
+--- Page 22 ---
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+| BREAKDOWN OF REVENUE ACCORDING TO THE NATURE OF CONTRACTS
+
+(of even 2018 2017 2016
+Licences 1.7% 2.6% 2.2%
+Fixed-price projects 19.4% 19.3% 17.1%
+Fixed-price services 42.9% 45.1% 48.1%
+Time and materials 36% 33% 32.6%
+TOTAL 100% 100% 100%
+
+DETAILED PRESENTATION OF THE MANAGEMENT OF MAIN NON-FINANCIAL RISKS.
+
+| RISK OF BREACHES OF ETHICS OR VIOLATIONS OF THE LAW
+
+Risk description
+
+Risk management
+
+Ethics and integrity are core values of the Sopra
+Steria Group. Like any international group with a
+large number of employees across many different
+countries, Sopra Steria could be exposed to risks
+in the event of violation or breaches of laws,
+regulations and internal rules by its employees
+or third parties with which the Group works.
+Breaches of this kind may expose the Group, its
+senior executives or its employees to criminal or
+administrative sanctions, and could also expose
+the Group to liability depending on the situation
+and damage its reputation (reputational risk).
+In addition, the Group remains subject, like any
+company, to regular audits by various authorities
+and regulators with regard to the completeness
+of compliance and prevention programmes.
+
+Moreover, the Group is a multinational company
+that operates in many countries, subject to
+a range of constantly changing laws and
+regulations. The Group's activities and operating
+profit might be affected by significant changes
+in laws or regulations, or by decisions taken by
+authorities. The tax rules in the various countries
+in which the Group operates are continually
+evolving. The Group cannot guarantee that
+the existing tax arrangements will continue to
+apply. Furthermore, the Group cannot guarantee
+that the current interpretations of existing tax
+arrangements will not be challenged, potentially
+with adverse consequences for its financial
+position or business results.
+
+Building on the Group's Code of Ethics and its values of transparency and integrity, and in
+order to accompany the Group’s expansion and growth following the merger while satisfying
+new regulatory requirements, Executive Management has placed emphasis on reiterating
+the rules and procedures applicable to all employees across the Group so as to provide a
+common foundation for all processes and entities. A new department was created, with
+responsibility for issues of compliance, internal control and risk management, in order to
+coordinate the Group's efforts in these areas. This department is supported in its work by the
+Compliance Officers (who are also responsible for internal control) throughout the Group's
+various geographical operations, the network of local representatives and local teams.
+
+In addition to the implementation of guidelines in these areas and the coordination of
+the organisational structure put in place, the Group has a Code of Ethics, which has been
+supplemented in particular by a specific code of conduct for stock market transactions.
+
+Along these same lines, a programme has been introduced to prevent and combat corruption.
+
+This anti-corruption system benefits from the following features:
+
+= Strong involvement of the executive body;
+
+= Across-cutting organisation coordinated by the Heads of Internal Control, responsible
+for compliance issues and risk management in each of the entities;
+
+= Amapping of corruption and influence-peddling risks, carried out at the same intervals
+and applying the same methodology used for the overall risk mapping exercise, and
+shared with the affected staff;
+
+= Acode of conduct for the prevention of corruption and influence peddling, illustrated
+with real-world examples and made available as a supplement to the Code of Ethics,
+which has been translated into 10 languages and covers all Group entities;
+
+= Adisciplinary regime based on the Code of Conduct made binding via its inclusion
+in the internal rules, with the understanding that the Group applies a zero tolerance
+policy with respect to corruption and influence peddling;
+
+= Specific, formal procedures rolled out across the Group;
+
+= Astricter procedure for assessing third parties;
+
+= AGroup-wide training programme, including an e-learning module available in five
+languages, rolled out to 95% of the Group’s employees, via the website of the Group’s
+training organisation (Sopra Steria Academy) and face-to-face training for segments of
+the workforce considered as the most exposed;
+
+= Strengthened control and audit procedures;
+
+= Awhistleblowing system, incorporating the French legal requirements laid down by
+the Sapin II Act and the Duty of Care Act, rolled out to all Group entities.
+
+This entire programme and its dedicated organisational structure are described in Section 5
+of Chapter 3, “Corporate responsibility”, on pages 99 to 101 of this document.
+
+Developments in laws and regulations are monitored on a regular basis so as to anticipate
+upcoming changes by way of the departments concerned (Legal Department, Finance
+Department) and make the necessary adjustments to rules and procedures.
+
+In order to reduce risks related to changes in tax rules, the Group is actively monitoring
+regulatory and case law developments in the countries where it operates, making sure that
+its tax practices are in compliance with local laws and regulations.
+
+Disclosures required by specific obligations, including those relating to the other risks mentioned in the French Commercial Code, are presented
+in Section 2, “Disclosures arising from specific obligations — Other risks” in Chapter 7 of this document (pages 229 to 233).
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 37
+
+
+--- Page 23 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+8.2.
+
+The Group’s insurance policy is closely linked to its risk prevention
+and management practices, in order to ensure coverage for its
+major risks. The Group’s insurance management is centralised under
+a single department, the Internal Control and Risk Management
+Department.
+
+Insurance
+
+The aim of Sopra Steria Group's insurance programmes is to provide
+uniform and adapted cover of the risks facing the company and its
+employees for all Group entities at reasonable and optimised terms.
+
+The scope and coverage limits of these various insurance programmes
+are reassessed annually in light of changes in the size of the Group,
+developments in its business activities as well as changes in the
+insurance market, and based on the results of the most recent risk
+mapping exercise.
+
+All Group companies are insured with leading insurance companies
+for all major risks that could have a material impact on its operations,
+business results or financial position.
+
+The main insurance programmes in place within the Sopra Steria
+Group are the following:
+
+= premises and operations liability and professional indemnity
+insurance
+
+This programme covers all of the Group’s companies for monetary
+consequences arising as a result of their civil and professional
+liability in connection with their activities, due to bodily injury,
+material or non-material damage caused to third parties. Overall
+coverage is limited to €150 million per claim and per year of
+insurance;
+
+cybersecurity insurance
+
+This programme covers all of the Group’s companies for any direct
+or indirect financial losses, property damage or loss of use, and
+business interruption losses resulting from a cyber attack.
+
+property damage and business interruption insurance
+
+This programme covers all of the Group’s sites for the direct
+material damage to property they may suffer as well as any
+consequential losses in the event of reduced business activity or
+business interruption occasioned by the occurrence of an insured
+event. Operating losses are insured on the basis of the loss of
+gross profit. Overall policy coverage (for all types of damages and
+operating losses) is limited to €100 million per claim and per year
+of insurance.
+
+In addition, Group programmes have been put in place covering in
+particular:
+
+a the civil liability of senior executives and company officers;
+
+= assistance to employees on assignment, as well as to expatriate
+employees and employees on loan.
+
+38 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+8.3. Internal control and risk
+
+management
+
+This section of the report outlines Sopra Steria’s internal control and
+risk management systems. These systems are based on the reference
+framework issued by the AMF. A specific subsection addresses the
+preparation of accounting and financial information.
+
+The management control system is one of the fundamental
+components of internal control at Sopra Steria. It supports the
+internal dissemination of information as well as the various reporting
+and risk management procedures, and the implementation of
+controls.
+
+8.3.1. OBJECTIVES AND FRAMEWORK FOR THE
+INTERNAL CONTROL AND RISK MANAGEMENT
+
+SYSTEM
+
+a. Objectives of the internal control and risk management
+system
+
+In order to address the identified risk factors presented in the
+preceding chapter, the Sopra Steria Group has adopted a governance
+approach as well as a set of rules, policies and procedures together
+constituting its internal control and risk management system
+
+In accordance with the AMF reference framework, the internal control
+and risk management system, which is under the responsibility of the
+Group’s Chief Executive Officer, is designed to provide reasonable
+assurance regarding the achievement of objectives in the following
+categories:
+
+= compliance with laws and regulations;
+
+= implementation of instructions, guidelines and rules set forth by
+Executive Management;
+
+= proper functioning of the Company's internal processes, particularly
+those intended to safeguard its assets;
+
+= quality and reliability of financial and accounting information.
+
+The risk management system is designed to identify, analyse and
+manage the Company's main risks.
+
+More generally, the Group’s internal control and risk management
+system contributes to the control of its business activities, the
+effectiveness of its operations and the efficient use of its resources.
+
+This system is updated on a regular basis, in application of a
+continuous improvement process, in order to best measure the level
+of risk to which the Group is exposed as well as the effectiveness of
+the action plans put in place to mitigate risks.
+
+Nevertheless, the internal control and risk management system
+cannot provide an absolute guarantee that the Company's objectives
+will be achieved and that all risks will be eliminated.
+
+b. Reference framework and regulatory context
+
+The Sopra Steria Group refers and adheres to the reference
+framework issued by the Autorité des Marchés Financiers (AMF, the
+French securities regulator)
+
+8.3.2. SCOPE
+
+The internal control and risk management system applies across the
+entire Group, i.e. the parent company Sopra Steria Group, together
+with all fully consolidated companies.
+
+
+--- Page 24 ---
+
+8.3.3. COMPONENTS OF THE INTERNAL CONTROL
+
+AND RISK MANAGEMENT SYSTEM
+
+a. Environment
+
+Sopra Steria Group's internal control and risk management system is
+founded upon the Group’s four-tier operational organisation as well
+as its centralised functional organisation. Each tier of the operational
+organisation is directly involved in the implementation of internal
+control and risk management practices. To this end, the Group has
+put in place a set of operating principles and rules, along with the
+appropriate delegations of authority. It is the responsibility of all
+Group employees to familiarise themselves with these rules and to
+apply them. For more information on the Group’s organisation, see
+Section 7, “Group organisation”, of this chapter (pages 27 to 28).
+
+b. A shared management control system
+
+The management control system is designed not only to manage the
+dissemination of information, upwards to Executive Management
+and downwards to the operational units, but also to guide, control
+and support the Group’s employees. It involves steering meetings
+held at each of the different organisational levels, including the
+Group’s Executive Committee.
+
+These meetings are governed by specific standards (reporting
+timetable, participants, agenda, documents to be presented at
+the beginning and end of the meeting) and are supported by the
+management reporting system. Meetings are held according to
+a calendar, dependent on the organisational level and timeframe
+objectives:
+
+= weekly meetings for the current month: Priority is given to the
+monitoring of sales, production and human resources;
+
+= monthly meetings for the current year: In addition to the topics
+discussed at the weekly meetings, additional emphasis is placed
+on financial indicators (entity performance for the previous month,
+update of annual forecasts, actual vs. budget, progress report on
+actions in line with the medium-term strategy);
+
+m annual meetings, looking ahead several years: The medium-
+term strategy and the annual budget process for the entities are
+discussed in the context of the Group’s overall strategic plan.
+
+The implementation of this system at all operational and functional
+entities is a highly effective vehicle for cohesiveness, the sharing of
+values and practices throughout the Group, and control
+
+c. Tools
+
+The Group’s management applications and office automation
+software are designed to standardise the documents produced by
+the Group. The production tools used or developed by the Group
+allow for the industrialisation of project delivery by improving the
+quality of deliverables. They incorporate the processes that make up
+the Group's production methodology.
+
+d. A shared framework for Group rules
+
+Code of Ethics, anti-corruption Code of conduct and code
+of conduct for stock market transactions
+
+The aims of the Group's Code of Ethics, which is based on its core
+values, are to ensure compliance with international treaties, laws and
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+regulations in force in all countries where it operates, and to reaffirm
+the Group’s ethical principles. In 2017, the Code of Ethics was
+supplemented by a code of conduct for stock market transactions
+whose main aim is to reiterate and clarify the rules regarding sensitive
+information, insider information and the management of securities.
+In 2018, the Code of Ethics was further supplemented by an anti-
+corruption code of conduct, setting out the rules and behaviours to
+be adopted to prevent corruption and influence peddling. For more
+details on the anti-corruption code of conduct, see the “Ethics and
+compliance” section of Chapter 3, “Corporate responsibility”, on
+pages 99 to 101.
+
+Group rules, policies and procedures
+
+In 2017, work was carried out to formally document the Group’s
+rules and applicable decision-making levels. A corpus of Group rules
+and delegations of authority (decision-making levels) was thus re-
+established and consolidated across the Group to provide a common
+foundation for all processes. These rules apply to all employees at
+any Group entity.
+
+These general rules have been adapted to the Group’s various
+entities, and continue to be supplemented at Group level via the
+formal documentation of procedures, always with a focus on the
+continuous improvement of internal control and so as to better
+manage the risks identified in the course of the Group's risk mapping
+exercises. These Group rules and procedures are then further detailed
+to take into account local regulatory constraints across all of the
+Group's geographical operations. The areas covered by the rules and
+procedures include organisation and delivery management, internal
+control and accounting practices, information systems, human
+resources, production and quality assurance, sales and marketing,
+and procurement.
+
+These rules and procedures are available via the Group’s intranet.
+They are reinforced through the Group's various training and
+communications initiatives.
+
+On the production front, Sopra Steria’s Quality System defines all the
+production, management and quality assurance processes required
+to successfully manage projects. The primary goal is to contribute
+effectively to the delivery of high quality IT systems that meet clients’
+needs in line with time and budget constraints. This methodology
+defines project management practices and processes suited to
+various environments and at different levels of management and
+supervision, as well as software engineering practices and processes.
+The basic principles of the Quality System are described in a Quality
+Manual supplemented by procedural guides and operating manuals.
+UK, Scandinavia and CIMPA apply mechanisms that are similar but
+rely on specific methods geared to the primary characteristics of
+their activities. Information security risks and IT/communications
+infrastructure risks are subject to the specific oversight of the Chief
+Information Security Officer (CISO) function.
+
+The Group’s rules and procedures are regularly updated and
+supplemented to best reflect the Group's organisation and manage
+the identified risks.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 39
+
+
+--- Page 25 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+8.3.4.
+
+PARTICIPANTS IN INTERNAL CONTROL AND RISK MANAGEMENT
+
+Everyone in the Group has a part to play in risk management and internal control, from the governance bodies and senior management to
+
+the employees of each Group company.
+
+oOo
+
+PARTICIPANTS IN THE INTERNAL CONTROL AND RISK MANAGEMENT SYSTEM
+
+Board of Directors / Audit Committee
+
+Executive Management
+
+15" LINE OF CONTROL 2"? LINE OF CONTROL
+
+Operational Management Departments
+Finance
+
+Allentities industrial
+
+All geographies Human Resources
+
+Allactivities Legal
+
+Sustainable Development and Corporate
+Responsibility
+
+Internal Control and Risk
+Management Department
+
+3°° LINE OF CONTROL
+
+Internal Audit External
+
+Audit
+
+Executive Management
+
+The internal control and risk management system is approved and
+overseen by Executive Management, thus at the Group's highest
+level. As the top level of authority and responsibility for the internal
+control and risk management system, it monitors the system's
+continuing effectiveness and takes any action required to remedy
+shortcomings identified and remain within acceptable risk tolerance
+thresholds. Executive Management ensures that all appropriate
+information is communicated in a timely manner to the Board of
+Directors and to the Audit Committee.
+
+Audit Committee of the Board of Directors
+
+The Group’s Audit Committee examines the main features of the
+internal control and risk management procedures selected and
+implemented by Executive Management to manage risks, including
+the organisation, roles and functions of the key actors, the approach,
+structure for reporting risks and monitoring the effectiveness of
+control systems. It has access to the elements necessary to reach an
+overall understanding of the procedures relating to the preparation
+and processing of accounting and financial information (presented
+in the following chapter)
+
+Each year, the Audit Committee reviews the results of the Group's risk
+mapping exercise and holds regular meetings with the Internal Control
+and Risk Management Department to monitor the implementation
+and adaptation of the Group’s rules and the internal control process.
+
+The Audit Committee also monitors the activity of the Internal Audit
+
+Department through the following actions:
+
+= approval of the annual internal audit plan;
+
+= meeting with its Director once a year in the presence of the
+Statutory Auditors, but without the presence of management;
+
+= biannual review of the results of internal audit assignments and
+
+follow-up on the implementation of action plans resulting from
+recommendations.
+
+40
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+Three lines of control
+
+In accordance with the AMF reference framework, the internal
+control and risk management system put in place by the Sopra
+Steria Group is structured around three lines of control, as presented
+below.
+
+a First line of control: Front-line staff and operational
+management
+The first line of control for the internal control and risk management
+system consists of:
+operational management, tasked with implementing the system
+defined at Group level for the area under its responsibility. This
+line of control makes sure that the internal control rules and
+procedures are effectively implemented, fully understood and
+consistently applied within its scope of operations.
+the Group’s employees, who take due note of and apply all of
+the rules set out within the organisation
+
+Second line of control: Risk management and compliance
+functions
+
+The aim of the second line of control is to monitor the
+internal control and risk management system on an ongoing and
+continuous basis to verify its effectiveness and coherence as well
+as the proper application of its rules and procedures.
+
+¢ Internal Control and Risk Management Department and
+Compliance Officers at the entities
+
+The internal control and risk management system is steered
+and coordinated by the Internal Control and Risk Management
+Department at Group level. As the coordinator of the system, and
+with regard to the risks that have been identified and assessed,
+the Internal Control and Risk Management Department defines
+and updates the system’s various components. In carrying
+out these duties, the Internal Control and Risk Management
+Department works closely with the Group’s functional and
+operational departments.
+
+
+--- Page 26 ---
+
+The Group has set up a network of Compliance Officers,
+appointed at each of the Group’s entities and across all
+its geographical operations. These Compliance Officers are
+responsible for adapting the guidelines and rules defined at
+Group level. In particular, they are tasked with making sure that
+all components of the internal control and risk management
+system as well as those of the Group’s compliance programme
+are effectively implemented, fully understood and consistently
+applied.
+
+Functional departments.
+
+The functional departments are also key participants in the
+coordination of the internal control and risk management
+system. They assist the Internal Control and Risk Management
+Department in updating procedures specific to the process or
+processes under their responsibility.
+
+Alongside the self-assessment and control procedures
+implemented by operational managers at every level, functional
+departments play a special role in application of the rules for
+delegations of authority in force within the Group. They support
+operational staff in the area of risk management and, from a
+preventive standpoint, they may serve in an advisory capacity or
+perform ex-ante or ex-post controls on the application of rules.
+
+The Finance Department is entrusted with specific responsibilities
+in the context of financial controls and the Industrial Department is
+responsible for control procedures relating to the management of its
+Quality System.
+
+© Finance Department
+
+Financial Controlling falls under the responsibility of the Finance
+Department. Its main responsibilities include the consolidation
+and analysis of monthly results produced by the internal
+management system, controlling the consistency of monthly
+forecasts, verifying the application of Group rules, assisting
+operational managers, training management system users, and
+performing the reconciliation between the internal management
+accounts and the general ledgers.
+
+As part of its control responsibilities, Financial Controllers
+identify and measure risks specific to each business unit. In
+particular, they ensure that contractual commitments and
+project production are aligned with the revenue recognised
+They raise alerts for projects that present technical, commercial
+or legal difficulties. They check that revenue is recognised
+in line with Group accounting rules as well as analysing any
+commercial concessions applicable and verifying their treatment
+in the business unit’s accounts. They also ensure that the costs
+for the business unit are completely and accurately recognised.
+
+Financial Controllers devote particular attention to unbilled
+revenue and contractual milestone payments, and check that
+invoices issued are paid. In coordination with the manager at
+the relevant entity, they trigger payment collection, which is
+managed directly by the Finance Department. They check any
+credit notes issued.
+
+Financial Controllers assess business units’ and/or divisions’
+organisation and administrative operations. They monitor
+compliance with rules and deadlines.
+
+Industrial Department (Management of the Quality System)
+
+Quality management relies upon the day to day interaction
+between the operational and quality structures and covers the
+methods for the production and application of professional
+standards.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+Sopra Steria’s quality structure is independent of the project
+management and delivery operations. As such, it offers external
+quality assurance for projects with the objectives of assuring
+production and cost controlling, overseeing associated human
+resources, verifying production conformity and compliance
+with quality assurance procedures, and monitoring the quality
+assurance plan’s effectiveness.
+
+Industrial managers under the authority of division/subsidiary
+managers and reporting functionally to the Group Industrial
+Department are responsible for monitoring the Quality System
+and all projects.
+
+Structural audits are performed so as to verify the application
+and effectiveness of the Quality System among the Sopra Steria
+staff members concerned (management, sales, operational
+quality unit). Projects are reviewed on a regular basis, at key
+phases in their life cycle. These reviews, which are organised
+by the Industrial Department, or by the quality structure’s local
+representatives, provide an external perspective on the status
+and organisation of projects.
+
+Monthly steering meetings facilitate an overview of quality at
+all levels, the monitoring of annual quality targets established
+during management reviews and the determination of the
+appropriate action plans to continuously improve production
+performance and the quality of Sopra Steria products and
+services.
+
+The implementation of actions agreed during steering
+committees, audits and reviews is checked by the Industrial
+Department.
+
+An annual review is performed by Executive Management to
+ensure that the Quality System remains pertinent, adequate
+and effective. This review is based in particular upon an analysis
+of project reviews and internal structural audits performed at
+all levels of the Group as well as upon annual balance sheets
+produced by divisions or subsidiaries. During this review, the
+adequacy of the quality policy is evaluated, the annual quality
+objectives are defined and possible improvements and changes
+in the Quality System are considered
+
+The Group has put in place a certification policy, covering all or
+a portion of its operations, depending on market expectations.
+This policy relates to the following standards or frameworks:
+ISO 9001, TickIT Plus, ISO 27001, ISO 22301, ISO 14001,
+ISO 20000, CMMI and TMMi
+
+a Third line of control: Internal audit function
+
+Internal Audit Department
+
+Under the internal audit charter adopted by the Group, the Internal
+
+Audit Department has the following tasks:
+
+w independent, objective evaluation of the effectiveness of the
+internal control system via a periodic audit of entities;
+
+= formulation of all recommendations to improve the Group's
+operations;
+
+= monitoring the implementation of recommendations.
+
+The work of the Internal Audit Department is organised with a view
+
+to covering the “audit universe” (classification of key processes)
+
+reviewed annually by the Audit Committee.
+
+Internal Audit covers the entire Group over a cycle of a maximum of
+
+four years. Audits are performed more frequently for the main risks
+
+identified. To this end, Internal Audit carries out field audits while
+
+using self-assessment questionnaires for areas of lesser importance.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 41
+
+
+--- Page 27 ---
+
+“ll «DETAILED PRESENTATION OF SOPRA STERIA
+
+Risk factors and internal control
+
+By carrying out work relating specifically to fraud and corruption,
+the Internal Audit Department has identified processes that are
+potentially concerned, associated risks, control procedures to be
+adopted (prevention and detection) and audit tests to be carried out.
+These are systematically integrated into internal audit programmes.
+
+Internal Audit, which reports to the Chairman of the Board of
+Directors and operates under the direct authority of Executive
+Management, is responsible for internal control and monitors the
+system in place. It submits its findings to Executive Management and
+the Audit Committee.
+
+The Chairman of the Board of Directors validates the audit plan,
+shared with Executive Management, notably on the basis of risk
+information obtained using the risk mapping procedure, the priorities
+adopted for the year and the coverage of the “audit universe”. This
+plan is presented to the Audit Committee for review and feedback.
+Recommendations are monitored and compiled in a report provided
+to Executive Management and the Audit Committee.
+
+The Internal Audit Department carried out 22 assignments in 2018.
+
+External monitoring system
+
+Furthermore, the internal control and risk management system is
+also monitored by the Statutory Auditors and the quality certification
+inspectors for the Quality System.
+
+Statutory Auditors
+
+As part of their engagement, the Statutory Auditors obtain
+information on the internal control system and the procedures in
+place. They attend all Audit Committee meetings.
+
+The Statutory Auditors are engaged throughout the year across
+the Group. Their involvement is not limited to interactions with the
+accounting department. To gain a more in-depth understanding of
+how operations and transactions are recorded in the accounts, the
+Statutory Auditors are in regular contact with operational managers,
+who are best placed to explain the Company's business activity.
+These meetings with operational staff are structured around business
+unit, division or subsidiary reviews, during which the Statutory
+Auditors examine the main ongoing projects, progress made and any
+difficulties encountered by the business unit or subsidiary.
+
+Quality certification inspectors
+The audit procedure aims to ensure that the Quality System is both in
+compliance with international standards and is applied to the entire
+certified scope of operations.
+
+Each year, quality certification inspectors select the sites visited
+depending upon an audit cycle and relevance of the activity in
+relation to the certification
+
+8.3.5. ASSESSMENT AND CONTINUOUS
+
+IMPROVEMENT PROCESS
+
+The purpose of this audit process is to identify ways in which the
+quality management system might be improved in order to ensure
+continuous improvement.
+
+The internal control system and its operation are subject to internal
+and external assessments to identify areas for improvement. These
+may lead to implementation of action plans to strengthen the
+internal control system, in certain cases under the direct oversight of
+the Group’s Audit Committee.
+
+42 SOPRASTERIA REGISTRATION DOCUMENT 2018
+
+8.4. Procedures relating to the
+
+preparation and processing
+of accounting and financial
+information
+
+8.4.1. COORDINATION OF THE ACCOUNTING
+
+AND FINANCIAL FUNCTION
+
+a. Organisation of the accounting and financial function
+
+Limited number of accounting entities
+
+By keeping the number of legal entities, and therefore accounting
+entities, relatively low, the Group can drive reductions in operating
+costs and minimise risks.
+
+Centralised coordination of the accounting
+
+and financial function
+
+The activities of Sopra Steria’s accounting and financial function are
+overseen by the Group's Finance Department, which reports directly
+to Executive Management.
+
+The responsibilities of the Finance Department mainly include
+the production of the accounts, financial controlling, tax issues,
+financing and cash management, and participation in financial
+communications and legal matters.
+
+Each subsidiary has its own financial team that reports functionally
+to the Group's Finance Department
+
+Supervision of the accounting and finance function
+
+by Executive Management and the Board of Directors
+
+The Finance Department reports to the Group’s Executive
+Management. As with all other entities, it follows the management
+reporting and controlling cycle described above: weekly meetings to
+address current business activities, monthly meetings devoted to a
+detailed examination of figures (actual and forecast), the organisation
+of the function and the monitoring of large-scale projects.
+
+Executive Management is involved in the planning and supervision
+process as well as in preparing the period close.
+
+The Board of Directors is responsible for the oversight of accounting
+and financial information. It approves the annual accounts and
+reviews the interim accounts. It is supported by the Audit Committee,
+as described in Section 1.2.3 of Chapter 2, “Corporate governance”
+of this document (pages 62 to 63).
+
+b. Organisation of the accounting information system
+
+Accounting
+
+The configuration and maintenance of the accounting and financial
+information system are centralised at Group level. Central teams
+manage access permissions, and update them at least once a year.
+The granting of these permissions is validated by Finance teams at
+the subsidiaries.
+
+All Group companies prepare, at a minimum, complete quarterly
+financial statements on which the Group bases its published
+quarterly revenue figures and interim financial statements.
+
+Monthly cash flow forecasts for the entire year are prepared for all
+companies and consolidated at Group level.
+
+
+--- Page 28 ---
+
+Accounting policies and presentation
+
+The accounting policies applied within the Group are presented in
+the notes to the consolidated financial statements in this document
+At each balance sheet date, the Audit Committee ensures that
+these policies and presentation have been applied by the Finance
+Department and the Statutory Auditors.
+
+The proper use of the percentage-of-completion method to value
+ongoing projects is monitored on a permanent basis jointly by the
+Industrial Department and by the Finance Department (Financial
+Controllers).
+
+8.4.2. PREPARATION OF THE PUBLISHED ACCOUNTING
+AND FINANCIAL INFORMATION
+a. Reconciliation with the internal management system
+
+accounting data
+
+All Group entities prepare a monthly budget, a monthly operating
+statement and revised monthly forecasts.
+
+The budget process, which is short in duration, takes place in the last
+quarter of the year. This is a key stage. It provides an opportunity to
+apply the strategy approved by the Group's Executive Committee, to
+adapt the organisation to developments in business segments and
+market demand, and to assign quantitative and qualitative objectives
+to all Group entities. Budgets, including detailed monthly operating
+forecasts, are prepared by each unit at this event.
+
+Each Group entity prepares a monthly operating statement closed
+on the third working day of the following month. Management
+indicators (utilisation rate, selling prices, average salary, indicators
+relating to human resources, invoicing and receipts, etc.) are also
+reviewed on a monthly basis.
+
+Finally, a revised operating statement prepared each month includes
+the results of the previous month and a revised forecast for the
+remaining months of the current year.
+
+Sales metrics (prospects, contracts in progress, signings, etc.),
+client invoicing and cash receipts are analysed at the management
+meetings organised by the management control system described
+above.
+
+The results derived from the monthly management reporting
+documents are verified by Financial Controllers reporting to the
+Finance Department, who also reconcile this data with the quarterly
+accounting results in the general ledgers.
+
+DETAILED PRESENTATION OF SOPRA STERIA EE
+
+Risk factors and internal control
+
+b. Procedures for the preparation of the consolidated
+financial statements
+
+Each company establishes quarterly financial statements and prepares
+a consolidation pack.
+
+For each of the companies falling within the scope of the audit of
+consolidated financial statements, the Statutory Auditors examine
+the interim and annual consolidation packs. Once approved, they
+are used by the Group Finance Department and the consolidated
+financial statements are examined by the Group's Statutory Auditors.
+
+c. Procedure for signing off the financial statements
+
+The interim and annual consolidated financial statements are
+presented to Executive Management by the Finance Department.
+
+As part of their annual accounts close-out at 31 December, the
+financial statements of Sopra Steria Group and its subsidiaries
+undergo a legal audit by the Statutory Auditors in order to be
+certified. A limited review is also performed on 30 June.
+
+As part of its assignment to monitor the legal control of the financial
+statements, the Audit Committee takes note of the Statutory
+Auditors’ work and conclusions during the review of the interim and
+annual financial statements.
+
+The Audit Committee examines the financial statements, notably
+in order to review the Company's exposure to risks, verify that the
+procedures for gathering and controlling information guarantee its
+reliability, and ensure that accounting policies have been applied
+consistently and appropriately. It gathers comments from the
+Statutory Auditors.
+
+The Group’s financial statements are then presented to the Board of
+Directors for approval.
+
+d. Financial communications
+
+The Financial Communications and Investor Relations Department,
+which is supervised by the Chairman of the Board of Directors,
+manages the Group’s financial communications.
+
+The Group communicates financial information via several different
+means, notably:
+
+= press releases;
+
+a the Registration Document and the various reports and disclosures
+that it contains;
+
+= the presentation of the interim and annual financial statements.
+
+The Group’s website has a dedicated “Investors” section that
+presents all of the aforementioned items as well as other regulatory
+or informative items.
+
+SOPRASTERIA REGISTRATION DOCUMENT 2018 43

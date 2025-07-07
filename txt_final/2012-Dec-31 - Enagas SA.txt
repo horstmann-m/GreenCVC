@@ -1,0 +1,872 @@
+
+
+--- Page 1 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+Translation of a report originally issued in Spanish. In the event of a discrepancy, the Spanish-language version
+prevails.
+
+MANAGEMENT REPORT OF THE ENAGAS GROUP
+
+1.- Group performance in 2012
+
+Net profit rose 4.1% in 2012 to 379,508 thousand euros.
+Revenue totalled 1,180,059 thousand euros.
+
+The Enagas Group carries out its business operations primarily in Spain, where it develops and operates
+virtually all of its assets. In 2012, the Group leveraged its extensive track record developing and operating
+regasification plants and transmission networks around the world to make a number of international
+business investments in 2012.
+
+In respect of operations in Spain, throughout 2012 the Group maintained the basic natural gas
+regasification, storage and transmission network, servicing demand at all times.
+
+Demand for natural gas declined by 3% year on-year, driven by a year-on-year drop in consumption of gas
+at electric power generation stations of 23%.
+
+In contrast, deliveries of gas to the manufacturing and residential segments rose by 6% to 278 TWh — an
+all-time record. Notably, gas exports in the form of LNG loads virtually tripled to 22.3 TWh.
+
+As in prior years, diversification was high, with the Group importing gas from 11 different source markets.
+Forty per cent of imports were in the form of natural gas and 60% in the form of LNG via the regasification
+plants. For the second year in a row, the weight of LNG in the supply mix fell due to the increase in gas
+from France and Algeria, the latter thanks to the international connection in Almeria, which has been
+registering volume growth since being added to the network in 2011.
+
+The storage capacity of the Spanish gas system increased from 28,080 GWh in 2011 to 28.956 GWh in
+2012 thanks to the addition of the Marismas and Yela facilities. In the specific case of the Yela facility,
+definitive extraction capacity will cover close to 90% of current demand in central Spain.
+
+Elsewhere, the unified management and contracting of all of the system’s underground storage facilities,
+tasked to Enagas GTS, continued.
+
+Capital expenditure amounted to 761.4 million euros, topping initial guidance for the year, as did the
+amount of assets commissioned (994.4 million euros), driven mainly by the addition of assets acquired.
+
+Ministry of Industry, Energy and Tourism Order IET/3587/2011, establishing the tolls and fees for third-
+party access to gas installations and remuneration of regulated activities, was published in the Official
+
+State Gazette on 31 December 2011.
+
+Enagas achieved its goal in respect of carbon emissions in 2012, reducing emissions deriving from self-
+consumption of natural gas at its own facilities by 16%.
+
+The capital and reserves of the Enagas Group stood at 2,014,878 thousand euros at year end, while
+equity amounted to 2,004,784 thousand euros.
+
+Share capital is represented by 238,734,260 fully paid ordinary bearer shares each with a par value of
+1.50 euros.
+
+At 31 December 2012, 96% of net debt was non-current and 82% was fixed-rate, compared to 71% at
+year-end 2011.
+
+79
+
+
+--- Page 2 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+Overall, at the end of 2012, the gas infrastructure of the Enagas Group comprising the basic natural gas
+grid consisted of the following:
+
+- Over 9,000 kilometres of gas pipelines throughout Spain
+
+- Three underground storage facilities: Serrablo (Huesca), Yela (Guadalajara) and
+Gaviota (Vizcaya)
+
+- Three regasification plants in Cartagena, Huelva and Barcelona plus a fourth under
+construction at El Musel (Gijon)
+
+- The Group additionally owns 40% of the BBG regasification plant (Bilbao), 40% of the
+Altamira regasification plant (Mexico) and 20% of the Bahia de Quintero
+regasification plant (Chile)
+IL- Main business risks
+The Enagas Group is exposed to various risks intrinsic to the sector, the market in which it operates and
+the activities it performs, which could prevent it from achieving its objectives and executing its strategies
+successfully.
+The main risks associated with the Group’s business activities are classified as follows:
+1. Business risk
+Business risk relates to losses caused by external factors such as regulation, economic growth patterns,
+competition levels, demand trends, structural industry factors, etc., as well as to potential losses resulting
+
+from incorrect decision-making in relation to the company’s business plans and strategies.
+
+Within business risk, regulatory risk, which relates to the regulatory framework governing the Group's
+business activities and also refers to certain aspects of local rates, is particularly prominent.
+
+The Group has implemented measures to control and manage its business risk within acceptable risk
+levels. To this end, it continually monitors risks relating to regulation, the market and the competition.
+
+2. Counterparty risk
+
+Counterparty risk relates to the possibility of losses deriving from a counterparty’s failure to comply with its
+obligations and to uncertainty as to a counterparty’s ability to honour its obligations.
+
+In the assessments performed in 2012, the Group qualified its credit and counterparty risk as negligible as
+it only does business with solvent companies, as corroborated by these companies’ external credit ratings.
+
+The pertinent counterparty risk management information is disclosed in Note 16 to the consolidated annual
+financial statements.
+
+3. Financial risk
+
+Financial risk is an assessment of earnings vulnerability to adverse fluctuations in financial variables such
+as interest rates, exchange rates, market liquidity conditions and other market drivers.
+
+The financial risk management policy is detailed in Note 16 to the consolidated annual financial
+statements.
+
+80
+
+
+--- Page 3 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+4. Operational risk
+
+The Group’s day-to-day operations can give rise to direct or indirect losses on account of inadequate
+internal processes, technological errors, human error or certain external events.
+
+The Group has identified the following significant operational risks: incidents affecting its infrastructure,
+equipment and systems, business practices, poor quality or interruption of service, employee conduct,
+workplace health and safety and operational risks on the part of suppliers and counterparties.
+
+The Enagas Group mitigates these risks by making the necessary investments, applying operation and
+maintenance procedures and programmes, underpinned by quality systems and planning for a level of
+adequate training and skill management, combined with an adequate level of insurance coverage.
+
+5. Criminal liability risk
+
+Article 31 bis of Organic Law 5/2010 of 22 June 2010, which reforms Spain’s Criminal Code, introduces
+criminal liability on the part of legal entities.
+
+In this regard, the Enagas Group could be held liable in Spain for crimes committed by its officers and staff
+in the course of their work and in their own interests if the Group is found to have failed to have exercised
+sufficient control.
+
+To prevent this risk from materialising, the Group has approved a Criminal Liability Risk Model and is in the
+process of implementing the measures needed to prevent corporate crime.
+
+6. Reputational risk
+
+Reputational risk refers to any action, event or circumstance that could have either a harmful or beneficial
+effect on Enagas’ reputation among its stakeholders.
+
+The Group has implemented a reputational risk self-assessment procedure which uses qualitative
+measurement techniques.
+
+This process contemplates the potential reputational impact that materialisation of any of the risks listed in
+the model (operational, business, financial and counterparty) could have as a result of failing to meet
+stakeholder expectations and as a result of strictly reputational events arising from the action, interest or
+opinion of a third party.
+
+The Group has identified as relevant any Reputational Risk arising in the aftermath of the materialisation of
+certain risks: operational (service interruption, bad business practice, errors and/or delays in information
+disclosure and internal and external communication, damage caused to third party persons and/or assets,
+etc.), regulatory and liquidity risk.
+
+The management of certain risks strictly defined as reputational stemming from third-party action has also
+been considered key on account of its significance.
+
+lll.- Use of financial instruments
+
+In February 2008, the Board of Directors approved an interest rate hedging policy devised to align the
+Group’s financial cost with the target rate structure set under its Strategic Plan.
+
+In compliance with this policy, the Group entered into a series of interest rate hedges in the course of
+2012. As a result, at year end, 82% of total gross debt was hedged against interest rate increases.
+
+IV.- Outlook
+
+The natural gas market is mature. The Spanish gas sector is dependent on the stream of regulations
+emanating from the European Union. The Enagas Group, which generates most of its revenue from the
+
+81
+
+
+--- Page 4 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+regulated business in Spain, is committed to Europe’s new energy policy objectives. To this end, it is
+working intensively to help make sure that these regulatory developments prove as effective as possible,
+factoring in the characteristics of the internal market, and that they are properly integrated into the Spanish
+framework.
+
+The Group has earmarked capital expenditure of 645 million euros for 2013 and plans to bring 570 million
+euros worth of assets online during the year.
+
+Management expects to repeat net profit of 380 million euros in 2013. Likewise, the Group has reiterated
+the growth targets set out under its 2010-2014 Strategic Plan.
+
+\V.- Research and development
+
+The technological innovation initiatives carried out by the Group in 2012 comprised assessing, developing
+and testing new gas technologies with the aim of increasing and improving the competitiveness of natural
+gas in various applications, focusing particularly on projects of strategic value for the Group.
+
+The most significant activities carried out by area in 2012 area were:
+
+a) Production (LNG). Further work was carried out on upgrading and rolling out the “MOLAS”
+application, aimed at learning about how LNG ages and how its properties change during
+shipping. Development of a reliability model for plant equipment and installations was completed.
+In this area, the Group is implementing improvements to its LNG sampling system to more
+accurately gauge the quality of the LNG unloaded at the regasification plants. It is drawing up the
+engineering plans for a facility to generate electricity by leveraging the spikes in pressure in the
+course of gas emission at the Barcelona plant. Work has also begun on a study to learn about
+new developments in the small-scale LNG distribution field.
+
+b) Transmission: Work has begun on a study into the operating repercussions deriving from overall
+transport of natural gas and moderate amounts of hydrogen in the gas pipelines. The techniques
+needed to eliminate the iron sludge building up at the Serrablo facility have been studied. As part
+of a European study, the Group is studying ways to prevent third-party interference with the
+network using unmanned flights.
+
+c) Operation. A logistics planning and optimisation application (SPOL) was implemented that
+enables centralised management of the network facilities, enhancing system performance in
+general. A study was begun to determine the quality of the gas transmitted through the gas
+pipeline network by means of simulation.
+
+d) Safety. Work proceeded on various projects and studies related to the analysis of gas pipeline
+risks.
+
+e) Metering. A new system was developed for verifying the metering units and preventing problems
+deriving from the breakage of metering turbine blades. The characteristics were defined for a new
+application for the centralised management of metering unit verification, updating and upgrading
+the related application. A number of initiatives are underway to enhance the chromatographic and
+metering techniques of various parts of the natural gas system. Work has begun on a number of
+initiatives for the measurement and determination of the dew points of water and hydrocarbons in
+natural gas.
+
+f) Projects of general interest. Work is ongoing on the tri-generation project at the Zaragoza
+Technology Centre to enable the supply of heat, cooling and electricity to the various areas of the
+new data processing centre, control centre, laboratories and offices.
+
+g) Other matters: The Group is carrying out a campaign to contact other energy companies and
+
+associations with the aim of spearheading the joint development of R&D activities in order to
+share know-how.
+
+VI.- Transactions with treasury shares
+
+The Group did not buy or sell treasury shares in 2012.
+
+82
+
+
+--- Page 5 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+VIL.- Additional information
+
+This additional disclosure is included to comply with article 116 bis of Spain’s Securities Market Act (Law
+24/1988 of 28 July).
+
+a) The structure of capital, including securities which are not admitted to trading on a
+regulated market in a member state, indicating, where appropriate, the different classes of shares
+and, for each class of shares, the rights and obligations attaching thereto and the percentage of
+total share capital represented
+
+Capital structure of the parent company:
+
+Date oflast Share capital (€) Number of Number of voting
+modification shares rights
+
+03-05-02 358,101,390.00 | 238,734,260 238,734,260
+
+All the shares are of the same class.
+
+b) Restrictions on the transfer of securities
+
+There are no restrictions on the transfer of securities.
+
+c) Significant direct and indirect shareholdings
+
+Significant shareholdings (excluding directors):
+
+Number of | Number of
+Name or company name of the - . ae . % of total
+shareholder direct voting |indirect voting voting rights
+rights rights (*)
+OMAN OIL COMPANY, S.A.0.C. 0} 11,936,702 5
+KUTXABANK, S.A. O} 11,936,713 5
+(*) Through:
+Name or company name of the Number of % of total
+direct voting a
+shareholder . voting rights
+rights
+
+OMAN OIL HOLDINGS ESPANA, S.L.U. 11,936,702 5
+
+KARTERA 1, S.L. 11,936,713 5
+
+Total 23,873,415 10
+
+83
+
+
+--- Page 6 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+Significant shareholdings of directors holding voting shares in the parent company:
+
+Name or company name of the Number of . Number of % of total
+shareholder direct voting indirect voting voting rights
+rights rights (*)
+ANTONIO LLARDEN CARRATALA* 56,396 0 0.024
+MARCELINO OREJA ARBURUA 10
+TERESA GARCIA MILA LLOVERAS, 1,500 (¢) 0.001
+SULTAN HAMED KHAMIS AL 1 0 0
+BURTAMANI
+DIONISIO MARTINEZ MARTINEZ 2,010 0 0.001
+LUIS JAVIER NAVARRO VIGIL 10 7,075 0.003
+MARTI PARELLADA SABATA 910 0 0
+RAMON PEREZ SIMARRO 100 0 0
+SOCIEDAD ESTATAL DE
+PARTICIPACIONES INDUSTRIALES 11,936,713 (¢) 5
+(SEP!)
+TOTAL 11,997,650 7,075 5.029
+
+‘As notified to the CNMV, during the Annual General Meeting of Enagas, S.A. of 30 March 2012, Mr. Llardén was proxy
+
+holder for 91,124,560 voting rights, equivalent to 38.170% of total voting rights, representing 5,537 shareholders.
+
+(*) Through:
+Name or company name of the Number of % of total
+direct voting oe
+shareholder . voting rights
+rights
+
+NEWCOMER 2000, S.L.U. 7,075 0.003
+
+Total 7,075 0.003
+d) Any restrictions on voting rights
+
+Additional provision thirty-one of Spain’s Hydrocarbon Act (Law 34/1998, of 7 October 1998), in effect
+since enactment of Law 12/2011, of 27 May 2011, regarding civil liability for nuclear damage and damage
+
+caused by radioactive waste, stipulates that:
+
+“No natural person or corporate body may hold, directly or indirectly, an interest in the parent
+company (Enagas, S.A.) representing more than 5% of share capital or exercise more than 3% of
+its voting rights. Such shares may in no event be syndicated. Parties operating in the gas industry
+or natural persons or corporate bodies that, directly or indirectly, hold over 5% of the share capital
+of these companies may not exercise voting rights at the parent company in excess of 1%. These
+restrictions shall not apply to direct or indirect shareholdings held by public-sector enterprises.
+
+The shareholdings may in no event be syndicated.
+
+In addition, the sum of direct and indirect shareholdings held by parties operating in the natural
+
+gas industry may not exceed 40%.
+
+To calculate the shareholding, the same individual or legal entity will be attributed, in addition to
+the shares and other securities held or acquired by companies belonging to its group, as defined
+in article 4 of the Law 24/1988, of 28 July 1988, regarding securities markets, those whose
+
+ownership corresponds to:
+
+a) Any person acting on his own behalf but on account of the aforesaid, in concert or
+constituting a decision-making unit. Unless proven otherwise, the members of a
+governing body shall be presumed to act on account of or in concert with that governing
+
+body.
+
+84
+
+
+--- Page 7 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+b) Partners with those with which one of them exercises control over a dominant
+company in accordance with article 4 of Securities Market Law 24/1988.
+
+In any event, regard shall be had to the proprietary ownership of the shares and other securities
+and the voting rights attached to each.
+
+Breach of the restrictions on interests in share capital prescribed by this article shall be treated as
+a very serious infringement for the purposes of article 109 of this Law, and liability shall attach to
+any natural person or body corporate found to be holders of the securities or to any person to
+whom there may be attributed the excess interest in share capital or voting rights pursuant to the
+above sub-paragraphs. In any event, the regime of penalties laid down in the law shall be
+applied".
+
+In accordance with the aforementioned legal provision, article 6 bis (“Limitations on holdings in share
+capital”) of Enagas, S.A.’s bylaws sets forth the following:
+
+“No individual or body corporate may hold a direct or indirect stake of more than 5% in the equity
+capital of the Company, nor exercise voting rights in such company of over 3%. Under no
+circumstances may such shareholdings be syndicated. Those parties that operate within the gas
+sector, including those natural persons or bodies corporate that directly or indirectly possess
+equity holdings in the former of more than 5%, may not exercise voting rights in the System
+Technical Manager of over 1%. These restrictions will not apply to direct or indirect equity
+interests held by public-sector enterprises. Under no circumstances may share capital be
+syndicated.
+
+Likewise, the combined total of direct or indirect holdings owned by parties that operate within the
+natural gas sector may not exceed 40%.
+
+For the purposes of calculating the stake in that shareholding structure, the Hydrocarbons
+Industry Act shall apply.
+
+Enagas may not transfer to third parties shares of the subsidiaries included in its Group that
+undertake transmission and technical systems management, which are regulated businesses
+under Hydrocarbons legislation.”
+
+Additional provision twenty of Spain’s Hydrocarbon Act (Law 34/1998, of 7 October 1998) was amended
+by Law 12/2011, of 27 May 2011, regarding civil liability for nuclear damage and damage caused by
+radioactive waste, which establishes the said limitations on shareholdings and on the exercise of voting
+rights stipulated in the currently prevailing additional provision thirty-one of the Hydrocarbon Act:
+
+e) Agreements between shareholders
+
+There is no record of any agreements among the Company’s shareholders.
+
+f) The rules governing the appointment and replacement of board members and the
+amendment of the articles of association
+
+Bylaw provisions affecting the appointment and replacement of board members:
+ARTICLE 35. - COMPOSITION OF THE BOARD.
+The Company shall be governed and managed by the Board of Directors, which shall represent
+the company collegiately, both in and out of court. Its representation shall extend, without any
+
+limitation of power, to all acts embodied in the corporate purpose.
+
+The Board of Directors shall be composed of a minimum of six members and a maximum of
+fifteen, appointed at the General Shareholders’ Meeting.
+
+85
+
+
+--- Page 8 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+Directors shall be elected by vote. For this purpose, the shares that are voluntarily pooled, to
+make a share capital that is equal to or greater than the result of dividing the latter by the number
+of directors, shall be entitled to appoint a number of directors equal to the integer number
+resulting from that proportion. If this power is exercised, the shares pooled in this fashion shall not
+take part in the voting for the appointment of the remaining Directors.
+
+A director need not be a shareholder, may step down from office, may have his appointment
+revoked, and may be re-elected on one or more occasions.
+
+Appointment as director shall take effect upon acceptance of the post.
+
+The following cannot be directors or, if applicable, natural person representatives of a legal
+person director:
+
+a) Natural or legal persons who hold the post of director in more than 5 (five)
+companies whose shares are admitted to trading on national or foreign markets.
+
+b) Natural or legal persons whose circumstances render them incompatible or
+prohibited from serving on the board under any of the general provisions in law,
+including those persons who in any manner have interests that run contrary to those
+of the Company or its Group.
+
+ARTICLE 37.- POSTS.
+The Board of Directors shall appoint its Chairman.
+
+The Board of Directors may appoint an Independent Director, on the proposal of the
+Appointments, Remuneration and Corporate Responsibility Committee, to perform the following
+duties, under the title of Lead Independent Director:
+
+a) To request the Chairman of the Board of Directors to convene that body when said Lead
+Independent Director deems it appropriate.
+
+b) To request that items be included on the Agenda of the meetings of the Board of
+Directors.
+
+c) To coordinate and voice the opinions of External Directors.
+
+d) To oversee the Board's evaluation of its Chairman and, where appropriate, the
+Managing Director.
+
+e) To perform as a Deputy Chairman the functions of the Chairman as regards the Board of
+Directors if the Chairman is absent, ill or unable to act as Chairman for whatever reason.
+In the absence of a Lead Independent Director, for the purposes of this section the most
+senior director in age shall act as Chairman.
+
+The Chairman and the Secretary to the Board of Directors and the Deputy Secretary, if any, if re-
+elected to the Board by a resolution of the General Meeting, shall continue to perform the offices
+hitherto held on the Board without need of being freshly elected, subject to the power of
+revocation of such offices that rests with the Board of Directors.
+
+Provisions of the organisational and operational regulations of the Board of Directors (adopted by the
+Board of Directors on 20 February 2012):
+
+ARTICLE 3.- QUANTITATIVE AND QUALITATIVE COMPOSITION
+
+1. Within the minimum and maximum limits set forth under article 35 of the Company’s current
+bylaws, notwithstanding the powers of proposal enjoyed by shareholders, the Board of
+Directors shall propose to the General Shareholders’ Meeting the number of directors that at
+each stage it deems appropriate in the interest of the company. The General Shareholders’
+Meeting shall decide on the final number.
+
+86
+
+
+--- Page 9 ---
+
+Consolidated Financial Statements at 31 December 2012
+
+Enagas Group
+
+2. The Board of Directors shall be composed of directors that belong to the categories stated
+below:
+
+a)
+
+b)
+
+Internal or executive directors: directors who perform senior management functions or
+are employed by the company or its Group. If a director performs senior management
+functions and, at the same time, is or represents a significant shareholder or one that is
+represented on the Board of Directors, he/she shall be considered internal or executive
+for purposes of the present Regulations.
+
+No more than 20% of the total number of members of the Board of Directors may belong
+to this category.
+
+External directors: These directors shall in turn fall into three categories:
+
+b1) Proprietary directors: directors who hold a shareholding interest equal to or
+greater than that which is considered significant under the law or have been
+appointed on account of their status as shareholders, even if their shareholding is
+less than said amount, as well as those who represent said shareholders.
+
+b2) Independent directors: directors of acknowledged professional prestige are able
+to contribute their experience and knowledge to corporate governance and, since
+they do not belong to either of the two preceding categories, meet the conditions
+set forth under article 9 of the present Regulations. The number of independent
+directors shall represent at least one third of all directors.
+
+b3) Other external directors: external directors who are not proprietary directors and
+cannot be classified as independent directors in accordance with article 9 of the
+present Regulations.
+
+In exercising its powers of co-option and proposal to the General Shareholders’ Meeting to fill
+vacancies, the Board of Directors shall endeavour to ensure that, within the composition of the
+body, independent directors represent a broad majority over executive directors and that
+among external directors, the relation between proprietary members and independents should
+match the proportion between the capital represented on the board by proprietary directors
+and the remainder of the Company's capital.
+
+The following cannot be Directors or, if applicable, natural person representatives of a legal
+person Director:
+
+ARTICLE
+
+a) Natural or legal persons who hold the post of director in more than 5 (five)
+companies whose shares are admitted to trading on national or foreign markets.
+
+b) Natural or legal persons whose circumstances render them incompatible or
+prohibited from serving on the board under any of the general provisions in law,
+including those persons who in any manner have interests that run contrary to those
+of the Company or its Group.
+
+8.- APPOINTMENT OF DIRECTORS
+
+Directors shall be appointed at the General Shareholders’ Meeting or by the Board of
+Directors in conformity with the provisions contained in the Spanish Corporate
+Enterprises Act and the Company’s Bylaws.
+
+Those appointed to directorship must be people who, in addition to meeting the legal
+and bylaw-stipulated requirements, have acknowledged prestige and the appropriate
+professional knowledge and experience to perform their tasks efficiently.
+
+Proposals for the appointment of directors which the Board of Directors submits to the
+General Shareholders’ Meeting, as well as appointments adopted by the Board by virtue
+of its powers of co-option, must be made subject to a report from the Appointments,
+Remuneration and Corporate Responsibility Committee. When the Board of Directors
+
+87
+
+
+--- Page 10 ---
+
+Consolidated Financial Statements at 31 December 2012
+
+Enagas Group
+
+does not agree with the Committee’s recommendations, it must explain its reasons and
+duly record them in the minutes.
+
+3. The process of filling board vacancies shall have no implicit bias against women
+candidates. The Company shall make an effort to include women with the target profile
+among the candidates for Board positions.
+
+ARTICLE 9.-
+
+APPOINTMENT OF INDEPENDENT DIRECTORS.
+
+Independent directors are defined as directors appointed for their personal and professional
+qualities who are in a position to perform their duties without being influenced by any
+connection with the company, its significant shareholders or its management. As such, the
+following shall in no circumstances qualify as independent directors:
+
+a)
+
+b)
+
+c)
+
+q)
+
+e)
+
+fy
+
+9)
+
+h)
+
+Past employees or executive directors of Group companies, unless three or five
+years have elapsed, respectively, from the end of the employment relationship.
+
+Those who have received some payment or other form of compensation from the
+Company or its Group on top of their directors' fees, unless the amount involved is
+not significant. Payment shall not include for the purposes of the provisions of this
+article, dividends or pension top-ups paid to the director in connection with his or her
+former professional or employment relationship, so long as their settlement is
+unconditional in nature and the Company paying them cannot arbitrarily choose to
+suspend, modify or revoke their payment, unless the director is in breach of his or
+her obligations.
+
+Partners, now or in the past three years, in the external auditor or the firm
+responsible for the audit report, during the said period, of Enagas, S.A. or any other
+within its Group.
+
+Executive directors or senior officers of another company where an executive
+director or senior officer of Enagas, S.A. is an external director.
+
+Those having material business dealings with Enagas, S.A. or some other in its
+Group or who have had such dealings in the preceding year, either on their own
+account or as the significant shareholder, director or senior officer of a company that
+has or has had such dealings. Business dealings are considered those with
+suppliers of goods or services, including financial advisory and consultancy
+services.
+
+Significant shareholders, executive directors or senior officers of an entity that
+receives significant donations from Enagas, S.A. or its Group, or has done so in the
+past three years. Mere sponsors of a foundation receiving donations are not
+included here.
+
+Spouses, or partners maintaining an analogous affective relationship, or close
+relatives of one of the company's executive directors or senior officers.
+
+Any person not proposed for appointment or renewal by the Appointments,
+Remuneration and Corporate Responsibility Committee.
+
+Those standing in some of the situations listed in a), e), f) or g) above in relation toa
+significant shareholder or a shareholder with board representation. In the case of the
+family relations set out in letter g), the limitation shall apply not only in connection
+with the shareholder but also with his or her proprietary directors in the investee
+company. Proprietary directors disqualified as such and obliged to resign due to the
+disposal of shares by the shareholder they represent may only be re-elected as
+independents once the said shareholder has sold all remaining shares in the
+company.
+
+88
+
+
+--- Page 11 ---
+
+Consolidated Financial Statements at 31 December 2012
+
+Enagas Group
+
+ARTICLE 10.-
+
+A director with shares in the company may qualify as independent, provided he or
+she meets all the conditions stated in this article and the holding in question is not
+significant.
+
+TENURE AND CO-OPTION
+
+Directors may hold their post for a period of four years, and may be re-elected. Directors
+appointed by co-option will perform their functions until the date of the next General
+Shareholders’ Meeting.
+
+ARTICLE 11.-
+
+RE-APPOINTMENT OF DIRECTORS
+
+The Appointments, Remuneration and Corporate Responsibility Committee, responsible for
+evaluating the quality of work and dedication to the post of the directors proposed during the
+previous term of office, shall provide information required to assess proposal for re-
+appointment of directors presented by the Board of Directors to the General Shareholders’
+Meeting.
+
+As a general rule, appropriate rotation of independent directors should be endeavoured. For
+this reason, when one is proposed for re-election, the circumstances making his/her
+continuity in the post advisable must be justified. Independent directors should not stay on
+as such for a continuous period of more than 12 years.
+
+ARTICLE 12.-
+
+REMOVAL OF DIRECTORS.
+
+Directors shall leave their post after the first General Shareholders’ Meeting
+following the end of their tenure and in all other cases in accordance with law, the
+company’s bylaws and the present Regulations.
+
+Directors must place their office at the Board of Directors’ disposal, and tender, if
+the Board deems this appropriate, their resignation in the following cases:
+
+a)
+
+b)
+
+c)
+
+qd)
+
+e)
+
+When they are involved in any of the legally stipulated circumstances of
+incompatibility or prohibition.
+
+When they are in serious breach of their obligations as directors.
+
+When they may put the interests of the company at risk or harm its name and
+reputation. If a director is indicted or an order is issued to initiate a trial against
+him/her for a crime specified under article 213 of the Spanish Corporate
+Enterprises Act, the Board shall examine the matter as promptly as possible
+and, in view of the particular circumstances, decide where or not the director
+should be called on to resign.
+
+When the circumstances motivating their appointment as directors no longer
+exist.
+
+When independent directors no longer fulfil the criteria required under article 9.
+
+When the shareholders represented by proprietary directors dispose of their
+ownership interests. If such shareholders reduce their stakes, thereby losing
+some of their entitlement to proprietary directors, the latter’s number should be
+reduced proportionately.
+
+Should the Board of Directors not deem it advisable to have a director tender
+his/her resignation in the cases specified under letters d), e) and f), the latter must
+
+89
+
+
+--- Page 12 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+be included in the category that, in accordance with the present Regulations, is
+most appropriate based on his/her new circumstances.
+
+3.- The Board of Directors should not propose the removal of independent directors
+before the expiry of their tenure as mandated by the bylaws, except where just
+cause is found by the board, based on a report from the Appointments and
+Remuneration Committee.
+
+4.-_ After a director has been removed from his/her post, he/she may not work for a
+competitor company for a period of two years, unless the Board of Directors
+exempts him/her from this obligation or shortens its duration.
+
+Bylaw provisions affecting the amendment of the bylaws:
+ARTICLE 26. —- SPECIAL QUORUM.
+
+An ordinary or extraordinary General Meeting may validly resolve to increase or reduce
+capital, make any other alterations to the By-laws, issue bonds, remove or restrict the pre-
+emptive subscription right for new shares, and restructure, merge or split the company,
+transfer all the assets and liabilities thereof, or move the registered office to outside Spain, if,
+at the original date and time specified in the notice of meeting, there are present, in person
+or by proxy, shareholders representing at least fifty percent of voting subscribed capital.
+
+At second call, attendance of at least twenty-five percent of the paid up voting capital shall
+be sufficient.
+
+g) The powers of board members and in particular the power to issue or buy back shares
+
+The only members of the Board of Directors who have the power to represent the Company are its
+Chairman, Antonio Llardén Carratala (the Board of Directors granted him the powers that appear in the
+public deed executed on 9 February 2007 before Notary of Madrid Pedro de la Herran Matorras under
+number 324 of his protocol and as recorded in the Companies Registry of Madrid, Volume 20,090; Book 0;
+Folio 172, Section 8; Page M-6113; Record 668) and Chief Executive Officer, Marcelino Oreja Arburua (in
+whom the Board has vested the powers listed in the public deed executed on 5 December 2012 before
+Notary of Madrid Pedro de la Herran Matorras under number 2,680 of his protocol and as recorded in the
+Companies Registry of Madrid, Volume 20,601; Book 194; Folio 194, Section 8; Page M-6113; Record
+739). Although said powers encompass broad powers of representation, they do not include the ability to
+issue or buy back shares of the Company.
+
+Regardless of the foregoing, the tenth resolution adopted at the General Shareholders’ Meeting held on 30
+March 2012 is currently in force. Its terms are:
+
+“To grant the Board of Directors the broadest powers required by law to increase the Company’s
+share capital, once or several times, within a maximum period of five years from the date of the
+Meeting, under the terms of article 297.b) of the Spanish Corporate Enterprises Act, up to a
+maximum of 179 million euros, by issuing new shares, with or without voting rights, with or without
+a share premium, in exchange for cash, and to establish the terms and conditions of the capital
+increase and the features of the shares, with the possibility of offering freely new shares
+unsubscribed within the pre-emptive subscription period(s) and determine, if the shares are not
+fully subscribed, that capital will be increased only by the amount of the subscriptions made and,
+accordingly, to redraft the article of the Company bylaws regarding share capital.”
+
+h) Significant agreements to which the company is a party and which take effect, alter or
+terminate upon a change of control of the company arising from a takeover bid and the effects
+thereof except where such disclosure could pose a serious risk to the company. This exception is
+not applicable when the company is legally obliged to disclose the information.
+
+No agreements of this kind exist.
+
+90
+
+
+--- Page 13 ---
+
+Consolidated Financial Statements at 31 December 2012
+Enagas Group
+
+i) Agreements between the company and its board members or employees providing for
+compensation if they resign or are made redundant without valid reason or if their employment
+relation ends following a takeover bid.
+
+The Company has an agreement with the Executive Chairman, the Chief Executive Officer and seven of
+its officers that include express severance pay clauses.
+
+The clauses in each case are applicable in cases of company termination of the contract, unfair
+disciplinary dismissal, dismissal for the reasons outlined under article 52 of the Workers’ Statute or as
+decided by the manager citing one of the reasons outlined under article 50 of the Workers’ Statute
+provided the resolution is certified by means of conciliation between the parties, legal judgement,
+arbitration award, or resolution by a competent administrative body. They are not applicable if the
+resolution is the result of a unilateral decision made by the manager without just cause.
+
+The termination benefits envisaged for the Chairman are equivalent to three years’ pay, while those
+provided for the Chief Executive Officer are equivalent to two years’ pay.
+
+The termination benefits to which the seven officers are entitled depend on their length of service at the
+Company and their age.
+
+All such contracts have been approved by the Board of Directors.
+
+Vill.- Events after the balance sheet date
+
+The purchase agreement for the acquisition of 90% of Naturgas Energia Transporte S.A.U by Enagas
+Transporte S.A.U. from the Naturgas Group for 245 million euros was executed on 15 February 2013. Ente
+Vasco de la Energia continues to hold a 10% interest in the target. This company will be renamed Enagas
+Transporte del Norte.
+
+No events having a material impact on the Group’s financial statements have occurred between 31
+December 2012 and the date of authorising the accompanying consolidated financial statements for issue.
+
+91

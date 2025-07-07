@@ -1,0 +1,2725 @@
+
+
+--- Page 1 ---
+
+BACK TO CONTENTS
+
+Summary management report
+for fiscal year 2020/21
+
+CARL ZEISS MEDITEC GROUP
+Group structure
+
+The Carl Zeiss Meditec Group (hereinafter the Company, the Group) is an international company headquartered
+in Jena, Germany, with additional subsidiaries in and outside of Germany. Carl Zeiss Meditec AG is the
+
+parent company of the Carl Zeiss Meditec Group and is listed in the MDAX and TecDAX on the German Stock
+Exchange.
+
+The results of Carl Zeiss Meditec AG are influenced to a large extent by its subsidiaries, and the development
+of its business is generally subject to the same opportunities and risks as the Carl Zeiss Meditec Group. The
+outlook for the Group also largely mirrors the expectations for Carl Zeiss Meditec AG, due to the links between
+Carl Zeiss Meditec AG and its subsidiaries and due to the importance of Carl Zeiss Meditec AG within the
+Group. Therefore, for the purposes of a more compact presentation, the business development of Carl Zeiss
+Meditec AG and the Carl Zeiss Meditec Group are presented as a summary management report. Major
+investments of the Carl Zeiss Meditec Group as of 30 September 2021 are presented in the chart below:
+
+Investment structure of the Carl Zeiss Meditec Group as of 30 September 2021
+
+Carl Zeiss Meditec AG
+
+100% 100% 51% 100% 100%
+Carl Zeiss Meditec Carl Zeiss Meditec Carl Zeiss Meditec Carl Zeiss Meditec Carl Zeiss Meditec, Inc.
+Asset Management (Guangzhou) Ltd Co. Ltd. Iberia S.A. Dublin, CA, USA.
+Verwaltungs- Guangzhou, China Tokyo, Japan Tres Cantos, Spain
+gesellschaft mbH,
+Jena, Germany
+100% 49% 100% 100%
+Carl Zeiss Meditec Photono Oy Carl Zeiss Meditec Carl Zeiss Meditec
+Medikal Cézimler Helsinki, Finland Portugal USA Inc. _
+Ticaret ve Sanayi A.S. Unipessoal Lda Dublin, USA
+Ankara, Turkey Lisbon, Portugal
+100%
+Carl Zeiss Meditec
+Digital _
+100% 100% 100% Innovations LLC
+Atlantic S.A.S. Carl Zeiss Meditec Carl Zeiss Meditec Temple, Texas, USA
+|__ Perigny/La Rochelle, _____ S.A. _____ France S.A.S.
+France Perigny / La Rochelle, Marly-le-Roi, France
+France 5296
+Ophthalmic Laser
+Engines LLC —_]
+100% 100% 100% Lafayette, CO/USA
+Carl Zeiss Meditec France Chirurgie Additional
+|__ Vertriebsgesellschaft |__ instrumentation S.A.S. subsidiaries
+mbH Oberkochen, Paris, France 100%
+Germany Carl Zeiss Meditec
+Production LLC —
+100% Ontario, CA, USA
+HYALTECH Ltd.
+L__ Livingston,
+
+United Kingdom
+100%
+
+Carl Zeiss Meditec
+Cataract Technology, __|
+Inc.
+
+Reno, Nevada, USA
+
+30
+
+
+--- Page 2 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+There were no significant changes to the Group's reporting entity or the structure of its consolidated financial
+statements in fiscal year 2020/21.
+
+Markets
+
+With its headquarters in Jena (Germany) and additional plants and subsidiaries in Germany, France, Spain,
+the USA, Japan and China, among others, the Carl Zeiss Meditec Group has a direct presence in key medical
+technology markets. The Carl Zeiss Meditec Group also utilizes the distribution network of the ZEISS Group,
+with around 60 sales and service locations and more than 30 production sites, thus ensuring itself customer
+proximity in international competition. Aside from its own research and development (R&D) locations, the
+Carl Zeiss Meditec Group also has access to the expertise of the ZEISS Group. Of the around 27 research and
+development locations of the ZEISS Group worldwide, China and India, in particular, are important research
+centers. They offer the possibility of working with the customers on site, in order to gain a better regional
+understanding of the market and develop specific products that are tailored to market requirements.
+
+Organization and business activity
+
+The field of activity of the Carl Zeiss Meditec Group is essentially divided into two main areas in which the
+Company operates: Ophthalmology and Microsurgery. In order to ensure a strong customer focus, as well as
+one-stop, end-to-end solutions, this distinction is also reflected in the strategic business units (SBUs). Business
+operations are grouped according to areas of application and customer groups in both the Ophthalmic
+Devices (OPT) SBU and the Microsurgery (MCS) SBU
+
+Ophthalmic Devices
+Conditions such as ametropia (refraction), cataracts, glaucoma and retinal disorders, the incidence of which
+particularly increases with age and can become chronic in many cases, are treated in ophthalmology.
+
+In the Ophthalmic Devices strategic business unit the Company offers a wide range of products and solutions
+for the diagnosis and treatment of eye diseases, as well as systems and consumables particularly for cataract,
+retinal and refractive surgery. Customers here are both practicing ophthalmologists and optometrists, as well
+as physicians and surgeons in hospitals and outpatient surgery centers.
+
+In the field of diagnostics products include devices for general ophthalmological examinations (slit lamps,
+refractometers, tonometers), devices for examining the retina (optical coherence tomography (OCT), fundus
+cameras), as well as functional diagnostics equipment (perimeters). Digital products for the efficient organization
+of clinical workflows and for the storage and evaluation of clinical data complement the product range. The
+offering for surgical therapy (particularly for cataracts) includes, among other things, ophthalmic surgery
+microscopes, biometers and phacoemulsification/vitrectomy devices. The portfolio of microincision-capable
+intraocular lenses (IOL) ranges from the standard (monofocal lenses) to the premium segment (e.g. toric multi-
+focal lenses). The OR workstation is completed by software-based assistance systems such as CALLISTO eye®, to
+assist with the implantation of toric intraocular lenses. Surgeons are given the opportunity to further increase
+their efficiency with systems that are precisely tailored to the surgeon's workflow and integrated with each
+other. One example of this is the market launch of the new QUATERA® 700, an integrated workflow solution
+in the field of cataract surgery. The QUATERA® 700 merges all elements of the ZEISS Cataract Workflow by
+combining workflow steps and phaco steps from CALLISTO eye® into a single workflow.
+
+The product portfolio in the area of refractive surgery primarily includes systems and consumables for refractive
+surgery. This includes the SMILE® lenticule extraction procedure for the correction of vision defects using a
+
+minimally invasive procedure.
+
+31
+
+
+--- Page 3 ---
+
+32
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Microsurgery
+
+In the Microsurgery strategic business unit ZEISS provides visualization solutions for minimally invasive surgical
+treatments. The state-of-the-art surgical microscopes for neurosurgery are essential tools that are used, for
+example, in the surgical treatment of tumors or vascular conditions, such as aneurysms. KINEVO® 900, a robotic
+visualization system for neurosurgeons, is one good example of how ZEISS supports physicians in streamlining
+their workflows. Other key areas include ear, nose and throat (ENT), plastic and reconstructive (P&R) and dental
+and spinal surgery. Innovative add-on functions, such as cutting-edge video technologies, 3D imaging or
+intraoperative fluorescence options, offer the physician support for complex treatments. During the procedure,
+diagnostic data and information can be provided to the physician in the eyepiece or on monitors.
+
+Group strategy
+
+The Carl Zeiss Meditec Group's strategy is to achieve sustainable and profitable growth as market and
+technology leader in the field of ophthalmology and microsurgery. The product range aims to improve the
+treatment outcome and reduce treatment costs through efficient and effective approaches, and thus contribute
+to medical progress. From the Company's perspective, the key success factors are as follows: customer focus,
+innovation and integrated solutions for diagnosis and treatment.
+
+Customer focus
+
+Customers of the Carl Zeiss Meditec Group are facing major challenges in managing rising patient numbers,
+limited public funding and more demanding expectations of the treatment outcome. Integrated products
+and solutions can help customers to streamline workflows and cut costs. One example of this is the provision
+of clinical decision-making aids to the physician and possibilities to easily outsource routine tasks to medical
+support staff. Digitalization provides major opportunities in this respect, including in the area of data
+management solutions. A key prerequisite for the long-term success of the Carl Zeiss Meditec Group is a
+deep understanding of the challenges that the doctors are facing and a solution offering that is tailored to
+overcome these challenges.
+
+Innovation
+
+The Carl Zeiss Meditec Group strives to make cutting-edge technology in medical application accessible for
+practitioners and patients and to establish new benchmarks (gold standards) in diagnostics and therapy. Close
+collaboration with customers and continuous investment in research and development secure the Company's
+technological leadership.
+
+Integrated solutions
+
+The logical networking of devices and systems in the practice or clinic into integrated solutions plays an
+important role, giving customers the opportunity to make their workflows efficient, and to improve clinical
+outcomes through integrated availability and evaluation of the data. Comprehensive system integration,
+including IT-assisted analysis functions, is a key prerequisite for this. In the fiscal year under review the Company
+launched the ZEISS Medical Ecosystem. This is a concept that networks devices, data and applications to
+enable improved clinical efficiency and performance
+
+Corporate governance
+
+The central governing bodies within the Carl Zeiss Meditec Group are the Management Board and the
+Executive Committee. The Executive Committee is formed from the members of the Management Board of
+Carl Zeiss Meditec AG the heads of the two strategic business units Ophthalmic Devices and Microsurgery.
+The management levels below the Executive Committee perform their management responsibilities in
+
+
+--- Page 4 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+accordance with the organizational structure across regions and company locations. Cross-organizational
+functions, such as Finance, Communications or Human Resources, for example, are managed centrally. The
+strategies and projects are implemented locally at the country organizations in accordance with the respective
+prevailing laws, rules of procedure and bylaws, and the applicable corporate values and principles.
+
+As a company of the ZEISS Group, the Carl Zeiss Meditec Group is also subject to the global Code of Conduct
+of the ZEISS Group (“Code of Conduct of the ZEISS Group”). This stipulates the general rules of good and fair
+conduct in competition and when dealing with our employees and customers. The Code of Conduct sets out
+the fundamental ethical principles of good conduct and values which govern the actions of both management
+and employees in their day-to-day work at the Company.
+
+Corporate management
+
+The consistent implementation of the Group strategy aims to ensure a long-term increase in value. A
+comprehensive system of key performance indicators serves as a tool for the financial management of the
+Carl Zeiss Meditec Group. The greatest importance is attached to Economic Value Added® (EVA®)', Free Cash
+Flow (FCF), the EBIT margin and revenue growth. These control ratios define the balance between growth,
+profitability and financial power, upon which sustainable growth of the Company is built. These key performance
+indicators are therefore defined as control variables. These are supplemented by strategic measures and projects
+in the areas of customer excellence, people/performance culture and operational excellence.
+
+BUSINESS REPORT?
+
+Underlying conditions for business development
+
+Macroeconomic conditions*
+
+Fiscal year 2020/21 was still considerably impacted by the COVID-19 pandemic. After the abrupt decline in
+demand and production, followed by a gradual recovery in 2020, economic growth picked up strongly again,
+especially in 2021. The affected countries and industries are recovered to varying degrees, however, and at
+varying speeds. Capacity and supply bottlenecks led to price increases. In particular, this meant that the high
+demand from customers could not be fully met in the manufacture of semiconductor chips.
+
+Situation in the medical technology industry
+
+The Company sees medical technology as a steadily growing industry in the medium and long term. Growth
+drivers are medical progress, the aging population due to demographic development and global population
+growth. A distinction should be made here between western industrialized nations and growing markets. In
+the Management Board's view, rising per capita income creates a favorable condition for increasing the
+demand for basic medical care in rapidly growing economies, as well as the growing willingness of people in
+
+‘Calculation: EVA® = operating result (EBIT) after taxes plus write-downs on intangible assets arising from purchase price allocations in
+the amount of €7.5m less cost of capital in the amount of €55.5m for fiscal year 2020/21. (calculation of cost of capital: average capital
+employed, adjusted for write-downs on intangible assets arising from purchase price allocations (“gross” asset basis) (2020/21: €840.9m),
+multiplied by the cost of capital rate (2020/21: 6.6%).
+
+2 Calculation: Free cash flow (FCF) = EBIT = changes in trade receivables changes in inventories including advance payments + changes in
+provisions (excluding provisions for pensions and provisions for taxes) + changes in current accrued liabilities + changes in trade payables
++ changes in advance payments received + changes in leasing liabilities + changes in other assets and liabilities - increase in investment in
+property, plant and equipment and intangible assets + write-downs on intangible assets and property, plant and equipment - acquisition of
+investments.
+
+* Due to the finalization of the purchase price allocation of the acquisition of Photono Oy a number of the prior-year figures as of 30 Septem-
+ber 2020 have been adjusted. For further information, please refer to section 3 "Purchase and sale of business operations" of the notes to
+the consolidated financial statements.
+
+“IMF: World economy outlook update July 2021
+
+33
+
+
+--- Page 5 ---
+
+34
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+the western regions to take advantage of better-quality services. Furthermore, the Company expects the number
+of patients suffering from age-related illnesses to rise continuously. At the same time, it is anticipated that the
+need for comprehensive, high-quality health care will also increase. An increased demand from patients and a
+strong willingness of self-payers to make use of premium services play a major role from the Company's
+perspective. At the same time, the cost pressure in the health care systems is leading to price-driven competition.
+In terms of product development and licensing, increasing regulation and varying regional regulatory requirements
+are posing growing challenges. Equally high are the requirements for manufacturers and for products and
+solutions that both increase workflow efficiency for customers and offer more effective treatment methods for
+patients.
+
+The management anticipates further growth in the long term, in both microsurgery and ophthalmology, as the
+demand for diagnostic and therapeutic devices and systems and for implants and consumables will increase
+further due to rising numbers of cases.
+
+a) Market for ophthalmic products
+
+The market for ophthalmic products in the broader sense includes devices and systems for the diagnosis,
+treatment and post-treatment of eye diseases, implants for ophthalmic surgery and ophthalmic pharmaceuticals,
+contact lenses, contact lens care products, consumables — with the exception of glasses and glasses frames.
+According to the Company's estimates, the market had a global volume of around US$41.2b (about €36.8b)
+
+in 2020.* The Company's product range includes devices and systems, implants, consumables and instruments
+for ophthalmology and ophthalmic surgery. According to the Company's estimates, these sub-markets had a
+volume of around US$10.4b (around €9.3b*) in 2020. On this basis, the Company estimates its market share by
+revenue in 2020 at around 11% and now considers itself the second-largest supplier worldwide in this market
+behind the ophthalmic surgery business of Alcon.
+
+Due to the global COVID-19 pandemic, the market for equipment and systems, implants, consumables and
+
+instruments for ophthalmology also recorded a significant decline of approximately -12% in 2020 compared
+with the prior year. The Company expects to see a recovery to around the level of 2019 in 2021. In the long
+term, and aside from annual fluctuations, the Carl Zeiss Meditec Group still expects the market for products
+for ophthalmology to continue growing, due to the unchanged demographic and other growth drivers.
+
+Overall, based on the information at hand, the Company expects to have increased its market share in the
+product segments it addresses, compared with the prior year.
+
+b) Market for microsurgery products
+
+Aside from ophthalmology the Company also operates in the microsurgery market. Surgical microscopes are
+a subsection of this market. Applications are particularly in neuro/ENT surgery, as well as other areas, such as
+spinal, OMF, plastic and reconstructive and dental surgery.
+
+According to the Company's estimates, this product segment had a total volume of around US$0.6b
+(around €0.5b)°.
+
+With an estimated market share of over 50%, the Carl Zeiss Meditec Group is the largest supplier in this field
+and the clear market leader.
+
+Due to the global COVID-19 pandemic, the market experienced a significant decline in 2020, which is assumed
+
+to be a temporary effect. The Carl Zeiss Meditec Group expects the market for microsurgical products to
+continue to grow in the medium term, irrespective of year-to-year fluctuations.
+
+® At average rate for fiscal year 2019/20 (€1 = US$1.1197)
+
+
+--- Page 6 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Overall assertion on the financial position of Carl Zeiss Meditec Group
+at the end of the fiscal year
+
+In an ad hoc disclosure on 19 April 2021 the Company's management firmed up its forecast for fiscal year 2020/21
+due to the further normalization of demand from the impacts of the COVID-19 pandemic. Due to further
+increases in growth and revenue in the months that followed the Company raised its targets for fiscal year
+2020/21 by way of an ad hoc disclosure on 16 July 2021, according to which revenue was expected to exceed
+the target set in April of around €1.6b. The EBIT margin was expected to significantly exceed the target set in
+April of around 20%, bolstered to a great extent by the currently low selling and marketing expenses.
+
+With revenue of €1,646.8m (prior year: €1,335.5m) and growth of 23.3% (adjusted for currency effects:
+26.5%), the Carl Zeiss Meditec Group fulfilled the most recent forecast of revenue exceeding around €1.6b
+for fiscal year 2020/21.
+
+The SBU Ophthalmic Devices generated revenue of €1,255.7m (prior year: €990.6m), which equated to
+growth of 26.8% (adjusted for currency effects: 29.8%), thus significantly exceeding market growth, which
+was estimated in the low to mid-single-digit percentage range. This increase is in particular attributable to
+strong business in the areas of refractive lasers and surgical ophthalmology. The Ophthalmic Diagnostics
+segment also grew.
+
+The Microsurgery SBU generated revenue of €391.1m (prior year: €344.8m), thus recording an increase of
+13.4% (adjusted for currency effects: 17.1%) compared with the prior year. The SBU therefore surpassed
+market growth significantly, which was estimated to be in the low to mid-single-digit percentage range.
+
+Earnings before interest and taxes (EBIT) more than doubled to €373.6m (prior year: €177.6m). Relative to
+revenue, the Carl Zeiss Meditec Group achieved an EBIT margin of 22.7% (prior year: 13.3%), thus achieving
+the target of significantly exceeding around 20%, as stated in the ad hoc disclosure published on 16 July 2021.
+The positive development of the EBIT margin was due, among other things, to a more favorable product mix
+with a high proportion of recurring revenue, accompanied at the same time by continued low selling and
+marketing expenses due to the COVID-19 pandemic
+
+The EBIT margin in the strategic business unit Ophthalmic Devices increased significantly as a result of a
+favorable development of the product mix due to an increased proportion of consumables compared with the
+prior year, ultimately increasing to slightly above the Group average. The EBIT margin of the Microsurgery
+strategic business unit was down year-on-year to slightly below the Group average.
+
+Due to the strong earnings performance, cash flows from operating activities for fiscal year 2020/21 rose to
+€362.7m (prior year: €178.5m), which is a significant increase compared with the prior year.
+
+Free cash flow increased significantly in fiscal year 2020/21 to €380.7m (prior year: €185.8m). EVA® increased
+from €68.5m in the prior year to €214.1m.
+
+In order to maintain its innovative strength and ensure future growth, the Company invests continuously in
+
+research and development. In fiscal year 2020/21 R&D expense ratio went down to 14.1% of revenue
+(prior year: 16.4%). The decline is primarily due to the strong revenue growth.
+
+35
+
+
+--- Page 7 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Comparison of actual business development with forecast development in the fiscal year 2020/216
+
+Results Forecast
+2020/21 2020/21
+
+Revenue growth of the Carl Zeiss Meditec Group +23.3% Growth at least in low to mid-single-digit
+percentage range
+
+Revenue growth of the Ophthalmic Devices SBU +26.8% Growth at least in low to mid-single-digit
+percentage range
+
+Revenue growth of the Microsurgery SBU +13.4% Growth at least in low to mid-single-digit
+percentage range
+
+EBIT +110.4% Return to renewed growth
+
+Cash flows from operating activities €362.7m At least low three-digit million amount
+
+Research and development expenses (see prior year) +6.1% Increase by at least a high single-digit
+percentage amount
+
+Free cash flow (FCF) €380.7m At least low three-digit million amount
+
+Economic Value Added® (EVA®) €214.1m At least at comparable level to
+
+fiscal year 2019/20
+
+Results of operations
+
+Presentation of results of operations
+
+Summary of key ratios in the consolidated income statement
+figures in €m, unless otherwise stated
+
+2020/21 2019/20 Change
+
+Sales 1,646.8 1,335.5 +23.3%
+Gross margin 58.7% 55.8% +2.9% pts
+EBIT 373.6 1776 +110.4%
+EBIT margin 22.7% 13.3% +9.4% pts
+Earnings before income taxes 339.1 178.7 +89.7%
+Tax rate 29.9% 30.9% “1.0% pts
+Consolidated profit after non-controlling interests 236.3 122.4 +93.1%
+Earnings per share after non-controlling interests €2.64 €1.37 +93.1%
+
+Revenue
+
+In fiscal year 2020/21, the Carl Zeiss Meditec Group increased its revenue significantly by +23.3% to €1,646.8m
+(prior year €1,335.5m). Currency effects had a material adverse effect, however; currency-adjusted growth
+amounted to +26.5%. Both strategic business units contributed, as did all regions, although the strongest
+growth rates were achieved in the APAC region.
+
+Due to the gradual easing of the effects of the COVID-19 pandemic, bolstered in part by the global vaccination
+campaigns, demand increased significantly. Given the capacity bottlenecks that remain to some extent in the
+supply chains, there was a temporary increase in production and lead times for a number of key products in the
+equipment business. Both strategic business units were affected by this. Orders received therefore increased
+even more significantly than revenue in fiscal year 2020/21, from €1,340.5m to €1,731.0m (+29.1%; adjusted
+for currency effects: +32.6%).
+
+® By way of ad hoc disclosures on 19 April 2021 and again on 16 July 2021, the Company's management firmed up and increased its forecast
+published on 11 December 2020 for fiscal year 2020/21, due to the further normalization of demand following the effects of the COVID-19
+pandemic in fiscal year 2020/21
+
+
+--- Page 8 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Revenue of Carl Zeiss Meditec Group in €m/growth in %
+
+2020/21 1,646.8 /23. 3
+2019/20 1,335.5/-8.5
+2018/19 1,459.3/13.9
+
+a) Revenue by strategic business unit
+
+The strategic business unit Ophthalmic Devices accounted for more than three quarters (76.3%) of the
+Carl Zeiss Meditec Group's total revenue in the fiscal year under review (prior year: 74.2%). The strategic
+business unit Microsurgery generated 23.7% (prior year: 25.8%) of total revenue.
+
+Share of strategic business units in revenue of the Carl Zeiss Meditec Group in fiscal year 2020/21
+
+Ophthalmic Devices 76.3%
+
+Microsurgery 23.7%
+
+Revenue of the SBU Ophthalmic Devices was significantly higher compared with the prior year, increasing by
++26.8% (adjusted for currency effects: +29.8%) to €1,255.7m (prior year: €990.6m).
+
+Once again, the refractive lasers business proved to be a growth driver, benefiting in particular from high
+levels of procedure-dependent revenue, as well as good demand in Surgical Ophthalmology. The segment for
+devices and systems for diagnostics also made a positive contribution to the development of revenue
+
+Revenue from consumables and services (recurring revenue), increased further in fiscal year 2020/21. The
+proportion of recurring revenue in the Carl Zeiss Meditec Group’s total revenue amounted to 41.0% for fiscal
+year 2020/21 (prior year: 38.8%).
+
+Orders received increased from €996.3m to €1,318.8m, also to a greater extent than revenue (+32.4%;
+adjusted for currency effects: +35.7%). This was attributable, among other things, to a strong recovery of
+demand as well as the increase in production and lead times for a number of key products due to the still
+limited capacities in the supply chains and materials procurement as a result of the COVID-19 pandemic
+
+Revenue in the SBU Microsurgery amounted to €391.1m for fiscal year 2020/21, an increase of +13.4%
+compared with the prior year (prior year: €344.8m). Adjusted for currency effects, this revenue growth
+amounted to +17.1%. At the start of fiscal year 2020/21 revenue in the strategic business unit Microsurgery
+was still declining, due in particular to continued restrictions as a result of the COVID-19 pandemic, while
+orders received had already reached the level of the prior year on a currency-adjusted basis and were showing
+a positive trend again at the half-year mark. Over the further course of fiscal year 2020/21 there were
+further noticeable trend improvements compared with the prior-year quarters, which led, accompanied by an
+accelerated recovery of sales in the second half of fiscal year 2020/21, to a significant increase in revenue
+again compared with the prior year.
+
+Orders received in Microsurgery increased by +19.7% (adjusted for currency effects: +23.8%) from €344.2m
+to €412.2m. This was attributable, among other things, to a strong recovery of demand as well as the
+
+37
+
+
+--- Page 9 ---
+
+38
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+increase in production and lead times for a number of key products due to the still limited capacities in the
+supply chains and materials procurement as a result of the COVID-19 pandemic.
+
+Revenue by strategic business unit
+
+2020/21 2019/20 Change in %
+
+Adjusted for currency
+
+€m €m effects
+
+Ophthalmic Devices 1,255.7 990.6 426.8 +29.8
+Microsurgery 391.1 344.8 413.4 417.1
+Carl Zeiss Meditec Group 1,646.8 1,335.5 +23.3 +26.5
+
+b) Revenue by region
+
+In fiscal year 2020/21, 46.5% (prior year: 44.1%) of total revenue was attributable to the APAC region. The
+EMEA region accounted for 26.2% (prior year: 27.1%) of total revenue, while the Americas region accounted
+for 27.3% (prior year: 28.8%) of total revenue
+
+Share of the regions in revenue of the Carl Zeiss Meditec Group in fiscal year 2020/21
+
+EMEA 26.2%
+Americas 27.3%
+
+APAC 46.5% |
+
+Revenue in the EMEA region increased by +19.4%, from €362.4m to €432.6m. After adjustment for currency
+effects, this Increase amounted to +21.2%. The core markets Germany, France and the countries of Southern
+Europe, and the UK, demonstrated a solid performance, in spite of the remaining COVID-19 restrictions
+during the year, particularly in the area of distribution and marketing
+
+Revenue in the Americas region increased by +16.9%, to €448.9m (prior year: €384.0m). After adjustment
+for currency effects, this Increase amounted to +23.9%. Although the U.S. business was already almost at
+the prior-year level at the beginning of fiscal year 2020/21, the economy has recovered further, also because
+of the progressive vaccination coverage and an accompanying steady acceleration of sales since the second
+quarter of the fiscal year.
+
+Revenue in the APAC region increased significantly due to good contributions to growth, especially from
+China and South Korea. The fact that this region was less impacted overall by COVID-19 restrictions compared
+with the EMEA and Americas regions in the fiscal year under review also had a positive effect in this respect
+With revenue growth of +29.9% (adjusted for currency effects: +31.6%), revenue increased to €765.3m (prior
+year: €589.0m). The countries of Southeast Asia also performed well, while the development of revenue in
+Japan was more or less stable compared with the prior year, but increased at an accelerated rate particularly
+in the fourth quarter.
+
+
+--- Page 10 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Revenue of the Carl Zeiss Meditec Group by region
+
+2020/21 2019/20 Change in %
+
+Adjusted for currency
+
+€m €m effects
+
+EMEA. 432.6 362.4 419.4 421.2
+Americas 448.9 384.0 +16.9 423.9
+APAC 765.3 589.0 429.9 431.6
+Carl Zeiss Meditec Group 1,646.8 1,335.5 +23.3 +26.5
+
+Gross profit
+
+Gross profit in fiscal year 2020/21 amounted to €967.2m (prior year: €745.5m). The gross margin reached
+58.7% in the reporting period (prior year: 55.8%). The strong revenue growth and a favorable product mix
+with a higher proportion of case-number-dependent business, particularly in the Ophthalmic Devices SBU,
+contributed to a positive margin trend.
+
+Functional costs
+
+Functional costs increased to €596.0m in the year under review (prior year: €568.0m), mainly due to the
+strong sales performance and an increase in research and development expenses. This 4.9% increase was
+significantly lower than the increase in revenue. The share of functional costs in revenue declined to 36.2%
+compared with 42.5% in the prior year.
+
+» Selling and marketing expenses: There was only a slight increase in selling and marketing expenses in
+the fiscal year under review, from €292.8m to €303.2m, due to the COVID-19 pandemic and the resulting
+restrictions, especially for sales-related advertising and travel activities. Relative to revenue, selling and
+marketing expenses ratio was below the previous year's level, at 18.4% (prior year: 21.9%).
+
+» General administrative expenses: Expenses in this area amounted to €60.7m (prior year: €56.3m). Relative
+to revenue, there was a slight decline in the share of general administrative expenses compared with the
+prior year, to 3.7% (prior year: 4.2%).
+
+» Research and development expenses: The Carl Zeiss Meditec Group invests continuously in R&D, in order
+to further develop its product portfolio and ensure further growth. R&D expenses increased to €232.1m
+in the reporting period (prior year: €218.8m). Due to the strong development of revenue, the R&D ratio
+remained significantly behind the prior-year period, at 14.1% (prior year: 16.4%).
+
+Development of earnings
+
+The Carl Zeiss Meditec Group uses earnings before interest and taxes (EBIT = operating result) as a key
+performance indicator. The Carl Zeiss Meditec Group generated earnings before interest and taxes of
+€373.6m in the reporting period (prior year: €177.6m). The strong revenue growth as well as a favorable
+product mix with a high proportion of recurring revenue contributed to a positive margin trend. In addition,
+the persistently low selling and marketing expenses due to to the COVID-19 pandemic benefited the
+development of earnings compared with the prior year. The EBIT margin increased from 13.3% in the prior
+year, to 22.7%.
+
+39
+
+
+--- Page 11 ---
+
+40
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+EBIT in €m/EBIT margin in %
+
+2020/21 3736/22.
+2019/20 177.6/13.3
+2018/19 264.7/18.1
+
+EBIT in fiscal year 2020/21 included negative effects due to write-downs from purchase price allocations
+(PPA), in the amount of €7.5m.
+
+Overview of effects of purchase price allocations included in EBIT and other special effects’
+
+2020/21 2019/20 Change
+
+m m in%
+
+EBIT 373.6 177.6 +110.4
+Effects of purchase price allocations 75 “6.2 21.6
+Other special effects 42.4 0.0 :
+Total effects 5.1 6.2 417.1
+
+In the SBU Ophthalmic Devices, the EBIT margin increased mainly as a result of a more favorable product mix
+with a higher proportion of recurring revenue. At 22.9% (prior year: 9.7%), it was still above the EBIT margin
+for the Company as a whole. The EBIT margin in the strategic business unit Microsurgery decreased slightly
+and, at 22.0% (prior year: 23.7%), was slightly lower than the EBIT margin for the Group as a whole. Aside
+from the more restrained sales trend, particularly at the beginning of fiscal year 2020/21, this was also largely
+due to the lower proportion of recurring revenue compared with the strategic business unit Ophthalmic
+Devices.
+
+Earnings before interest, taxes, depreciation and amortization (EBITDA) amounted to €435.2m for the fiscal year
+under review (prior year: €238.0m). At 26.4%, the EBITDA margin was up year-on-year (prior year: 17.8%).
+
+Net interest income and interest expenses amounted to -€7.0m in the reporting period (prior year: -€25.8m).
+Interest expenses mainly include the annual interest cost of the liability arising from the contingent purchase
+price obligation for lanTECH Inc. as well as the adjustment of capital costs for the measurement of this liability.
+
+Currency effects amounting to €-25.1m arose within the financial result in fiscal year 2020/21 as a result of
+foreign currency losses on hedges (prior year: currency effects of €4.5m due to foreign currency gains on
+currency hedges), due in particular to fluctuations in the exchange rate between the euro and the Chinese
+renminbi. The other financial result of €-1.7m was influenced in fiscal year 2020/21 mainly by the remeasurement
+of the contingent purchase price obligation arising from the acquisition of lanTECH, Inc. (prior year: €23.1m).
+
+The tax rate for the reporting period was 29.9% (prior year: 30.9%). As a general rule, an average annual tax
+rate of around 30% is assumed.
+
+Consolidated profit attributable to the shareholders of the parent company amounted to €236.3m for fiscal
+year 2020/21 (prior year: €122.4m). Non-controlling interests accounted for €1.2m (prior year: €1.0m). In
+fiscal year 2020/21, basic earnings per share of the parent company amount to €2.64 (prior year: € 1.37).
+
+* Write-downs on intangible assets arose from the purchase price allocations (PPA), mainly in connection with the acquisitions of lanTECH, Inc.
+in fiscal year 2018/19 and Aaren Scientific Inc. in fiscal year 2013/14. There was also a one-time positive effect in fiscal year 2020/21 resulting
+from the proceeds from the sale of a property.
+
+
+--- Page 12 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Financial position
+
+Objectives and principles of financial management
+A key objective of the Carl Zeiss Meditec Group's financial management is to safeguard liquidity and increase
+this efficiently throughout the Group.
+
+For the Group, operative business is the main source of liquidity for the individual business units, which is also
+reflected in its strategic orientation and financial activities. The Company therefore operates a global financial
+management system that encompasses all of its subsidiaries and is centrally organized at Group level. The
+Company also strives to continuously improve its financial power and reduce financial risks by keeping a constant
+check on the solvency of its debtors, which also involves the use of financial instruments.
+
+The Company deposits any liquidity it does not require at normal market conditions with the treasury of
+
+Carl Zeiss AG. When investing surplus liquidity, short-term availability generally comes before the goal of
+maximizing earnings, so that funds can be accessed quickly if, for example, acquisition opportunities arise. The
+Carl Zeiss Meditec Group has production plants in the USA, Europe and China. This means that the influence
+of exchange rate fluctuations can be reduced. The remaining currency risk is hedged by simple futures trading.
+Details on this can be found in the notes to the consolidated financial statements under “(2) (i) Financial
+instruments”, “(27) Additional disclosures on financial instruments”, “(37) Financial risk management’, “(2) (u)”
+and “(35) Related party disclosures” and in the annual financial statements of Carl Zeiss Meditec AG under
+
+4 “Information and explanatory notes on accounting and valuation principles”, paragraph “Derivative financial
+instruments” and 8 “Receivables from affiliated companies”.
+
+Financial management
+The ratio of borrowed capital to equity amounts to 42.8% as of 30 September 2021 (prior year: 38.9%).
+
+The Company's dynamic gearing ratio was -0.7 years for fiscal year 2020/21 (prior year: -0.8 years)®.
+
+The interest coverage ratio, i.e., the coverage of interest income by the operating result before depreciation and
+amortization (EBITDA), amounted to 55.8 (prior year: 9.0).
+
+Cash inflows generated from operating activities provide another important source of financing for the
+Carl Zeiss Meditec Group. Furthermore, the Company has the option to assume loans, either from the treasury
+of Carl Zeiss AG or from banks.
+
+For further information on the financial liabilities of the Carl Zeiss Meditec Group please refer to note "(24)
+Non-current financial liabilities", "(25) Current accrued liabilities" and "(26) Other current non-financial liabilities’
+in the accompanying notes to the consolidated financial statements and in the annual financial statements of
+Carl Zeiss Meditec AG under 8 “Receivables from affiliated companies” and 14 “Liabilities”.
+
+As the Company possesses sufficient cash funds to finance its operating and strategic objectives, changes in
+credit conditions do not currently have any material effect on its financial position.
+
+Separate reporting on financial instruments
+
+The Carl Zeiss Meditec Group is exposed to currency fluctuation risks, due to its international business activities
+in numerous different currencies. Significant currency risks are hedged against with hedging transactions, based
+on a rolling business plan
+
+8 Calculation: borrowings excluding non-controlling interests, less cash and cash equivalents and less treasury receivables/cash flows from
+operating activities.
+
+41
+
+
+--- Page 13 ---
+
+42
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Hedges are mainly transacted centrally by Carl Zeiss Financial Services GmbH. The services provided by
+
+Carl Zeiss Financial Services GmbH to Carl Zeiss Meditec AG and its subsidiaries are regulated by corresponding
+general agreements. The hedges are processed by Carl Zeiss Financial Services GmbH with external business
+banks. Hedges are entered into solely via banks with high credit ratings given by leading agencies. The
+business transactions are executed with strict separation of functions between the front office (trade), middle
+office (financial risk management, controlling) and back office (processing, documentation).
+
+Value-at-risk analyses, together with scenario, sensitivity and stress test analyses, are implemented in risk
+control and monitoring, to quantify the currency risks. Hedging rates are specified for operative control of
+all relevant currencies. Limits were defined to limit risks relating to contracting parties and transaction types.
+Derivative financial instruments are exclusively used for hedging purposes.
+
+Statement of cash flows
+
+The Carl Zeiss Meditec Group's statement of cash flows shows the origin and utilization of the cash flows
+during a fiscal year. A distinction is made between cash flows from operating activities and cash flows from
+investing and financing activities
+
+Changes in individual items in the income statement and the statement of financial position are recorded in
+the statement of cash flows. In contrast, the consolidated statement of financial position presents the figures
+as they stood at the end of the reporting period on 30 September 2021. As a result, the statements in the
+analysis of the financial position may differ from the presentation of net assets based on the consolidated
+statement of financial position
+
+Summary of key ratios in the statement of cash flows in €m
+
+@ 2020/21 2019/20
+
+Cash flows from operating 362.7 es
+activities 178.5
+
+Cash flows from investing “75.2 —
+
+activities 70.9
+
+Cash flows from financing 23.
+
+activities “123.0
+
+Change in cash and cash 12
+
+equivalents 16.4
+
+Cash flows from operating activities amounted to €362.7m in the fiscal year under review, mainly due to
+the positive development of earnings (prior year: €178.5m). There was no further increase in inventories,
+which had a positive effect in fiscal year 2020/21. This was in contrast with stockpiling of certain products
+and components in the prior year, to ensure deliveries during the COVID-19 pandemic. An increase in trade
+payables also had a positive effect on the development of cash flow. This was offset by a sales-related
+increase in trade receivables.
+
+Cash flow from investing activities amounted to €-75.2m in fiscal year 2020/21 (prior year: €-70.9m) and
+arose primarily from investments in property, plant and equipment and intangible assets due, among other
+things, to the capitalization of research and development expenses. There was also a cash outflow arising,
+among other things, from the purchase price obligations in connection with the acquisition of lanTECH, Inc.
+in fiscal year 2018/19 and Photono Oy in fiscal year 2019/20. A cash inflow was generated, among other
+things, from the proceeds from the sale of a property.
+
+
+--- Page 14 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Cash flows from financing activities amounted to €-285.9m in the fiscal year under review (prior year:
+€-123.0m). The higher cash outflow in fiscal year 2020/21 is mainly attributable to an increase in treasury
+receivables from the treasury Carl Zeiss AG
+
+Free cash flow increased in fiscal year 2020/21 to €380.7m (prior year: €185.8m). Net cash? rose to
+€939.9m (prior year: €708.2m).
+
+Investment and depreciation policy
+
+Continuous investments are required to further expand the Company's market position in the medical
+technology sector. A distinction is made between two types of investment: capacity expansions and replacement
+investments. These investments are primarily financed from cash flow from operating activities.
+
+The production of devices and systems at the Company is generally restricted to the integration of individual
+components to create system solutions. For this reason, investments in property, plant and equipment are
+comparatively low. One exception, however, is the production of intraocular lenses, which generally demands
+higher investments due to a larger vertical range of manufacture.
+
+Nevertheless, the required investment of capital in real assets is limited within the Company, which is evident
+from the development of the capex ratio — the ratio of total investments’? in property, plant and equipment
+(cash) to consolidated revenue. In fiscal year 2020/21, it was 1.8% (prior year: 2.2%).
+
+At Carl Zeiss Meditec AG and its subsidiaries intangible assets and property, plant and equipment are subject
+to scheduled, straight-line amortization and depreciation, respectively, over their estimated useful lives.
+Further details on this can be found in note "(2) (g) Other intangible assets" and "(2) (h) Property, plant and
+equipment" in the accompanying notes to the consolidated financial statements and in note 5 “Fixed assets”
+in the annual financial statements of Carl Zeiss Meditec AG.
+
+Key ratios relating to financial position
+
+Key ratios relating to financial position
+
+30 Sep 2021 30 Sep 2020 Change
+
+Key ratio Definition €m m in%
+Cash and cash equivalents Cash-in-hand and bank balances 74 62 #19.9
+Net cash and cash Cash-in-hand and bank balances 939.9 708.2 432.7
+equivalents + treasury receivables from the treasury of
+
+Carl Zeiss AG
+
+/. treasury payables to Group treasury of Carl Zeiss AG
+Net working capital Current assets including financial investments 216.0 284.7 “24.1
+
+/. cash and cash equivalents
+/. treasury receivables from treasury of Carl Zeiss AG
+/. current liabilities excl. treasury payables to Group
+treasury of Carl Zeiss AG
+
+Working capital Current assets 1,155.9 992.9 416.4
+J. current liabilities
+
+Key ratio Definition 2020/21 2019/20 Change
+
+Cash flow per share Cash flows from operating activities €4.05 €2.00 +103.1%
+
+Weighted average of shares outstanding
+
+Capex ratio Investment (cash) in property, plant and equipment 1.8% 2.2% -0.4% pts
+
+Revenue of Carl Zeiss Meditec Group
+
+* Includes receivables from and liabilities to the treasury of the Carl Zeiss AG, as defined in the table “Key ratios relating to financial position’.
+'2In fiscal year 2020/21, investments in property, plant and equipment (cash) totaled €30.1m after €29.3m in the prior year.
+
+43
+
+
+--- Page 15 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Net assets
+
+Presentation of net assets
+Total assets increased to €2,396.0m as of 30 September 2021 (prior year: €2,014.9m).
+
+Structure of statement of financial position - Assets in €m
+
+@ Current assets @ Non-current assets Goodwill
+including assets held for sale (excluding goodwill)
+Consolidated total 2,396.0 1,604.0 463.2 328.7
+assets Le
+30 Sep 2021
+Total group assets 2,014.9 1,293.8 394.6 326.5
+30 Sep 2020
+
+Non-current assets increased from €721.1m as of 30 September 2020 to €792.0m as of 30 September 2021.
+This was due in particular to an increase in property, plant and equipment associated with the rental of the
+new building in Dublin, California
+
+Current assets including assets held for sale amounted to €1,604.0m (30 September 2020: €1,293.8m). Due
+to the strong sales trend, trade receivables and trade receivables from related parties increased compared with
+the prior year. Treasury receivables also increased significantly.
+
+Structure of statement of financial position - Equity and liabilities in €m
+
+Mi Equity lm Current liabilities Non-current liabilities
+Total group assets 2,396.0 1,677.4 448.1 270.5
+30 Sep 2021 Te
+Total group assets 2,014.9 1,450.6 297.6 266.7
+
+30 Sep 2020 rr
+
+The equity recognized in the Carl Zeiss Meditec Group's statement of financial position amounted to
+€1,677.4m as of 30 September 2021 (30 September 2020: €1,450.6m). The equity ratio was 70.0%
+(30 September 2020: 72.0%) and thus remained high
+
+Non-current liabilities increased slightly to €270.5m as of 30 September 2021 (30 September 2020:
+€266.7m). Non-current leasing liabilities increased due to the leasing of the new building in Dublin, California.
+
+As of 30 September 2021, current liabilities amounted to €448.1m (30 September 2020: €297.6m). Trade
+payables increased as a result of the strong sales trend, among other things. Current financial liabilities
+increased due to currency forward contracts.
+
+
+--- Page 16 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Key ratios relating to net assets
+
+Key ratios relating to net assets
+
+30 Sep 2021 30 Sep 2020 Change
+Key ratio Definition in % in% % pts
+Equity ratio Equity (including non-controlling interests) 70.0 72.0 “2.0
+
+Total assets
+
+Inventories in % Inventories (net) 17.4 21.4 “4
+of rolling 12-month
+revenue" Rolling revenue
+Receivables in % Trade receivables at the end of the reporting period 20.0 20.0 -
+of rolling 12-month (including non-current receivables)
+revenue"
+
+Rolling revenue
+
+Orders on hand
+
+The Carl Zeiss Meditec Group's orders on hand amounted to €273.9m as of 30 September 2021, an increase
+of +47.2% (30 September 2020: €186.2m). Due to the strong recovery of demand as a result of the further
+easing of the economic effects of the COVID-19 pandemic, the lead times for a number of key products in the
+equipment business had increased significantly at the end of fiscal year 2020/21, as there were bottlenecks in
+the procurement of materials.
+
+Events of particular significance
+
+There were no other events of particular significance during fiscal year 2020/21.
+
+NON-FINANCIAL PERFORMANCE INDICATORS
+Sustainability
+
+Traditionally, the Company attaches great importance to commitment to the common good and the environment.
+In the opinion of the company management, social responsibility does not just shape corporate culture
+internally, but also plays an important role externally.
+
+The sustainability management system of the Carl Zeiss Meditec Group is integrated in the sustainability
+strategy of the ZEISS Group.
+
+Carl Zeiss Meditec AG therefore makes use of the option under Section 289b (2) HGB and Section 315b (2)
+HGB to exempt itself from issuing a non-financial statement and the non-financial consolidated statement,
+and refers to the separate summary non-financial report of the parent company, Carl Zeiss AG, into which
+Carl Zeiss Meditec AG has been incorporated. This separate, non-financial report, which applies for the entire
+ZEISS Group shall be available for inspection, in German and English, from 15 December 2021 at
+www.zeiss.com/responsibility.
+
+Revenue of the past twelve months as of the end of the reporting period (30 September 2021)
+
+45
+
+
+--- Page 17 ---
+
+46
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Employees
+
+Highly qualified and motivated employees are a necessity for ensuring a company’s long-term success. Responsible
+human resources development and promotion prospects play a crucial role in this. As of 30 September 2021,
+the Carl Zeiss Meditec Group had 3,531 employees worldwide (prior year: 3,290).
+
+Employees
+
+30 Sep 2021 331
+30 Sep 2020 3,290
+
+30 Sep 2019 3,232
+
+At 43% and 30%, respectively, the majority of employees were working in Production or Sales and Marketing as
+of 30 September 2021. This includes a total of 573 Service employees, who are spread across various areas. The
+percentage of employees working in Research and Development was 19% at the end of the reporting period.
+The percentage of employees working in administration as of 30 September 2021 was 8%
+
+Employees by function 30 September 2021
+
+Manufacturing 43%
+Selling and marketing 30%
+Research and development 19%
+Administrative sector 8%
+
+A total of 67% and thus the majority of the Carl Zeiss Meditec Group's employees were working in the EMEA
+region as of 30 September 2021. A total of 27% of the Company's employees of the Group were working in the
+Americas region and 6% in the APAC region.
+
+In the APAC region, the Company mostly relies on the distribution network of the ZEISS Group.
+
+Employees by region as of 30 September 2021
+
+EMEA 67%
+Americas 27%
+APAC 6%
+
+The success of the Carl Zeiss Meditec Group is based on the expertise and achievements of the Company's
+employees. The core task of human resources management is therefore sustainable development and targeted
+support of potential. The focus is particularly on the further training and education of employees, as well as
+management development. There are also various courses to choose from as part of the internal ZEISS
+qualification program, as well as secondary training and qualification opportunities to take advantage of.
+
+
+--- Page 18 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Compliance
+
+As a company of the ZEISS Group, the Company's management considers integrity and compliance to be
+
+of paramount importance for the global reputation of the Carl Zeiss Meditec Group. A basic requirement
+
+for growth and success is having the trust of external stakeholders in responsible, law-abiding and ethical
+conduct. As a company of the ZEISS Group, Carl Zeiss Meditec AG has joined the compliance management
+system of Carl Zeiss AG. The compliance management system ensures compliance with laws and regulations
+and adherence to internal policies by stipulating processes and guidelines. A centralized and a decentralized
+approach is taken for this. Carl Zeiss AG develops guidelines and training documents, which are applied at the
+level of the subsidiaries (i.e., also at Carl Zeiss Meditec AG). ZEISS employees are encouraged to report any
+breach of the compliance requirement, or any grounds for suspicion of a breach. The notification management
+system for compliance incidents guarantees the anonymity of each informant and regulates the review,
+documentation and intervention in substantiated allegations. The ZEISS Code of Conduct containing the basic
+rules of good and fair conduct in competition and in dealing with our employees and customers, which has
+applied globally since 2007 and was updated in April 2020, is also adhered to. The Code of Conduct sets out
+the fundamental ethical principles of good conduct and values which govern the actions of both management
+and employees in their day-to-day work at the Company. Compliance was defined as an essential component
+of ZEISS Policy, which every business activity must conform to.
+
+Production
+
+Production plants
+
+The Carl Zeiss Meditec Group manufactures its products in Jena, Oberkochen and Berlin in Germany, Dublin
+and Ontario in the USA, Guangzhou in China, and La Rochelle in France. The Company also has a number of
+smaller sites in Besancon, France, Livingston, Scotland, and Goodlands, Mauritius. Systems and devices for
+ophthalmology are manufactured in Jena and Dublin. The Company manufactures microsurgical visualization
+solutions and phacoemulsification systems in Oberkochen; intraocular lenses are manufactured in La Rochelle,
+Berlin and Ontario. Certain product groups are manufactured by partners, who either have more favorable
+cost structures or special production processes, or technologies that can realize economies of scale in
+purchasing.
+
+Production concept
+
+In production, the Carl Zeiss Meditec Group focuses on the integration of modules and system components,
+which are largely procured from external partners. In the case of intraocular lenses, however, there is a higher
+vertical range of manufacture. Production of these largely takes place in-house at the Company. Only a few
+specific production steps are undertaken by external companies. In order to reduce dependency on individual
+suppliers, the Company continuously strives to qualify additional suppliers for key components or product
+groups when selecting suppliers.
+
+The main focus with regard to production processes is primarily on responding quickly to customer inquiries
+and requirements by using short decision paths and bringing innovations quickly and efficiently into production.
+Shorter throughput times and the reduction of inventories while simultaneously optimizing manufacturing
+costs and improving product quality and delivery performance play a major role in this.
+
+Production planning
+
+Production planning in Jena, Oberkochen and Dublin is based on the rolling forecast method. This is done
+mostly on a monthly or quarterly basis. This sales forecast is then translated into a demand forecast for
+production units, taking inventory changes into account. In order to keep stocks to a minimum, system
+integration is generally on a make-to-order basis.
+
+47
+
+
+--- Page 19 ---
+
+48
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+In order to ensure uninterrupted supplies for customers in the refractive lasers segment, stocks of consumables
+are maintained to meet the planned sales volume for at least three months. This is particularly important as
+customers cannot use their equipment without consumables. They are therefore served from existing stocks in
+accordance with the first-in-first-out principle.
+
+The rolling forecast method described above is also applied for the manufacture of intraocular lenses. As
+customers expect very short delivery times for implants, limited quantities of the finished products are stockpiled.
+For this purpose, replacement orders from customers are serviced from a central distribution center.
+Replenishment orders are then triggered directly to these production sites, so that other customers can be
+served as quickly as possible. The Carl Zeiss Meditec Group also operates consignment warehouses in clinics
+and hospitals, which — depending on consumption — are continuously restocked
+
+Research and development
+
+Objectives and focus of research and development
+Innovations are a key driver of future growth. Research and development has therefore traditionally played a
+crucial role within the Carl Zeiss Meditec Group.
+
+The Company is committed to continuously expanding its product range and to improving products that
+
+are already on the market. In doing so, the Company strives to establish products as new gold standards in
+medical diagnostics and therapy. The focus is to make the customer's workflows more efficient by integrating
+solutions, and to improve clinical results. A key element of the Company’s research and development work is
+close collaboration with its customers right from the early stages of product development.
+
+In fiscal year 2020/21, research and development expenses increased by 6.1% to €232.1m (prior year:
+€218.8m). Due to the strong sales trend, the R&D ratio was lower than the prior-year period, at 14.1% (prior
+year: 16.4%). Primary development costs of €32.7m continued to be capitalized. Further information can be
+found in the accompanying notes to the consolidated financial statements.
+
+R&D expenses in €m/Share of R&D in revenue of Carl Zeiss Meditec Group, in %
+
+2020/21 2321/1
+2019/20 218.8/16.4
+2018/19 173.3/11.9
+
+In the reporting period, 19% (prior year: 19%) of the Carl Zeiss Meditec Group's entire workforce was working
+in Research and Development. To a limited extent, research and development services are procured from
+
+Carl Zeiss AG, Oberkochen and its subsidiaries. In fiscal year 2020/21 the expenses incurred for this amounted
+to 20.0% (prior year: 14.7%) of total research and development expenses.
+
+Focus of research and development activities in the reporting period
+Research and development at the Company mainly focuses on:
+
+» examining new technological concepts in terms of their clinical relevance and effectiveness;
+
+» the continuous development of the existing product portfolio;
+
+» the development of new products and product platforms based on the available basic technologies and
+
+» digital networking of systems and equipment to increase diagnostic and treatment efficiency and improve
+treatment outcomes for patients.
+
+
+--- Page 20 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Brands and patents
+
+The Company invests in innovations and solutions and protects its innovations with patents. The Carl Zeiss
+Meditec Group currently owns more than 900 patent families worldwide (prior year: more than 900). An
+average of two patents a week were granted for the Carl Zeiss Meditec Group in fiscal year 2020/21. Although
+the protection for a patent varies from country to country, the Company still strives to protect products in the
+various markets as comprehensively as possible with patents. As a number of products have already been
+
+on the market for some time, patent protection does not always extend to the basic functionality of these
+products, but also to specific features and enhancements that protect beneficial solutions.
+
+In addition, the Company has 750 registered brands (prior year: 662) and brand registrations (as of
+30 September 2021). These include, among others, product names, slogans, images, logos and other specific
+characteristics of the Company.
+
+FINANCIAL STATEMENTS OF CARL ZEISS MEDITEC AG
+
+Carl Zeiss Meditec AG is the parent company of the Carl Zeiss Meditec Group. Its results are influenced to a
+large extent by its subsidiaries. The development of business is generally subject to the same opportunities
+and risks as the Carl Zeiss Meditec Group. The outlook for the Group also largely mirrors the expectations for
+Carl Zeiss Meditec AG, due to the links between Carl Zeiss Meditec AG and its subsidiaries and due to the
+importance of Carl Zeiss Meditec AG within the Group. The foregoing explanations for the Carl Zeiss Meditec
+Group therefore also apply for Carl Zeiss Meditec AG.
+
+Carl Zeiss Meditec AG's key priority is to secure the Company's long-term and successful development and
+to ensure the necessary liquidity. A key benchmark for this is the management of profitable growth at Group
+level
+
+Preparation of the financial statements
+
+The following annual financial statements of Carl Zeiss Meditec AG have been prepared in accordance with
+the German Commercial Code (Handelsgesetzbuch, HGB), in contrast to the consolidated financial statements,
+which conform to the International Financial Reporting Standards (IFRSs), as they are to be applied in the EU
+
+Summary of business development
+
+Carl Zeiss Meditec AG ended fiscal year 2020/21 with a growing revenue and earnings; thus, the growth
+trend of previous years continued again in the fiscal year under review. The business recovered from the
+effects of the COVID-19 pandemic.
+
+Revenue increased by 30.6% compared with the prior year. Exchange rate fluctuations had no material effect
+overall on the development of revenue. EBIT (gross profit less selling and general administrative expenses,
+R&D expenses and other operating expenses, plus other operating income) increased by €121.8m year-on-
+year to €288.8m (prior year: €167.0m). The EBIT margin therefore increased by 6.3 percentage points, from
+19.5% in the prior year, to 25.8%.
+
+49
+
+
+--- Page 21 ---
+
+50
+
+Income statement according to HGB
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+2020/21 2019/20
+1 Oct 20 to 1 Oct 19 to
+Appendix 30 Sep 21 30 Sep 20 Change
+& €k in%
+Revenue (17) 1,120,046 857,507 30.6%
+Cost of sales -451,212 “374,536 20.5%
+Gross profit on sales 668,834 482,971 38.5%
+Sales and marketing expenses “120,489 “113,489 6.2%
+General and administrative expenses “35,138 -31,676 10.9%
+RED costs -209,067 “164,405 27.2%
+thereof subsidies received : :
+Other operating income (20) 37,295 24,230 53.9%
+Other operating expenses (21) “52,656 -30,671 71.7%
+Income from investments (22) 4,212 > 100%
+of which from affiliated companies 1,212 :
+Income from profit transfer (23) 10,173 5,214 95.1%
+Income from investments and long-term loans 676 498 35.7%
+of which from affiliated companies 676 498 35.7%
+Other interest and similar income 831 801 3.7%
+of which from affiliated companies 357 73 53.8%
+Write-downs of long-term financial assets and securities classified
+as current assets -4,500 > 100%
+Interest and similar expenses (24) 4,208 “17,746 -76.3%
+of which from affiliated companies : :
+Earnings before income taxes 292,963 155,727 88.1%
+Taxes on income (25) -95,645 -52,902 80.8%
+Profit after tax 197,318 102,825 91.9%
+Other taxes (26) -396 “153 158.8%
+Net income for the year 196,922 102,672 91.8%
+Retained profits brought forward from prior year 364,303 319,768 13.9%
+Dividend 44,720 58,137 23.1%
+Net retained profits 516,505 364,303 41.8%
+
+Results of operations
+
+Revenue increased by 30.6% year-on-year to €1,120.0m (prior year: €857.5m). Overall, currency translations
+had no material effect on the increase in sales. Sales include €4.6m in service revenue pursuant to
+
+Section 277 (1) HGB.
+
+Gross profit in fiscal year 2020/21 increased from €483.0m to €668.8m. The corresponding margin increased
+
+by 3.4 percentage points to 59.7% (prior year: 56.3%).
+
+Selling expenses in the fiscal year amounted to €120.5m, general and administrative expenses amounted
+
+to €35.1m. Selling, general and administrative expenses increased in absolute terms in the fiscal year under
+review, which is mainly due to the higher business volume and an increase in travel and trade fair activities
+again. Carl Zeiss Meditec AG's research and development expenses in fiscal year 2020/21 amounted to €209.1m
+(prior year: €164.4m). Detailed information on the Carl Zeiss Meditec Group's research and development
+activities can be found on in the section entitled Research and development of the management report.
+
+
+--- Page 22 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+The increase in other operating income mainly results from foreign currency gains and reversals of write-
+downs on receivables from the subsidiary Carl Zeiss Meditec Iberia S.A, details of which can be found in the
+accompanying notes to the annual financial statements of Carl Zeiss Meditec AG in the note on “Fixed assets”.
+
+Other operating expenses increased mainly as a result of foreign currency losses. Income from long-term
+equity investments results from the dividend payment of Carl Zeiss Meditec Co. Ltd., Tokyo, Japan. Income
+from profit and loss transfer agreements originated from the subsidiary Carl Zeiss Meditec Asset Management
+Verwaltungsgesellschaft mbH, Jena, Germany. Further information on this can be found in the notes to the
+annual financial statements of Carl Zeiss Meditec AG in the note on "Income from profit and loss transfer
+
+agreements"
+
+The write-down of long-term financial assets relates to InfiniteVision Optics $.A.S., Strasbourg, France. Further
+details can be found in the notes to the annual financial statements of Carl Zeiss Meditec AG in the note on
+
+"Fixed assets"
+
+The decrease in interest and similar expenses within the financial result mainly relates to pension obligations.
+
+The result before tax thus increased to €293.0m compared with €155.7m in the prior year. Net income for
+
+the fiscal year under review amounts to €196.9m (prior year: €102.7m).
+
+Balance sheet
+
+Note 30 Sep 2021 30 Sep 2020
+€&k €&k
+ASSETS
+A. Fixed assets (5) 686,940 659,369
+|. Intangible fixed assets 65,861 84,114
+ll, Property, plant and equipment 36,296 28,931
+Ul Financial assets 584,783 546,324
+B. Current assets 1,125,699 933,873
+|. Inventories 161,693 161,852
+Il, Receivables and other assets @-@) 964,006 772,018
+lll. Cash-in-hand and bank balances (10) : 3
+C. Deferred income (11) 1,437 1,397
+Total assets 1,814,076 1,594,639
+EQUITY AND LIABILITIES
+A. Equity (12) 1,563,828 1,411,626
+|. Subscribed capital 89,441 89,441
+ll. Capital reserve 954,942 954,942
+lll, Retained earnings 2,940 2,940
+IV. Net retained profits 516,505 364,303
+B. Provisions (13) 126,407 92,745
+C. Liabilities (14) 122,346 88,668
+D. Deferred income (15) 1,495 1,600
+Total liabilities 1,814,076 1,594,639
+
+51
+
+
+--- Page 23 ---
+
+52
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Net assets and results of operations
+
+Pursuant to German commercial law (HGB), the total assets of Carl Zeiss Meditec AG amounted to €1,814.1m
+as of 30 September 2021. This corresponds to an increase of 13.8% compared with the prior year (€1,594.6m).
+
+Long-term financial assets increased due in particular to an addition to shares in affiliated companies resulting
+from a capital increase at Carl Zeiss Meditec, Inc., Dublin, USA, in return for which a long-term intercompany
+loan was partially repaid. Inventories remained almost the same, at €161.7m, compared with the prior-year
+figure of €161.9m. Receivables and other assets increased year-on-year, due in particular to the increase in
+volume sales associated with the recovery of the business from the effects of the COVID-19 pandemic.
+
+Cash and cash equivalents consist exclusively of bank balances. Term deposit balances are deposited with the
+Group treasury of Carl Zeiss AG and are recognized under "Receivables from affiliated companies".
+
+Net retained profits increased by the net income for the fiscal year of €196.9m, less the dividend paid of
+€44.7m.
+
+Provisions increased to €126.4m (prior year: €92.7m). This was mainly due to higher provisions for currency
+forward contracts. Further information can be found in the notes to the annual financial statements of
+
+Carl Zeiss Meditec AG under "Provisions". Liabilities increased mainly in the area of trade payables due to the
+higher purchasing volumes.
+
+The debt ratio (ratio of borrowed capital to equity) increased slightly to 15.9% as of 30 September 2021
+(prior year: 12.9%).
+
+Cash inflows generated from operating activities provide important sources of financing for Carl Zeiss Meditec AG.
+The Company can also create additional liquidity by issuing new shares on the capital market. Furthermore,
+the Company has the option to assume loans, either from the treasury of Carl Zeiss AG or from banks. As
+Carl Zeiss Meditec AG has enough cash funds at its disposal to finance its operating and strategic objectives,
+changes in interest rates and credit conditions are not currently having any material effect on the Company's
+financial position
+
+The Company's management considers Carl Zeiss Meditec AG's net assets and financial position to be solid.
+They contribute toward the achievement of the Company's objectives which are focused on sustainable
+growth.
+
+Employees
+
+As of 30 September 2021, Carl Zeiss Meditec AG had 1,547 employees. This number does not include
+Management Board members.
+
+
+--- Page 24 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Appropriation of profits
+
+Fiscal year 2020/21 closes with net income for the year of €196,921,662.00. The Management Board proposes
+utilizing the net retained profits of €516,504,701.69 for fiscal year 2020/21 as follows:
+
+» Payment of a dividend of €0.90 per no-par value share for 89,440,570 no-par-value shares: € 80,496,513.00.
+» Carryforward of residual profit to new account: €436,008, 188.69.
+
+Declaration on corporate governance (pursuant to Section 289f HGB,
+315d HGB) and corporate governance report
+
+The declaration on corporate governance (pursuant to Section 289a HGB and 315 (5) HGB) includes the
+declaration of conformity pursuant to Section 161 AktG, relevant information on corporate governance
+practices applied which go beyond the statutory requirements, in addition to information of where these are
+publicly accessible and a description of how the Management and Supervisory Boards work, as well as the
+composition and mode of working of their committees. You will find this information on our website
+www.zeiss.com/meditec-ag/investor-relations/corporate-governance.html
+
+The sustainability management system of the Carl Zeiss Meditec Group is integrated in the sustainability strategy
+of the ZEISS Group.
+
+Carl Zeiss Meditec AG therefore makes use of the option under Section 289b (2) HGB and Section 315b (2) HGB
+to exempt itself from issuing a non-financial statement and the non-financial consolidated statement, and
+
+refers to the separate summary non-financial report of the parent company, Carl Zeiss AG, into which Carl Zeiss
+Meditec AG has been incorporated. This separate, non-financial report, which applies for the entire ZEISS Group
+shall be available for inspection, in German and English, from 15 December 2021 at www.zeiss.com/responsibility.
+
+REMUNERATION REPORT
+Remuneration report of the Management Board
+
+The members of the Management Board are remunerated based on Section 87 German Stock Corporation Act
+(Aktiengesetz). According to this, the Supervisory Board determines the remuneration, which comprises fixed
+and variable components, and payments in kind. The Supervisory Board’s General Committee proposes the
+amount and structure of the remuneration to be paid to the Management Board, and these are then approved
+by the Supervisory Board as a whole. The appropriateness of the Management Board remuneration is based on
+the duties and the personal contribution of the individual members of the Management Board, as well as the
+Company's overall financial position and the market environment.
+
+At its meeting on 3 December, the Supervisory Board addressed the achievement of objectives by the
+Management Board members for fiscal year, and stipulated the relevant variable remuneration 3 December 2020.
+At its meeting on 14 April 2021, at the recommendation of the General Committee, the Supervisory Board
+resolved upon the key points of the new Management Board remuneration system in accordance with the
+provisions of Section 87a AktG, for presentation at the Annual General Meeting on 27 May 2021. The
+remuneration system for the Management Board was adopted by the Annual General Meeting on 27 May 2021
+as planned, achieving an approval rating of 95.91% of the share capital present.
+
+53
+
+
+--- Page 25 ---
+
+54
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Structure and amount of remuneration paid to the Management Board
+
+The remuneration paid to the Management Board of Carl Zeiss Meditec AG consists of a fixed and a variable
+portion. The variable portion is split into two components: the first component is contingent upon the
+achievement of certain targets for the respective current fiscal year and the second bears a long-term incentive
+effect.
+
+The fixed portion of the remuneration paid to the Management Board is not contingent upon the achievement
+of certain targets. It is paid monthly.
+
+The variable portion of the remuneration, which relates to targets set for the respective fiscal year, is
+contingent upon the achievement of certain quantitative targets. The main quantitative targets are Economic
+Value Added® (EVA®) and free cash flow. This portion of the remuneration is paid after the end of the respective
+fiscal year. The amount is contingent upon the degree of target fulfillment.
+
+In addition to the two components of Management Board remuneration described above, there is also a
+so-called Long Term Incentive Program (LTI).
+
+This program offers a remuneration component with a long-term incentive, which allows the members of
+
+the Management Board to annually earn an additional income after a three-year period. This amounts to
+40% of the individual short-term variable remuneration for the fiscal year that precedes the beginning of the
+term of an LTI tranche, plus interest. A precondition for payment of this remuneration is that the members
+
+of the Management Board have not handed in their notice at the end of the applicable three-year period per
+tranche, and the equity ratio of the ZEISS Group is higher than 20% at this point. The first payment was made
+in December 2014. The next payment is forecast for December 2021.
+
+Contrary to the general LTI regulation, a different regulation applies for the Chairman of the Management
+Board with respect to the long-term variable remuneration. Accordingly, financial targets (EVA®, free cash
+flow) are agreed annually for a three-year period. The targets are settled at the end of the period
+
+Itemized breakdown of the remuneration paid to the members of the Management Board of Carl Zeiss Meditec AG
+
+Management Board remuneration
+
+Fiscal year Fixed Remuneration Variable Total uP Total
+remuneration in kind and remuneration'* remuneration remuneration
+
+other paid directly pursuant to
+
+remuneration’? Section 314 (1)
+
+No. 6a) HGB
+
+€k &k &k & €&k €k
+
+Dr. Ludwin Monz!? 2020/21 400.0 15.3 223.4 638.7 216.6 855.3
+2019/20 400.0 18.0 525.0 943.0 206.3 1,149.3
+
+Justus Felix Wehmer 2020/21 300.0 21.9 229.4 5513 128.6 679.9
+2019/20 270.0 20.5 332.6 623.1 190.5 813.6
+
+Jan Willem de Cler 2020/21 300.0 123 254.9 567.2 141.7 708.9
+2019/20 300.0 12.6 332.6 645.2 184.3 829.5
+
+” The total remuneration paid to Dr. Monz does not include any benefits arising due to termination of his employment, as these will not be
+cash-effective until the coming FY. (See table “Value of benefits granted and tendered for the fiscal year, Dr. Ludwin Monz")
+
+° Benefits in kind and other compensation include e.g non-cash benefits such as the provision of a company car and the reimbursement
+of employer contributions to the statutory pension and unemployment insurance schemes, as well as contributions to group accident
+insurance.
+
+° Variable remuneration corresponds to the amounts paid in the respective fiscal year.
+
+
+--- Page 26 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Directors & Officers (D&O) liability insurance has been taken out for the members of the Management Board
+of Carl Zeiss Meditec AG, which provides for an excess that is also specified in the Management Board contracts.
+This complies with the excess that has been prescribed by the German Stock Corporation Act (A) since
+
+5 August 2009 of at least 10% of the damages up to at least one-and-a-half times the fixed annual remuneration.
+
+Pension scheme for members of the Management Board
+
+The appropriation to the pension provisions or pension funds should be stated annually with respect to the
+retirement benefit commitments for the members of the Management Board. The expenses relating to
+pension commitments attributable to the individual members of the Management Board — or, in the case of
+Dr. Monz, the proportionate oncharged service cost — are presented in the following overview.
+
+Itemized breakdown of the pension commitments to the members of the Management Board of Carl
+Zeiss Meditec AG
+
+Fiscal year Current service cost Present value of pension
+commitment, total
+€k €k
+Dr. Ludwin Monz"® 2020/21 361.1
+2019/20 365.7
+Justus Felix Wehmer 2020/21 42.6 292.5
+2019/20 44.8 261.9
+Jan Willem de Cler 2020/21 46.5 1311
+2019/20 42.4 914
+
+In connection with the appointment of Dr. Monz as a member of the Group Management Board of Carl Zeiss AG,
+effective 1 January 2014, Carl Zeiss AG became responsible for the pension commitment to Dr. Monz, both
+for the past and for the future. The pension provision previously set up at Carl Zeiss Meditec AG has accordingly
+been transferred to Carl Zeiss AG. The proportionate service cost arising from the annual appropriation to the
+pension provision for Dr. Monz's function as President and CEO of Carl Zeiss Meditec AG shall be passed on
+to Carl Zeiss Meditec AG, effective from 1 January 2014.
+
+Projected unit credits for pensions for other former members of the Management Board of Carl Zeiss Meditec AG
+amount to €1,305.1k (prior year: €1,396.9k)
+
+Value of benefits granted for fiscal year 2020/21 and allocation amount
+The value of the benefits granted for the fiscal year under review, including single-year and multi-year variable
+components of remuneration, shall continue to be presented and compared with the actual allocation amount.
+
+The minimum compensation for the reporting year, as well as the maximum attainable remuneration shall
+also be stated.
+
+‘5 Proportionate oncharged service cost from the pension commitment to Dr. Monz (adjustment on 1 January 2014)
+
+55
+
+
+--- Page 27 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Value of benefits granted and tendered for the fiscal year Dr. Ludwin Monz
+
+Dr. Ludwin Monz
+
+President and CEO Minimum Maximum
+Member of the Management Board since 8 October 2007 achievable value achievable value
+
+2020/21 2019/20 2020/21 2020/21
+Value of benefits granted & &k &k €k
+1. Fixed remuneration 400.0 400.0 400.0 400.0
+2. Fringe benefit, 153 18.0 15.3 15.3
+3. Total 415.3 418.0 415.3 415.3
+4. Single-year variable compensation (VCS) 275.0 262.5 550.0
+5. Multi-year variable compensation (LTI)"® 268.6 600.2 - 327.0
+2019/20 : 206.3 :
+2020/21 216.6 1313 275.0
+2021/22 52.0 1313 52.0
+2022/23 : 1313 :
+6. Pension cost 361.1 365.7 361.1 361.1
+7. Benefits resulting from termination of employment 930.0 : 930.0 930.0
+
+The Chairman of the Management Board of Carl Zeiss Meditec AG, Dr. Ludwin Monz, informed the Supervisory
+
+Board on 30 September 2021 that he shall not be available for a further term of office. Dr. Monz has
+reached an agreement with the Supervisory Board on termination of his Management Board mandate
+
+on
+
+31 December 2021 and has concluded a termination agreement. Dr. Monz shall accordingly receive benefits
+
+due to termination of his employment in the amount of €930.0k, which shall be paid out to him after
+31 December 2021.
+
+Allocation amount in fiscal year Dr. Ludwin Monz
+
+Dr. Ludwin Monz
+President and CEO
+
+Member of the Management Board since 8 October 2007 2020/21 2019/20
+Allocation amount for the fiscal year €k €k
+1. Fixed remuneration 400.0 400.0
+2. Fringe benefit, 15.3 18.0
+3. Total 415.3 418.0
+4, Single-year variable compensation (VCS) 223.4 525.0
+5. Multi-year variable compensation (LT!) 216.6 206.3
+6. Total 855.3 1,149.3
+7. Pension cost 361.1 365.7
+8. Total remuneration 1,216.4 1,515.0
+
+‘Entitlement if thresholds exceeded
+
+56
+
+
+--- Page 28 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Value of benefits granted and tendered for the fiscal year, Justus Felix Wehmer
+
+Justus Felix Wehmer
+
+CFO Minimum Maximum
+Member of the Management Board since 1 October 2018 achievable value achievable value
+
+2020/21 2019/20 2020/21 2020/21
+Value of benefits granted &k €k &k &
+1. Fixed remuneration 300.0 270.0 300.0 300.0
+2. Fringe benefit 21.9 20.5 21.9 21.9
+3. Total 321.9 290.5 321.9 321.9
+4, Single-year variable compensation (VCS) 200.0 180.0 : 280.0
+5. Multi-year variable compensation (LT!) 401.0 446.7 - 684.1
+2019/20 - 190.5 : :
+2020/21 128.6 87.3 : 149.6
+2021/22 76.3 68.1 : 130.4
+2022/23 114.9 100.8 : 223.8
+2023/24 81.2 - : 180.3
+6. Pension cost 42.6 44.8 42.6 42.6
+
+Allocation amount in fiscal year under review, Justus Felix Wehmer
+
+Justus Felix Wehmer
+
+Member of the Management Board since 1 October 2018 2020/21 2019/20
+Allocation amount for the fiscal year &k &
+1. Fixed remuneration 300.0 270.0
+2. Fringe benefit 21.9 20.5
+3. Total 321.9 290.5
+4, Single-year variable compensation (VCS) 229.4 332.6
+5, Multi-year variable compensation (LT!) 128.6 190.5
+6. Total 679.9 813.6
+7. Pension cost 42.6 44.8
+8. Total remuneration 722.5 858.4
+
+Value of benefits granted and tendered for the fiscal year Jan Willem de Cler
+
+Jan Willem de Cler Minimum Maximum
+Member of the Management Board since 1 October 2018 achievable value achievable value
+
+2020/21 2019/20 2020/21 2020/21
+Value of benefits granted &k €k &k &
+1. Fixed remuneration 300.0 300.0 300.0 300.0
+2. Fringe benefit 123 12.6 123 123
+3. Total 312.3 312.6 312.3 312.3
+4, Single-year variable compensation (VCS) 200.0 200.0 : 280.0
+5. Multi-year variable compensation (LT!) 452.2 475.2 - 768.8
+2019/20 : 184.3 - :
+2020/21 141.7 96.1 : 164.8
+2021/22 105.4 94.0 : 179.9
+2022/23 114.9 100.8 : 223.8
+2023/24 90.2 - : 200.3
+6. Pension cost 46.5 42.4 46.5 46.5
+
+57
+
+
+--- Page 29 ---
+
+58
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Allocation amount in fiscal year under review, Jan Willem de Cler
+
+Jan Willem de Cler
+
+Member of the Management Board since 1 October 2018 2020/21 2019/20
+Allocation amount for the fiscal year €k €k
+1. Fixed remuneration 300.0 300.0
+2. Fringe benefit, 12.3 12.6
+3. Total 312.3 312.6
+4, Single-year variable compensation (VCS) 254.9 332.6
+5. Multi-year variable compensation (LT!) 141.7 184.3
+6. Total 708.9 829.5
+7. Pension cost 46.5 42.4
+8. Total remuneration 755.4 871.9
+
+Departure of members of the Management Board
+
+In the event of premature termination of the employment relationship, the contracts for members of the
+Management Board do not contain any explicit promise of a severance payment. A severance payment may,
+however, ensue from a severance agreement concluded on an individual basis.
+
+Remuneration of the Supervisory Board
+
+The remuneration of the Supervisory Board is composed of a fixed basic remuneration and remuneration
+
+for work on the committees. The basic remuneration for each member of the Supervisory Board amounts
+
+to €30,000. The Chairman of the Supervisory Board receives double this amount; the Deputy Chairman and
+the Chairman of the Audit Committee receive one-and-a-half times this amount. With the exception of the
+members of the Nominating Committee and the Chairman and Deputy Chairman of the General Committee,
+members of committees receive an additional, fixed remuneration of €5,000. In addition to this, the Annual
+General Meeting on 19 March 2019 resolved to pay an attendance fee of €1,000 to each member of the
+Supervisory Board who attends a Supervisory Board or committee meeting.
+
+The following overview provides an itemized breakdown of the total remuneration paid to each Supervisory
+Board member:
+
+
+--- Page 30 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Itemized breakdown of remuneration paid to the Supervisory Board of Carl Zeiss Meditec AG pursuant to Art. 19 of the Articles
+
+of Association of Carl Zeiss Meditec AG
+
+Basic remunera-
+
+Committees and
+
+Total remunera-
+
+Fiscal year tion attendance fee tion
+
+€k €k €k
+
+Prof. Dr. Michael Kaschke 2020/21 39.1 4.0 43.1
+(Chairman and member until 27 May 2021) 2019/20 60.0 11.0 71.0
+Dr. Karl Lamprecht’? 2020/21 40.4 10.3 50.7
+(Chairman since 27 May 2021) 2019/20 8.0 48 12.8
+Tania von der Goltz 2020/21 45.0 7.0 52.0
+(Deputy Chairwoman) 2019/20 45.0 9.0 54.0
+Dr. Markus Guthoff 2020/21 29.4 5.0 34.4
+(until 27 May 2021) 2019/20 45.0 20.2 65.2
+Peter Kameritsch 2020/21 15.7 5.0 207
+(since 27 May 2021) 2019/20 - -
+Dr. Christian Miller'® 2020/21 30.0 17.0 47.0
+2019/20 30.0 20.0 50.0
+
+Isabel De Paoli 2020/21 30.0 8.0 38.0
+2019/20 8.0 3.0 11.0
+
+Torsten Reitze"? 2020/21 10.4 67 7A
+(since 27 May 2021) 2019/20 - -
+Cornelia Grandy 2020/21 30.0 14.0 44.0
+2019/20 30.0 18.0 48.0
+
+René Denner 2020/21 30.0 6.0 36.0
+2019/20 30.0 7.0 37.0
+
+Jeffrey Marx 2020/21 30.0 6.0 36.0
+2019/20 17.1 5.0 22.4
+
+The Company did not pay members of the Supervisory Board any additional remunerations or benefits for
+personally rendered services (in particular consultancy and agency services) in fiscal year 2020/21.
+
+Directors & Officers (D&O) liability insurance has been taken out for the members of the Supervisory Board of
+Carl Zeiss Meditec AG, which provides for an excess that is also specified in the Company's Articles of
+Association. This corresponds to at least 10% of the damages up to at least one-and-a-half times the fixed
+
+annual remuneration
+
+OPPORTUNITY AND RISK REPORT
+
+A group with global operations faces a large number of entrepreneurial risks and opportunities that can have
+a sustained impact on business success. The assessment of opportunities and risks and conscientious handling
+of entrepreneurial uncertainty are an important part of corporate governance at Carl Zeiss Meditec Group.
+
+7 as in the prior year, Dr. Karl Lamprecht waived his entitlement to remuneration for fiscal year 2020/21 by way of a waiver declaration.
+1 As in the prior year, Dr. Christian Miller waived his entitlement to remuneration for fiscal year 2020/21 by way of a waiver declaration
+"Torsten Reitze waived his entitlement to remuneration for fiscal year 2020/21 by way of a waiver declaration.
+
+59
+
+
+--- Page 31 ---
+
+60
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Risk management
+
+The central risk management system of the Carl Zeiss Meditec Group stipulates uniform regulations and
+processes for the early detection, assessment and management of risks. In the subsidiaries and on Group level,
+risk management coordinators are responsible for applying the policies and procedures. The management
+of the subsidiaries detects and manages operating and strategic risks. Overall responsibility lies with the
+Management Board, which regularly assesses risks and their management at Group level together with the
+Group Risk Manager. The Management Board and Supervisory Board review the appropriateness and
+monitoring of the risk management system.
+
+Risk management is an integral part of corporate governance within the Carl Zeiss Meditec Group, and is
+based on the following two key components: a risk reporting system and an internal control system.
+
+Risk reporting system
+
+This is a clearly structured, traceable feedback loop which encompasses all of the Company's activities, is
+integrated in its organizational structure and its control and reporting processes, and comprises a systematic
+and ongoing process for the identification, assessment, management/control, as well as the documentation
+and communication of any risks. Any relevant information can therefore be immediately passed on to the
+responsible decision makers. The main features of this system are as follows:
+
+» The risk reporting system exclusively records risks. It integrates all fully consolidated subsidiaries
+
+» The business risks are assessed and categorized according to their potential implications over the period
+of their existence, and according to their probability of occurrence and damage potential. The period of
+assessment is a maximum of five years. The risks are evaluated in respect of their effect on earnings before
+interest and tax.
+
+» Regular risk reports are provided to the Management Board, the management of the subsidiaries and other
+decision-makers within the Company on the basis of specified thresholds. Significant risks arising at very
+short notice are reported to this responsible group immediately.
+
+» On this basis, the Group takes and evaluates appropriate measures to avoid identified risks, reduce their
+probability of occurrence or reduce the economic damage they could cause. The measures to reduce
+risks, the early warning indicators and the residual risks derived from these are regularly updated and
+documented.
+
+Internal control system
+
+The internal control system of the Carl Zeiss Meditec Group is based on the COSO Enterprise Risk Management
+Model (COSO ERM model). The Group's integrated enterprise risk management system covers strategic and
+operational risks, i.e., risk assessment goes beyond mere financial risks. For central processes, there are key
+risks and defined control mechanisms, which are regularly evaluated with regard to their effectiveness. The
+Management Board is responsible for ensuring an appropriate and effective internal control system and for
+continuously improving it. The Supervisory Board’s Audit Committee monitors the effectiveness of internal
+auditing, risk management and the internal control system, as well as the accounting process. The accounting-
+related part of the internal control system is a system structured within the sphere of responsibility and
+under the supervision of the CFO, which ensures that the preparation of the consolidated annual financial
+statements is in line with the International Financial Reporting Standards (IFRSs), and that external financial
+reporting is reliable.
+
+
+--- Page 32 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Significant risks
+
+The Carl Zeiss Meditec Group analyzes and assesses risks systematically. Special emphasis is placed on potential
+economic effects and on probability of occurrence. In this way, the risks are quantified and classified. Due to
+the broad portfolio and the Group’s global presence, the strategic and operational risks are highly diversified.
+
+Quantitative data is based on a net perspective after application of measures, and relates to the risk assessment
+period
+
+Innovation risks
+
+The business success and reputation of the Group are heavily dependent on the rapid development of
+innovative products and solutions. New trends and current scientific and research findings can trigger technology
+shifts and new customer requirements, and make new business models necessary. Should the Group lose
+touch with technological developments on the market, react too late to trends or technological advancements,
+this could weaken its competitive position. There is also a risk of the Group's products being completely
+superseded by alternative technologies, procedures or treatment methods, thus reducing demand for certain
+products, which could result in losses in sales and earnings. The potential negative impact these risks could
+have on earnings equates to an amount in the low-single-digit million euro range.
+
+In order to exploit opportunities in this area early and keep the probability of occurrence and the economic
+impact of this risk low in all segments, the Group invests heavily in research and development and upstream
+areas of products with a technological edge and unique selling points.
+
+Personnel risks
+
+Demographic change and the shortage of skilled staff for technical jobs as well as the differing training and
+qualifications standards around the globe are creating new challenges when it comes to filling job vacancies.
+Unfilled positions could limit the technological advancement and sale of the products and services it offers
+
+in all segments. The Group is countering this with its recruitment strategy and employee development and
+successor planning, thus keeping the probability of occurrence low. In order to retain skilled employees in the
+long term, the Group offers various social benefits depending on the location — these include, for example,
+offers for health promotion or child care. At the current time, the management does not expect these risks to
+have any material effects on the Group's net assets, financial position or results of operations.
+
+Risks in procurement and production
+
+The Group ensures compliance with national and international standards, guidelines and legal requirements
+with regard to its supply chain through an integrated management system that addresses the issues of quality,
+the environment, and occupational health and safety.
+
+In some cases, the Carl Zeiss Meditec Group uses components from external suppliers to manufacture its
+products in all business segments. The increase in the prices of commodities, energy and materials, the growing
+complexity of purchased parts and the limited number of suppliers (single source) for certain technologies
+could have negative implications for the production, sale and quality of the Company's products. In addition
+there is a risk of suppliers canceling or not being able to deliver in full due to the COVID-19 pandemic or due to
+the transport and supply bottlenecks being observed worldwide. The Group continues to work on stabilizing
+supply chains and reducing the dependence on individual suppliers in order to minimize the associated
+economic impact, among other things. Opportunities arising from the bundling of procurement activities
+shall also be exploited. Furthermore, the Carl Zeiss Meditec Group selects its suppliers according to specific
+processes and criteria. By implementing consistent supply chain measures, such as qualifying its suppliers,
+identifying secondary suppliers and preparing a strategic stockpiling plan, the Carl Zeiss Meditec Group protects
+itself against supplier dependencies and changes on the commodities market.
+
+61
+
+
+--- Page 33 ---
+
+62
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+The Carl Zeiss Meditec Group and the ZEISS Group have close contractual relationships in some areas. This
+relates in particular to the procurement of IT services, the licensed use of the "ZEISS" brand and agreements
+with distribution companies of the ZEISS Group. This distribution network provides major opportunities, which
+are rooted particularly in the close-meshed coverage worldwide and an efficient market development approach.
+
+The potential effect of supplier risks on earnings is in the low single-digit million euro range.
+
+Risks of information technology
+
+The Carl Zeiss Meditec Group continuously reviews and exploits the opportunities of digitalization. This creates
+many new possibilities to offer customers additional services. At the same time, the Group constantly updates
+its existing information technology (IT) systems, and its IT protection and security systems. Functioning and
+adequately documented IT systems are also a prerequisite for obtaining product approvals in certain countries.
+Risks that, in the event of damage, could result in an interruption of business processes due to IT system
+failures or the loss or falsification of data, are therefore identified and evaluated across the entire life cycle of
+the applications and IT systems. Analyses were carried out and measures were taken in this area in particular
+during the fiscal year under review, to prevent cyber attacks and virus attacks causing damage to the IT infra-
+structure of Carl Zeiss Meditec AG and medical devices at the customer. The management works continuously to
+improve its IT security due to the considerable increase in the threat from cybercrime. Depending on the nature
+and scope of potential successful cyber attacks, these could have material adverse effects on the Group’s net
+assets, financial position and results of operations. Some of the Group’s IT systems are operated by external
+partners. The Group has defined standards for these service providers with regard to the hardware and software
+used, as well as data security. The Group continuously monitors the implementation of and compliance with
+these standards.
+
+Risks from acquisitions
+
+Acquisitions or investments offer the Carl Zeiss Meditec Group the opportunity to expand its portfolio of
+expertise and technology, or to increase its access to regional markets. Due in particular to the acquisition of
+Carl Zeiss Meditec Cataract Technology, Inc. in December 2018, a company specializing in technical solutions
+for microinvasive cataract surgery, the Group will be able to significantly strengthen its technological position
+and its product portfolio for cataract surgery in the years ahead
+
+Acquisitions bear the entrepreneurial risk of the acquired company not performing as well economically as
+expected in the market, or of the sales and earnings targets being pursued with its acquisition not being reached,
+or of intended synergy effects with the Carl Zeiss Meditec Group not being achievable. The Group tracks the
+associated risks and opportunities over time. A key element prior to execution of a transaction is a standardized
+process for mergers & acquisitions, including a due diligence review to assess the business development that
+can be expected. The economic impact and probability of occurrence are therefore small.
+
+The consolidated statement of financial position shows goodwill from acquisitions totaling €328.7m, which is
+tested annually for impairment in accordance with IAS 36. A total of €327.8m of this goodwill is attributable
+to the Ophthalmic Devices SBU, and €0.9m to the Microsurgery SBU. The impairment tests carried out during
+the fiscal year under review did not give any indication of impairment of the goodwill-bearing cash-generating
+units (CGUs). Based on the development of business, the Group also anticipates positive results from subsequent
+tests. Due to changes in general economic conditions or changes in business models, impairment losses cannot
+be ruled out on goodwill recognized for individual or all companies acquired in the past.
+
+Legal risks, patents and intellectual property
+
+The Company's competitiveness depends on the protection of its technological innovations against exploitation
+by third parties. Violations of intellectual property and patent protection may compromise any technological
+lead and thus competitive advantages in all business segments. The expiry of property rights, particularly
+patents, as well as the geographical limitation of property rights could result in new or existing competitors
+
+
+--- Page 34 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+exploiting the inventions of the Carl Zeiss Meditec Group to enter the market or strengthen their market
+position. Furthermore, in spite of the measures taken, third parties may still attempt to copy or partly copy
+products of the Company, since the unauthorized use of intellectual property is generally difficult to monitor
+and copyright laws only provide for limited protection
+
+The Company employs a property rights strategy to protect its technologies and products. If ZEISS patent and
+brand rights are infringed by third parties, the Group takes legal steps to counter the associated high financial
+risk. Considering the importance of innovation for the Company, such cases can be expected with a certain
+degree of probability in future, even though such cases have rarely arisen in the past. When developing
+products and technologies, the Group checks whether the rights of a third party could be affected, develops
+non-protected solutions, if necessary, and acquires the requisite licenses and rights, or seeks other solutions
+by legal contract. Overall, the management does not expect risks in the area of patents and intellectual
+property to have any material effects on the Group's net assets, financial position or results of operations.
+
+Legal risks may arise due, among other things, to changes in general legal conditions in the relevant markets
+and to legal disputes with competitors, business associates or customers. Pending litigation amounts to a sum
+in the low single-digit millions and is not considered to be a substantial threat for the Group. Should it be
+necessary, the Group would set up adequate provisions as a precaution. Further details on litigation and
+arbitration proceedings involving the Carl Zeiss Meditec Group can be found in note "(31) Contingent liabilities
+and other financial commitments" in the accompanying notes to the consolidated financial statements.
+
+As a listed medical technology company with global operations, the Carl Zeiss Meditec Group is subject, in
+the countries in which the Group operates, to a large number of laws, regulations and guidelines. In order to
+ensure compliance with these regulations, these are regularly analyzed for any changes and internal processes
+and guidelines are adapted, if necessary. The Company has set out the basic principles of correct conduct
+
+in business activities in a Code of Conduct, which applies to all employees. In order to avoid breaches of
+compliance and minimize risks to the Group’s reputation, the Group has established a corporate-wide
+compliance organization. Regular training measures are also in place to familiarize the employees with internal
+guidelines and make them aware of the negative effects breaches could have. The management does not
+expect this to have any material effects on the Group's net assets, financial position or results of operations.
+
+Financial risks
+
+As a result of the European debt crisis there is a latent credit risk concerning business banks at which the
+
+Carl Zeiss Meditec Group holds deposits. However, the Company has taken various measures to mitigate risks.
+For example, it has introduced a monitoring procedure to monitor the current situation in the capital markets.
+The Company has categorized its financial risks as moderate. The basis for this categorization is the sound
+financing structure with an equity ratio of 70.0%, the large reserve of cash and cash equivalents, and strong
+cash flows from operating activities. Cash and cash equivalents at the Carl Zeiss Meditec Group are kept in
+reserve based on a rolling monthly cash forecast within a fixed planning period, and are managed as part of a
+Group-wide ZEISS cash pool.
+
+The financial risks also include liquidity risks, price fluctuation risks for financial instruments and risks associated
+with fluctuations in cash flows. These risks and their management are described in note "(37) Financial
+
+risk management" in the accompanying notes to the consolidated financial statements. There are no further
+significant risks beyond the risks already taken into account in the statement of financial position.
+
+Economic environment
+
+As a company with global operations, the Carl Zeiss Meditec Group is exposed to developments that pose a
+risk to the global economy. Therefore, the general global political situation, major natural disasters, macro-
+economic development and market trends in individual regions of the world may have diverse effects on the
+Carl Zeiss Meditec Group's chances of success in all business segments.
+
+63
+
+
+--- Page 35 ---
+
+64
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+The global economic environment, which has become more volatile over the last few years, resulting in greater
+overall economic risks, has once again changed for the worse due to the COVID-19 pandemic. Lockdowns,
+entry restrictions, disrupted supply chains, volatile commodity prices and worsening financial conditions have
+set off a lasting chain reaction, leading to fears of a global recession far beyond the economic downturn
+following the financial crisis of 2008/09. In many countries, the number of cases of COVID-19 have declined
+in the course of calendar year 2021 to date, also flanked by vaccination measures and a resumption of
+everyday business. There is therefore an expectation that it will not come to renewed large-scale closures,
+even with a rise in infections in fall and winter 2021/22. The Carl Zeiss Meditec Group’s business was only
+very moderately affected by the adverse effects of the pandemic in the fiscal year under review, and thus
+significantly less than expected.
+
+The Carl Zeiss Meditec Group took various measures to cushion the negative impacts of the pandemic, such
+as optimizing and reducing costs. The Group also remained in close contact with its customers to avoid
+another disruption to business during the pandemic measures in the past fiscal year. In addition, digital
+marketing and sales activities and digital service activities were expanded, anti-infection components were
+developed for own products, and support services for infection control concepts for customers were offered.
+
+Apart from the pandemic, economic development may also be curbed by reduced stability of the EU, as
+
+well as a general economic downturn. Furthermore, an increasingly protectionist economic policy is being
+observed in key markets in which the Group operates, such as the USA and China, the future direction of
+which is difficult to predict. Escalating trade tensions between China and the USA may have effects on global
+growth. There are also local risks and instabilities in emerging markets, such as Turkey or South America,
+which may cause global chain reactions.
+
+This trend in the overall economic situation may have an adverse effect on the economic situation of our
+customers and their demand for the Carl Zeiss Meditec Group's products, which may in turn have an adverse
+effect on sales and earnings. The early warning system for risks established by the Company enables these
+risks to be identified in good time to allow countermeasures to be initiated. In addition, the Group's inter-
+national presence means it is less affected by regional crises, and the highly differentiated product and customer
+structure of the Company limits its sales risks. According to current estimates, and in particular due to the
+pandemic, there are risks in the macroeconomic environment in the low-double-digit million euro range.
+
+Market and competition
+
+The Carl Zeiss Meditec Group is exposed to intense competitive pressure in both strategic business units.
+Besides the market entry of new competitors, there is also a risk, in the event of significant exchange rate
+fluctuations, of competitors from the beneficiary countries being able to offer their products at considerably
+lower prices in the market, and therefore improving their competitive position. Some competitors are better
+at dealing with competitive pressure, due to their higher total turnover and the financial resources they have
+at their disposal.
+
+In addition, existing competitors may be bought up by large, financially strong companies, or form alliances
+with each other, which may lead to even greater competitive pressure, lower selling prices, margin pressure
+and/or the loss of market shares. The Company prepares itself for such risks by continuously observing and
+
+analyzing the market, in order to be able to react with the necessary foresight.
+
+Health insurance funds, insurance companies or government health schemes reimburse the costs of certain
+medical treatments carried out using products of the Carl Zeiss Meditec Group. Changes in health care and
+reimbursement policy in Germany or abroad and, in particular, austerity measures as a result of the pandemic,
+may lead to the denial or reduction of reimbursements, which could reduce the demand for Carl Zeiss Meditec
+products. In the case of new products for which reimbursement cannot yet be predicted with certainty,
+
+
+--- Page 36 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+demand may be considerably dampened by the financial situation of consumers. Refractive surgery is generally
+an elective procedure, which patients pay for themselves. Demand therefore depends on general economic
+development. In addition, on the customer side, and particularly in the private health care sector, there is a
+noticeable increase in the formation of regional and national purchasing alliances, as well as clinic chains.
+Such a trend may lead to a fall in selling prices in this customer segment.
+
+Collectively, these market and competition-related risks may impact the Group's earnings by an amount in the
+mid-double-digit million euro range. On the other hand, the demographic trend in industrialized countries and
+economic development in the rapidly developing economies, as well as the increasing requirements placed
+
+on medical devices for diagnosing and treating age-related eye diseases, present growth opportunities for the
+Company.
+
+Product approval and political environment
+
+As the Group sells its products worldwide, statutory regulations have to be taken into consideration when
+manufacturing and launching products in the market, especially where explicit regulatory approvals and
+certifications are required. Although these requirements are incorporated into all stages of development,
+production and distribution, there is no guarantee that such approvals will be granted at all or in time for the
+planned launch in the market or that the Group's numerous registrations will still exist or be renewed in the
+future. This may lead to sales losses and, in the case of delayed product launches, to competitive disadvantages.
+In addition, registration requirements could become more stringent in future, also due in particular to increasing
+protectionist tendencies in various countries
+
+In order to be able to identify such developments in good time and respond appropriately, the Company
+monitors developments and approval procedures in this area very closely as part of its quality management
+system. This is especially the case right now with regard to the new EU medical devices directive, which
+entered into force in 2017. Any residual risks that remain move within the single-digit million euro range.
+
+Certified quality management
+
+A vital part of early risk detection is the Group's certified quality management system. Clearly structured and
+documented quality management processes ensure not only transparency, but are now a prerequisite in most
+markets for obtaining regulatory approval for medical devices. The quality management system employed
+
+by the Carl Zeiss Meditec Group was certified by DQS GmbH Deutsche Gesellschaft zur Zertifizierung von
+Managementsystemen and complies with the US standard for Good Manufacturing Practice (“GMP”), 21 C.FR.
+part 820, Quality System Regulation.
+
+Product liability risk
+
+There is a fundamental risk with some of the medical devices and system solutions and implants manufactured
+by the Company that, in spite of all reasonable measures being taken by the certified quality management
+system and compliance with all legal requirements, malfunctions may result in injury to or adverse effects for
+patients. This may be due, among other things, to components and raw materials purchased from external
+suppliers not meeting the specified quality requirements. Although no significant product liability claims have
+been made against the Company to date, no assurance can be given that Carl Zeiss Meditec will not be
+faced with such claims in the future. This may damage the Group’s reputation in the long term and lead to
+considerable legal costs, irrespective of whether a claim for damages ultimately materializes. Risk liability
+claims can be particularly high, especially in the USA, not to mention the costly recall campaigns that may be
+required.
+
+The Company covers itself against potential product liability claims by taking out product liability insurance.
+The possibility cannot be completely excluded that the Carl Zeiss Meditec Group's existing insurance coverage
+may not be sufficient to cover potential claims. Any residual risks that remain are within the low-single-digit
+million euro range.
+
+65
+
+
+--- Page 37 ---
+
+66
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Infrastructure risks
+
+Uncontrollable environmental influences, such as natural disasters or terrorist attacks, may result in an
+interruption to business operations at the affected locations, and may prevent the Company from providing
+regular production, distribution and other services in these regions and generating the expected earnings. All
+business segments could be affected by this. In addition, it could have adverse effects on the Company's
+customers domiciled in the affected region and on their willingness to invest, as well as the local suppliers
+there and their willingness to supply.
+
+The Company's headquarters, with major research and development departments and other key Group
+functions, are located in Germany, a region with a comparatively low risk of natural disasters. A second major
+site is located in the Greater San Francisco area in the USA, a region with an increased risk of earthquakes.
+
+In order to minimize potential damage, the Carl Zeiss Meditec Group has set up a crisis management system,
+and has also developed local and central plans for maintaining the functionality of critical business processes
+(business continuity plans). For this reason the Company does not expect any material adverse effects on its
+net assets, financial position or results of operations.
+
+Risks relating to the Group accounting process
+
+The main risks associated with the accounting process are that the financial statements may not provide a
+true and fair view of the net assets, financial position and results of operations as a result of unintentional
+errors or willful actions, or that there is a delay in publishing these. The accounting would not present a true
+and fair view of the Company in this case. Deviations are classified as significant if they could individually or
+collectively influence the economic decisions taken by the recipients of the financial statements based on the
+financial statements.
+
+In the area of accounting and Group accounting, processes ensure the completeness and accuracy of the
+financial statements with regularly reviewed, integrated, preventive and detective controls. All of the Group's
+internal accounting and valuation guidelines are collated in an accounting manual, which is available via the
+Group's intranet to all of the relevant organizational units and all of the Company's employees, along with
+the Group-wide financial reporting calendar. In addition, supplementary procedures, standardized reporting
+formats, IT systems and IT-assisted reporting and consolidation processes support the process for uniform and
+proper consolidated accounting.
+
+The operative, timely implementation of the systemic requirements is effected by the affected areas of
+
+Carl Zeiss Meditec AG and its subsidiaries. These are supported and monitored by the Carl Zeiss Meditec
+Group Finance department. The Group Finance department is responsible for consolidated reporting, including
+Group-wide financial and management information, forecasts, budgets and risk reporting. Acts of law,
+accounting standards and other pronouncements are continuously analyzed with regard to their relevance
+for and impact on the consolidated and annual financial statements.
+
+Additional disclosures pursuant to Section 289 (2) No. 1 HGB, Section 315 (2) No. 1 HGB
+
+In principle, price fluctuation risks cannot be ruled out. However, the Carl Zeiss Meditec Group counters
+these risks by focusing on product innovations and optimizing its production costs through cost-cutting and
+efficiency-enhancing measures. Potential risks of default on trade receivables — particularly given the worsening
+global debt situation and a potential risk of bad debt losses as a result — are minimized by means of an active
+credit control system. The Group also regularly sets up adequate provisions to cover such risks. On the whole,
+however, we consider this to be a limited risk. The ratio of valuation allowances on trade receivables to
+consolidated revenue was 0.7% in the fiscal year under review (prior year: 0.9%).
+
+The Carl Zeiss Meditec Group's financial situation can be considered sound. Cash and cash equivalents
+amounted to €7.4m as of the end of the reporting period on 30 September 2021. Added to this are credit
+balances recognized as receivables from the treasury of Carl Zeiss AG, in the amount of €949.3m. The Group
+
+
+--- Page 38 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+also generated cash flows from operating activities of €362.7m in the year under review. From a current
+perspective there are therefore no significant liquidity risks.
+
+All cash and cash equivalents, including the balances with the treasury of Carl Zeiss AG, are deposited at banks.
+Should it come to a loss of individual banks — due in particular to an increasingly unstable macroeconomic
+situation — the balances held there may be endangered. The Carl Zeiss Meditec Group counters this risk by
+continuously monitoring the solvency of the banks with which it has a business relationship and by spreading
+its assets among several banks via the treasury of Carl Zeiss AG.
+
+As a company with global operations, the Carl Zeiss Meditec Group is exposed to the effects of exchange rate
+fluctuations. In order to hedge against this currency risk, the Carl Zeiss Meditec Group concludes currency
+forward contracts based on planned transactions in foreign currency. These contracts generally span a period
+of up to one year. Based on current exchange rate fluctuations, currency effects may continue to impact the
+financial result depending on the extent of the fluctuations. The notes to the financial statements contain
+further details on forward exchange contracts.
+
+Overall assessment of the Company's risk situation
+
+At the time of preparation of this report, there were no discernible risks that could jeopardize the continued
+existence of the Carl Zeiss Meditec Group. In terms of the overall assessment, there are differences compared
+with the prior year in that the Group is faced with a significantly less acute risk situation, especially as it was
+less impacted by the COVID-19 pandemic than expected. The Management Board continues to see a solid
+foundation for further development of the Group and uses a systematic strategy and planning process to
+provide the necessary resources to exploit any opportunities that arise.
+
+DISCLOSURES PURSUANT TO SECTION 289 A AND 315 A HGB
+
+Carl Zeiss Meditec AG's subscribed capital amounts to €89,440,570 and is composed of 89,440,570 no-par
+value ordinary bearer shares (no-par value shares), each with a theoretical interest in the share capital of €1 per
+no-par value share. Each share entitles the bearer to one voting right and an equal share in Company profits.
+
+Other shares or shares with special rights that grant supervisory powers do not exist. Nor are there restrictions
+on the part of Carl Zeiss Meditec AG concerning the voting rights or transfer of shares. Furthermore, the
+Management Board is not aware of any other agreements concluded, for example, between individual
+shareholders.
+
+Carl Zeiss Meditec AG is aware of the following direct and indirect holdings in the capital of Carl Zeiss Meditec AG
+that exceed ten percent of the voting rights. Carl Zeiss AG, Oberkochen, Germany, holds, both directly and
+indirectly, a total of 59.1% of the voting rights in Carl Zeiss Meditec AG. This corresponds to 52,893,270 no-par
+value shares. These include 6.8% of the voting rights or 6,074,256 no-par value shares in Carl Zeiss Meditec AG,
+which Carl Zeiss AG holds indirectly via its wholly owned subsidiary Carl Zeiss, Inc., Thornwood, USA.
+
+Employees of Carl Zeiss Meditec AG or its affiliated companies pursuant to Section 15 et seqq. AktG, who
+participated in the Company via employee share plans concerning the share capital of Carl Zeiss Meditec AG in
+prior years, exercise their control rights directly like all other shareholders of the Company.
+
+Pursuant to Section 179 and Section 133 AktG, an amendment to the Articles of Association requires a resolution
+by the Annual General Meeting which, in turn, requires a simple majority of the votes cast and a majority
+comprising at least three quarters of the share capital represented at the time the resolution is passed. The
+Articles of Association may specify a different capital majority; in the case of an amendment to the purpose
+of the Company, however, only a larger capital majority may be specified. Art. 25 of Carl Zeiss Meditec AG's
+
+67
+
+
+--- Page 39 ---
+
+68
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Articles of Association states that in cases for which the law requires a majority of the share capital represented
+at the time of resolution, a simple majority of the share capital represented is sufficient, provided that a greater
+majority is not mandatory by law. Pursuant to Art. 28 of the Articles of Association of Carl Zeiss Meditec AG,
+the Supervisory Board is authorized to resolve amendments to the Articles of Association that only affect the
+version. This complies with Section 179 (1) Sentence 2 AktG
+
+The legal provisions concerning the appointment and dismissal of members of the Management Board are set
+forth in Section 84 and Section 85 AktG. In compliance with this, Art. 6 (2) of the Articles of Association of
+Carl Zeiss Meditec AG stipulates that the Supervisory Board shall be responsible for appointing and dismissing
+the members of the Management Board. Pursuant to statutory provisions, a member of the Management
+Board may only be dismissed for compelling reasons.
+
+Pursuant to Art. 4 (5) of the Articles of Association of Carl Zeiss Meditec AG, the Company has an Authorized
+Capital. Accordingly, the Management Board was authorized — after partial utilization in March 2017 in the
+amount of €8, 130,960.00 with the exclusion of statutory subscription rights — subject to the approval of
+
+the Supervisory Board, to increase the share capital, on one or several occasions until 5 April 2021, by up to
+€32,523,845.00 (Authorized Capital 2016). New no-par value bearer shares were issued against cash and/or
+contributions in kind for this. The Management Board was authorized, subject to the approval of the Supervisory
+Board, to exclude shareholders’ statutory subscription rights in the following cases:
+
+» to balance out fractional amounts,
+
+» if the capital increase is effected against cash contributions and the new shares, for which the subscription
+rights are excluded, are equivalent to no more than 10% of the share capital, neither on the date the increase
+becomes effective, nor on the date this authorization is exercised, and the issuing price of the new shares is
+not significantly lower than the market price of shares of the same type and structure already publicly quoted
+Sales of own shares on the basis of other authorizations pursuant to Art. 186 (3) sentence 4 AktG must be
+taken into account in the limitation to 10% of the share capital.
+
+» for capital increases against contributions in kind to grant shares for the purpose of acquiring companies,
+parts thereof or interests in a company.
+
+The Management Board is authorized, subject to the approval of the Supervisory Board, to specify the further
+details of capital increases from Authorized Capital.
+
+The Management Board is furthermore authorized, pursuant to Art. 3 (6) of the Articles of Association and
+subject to the approval of the Supervisory Board, to increase the share capital on one or several occasions up
+until 29 May 2022, by issuing new no-par value shares against cash and/or contributions in kind, up to a total
+value of €12,196,440.00 (Authorized Capital 2017). Shareholders shall be granted a subscription right, with the
+following restrictions. The Management Board shall be authorized, subject to the approval of the Supervisory
+Board, to exclude fractional amounts from the shareholders’ subscription right and also to exclude the
+subscription right to the extent necessary to grant the bearers of warrants and convertible bonds issued by
+Carl Zeiss Meditec AG or its subsidiaries a subscription right to new shares in the scope to which they would
+be entitled after exercising such warrant or convertible bond. The Management Board shall furthermore be
+authorized, subject to the approval of the Supervisory Board, to exclude the subscription right, in the case of
+a capital increase against cash contributions, for an amount of up to 10% of the share capital existing at the
+time the Authorized Capital 2017 enters into effect or — if lower — the share capital existing at the time of the
+resolution on the appropriation of the Authorized Capital 2017, if the issuing amount of the new shares is not
+significantly lower than the market price of the Company shares already listed at the date of final specification
+of the issue amount, which should occur as close as possible to the date of placement of the shares. This
+upper limit of 10% of the share capital shall take into account the pro rata amount of the share capital that is
+attributable to shares issued from Authorized Capital 2017 since granting of this authorization up until
+
+
+--- Page 40 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+utilization of this authorization pursuant to Section 186 (3), sentence 4 AktG, with the exclusion of subscription
+rights, either on the basis of an authorization of the Management Board to exclude subscription rights in direct
+or analogous application of Section 186 (3), Sentence 4 AktG, or sold as acquired own shares in accordance
+with Section 186 (3), sentence 4 AktG, as well that pro rata amount of the share capital attributable to shares
+to which conversion and/or option rights or conversion obligations arising from bonds apply, which are issued
+up until utilization of this authorization, with the exclusion of subscription rights, pursuant to Section 186 (3),
+sentence 4 AktG. The Management Board shall also be authorized, subject to the approval of the Supervisory
+Board, to exclude the subscription right for a capital increase against contributions in kind to grant shares
+
+for the purpose of acquiring companies, parts of companies or investments in companies or other investable
+assets, including receivables. In addition, the Management Board shall be authorized to stipulate the further
+details of the capital increase and its implementation, subject to the approval of the Supervisory Board.
+
+Based on the resolution of the Annual General Meeting of Carl Zeiss Meditec AG on 6 August 2020, the
+Management Board is authorized to purchase own shares. This authorization is valid until 5 August 2025. The
+shares may be purchased, subject to the approval of the Supervisory Board:
+
+» to offer them for purchase to employees of the Company and the companies affiliated with the Company
+within the meaning of Section 15 et seqq. German Stock Corporation Act (AktG) — noting that the right of
+shareholders to subscribe to own shares is excluded — or
+
+» as a (part) consideration within the scope of business combinations or to acquire companies, investments in
+companies or parts of companies and other assets, e.g. land or buildings or receivables from the Company or
+companies affiliated with it within the meaning of Section 15 et seqq AktG — whereby the right of shareholders
+to subscribe to own shares is also excluded — or
+
+» to recall them
+
+This authorization is limited to the purchase of shares equivalent to a proportionate amount of the share
+capital of €8,940,000.00. The shares shall be purchased at the stock exchange. The consideration paid by the
+Company per share (excluding incidental purchase costs) may not be more than 10% above or below the
+closing rate of the shares in Xetra trading (or an equivalent successor system to the Xetra trading system) at the
+Frankfurt Stock Exchange on the previous day of trading. At no time may the purchased shares, together with
+other own shares held by the Company and ascribable to it pursuant to Section 71a et seqq. AktG, exceed
+10% of the share capital.
+
+The Company has not entered into any significant agreements contingent upon a change of control following
+a takeover bid.
+
+Nor has the Company concluded any compensation agreements with the members of the Management Board
+or employees for the event of a takeover bid.
+
+SUPPLEMENTARY REPORT
+
+No events of material significance for the Group's net assets, financial position and results of operations
+occurred after the end of fiscal year 2020/21.
+
+The development of business at the beginning of fiscal year 2021/22 validates the statements made in the
+following "Outlook"
+
+We refer here to the information in the notes to the financial statements under section 39 “Events after the
+end of the reporting period”.
+
+69
+
+
+--- Page 41 ---
+
+70
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+OUTLOOK
+Future conditions for business development
+
+Macroeconomic conditions”°
+
+Currently, economists are projecting continued growth of the global economy — albeit at a somewhat
+
+more moderate pace due to the catch-up effects that have already taken place following the recession. It
+
+is expected that supply bottlenecks — such as the shortage of semiconductor chips, for example — will have
+adverse effects in the coming year. This forecast is subject to major uncertainties, however. It is not possible
+at present to predict exactly how the COVID-19 pandemic will develop. The increased debt as a result of the
+pandemic may lead, especially if interest rates increase, to payment defaults or a reluctance to invest.?'
+
+In addition, the tensions between the U.S. and China are increasing the risks to free trade and may adversely
+affect global economic development. The rising energy prices are having a positive effect on the economies of
+oil and gas producing countries, while the higher prices may put a strain on importing countries.
+
+Future situation in the medical technology industry?”
+
+The Company's management generally expects to see further growth on the medical technology market, as
+the factors responsible for this still hold true. In addition to the increase in the global population, key growth
+drivers also include a rising proportion of elderly people and a growing percentage of the global population
+with access to state-of-the-art medical care. The greater demands being placed on innovative capacity in the
+medical technology industry also play an important role. Consequently, the products and procedures of medical
+technology manufacturers shall no longer be measured based solely on their effectiveness and safety, but also
+on their cost-efficiency. Digitalization is another aspect that has already transformed the structure of the medical
+technology industry today. Integrated system solutions for simplified workflows are a key differentiator for
+customers. This presents a major opportunity for companies to help design products and solutions in health
+care and to thus contribute to better treatment outcomes. In the Company's view, the integration of medical
+technology and information technology shall continue to proceed at a fast pace.
+
+If nothing else, the development of the global economy shall influence the growth of the medical technology
+industry. Both private customers and public authorities base their investment decisions on it to a certain
+extent. The COVID-19 pandemic has had a material adverse effect in fiscal year 2019/20, for example because
+of the cancellation of postponement of non-urgent eye operations, such as cataract surgery. In fiscal year
+2020/21 this economic uncertainty eased significantly, however — procedures in the area of cataract surgery,
+for example, have returned to close to their normal level prior to the COVID-19 pandemic.
+
+At the present time, growth in the medical technology industry as a whole is expected to be in the low to
+mid-single-digit percentage range in the coming years.
+
+Future development in the strategic business units
+of the Carl Zeiss Meditec Group
+
+Ophthalmic Devices strategic business unit
+
+In fiscal year 2020/21, the Ophthalmic Devices strategic business unit recorded a significant recovery of revenue
+compared with the prior year, which was hampered by the effects of the COVID-19 pandemic. Renewed
+growth is expected in fiscal year 2021/22, at least to the same extent as the underlying market. From a current
+
+29 MF: World economy outlook update , July 2021
+2" Wall Street: Surge in interest rates on the bond market causes investors to flee, September 2021
+® Luther. and Clairfield Intemational, Marktstudie Medizintechnik 2020
+
+
+--- Page 42 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+perspective, and without taking currency effects into account, this corresponds to growth at least in the low
+to mid-single-digit percentage range. One uncertainty that remains is the situation regarding the global supply
+chains. Due among other things to difficulties in materials procurement, lead times for key products are
+currently significantly longer than the long-term averages. The result is an increased order backlog. If it proves
+possible to counter these difficulties in the course of fiscal year 2021/22, it will be possible to process existing
+orders at a faster pace and thus achieve faster revenue growth. The EBIT margin is likely to decline slightly
+
+in fiscal year 2021/22, due among other things to the anticipated normalization of selling and marketing
+expenses in light of the lessening effects of the COVID-19 pandemic.
+
+The acquisition of Carl Zeiss Meditec Cataract Technology, Inc. in December 2018 offers the potential to
+further improve the quality of treatment results and the efficiency of workflows in cataract surgery through
+innovative, novel treatment options. The aim of product development is the safe removal of the natural
+
+lens before implantation of an intraocular lens. The development projects initiated in connection with the
+acquisition made further progress in fiscal year 2020/21 in the area of clinical trials. The company anticipates
+dynamic growth in the cataract surgery market in the coming years. Already today this procedure represents
+one of the most frequently performed surgical procedures worldwide.
+
+Microsurgery strategic business unit
+
+In the past fiscal year 2020/21 under review, the strategic business unit Microsurgery recovered significantly
+from the effects of the COVID-19 pandemic and, in particular in the second half of the fiscal year, it achieved
+significant, double-digit percentage growth.
+
+The Company expects the Microsurgery strategic business unit to continue to make significant contributions
+to earnings in future, too, and is optimistic that it will grow at a faster rate than the underlying market in the
+coming fiscal year. From a current perspective, and excluding currency effects, the growth anticipated in fiscal
+year 2021/22 will be at least in the low to mid-single-digit percentage range. One uncertainty that remains is
+the situation regarding the global supply chains. Due among other things to difficulties in materials procurement,
+lead times for key products are currently significantly longer than the long-term averages. The result is an
+increased order backlog. If it proves possible to counter these difficulties in the course of fiscal year 2021/22,
+it will be possible to process existing orders at a faster pace and thus achieve faster revenue growth. The EBIT
+margin is expected to be roughly at the average level for the Carl Zeiss Meditec Group in fiscal year 2021/22.
+
+Future selling markets
+
+As a global Company, Carl Zeiss Meditec AG's aim in the years ahead shall be to maintain as balanced a
+distribution of revenue across the individual markets as possible. The Company sees particularly promising
+business prospects for the long term in the APAC region, due to the rapid economic growth there. In the
+medium term, Carl Zeiss Meditec AG also sees opportunities for further growth in the North American market,
+due to the targeted expansion of market shares in the surgical consumables business.
+
+Future research and development activities
+
+The Carl Zeiss Meditec Group invests continuously in research and development projects, in which efficient
+and targeted development processes play a key role. The Company searches for new technologies and market
+trends, in order to subsequently become established on the market with new solutions. To achieve this,
+regional market conditions and the needs of the customers are involved in the development process from the
+outset. Investment in digitalization will play an important role in this. R&D expenditure is expected to increase
+further in fiscal year 2021/22, to at least a high-single-digit percentage amount (2020/21: €232.1m).
+
+71
+
+
+--- Page 43 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Future investments
+
+The investment ratio of the Carl Zeiss Meditec Group has been largely consistent over the past few years.
+Even the investments required to realize growth targets shall not significantly change the current investment
+ratio in the coming fiscal year. The Company plans to invest around 3% of its revenue in property, plant and
+equipment (cash) in fiscal year 2021/22.
+
+Future dividend policy
+
+Carl Zeiss Meditec AG pursues a long-term and earnings-oriented dividend policy. The Company's management
+plans to propose to the Annual General Meeting the distribution of a dividend of €0.90 per share for the past
+fiscal year. The dividend ratio would therefore be 34.1% (prior year: 36.5%).
+
+Future employee development
+
+Qualified and highly motivated employees are essential for the Company's success: we need them to be able to
+continue to work innovatively and profitably in future. It is crucial to keep investing in the further development
+of existing employees in future, and to recruit well qualified specialists and managers. The Company therefore
+expects employee growth in the coming periods to correlate with the Company's business development.
+
+Future financial position
+
+Interest income and expenses depend on changes in interest rates on the financial markets. At present, the
+Company does not expect any marked improvements in investment conditions in the next two years. Interest
+income and interest expenses are thus expected to remain around the prior year's level. As of 30 September
+2021, current cash and cash equivalents of around €939.9m are available for financing. Based on this and
+the continued expectation of positive business development and a positive cash flow from operating activities
+as a result, as well as the possibility to use other financial instruments and sources of financing, if required,
+the management considers the Carl Zeiss Meditec Group's financing capacity to be adequate. In fiscal year
+2021/22, the aim is to achieve operative cash flow that is at least in low three-digit million range, based on
+active working capital management.
+
+Future opportunities
+
+The global medical technology market is characterized by fundamentally sustainable growth. This applies to
+both ophthalmology and microsurgery and assures us of good selling conditions for the Company. Additional
+opportunities are provided by our product range, which is to be expanded further in the fiscal year ahead.
+Our strong financial profile, which safeguards the Company's development against external influences, should
+also have a positive effect. Future development shall also include external growth opportunities in some areas.
+In a systematic process Carl Zeiss Meditec AG continuously looks for strategically meaningful acquisitions. It is
+not possible at this point to say how feasible such opportunities might be.
+
+
+--- Page 44 ---
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+Overall assertion on future development
+
+At the time of publication of this management report the management of the Carl Zeiss Meditec Group
+considers the outlook for the next two fiscal years to be generally positive. This assumption is also based on
+the persistent underlying long-term trends already described above. One factor of uncertainty that remains,
+in the Company’s estimation, is the aforementioned tense situation surrounding the global supply chains.
+
+The management therefore generally assumes that revenue growth will be at least in line with the market
+growth expected for the industry, which, from today's perspective and without taking currency effects into
+consideration, will be at least in the low to mid-single-digit percentage range.
+
+A crucial advantage for even greater stability of our overall business is a higher proportion of revenue with
+case-number-dependent products and services, since there is generally less fluctuation in these areas than in
+the capital goods business, for example. A share of around 41% was achieved in fiscal year 2020/21. From a
+current perspective, we expect a further increase in fiscal year 2021/22 and in the medium term.
+
+Carl Zeiss Meditec anticipates further growth in fiscal year 2021/22 that is at least on a par with the market
+growth projected for the industry, which, from today’s perspective and without taking currency effects into
+consideration, corresponds to growth at least in low to mid-single-digit percentage range. The EBIT margin
+
+is expected to decline slightly compared with the prior-year margin of 22.7%, to within the range of around
+19% to 21%, due, among other things, to the anticipated normalization of selling and marketing expenses in
+light of the lessening effects of the COVID-19 pandemic.
+
+In the medium term, the Company expects to be able to sustainably establish its EBIT margin at a level above
+20% (2020/21: 22.7%). In principle, the growing proportion of recurring revenue offers further upward
+potential in this respect. Conversely, there is an ongoing high need for investments, particularly in the areas of
+research and development and sales and marketing.
+
+In terms of free cash flow for fiscal year 2021/22, Carl Zeiss Meditec AG is striving for a figure in at least the
+low three-digit million range. The Company expects Economic Value Added® (EVA®) in the coming fiscal year
+to be slightly below to around the level of fiscal year 2020/21.
+
+Should there be any significant changes in the economic environment currently forecast over the course of
+the fiscal year, and should it thus become necessary to amend the statements made here on the development
+of business from today's perspective, these amendments shall be published promptly and shall specify our
+expectations in more detail.
+
+FINAL DECLARATION OF THE MANAGEMENT BOARD ON THE
+DEPENDENT COMPANY REPORT PURSUANT TO SECTION 312 (3) AKTG
+
+As a group company within Carl Zeiss AG, Carl Zeiss Meditec AG has prepared a dependent company report
+pursuant to Section 312 German Stock Corporation Act (AktG). In light of the circumstances known to the
+Management Board at the time the legal transactions were concluded, the companies of Carl Zeiss Meditec AG
+received an appropriate consideration for each of the transactions listed in this report concerning relationships
+with affiliated companies. No other reportable transactions pursuant to Section 312 (1) Sentence 2 AktG were
+entered into by the Company.
+
+73
+
+
+--- Page 45 ---
+
+74
+
+BACK TO CONTENTS
+
+CONSOLIDATED MANAGEMENT REPORT
+
+DECLARATION ON CORPORATE GOVERNANCE (PURSUANT TO
+SECTION 289F, 315D HGB) AND CORPORATE GOVERNANCE REPORT
+
+The declaration on corporate governance (pursuant to Section 289f HGB and 315d HGB) includes the
+declaration of conformity pursuant to Section 161 AktG, relevant information on corporate governance
+practices applied which go beyond the statutory requirements, in addition to information of where these are
+publicly accessible and a description of how the Management and Supervisory Boards work, as well as the
+composition and mode of working of their committees. In addition, disclosures are made concerning the
+stipulation of targets for the proportion of women on the Management Board and within the next two levels
+of management below the Management Board, including the deadlines for attaining these targets, and
+concerning compliance with the minimum proportions of women and men on the Supervisory Board
+
+The Declaration on Corporate Governance is available at
+
+www.zeiss.de/meditec-ag/investor-relations/corporate-governance.html.
+
+Jena, 26 November 2021
+
+if gull
+
+Dr. Ludwin Monz Justus Felix Wehmer Jan Willem de Cler
+President and CEO Member of the Member of the
+Management Board Management Board

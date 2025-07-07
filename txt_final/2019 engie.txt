@@ -1,0 +1,1321 @@
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+1 ENGIE 2019 RESULTS
+
+The previously published financial data presented hereafter have been restated to take into account impacts resulting from
+the transition method used for the application of IFRS 16 — Leases. A reconciliation of the reported data with the restated
+comparative data is presented in section 6 of the management report for key financial indicators and Note 1 “Accounting
+framework and basis for preparing the consolidated financial statements”.
+
+ENGIE financial information at December 31, 2019
+2019 net recurring income Group share guidance achieved
+EUR 0.80 dividend per share to be proposed at the AGM (+7% vs. 2018)
+
+e Net recurring income Group share (NRIgs) of €2.7 billion, up 9%, and 11% on an organic ™ basis.
+
+e Current operating income (COl) of €5.7 billion, up 11%, and 14% on an organic basis, mainly driven by
+Nuclear, Others (notably Energy Management), Thermal and Renewables, partially offset by Supply and
+Networks. EBITDA of €10.4 billion, up 7%, and 8% on an organic basis.
+
+e Financial net debt increased by €2.7 billion mainly due to growth investments, notably the TAG acquisition,
+which closed in H1. Financial net debt / EBITDA ratio of 2.5x.
+
+e For fiscal year 2019, it will be proposed to the AGM to increase the dividend to €0.80 per share, up 7%
+versus 2018 ordinary dividend.
+
+e 2020 net recurring income Group share (NRIgs) expected to be between €2.7 billion — €2.9 billion ®. For
+2022, ENGIE anticipates a NRIgs CAGR in the range of 6-8% (to reach €3.2 billion and €3.4 billion).
+
+Key Financial data at December 31, 2019
+
+% change % change
+
+Dec. 31, 2018 (reported (organic
+In billions of euros Dec. 31 , 2019 with IFRS 16 basis basis
+Revenues 60.1 57.0 +5.4% +4.1%
+Adjusted revenues (") 64.1 60.6 +5.8% +4.7%
+EBITDA 10.4 9.7 +6.8% +8.1%
+CURRENT OPERATING INCOME (COl) EWA 5.2 +11.1% +14.4%
+Net recurring income relating to continued operations,
+Group share (‘) 2.7 2.5 +9.3% +11.1%
+Net income, Group share 1.0 1.0
+Cash Flow From Operations (CFFO) ?) 7.6 7.7 (0.2)
+Financial net debt 25.9 23.3 2.7 vs Dec. 31, 2018
+
+(1) In Q4 2019, the Group has implemented a new IFRS pronouncement related to commodity derivatives and requiring a change in
+presentation of Revenues with no impact on other performance indicators. For comparability with previous communications, adjusted
+revenues are also provided based on the former definition. For more information please refer to Note 1 to the 2019 consolidated
+financial statements.
+
+(2) Cash flow from operations = Free cash flow before maintenance Capex.
+
+In 2019, the drivers of the gross COI evolution were as follows:
+
+e Nuclear was driven by higher availability of Belgian production units and slightly more favorable achieved prices;
+e — In business line Others, increasing Energy Management results were mainly driven by the partial sale of a gas
+supply contract, performance of market activities and gas contract renegotiations;
+
+(1) Organic variation: gross variation without scope and foreign exchange effect.
+
+(2)These targets and this indication assume average weather conditions in France, full pass through of supply costs in French regulated
+gas tariffs, no significant accounting changes, no major regulatory or macroeconomic changes, commodity price assumptions based
+on market conditions as of December 31, 2019 for the non-hedged part of the production, no change in the nuclear provision legal and
+regulatory framework, average foreign exchange rates as follows for 2020: €/USD: 1.13; €/BRL: 4.57 and dilution from the €4 billion
+disposal plan for 2020-22.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+6
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+e Client Solutions results benefited from the contribution of acquisitions and the performance of decentralized
+energy activities, partly offset by investments in business development capability and some operational
+restructuring actions;
+
+e Networks was impacted by several negative effects outside France (mainly one-offs and temperature) as well as
+several adverse factors in France that were expected and are mostly temporary (mainly tariff smoothing in
+transmission). Networks also benefited from the first year contribution of the TAG gas transmission pipeline in
+Brazil, acquired in mid-2019;
+
+e Renewables benefited from higher Brazilian hydro prices and increasing commissioning of renewable capacity
+(3.0 GW in 2019). The target of 9 GW to be commissioned from 2019 to 2021 is now fully secured;
+
+e Supply activities continued to be impacted by a difficult market context, mainly from margin contractions in French
+retail, by positive 2018 one-offs in Benelux and adverse temperature effects in Australia and France;
+
+e | Thermal was impacted by the disposal of Glow partly offset by Power Purchase Agreement (PPA) performance
+and positive market price conditions in Chile as well as the reinstatement of the capacity remuneration mechanism
+in the United Kingdom.
+
+ENGIE continued to pursue its strategic focus on the energy transition in 2019.
+
+In Client Solutions, ENGIE and its partners won commercial contracts for the University of lowa (United States),
+government buildings in Ottawa (Canada), a “smart region” around Angers (France) and industrial buildings in Singapore.
+In addition, ENGIE made several acquisitions including Conti in North America, Otto Industries in Germany and Powerlines
+in Austria. ENGIE Impact was created to bring large customers with solutions to build their sustainability roadmap and
+accelerate their energy transition.
+
+In Networks, ENGIE announced on June 13, 2019 that the consortium in which it holds a majority stake completed the
+acquisition of a 90% shareholding in TAG, the largest gas transmission network owner in Brazil. TAG has a portfolio of
+long-term contracts providing an attractive earnings stream and improves diversification of ENGIE’s geographic footprint
+in Networks activities. In January 2020, ENGIE also further strengthened its position in Brazil by announcing the acquisition
+of a project of a 1,800 km power transmission line. Finally, ENGIE gained visibility on the financial outlook of its French
+gas networks activities with the conclusion of the regulatory reviews between the end of 2019 and the beginning of 2020.
+
+In Renewables, 3.0 GW of renewable capacity was commissioned and the 9 GW commissioning target, over 2019-21, is
+now fully secured. The new joint-venture in Mexico with Tokyo Gas and the strategic partnership signed with Edelweiss
+Infrastructures Yield in India at the beginning of 2020 demonstrate ENGIE’s ability to deploy the DBSO “) model and attract
+partners for the development of its portfolio. In addition, ENGIE, along with financial partners, won a bid to acquire a
+1.7 GW hydroelectric portfolio from EDP in Portugal. Finally, in January 2020, ENGIE reached an agreement with EDPR
+for the 50/50 joint-venture in offshore wind to create a global offshore wind player.
+
+In Thermal, ENGIE continued to execute its carbon footprint reduction strategy, with coal now approximately 4% of global
+power generation capacity, following the disposal of its 69.1% stake in Glow in Thailand and Laos (3.2 GW of generation
+capacity, of which 1.0 GW is coal), ending its participation in coal in the Asia-Pacific region, and the disposal of its German
+and Dutch coal assets (capacity of 2.3 GW).
+
+In Nuclear, an arrangement on Belgian nuclear provisions was reached reducing uncertainty for all parties regarding the
+level of provisions and their funding.
+
+1.1 Analysis of financial results at December 31, 2019
+
+1.1.1. Revenues of €60,1 billion
+
+Revenues were €60.1 billion, up 5.4% on a gross basis and 4.1% on an organic basis.
+
+(1) Develop, Build, Share & Operate.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+7
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+Reported revenue growth was driven by scope effects, including various acquisitions in Client Solutions (primarily in the
+United States with Conti, France and Latin America with CAM) and in BtoB Supply in the US, partially offset by the disposals
+of ENGIE’s stake in Glow in Thailand in March 2019 and of BtoB Supply activities in Germany at the end of 2018. This
+growth also includes a slightly positive foreign exchange effect, mainly due to the appreciation of the US dollar, partly offset
+by the depreciation of the Argentinian peso and the Brazilian real against the euro.
+
+Organic revenue growth was primarily driven by Supply revenues in North America, France and Europe, growth in Client
+Solutions in Europe, energy management services and favorable market conditions for Global Energy Management (GEM)
+activities and strong momentum in Latin America (PPA portfolio growth in Chile as well as commissioning of new wind and
+solar farms in Brazil). This growth was partially offset by lower revenues from Supply activities in the UK and Australia and
+from Thermal activities in Europe.
+
+Clients Solutions revenues were up 11% on a gross basis and 3% on an organic basis, benefiting from a positive effect of
+acquisitions and favorable market context for industrial clients in Europe.
+
+1.1.2. EBITDA of €10.4 billion
+
+EBITDA was €0.4 billion, up 6.8% on a gross basis and 8.1% on an organic basis.
+
+These gross and organic variations are overall in line with the current operating income growth, except for the increase in
+depreciation mainly due to the commissioning of assets in Latin America and in France, especially in Networks which are
+not taken into account at EBITDA level.
+
+In addition, Lean 2021, which contributes to the organic increase at EBITDA and COI levels, exceeded the 2019 targets
+and is on track to meet the target set for 2021.
+
+1.1.3. Current operating income (COl) of €5.7 billion
+
+Current operating income amounted to €5.7 billion, up 11.1% on a reported basis and 14.4% on an organic basis.
+
+The reported COI growth includes a positive foreign exchange effect, mainly due to the appreciation of the US dollar,
+partly offset by the depreciation of the Argentinian peso and the Brazilian real against the euro This positive effect is partly
+offset by an aggregate negative scope effect, including the disposal of the 69.1% stake in Glow in Thailand and Laos,
+partly offset by various acquisitions predominantly in Networks (TAG) and in Client Solutions.
+
+Organic COI performance varied across the Group’s business lines:
+
+% change % change
+
+Dec. 31, 2018 with (reported (organic
+
+In millions of euros Dec. 31 , 2019 IFRS 16 basis basis’
+Client Solutions 1,090 1,010 47.9%") -0.9%
+Networks 2,327 2,401 -3.1% -5.6%
+Renewables 1,190 1,129 +5.4% +7.5%
+Thermal 1,260 1,423 -11.5% +7.2%
+Nuclear (314) (1,051) +70.1% +70.1%
+Supply 345 539 -36.0% -33.5%
+Others 172 297 +42.1% +41.6%
+TOTAL 5,726 5,154 +11.1% +14.4%
+
+(1) Excluding the impact from the 2019 SUEZ one-offs, this gross evolution would have been c. +7% (c. € +10 million net positive impact:
+positive outcome on Argentina court case, restructuring costs and asset write-downs).
+
+e Client Solutions reported a 1% organic COI decrease, impacted by headwinds in specific segments and an
+increase in development costs notably on newer growth businesses. These effects were partly offset by an
+increased contribution from SUEZ and decentralized energy activities.
+
+e Networks reported a 6% organic COI decrease, mainly due to gas distribution activities with 2018-19 negative
+one-off effects recorded outside of France and negative temperature effects in France and in Europe, only partially
+offset by a commissioning costs provision reversal and tariff increases in France. Gas transmission activities in
+France also suffered from a negative volume effect due to the merger of the North and South gas market zones
+and from a negative price effect resulting from tariff smoothing.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+8
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+e Renewables reported an 8% organic COI increase, primarily driven by higher prices for hydroelectric power
+generation in Brazil and in France and the 3.0 GW commissioning of new capacities since January 1, 2019, notably
+in Brazil (0.5 GW), the United States (0.5 GW), Spain (0.4 GW), Mexico (0.3 GW), India (0.3 GW), France (0.3 GW)
+and Egypt (0.3 GW). These positive effects were partly offset by lower DBSO margins compared to the high level
+of DBSO transactions in 2018 and lower hydroelectric power generation in France.
+
+e Thermal showed a 7% organic COl increase, mainly attributable to the PPA portfolio growth and positive market
+price conditions in Chile. In addition, the reinstatement of the capacity remuneration mechanism in the United
+Kingdom, as well as and the favorable impact of the gas spreads in Europe were positive. These effects were
+partially offset by the expiry of a PPA in Turkey in April 2019. The amount of liquidated damages received was
+roughly stable in 2019 versus 2018.
+
+e Nuclear delivered a 70% organic COI! growth, benefiting from higher availability rates in Belgium following 2018
+unplanned outages (+2,720bps and +62% volumes produced) and better achieved prices (+2€/MWh).
+
+e Supply CO! reduced by 34% on an organic basis, primarily driven by margin pressures on French gas and
+electricity retail contracts, a commissioning costs accrual reversal (related to the coverage of the cost to serve
+customers handled by energy suppliers during the French market opening, from 2007 to 2016, fully offset by a
+symmetrical provision reversal for Gas distribution in France), 2018 positive one-offs in Benelux and negative
+temperature effects in Australia and in France. These effects were partly offset by higher business margins in
+France.
+
+e Others business line delivered 42% organic COI growth, mainly reflecting GEM’s good performance coming from
+the partial sale of a gas supply contract to Shell and a positive impact from gas contract renegotiations and overall
+favorable market conditions, as well as lower Corporate costs.
+
+Organic COI performance varied across segments:
+
+% change % change
+Dec. 31, 2018 (reported (organic
+
+In millions of euros Dec. 31 , 2019 with IFRS 16 basis basis
+France 2,861 3,057 6.4% -7.0%
+France excluding Infrastructures 903 1,039 -13.1% -15.2%
+France Infrastructures 1,957 2,018 -3.0% -2.8%
+Rest of Europe 684 46 +1,400.5% +1,121.9%
+Latin America 1,694 1,359 +24.6% +20.2%
+USA & Canada 159 153 +3.9% -5.5%
+Middle East, Asia & Africa 559 896 -37.6% -9.1%
+
+Others 231 357
+TOTAL 5,726 5,154 +11.1% +14.4%
+
+Based on the reportable segments, the organic COI growth was led by the Rest of Europe (mainly driven by the recovery
+of Nuclear activities with better availability and higher prices, the reinstatement of the capacity remuneration mechanism
+in the United Kingdom, the favorable impact of gas spreads in Europe; partly offset by 2018 positive one-offs including
+Liquidated Damages received, difficulties in Benelux and the UK in Supply activities and in Client Solutions with some
+loss-making contracts), by the Others segment (mainly due to GEM’s good performance in market activities and an
+increased contribution from SUEZ) and by Latin America (notably due to the favorable impact of LDs received in Thermal
+activities in 2019, higher prices for hydroelectric power generation and commissioning of new wind and solar assets in
+Brazil and in Mexico as well as PPA portfolio growth in Chile).
+
+These positive impacts were partly offset by an organic COI decrease in Middle East, Africa & Asia (mainly driven by
+headwinds in Supply in Australia and Africa, in Networks in Turkey, partly offset by positive contribution of Thermal
+generation and Renewables activities), in France (for France excluding Infrastructures, mainly due to lower DBSO margins
+compared to the 2018 high level, margin pressure in Supply activities and lower hydroelectric power generation partly
+offset by higher hydro prices, increased wind and solar contributions and improved profitability in Client Solutions activities;
+for France Infrastructures, mainly due to the lower contribution of transmission and distribution activities) and in
+USA & Canada (mainly driven by Client Solutions, notably due to negative one-offs booked in 2019, lower contribution
+from Thermal activities due to lower capacity prices; partly offset by higher DBSO margins and commissioned asset
+contributions in Renewable activities).
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+9
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+1.1.4. Net recurring income relating to continued operations, Group share of €2.7 billion
+and Net income Group share of €1.0 billion
+
+Net recurring income relating to continued operations, Group share amounted to €2.7 billion compared with
+€2.5 billion in 2018. This increase was mainly driven by the continued improvement in the current operating income partly
+offset by higher taxes, mainly due to the 2018 positive effect from the recognition of deferred tax assets and slightly higher
+recurring financial costs, reflecting the modification in the business mix (higher debt in Brazil).
+
+Net income Group share amounted to €1.0 billion in 2019, stable year-on-year, as a result of the increase in Net recurring
+income and gains on disposals, mainly resulting from the Glow transaction, which offset the impact of the triennial review
+of nuclear provisions in Belgium and minor negative mark-to-market variation.
+
+1.1.5. Financial net debt of €25.9 billion
+
+Financial net debt stood at €25.9 billion, up €2.7 billion compared to December 31, 2018. This variation is attributed to
+(i) capital expenditures over the period (EUR 10.0 billion ™, including the €1.5 billion expenditures for the TAG transaction
+in Brazil), (ii) dividends paid to ENGIE SA shareholders (€1.8 billion) and to non-controlling interests (€0.7 billion) and
+(iii) other elements (€0.6 billion) mainly related to foreign exchange rates, new right-of-use assets and mark-to-market
+variations. These items were partly offset by (i) cash flow from operations (€7.6 billion) and (ii) the impacts of the portfolio
+rotation program (€2.8 billion, mainly related to the Glow disposal).
+
+Cash flow from operations ® amounted to €7.6 billion, down €0.2 billion. The decrease stemmed predominantly from
+working capital requirement variations (€1.3 billion negative impact), mainly caused by margin calls on derivatives and
+mark-to-market variation of financial derivatives, partly offset by the increase of operating cash flow (€0.9 billion) and lower
+tax and interests payments (€0.2 billion).
+
+At the end of December 2019, the financial net debt to EBITDA ratio amounted to 2.5x. Excluding the TAG acquisition
+which was not included in the 2019 guidance and which contributed only partially to the 2019 EBITDA, this ratio amounted
+to 2.4x, stable compared to the end of 2018 and on the target of less than or equal to 2.5x. The average cost of gross debt
+was 2.70%, slightly up compared to the end of 2018, notably due to new borrowings in Brazil.
+
+At the end of December 2019, the economic net debt ® to EBITDA ratio stood at 4.0x. Excluding the TAG acquisition,
+this ratio stood at 3.8x, slightly increasing compared to December 2018.
+
+1.2 Financial targets
+
+The targets for the financial years ended 31 December 2020 and 2022 set forth below are based on data, assumptions
+and estimates considered to be reasonable by the Group at the date of issuance of this document.
+
+These data and assumptions may evolve or be amended due to uncertainties related to the economic, financial,
+accounting, competitive, regulatory and tax environment or other factors that the Group may not be aware of at the date
+of registration of the management report. In addition, the fulfilment of forecasts requires the success of the Group's
+strategy. The Group therefore makes no commitment or warranty regarding the fulfilment of the forecasts set out in this
+section.
+
+The targets presented below and the underlying assumptions, also been prepared in accordance with the provisions of
+Delegated Regulation (EU) No 2019/980 supplementing Regulation (EU) No 2017/1129 and the ESMA recommendations
+on forecasts.
+
+(1) Net of DBSO partial sell-downs.
+
+(2) Cash flow from operations = Free cash flow before maintenance CAPEX.
+
+(3) Economic net debt amounted to €41.1 billion at the end of December 2019 (compared with €35.7 billion at the end of December 2018);
+it includes, in particular, nuclear provisions and post-employment benefits.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+10
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+The targets presented below result from the budget and medium-term plan process as described in Note 13 to the
+consolidated financial statements; they have been prepared on a comparable basis with historical financial information and
+in accordance with the accounting methods applied to the Group's consolidated financial statements for the year ended
+December 31, 2019 (including IFRS 16 and IFRIC 23, which the Group has applied as from January 1, 2019) described in
+the consolidated financial statements.
+
+Assumptions
+
+e — strategy: confirmation and deepening of the Group ambition to establish ENGIE as a leading force in the energy
+and climate transition;!
+
+e acquisitions and disposals: no significant change in the Group scope of consolidation beyond acquisitions or
+disposals already announced or impacts specifically mentioned in the targets below;!
+
+e foreign exchange rates: !
+
+— 2020: average annual €/US Dollar and €/Brazilian real foreign exchange rates at 1.13 and 4.57 respectively,
+— 2021 and 2022: average annual €/US Dollar and €/Brazilian real foreign exchange rates at 1.16 and 4.57,
+respectively;
+
+e Belgium nuclear assets availability: 74%, 93% and 94% for 2020, 2021 and 2022, respectively (rates computed
+on the basis of the installed capacity, assuming Doel 3 closure in October 2022);
+
+e regulated tariffs in France Infrastructures:
+
+— distribution, transport and storage : tariffs as published by the CRE in January 2020,
+—  regasification: estimated updated tariffs as from 2021; the CRE tariff review will take place in 2020;
+
+e regulated gas & power tariffs in France: full pass through of supply costs;
+
+e commodity prices: based on market conditions as of December 31, 2019 (notably for European outright power,
+forwards at 44, 47, 48 €/MWh in 2020, 2021 and 2022 respectively) for the non-hedged part of the production
+(20%, 46% and 77% in 2020, 2021 and 2022 respectively);
+
+e climate: normalized conditions in France (gas distribution and energy supply + normalized hydro production),
+hydrology in Brazil to improve by 2022;
+
+e recurring effective tax rate: 31% in 2020, reducing by ~300bps through 2022;
+
+e employee benefit provisions discount rates: based on market conditions as of December 31, 2019, as disclosed in
+Note 20 to the consolidated financial statements;
+
+e no significant accounting changes compared to 2019;
+
+e no major regulatory and macro-economic changes compared to 2019.
+
+2020 and 2022 financial targets
+
+ENGIE anticipates 2020 net recurring income, Group share to be between €2.7 and €2.9 billion.
+This guidance is based on an indicative EBITDA range of €10.5 to €10.9 billion and COI range of €5.8 to €6.2 billion.
+
+COI Indicative expectations by Business Line for 2020:
+
+In millions of euros Dec. 31, 2019 COI 2019-2020 (1) Key drivers
+Client Solutions 1,090 + Organic revenues and margin growth, new acquisitions
+Networks 2,327 - Increase from TAG offset by decreases in new remuneration rates
+
+Hydro volume and prices in France and decision in Brazil on compensation for past
+losses due to low hydro dispatch. Wind & Solar increase due to DBSO and COD of
+
+Renewables 1,190 ++ assets
+
+Thermal 1,260 :: Scope impact and decreasing spreads
+
+Nuclear (314) + Higher achieved prices, lower volumes
+
+Supply 345 ++ Positive effect from negative 2019 one-offs and normalized temperatures in 2020
+
+(1) | A-single + or— sign accounts for single digit growth or decrease; double ++ or -- signs account for a double-digit growth or decrease.
+
+For 2020 and over the long term, ENGIE anticipates an economic net debt/EBITDA ratio below or equal to 4.0x and remains
+committed to a strong investment grade rating.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+"1
+MANAGEMENT REPORT
+1 ENGIE 2019 RESULTS
+
+For 2022, ENGIE anticipates net recurring income, Group share to grow at a CAGR ") range of 6-8% (i.e. between
+€3.2 and 3.4 billion). This guidance is based on an indicative CAGR range for EBITDA between 2-4% and for COI between
+
+4-6%.
+
+For the 2020-2022 period, ENGIE expects to invest €10 billion ® in growth, €8 billion in maintenance and €4 billion in the
+Synatom financial Capex for the full funding of the nuclear waste provision by 2025. Disposals are expected to amount to
+€4 billion, primarily aiming at further reducing COz emissions and simplifying geographical footprint and structure.
+
+1.3 Dividend policy
+
+For fiscal year 2019, ENGIE confirms the payment of a €0.80 per share dividend representing a payout ratio of 72%,
+payable in cash.
+
+The annual dividend will be paid at one time, after the Ordinary General Meeting (OGM) approving the annual accounts.
+
+For the future, ENGIE confirms the medium-term dividend policy, in the range of 65 to 75% NRIgs payout ratio.
+
+(1) CAGR: Compound Annual Growth Rate.
+(2) Net of DBSO partial sell-downs.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+12
+MANAGEMENT REPORT
+
+2 BUSINESS TRENDS
+
+2 BUSINESS TRENDS
+
+% change % change
+Dec. 31, 2018 (reported (organic
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+Revenues 60,058 56,967 +5.4% +4.1%
+EBITDA 10,366 9,702 +6.8% +8.1%
+Net depreciation and amortization/Other (4,640) (4,548)
+CURRENT OPERATING INCOME (COI 5,726 5,154 +11.1% +14.4%
+REVENUE TRENDS
+
+In millions of euros
+
+France Infrastructures
+
++358
+So EE es
++3
+
++651
+
++226
+
+France excluding Infrastructures
+
+57,755
+
+Dec 31,2018 Changes in Change in France Rest of Europe Latin America USA & Canada Middle-East, Others Dec. 31, 2019
+new scope of foreign Asia & Africa
+presentation consolidation exchange rates
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+13
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+EBITDA TRENDS
+
+In millions of euros
+
++343 -12
+
+France Infrastructures
+
+\ +646
+| -144 | 44 +46 -13
+—
+France excluding Infrastructures
+10,366
+9,604
+Dec 31,2018 IFRS 16 Dec. 31, Changesin Change in France Rest of Latin USA& Middle-East, Others Dec. 31,
+published impact 2018 with = scope of foreign Europe America Canada _ Asia & Africa 2019
+IFRS 16 consolidation exchange
+rates
+Geography/Business Line matrix
+
+TOTAL at
+Client Dec 31,
+In millions of euros Solutions Networks Renewables Thermal Nuclear Suppl Others 2019
+France 959 3,537 421 294 5,211
+Rest of Europe 577 137 145 442 192 256 1,750
+Latin America 35 339 1,035 750 62 2,221
+USA & Canada 64 1 70 32 63 61 291
+Middle East, Asia & Africa 44 17 97 563 6 727
+Others 156 8 43 23 42 125 166
+TOTAL EBITDA 1,835 4,024 1,725 1,765 192 639 186 10,366
+TOTAL at
+Dec. 31,
+Client 2018 with
+In millions of euros Solutions Networks Renewables Thermal Nuclear Supply Others IFRS 16
+France 920 3,554 503 352 5,329
+Rest of Europe 552 151 125 515 (655) 294 1,081
+Latin America 11 280 901 554 43 1,789
+USA & Canada 70 1 5 64 37 74 252
+Middle East, Asia & Africa 40 57 82 898 57 1,133
+Others 137 7 27 9 6 119
+TOTAL EBITDA 1,730 4,035 1,589 2,040 555) 783 81 9,702
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+14
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+CURRENT OPERATING INCOME (COl) TRENDS
+
+In millions of euros
+
+i) -55 +84
+
++29 France Infrastructures
+
+\
+
+5,726
+France excluding Infrastructures
+Dec 31,2018 IFRS 16 Dec. 31, Changesin Changein France Rest of Latin USA& Middle-East, Others Dec. 31,
+published impact 2018 with = scope of foreign Europe America Canada Asia & Africa 2019
+IFRS16_ consolidation exchange
+rates
+Geography/Business Line matrix
+TOTAL at
+Client Dec 31,
+In millions of euros Solutions Networks Renewables Thermal Nuclear Supply Others 2019
+France 574 1,957 181 149 2,861
+Rest of Europe 345 82 88 293 (314) 190 684
+Latin America 280 849 504 61 1,694
+USA & Canada 13 1 45 26 25 49 159
+Middle East, Asia & Africa 25 15 72 460 (13) 559
+Others 132 8 45) 23 65) 222) (231 )
+TOTAL COI 1,090 2,327 1,190 1,260 314 345 172) 5,726
+TOTAL at
+Dec. 31,
+Client 2018 with
+In millions of euros Solutions Networks Renewables Thermal Nuclear Supply Others IFRS 16
+France 552 2,018 259 227 3,057
+Rest of Europe 341 108 70 342 (1,051) 235 46
+Latin America (1) 227 749 342 42 1,359
+USA & Canada 24 1 5 59 13 60 153
+Middle East, Asia & Africa 32 54 63 708 40 896
+Others 44 7 28) 9 19) 356) (357)
+TOTAL COI 993 2,402 1,109 1,460 1,051 538 296) 5,154
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+15
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+2.1 France
+% change % change
+Dec. 31, 2018 (reported (organic
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+Revenues 21,423 20,448 +4.8% +3.2%
+Total revenues (incl. intra-group transactions) 22,736 21,760 +4.5%
+EBITDA 5,211 5,329 2.2% -2.4%
+Net depreciation and amortization/Other (2,351) (2,272)
+CURRENT OPERATING INCOME (COI 2,861 3,057 6.4% -7.0%
+2.1.1. France excluding Infrastructures
+% change % change
+Dec. 31, 2018 (reported (organic
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+Revenues 15,854 14,998 +5.7% +4.4%
+EBITDA 1,672 1,775 5.8% 6.5%
+Net depreciation and amortization/Other (769) (736)
+CURRENT OPERATING INCOME (COI 903 1,039 -13.1% -15.2%
+Volumes sold
+Dec. 31, 2018
+In TWh Dec. 31, 2019 with IFRS 16 % change (reported basis
+Gas sales 83.2 88.3 -5.8%
+Electricity sales 38.8 39.0 -0.5%
+France climatic adjustment
+Dec. 31, 2018
+In TWh Dec. 31, 2019 with IFRS 16 Total change in TWh
+
+Climate adjustment volumes
+negative figure = warm climate, positive figure = cold climate
+
+Revenues in the France excluding Infrastructures segment amounted to €15,854 million, up 5.7% on a reported basis and
+4.4% on an organic basis. Organic growth can be explained by higher revenues in the BtoC power segment and BtoB
+services businesses. Acquisitions in BtoB services also contributed significantly to growth on a reported basis (in particular
+Powerlines, Pierre Guerin, Endel SRA and Sodelem).
+
+Gas sales volumes in the BtoC segment decreased by 5.1 TWh compared to 2018, of which 0.7 TWh related to a negative
+temperature effect, mainly as a result of the end of regulated gas tariffs. The BtoC power portfolio recorded a significant
+increase of 1.6 TWh, whereas volumes produced by power generation and France Networks dropped by 1.8 TWh.
+
+Current operating income was €903 million, down 13.1% on a reported basis and 15.2% on an organic basis. This drop
+was mainly due to lower DBSO (Develop, Build, Share & Operate) margins in 2019, and higher operating expenses (OPEX)
+in the BtoC segment to support the development of gas and power market offers. 2019 results were also affected by the
+impact of lower hydroelectric power generation. These underperformances were partly offset by higher prices for hydro
+power, higher wind and solar production, and a good organic performance in BtoB activities thanks to new contracts and
+increased profitability.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+16
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+2.1.2. France Infrastructures
+% change % change
+Dec. 31, 2018 (reported (organic
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+Revenues 5,569 5,450 +2.2% +0.1%
+Total revenues (incl. intra-group transactions) 6,548 6,575 0.4%
+EBITDA 3,539 3,554 -0.4% -0.4%
+Net depreciation and amortization/Other (1,582) (1,536)
+CURRENT OPERATING INCOME (COI 1,957 2,018 -3.0% -2.8%
+
+Revenues in the France Infrastructures segment amounted to €5,569 million, €119 million above 2018. The increase was
+driven by terminalling activities, which benefited from the outsourcing of LNG activities as well as tariff increases in
+distribution activities, and by transmission activities, although growth was limited by tariff smoothing and lower subscribed
+capacity. These favorable impacts were partly offset by a decrease in storage activities with a reduction in buy/sale
+operations in France following the introduction of new regulations in 2018, offset by international activities.
+
+Current operating income for the period was €1,957 million, down 2.8% on an organic basis. In transmission activities,
+this decrease was due to negative price effects in France — mainly tariff smoothing — and Germany. To a lesser extent,
+storage activities were impacted by customer penalties in France due to a temporarily deteriorated operating performance
+as well as to negative price effects in Germany, while terminalling activities were impacted by tariff changes. Growth in
+distribution activities partly offset these effects, with tariff hikes more than offsetting mild climate and other changes in
+OPEX.
+
+2.2 Rest of Europe
+
+% change % change
+
+Dec. 31, 2018 (reported (organic
+
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+
+Revenues 17,270 16,946 +1.9% +2.4%
+
+EBITDA 1,750 1,081 +61.9% +59.4%
+Net depreciation and amortization/Other (1,066) (1,036)
+CURRENT OPERATING INCOME (COI 684 46
+
+Revenues in the Rest of Europe segment amounted to €17,270 million, up 2.4% on an organic basis. This growth was
+driven by Supply and Client Solutions activities, whereas Thermal revenues decreased.
+
+Supply activities benefited from positive price effects in Belgium, the Netherlands and Romania, partly offset by Supply
+activities in the United Kingdom and Germany due to the divestments in the German Retail BtoB portfolio in 2018.
+
+The increase in Client Solutions mainly arose from Belgium’s installation and energy efficiency segments, Central Europe
+which benefited from positive scope effects in Germany as a result notably of the acquisition of OTTO (January 2019), and
+organic growth in Spain mainly in installation activities.
+
+Current operating income amounted to €684 million. The reported growth of €639 million was mainly driven by Nuclear
+activities and a slight increase in Renewables. Client Solutions remained stable compared to last year, while Supply,
+Networks and Thermal activities were down.
+
+Nuclear activities benefited from higher availability rates in Belgium (2018 had been impacted by a high number of days of
+unplanned outages) and better achieved prices. Renewable activities benefited from good performances in wind onshore
+activities in Benelux.
+
+Client Solutions reported a lower contribution from asset-light activities as a result of a significant drop notably in the United
+Kingdom and Benelux due to contract renegotiations and legacy loss-making contracts, but achieved a better performance
+in asset-based activities mainly in the Generation Europe BU through its cogeneration units as well as in the North, South
+and Eastern Europe BU in Italy and Germany.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+7
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+The decrease in Thermal activities mainly arose from higher positive one-offs in 2018, lower coal spreads partially offset
+by better gas spreads, and capacity market reinstatement in the United Kingdom. Supply activities decreased in Benelux
+and the United Kingdom, and Networks activities decreased in Germany.
+
+2.3 Latin America
+
+% change % change
+Dec. 31, 2018 (reported (organic
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+Revenues 5,341 4,639 +15.1% +10.9%
+EBITDA 2,221 1,789 +24.2% +19.1%
+
+Net depreciation and amortization/Other (627) (430)
+CURRENT OPERATING INCOME (COI 1,694 1,359 +24.6% +20.2%
+
+Revenues in the Latin America segment totaled €5,341 million, up 15.1% on a reported basis and 10.9% organically.
+Reported growth comprises the positive effect of a Client Solutions entity acquired at the end of last year (CAM), partially
+offset by a negative net foreign exchange effect, with the depreciation of the Brazilian real (-2.4%) and Argentinian peso
+(-36.0%) being partially offset by the appreciation of the US dollar (+5.5%), Mexican peso (+5.3%) and Peruvian sol
+(+3.9%). In Chile, business was positively impacted by the ramp-up of new Power Purchase Agreements with distribution
+companies. In Brazil, organic growth was mainly driven by the commissioning of wind and solar farms and a new thermal
+unit, and the effect of inflation on PPA contracts.
+
+Current operating income totaled €1,694 million, up 24.6% on a reported basis and 20.2% on an organic basis. Reported
+growth benefited from the positive impact of the acquisition in June 2019 of a gas transportation entity in Brazil (TAG). The
+organic growth was due to the favorable impact of liquidated damages received in Chile and Brazil in 2019, and the positive
+organic effects mentioned above for revenues. These impacts were partially offset by a positive one-off recorded in 2018
+in Mexico.
+
+2.4 USA & Canada
+
+% change % change
+
+Dec. 31, 2018 (reported (organic
+
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+
+Revenues 4,545 3,355 +35.5% +10.1%
+
+EBITDA 291 252 +15.6% +4.5%
+Net depreciation and amortization/Other (132) (99)
+
+CURRENT OPERATING INCOME (COI 159 153 +3.9% -5.5%
+
+Revenues in the USA & Canada segment came in at €4,545 million, up 35.5% on a reported basis. In addition to positive
+foreign exchange effects, revenues benefited from scope-in effects relating to recent acquisitions in Client Solutions and
+Retail BtoB (Plymouth Rock) in the United States. The 10.1% organic growth was mainly the result of positive price effects
+on BtoB power sales in the United States with no effect at current operating income level.
+
+Current operating income totaled €159 million, down 5.5% on an organic basis compared to 2018. The main reasons for
+the decrease were a lower operational performance in Client Solutions due to loss-making contracts, set-up costs for
+ENGIE Impact and lower capacity prices in Thermal activities. These effects were partly offset by the progressive ramp-
+up of Renewables activities in the United States, including the DBSO sell down of a wind project (Live Oak) and
+contributions from two wind projects commissioned in 2019.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+18
+MANAGEMENT REPORT
+2 BUSINESS TRENDS
+
+2.5 Middle East, Asia & Africa
+
+% change % change
+
+Dec. 31, 2018 (reported (organic
+
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+
+Revenues 2,914 4,014 -27.4% 6.7%
+
+EBITDA 727 1,133 -35.9% -12.5%
+Net depreciation and amortization/Other (168) (237)
+
+CURRENT OPERATING INCOME (COI 559 896 -37.6% 9.1%
+
+Revenues for the Middle East, Africa & Asia segment totaled €2,914 million, down 27.4% on a reported basis and 6.7%
+organically. The reported decrease was mainly due to the disposal of Glow (Thailand) in March 2019, a weakened
+performance in Supply (mainly Simply Energy in Australia), as well as lower revenues in Client Solutions in Africa and
+Australia. The decrease was partly offset by acquisitions in the Middle East (Cofely Besix) and Asia (RCS Engineering),
+and positive foreign exchange effects.
+
+Electricity sales decreased by 27 TWh to 16.8 TWh, with reduced volumes mostly due to the sale of Glow and Loy Yang B.
+
+Current operating income totaled €559 million, down 37.6% on a reported basis and 9.1% organically. The gross reported
+decrease was due to the negative impact of the disposal of Glow and Loy Yang B, partly offset by positive foreign exchange
+effects. The organic decrease notably reflects difficulties (i) in Supply in Australia and Africa, (ii) in Networks partly related
+to a positive provision reversal in Turkey in 2018, and to a lesser extent (iii) in Services activities. The decrease was partly
+offset by the positive contribution of Thermal Generation and the positive impact of Renewables activities, including
+liquidated damages for the Willogoleche wind farm in Australia.
+
+2.6 Others
+
+% change % change
+
+Dec. 31, 2018 (reported (organic
+
+In millions of euros Dec. 31, 2019 with IFRS 16 basis basis
+
+Revenues 8,565 7,565 +13.2% +7.5%
+
+EBITDA 166 119 +39.7% -9.9%
+Net depreciation and amortization/Other (397) (476)
+
+CURRENT OPERATING INCOME/(LOSS) (COI 231 357 +35.4% +23.5%
+
+The Others reportable segment includes (i) GEM, (ii) Tractebel, (iii) GTT, (iv) Hydrogen, as well as (v) the Group’s holding
+and corporate activities which include the entities centralizing the Group’s financing requirements, Entreprises &
+Collectivités (E&C) and the contribution of SUEZ (associate).
+
+Revenues for the Others reportable segment amounted to €8,565 million. The 13.2% reported growth compared to 2018
+represented €1,000 million, mainly driven by GEM due to a favorable market context and E&C mainly due to an increase
+in power volumes and average prices (up €910 million gross for both GEM & E&C).
+
+Current operating loss amounted to €231 million euros, representing a €126 million improvement compared to 2018.
+This improvement was mainly due to a strong performance by GEM in market activities, the partial transfer of a gas supply
+contract, gas contract renegotiations and the Certinergy acquisition in February 2019, partially offset by a sluggish
+performance by storage activities in bearish markets. Current operating income/(loss) also benefited from positive one-offs
+at SUEZ and in connection with the Link 2018 employee shareholding plan. These favorable impacts were partly offset by
+a decline in margins for Tractebel Engineering.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+19
+MANAGEMENT REPORT
+3 OTHER INCOME STATEMENT ITEMS
+
+3 OTHER INCOME STATEMENT ITEMS
+
+Dec. 31, 2018 % change
+In millions of euros Dec. 31, 2019 with IFRS 16 (reported basis’
+CURRENT OPERATING INCOME (COl) 5,726 5,154 +11.1%
+(+) Mark-to-Market on commodity contracts other than trading instruments (426) (223)
+Current operating income including operating MtM and share in net income of equity
+method entities 5,300 4,932 +7.5%
+Impairment losses (1,770) (1,798)
+Restructuring costs (218) (162)
+Changes in scope of consolidation 1,604 (150)
+Other non-recurring items (1,240) (147)
+Income/(loss) from operating activities 3,676 2,674 +37.5%
+Net financial income/(loss) (1,387) (1,414)
+Income tax benefit/(expense) (640) (702)
+NET INCOME/(LOSS) RELATING TO CONTINUED OPERATIONS 1,649 558
+NET INCOME/(LOSS) RELATING TO DISCONTINUED OPERATIONS 1,067
+NET INCOME/(LOSS 1,649 1,624 +1.5%
+Net income/(loss) Group share 984 1,029
+Of which Net income/(loss) relating to continued operations, Group share 984 (14)
+Of which Net income/(loss) relating to discontinued operations, Group share 1,043
+Non-controlling interests 664 595
+Of which Non-controlling interests relating to continued operations 664 572
+Of which Non-controlling interests relating to discontinued operations 24
+
+Income from operating activities amounted to €3,676 million in 2019, representing an increase compared with 2018,
+mainly due to (i) gains on asset disposals (principally relating to the disposal of ENGIE’s interest in Glow), (ii) the
+improvement in current operating income, (iii) partly offset by the recognition of additional costs related to the triennial
+review of nuclear provisions in Belgium.
+
+Income from operating activities was also affected by:
+
+e net impairment losses of €1,770 million in 2019 compared with €1,798 million in 2018, mainly relating to Belgian
+nuclear power assets (including €638 million on dismantling assets for nuclear facilities whose operating life may
+not be extended, recognized against the provision, as part of the triennial review of nuclear provisions) and thermal
+power generation assets in Latin America and the Middle East (see Note 9.1);
+
+e — restructuring costs of €218 million (compared with €162 million in 2018) (see Note 9.2);
+e positive scope effects of €1,604 million, mainly relating to the disposal of ENGIE’s interest in Glow;
+
+e — other non-recurring items for a negative €1,240 million, mainly including the €1,166 million net expense related to
+additions to provisions for the back-end of the nuclear fuel cycle as part of the triennial review of nuclear provisions
+in Belgium.
+
+The net financial loss amounted to €1,387 million in 2019, compared with €1,414 million the previous year (see Note 10).
+
+The income tax expense for 2019 amounted to €640 million (versus €702 million in 2018). It includes an income tax
+benefit of €471 million arising on non-recurring taxable items (versus €147 million in 2018), mainly comprising
+mark-to-market losses recognized by ENGIE SA. The effective tax rate decreased significantly in 2019 (35.8% versus
+78.1% in 2018), mainly due to the non-taxation of proceeds from the Glow disposal. Adjusted for these non-recurring items,
+the effective recurring tax rate was 28.2%, up on the 2018 rate of 23.7% mainly due to the impact of more positive one-off
+effects in 2018 than in 2019.
+
+Net income relating to continued operations attributable to non-controlling interests amounted to €664 million,
+compared with €595 million in 2018. The increase was mainly due to lower impairment losses compared to the previous
+year on coal assets in Germany, partly offset by the deconsolidation of ENGIE’s interest in Glow as from March 14, 2019
+following its disposal.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+20
+MANAGEMENT REPORT
+4 CHANGES IN NET FINANCIAL DEBT
+
+4 CHANGES IN NET FINANCIAL DEBT
+
+Net financial debt stood at €25.9 billion, up 2.7 billion compared to December 31, 2018. This increase is mainly attributable
+to (i) capital expenditure over the period (€10.0 billion”, including €1.5 billion in expenditure for the TAG transaction in
+Brazil), (ii) dividends paid to ENGIE SA shareholders (€1.8 billion) and to non-controlling interests (€0.7 billion) and
+(iii) other items (€0.6 billion) mainly related to foreign exchange rates, new leased right-of-use assets and mark-to-market
+variations. These items were partly offset by (i) cash flow from operations (€7.6 billion) and (ii) the impacts of the portfolio
+rotation program (€3.0 billion, mainly related to the completion of the disposal of the stake in Glow).
+
+Changes in net financial debt break down as follows:
+
+In millions of euros
+
+138 796
+
+—
+141
+_
+
+Growth capex: 7,117
+
+25,919
+
+21,102
+> es © » » Re > N S 2
+@ & » je) & v S © xo & »
+cS S K S x9 ° iS xf S
+s ~ & & of S Ss & ve & ne
+oy o* S se or < 2 > ? on
+s & os & < S Ro 3 oF cod
+SS ‘
+nN « ss § ss ms x aS °°
+2 ° NS 2 © g Lk
+ea ~ é g & & & S
+5°) , CS gk & s e RS
+oe Ss 2 S RY Rs <
+50) nO Ro ~ & S &
+S & Ro s cS
+1S) Ra Ss oO
+& J
+
+(1) | Capital expenditure net of DBSO proceeds.
+(2) Excluding DBSO proceeds.
+(3) See Note 18.2.1 “Issuance of deeply-subordinated perpetual notes”.
+
+; Development CAPEX (net of DBSO)
+( Financial cAPEX
+| Change in Synatom investments
+
+| Maintenance CAPEX
+
+(1) Net of DBSO proceeds.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+21
+MANAGEMENT REPORT
+4 CHANGES IN NET FINANCIAL DEBT
+
+The net financial debt to EBITDA ratio came out at 2.50 at December 31, 2019.
+
+Jan. 1, 2019
+In millions of euros Dec. 31, 2019 with IFRS 16
+Net financial debt 25,919 23,268
+EBITDA 10,366 9,702
+NET DEBT/EBITDA RATIO 2.50 2.40
+
+The economic net debt to EBITDA ratio stood at 3.96 at December 31, 2019.
+
+Jan. 1, 2019
+In millions of euros Dec. 31, 2019 with IFRS 16
+Economic net debt 41,078 35,669
+EBITDA 10,366 9,702
+ECONOMIC NET DEBT/EBITDA RATIO 3.96 3.68
+
+4.1 Cash flow from operations (CFFO)
+
+Cash flow from operations (CFFO) amounted to €7.6 billion, down €0.2 billion. The decrease stemmed predominantly
+from working capital requirement variations (€1.2 billion negative impact) caused by margin calls on derivatives and mark-
+to-market variation of financial derivatives, partly offset by the increase of operating cash flow (€0.9 billion) and lower tax
+and interests paid (€0.2 billion).
+
+4.2 Net investments
+
+Capital expenditure (CAPEX) amounted to €10,042 million, breaking down as follows by segment:
+
+In millions of euros
+
+France excl. France Rest of Europe Latin America USA & Canada Middle-East, Asia & Others
+Infrastructures Infrastructures Africa
+
+; Development CAPEX (net of DBSO)
+(RE Financial CAPEX
+| Change in Synatom investments
+
+| Maintenance CAPEX
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+22
+MANAGEMENT REPORT
+
+4 CHANGES IN NET FINANCIAL DEBT
+
+Growth capital expenditure amounted to €7,117 million, breaking down as follows by Business Line:
+
+¢
+
+€7,1 bn)
+
+Renewables
+34%
+
+(1)
+
+Client solutions
+18%
+
+Networks
+33%
+
+Main projects (€bn)
+
+Client Solutions
+
+France - Powerlines & Pierre Guerin acquisition
+
+North America - CONTI acquisition
+
+NECST - OTTO Luft-und Klimatechnik GmbH & Co acquisition
+North America - Genbright & Systecon acquisition
+
+GEM & E&C - Certinergy acquisition
+
+Networks
+TAG acquisition
+GRDF (Gazpar & Networks development)
+
+Renewables
+North America - Wind Onshore development
+France Renewables, incl. Vol-V acquisition
+
+Brazil -— Umburanas, Campo Largo & Jirau
+North America - Solar development
+
+Latin America - Mexican Solar
+MESCAT, incl. Kadapa
+
+The geography/Business Line matrix for capital expenditures is presented hereunder:
+
+Net of disposals under DBSO operations, excluding Corporate, and Synatom reallocated to maintenance expenditure.
+
+TOTAL at
+
+Client Dec. 31,
+
+In millions of euros Solutions Networks Renewables Thermal Nuclear Suppl Others 2019
+France 423 1,709 481 151 2,764
+Rest of Europe 416 77 42 174 636 95 1,440
+Latin America 47 1,651 541 254 6 2,499
+USA & Canada 330 1 968 8 73 1,380
+Middle East, Asia & Africa 80 9 271 93 453
+Others 325 186 81 38 876 1,506
+TOTAL CAPEX 1,621 3,446 2,488 517 636 457 876 10,042
+TOTAL at
+
+Client Dec. 31,
+
+In millions of euros Solutions Networks Renewables Thermal Nuclear Supply Others 2018
+France 469 1,617 237 148 2,471
+Rest of Europe 357 58 18 143 750 104 1,430
+Latin America 145 129 1,024 456 4 1,758
+USA & Canada 350 461 1 100 5 918
+Middle East, Asia & Africa 84 10 239 214 69 616
+Others 131 6 28 284 449
+TOTAL CAPEX 1,537 1,814 1,986 813 750 454 289 7,643
+
+Net investments amounted to €7,586 million and include:
+
+e growth capital expenditure for €7,117 million. This mainly stemmed from (i) the acquisition in Infrastructures, in
+consortium with the Caisse de Dépét et Placement du Québec (CDPQ), of a 90% stake in Transportadora
+Associada de Gas S.A. (TAG) in Brazil (€1,557 million, including acquisition costs), of the energy services company
+Conti in North America (€178 million), and in Client Solutions of the OTTO Luft-und Klimatechnik GmbH & Co
+facilities and services company in Germany (€149 million), (ii) the development in Infrastructures of blending and
+development projects in the natural gas distribution and transportation network in France (€685 million),
+(iii) investments in Renewables relating to the development of wind and photovoltaic farms in the United States
+(approximately €1 billion), Mexico (€345 million), Brazil (€307 million) and India (€139 million), and (iv) the financing
+of the Nord Stream 2 pipeline project (€433 million);
+
+e gross maintenance capital expenditure amounting to €2,627 million;
+
+e — the €227 million increase in Synatom investments;
+
+e new leased right-of-use assets recognized over the period (€539 million);
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+
+23
+MANAGEMENT REPORT
+4 CHANGES IN NET FINANCIAL DEBT
+
+e changes in the scope of consolidation for the period relating to acquisitions and disposals of subsidiaries for
+€138 million; and
+
+e proceeds from disposals representing an inflow of €3,132 million, mainly relating to the disposal of ENGIE’s interest
+in Glow in Thailand.
+
+4.3 Dividends and movements in treasury stock
+
+Dividends and movements in treasury stock during the period amounted to €2,522 million and included:
+
+e — €1,833 million in dividends paid by ENGIE SA to its shareholders, which corresponds to the balance of the 2018
+dividend (€0.75 per share for shares with rights to an ordinary and exceptional dividend and €0.86 per share for
+shares with rights to a dividend mark-up) paid in May 2019;
+
+e dividends paid by various subsidiaries to their non-controlling interests in an amount of €538 million, the payment
+of interest on hybrid debt for €150 million and movements in treasury stock.
+
+44 Net financial debt at December 31, 2019
+
+Excluding amortized cost but including the impact of foreign currency derivatives, at December 31, 2019 a total of 74% of
+net financial debt was denominated in euros, 15% in US dollars and 10% in Brazilian real.
+
+Including the impact of financial instruments, 79% of net financial debt is at fixed rates.
+The average maturity of the Group's net financial debt is 11.2 years.
+
+At December 31, 2019, the Group had total undrawn confirmed credit lines of €13.0 billion.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+24
+MANAGEMENT REPORT
+5 OTHER ITEMS IN THE STATEMENT OF FINANCIAL POSITION
+
+5 OTHER ITEMS IN THE STATEMENT OF FINANCIAL
+POSITION
+
+Jan. 1, 2019 with
+
+IFRS 16 & IFRIC
+In millions of euros Dec. 31, 2019 23 Net change
+Non-current assets 99,297 93,818 5,479
+Of which goodwill 18,665 17,809 856
+Of which property, plant and equipment and intangible assets, net 58,996 57,776 1,220
+Of which investments in equity method entities 9,216 7,846 1,370
+Current assets 60,496 61,994 (1,498) -
+Of which assets classified as held for sale 468 3,809 (3,340)
+Total equity 38,037 40,930 (2,893) _
+Provisions 25,115 21,512 3,603
+Borrowings 38,544 34,345 4,199
+Other liabilities 58,097 59,024 (928)
+Of which liabilities directly associated with assets classified as held for sale 92 2,141 ‘2,049,
+
+The carrying amount of property, plant and equipment and intangible assets was €59.0 billion, up €1.2 billion compared
+with December 31, 2018. The increase was primarily the result of acquisitions and development capital expenditure during
+the period (€7.4 billion positive impact), translation adjustments (€0.1 billion positive impact), partly offset by depreciation
+and amortization charges (€4.3 billion negative impact), impairment losses (€1.7 billion negative impact), changes in the
+scope of consolidation (€0.8 billion negative impact), the classification of renewable energy assets in Mexico and green
+gas production assets in operation in France as “Assets classified as held for sale” (€0.4 billion negative impact), and
+disposals (€0.2 billion negative impact).
+
+Goodwill increased by €0.9 billion to €18.7 billion, mainly due to acquisitions made by the following BUs: France BtoB,
+France Renewables, Northern, Southern and Eastern Europe, and Latin America, partly offset by the recognition of
+impairment losses on the disposal of the coal-fired power plants in Germany and the Netherlands (see Note 4.1.2).
+
+Total equity amounted to €38.0 billion, a decrease of €2.9 billion compared with December 31, 2018. The decrease
+stemmed mainly from the payment of the cash dividend (€2.3 billion negative impact, including €1.8 billion of dividends
+paid by ENGIE SA to its shareholders and €0.5 billion paid to non-controlling interests), other items of comprehensive
+income (€1.8 billion negative impact), and the effect of the deconsolidation of Glow following its disposal (€0.5 billion
+negative impact), partly offset by net income for the period (€1.6 billion positive impact).
+
+Provisions increased by €3.6 billion to €25.1 billion compared with December 31, 2018. This increase stemmed mainly
+from the impacts of the triennial review of nuclear provisions in Belgium (which added €2.1 billion to the total amount)
+(see Note 19), actuarial losses on provisions for post-employment benefits and other long-term benefits (which added
+€1.1 billion to the total amount) owing to the fall in discount rates over the period (see Note 20).
+
+At December 31, 2019, assets and liabilities classified under “Assets classified as held for sale” and “Liabilities
+directly associated with assets classified as held for sale” comprised renewable energy assets in Mexico and green
+gas production assets in operation in France.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+2
+MANAGEMENT REPORT
+6 ADJUSTMENT OF COMPARATIVE INFORMATION
+
+6 ADJUSTMENT OF COMPARATIVE INFORMATION
+
+The aforementioned 2018 figures have been adjusted in respect of:
+
+e the application of the IFRIC position on commodity derivative accounting, leading the Group to review the
+presentation of some items of the income statement (with no impact on net income, equity or the current operating
+income indicator used in the management dialogue and financial communication) (see restatements presented in
+Note 1 to the consolidated financial statements);
+
+e _ the transition method used for the application of IFRS 16 — Leases (see hereunder);
+
+in order to make them comparable to the 2019 figures.
+
+The adjustments relating to the application of IFRS 16 on the income statement and certain Group key indicators are as
+follows:
+
+Dec. 31, 2018 new
+
+Dec. 31, 2018 new presentation with
+In millions of euros presentation () IFRS 16 IFRS 16
+Income statement
+REVENUES 56,967 56,967
+Purchases and operating derivatives (38,660) 466 (38,194)
+Personnel costs (10,624) (10,624)
+Depreciation, amortization and provisions (3,586) (438) (4,024)
+Taxes (1,069) 1 (1,068)
+Other operating income 1,514 1,514
+Current operating income including operating MtM 4,542 29 4,571
+Share in net income of equity method entities 361 360
+Current operating income including operating MtM and share in net income of
+equity method entities 4,903 29 4,932
+Impairment losses (1,798) (1,798)
+Restructuring costs (162) | (162)_
+Changes in scope of consolidation (150) (150)
+Other non-recurring items (147) (147)
+INCOME/(LOSS) FROM OPERATING ACTIVITIES 2,645 29 2,674
+NET FINANCIAL INCOME/(LOSS 1,381 33 1,414)
+Income tax expense (704) 2 (702)
+NET INCOME/(LOSS) RELATING TO CONTINUED OPERATIONS 560 2 558
+NET INCOME/(LOSS) RELATING TO DISCONTINUED OPERATIONS 1,069 (2) 1,067
+NET INCOME/(LOSS 1,629 4) 1,624
+Net income/(loss) Group share 1,033 (4) 1,029
+of which Net income/(loss) relating to continued operations, Group share (12) (2) (14)
+of which Net income/(loss) relating to discontinued operations, Group share 1,045 (2) 1,043
+Non-controlling interests 595 595
+of which Non-controlling interests relating to continued operations 572 572
+of which Non-controlling interests relating to discontinued operations 24 24
+BASIC EARNINGS/(LOSS) PER SHARE (EUROS) 0.37 (0.00) 0.37
+of which Basic earnings/loss) relating to continued operations per share (0.07) (0.00) (0.07)
+of which Basic earnings/(loss) relating to discontinued operations per share 0.44 (0.00) 0.44
+DILUTED EARNINGS/(LOSS) PER SHARE (EUROS) 0.37 (0.00) 0.37
+of which Diluted earnings/(loss) relating to continued operations per share (0.07) (0.00) (0.07)
+of which Diluted earnings/(loss) relating to discontinued operations per share 0.43 0.00, 0.43
+EBITDA 9,236 467 9,702
+CURRENT OPERATING INCOME (COI 5,126 29 5,154
+NET RECURRING INCOME 3,238 (4) 3,234
+NET RECURRING INCOME GROUP SHARE 2,425 (4) 2,421
+NET RECURRING INCOME RELATING TO CONTINUED OPERATIONS, GROUP
+SHARE 2,458 2 2,455
+
+(1) Comparative data at December 31, 2018 have been reclassified in accordance with the new income statement presentation adopted
+by the Group consequent to the application of the IFRIC position on commodity derivatives.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+26
+MANAGEMENT REPORT
+6 ADJUSTMENT OF COMPARATIVE INFORMATION
+
+Dec. 31, 2018 Dec. 31, 2018 with
+In millions of euros published IFRS 16 IFRS 16
+Cash flows
+CASH FLOW FROM OPERATIONS (CFFO 7,300 437 7,736
+Dec. 31, 2018 Jan. 1, 2019 with
+In millions of euros published IFRS 16 &IFRIC 23 IFRS 16 & IFRIC 23
+Statement of financial position
+NET DEBT 21,102 2,167 23,268
+ECONOMIC NET DEBT 35,590 79 35,669
+INDUSTRIAL CAPITAL EMPLOYED 51,412 2,156 53,568
+
+The application of IFRS 16 and its impact on the statement of financial position at January 1, 2019 is presented in
+Note 1 “Accounting framework and basis for preparing the consolidated financial statements”.
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+27
+MANAGEMENT REPORT
+7 PARENT COMPANY FINANCIAL STATEMENTS
+
+7 PARENT COMPANY FINANCIAL STATEMENTS
+
+The figures provided below relate to the financial statements of ENGIE SA, prepared in accordance with French GAAP
+and applicable regulations.
+
+Revenues for ENGIE SA in 2019 totaled €17,282 million, a decrease compared to 2018 (€27,833 million), mainly due to
+lower gas sales to other gas operators.
+
+The net operating loss was €931 million at December 31, 2019, an improvement of €127 million compared with a loss of
+€1,058 million in 2018. Energy margin increased by €143 million, thanks to lower supply costs and continued growth in the
+electricity business.
+
+Net financial income amounted to €1,192 million, €2,525 million less than in 2018 when dividend payments and income
+from receivables were €2,449 million higher.
+
+Non-recurring items represented a loss of €835 million, mainly comprising impairment of equity investments.
+
+The income tax benefit amounted to €377 million compared to a benefit of €549 million in 2018, including a tax consolidation
+benefit of €294 million.
+
+The net loss for the year came out at €196 million.
+
+Shareholders’ equity amounted to €34,594 million at end-2019 compared with €36,616 million at end-2018. The
+€2,022 million decrease was mainly due to the 2019 net loss of €196 million and to the dividend payment of €1,833 million.
+
+At December 31, 2019, borrowings and debt stood at €39,234 million, and cash and cash equivalents totaled €9,891 million
+(of which €7,753 relating to subsidiaries’ current accounts).
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+28
+MANAGEMENT REPORT
+7 PARENT COMPANY FINANCIAL STATEMENTS
+
+Information relating to payment terms
+
+Pursuant to the application of Article D.441-4 of the French Commercial Code, companies whose annual financial
+statements are subject to a statutory audit must publish information regarding supplier and customer payment terms. The
+purpose is to demonstrate that there is no significant failure to comply with such terms.
+
+Information relating to supplier and customer payment terms mentioned in Article D.441-4 of the French
+Commercial Code
+
+Article D. 441 I.- 1°: Invoices received, unpaid and
+
+overdue at Article D. 441 I.- 2°: Invoices issued, unpaid and overdue
+the reporting date at the reporting date
+91 Total 91
+
+31 to 61 to days (1 day 31 to 61 to days Total
+
+Qdays 1 to 30 60 90 or or Odays 1to 30 60 90 or (1 day or
+
+In millions of euros (indicative) days days days more more) | (indicative) days days days more more)
+
+(A) By aging category
+
+Number of invoices 34,346 5,532,869
+Aggregate invoice amount
+
+(incl. VAT) 132.8 11.4 0.6 86.8 231.5 109.9 80.7 42.3 533.8 766.8
+
+Percentage of total amount
+
+of purchases (incl. VAT) for
+
+the period 0.67% 0.06% 0.00% 0.43% 1.16%
+
+Percentage of total
+
+revenues (incl. VAT) for the
+
+period 0.54% 0.40% 0.21% 2.62% 3.76%
+(B) Invoices excluded from (A) relating to disputed or unrecognized receivables and payables
+
+Number of excluded
+
+invoices 325 1,203
+Aggregate amount of 67 57.1
+excluded invoices
+
+(C) Standard payment terms used (contractual or legal terms - Article L. 441-6 or Article L. 443-1 of the French Commercial Code)
+
+Payment terms used to Contractual payment terms: 14 days
+calculate late payments Legal payment terms: 30 days Legal payment terms: 30 days
+
+ENGIE - 2019 CONSOLIDATED FINANCIAL STATEMENTS
+29

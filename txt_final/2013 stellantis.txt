@@ -1,0 +1,1401 @@
+
+
+--- Page 1 ---
+
+ll. ANNUAL REPORT
+1.RISK AND UNCERTAINTY FACTORS
+
+Principal risk factors specific to the Group and its activity
+
+In its various business lines, the PSA Peugeot Citroén Group ensures that the risks inherent in its activities are controlled. The
+various operating units identify and assess risks and evaluate the related internal controls on an on-going basis, in France and
+abroad, within the main units of the Automotive Division and the non-Automotive subsidiaries (except Faurecia which has its
+own system). The principal specific risk factors to which the Group may be exposed will be described in depth in the 2013
+Registration Document that will be published in March 2014, and include notably:
+
+1.1 Operational risks
+
+They include in particular: risks related to the Group's operating and geopolitical environment, risks related to the development,
+launch and sale of new vehicles, customer and dealer risks, raw material risks, supplier risks, industrial risks, environmental
+risks, risks related to occupational health and safety, risks related to cooperation agreements and risks related to information
+systems.
+
+. Risks related to the Group's operating and geopolitical environment
+
+A difficult operating environment is likely to influence the Group's activities and thus its financial results. Therefore, periods of
+reduced economic activity and, even more so, periods of crisis may contribute to substantial fall in demand in one or more
+geographic markets. The impact for the Group can be even greater if the falloff in demand hits the regions where
+PSA Peugeot Citroén has a strong sales presence.
+
+In areas outside Europe, the Group is, de facto, exposed to various risks, including:
+
+- Exchange rate risk: sharp falls in local currencies against the euro or currency overvaluation may affect the Group’s
+ability to sell its products in certain markets;
+
+- unfavourable changes in tax and/or customs regulations in the countries with which the Group trades;
+
+- Geopolitical events: the Group may be exposed to risks such as popular uprisings, diplomatic crises, the overthrow of
+a regime, arbitrary or discriminatory behaviour, or a war in a foreign country. For instance, the Group decided to
+suspend its shipments to Iran because of difficulties finding secure sources of funding.
+
+Risk management and control processes
+
+The Group has a tight managerial organisation enabling it to react very rapidly to various types of risk situations: thus, in a
+context of strong commercial competition where the European market is expected to be depressed on a long-term basis, the
+Group decided to strengthen its performance plan by implementing new cost reduction operations. The Group's globalisation
+strategy — which primarily involves internationalising its business activities — is part of its strategy to deal with any negative
+consequences that could arise in a particular geographic area as a result of a recession or serious geopolitical events.
+
+The Group’s exposure to exchange rate risks is managed mostly on a centralised basis by PSA International (PSAI) which sets
+up the appropriate currency hedges where required. In addition, the impact of negative currency effects is passed on in selling
+prices wherever possible. In addition, please refer to Note 36 in the Notes to the consolidated financial statements at 31
+December 2013.
+
+. Risks related to the development, launch and sale of new vehicles
+
+The decision to develop new vehicle models or subassemblies and to introduce them in the market is backed by marketing and
+profitability studies. Profitability calculations are based primarily on unit sales forecasts. Any downward adjustment in a unit
+sales forecast may lead to the recognition of i) an impairment loss on moulds and tooling or capitalised development costs
+depreciated/amortised over the commercial life of the vehicle models concerned or ii) a provision to cover any contractual
+penalties that may be imposed in the event of a breach of take-or-pay clauses included in the Group’s cooperation agreements
+with other carmakers.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 3
+
+
+--- Page 2 ---
+
+The development of new vehicles and subassemblies also exposes the Group to risks arising from constant changes in
+European and global regulations, particularly in the areas of safety and the environment. The overall trend is towards
+increasingly strict regulations. New regulations on the CO2 emissions of light commercial vehicles are expected. China is also
+reinforcing its regulations on new technologies and CO2 emissions. In Brazil, the 2013-2017 INOVAR Auto regulatory
+obligations imposed on vehicle sales (CO2 level, Local Integration level, R&D expenditure level in Brazil) apply to the Group and
+to its competitors.
+
+Technical risks related to product quality and safety can lead carmakers to recall vehicles in order to correct the identified
+defects.
+
+As regards sales risks, the Group is strongly exposed to the mature European market, in a current context of relative economic
+decline of the European countries, saturation of vehicle fleets and reduced space allocated for vehicles in urban areas. On the
+European market, given the substantial amounts allocated to selling expenses for promoting sales, there is also a risk
+concerning the effective use of selling expense budgets.
+
+The strong growth in volumes in China leads the Group to be increasingly exposed to the Chinese market. The main risk
+concerns reduced growth in this market which would soon lead to a situation of overcapacity given the rate of investment by
+manufacturers, and thus to tension on prices and margins. The method of developing PSA activities in China via the two 50%
+joint ventures: Dongfeng Peugeot Citroén Automobile (DPCA) and Changan PSA Automotive Division (CAPSA), nevertheless
+shares the financial risk with the partners.
+
+Concerning its development in the Southern Common Market, the Group is potentially exposed to all the risk factors described
+in the paragraph on risks associated with the Group's operating and geopolitical environment.
+
+Risk management and control processes
+
+The Automotive Programmes Department is tasked with deploying the Group's strategic vision and enhancing value creation by
+ensuring the alignment of all of the contributing processes and by leading the implementation of Group programmes. This
+mission is global in scope. It ensures in particular that project inductions are carried out in accordance with the Worldwide
+Master Plan, both by the programme functions (vehicles, modules, services), and by the contributing departments (industrial,
+human resources, etc.) and that the economic performance of programmes is kept in line with the objectives defined in the
+strategic planning framework.
+
+To cover the project management risks related to new vehicle development and process engineering, the Group leverages a
+comprehensive design and development process, known as the operational development plan, which is regularly updated. For
+each vehicle project, a set of product services, profitability, quality, time-to-market and COz reduction objectives are set.
+Progress in meeting these objectives is tracked by a system of project milestones, corresponding to the various stages at which
+senior management reviews all the financial and technical indicators. In addition, the Quality Department authorises the sale of
+each vehicle that leaves the production line and organises any necessary recalls of faulty vehicles delivered to dealers or
+customers. It also ensures that vehicles in the marketing or design stage comply with the applicable regulations, particularly
+those relating to safety and the environment. Close consideration of customer after-sales requirements, from vehicle design
+onwards (ease of repairs, diagnostics, etc.), also contributes to constant quality improvement in the Group's new models.
+
+The Group considers it of great importance that effective time-frames for new regulations are determined based on the results of
+objective impact studies and that they are realistic, taking into account the time that carmakers will reasonably need to adapt.
+The Group's interaction with the regulatory authorities is designed to ensure this is the case. In Brazil, the Group has set up
+centralised management of the INOVAR Auto regulatory obligations.
+
+Regulatory watch systems and appropriate Action Plans have been set up in Europe and in the Group’s main host countries
+outside Europe.
+
+In Europe, the Group has strengthened its market forecast process, relying on a cautious approach to the development of
+European markets. Actions to strengthen internal controls and manage margins and variable selling expenses were also taken
+in 2013. Thus the Group deployed a self-assessment approach to the internal controls of its subsidiaries over selling expenses,
+and introduced in all countries a new system for analysing margins and variable selling expenses. Audits targeted by country or
+by kind of expenditure were also conducted by the Audit and Risk Management Department. Finally, the Group is gradually
+freeing itself from its dependence on the European market through its growing internationalisation.
+
+To date in China, the development of the market appears well controlled in so far as the developing areas in the country are
+taking over from saturated cities. The Group is managing the vehicle and subassembly projects of its two joint ventures via
+dedicated internal governance, as well as via the boards of its two joint ventures. Concerning CAPSA, the industrial and sales
+development of the premium-oriented DS range are under way and do not contribute any specific alerts. The strengthening of
+the partnership with DPCA will also enable the Group to have an engineering and export base for the rest of Asia, the activity of
+which may help compensate for any decline in the Chinese market.
+
+In the Southern Common Market, the specific risk management and control processes were strengthened during 2013, with in
+particular:
+
+- the introduction of routine risk analyses before validation of the vehicle programming process;
+
+- strengthening Local Integration action plans on vehicle and subassembly projects aiming to reduce the Group's
+exposure to currency risk;
+
+- strengthening the currency hedging policy on the Southern Common Market;
+
+4 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 3 ---
+
+- introducing crisis management procedures in order to react rapidly (particularly given the macro-economic tensions
+concerning Argentina).
+
+° Raw materials risks
+
+The Group’s Automotive Division and Automotive Equipment Division (Faurecia) are exposed to raw materials risk either as a
+result of their direct purchases of raw materials or indirectly when purchasing components from suppliers. Purchases of raw
+materials thus represented 30% of the Purchasing series budget in 2013. They are either industrial products such as steel and
+plastics whose prices and related adjustments are negotiated between purchasing officers and vendors, or commodities traded
+on organised markets, such as aluminium, copper, lead or precious metals, in which case the purchase prices of the raw
+materials or components concerned are based directly on quoted market prices. Raw materials with the greatest impact on
+production costs are as follows, in declining order:
+
+- for negotiated raw materials: steel (38% of total raw material series purchasing costs), thermoplastics and elastomers
+(24%);
+
+- for listed raw materials: aluminium (8% of the total cost of raw material purchases), precious metals (3%) and non-
+ferrous metals (copper, zinc, lead) (3%).
+
+The Group has identified two different types of raw materials risk:
+
+1. supply risk associated with the availability of raw materials;
+
+2. financial risk associated with fluctuations in raw material prices.
+Risk management and control processes
+
+To respond to these two risks, the strategy implemented by the Purchasing Department is aimed at fully leveraging a number of
+action points, such as optimising global sourcing, using bulk purchases for raw materials (for both direct and indirect
+transactions), increasing flexibility in terms of substitute materials, using recycled and green materials, recovering and reusing
+by-products and putting in place financial hedging mechanisms.
+
+The implementation of this materials strategy is managed by quarterly reviews chaired by the Director of Research and
+Development and the Director of Group Purchasing. It is deployed by technical Purchasing units organised by material, which
+are responsible for implementing the action points and regularly monitoring the supply risks.
+
+In order to limit the economic risk for listed raw materials, the Purchasing Department and Corporate Finance have set up a
+medium-term (3-year) financial hedging policy through the subsidiary PSA International. This policy is subject to quarterly
+review, chaired by the Group's Financial Director and the Purchasing Director, during which decisions on the positions taken are
+ratified in accordance with the governance regulations, updated consumption estimates and the major market trends. No
+speculative positions are taken and the principle in periods of rising prices is to secure at least 50 % of requirements for the
+coming year and 20 % of requirements for the next 2 years.
+
+In addition, please refer to Note 36 in the Notes to the consolidated financial statements at 31 December 2013.
+. Risks associated with cooperation agreements
+
+To accelerate its development and reduce engineering and production costs, PSA Peugeot Citroén has implemented a policy of
+entering into cooperation agreements with other carmakers. This policy, based on mutual trust and risk sharing, forms part of
+the Worldwide Master Plan. This policy applies both to vehicle platforms and subassemblies (gear boxes, engines and electrical
+components). The Group also regularly grants production licences to certain industrial partners.
+
+In the pre-signature negotiation phase for cooperation agreements there is a risk that the partner concerned could use the
+information provided to it by PSA Peugeot Citroén.
+
+Once the cooperation agreement has been signed, the risk run by PSA Peugeot Citroén is basically financial. It takes the form
+of potential payment of penalties for failure to take the volumes reserved or to compensate for the negative impact of volume
+reductions on component purchase prices, for R&D cost overruns or overvaluation, and for investments, when the partner is
+acting as project manager.
+
+In cases where a project's profitability is jeopardised, a provision for onerous contracts and/or an asset impairment loss is
+recorded in the consolidated financial statements to reflect the future costs that will be incurred.
+
+Failure to respect intellectual property in cases where the partner grants licences to third parties with no pecuniary consideration
+for PSA Peugeot Citroén is another form of risk, as is a low-quality product manufactured by the partner, requiring remedial
+action with customers which could affect the image of PSA Peugeot Citroén products.
+
+The strategic alliance between the PSA Peugeot Citroén Group and General Motors announced on 29 February 2012 (the
+"Alliance") and signed on 19 December 2012, gave rise to contracts in relation to the implementation of the Alliance. These
+contracts contain a certain number of termination provisions, such as those relating to a change in control or a material adverse
+event.
+
+In addition, the estimated amount and timing of the synergies announced by the Group in connection with the Alliance are
+based on assumptions, including the successful implementation of the next steps of the Alliance, which may not be realised.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 5
+
+
+--- Page 4 ---
+
+The announced amount of synergies may not be achieved, or may be achieved only at a later time than currently expected,
+which could have a material adverse effect on the business, results, prospects or reputation of the Group.
+
+Risk management and control processes
+
+To limit risk relating to performance of the contract from the exploratory phase, the Group has strengthened its control
+processes for projects termed strategic, via stricter regulations in terms of Contract Management, a procedure approved by the
+Executive Committee in May 2013 specifying the arrangements for responsibility, sequencing (authority and guidelines,
+monitoring the negotiation, validation prior to signature, monitoring contract performance) and validation (Executive Committee,
+Managing Board).
+
+At the operational level, Corporate Finance and the Programmes Department have set up a process for verifying that the
+partners involved in cooperation ventures comply with their contractual commitments.
+
+Part of this process entails setting up governance bodies for each venture, with a referral procedure for settling any disputes that
+may arise. These entities enable regular activity and joint decision-making, in particular, action plans aimed at rectifying any
+potential problems or mitigating the related risks.
+
+1.2, Financial market risks
+
+The Group is exposed to liquidity risk, as well as interest rate risks, counterparty risks, exchange rate risk and other market risks
+related in particular to fluctuations in commodity prices and in equity markets. Note 36 to the 2013 consolidated financial
+statements provides information on risk management, which is primarily carried out by Corporate Finance, and identified risks
+and the Group policies designed to manage them.
+
+1.3, Risks associated with Banque PSA Finance activity
+
+These include in particular risks associated with financial markets and the financial institution status of Banque PSA Finance,
+operational risks and credit risks. (See Note 36 in the Notes to the consolidated financial statements at 31 December 2013).
+
+For more detail, please refer to the 2013 annual report of Banque PSA Finance, available on the website,
+www.banquepsafinance.com
+
+1.4, Legal and contractual risks
+
+These risks include in particular: legal and arbitration proceedings, financial covenants, pension obligations and end-of-career
+benefits, risks associated with intellectual property rights, commitments made as part of cooperation agreements, whether they
+are charged to a provision or recognised as off-balance-sheet commitments.
+
+The PSA Peugeot Citroén Group is exposed to legal risks as an employer and in connection with the design and distribution of
+vehicles, the purchase of components and the supply of services.
+
+To manage these risks, the Group implements preventive policies covering workplace health and safety, industrial and
+intellectual property, the manufacturing environment, vehicle safety, product and service quality and the security of the Group’s
+transactions from a legal standpoint.
+
+Like all economic operators, the Group is exposed, in France and in other countries where it is established, to legal risks
+associated with competition law. The identified risks have been mapped; they concern the fields of purchasing, trade and
+cooperation agreements.
+
+To prevent these risks, the Group has, both centrally and in the countries where it is established, in-house lawyers and external
+advisors, experts in competition law, who work closely with the line managers concerned. Furthermore, in 2013 the Group
+initiated continuing education actions on competition law for the line managers likely to face risks of anti-competitive practices,
+while at the same time deploying classroom and distance training courses. In 2013, these actions were initiated in the trade
+field. In 2014, these actions will continue and will be extended within the Group.
+
+. Legal and arbitration proceedings
+
+As of 31 December 2013, no Group company was involved in any claims or litigation that had a material impact on the
+consolidated financial statements.
+
+6 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 5 ---
+
+During the period covering the last twelve months, there were no government, court or arbitration proceedings that could have
+or have had a material impact on the Group's financial situation or profitability. Similarly, the Group is not aware of any
+proceedings pending or threatened, likely to have a material impact on its financial position or profitability.
+
+Concerning provisions for claims and litigation, please refer to Note 27.2 to the Consolidated Financial Statements at
+31 December 2013.
+
+° Financial covenants
+The details of financial covenants applicable to debts and undrawn lines of credit are given in Note 36.1 A for manufacturing and
+sales activities and financing activities.
+
+All clauses are currently complied with.
+
+For more details, please refer to Chapter 4 Risk factors of the 2013 Registration Document, which will be published in March
+2014.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 7
+
+
+--- Page 6 ---
+
+2. GROUP ACTIVITIES
+
+2.1 Significant events in the 2013 financial year
+
+2.1.1 Sale of BNP Paribas shares
+
+On 14 March 2013, PSA Peugeot Citroén* announced that it had sold its entire participating interest, representing
+4,004,695 BNP Paribas shares, i.e. 0.32% of the capital in BNP Paribas, for a total amount of around €177 million.
+
+These shares were placed at a price of €44.24 per share.
+
+Pursuant to this transaction, PSA Peugeot Citroén will no longer hold any BNP Paribas share. This transaction comes within the
+framework of its active balance sheet management by PSA Peugeot Citroén.
+
+(*) Through its subsidiary Grande Armée Participations
+
+2.1.2 New milestones in PSA Peugeot Citroén’s development in China
+
+On 2 July 2013 in Wuhan, China, Philippe Varin, Chairman of the PSA Peugeot Citroén Managing Board, opened the third plant
+operated by Dongfeng Peugeot Citroén Automobiles (DPCA), the Group's joint venture with the Chinese manufacturer
+Dongfeng.
+
+This third plant will enable DPCA to increase its production capacity from 450,000 to 600,000 vehicles/year from 2013, before
+reaching 750,000 vehicles/year in 2015.
+
+The opening of the Wuhan plant allowed the partners to begin production of the new Citroén C-Elysée, which represents a new
+step in DPCA’s sales offensive. The Wuhan 3 plant started production of the Peugeot 301 at the end of 2013.
+
+DPCA clearly confirms its market share target of 5% for 2015, supported by its on-going sales offensive.
+
+On 28 September 2013, Philippe Varin opened a new plant in Shenzhen in Guangdong province, China. This is the first plant
+operated by Changan PSA Automobile Co., Ltd (CAPSA), the Group's joint venture with the Chinese manufacturer “China
+Changan Automobile Group”. This plant will give CAPSA capacity to build 200,000 vehicles per year.
+
+The joint venture will also have its own R&D centre - construction started in July 2013 - in which CAPSA invests RMB 500
+million. The centre’s engineers will work closely with the China Tech Centre, the Group’s R&D centre in Shanghai.
+
+The Shenzhen plant, world best in class for its compactness, high technology process and its Excellence Management System,
+will produce the Chinese version of the DS5, which was unveiled at the Chengdu Auto Show on 30 August 2013. The new
+model will spearhead the DS brand's market offensive in China.
+
+Since "DS World", an institutional showcase for the brand, opened in March 2013 in Shanghai, the sales network has grown
+rapidly. Following the successive market launches of the imported DS5, DS4 and DS3, CAPSA is writing a new chapter in its
+history with the introduction of the locally produced DS5.
+
+2.1.3 New Social Contract: agreement signed
+
+A New Social Contract was signed following the Central Works Council meeting of 24 October 2013.It is designed to involve
+employees in the Group’s recovery and to maintain PSA Peugeot Citroén’s industrial and technological base in France, while
+preserving employees’ basic interests.
+
+It focuses on four main pathways:
+
+. Greater involvement by employees and their representatives in the Group's strategic vision and in each department
+and site's forward-looking projects;
+
+e Anew approach that secures jobs while carrying out collective transformations, particularly to improve the utilisation
+rate of our plants;
+
+. Deployment of a PSA intergenerational contract that provides for senior leave and the hiring, under work-study
+schemes, of 2,000 young people;
+
+. Flexibility and wage moderation measures (with no decline in remuneration paid).
+
+The New Social Contract also gives employees a stake in the Company's recovery through an improved discretionary profit
+sharing agreement and an additional profit-sharing payment (discretionary or non-discretionary) in early 2014.
+
+Annual expenses related to the New Social Contract are disclosed in Note 9.3.
+
+8 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 7 ---
+
+2.1.4 Carlos Tavares nominated to the Managing Board of PSA Peugeot
+Citroén to succeed Philippe Varin in 2014
+
+Appointed in June 2009 as President of the Managing board of PSA Peugeot Citroén, confirmed with a new mandate, Philippe
+Varin, with his management team, has defined and led an extensive program of upgrading the Group's strategic, industrial,
+commercial and financial plans, all in the context of the major crisis that the European automotive industry has been enduring.
+
+As the Managing Board, with the support of the Supervisory Board, has begun negotiations with different partners on industrial
+and commercial projects, Philippe Varin expressed the wish that the next step of consolidation and conquest be undertaken
+under the leadership of a new pilot, enabling the strategy of the Group to be implemented over the long term.
+
+He asked the Supervisory Board to set up a succession process leading to the rapid appointment of a new member of the
+Managing Board in order to succeed him in 2014.
+
+After conducting extensive research, the Supervisory Board chose Carlos Tavares to succeed the current President of the
+Managing Board. With this aim, Carlos Tavares joined the Managing Board on 1 January 2014 pending his appointment as
+President of the Managing Board during 2014.
+
+During this period Philippe Varin will continue his mission as President of the Managing Board, in particular with the
+responsibility of carrying out strategic discussions begun with the various partners. Carlos Tavares is working with the Managing
+Board on the action plans aimed at continuing the recovery of the Group.
+
+2.1.5 Impairment loss on Automotive Division assets
+
+In accordance with IAS36, the Group’s 2013 financial statements recorded an impairment charge on Automotive Division
+assets, reflecting the impact of worsening automobile markets and unfavourable exchange rates in Russia and Latin America.
+This allowance amounts to €1,009 million (see Note 9.1).
+
+It is also maintaining its objectives for 2014 and to this end is stepping up its action plans to offset the negative impact of
+exchange rates on operating free cash flow.
+
+2.1.6 Implementation of the industrial reorganisation and workforce
+redeployment plans
+
+As a result of reduced activity in the Automotive Division in Europe, an industrial activity reorganisation and workforce
+redeployment plan, announced in July 2012, has been implemented since May 2013, following the consultation procedure with
+employee representative bodies. It includes the following measures:
+
+* The shutdown of production activities at the Aulnay plant (concerning 3,000 persons);
+e Adjustment of the production facilities in Rennes, leading to redeployment of 1,400 workers out of a total of 5,600;
+
+A special process for reorienting the Aulnay and Rennes sites towards new industrial and automotive-related activities was
+established with all the stakeholders concerned.
+
+e Adjusting the Group's overhead staff.
+
+The Group is continuing to reduce its costs and improve its operational activity, which led to a reduction of 3,600 jobs distributed
+across all the sites in France. This reduction was achieved through voluntary redundancies.
+
+At the end of December, the Group recorded 7,300 staff members including 2,250 staff departures.
+
+2.1.7 End of vehicle production at the Aulnay site
+
+On 25 October 2013, the last car to be produced at the Aulnay-sous-Bois site came off the assembly line. The car was a Citroén
+C3, which will join the Citroén brand Heritage Conservation Centre.
+
+The Aulnay site will produce spare parts in its body-in-white workshop until 2014. Citroén C3 production will then be entirely
+carried out at the Poissy (Yvelines) site.
+
+2.1.8 Progress report on the General Motors Alliance
+
+. Confirmation of the joint development of two vehicles on PSA platforms:
+a B-MPV segment vehicle and a C-CUV segment vehicle;
+
+e Add anew generation B-segment light commercial vehicle cooperation;
+. Announce balanced cross vehicle manufacturing ;
+
+. Proceed with purchasing collaboration and confirm early favourable results;
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 9
+
+
+--- Page 8 ---
+
+e — After detailed evaluation, the collaboration on a B segment platform and associated small petrol engine is dropped
+from consideration.
+
+PSA Peugeot Citroen (PSA) and General Motors (GM) announced further steps in their strategic Alliance on 12 December
+2013. The Alliance remains structured around the main pillars of joint programs, purchasing, and logistics, focused on Europe
+and is extended into cross manufacturing.
+
+The two groups confirmed their continuing cooperation for the development of vehicles on PSA platforms: a B-MPV segment
+model and a C-CUV model. Additionally, the partners will cooperate on new generation products in the light commercial vehicle
+B-segment, which are based on a PSA new generation platform. The first vehicles from the Alliance are expected to launch
+starting in 2016.
+
+In addition, the parties will balance manufacturing — with each company producing one vehicle for the other. As announced in
+October, B-MPVs from both companies will be built in the General Motors Zaragoza plant in Spain.
+
+It was decided that future C-CUV segment vehicles will be produced in the French PSA plant in Sochaux.
+
+The updated synergies expected from the Alliance are estimated at approximately $1.2 billion by 2018. The synergies will be
+shared about evenly between the two companies.
+
+GM and PSA also amended certain other terms of the Alliance. They will simplify the joint governance of the Alliance and
+removed as a ground for terminating the Alliance the failure to achieve a minimum number of cooperation programmes within a
+specific time. GM also waived its right to terminate the Alliance, under certain conditions, in the event of certain other investors
+acquiring interests in Peugeot S.A., provided that said investors support the Alliance.
+
+On 12 December 2013, PSA Peugeot Citroén formally noted the transfer by GM of its participating interest of 7% in the Group's
+capital, as well as GM's strongly reaffirmed commitment to the strategic Alliance.
+
+2.1.9 New financing and French State guarantee
+The Group undertook several financing transactions during the year.
+
+For the Automotive division, these transactions chiefly comprised two bond issues by Peugeot S.A. in a total amount of €1.6
+billion, and a further loan of €300 million from the European Investment Bank (EIB).
+
+Faurecia also reconstituted its entire syndicated loan by repaying sums drawn in a total amount of €300 million (see Note 31.3).
+Banque PSA Finance issued a €1.2 billion bond and carried out seven securitisation transactions.
+
+The bonds issued by Banque PSA Finance since 2013 are covered by a first demand guarantee by the French State, under the
+authorisation given by the European Commission for a total principal amount capped at €7 billion (see Note 36.1.A. (b)).
+
+To complement its funding sources, Banque PSA Finance launched in March 2013 a savings account offer targeting individual
+customers in France under the Distingo brand. Deposits totalled €955 million as of 31 December 2013.
+
+Banque PSA Finance also renewed its bank funding facilities in 2013 (see Note 36.1.A. (b)).
+
+2.1.10 Development of PSA Peugeot Citroén's participating interest in
+Faurecia
+On 30 November 2013, Faurecia announced its decision to proceed with early repayment of the bonds convertible into new or
+
+existing shares (OCEANE), issued in 2009. Following this operation, PSA Peugeot Citroén now holds 51.7% of the capital and
+68% of the voting rights in Faurecia (see Note 29.2).
+
+2.1.11 Change in PSA Peugeot Citroén's participating interest in the share
+capital of Frangaise de Mécanique
+
+In 2013, PSA Peugeot Citroén and Renault each expressed the desire to acquire full independence in the management of
+Francaise de Mécanique and Société de Transmissions Automatiques and take responsibility for the strategic future of an
+exclusively owned subsidiary.
+
+Henceforth, PSA Peugeot Citroén has exclusive control of Frangaise de Mécanique and sold its equity stake in Société de
+Transmissions Automatiques in 2013.
+
+10 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 9 ---
+
+2.1.12 Products
+Successful launches during the year
+
+2013 was a particularly good year in terms of new products with 17 launches over the year, including nine in the first half,
+bringing the average age of the range to 3.1 years in 2014.
+
+In particular, these launches include:
+
+- the Peugeot 2008, the new urban crossover from Peugeot, which significantly exceeded its targets, necessitating the
+setting up of a second production team at the Mulhouse plant;
+
+- the new Peugeot 308, which was a resounding success with nearly 42,000 sales just [three] months after its launch,
+and a high trim mix;
+
+- the new Citroén C4 Picasso, and Grand C4 - Picasso, best in its category for CO2 emissions.
+Innovation and technology
+
+On 22 January 2013, several brand new technologies developed by PSA Peugeot Citroén were presented at the Innovation
+Day. In particular, in a world first, the Group has unveiled a revolutionary technology: Hybrid Air, a petrol and compressed air
+full-hybrid solution.
+
+Other brand new solutions to emerging expectations were also presented, available from 2013 on Peugeot and Citroén brand
+vehicles, including EMP2, the Group's new global modular platform.
+
+On 26 November, and during a Capital Day dedicated to financial analysts and investors gathered together at the ADN Tech
+Centre in Vélizy, PSA Peugeot Citroén presented the development plan for the Peugeot and Citroén brands and their respective
+vehicle lines.
+
+This meeting was also the occasion to present the technologies developed by the Group, as well as its innovation strategy.
+
+2.1.13 Important events since the year-end
+The Group will announce on 19 February 2014, with three specific press releases, major projects of operations to this effect.
+
+Please refer to Note 40 in the Notes to the consolidated financial statements at 31 December 2013.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 11
+
+
+--- Page 10 ---
+
+2.2 Overview of sales activities
+
+Significant events in 2013
+
+. Worldwide sales of assembled vehicles and spare parts at 2,819,000 units, a fall of 4.9% over the year, and sales of
+assembled vehicles stable at -0.1%;
+
+An annual trend that reversed in the fourth quarter with a rise of 4% in sales of assembled vehicles;
+
+Further increase in the share of sales outside Europe to 42% versus 38% in 2012;
+
+Continued upscaling strategy with 19% premium sales, compared with 9% in 2009;
+
+Success of the Peugeot 2008 and 308;
+
+Success of the Citroén C4 Picasso and Grand C4 Picasso;
+
+Successful launch of the DS brand in China;
+
+PSA Peugeot Citroén remains a leader in CO2 emission reduction, with an average of 116.2 grams/km, i.e. a fall of
+6.2 grams compared with 2012.
+
+In 2013, the world’s automotive markets showed decidedly mixed trends. Thus, the European and Russian markets continued
+their fall with drops of 1.6% (Europe 30) and 5.4% respectively. In contrast, the Chinese market experienced a rise of +19.1%,
+and the Latin American market of +2.9%.
+
+In this context, the Group's worldwide sales (assembled vehicles and spare parts) totalled 2,819,000 units, a fall of 4.9%. Sales
+of assembled vehicles remained almost stable at 2,818,000 units, a fall of 0.1% compared with 2012, and grew by 4% over the
+fourth quarter.
+
+European market recording further decline
+After a fall of 8.6% in 2012, the European market (Europe 30) again dropped in 2013 by 1.6%.
+In 2013, only a few markets grew, such as Great Britain and Spain (respectively 11% and 4.1%).
+
+Those markets that experienced a recovery are a long way from the 2007 levels: Spain grew in 2013 to 809,000 vehicle
+registrations compared with 1,892,000 in 2007.
+
+France recorded a decline of 5.5% and Italy of 7.6% to 1,404,000 vehicle registrations - the lowest level since 1979 - compared
+with 2,739,000 in 2007.
+
+Across Europe, with 304,000 Light Commercial Vehicle (LCV) registrations, the Group retains its leadership and has a 20.7%
+market share, almost stable compared with 2013.
+
+In this context, the Group is focusing on the most profitable distribution channels and its market share is 11.9% in Europe 30
+compared with 12.7% in 2012.
+
+The Group's internationalisation is confirmed
+
+The internationalisation strategy continues to yield positive results: the share of vehicles sold outside Europe has grown strongly
+since 2009. With 42% of sales outside Europe in 2013, PSA Peugeot Citroén is on track to achieve its objective of 50% of its
+sales outside Europe in 2015.
+
+China: very strong growth
+
+The Chinese market recorded growth of 19.1% in 2013. In this context, Group sales increased by 26.1% to 557,000 units versus
+442,000 in 2012. The market share is 3.64%. China is PSA Peugeot Citroén's second largest market after France.
+
+Peugeot recorded another rise of 25.8% with 272,000 units sold compared with 216,000 in 2012. Citroén sales grew by 26.3%
+to 285,000 units as against 226,000 in 2012.
+
+The Peugeot 3008 and the Citroén C4L, launched at the start of the year, and the Peugeot 301 and Citroén C-Elysée, on sale
+from the second half of 2013, contributed strongly to the commercial development of the Group in China.
+
+In 2014, PSA Peugeot Citroén's sales are expected to continue to grow, particularly with development of the sales network
+throughout the country and a wider offer.
+
+The middle classes, the Group's core sales target in China, today represent 25% of the Chinese population but will represent
+40% by 2020. To accompany this development, the Group is planning annual production capacity of 950,000 vehicles in its
+Shenzhen (200,000 units for CAPSA) and Wuhan (750,000 units for DPCA) plants. Construction of a fourth plant by DPCA is
+being studied.
+
+12 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 11 ---
+
+Latin America: still a mixed situation
+
+The Latin American market (Argentina, Brazil, Chile, Mexico) grew overall by 2.9% in 2013 with 5,937,000 vehicle registrations.
+Detailed analysis of this figure shows major local disparities.
+
+Thus the Brazilian market fell by 1.5% for the first time in 10 years. This decline appears despite the cut in IPI’ introduced in
+2012 being maintained throughout 2013, and aggressive sales offers, particularly in the second half of the year. However, the
+exchange rate trend in the area (versus €) was very unfavourable and strongly penalised the Group's economic performance.
+
+The low level of local integration in the Group's activities amplifies this exchange rate effect.
+
+In this context, PSA Peugeot Citroén's sales in the area are up by 7% compared with 2012, with 303,000 units sold in the Latin
+America area and a market share of 4.9%. In Argentina, the PSA group is continuing its strong growth, with 140,100 vehicle
+registrations in 2013 representing growth of 25.5% compared with 2012. In particular, the Group successfully launched the
+Peugeot 208 and the Citroén C4 Lounge, sales of which have already exceeded forecasts. Group vehicle registrations recorded
+strong growth both in Chile (+31.5%) and Mexico (+33.4%), well above the markets, which rose respectively by +10.3% and
++7.9%.
+
+Russia: major decline in the automotive market
+
+In the context of a slowdown in the Russian economy, the automotive market experienced a distinct decline of 5.4% in 2013.
+The Group's market share dropped by 0.3 points, to 2.3%.
+
+In 2013, the launches of vehicles adapted for the market, the Peugeot 301 and 208 and the Citroén C-Elysée, added to the
+product range. Note that the Citroén C4 Sedan, produced locally in Kaluga, was launched in June. These models will allow the
+Group to strengthen its presence in the Russian market in 2014.
+
+Rest of the World
+
+Thanks to the success of the Peugeot 301 and Citroén C4L and C-Elysée, Group sales are also growing outside these three
+destinations, particularly in Algeria (+6.9%) and Turkey (+7.6%).
+
+Premium sales increasing
+The Group's upscaling strategy relies on strong brands, with clearly differentiated customer territories.
+
+Group upscaling takes the form of increased premium sales’, which went from 505,000 units in 2012 to 540,000 units in 2013,
+i.e. 19% of the total sales volume.
+
+Vehicles equipped with the "Hybrid4" diesel hybrid technology contribute to the brand upscaling: In Europe, they represent 11%
+of Peugeot 3008, 16% of Peugeot 508 and 34% of Citroén DSS sales.
+
+In total, the Group sold 24,319 Hybrids in 2013, and thus became the number two for hybrid sales in Europe.
+
+Successful launches
+In 2013, PSA Peugeot Citroén successfully launched several new vehicles.
+
+The urban crossover Peugeot 2008, launched last spring, and the new Peugeot 308 recorded better results than the objectives,
+with respectively 82,000 and 34,000 orders.
+
+For Citroén, the new C4-Picasso and Grand C4-Picasso, with 58,000 orders, help to boost brand results.
+
+‘"Imposto sobre Produtos Industrializados" (tax on industrial products)
+
+? Premium vehicles offer a level of driving pleasure, safety, quality of finish, connectivity and comfort, etc. that serves as a benchmark in their
+segment. They include distinctive models in segments A, B et C (Peugeot 207CC, 2008, 308CC, RCZ, 3008, 4008 and Citroén DS3, DS3
+Cabrio, DS4, C4-AIRCROSS) and models in segments D and E (Peugeot 508, 407 and Citroén DS5, C5, C6).
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 13
+
+
+--- Page 12 ---
+
+CO2 emission reduction: PSA Peugeot Citroén is leading the way and is ahead of European standards
+
+The Group is continuing CO2 emission reduction in its vehicles and emerging as one of the European leaders in this field. With
+an average of 116.2g of CO2 emitted per km* in 2013, versus 122.4g CO2 per km in 2012, the objectives set by Brussels for
+2015 (130g CO2/km) have already been achieved and exceeded.
+
+55.3% of vehicles sold by the Group in Europe emit less than 111g CO2/km, up from 39.1% in 2012.
+CO2 emissions are being reduced through new technologies developed and launched during 2013:
+
+- The new generation modular platform EMP2 deployed from 2013 on the Vigo sites for the new Citroén C4 Picasso
+and at Sochaux for the new Peugeot 308. This new platform will allow diversified silhouettes to be developed on
+segments C and D, with unequalled performance, particularly as regards CO2 emissions;
+
+- Optimised internal combustion engines with its family of three-cylinder petrol engines, including the Turbo PureTech
+110 and 130 hp versions, were launched at the end of October at the Frangaise de Mécanique site;
+
+- The exclusive emission control technology, Diesel Blue HDi, in order to meet the Euro 6 standard and lower nitrogen
+oxide emissions from the Diesel engine to the level of petrol. This new exhaust stream, launched at the end of 2013
+on the Peugeot 508 and the Citroén C4, will gradually be deployed on the Diesel range of vehicles during 2014;
+
+- Hybrid technologies with broader deployment of second-generation Stop & Start e-HDi on the diesel Peugeot and
+Citroén ranges;
+
+- “Hybrid4" diesel hybrid technology, which is continuing to be developed in Europe, with over 50,000 Peugeot and
+Citroén vehicles equipped with this technology sold since their launch.
+
+Innovation, research and development are priorities for PSA Peugeot Citroén. They are a powerful lever for addressing major
+auto industry challenges (changing standards and legislation, rising environmental awareness, emerging mobility and
+networking needs, product appeal, etc.). and thus developing competitive advantages.
+
+In 2013, investments and capitalised R&D expenses amounted to €2,397 million, including €802 million for Faurecia, compared
+to €3,814 million in 2012, including €861 million for Faurecia. To meet its objective of achieving 50% of its sales outside Europe
+by 2015, PSA Peugeot Citroén has invested in its priority development areas: Asia, Latin America and Russia with a peak over
+the 2011-2012 period (additional capacity at Wuhan III and Shenzhen sites in China, Porto Real in Brazil and Kaluga in Russia).
+
+After two years of significant investment associated with increasing international capacity, and investment for the EB engines,
+the Group returned in 2013 to a more usual level of investment. This level will enable the Group to continue its investment in
+product R&D and innovation, thanks, in particular, to improved efficiency and sharing development costs with partners, including
+GM through the Alliance.
+
+In 2013, R&D projects were directed towards:
+
+. solutions to reduce CO2 emissions: solutions to reduce carbon emissions: measures to lower vehicle weight, make
+more energy efficient powertrains with smaller carbon footprints and pave the way for alternative hybrid and electric
+powertrain development;
+
+e vehicle development associated with renewal of the Peugeot and Citroén ranges: thus the average age of the range is
+kept at 3.5 years, with 17 launches in 2013. The rate of change will continue, along with significant innovations;
+
+e the emergence of the communicating car with improved driver assistance systems for even greater safety and comfort
+and work on the connectivity between the driver and vehicle to integrate new clients uses in the cars.
+
+R&D projects continue to expand internationally to such places as China, Latin America and Russia. They resulted in 17
+launches in 2013: the new Peugeot 208 XY, 208 GTI, 2008, 308, Partner Electric, the new 5- and 7-seat Citroén C4 Picasso
+and the DS3 Cabrio, the electric Berlingo; and also specific launches in China (3008 and 301, C4L, C-Elysée and DSS), Latin
+America (208 and C4 Lounge) and Russia (C4 Sedan). The Group also launched a new engine in 2013: the EB Turbo Tech and
+the new manual 5-speed and automatic 6-speed gear boxes.
+
+“Data updated at the end of November 2013
+
+14 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 13 ---
+
+2.4 Financial position and results
+
+2.4.1 2013 Group Operating Results
+
+The Group financial statements at 31 December 2012, presented for comparison, have been adjusted compared with the
+previously published financial statements: Amendment to IAS 19 Employee Benefits.
+
+For more details, please refer to Note 3 in the Notes to the consolidated financial statements at 31 December 2013.
+
+2.4.1.1 Revenue
+
+The Group's operations are organised around four main segments:
+
+- the Automotive Division, covering the design, manufacture and sale of passenger cars and light commercial vehicles
+under the Peugeot and Citroén brands;
+
+- the Automotive Equipment Division, corresponding to the Faurecia Group comprising Interior Systems, Automotive
+Seating, Automotive Exteriors and Emissions Control Technologies;
+
+- the Finance Division, corresponding to the Banque PSA Finance Group, which provides retail financing to customers
+of the Peugeot and Citroén brands and wholesale financing to the two brands’ dealer networks;
+
+- other Businesses, which include the operations of Peugeot S.A., the Group’s holding company, and Peugeot
+Motocycles. The income from the Gefco group, accounted for by the equity method, is presented under these
+businesses.
+
+The table below shows consolidated revenue by business.
+
+(in million euros) 2013 2012 %
+Automotive Division 36,461 38,299 4.8%
+Faurecia 18,029 17,365, 3.8%
+Banque PSA Finance 1,773 1,910 -7.2%
+Other Businesses and intersegment eliminations (2,173) (2,128) -
+TOTAL 54,090 55,446 -2.4%
+
+Consolidated revenue does not include the contribution of our Chinese company, Dongfeng Peugeot Citroén Automobile
+(DPCA), as it is jointly controlled on a 50/50 basis with our local partner and is therefore accounted for by the equity method.
+
+In 2013, PSA Peugeot Citroén consolidated revenue was down 2.4% to €54,090 million from €55,446 million in 2012.
+
+The Automotive Division saw its revenue fall by €1,838 million in a year marked by a declining European market and a negative
+trend in foreign exchange. Faurecia’s revenue increased by €664 million, while Banque PSA Finance revenue fell by €137
+million. The performances of each business are commented on in Section 2.4.1.3.
+
+The table below shows consolidated revenue by region, based on the location of the customer.
+
+(in million euros) 2013 2012
+Consolidated revenue 54,090 55,446
+
+Net contribution to consolidated revenue by region
+
+Europe 65.8% 68.1%
+Russia 3.3% 3.2%
+Asia 7.6% 6.2%
+Latin America 10.1% 9.6%
+Rest of the World 13.2% 12.9%
+TOTAL 100% 100%
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 15
+
+
+--- Page 14 ---
+
+2.4.1.2 Recurring operating income
+
+The following table shows recurring operating income (loss) by business.
+
+(in million euros) 2013 2012
+Automotive Division (1,042) (1,496)
+Faurecia 538 516
+Banque PSA Finance 368 391
+Other businesses and intersegment eliminations (41) 29
+TOTAL (177) (560)
+
+The Group reported a recurring operating loss of €177 million in 2013, compared with a loss of €560 million in 2012. The
+Automotive Division's recurring operating loss improved by €454 million to €1,042 million over the year. Faurecia's performance
+rose 4.3% to €538 million. As regards Banque PSA Finance, its operatioresult fell 5.9% to €368 million.
+
+2.4.1.3 Analysis of revenue and recurring operating income by division
+
+Automotive Div
+
+(in million euros) 2013 2012
+Revenue 36,461 38,299
+Recurring operating income (loss) (1,042) (1,496)
+As a % of revenue -2.9% -3.9%
+Revenue
+
+Automotive Division revenue totalled €36,461 million in 2013, a fall of 4.8% in a European market down by 1.6%. The second
+half of the year was less unfavourable with a drop in revenue of 1.8%.
+
+New vehicle revenue declined by 8% to €25,532 million in 2013, down from €27,765 million in 2012. The product mix continues
+to be favourable at +0.8%, reflecting the success of recent launches (17 in 2013) and with the average age of the range falling.
+The price effect was also favourable over the year at +0.7%, thanks to the Group's pricing policy. These two effects were not,
+however, enough to offset the strong contraction in volumes (-5.4%) reflecting in particular shrinking European markets and
+market share losses, and intensified by the disruptions to Citroén C3 sales due to production shutdowns at the Aulnay plant in
+the first half of the year. The exchange rate effect was strongly negative (-3.5%), resulting in particular from the unfavourable
+movements in the Argentinian peso, the Brazilian real and the pound. The country mix was slightly unfavourable over the year,
+at -0.3%, and the "other" effect at -0.4% was mainly a result of fall in the price of diesel over the year.
+
+The Group's market share fell 0.8 points in Europe, to11.9% in 2013 versus 12.7% in 2012, impacted by disruptions to the sales
+of the Citroén C3, the channel and country mix and the Group’s pricing policy.
+
+The proportion of sales made outside Europe continued to expand, rising to 42% over the period:
+In this difficult environment, the Group maintained the steady pace of new model launches, with 17 launches in 2013, and
+continued its upscaling strategy.
+
+Recurring operating income (loss)
+
+The Automotive Division reported a recurring operating loss of €1,042 million in 2013, up from the €1,496 million loss recorded
+the previous year. The €454 million difference is associated with an unfavourable environment, for -€886 million, and with the
+Group's performance, for +€1,340 million.
+
+The change in the Automotive Division’s reported performance was due to the following factors:
+
+Operating Environment
+The deteriorating operating environment had a negative impact of €886 million on the recurring operating income.
+
+e The non-recurring exchange rate effect had a negative impact of €500 million, including €526 million in negative
+foreign currency impact, mainly due to depreciation of the euro against the Argentinian peso, the Brazilian real and
+the pound;
+
+e — The shrinking market demand had a negative impact of €147 million;
+
+. Higher raw material costs and other external costs had a negative impact of €239 million.
+
+16 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 15 ---
+
+Underlying Automotive Division Performance
+
+The Automotive Division’s underlying performance contributed positively to the recurring operating income, at €1,340 million
+over the 2013 financial year.
+
+e — The improvement in production costs and other costs continued for €933 million, as well as a reduction in research
+and development expenses of €140 million, including the positive impact as a result of the non-recurring depreciation
+of Automotive Division assets recognised in 2012 4
+
+. Improvement in the product mix continued, with €406 million associated in particular with recent launches;
+
+e The price effect was positive, at €287 million, thanks to prices being maintained in Europe and increased in Latin
+America in order to counter the negative foreign exchange effect;
+
+e These positive effects offset the impact of the fall in market share for €264 million.
+
+Faurecia
+(in million euros) 2013 2012
+Revenue 18,029 17,365
+Recurring operating income (loss) 538 516
+As a % of revenue +3.0% +3.0%
+Revenue
+
+Faurecia’s total sales for fiscal 2013 stood at €18.03 billion, up 5.0% over 2012 sales of €17.36 billion.
+
+Product sales (delivery of parts and components to automakers) totaled €13.69 billion, up 3.9% from 2012 sales of €13.30
+billion.
+
+In 2013, Asia accounted for 13% of product sales (a 3 point increase), while North America represented 27% and South
+America 5%. Sales outside Europe represented 46% of the total. Faurecia reinforced the diversification of its customer portfolio,
+posting substantial growth with Nissan, Daimler and Ford; the latter consolidating its position as Faurecia’s second largest
+customer with 15% of product sales. Business for commercial vehicles rose 17% over the year.
+
+Product sales in 2013 break down as follows:
+. in Europe, product sales were stable at €7.41 billion, in line with automotive production evolution ;
+
+. in North America, product sales stood at €3.71 billion, compared to €3.64 billion in 2012, a 1.3% increase, while
+automotive production rose 5% ;
+
+. in Asia, product sales reached €1.71 billion, compared to €1.39 billion in 2012, up 24.3% while automotive production
+grew 5%. Sales in China climbed to €1.39 billion. This 27.7% increase is nearly double the growth of the Chinese
+automobile market (14%) ;
+
+. in South America, product sales stood at €717 million, up from €662 million a year earlier, representing a 26.3%
+increase compared with a 6% rise in automotive production.
+
+Product sales by business group
+
+The Business Group with the most dynamic growth was Emissions Control Technologies, where product sales totaled €6.4
+billion, up 7.3% driven by growth in Asia (up 22%) and the commercial vehicle segment (up 17%). The increase in the second
+half was 12.1%.
+
+Product sales for the Automotive Seating Business Group totaled €5.2 billion, compared to €5.1 billion in 2012, an increase of
+3.4%.
+
+Product sales at the Interior Systems Business Group totaled €4.6 billion, versus €4.3 billion in 2012, up 4.1%. This growth was
+driven by a sales increase with Ford in North America and double-digit growth in Asia.
+
+Product sales at Automotive Exteriors stood at €1.9 billion, an increase of 3.9% over 2012.
+
+* Non-recurring depreciation of Automotive Division assets recognised in 2012 (IAS 36) generated a reduction in amortisation expenses leading to
+a positive €595 milion effect, recognized in manufacturing and purchasing, R&D and production costs.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 17
+
+
+--- Page 16 ---
+
+Recurring operating income (loss)
+
+Operating income stood at €538 million, or 3.0% of total sales, compared with €516 million (3.0% of sales) in 2012.
+By region, operating income is explained as follows:
+
+. in Asia, at 8.3%, the margin continued to improve over the year, thanks to a business model that combines strong
+growth and excellence in execution ;
+
+. in Europe, at 2.7%, the margin slipped slightly due to the 4.0% drop in automotive production in the first half. The
+margin improvement in the second half (up 60 basis points to reach 3.0%), reflects the first effects of the fixed cost
+reduction plan launched late 2012;
+
+. in North America, at 2.1%, operating income posted a slight gain over the year, but profitability remains below
+targeted levels. A limited number of product and new technology launches had operational difficulties;
+
+. in South America, at -3.2%, the margin has been impacted by the negative effects of inflation, currency fluctuations
+and higher costs of raw materials.
+
+By Business Group, operating income evolved as follows:
+
+« Automotive Seating: at 4.2% of sales (€198.7 million) for the fiscal year and 4.5% in the second half, operating income
+reached benchmark competition levels. The 50 basis points margin increase for the year stems from a good
+performance in Asia and a strong margin improvement in the mechanisms division;
+
+. Emissions Control Technologies: at 3.1% of sales (€217.4 million), the gap with competition was reduced. The margin
+increase of 70 basis points is the result of significant progress in North America, a marked improvement in Europe
+and a margin which remains high in Asia;
+
+. Interior Systems: at 1.8% of sales (€98.3 million) faced some launch difficulties particularly in North America;
+
+« Automotive Exteriors: at 2.0% of sales (€37.9 million), the margin was impacted by launch costs in South America and
+transformation costs in the composites business. The margin in Europe remained satisfactory at 4.5%.
+
+More detailed information about Faurecia is provided in the Bank’s Annual Report, which can be downloaded from its website at
+www.faurecia.com.
+
+Banque PSA Finance
+
+(in million euros) 2013 2012
+Revenue 1,773 1,910
+Net banking revenue 891 1,075
+Recurring operating income (loss) 368 391
+As a % of revenue 20.8% 20.5%
+Revenue
+
+Banque PSA Finance’s revenue for 2013 totalled €1,773 million, down 7.2% from the €1,910 million recorded in 2012.
+
+In what continues to be a challenging economic climate, our end-user financing business continued to perform well overall, with
+29.1% new vehicle financing, the best performance in the last ten years, apart from the record high of 29.8% in 2012. Despite
+this strong performance in terms of penetration, we recorded an 8,0% drop in the number of new vehicle contracts on our
+eligible market (sales of new Peugeot and Citroén vehicles) which was itself down 5.8%.
+
+Due to wide variances from one country to another depending on the continued effects of the financial crisis on the car market,
+BPF recorded a decrease in overall volumes of end-user financing for new and used vehicles in 2013, with 731,003 contracts
+compared to 805,143 in 2012. The table below provides information relating to BPF's end-user financing activity in 2012 and
+2013.
+
+New retail financing granted in 2013 totalled €7,256 million, down 10.9% from €8,449 million in 2012.
+At 31 December 2013, the retail loan book stood at €15,762 million, down from €17,007 million at 31 December 2012.
+
+Our corporate dealer financing business fell off sharply in 2013. The decrease was particularly significant in the second
+semester, mainly due to the conservative policy adopted by the brand driven primarily by the decline in the European markets.
+
+We provided corporate dealer financing for a total of 1,619,118 vehicles in 2013, a significant decrease compared with 2012 in
+volume. Vehicle financing amounts followed the same trend, with a 9.8% drop.
+
+18 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 17 ---
+
+The wholesale loan book at 31 December 2013 came to €5,550 million, down 8.3% from €6,054 million at 31 December 2012.
+
+Outstanding retail and wholesale loans totalled €21,312 million at 31 December 2013, down 7.6% on the €23,061 million
+recorded at the previous year-end.
+
+Insurance and services margin (excluding net cost of refinancing) increased sharply to €170 million in 2013, compared to €162
+million in the previous year.
+
+(in million euros) 2013 2012
+Outstanding loans (including securitised loans) by customer segment
+
++ Corporate Dealers 5,550 6,054
+
++ Retail and Corporate & Equivalent 15,762 17,007
+TOTAL BANQUE PSA FINANCE* 21,312 23,061
+(in million euros) 2013 2012
+Outstanding loans (including securitised loans)
+
++ France 7,991 8,572
+
++ Rest of Europe 11,789 12,626
+
++ Rest of the World 1,532 1,863
+TOTAL BANQUE PSA FINANCE 21,312 23,061
+
+* — Excluding remeasurement of interest rate portfolios.
+
+Recurring operating income (loss)
+
+Banque PSA Finance reported recurring operating income of €368 million in 2013 versus €391 million the previous year. This
+deterioration is mainly due to the fall in Net banking revenue, partially offset by an improvement in the cost of risk and general
+operating expenses.
+
+More detailed information about Banque PSA Finance is provided in the Bank’s Annual Report, which can be downloaded from
+its website at www.banquepsafinance.com.
+
+2.4.2 Other income statement items
+
+2.4.2.1 Operating income (loss)
+Non-recurring operating expenses amounted to €1,582 million in 2013 versus €4,528 million in 2012.
+
+- Impairment losses on CGUs, provisions for Automotive Division onerous contracts and other assets totalled
+€1,100 million. This includes in particular an impairment loss on Automotive Division CGU assets of €1,009 million,
+given the deterioration in the automotive markets and the exchange rate trend in Russia and Latin America (see Note
+9.1. in the Notes to the consolidated financial statements at 31 December 2013). Other depreciation from Vehicle
+CGUs and provisions for Automotive Division onerous contracts amounted to €91 million;
+
+- Restructuring costs amounted to €460 million in 2013, including €365 million concerning the Automotive Division and
+€91 million related to Faurecia. The former relate primarily to France, in particular the plan to restructure the
+Automotive Division’s production base and redeploy its workforce, as well as costs in relation to the New Social
+Contract. Restructuring costs for Faurecia included €84 million for employee separations (see Note 9.3).
+
+Non-recurring operating income amounted to €413 million versus €406 million in 2012 and mainly included reversals on CGU
+impairment losses, contracts for pecuniary consideration and other Automotive Division income.
+
+For more details, please refer to Note 9 in the Notes to the consolidated financial statements at 31 December 2013.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 19
+
+
+--- Page 18 ---
+
+As a result of these factors, the Group ended 2013 with a consolidated operating loss of €1,346 million, compared with
+operating income of €4,682 million in 2012.
+
+(in million euros) 2013 2012
+Automotive Division (2,111) (5,752)
+Faurecia 431 428
+Banque PSA Finance 368 390
+Other Businesses and holding company (34) 252
+TOTAL PSA PEUGEOT CITROEN (1,346) (4,682)
+
+2.4.2.2 Net financial income (expense)
+
+Net financial expense came to €658 million in 2013 compared with €430 million the previous year. This amount includes interest
+income from loans and on cash and cash equivalents, finance costs and other financial income and expense.
+
+This increase is explained mainly by the rise in financial expenses associated with bond issues during the year, partially offset
+by the disposal of BNP securities for €89.3 million.
+
+For more information, please refer to Notes 10 and 11 in the Notes to the Consolidated Financial Statements at 31 December
+2013.
+
+2.4.2.3 Income tax expense
+
+Income tax expense stands at €387 million in 2013 compared to €774 million in 2012. Income tax before impairment losses on
+the French tax group amounted to €835 million. Unrecognised tax assets corresponding to tax loss carryforwards for the French
+tax group amounted to €746 million, impairment losses on the French tax group totalled €80 million and other impairment losses
+amounted to €396 million at 31 December 2013.
+
+The current tax expense stands at €387 million in 2013 compared to €774 million in 2012. New deficits generated in the year
+amounted to €824 million and were not recognised in income.
+
+For more details, please refer to Note 12 in the Notes to the consolidated financial statements at 31 December 2013.
+
+2.4.2.4 Share in net earnings of companies at equity
+
+The net income of companies accounted at equity was €176 million for the 2013 financial year, compared to €160 million in
+2012. The companies accounted at equity are firstly Dongfeng Peugeot Citroén Automobile (DPCA), Changan PSA Automobiles
+(CAPSA), and secondly cooperations with other car manufacturers, when they have a specific legal structure, as is the case for
+the joint ventures with Fiat and Toyota. In 2013, the PSA Peugeot Citroén Group took exclusive control of Frangaise de
+Mécanique, previously 50%-owned.
+
+The DPCA contributed €187 million to income in 2013, compared with €171 million in 2012 (see Note 16.5).
+
+Toyota Peugeot Citroén Automobiles’ contributed €4 million to the Group's result, compared to €15 million in 2012. The
+contribution from the companies created by the cooperation with Fiat amounted to €2 million, compared to the negative
+contribution of €1 million in 2012. The contribution of Frangaise de Mécanique, previously held in cooperation with Renault,
+amounted to a loss of €3 million in 2013 compared to a loss of €5 million in 2012.
+
+For more information about the Group's share in the net earnings of companies at equity, please refer to the Notes to the
+consolidated financial statements at 31 December 2013 (Note 16 - Investments in Companies at Equity).
+
+2.4.2.5 Consolidated profit (loss) from continuing operations
+
+The Group ended the year with a consolidated loss of €2,215 million compared to a loss of €5,726 million in 2012.
+
+2.4.2.6 Profit (loss) from discontinued operations
+
+The net loss from discontinued operations was €3 million in 2013 compared with a profit of €803 million in 2012. The 2012 result
+mainly included the capital gain on the breakup of GEFCO.
+
+2.4.2.7 Consolidated profit (loss) for the year
+
+The Group ended the year with a consolidated loss of €2,218 million compared with a loss of €4,923 million in 2012.
+
+20 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 19 ---
+
+2.4.2.8 Consolidated profit (loss) attributable to equity holders of the parent
+
+The consolidated loss attributable to the parent company’s equity holders was €2,317 million in 2013 compared to a loss of
+€5,008 million in 2012.
+
+2.4.2.9 Earnings per share
+
+The basic loss per share amounted to €6.77 compared with a basic loss per share of €15.59 in 2012. Diluted loss per €1 par
+value share was €6.77 versus a loss of €15.60 in 2012.
+
+Please refer to the Notes to the consolidated financial statements to 31 December 2013 (Note 13 - Earnings per Share).
+
+2.5 Outlook
+
+In 2014, PSA Peugeot Citroén expects growth in automotive demand to be slightly positive at around 2% in Europe and around
+10% in China, with a 2% decline in Latin America, and a stable market in Russia.
+
+Continuing the trend of 2013, we will pursue our active cash management to target positive operational free cash flow in 2016 at
+the latest. Beyond, the operating free cash flow generation should accelerate due to the structural benefit of the projects of
+transactions.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 21
+
+
+--- Page 20 ---
+
+3. CASH AND CAPITAL RESOURCES
+
+34
+
+Equity
+
+Consolidated equity amounted to €7,791 million at 31 December 2013, down on the €10,167 million recorded at the previous
+year-end. This difference is mainly due to taking into account the result of the fiscal year, which was particularly impacted by the
+depreciation of the Automotive Division's assets.
+
+At 31 December 2013, the share capital comprised 354,848,992 shares with a par value of one euro each. The Group holds
+12,788,627 treasury shares, enabling it to cover its requirements under its current stock option plans, and to cover part of the
+OCEANE bond issue of June 2009. No treasury shares were bought back in 2013.
+
+3.2 Net debt of manufacturing and sales companies and net debt-to-
+equity ratio
+
+Consolidated current and non-current financial liabilities of the manufacturing and sales companies amounted to €11,120 million
+compared with €10,734 million on 31 December 2012 (see Note 31.1 to the consolidated financial statements at 31 December
+2013). Manufacturing and sales company financial assets amounted to €6,972 million at 31 December 2013 versus
+€7,586 million at 31 December 2012.
+
+The net debt of the manufacturing and sales companies thus deteriorated at 31December 2013 to
+a loss of €4,148 million, compared with a loss of €3,148 million at the end of December 2012 (see Note 31 to the Consolidated
+Financial Statements at 31 December 2013). Faurecia's net debt represents €1,629 million, compared to €1,892 million in 2012.
+The net debt of the Automobile Division (manufacturing and sales companies excluding Faurecia) grew by €1,263 million over the
+period to €2,519 million.
+
+Funds from operations in the 2013 financial year amounted to €700 million (including €588 million used in restructuring) and is
+down compared with 2012 (€1,033 million).
+
+The Working Capital Requirement (WCR) had a positive impact of €397 million, thanks to good inventory control (up by
+€323 million compared with 31 December 2012). Trade receivables rose by €9 million compared to 31 December 2012. Trade
+payables rose by €77 million compared to 31 December 2012. The “Other Changes in Working Capital Requirements” item fell
+by €12 million compared to 31 December 2012.
+
+Capital expenditure and capitalised Research & Development expenses amounted to €2,397 million in 2013. It fell by €1,417
+million following two years of significant investment in increasing the international capacity and investment for the EB engines.
+This amount includes a reduction in investments of €610 million, in accordance with the objective set by the Rebound Plan at
+€600 million.
+
+In addition, the Group made a number of financial investments totalling €71 million net, for the most part in relation to the capital
+increase by the CAPSA joint venture in China.
+
+Payment of Group subsidiary dividends totalled €286 million in 2013, including €281 million from Banque PSA Finance.
+Asset sales provided a cash injection of €37 million in 2013. This figure includes additional costs linked to the disposal of Gefco.
+
+Free cash flow® ended the year at €-1,048 million, versus €-1,387 million a year earlier. Operational free cash flow, excluding
+disbursement of €588 million for restructuring, excluding non-recurring items (CAPSA financing and sale of fixed assets) for
+€34 million, amounted to -€426 million.
+
+The net debt-to-equity ratio stood at 53% at 31 December 2013, compared to 31% a year earlier (see Note 31.3).
+
+° Free Cash Flow of manufacturing and sales companies: the dividends received from Banque PSA Finance have been included in Free Cash
+
+Flow since 2010. This is equal to: operating flows + investment flows + net dividends received from Group companies.
+
+22 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 21 ---
+
+3.3 Origin, amount and description of consolidated cash flows
+
+3.3.1. Consolidated cash flows
+
+For more information, please refer to the Consolidated Financial Statements - Consolidated Statements of Cash Flows for the
+year ended 31 December 2013.
+
+3.3.2 Cash flows for manufacturing and sales companies
+
+The following table presents the manufacturing and sales companies’ cash flows for 2013 and 2012:
+
+Manufacturing and sales companies
+
+(in million euros) 2013 2012
+Net Profit (2,453) (6,019)
+Funds from operations 700 1,033
+Change in working capital 397 (602)
+Net cash from (used in) operating acti 1,097 431
+Net cash used in investing acti (2,431) (2,450)
+Net cash from/(used in) financing activities 2,204 2,387
+Effect of changes in exchange rates (91) (6)
+Net increase (decrease) in cash and cash equivalents from continuing
+
+operations 779 362
+Net cash from discontinued operations (41) 345,
+Cash and cash equivalents at beginning of year 5,399 4,692
+Net cash and cash equivalents at end of period 6,137 5,399
+
+Cash flows from operating activities of manufacturing and sales companies
+
+Funds from operations for manufacturing and sales companies stood at €700million in 2013 versus
+€1,033 million in 2012. This represents 1.3% of revenue for the manufacturing and sales companies, compared with 1.9% the
+previous year.
+
+The €397 million change in working capital requirements mainly reflects good inventory management for €323 million.
+
+Consequently, funds from manufacturing and sales companies present a positive balance of €1,097 million compared to
+€431 million in 2012.
+
+The table below shows new vehicle inventory levels for the Group and in the independent dealer network:
+
+(in thousands of new vehicles) 2013 2012 2011
+The Group 169 184 234
+Independent dealer network 215 232 259
+TOTAL 384 416 493
+
+The new vehicles inventory at 31 December 2013 totalled 384,000 new vehicles, representing a ratio of 62 days’ sales,” inline with
+the announced objective. At 31 December 2012, there were 416,000 new vehicles in inventory, representing 65 days’ sales.
+
+Cash flows from manufacturing and sales company investment activities
+
+Flows connected to investment in manufacturing and sales companies stand at €2,431 million at the end of 2013, compared
+with €2,450 million at the end of 2012. These investments, beyond those carried out by the Automotive Division, include
+investments made by Faurecia. Capitalised development expenditure stood at €835 million versus €1,262 million in 2012. (See
+note 8 to the Consolidated Financial Statements at 31 December 2013).
+
+° Sales ratio: ratio calculated on the basis of sales forecasts for the next three months.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 23
+
+
+--- Page 22 ---
+
+Cash flows from financing activities of manufacturing and sales companies
+
+Flows from the financing activities of the manufacturing and sales companies totalled €2,204 million, compared to €2,387 million
+at 31 December 2012.
+
+Net cash and cash equivalents at end of year - manufacturing and sales companies
+
+Given the flows from operations, investment flows, and flows from financial operations explained above, and after taking the
+negative foreign exchange rate conversions of €91 million into account, net cash and cash equivalents at the year end totals
+€6,137 million, compared with €5,399 million at 31 December 2012.
+
+Liquidity reserves for the manufacturing and sales companies amounted to €10,121 million at end-2013 versus €10,574 million
+at end-2012, with €6,571 million in cash and current & non-current financial assets, and €3,550 million in undrawn lines of credit
+(see Note 31.4).
+
+3.3.3. Net cash and cash equivalents at end of year - finance companies
+
+At the end of 2013, Banque PSA Finance cash stood at €1,804 million versus €1,669 million at the end of 2012 (see Note 25.2
+to the Consolidated Financial Statements at 31 December 2013).
+
+3.4.1. Manufacturing and sales companies
+
+In the prevailing economic environment, the Group continued with its diversified, proactive financing strategy and conservative
+liquidity policy in order to meet its general financing needs, particularly the financing of its business and of its development
+projects. This strategy enabled the Group to refinance its debt maturities on favourable terms. The refinancing transactions
+strengthened the balance sheet by maintaining the average life of debt.
+
+Refinancing transactions carried out during 2013 included the following in particular:
+. On 28 February 2013, Peugeot S.A. issued a €1 billion 7.375% bond maturing in March 2018;
+. In September 2013, Peugeot S.A. issued a €600 million 6.5% bond maturing in January 2019;
+. In December 2013, the Group took out a €300 million 2.283% loan with the EIB, maturing in December 2018.
+
+Peugeot S.A. and GIE PSA Trésorerie also have a confirmed line of credit for €2,400 million, which matures in July 2015 for
+€2,225 million, leaving a balance of €175 million due in July 2014. This facility was not drawn at 31 December 2013 (see
+Note 29.1). Faurecia has undrawn confirmed lines of credit amounting to €1,150 million at 31 December 2013.
+
+3.4.2. Banque PSA Finance
+
+In 2013, Banque PSA Finance made use of different sources of financing: bank deposits (launch of the "DISTINGO" passbook
+savings account on March 7, 2013), bonds, securitization, and syndicated backup and revolving bilateral lines. As a regulated
+credit institution, we also have access to sources of liquidity such as the European Central Bank (ECB).
+
+At December 31, 2013, 22% of the financing came from drawn bank loans, 38% from the capital markets, 25% from
+securitization transactions on the markets, 10% from financings of public origin such as the ECB or the SFEF (‘Société de
+Financement de I'Economie Frangaise'), which raised funds in 2008 and 2009 in order to lend them to the banks and financial
+institutions during the previous crisis), and 5% from the bank deposit business started in March 2013. At December 31, 2012,
+these sources provided 23%, 42%, 20%, 15% and 0% of our financing, respectively.
+
+Furthermore, Banque PSA Finance pursued its securitization program in 2013 with the success of eight securitization
+transactions completed in three countries (France, Germany and Switzerland) for a total amount at the outset of €1,529 million
+of senior securities.
+
+In 2013, Banque PSA Finance borrowed from the European Central Bank (ECB) under its long-term refinancing operation
+(LTRO). At 31 December 2013, this amounted to €1,700 million.
+
+A bank loan collateralised by Belgian credit sale receivables was implemented in April 2013, generating net funding of €92
+million at inception.
+
+On 25 March 2013, Banque PSA Finance issued a fixed-rate bond maturing in April 2016 for €1.2 billion, with a coupon of
+0.625%. The bond was issued in the context of the European Commission's authorisation to use the French State's guarantee
+(cf. note 36.1.A(b)).
+
+24 - PSA PEUGEOT CITROEN 2013 Annual Results
+
+
+--- Page 23 ---
+
+In March 2013, the Distingo interest-bearing passbook savings account was introduced for private customers in France. The
+total funds for these accounts at 31 December 2013 were €955 million out of total amounts owed to customers of €1,446 million
+repayable at any time.
+
+Financial security
+Financial security amounted to €8,400 million at 31 December 2013, compared to €8,233 million at 31 December 2012. (see
+Note 32.8).
+
+More detailed information about Banque PSA Finance is provided in the Bank’s Annual Report, which can be downloaded from
+its website at www.banquepsafinance.com.
+
+PSA PEUGEOT CITROEN 2013 Annual Results - 25

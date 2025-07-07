@@ -1,0 +1,1580 @@
+
+
+--- Page 1 ---
+
+colt
+
+NOVABASE
+ANNUAL
+REPORT
+
+Dear Shareholders,
+
+The 2017 results show that we have achieved the goals laid out for the year,
+and bear out the transformations we are making to our business.
+
+First, we are replacing business in more volatile regions subject to exchange
+rate difficulties with a greater presence in Europe, which now accounts
+for around 70% of international operations. Second, we have intensified
+our focus on specialized products and services as a solid leverage to the
+digitalization of our customers’ businesses - you can learn about some of
+the solutions at www.novabase.com.
+
+We have achieved this through major R&D investments and methodologies
+centered on people, such as design thinking and gamification. We have
+also used these types of approaches successfully within the company, with
+NOVA being just one example. Developed by Novabase, this platform will
+accelerate the development of our employees - mostly millennials - and
+give us an advantage in a market which has become extremely competitive
+in terms of technology talent.
+
+The major changes in EBITDA and Net Profits, +85% and -50% respectively,
+are due to the unusual circumstances of 2016: extraordinary costs from a
+project, and capital gains from the sale of the Infrastructures & Managed
+Services business. The latter also resulted in a record year for cash
+generation: more than €31 million. Without it (€41 million), and without
+dividends paid (€-20 million), the cash generated was €10 million.
+
+Novabase renewed its appraisal of Maturity Level 3 in the Capability Maturity
+Model Integration (CMMI), keeping us in the restrict group of companies in
+Portugal that have this certification. The CMMI is the international benchmark
+that measures the maturity and capacity of an organization’s processes,
+certifying its expertise in product and service development in the areas
+of systems and software engineering. Novabase has signed a strategic
+partnership with Instituto Superior Técnico (IST) to support the transfer
+of knowledge and innovation. Celfocus and Novabase Business Solutions
+achieved respectively the first and second place, in the Innovation Services
+category, in the ranking published by Star Company magazine for the 1000
+largest companies operating in Portugal. Collab has been awarded the Gold
+Award in Global Technology by Associa¢ao Portuguesa de Contact Centres
+(Portuguese Association of Contact Centres).
+
+2017 was once again a year of investment in innovation and dissemination
+of Novabase offerings in events with large exposure, namely: conference of
+Gamification Europe, held in the UK, where Novabase presented its NOVA
+platform; Platinum sponsor of the Receivables Finance International 2017
+(RFIx) conference, held in London, the world’s main event in the area of
+factoring, that bring together financial institutions, technology innovators;
+Celfocus presented its Celfocus Omnichannel solution at the Mobile World
+
+2017 IN THE SPOTLIGHT 6
+
+
+--- Page 2 ---
+
+colt
+
+NOVABASE
+ANNUAL
+REPORT
+
+Conference, which is considered the most important telecommunications
+trade show worldwide; Partner of Web Summit 2017, where we presented
+the Wizzio Digital Platform; Participation in the APDC Congress, whose
+central theme was the transformation of the businesses in order to meet the
+digital demand, where Novabase presented our most innovative solutions.
+
+With regard to new companies, in the Venture Capital area, it was decided
+to establish a new venture capital fund ‘Novabase Capital + Inova¢ao’, with
+a total capital of 7 M€. The referred fund is held in 53.1% by Novabase
+Capital SCR, S.A. and 46.9% by Fundo de Capital e Quase Capital (FC&QC).
+Through this Fund, Novabase Capital intends to respond to the constraints
+on SME financing in the ICT market and to contribute to the stimulation
+and orientation of business investment and job creation, in line with the
+investment objectives and priorities defined in the Portugal 2020. We sold
+part of our investment in the company Feedzai, to the North American
+companies Sapphire Ventures and Sapphire Sap, obtaining a 3 M€ gain.
+Feedzai works in the area of data science and is one of the fintechs in the
+list of Forbes for 2018.
+
+Over the course of the year we hired more than 100 newly graduated
+students through Novabase Academy, a program that selects the best talent
+out of universities. Since its creation in 2006, we have already integrated
+more than 1,200 young talents into our workforce.
+
+The year was also marked by Novabase’s return to the PSI20, giving its
+stock more visibility. Novabase nearly tripled its transaction volume in 2017,
+which was up 48%, including the two dividends paid.
+
+Given the strong balance sheet of the company, we will propose a dividend
+payment of 15 cents per share at the 2018 General Meeting of Shareholders,
+corresponding nearly to a 100% payout and yield of around 5%.
+
+We will continue to pursue our business transformations in 2018, both from
+the standpoint of geographically diversifying risk as well as investing in
+products and services. In the short term, this decision will limit our growth
+
+and profitability; however, we believe it will enable future access to higher-
+quality, more sustainable business.
+
+Luis Paulo Salvado
+
+Chairman of the Board of Directors
+
+2017 IN THE SPOTLIGHT 7
+
+
+--- Page 3 ---
+
+
+
+--- Page 4 ---
+
+TURNOVER — = EBITDA
+
+EE \\\
+
+\
+a —"
+
+NET PROFIT
+
+\\\
+id
+
+2016
+
+\
+— &
+
+R&D
+
+2
+en:
+= a AK
+
+INTERNATIONAL
+BUSINESS %.
+
+a
+ge
+_
+
+
+
+--- Page 5 ---
+
+
+
+--- Page 6 ---
+
+colt
+
+NOVABASE
+ANNUAL
+REPORT
+
+Novabase is a listed Company since July 2000, working in compliance with
+a governance model regularly assessed by the Executive Board in terms
+of adequacy and performance, aiming at contributing to the performance
+optimization and to a more accurate alignment with all the stakeholders’
+interests. The stakeholders are entities whose interests involve the corporate
+activity and include Shareholders and Investors, Clients, Suppliers and
+other Business Partners, and Employees.
+
+Given the growing challenges presented by the internationalization and
+competiveness of Novabase’s activities, it became necessary to update the
+corporate governance implemented in the Company, in order to simplify
+and promote flexibility on the Company’s bodies and procedures and to
+better adjust the existing solutions to the Company’s size and operating
+circumstances.
+
+Therefore, at the General Meeting held on 29 April, 2015, Novabase
+changed its Articles of Association and implemented a reinforced Latin
+governance model, which integrates a Board of Directors, an Audit Board
+and an Effective Chartered Accountant. In the context of this model, a more
+agile daily company management structure was implemented, including
+two managing directors - Luis Paulo Cardoso Salvado (CEO) and Francisco
+Paulo Figueiredo Morais Antunes (CFO). On the other hand, Novabase
+has a General Meeting board elected for three-year mandates, as well as a
+Remuneration Committee appointed by the General Meeting that shall set
+the remuneration of each member of the Corporate Bodies, considering
+their duties and the Companies’ economic situation. The Company also
+appoints a Secretary and a deputy secretary, in accordance with article
+446-A of the Commercial Companies Code, to exercise their competences
+under the law.
+
+Novabase continuously analyses the implementation of this model, to
+improve, wherever possible, its corporate governance practices and better
+adjust the adopted model to the demands and challenges faced by the
+Company.
+
+CORPORATE GOVERNANCE 1]
+
+
+--- Page 7 ---
+
+
+
+--- Page 8 ---
+
+CREATION OF Turnover 139.7 ME
+VALUE FOR THE EBITDA 10.9 ME
+SHAREHOLDERS Atributtable Net Profit 48 ME
+Turnover growth rate 3.0%
+International turnover growth rate -4.9%
+EBITDA growth rate 84.8%
+Atributtable Net Profit growth rate -50.2%
+Net Cash growth 311 ME
+Return on Equity 71%
+Return on Assets ' 4.2%
+
+* Return on Assets = Operating Profit (EBIT) / Total Assets
+
+EMPLOYEES J J
+_ “GG
+
+YW ~
+2032 Y 0
+
+LL YY
+
+NOVABASE u
+ANNUAL
+REPORT
+
+Zz
+>
+ses)
+
+5
+
+<
+—
+WN
+
+
+--- Page 9 ---
+
+
+
+--- Page 10 ---
+
+Changes Novabase’s Turnover in 2017 was 139.7 M€ (million euros), an increase of 3%
+. compared to 135.7 M€ in 2016, in line with the Annual Guidance of 140 M€.
+in key
+
+indicators
+
+Turnover TURNOVER
+
+2015 2016 2017
+
+From the total Turnover, 75.5 M€ were generated outside Portugal, which
+compares to 79.4 M€ registered in 2016.
+
+Business outside Portugal generated in the Business Solutions area
+decreased to 54% of the respective Turnover (59% in 2016) and in the Venture
+Capital area increased to 60% (42% in 2016). Europe was the continent with
+greater expression in 2017, accounting for 69% of international business.
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL 15
+REPORT
+
+
+--- Page 11 ---
+
+TURNOVER BY Abroad Abroad
+GEOGRAPHY
+
+Portugal Portugal
+
+EBITDA EBITDA reached 10.9 M€ in 2017, a 85% increase compared to the 5.9
+M€ obtained in 2016, above the Annual Guidance (+9% in value and +0.7
+percentage points). EBITDA’s evolution was influenced by the extraordinary
+cost recorded in a project in 2016.
+
+N
+
+EBITDA
+
+EBITDA %
+
+Me
+
+2015 2016 2017
+
+The EBITDA margin was 7.8%, above the 4.4% margin obtained in 2016.
+
+NOVABASE FINANCIAL AND STOC FORMANCE
+ANNUAL
+REPORT
+
+
+--- Page 12 ---
+
+Results Consolidated Net Profit, after Non-Controlling interests, reached 4.8 M&€,
+showing a 50% decrease compared to the 9.6 M€ registered in 2016. The
+evolution of Net Profit was impacted by the disposal of IMS Business in
+2016.
+
+CONSOLIDATED 29% iY
+NET PROFIT 7
+Z 50%
+
+Net Profit %
+Me
+
+2015 2016 2017
+
+Earnings per Share were 0.15 Euros in 2017, registering a decrease of 50%
+towards the Earnings per Share from the previous year of 0.31 Euros per
+share.
+
+Trends in EBITDA to Net Profit were as follows:
+
+CONSOLIDATED
+
+NET PROFIT . 2: & ,
+3 : ¢ ¢ &
+fi as a = Ge a 2 2 é 2 2
+2016 12.9
+2017 10.9 Y
+. 59 77 78 64 7 bad
+. Yj Y yy Y 48
+, ) Y Yr
+2 es if
+—z
+“ A “10-08 . ‘ha ie. ss
+
+&
+eS
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL ] 7
+
+REPORT
+
+
+--- Page 13 ---
+
+Depreciation and amortisation reached -3.2 M€, an increase towards the
+amount registered in 2016 (-3.8 M€).
+
+Operating Profit (EBIT) was 7.7 M€, rising 263% compared to 2016 (2.1 M€).
+
+The Financial results were negative in 0.8 M€, an increase of 0.2 M€
+compared to 2016.
+
+Earnings Before Taxes (EBT) in 2017 were 7.8 M€, registering a 569%
+increase compared to 1.2 M€ in 2016.
+
+The Gain on net monetary position, amounting to 1.0 M€, derives from
+the application of IAS 29 to the financial statements of the subsidiary in
+Angola, after this economy was considered at the end of December 2017
+as a hyperinflationary economy, in accordance with that standard. The
+calculated gain considers an inflation rate of 23.7% in Angola in 2017.
+
+Results from discontinued operations reached a 2.7 M€ profit, which
+compares to 12.9 M€ in 2016, and correspond to the results attributable
+to IMS segment. In 2017, this value corresponds fully to the adjustment
+on the gain generated by the sale of the business, resulting from the final
+calculation of working capital and net debt, as established in the purchase
+and sale agreement.
+
+Cash In 2017, Novabase shows a positive evolution in cash generation, with a 31.1
+Mé€ increase in the cash position in 2017. Thus, Novabase ended 2017 with
+56.8 M€ in net cash, which compares to 25.7 M€ in 2016. This evolution
+mainly reflects the cash inflow from IMS Business disposal, in the amount
+of 41.1 M€.
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL ] 8
+
+REPORT
+
+
+--- Page 14 ---
+
+15/1/17:
+Shareholder
+remuneration | 15.5 ME
+
+NET CASH
+16/05/16:
+Shareholder
+remuneration | 3.8 ME
+Net Cash 29/05/17:
+
+Shareholder
+remuneration | 4.7 ME
+
+ns
+
+Me
+12MIS-3MI6.—s GMIG. M16, 12M16._— 3M17,— ss SM17.— OM17_—« 1217
+
+On May 29, 2017, Novabase paid its shareholders a total amount of 4.7 M€
+(0.15€/share). Additionally, on November 15, 2017, occurred the payment of
+reserves and retained earnings to shareholders in a total amount of 15.5 M€,
+corresponding to 0.50€ per share. On July 3, 2017, the amount of 1.3 M€
+was paid to Non-controlling interests.
+
+With reference to the Notes to the Consolidated Financial Statements, the
+
+detail and description of Net Cash is analysed as follows:
+
+AMOUNTS EXPRESSED IN THOUSAND OF EUROS 31.12.17
+
+Cash and cash equivalents 56,136 35,703
+Non-current Held-to-maturity investments 7,713 4,859
+Current Held-to-maturity investments 7,353 4,441
+Treasury shares held by the Company (*) 1,148 21
+Non-current Bank borrowings 10,563) (13,907)
+Current bank borrowings (4,963) (5,376)
+
+56,824 25,741
+
+* The share price in the Stock Exchange in the last tradable day of 2017 was 3.049 Euros (2016: 2.490 Euros)
+
+NOVABASE FINANCIAL AND STOCK PERFORMANCE
+ANNUAL
+
+REPORT
+
+
+--- Page 15 ---
+
+Capital Consolidated recurring investment reached 0.9 M€ in 2017. This amount,
+
+— . which corresponds to a cash write-off in the Statement of Financial
+
+Expenditure Position, is divided into two parts: one pertaining to work in progress in
+the amount of 0.2 M€ related to the development of projects that are still
+under construction, and a second part, in the amount of 0.7 M€, related to
+other tangible assets, such as furnishings.
+
+Non-recurring investment was positive, in the total amount of 1.5 Mé€,
+comprising extraordinary movements, write-offs and currency translation
+differences, and the application of the hyperinflation standard (IAS 29) to
+tangible assets of the subsidiary in Angola (non-cash items).
+
+CAPITAL WORK IN PROGRESS
+
+EXPENDITURE Work in Progress 02 02
+SUB-TOTAL (1) 0.0 0.2 0.2
+R&D ol ol
+
+SUB-TOTAL (2)
+
+TANGIBLE ASSETS
+
+2
+°
+2
+
+Transport Equipment / Leasing / OR 17 17
+Other Tangible Assets 0.3 07 0.4
+SUB-TOTAL (3) 14 07 21
+TOTAL 15 09 24
+Human In terms of human resources, Novabase had an average of 2032 employees
+
+in 2017, a decrease of 18% compared to 2484 in 2016, mainly reflecting the
+
+Resources exit of the employees of IMS Business companies, which were sold at the
+
+end of 2016.
+
+NOVABASE FINANCIAL A
+ANNUAL
+REPORT
+
+
+--- Page 16 ---
+
+The following table shows the average number employee’s breakdown,
+during 2017, among Novabase’s various business areas:
+
+AVERAGE
+NUMBER
+OF EMPLOYEES
+
+lM Business Solutions
+mIMs
+Shared Services*
+
+Venture Capital
+* For the purpose of reporting
+by segment, Shared Services
+
+belongs to Business Solutions
+segment.
+
+2016 2017
+
+Business
+Summary
+
+NOVABASE
+ANNUAL
+REPORT
+
+At the end of the year, the total number of employees was 1991, compared
+with 2138 at the end of 2016.
+
+Worthy of note is that international employees represent 10% of the total
+number in 2017 (211), and the recruitment of 97 new university graduates
+through Novabase Academy program.
+
+The 2017 results are aligned with the expectations laid out for the year and
+reflect the changes outlined for business.
+
+In the new perimeter, Turnover increased by 3%, with the weight of the
+international business accounting for 54% of the total. Operations in
+Europe, which consolidated its leadership as the major market, represent
+69% of non-domestic activity. Likewise, an improvement of operating
+competitiveness was verified, with EBITDA rising 85% up to 10.9 M€ and
+Net Profit reaching 4.8 M€.
+
+Towards the Guidance, the 2017 results stood in line in Turnover and above
+in EBITDA (+9% in absolute terms and +0.7% in percentage points). In terms
+of international business weight, Novabase was below the 60% target,
+influenced by the domestic business growth.
+
+We highlight in 2017, in the Venture Capital segment, that Collab has been
+awarded the Gold Award in Global Technology by Associacaéo Portuguesa
+de Contact Centres (Portuguese Association of Contact Centres). The award
+
+FINANCIAL AND STOCK
+
+
+--- Page 17 ---
+
+was announced at the 13th International Conference of the association, an
+event that brings together the Portuguese contact centre industry.
+
+In the Business Solutions area, Celfocus and Novabase Business Solutions
+achieved the leadership of the Innovation - Services category, in the ranking
+published by Star Company magazine for the 1000 largest companies
+operating in Portugal, occupying the first and second place, respectively.
+
+Additionally, Novabase renewed its appraisal of Maturity Level 3 in the CMMI
+(Capability Maturity Model Integration) model in Portugal. This international
+benchmark measures the maturity and capacity of an organization’s
+processes, certifying its expertise in product and service development in
+the areas of systems and software engineering. This appraisal, once again
+given by the Spanish consultant PROQUA, keeps Novabase in the élite
+group of certified software companies headquartered in Portugal.
+
+With regard to new partnerships, Novabase has signed a protocol with
+Instituto Superior Técnico (IST) to join its network of strategic partners.
+This agreement will allow Novabase to support the transfer of knowledge
+and innovation, resulting from the research activity of the University to the
+Industry and vice versa, and fall under Novabase’s strategy to specialise its
+offerings and make them more suitable for the most sophisticated markets.
+
+Highlights also include the re-entry of Novabase to the main index of
+the Lisbon stock exchange. The return to PSI20O increases the visibility of
+Novabase and may lead to an increase of the liquidity of its stock, which
+recorded a 48% appreciation during the year, after adjusting the regular
+and extraordinary dividends paid in 2017.
+
+2017 was also a year of investment in innovation and dissemination of
+Novabase offerings in events with large exposure, namely:
+
+* Novabase participated in the conference of Gamification Europe, aimed at
+those who use gamification to encourage behavioural change within their
+companies. The conference was launched in the UK and was attended by
+the largest gamification specialists, where Novabase presented its NOVA
+project, a plataform for promoting the growth of Novabase’s employees;
+
+* Novabase was the platinum sponsor of the Receivables Finance
+International 2017 (RFLx) conference, held in London, the world’s main
+event in the area of factoring, that bring together financial institutions,
+technology innovators, companies and specialists for an in-depth
+discussion on the industry’s future;
+
+* Celfocus presented its Celfocus Omnichannel solution at the Mobile World
+Conference, which is considered the most important telecommunications
+trade show worldwide;
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL ? ?
+REPORT
+
+
+--- Page 18 ---
+
+Novabase was a partner of Web Summit 2017, considered one of the
+world’s most important events in entrepreneurship, technology and
+innovation. The event took place once again in Lisbon and was the stage
+chosen for the presentation of the Wizzio Digital Plataform, developed by
+the Financial Services area of Novabase;
+
+Novabase participated in the APDC Congress, whose central theme was
+the transformation of the businesses in order to meet the digital demand.
+Novabase unveiled its innovative methodologies such as Gamification
+and Design Thinking.
+
+These world reference events reflect Novabase’s focus on innovation and
+provide excellent showcases for the dissemination of its offerings.
+
+With regard to new companies, in the Venture Capital area, it was decided
+to establish a new venture capital fund ‘Novabase Capital + Inova¢ao’, with
+a total share capital of 7 M€. The referred fund is held in 53.1% by Novabase
+Capital SCR, S.A. and 46.9% by Fundo de Capital e Quase Capital (FC&QC).
+Through this Fund, Novabase Capital intends to respond to the constraints
+on SME financing in the ICT market and to contribute to the stimulation
+and orientation of business investment and job creation, in line with the
+investment objectives and priorities defined in the Portugal 2020.
+
+Still in this segment, the Venture Capital Fund Novabase Capital Inovacao
+e Internacionaliza¢do sold part of its investment in the company Feedzai,
+to the North American companies Sapphire Ventures and Sapphire Sap,
+obtaining a 3 M€ gain. Feedzai works in the area of data science and is one
+of the references of innovation in Novabase Capital’ portfolio.
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL ? 3
+
+REPORT
+
+
+--- Page 19 ---
+
+The percent breakdown of Turnover and EBITDA, by business area, was as
+follows in 2017:
+
+TURNOVER
+2017
+
+BS ve Total
+EBITDA
+2017
+
+BS ve Total
+Business In 2017, Business Solutions had in average a team of 1899 consultants, and
+Solutions generated 96% of Novabase’s total Turnover and 105% of the total EBITDA.
+
+This business area’s total Turnover was 134.5 M€, a 2% increase compared
+to 2016.
+
+NOVABASE FINANCIAL AND STOC: FORMANCE
+an? 24
+
+REPORT
+
+
+--- Page 20 ---
+
+TURNOVER _
+
+BUSINESS
+SOLUTIONS
+
+2015 2016
+
+Business Solutions EBITDA increased 88% in 2017 in equivalent terms (from
+6.1 M€ to 11.4 M€), with an EBITDA margin of 8.5% (compared to 4.6% in
+2016).
+
+EBITDA
+
+:D .
+
+Me
+
+:
+
+2015 2016
+
+This evolution reflects top-line growth, in line with the expectations for the
+year, and a positive performance of the businesses.
+
+NOVABASE FINANCIAL AND STOCK PERFORMANCE
+cll? ANNUAL ? 5
+REPORT
+
+
+--- Page 21 ---
+
+Infras- As at October 12, 2016, Novabase has entered into a purchase and sale
+agreement with VINCI Energies Portugal, SGPS, S.A., to sell its Infrastructures
+tructures & & Managed Services business (“IMS Business”) by the agreed price of
+Manac yed 38.365 million Euros, operation that was substantially completed by the
+end of that year, therefore a gain amounting to 17.6 M€ was recorded in
+
+Services 2016 accounts.
+In the first half of 2017, the final calculation or working capital and net debt
+as established in the purchase and sale agreement took place, and the final
+price was revised to 41.061 million Euros, resulting in an adjustment to the
+gain on sale of 2.7 M€.
+
+Venture Venture Capital had in average a critical mass of 52 employees in 2017, and
+
+. generated 4% of Novabase’s Turnover and -5% of the total EBITDA.
+
+Capital
+This business area’s total Turnover reached 5.2 M€, a 30% increase
+compared to 2016.
+
+TURNOVER
+
+VENTURE
+
+CAPITAL
+
+Me
+
+2015 2016 2017
+
+Venture Capital’s EBITDA decreased in 2017, in equivalent terms, from -0.2
+M€ to -0.5 M€, with an EBITDA margin of -9.7%. This is a typical evolution
+of the development stage of the investments of the Funds.
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL 26
+REPORT
+
+
+--- Page 22 ---
+
+EBITDA
+
+VENTURE
+CAPITAL
+EBITDA% _-__- 108%
+Stock Novabase share price in 2017 appreciated 22%, comparing to a 15% gain
+ro in the PSI20 Index and a 19% gain in the EuroStoxx Technology Index.
+Performance . ; , ;
+== Excluding the shareholder remuneration, the gain on Novabase share price
+would have been 48%.
+To be noted the re-entry of Novabase to the main index of the Lisbon stock
+exchange, the PSI 20, as at March, 20.
+On May 2017, a dividend of 0.15€/share was distributed. Additionally, on
+November 2017, it was paid to the shareholders an amount of 0.50€ per
+share, corresponding to the distribution of reserves and retained earnings.
+The Board of Directors will propose to the General Meeting of Shareholders
+to be held on May 10, 2018, the distribution of dividends in the amount of
+4.7 M€, corresponding to 0.15€ per share.
+NOVABASE 25/05/17:
+AND THE MARKET remuneration | O15 €/share wry
+ex-shareholder
+remuneration | 0.50 €/share
+46%
+Novabase
+PSsI20
+Eurostoxx
+Technology
+
+Index
+
+0%
+
+5%
+
+NOVABASE FINANCIAL AND
+cll? ANNUAL 27
+
+REPORT
+
+
+--- Page 23 ---
+
+The evolution of Novabase share prices compared to other companies in
+the IT sector in Europe, in 2017, was as follows:
+
+NOVABASE
+E OUTRAS TMT
+
+Novabase
+Tietoenator
+Indra
+
+Cap Gemini
+Alten
+
+Atos Origin
+
+1/1/17:
+ex-shareholder
+remuneration | 0.50 €/share
+
+25/05/17:
+ex-shareholder
+remuneration | 0.15 €/share
+
+46%
+
+NOVABASE
+ANNUAL
+REPORT
+
+4
+
+he average price target disclosed by the analysts who cover Novabase is
+.40 Euros (average upside of 12%).
+
+wW
+
+4
+
+he average Novabase share price weighted by quantity in 2017 was 3.136
+uros per share. 8.2 million shares were traded in all 255 stock exchange
+sessions in 2017, corresponding to a trading value of 25.8 M€.
+
+m
+
+The daily average number of shares traded was 32.3 thousand shares,
+orresponding to a daily average value of approximately 0.1 M€.
+
+Q
+
+The share price on the last tradable day of 2017, 29 December 2017, was
+3.049 Euros, which represents a gain of 22% compared to the 2.490 Euros
+that Novabase shares registered at the end of 2016.
+
+The maximum closing price achieved in 2017 was 3.639 Euros, while the
+minimum closing price recorded was 2.480 Euros. Market capitalization at
+the end of 2017 was 95.7 M€.
+
+n
+
+hare turnover accounted for 26% of Novabase’s capital, with 8.2 million
+hares traded, 2.9 times higher than the values recorded in 2016 (turnover
+9% of capital, with 2.8 million shares traded).
+
+a
+
+fe}
+
+FINANCIAL AND STOCK
+
+
+
+--- Page 24 ---
+
+2013 2014 2015 2016 2017
+
+SUMMARY Minimum price (€) 2.290 2.090 2.070 1.879 2.480
+Maximum price (€) 3.110 4.100 2.619 2.490 3.639
+Volume weighted average price (€) 2.790 3.183 2.350 2145 3.136
+Last tradable day price (€) 2.610 2.214 24 2.490 3.049
+Nr. of shares traded (milions) 83 5.9 57 28 8.2
+Market cap. in the last day (M€) 82.0 69.5 66.4 78.2 95.7
+Risks The Group’s activities expose it to a variety of financial risks, namely,
+
+NOVABASE
+ANNUAL
+REPORT
+
+Foreign exchange risk, Interest rate risk (Cash flows and fair value), Credit
+risk, Liquidity risk and Capital management risk.
+
+The Group’s overall risk management program focuses on the unpredicta-
+bility of financial markets and seeks to minimise potential adverse effects
+on the Group’s financial performance.
+
+More information on each of the financial risks that Novabase is exposed
+to, listed below, including control mechanisms and sensitivity analysis, can
+be found in the note “Financial Risk Management Policy” included in the
+Accounts, which forms an integral part of this Consolidated Report and
+Accounts.
+
+a) Foreign exchange risk
+
+The Group operates internationally and is exposed to foreign exchange risk,
+mainly arising from U.S. Dollar, Kwanza and Metical exposures, since some
+subsidiaries perform transactions in these currencies.
+
+The finance department is responsible for monitoring the evolution of
+the exchange rate of the currencies mentioned above, in order to reduce
+the impact of their fluctuations in consolidated results. The group uses
+derivative financial instruments to hedge certain risk exposures.
+
+b) Interest rate risk (Cash flows and fair value)
+
+Interest rate risk reflects the possibility of changes in future interest charges
+in loans obtained as a result of changes in market interest rate levels.
+
+Novabase Group’s financial liabilities are indexed to short-term reference
+interest rates, revised in periods shorter than one year plus duly negotiated
+risk spreads. Hence, changes in interest rates can impact the Group’s
+earnings.
+
+The Group’s exposure to interest rates is related to financial liabilities
+contracted with a fixed and/or floating rate. In the first case, the Group
+
+FINANCIAL AND STOCK
+
+
+
+--- Page 25 ---
+
+faces a risk of fair value variation in these assets or liabilities, since every
+change in market rates involves an opportunity cost. In the second case,
+such change has a direct impact on interest value, consequently causing
+cash variations.
+
+Exposure to interest rate risk is monitored continuously by the finance
+department. The purpose of managing interest rate risk is to reduce the
+volatility of financial costs in the income statement.
+
+c) Credit Risk
+
+Credit risk is managed, simultaneously, on business unit’s level, for the
+amounts of outstanding trade and other receivables, and on Group basis,
+for financial instruments. Credit risk arises from cash and cash equivalents,
+derivative financial instruments, and deposits with banks and financial
+institutions, as well as credit exposures to wholesale and retail customers,
+including outstanding receivables and committed transactions. For
+banks and financial institutions, only independently well rated parties are
+accepted. Credit risk management of trade and other receivables is based
+in credit limits, taking into account the financial position of the customer
+and past experience.
+
+d) Liquidity risk
+
+Prudent liquidity risk management implies maintaining sufficient cash and
+marketable securities and the availability of funding through an adequate
+amount of committed credit facilities to meet obligations when due and to
+close out market positions.
+
+Management monitors rolling forecasts of the Group’s liquidity reserve
+(which comprises undrawn committed borrowing facilities and cash and
+cash equivalents) on the basis of expected cash flows, taking into account
+the analysis of the remaining contractual maturity of the financial liabilities
+and the expected date of financial assets inflows, and taking into account
+the cash transfer restrictions from Angola. Additionally, the maturity
+concentration of derivate financial instruments, borrowings and liabilities
+of the Group are regularly monitored.
+
+e) Capital management risk
+
+The Group’s objectives when managing capital, which is a broader concept
+than ‘equity’ in the consolidated statement of financial position, are:
+
+* To safeguard the Group’s ability to continue as a going concern in order
+to provide returns for shareholders and benefits for other stakeholders;
+
+NOVABASE FINANCIAL AND STOCK
+cll? ANNUAL 3 O
+REPORT
+
+
+--- Page 26 ---
+
+Outlook
+for 2018
+
+Subsequent
+Events
+
+Dividend to
+
+Shareholders
+
+Novabase
+exit from
+PSI20 Index
+as of 19
+March
+
+NOVABASE
+ANNUAL
+REPORT
+
+colt
+
+* To maintain a solid capital structure to support the development of its
+business;
+
+* To maintain an optimal capital structure to reduce the cost of capital.
+
+The 2017 results are in line with the strategic objectives set for the year.
+
+The international activity accounts for 54% of the total business, and Europe
+consolidates its position as the major market, representing 69% of total. In
+this period, EBITDA margin reached 7.8% and Net Profit was 3.4%.
+
+In 2018, Novabase will continue the transformations to its business, both
+from the standpoint of geographically diversifying risk as well as investing
+in products and services. In the short term, this strategy limits growth and
+profitability, but Novabase believes that it will enhance future access to
+higher-quality, more sustainable business.
+
+The following relevant facts occurred in 2018 by the date of issue of this
+report, details of which have been adequately disclosed as privileged
+information via the Novabase SGPS and CMVM sites, or are public
+knowledge:
+
+Novabase informed the intention of the Board of Directors to propose, at the
+2018 Annual General Meeting of Shareholders, the distribution of 4.7 Million
+Euros to shareholders. This payment, equal to 98.7% of the consolidated
+net profit, represents a dividend of 15 Euro cents per share.
+
+As part of the annual review of the national stock exchange index, Euronext
+- the managing entity of the Lisbon stock exchange - announced in a news
+item dated from March 6, 2018, that Novabase will leave the main index of
+the Lisbon Stock Exchange, PSI20, from March 19, where it was trading since
+March 20, 2017. The PSI20 index is revised quarterly in June, September
+and December, with the full annual review taking place in March ”.
+
+FINANCIAL AND STOCK
+
+
+--- Page 27 ---
+
+
+
+--- Page 28 ---
+
+Board Chairman
+of Directors Luis Paulo Cardoso Salvado
+
+Members
+
+Francisco Paulo Figueiredo Morais Antunes
+José Afonso Oom Ferreira de Sousa
+
+Pedro Miguel Quinteiro Marques de Carvalho
+
+Officers of the Chairman
+General Meeting Antonio Manuel da Rocha e Menezes Cordeiro
+
+of Shareholders Secretary
+
+Madalena Paz Ferreira Perestrelo de Oliveira
+
+Managing Luis Paulo Cardoso Salvado
+Directors Francisco Paulo Figueiredo Morais Antunes
+Audit Board Chairman
+
+Paulo José Jubilado Soares de Pinho
+
+Members
+Fatima do Rosario Piteira Patinha Farinha
+Nuno Miguel Dias Pires
+
+Surrogate
+Manuel Tavares Festas
+
+Statutory Statutory Auditor
+Auditor KPMG & Associados - SROC, S.A. represented by Paulo Alexandre Martins
+
+Quintas Paixéo
+
+Surrogate
+Maria Cristina Santos Ferreira
+
+Remuneration Chairman
+Committee Francisco Luis Murteira Nabo
+Members
+
+Pedro Miguel Duarte Rebelo de Sousa
+Joao Francisco Ferreira de Almada e Quadros Saldanha
+
+Company’s Diogo Leonidas Ferreira da Rocha
+Secretary
+Surrogate
+
+Marta Isabel dos Reis G. Rodrigues do Nascimento
+
+NOVABASE CORPORATE BOARDS
+cll? ANNUAL 55
+
+REPORT
+
+
+--- Page 29 ---
+
+
+
+--- Page 30 ---
+
+In 2017, Novabase SGPS, SA had a consolidated net profit of €4,773,954.51
+(four million, seven hundred and seventy three thousand, nine hundred
+and fifty four euros and fifty one cents) and a net profit of €16,995,280.48
+(sixteen million, nine hundred and ninety five thousand, two hundred and
+eighty euros and forty eight cents) in the individual accounts.
+
+In compliance with the provisions of law and the articles of association, 5%
+of the net profit for the year should be added to the statutory reserves until
+this balance reaches 20% of the share capital.
+
+The individual statement of financial position of the Company, reported
+as at december 31, 2017, presents statutory reserves in the amount of
+€3,140,139.40 (three million, one hundred and forty thousand, one hundred
+and thirty nine euros and forty cents). This amount is equal to the minimum
+legally required, not becoming, on the other hand, as a result of the intended
+allocation of profits, the total equity inferior to the sum of the capital and
+reserves which may not be distributed to shareholders by the law or the
+contract.
+
+On 22 february 2018, the company’s Board of Directors informed on its
+intention to propose, at the 2018 annual General Meeting of shareholders,
+the distribution of €4.710 Million, corresponding to annual profits to be
+distributed by means of a resolution to allocate profits. This distribution,
+equal to 98.7% Of the consolidated net profit, will represent a dividend of
+€0.15 per share.
+
+Pursuant to legal and statutory provisions, the Board of Directors proposes
+that the financial year individual net profit be allocated as follows:
+
+1. From the net profit for the year above mentioned, an amount totaling
+€4,710,209.10 (four million, seven hundred and ten thousand, two hundred
+and nine euros and ten cents) is paid to shareholders, corresponding to
+€0.15 (fifteen euro cents) per share, as related to the total number of
+shares issued;
+
+NOVABASE PROPOSAL FOR THE ALLOCATION OF PROFITS
+cll? ANNUAL 3 5
+REPORT
+
+
+--- Page 31 ---
+
+colt
+
+NOVABASE
+ANNUAL
+REPORT
+
+2. That, as it is not possible to accurately determine the number of own
+
+shares held in treasury on the date of the abovementioned payment
+without limiting the Company’s intervention capacity, notably in the
+increase of liquidity in its securities, the overall sum of €4,710,209.10
+(four million, seven hundred and ten thousand, two hundred and nine
+euros and ten cents) as provided for in the foregoing paragraph, based
+on an unit amount per issued share (in this case, €0.15), Be distributed
+as follows:
+
+a) that the unit amount of €0.15 be paid to each issued share;
+b) that the unit amount corresponding to the own shares held in treasury
+
+on the date of payment as referred to above not be paid, but transferred
+to retained earnings.
+
+. The remainder of net profit for the financial year in the amount of
+
+€12,285,071.38 (twelve million, two hundred and eighty five thousand,
+seventy one euros and thirty eight cents) is transferred to retained
+earnings.
+
+Lisbon, 12 April 2018
+
+Board of Directors
+
+PROPOSAL FOR THE ALLOCATION OF PROFITS 3 6
+
+
+--- Page 32 ---
+
+
+
+--- Page 33 ---
+
+List of shareholders with qualifying
+stakes as at 31 December, 2017
+
+(Under the terms of paragraph 4 of article 448° of the portuguese
+
+commercial companies code and article 16° of the portuguese securities
+code ‘psc’)
+NO. OF SHARES % OF SHARE CAPITAL AND VOTING
+HOLDING HNB - SGPS, S.A." 10,261,395 32.68%
+UNDER THE Pedro Miguel Quinteiro Marques de Carvalho 2,289,068 7.29%
+SHAREHOLDERS Jodo Nuno da Silva Bento! 1 0.00%
+AGREEMENT Alvaro José da Silva Ferreira’ 1 0.00%
+CONCERNING Luis Paulo Cardoso Salvado! 1 0.00%
+NOVABASE José Afonso Oom Ferreira de Sousa’ 0.00%
+
+TOTAI 12,550,467
+
+1 José Afonso Oom Ferreira de Sousa, Luis Paulo Cardoso Salvado, Alvaro José da Silva Ferreira and Jodo Nuno da Silva
+Bento are the only shareholders of HNB - SGPS, S.A., and have entered into a shareholders agreement concerning the
+whole of HNB ~ SGPS, S.A.’s share capital.
+
+2 The total holding is attributed to José Afonso Oom Ferreira de Sousa, Luis Paulo Cardoso Salvado, Alvaro José da
+Silva Ferreira, Joo Nuno da Silva Bento and Pedro Miguel Quinteiro Marques de Carvalho, under the terms of the
+Shareholders Agreement concerning Novabase. This agreement is described in item 6 of the Corporate Governance
+Report attached to this Management Report.
+
+% OF SHARE CAPITAL AND VOTING
+NO. OF SHARES. RIGHTS
+
+Partbleu, Sociedade Gestora de Participacées Sociais, 3,180,444 10.13%
+
+1 When Novabase was notified of this holding, it was informed that Partbleu, Sociedade Gestora de Participacées Sociais,
+S.A. was indirectly held in 72% by Mr. Miguel Pais do Amaral, and therefore the corresponding voting rights were
+attributed to him,
+
+% OF SHARE CAPITAL AND VOTING
+
+NO. OF SHARES. RIGHTS
+
+IBIM2 Limited 3,144,217 10.01%
+
+% OF SHARE CAPITAL AND VOTING
+
+NO. OF SHARES. RIGHTS
+
+SANTANDER Fundo de Investimento Mobilidrio
+
+Aberto Poupanca Acées Santander 0.1%
+ASSET PPA
+MANAGEMENT Fundo de Investimento Mobiliario 1,476,905 4.70%
+
+Aberto Santander Acées Portugal
+Sociedade Gestora de Fundos
+
+de Investimento Mobilidrio, SA TOTAL’ 1,511,442 4.81%
+
+1When Novabase was notified of this holding, it was informed that the funds identified above were managed by
+Santander Asset Management ~ Sociedade Gestora de Fundos de Investimento Mobilidrio, S.A.
+
+% OF SHARE CAPITAL AND VOTING
+RIGHTS.
+
+NO. OF SHARES.
+
+Fernando Fonseca Santos 1,575,020
+
+% OF SHARE CAPITAL AND VOTING
+
+NO. OF SHARES. RIGHTS
+
+Maria Manuela de Oliveira Marques 1,043,924 3.32%
+
+NOVABASE ANNEXES TO THE CONSOLIDATED BOARD OF DIRECTORS’ REPORT
+cll? ANNUAL 3 8
+REPORT
+
+
+--- Page 34 ---
+
+HOLDERS'
+
+F SHARE CAPITAL AND VOTING
+
+NO. OF SHARES. RIGHTS
+
+Lazard Freres Gestion SAS 669,122 213%
+Tm
+
+The holdings identified above correspond to the last positions notified to
+the company with reference to 31 december 2017 or a previous date.
+
+Information concerning stakes held in the company by members
+of the board of directors and supervisory bodies as at 31 December, 2017
+
+(Under the terms of paragraph 5 of article 447 of the portuguese commercial
+companies code)
+NO. SHARES" VOTING RicHTS
+Luis Paulo Cardoso Salvado? 1 0.00%
+José Afonso Oom Ferreira de Sousa? 1 0.00%
+Pedro Miguel Quinteiro Marques de Carvalho 2,289,068 7.29%
+Francisco Paulo de Figueiredo Moreira Antunes 30,335 0.10%
+Paulo Soares de Pinho (member of the Supervisory Board) °o 0.00%
+Cnc tthe Supavecny Souk ° 0.00%
+Nuno Miguel Dias Pires (member of the Supervisory Board) °o 0.00%
+KPMG - SROC, represented by Paulo Alexandre Martins Quintas Paixao ° 0.00%
+(effective Statutory Auditor)
+Maria Cristina Santos Ferreira (surrogate Statutory Auditor) °o 0.00%
+
+1 The shareholding of each of these members of the corporate and supervisory boards corresponds to the last position
+notified to the company in reference to 31 december 2017 or a previous date.
+
+2 José Afonso Oom Ferreira de sousa and Luis Paulo Cardoso Salvado are shareholders of HNB - SGPS, S.A., Where they
+hold management positions. HNB - SGPS, S.A. Holds 10,261,395 shares representing 32.68% Of novabase's share capital
+and respective voting rights.
+
+Information on management transactions, in accordance with article 248-b
+of the Portuguese Securities Code, is described in the next section.
+
+Inaddition to those mentioned above, no encumbrances or other acquisitions
+or changes in the ownership of shares representing the Company’s share
+capital (or of a company in a control or group relationship with the
+Company) were undertaken by the Members of the Management and
+Supervisory Bodies, nor any promissory, option or repurchase agreements,
+nor other agreements with similar effects on such shares.
+
+The type of transactions described above were also not carried out by any
+person falling under the scope of paragraphs 2, a) to d) of article 447 of the
+Portuguese Companies Code.
+
+Finally, it should be clarified that neither the Company nor any company in
+acontrol or group relationship with it is an issuer of bonds.
+
+colt
+
+NOVABASE
+ANNUAL
+REPORT
+
+ANNEXES TO THE CONSOLIDATED BOARD OF DIRECTORS’ REPORT 3 9
+
+
+--- Page 35 ---
+
+List of management transactions
+
+(Under the terms of paragraphs 6 and 7 of article 14 of the Portuguese
+Securities Market Commission - CMVM - Regulation n°’. 5/2010)
+
+DIRECTOR TRANSACTION DATE CATION NO. SHARES PRICE PER SHARE (€)
+LIST OF Francisco Acquisition 19/04/2017 | Euronext Lisbon 1,500 3.100
+MANAGEMENT 7
+rancisco
+Acquisition 19/04/2017 | Euronext Lisbon 1,300 3,100
+TRANSACTIONS Antunes
+Francisco Acquisition 20/04/2017 | Euronext Lisbon 10,000 3.100
+Antunes
+Francisco
+Francis Acquisition 21/04/2017 | Euronext Lisbon 2,200 3,100
+Francisco
+Francis Disposal 19/04/2017 | Euronext Lisbon 1100 3,100
+Francisco
+cranes Disposal 20/04/2017. | Euronext Lisbon 13,900 3,100
+Luis Paulo
+sue Disposal 21/04/2017 | Over-the-Counter 14,999 3,100
+José Afonso Disposal 24/04/2017 | Over-the-Counter 10,056 3,100
+de Sousa
+She Acquisition 21/04/2017 | Over-the-Counter 14,999 3,100
+oN Acquisition 24/04/2017 | Over-the-Counter 10,056 3,100
+Luts Paulo Acquisition 02/05/2017 | Over-the-Counter 50,282 3,100
+Salvado
+oN Acquisition 02/05/2017 | Over-the-Counter 50,282 3,100
+oN Acquisition 04/05/2017 | Over-the-Counter 65,281 3,100
+She Acquisition 12/10/2017 | Over-the-Counter 338,609 3.200
+oN Acquisition 12/10/2017 | Over-the-Counter 147,027 3.200
+She Acquisition 16/10/2017 | Over-the-Counter 1,079,122 3.300
+She Acquisition 16/10/2017 | Over-the-Counter 235,000 3.300
+
+|
+1 Transactions on novabase’ shares by the persons referred to in article 447 of the Commercial Companies Code ("CSC").
+
+(a) The company HNB - SGPS, SA, have José Afonso Oom Ferreira de Sousa and Luis Paulo Cardoso Salvado (along
+with Alvaro José da Silva Ferreira and Jodo Nuno da Silva Bento) as shareholders, therefore, it is considered
+as a closely associated person to a director of NOVABASE, under article 248-b, no. 3 And 4, of the Portuguese
+Securities Code.
+
+rain NOVABASE ANNEXES TO THE CONSOLIDATED BOARD OF DIRECTORS’ REPORT O
+ANNUAL Zz
+
+REPORT
+
+
+--- Page 36 ---
+
+Own shares transactions
+
+(Under the terms of section d) of paragraph 5 of article 662 of the Portuguese
+Commercial Companies Code)
+TRANSACTION DATE LOCATION NO. SHARES PRICE PER SHARE (€)
+OWN SHARES Acquisition 10/01/2017 Euronext Lisbon 1,379 2.744
+TRANSACTIONS Acquisition 10/01/2017 Euronext Lisbon 108,621 2.745
+Acquisition 11/01/2017 Euronext Lisbon 207,000 2.660
+Acquisition 11/01/2017 Euronext Lisbon 1,000 2.660
+Acquisition 21/04/2017 Euronext Lisbon 49,996 3.100
+
+At 31 december 2016, Novabase SGPS held 8,615 own shares, representing
+0.03% of its share capital.
+
+During 2017, the company acquired on the market 367,996 own shares
+(1.17% of the subscribed capital) at the average net price of 2.745 Euros.
+
+Own shares acquisitions were performed because they were considered to
+be in the company’s best interest.
+
+At 31 december 2017, Novabase SGPS held 367,611 own shares, representing
+1.20% of its share capital.
+
+During the 2017 financial year, Novabase SGPS shares always had a nominal
+value of €0.5.
+
+NOVABASE ANNEXES TO THE CONSOLIDATED BOARD OF DIRECTOR
+cll? ANNUAL A]
+
+REPORT
+
+
+--- Page 37 ---
+
+
+
+--- Page 38 ---
+
+Scope
+
+Introduction
+
+Novabase
+Group
+
+Reference
+Documents
+and Due
+
+Diligence
+Processes
+
+NOVABASE
+ANNUAL
+REPORT
+
+For the purposes of article 508-G of the Commercial Companies Code,
+in the wording introduced by Decree-Law No. 89/2017, of 28 July, which
+transposed Directive 2014/95/EU of the European Parliament and Council,
+of 22 October 2014, to the Portuguese Law, Novabase explicitly states
+in this [annex] the “sufficient information for the understanding of the
+progress, performance, position, and impact of the group’s activities, at
+least, with regard to environmental, social and work-related issues, to
+equality between men and women, non-discrimination, respect for human
+rights, fight against corruption and bribery attempts” concerning Novabase
+Group in the financial year ended 31 December 2017.
+
+Information on the business activity and organization of Novabase
+Group can be found in the Annual Report and Accounts 2017 (Notes to
+the Consolidated Financial Statements for the financial year ended 31
+December 2017, Section 1. General Information), as well as in the Report
+on the Governance Practices for the financial year 2017 (Part |, Section B.,
+Point 21).
+
+Considering the dimension of Novabase Group, the nature of the activities
+pursued, the business model implemented and the industries in which
+the Group operates, no formal policies were approved regarding all the
+aspects listed in number 2, of article 508-G of the Commercial Companies
+Code. However, Novabase Group is governed in the different aspects of
+its activity by the applicable law and by the applicable regulations and
+recommendations of the Portuguese Securities Market Commission and
+other national and international entities. Novabase Group also adopted
+internally certain reference documents, systems and due diligence
+processes with regard to the practices to be adopted in certain areas,
+taking into account the Group and its needs, as well as its employees,
+professionals and other stakeholders, with the goal, in particular, to ensure
+sustainable growth. Novabase Group companies are also subject to internal
+and external audits of a different nature.
+
+In this context, we highlight below the main aspects, practices and processes
+in Novabase Group which the Group considers as having an impact on non-
+financial issues relevant to the Group, namely environmental, social, labour-
+related, gender equality and non-discrimination, human rights and fight
+against corruption issues:
+
+* Novabase’s activity and the conduct of its employees and professionals
+is governed by the law applicable in the relevant jurisdictions and by the
+Novabase Code of Conduct (published on the corporate website), which is
+an internally approved document that has been in force since 2011 with the
+objective of guiding the conduct of the Novabase professionals according
+to the values supported by the Group, not only in its relationships with
+customers, but also with each other.
+
+NON-FINANCIAL STATEMENT 4 3
+
+
+--- Page 39 ---
+
+Results
+and Key
+
+Indicators
+
+NOVABASE
+ANNUAL
+REPORT
+
+* The company’s activity is managed according to the Integrated
+Management System.
+
+Novabase companies are audited by their financial auditors and their
+Quality (ISO 9001), Environmental Management (ISO 14001) and Health
+and Safety at Work (OHSAS 18001) certifications are renewed on an
+annual basis after internal and external audits, the latter being conducted
+by certifying bodies.
+
+The company regularly monitors its customer’ satisfaction, as well as
+its employees and professionals satisfaction with regard to the internal
+services and other topics of interest to the management.
+
+In compliance with the recommendations of the Portuguese Securities
+Market Commission on the Governance of Listed Companies and with
+the objective of fostering a responsible and compliant culture, Novabase
+has adopted a system to report irregular practices (known as “SPI”) that
+may have occurred within the Group. The reporting of irregular practices
+through the SPI is addressed to one of the members of the Auditing
+Committee specially appointed to this position.
+
+Although in 2017 Novabase does not have a formally approved diversity
+policy (the policy on the diversity in the administrative and supervisory
+bodies of S.G.P.S. S.A. was approved during the financial year 2018),
+the company is committed to the promotion of this aspect and the
+compliance with the applicable law with this regard. This effort is visible
+not only in the intentions of some shareholders, disclosed to the market
+during the financial year 2017 with regard to the proposal to be submitted
+to the General Meeting for the appointment of the governing bodies of
+Novabase S.G.P.S. S.A. for the 2018-2020 mandate - according to which
+the Board of Directors and the Executive Committee of this company
+shall have, at least, 25% of members of each gender - as well as in the
+improvement of the results of the key indicator related to this aspect,
+indicated in the following section.
+
+* The company also has an “Internal Regulation on Business with Holders
+of Qualified Participation in Novabase, SGPS, S.A.” in force.
+
+In the financial year 2017 no occurrence related to human rights, corruption
+and bribery attempts was reported to Novabase SGPS, S.A. Board through
+the channels available for this purpose and, therefore, there are no indicators
+to report on this regard.
+
+As for gender equality, the key indicator taken into account is that of the
+proportion of men and women in the total number of employees, which
+should tend to be balanced. This indicator has evolved positively (from
+72% of men and 28% of women in 2016 to 70% of men and 30% of women
+
+NON-FINANCIAL STATEMENT 4 4
+
+
+--- Page 40 ---
+
+Risk
+management
+and Internal
+Control
+
+NOVABASE
+ANNUAL
+REPORT
+
+in 2017), this gender unbalance following the trend of the information
+technology industry, in Portugal and abroad, which also reflects the
+choices of higher education courses by gender. In effect, in courses such as
+Computer Engineering, Electronic Engineering or Network Engineering, the
+number of graduates (men) is much higher than the number of graduates
+(women).
+
+In turn, the key indicator related to environmental issues taken into
+account is the number of non-conformities identified in the annual
+audit of the Environmental Management System as a consequence of
+1SO01400 1 certification. In 2017, as in 2016, the companies in the Novabase
+group had no-conformities under 15014001 standard.
+
+Other (operational, non-key) indicators monitored with regard to these
+topics include:
+
+* Business: Investment in Research, Development and Innovation; Customer
+Satisfaction.
+
+* Employee-related: Number of training actions, participants and hours;
+number of accidents at work; number of recent graduates received
+through the Novabase Academy integration program.
+
+* Environment-related: consumption of electricity, thermal energy, water
+and diesel & gasoline; plastics recycling, cardboard & paper, glass;
+greenhouse gas emissions.
+
+Novabase Group is subject to normal market risks and to the specific risks of
+the activities it pursues. Novabase does not consider that the risks inherent
+to the issues addressed in this document are emphasized due to the type
+of activity pursued by the Group or the industries in which it operates.
+
+Novabase also has internal control procedures and systems aimed at,
+namely, prevent and manage risks in the context of its organization and
+activities. Additional information with regard to Novabase’s internal control
+and risk management can be found in Part |, Section III. “Internal Control
+and Risk Management” of the Report on Corporate Governance Practices
+for the financial year 2017.
+
+NON-FINANCIAL STATEMENT 4 5

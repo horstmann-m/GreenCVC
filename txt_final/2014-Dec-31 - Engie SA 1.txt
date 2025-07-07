@@ -1,0 +1,1683 @@
+
+
+--- Page 1 ---
+
+6
+
+176
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+6.1.1 Management report
+
+Data included in the income statement, statement of financial
+position and statement of cash flows for the year ended
+December 31, 2013 are based on unaudited pro forma figures",
+calculated as if SUEZ Environnement had been accounted for using
+the equity method as of January 1, 2013. The basis used to prepare
+this pro forma data is disclosed in Section 6 of this report. In
+addition, the 2013 data have been restated due to the application of
+the new consolidation standards and incorporate the new definition
+of EBITDA (see Note 2 to the consolidated financial statements).
+
+2014 was marked by a particularly mild climate in Europe as well as.
+the shutdown of the Doel 3 and Tihange 2 nuclear power plants on
+March 26, 2014, followed by the Doel 4 plant between August 5
+and December 19.
+
+Revenues fell by 6.6% on a reported basis to €74.7 billion (down by
+7.2% on an organic basis) compared with 2013. This decrease is
+due in particular to the impact of climatic conditions on sales of
+natural gas in France (2014 was particularly mild compared with
+2013) and lower electricity market prices in Europe. Adjusted for
+climate impacts in France and the gas price “catch-up” recorded in
+2013, which had a €2.3 billion impact, revenues were down by
+4.4% on an organic basis.
+
+EBITDA, which amounted to €12.1 billion for the year, was down
+6.7% on a reported basis (organic decrease of 4.2%). Adjusted for
+climatic conditions in France and the gas price “catch-up” recorded
+in 2013 with a total €815 million year-on-year impact, EBITDA was
+up 2.4% on an organic basis. This indicator was boosted by the
+positive impact of the commissioning of new assets, a strong
+operating performance, the positive results of the Group’s Perform
+2015 plan and the positive variation in net additions to provisions
+compared with 2013, which were partially offset by outages at
+certain nuclear power plants, the fall in electricity market prices in
+Europe and adverse hydrological conditions in Latin America.
+
+Current operating income after share in net income of entities
+accounted for using the equity method declined by 6.6% on a
+
+reported basis and 3.4% on an organic basis to €7.2 billion. The
+decrease in EBITDA was mitigated by lower depreciation and
+amortization charges mainly owing to the significant impairment
+losses recognized at end-2013. Adjusted for climatic conditions in
+France and the gas price “catch-up”, this indicator was up 8.2% on
+an organic basis.
+
+Net income Group share totaled €2.4 billion in 2014, up
+€12.1 billion on a reported basis compared with 2013. 2013 was.
+heavily impacted by impairment losses, which reduced net income
+Group share by €12.7 billion.
+
+Net recurring income Group share amounted to €3.1 billion in
+2014, down €0.3 billion year on year. The decline in current
+operating income after share in net income of entities accounted for
+using the equity method was offset to a large extent by lower
+recurring financial expenses thanks to more active debt
+management and a lower recurring tax expense.
+
+Cash flow from operations amounted to €7.9 billion, down
+€2.4 billion compared with 2013. This decrease is mainly due to the
+fall in cash generated from operations before income tax and
+working capital requirements, and the change in working capital
+requirements, which was related in particular to the impact of
+changes in oil prices on margin calls. This was partially offset by
+lower interest payments thanks to the decrease in average net debt.
+
+Net debt stood at €27.5 billion at end-December 2014, down
+€1.3 billion year on year, reflecting the following items: (i) cash
+generated from operations before income tax and working capital
+requirements for the year (€11.8 billion) and the issue of hybrid
+notes also called deeply-subordinated perpetual notes by GDF
+SUEZ SA at the beginning of June (€2.0 billion); (ii) this was offset by
+the change in working capital requirements (€1.2 billion), net
+investments (including changes in scope of consolidation) carried
+out by the Group (€3.9 billion) as well as dividends paid to
+GDF SUEZ SA shareholders (€2.8 billion) and to non-controlling
+interests (€0.8 billion).
+
+(1) The IFRS consolidated financial statements presented in Section Il were approved and authorized for issue by the Board of Directors on February 25,
+
+2016. They have been audited by the Group's Statutory Auditors.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 2 ---
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+6.1.11 Revenues and earnings trends
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 74,686 79,985 -6.6% -7.2%
+EBITDA 12,138 13,017 6.7% 4.2%
+Net depreciation and amortization charges/Other (4,977) (5,351)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME OF 7,161 7,665 6.6% -3.4%
+
+ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Consolidated revenues for the year ended December 31, 2014
+amounted to €74.7 billion, down 6.6% compared with 2013. On an
+organic basis (excluding the impact of changes in the scope of
+consolidation and exchange rates), revenues fell by 7.2%. Adjusted
+for the impacts of climatic conditions in France and the gas price
+“catch-up” adjustments recorded in 2013 (€2.3 billion impact),
+revenues were down 4.4% on an organic basis.
+
+Changes in the scope of consolidation had a net positive
+€689 million impact, mainly corresponding to Energy Services’
+acquisition of Balfour Beatty Workplace in the United Kingdom
+(positive €847 million impact) and Ecova in the United States
+(positive €68 million impact), the full consolidation of GTT by Global
+Gas & LNG (positive €186 million impact) and Energy International's
+acquisition of Meenakshi in India (positive €83 million impact). These
+positive impacts were partly offset by the decline in revenues
+resulting from disposals carried out in Europe (negative €280 million
+
+EBITDA TRENDS
+
+In millions of euros
+
+impact) and the United States (negative €164 million impact), mainly
+by Energy International and Energy Europe.
+
+Exchange rates had a negative €302 million impact on Group
+revenues, mainly reflecting the appreciation of the euro against the
+Brazilian real, the Norwegian krone, the Australian dollar and the
+Thai baht. This was partly offset by the euro’s depreciation against
+the pound sterling. The euro/dollar exchange rate, however,
+remained stable on average compared with 2013.
+
+Organic revenue performance varied across the Group’s business
+lines: Global Gas & LNG and Infrastructures reported growth for the
+year, while revenues remained stable at Energy International and
+Energy Services and were down at Energy Europe.
+
+EBITDA declined by 6.7% to €12.1 billion over the year. Excluding
+the impact of changes in the scope of consolidation and exchange
+rates, the decrease in EBITDA came out at 4.2%.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+177
+
+
+--- Page 3 ---
+
+6
+
+178
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+Departures from the scope of consolidation had a negative €325
+million impact on EBITDA, largely due to the sale of power
+generation assets in France, Italy, Portugal and the United States.
+Conversely, additions to the scope of consolidation had a positive
+€158 million impact, largely thanks to the acquisitions made by
+Energy Services (mainly Balfour Beatty Workplace in the United
+Kingdom and Ecova in the United States) and Energy International's
+acquisition of Meenakshi in India, as well as the full consolidation of
+GTT further to its initial public offering at the end of February 2014.
+
+Changes in exchange rates had a negative €190 million impact,
+mainly due to the appreciation of the euro against the Brazilian real
+and the Norwegian krone.
+
+On an organic basis, EBITDA was down 4.2%, or €521 million, but
+up 2.4%, or €294 million, when adjusted for climate impacts in
+France and the gas price “catch-up” recorded in 2013. Excluding
+the positive impact of the Group’s performance plan across all
+business lines, this reflects the following trends:
+
+m= EBITDA for Energy International amounted to €3,716 million, up
+by 1.4% on an organic basis. This was driven by improved
+performances in the United States, Thailand, Chile, the United
+Kingdom, Peru and Pakistan, despite a decline in results in
+Australia and weaker results in Brazil due to adverse hydrological
+conditions;
+
+m= EBITDA for Energy Europe totaled €2,020 million, down 29.2%
+on an organic basis, adversely impacted by unfavorable climatic
+conditions, partial outages at three nuclear power plants in
+Belgium, the decrease in electricity market prices and the gas
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+price “catch-up” adjustments in France recorded in 2013.
+Adjusted for climatic conditions in France and the gas price
+“catch-up”, this decrease was contained at 11.5% on an organic
+basis;
+
+= EBITDA for Global Gas & LNG of €2,225 million was up 10.9% on
+an organic basis, thanks to a strong performance in the LNG
+sector in Europe and Asia and the increase in production
+recorded by the Group’s Exploration & Production business as a
+result of the commissioning of new assets that took place over
+the year;
+
+= EBITDA for Infrastructures declined 1.7% on an organic basis to
+€3,274 million year on year, due to the milder climate compared
+with the previous year, which weakened the positive impact of
+higher gas prices and of increases in transport and storage
+capacities marketed in Europe. Adjusted for climatic conditions in
+France, EBITDA for Infrastructures was up 6.8% on an organic
+basis;
+
+= EBITDA for Energy Services advanced 3.2% on an organic basis
+to €1,127 million.
+
+Current operating income after share in net income of entities
+
+accounted for using the equity method amounted to €7.2 billion,
+
+down 3.4% on an organic basis compared with 2013, but up 8.2%
+
+on an organic basis when adjusted for climatic conditions and the
+
+gas price “catch-up” in France. This indicator shows trends by
+
+business line comparable to those of EBITDA and is positively
+
+impacted by lower depreciation and amortization charges following
+
+the significant impairment losses recognized at end-2013.
+
+www.gdfsuez.com
+
+
+--- Page 4 ---
+
+61.1.2 Business trends
+
+6.1.1.2.1 Energy International
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+Dec. 31, 2014
+South Asia,
+North Middle East &
+In millions of euros Total” Latin America Asia-Pacific America —_-UK - Turkey Africa
+Revenues 13,977 3,818 2,740 3,782 2,957 679
+EBITDA 3,716 1,343 857 956 380 298
+Net depreciation and amortization charges/Other (971) (361) (218) (268) (109) (11)
+CURRENT OPERATING INCOME 2,745 982 638 688 271 286
+AFTER SHARE IN NET INCOME OF ENTITIES
+ACCOUNTED FOR USING THE EQUITY METHOD
+(1) The Energy International business line also has a “headquarters” function, the costs for which are not broken down in the table above.
+Dec. 31, 2013
+. South Asia, %change % change
+Latin Asia- North UK- MiddleEast& (reported (organic
+In millions of euros Total” America America Turkey Africa basis)
+Revenues 14,393 3,627 3,818 3,527 531 -2.9%
+EBITDA 4,029 1,473 941 488 320 -7.8%
+Net depreciation and amortization (1,093) (368) (827) (153) (6)
+charges/Other
+CURRENT OPERATING INCOME 2,937 1,105 695 615 335 314 -6.5% +4.1%
+
+AFTER SHARE IN NET INCOME OF
+ENTITIES ACCOUNTED FOR USING
+THE EQUITY METHOD
+
+(1) The Energy International business line also has a “headquarters” function, the costs for which are not broken down in the table above.
+
+Energy International’s revenues, at €13,977 million, fell 2.9% on a
+reported basis (up 0.7% on an organic basis). These movements
+reflect, on the one hand, the negative €313 million impact of
+changes in the scope of consolidation and the negative €195 million
+impact of changes in exchange rates (due mostly to the Brazilian
+real, but also the Australian dollar and Thai baht, partly offset by a
+stronger pound sterling), and on the other hand, a limited organic
+increase. The organic increase results chiefly from the impact of
+higher prices in North and Latin America and the commissioning of
+new plants in Latin America, South Asia, the Middle East and Africa,
+offset by lower sales volumes in the UK retail business.
+
+EBITDA amounted to €3,716 million, down 7.8% based on reported
+figures (up 1.4% on an organic basis), after taking into account the
+negative €249 million impact of changes in the scope of
+consolidation and the negative €116 million impact of exchange rate
+fluctuations. The organic increase mainly reflects improved
+performances in North America, the United Kingdom, Peru, Chile,
+Thailand and Pakistan, partly offset by exceptionally unfavorable
+hydrological conditions in Brazil.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+Current operating income after share in net income of entities
+accounted for using the equity method, at €2,745 million,
+decreased by 6.5% on a reported basis and improved by 4.1% on
+an organic basis, in line with EBITDA trends.
+
+Latin America
+
+Revenues for the Latin America region rose by 5.3% based on
+reported figures to €3,818 million, and moved up 11.1% on an
+organic basis. In Brazil, sales growth resulted from an increase in
+average bilateral sales contract prices, primarily due to inflation
+indexation, an increase in transactions in the short-term market and
+the progressive commissioning of the Trairi wind farm complex
+(115 MW). Peru trended upwards thanks to the commissioning of
+the llo Cold Reserve thermal plant (660 MW) in June 2013. In Chile,
+slightly higher revenues were mostly driven by improved energy
+prices linked to fuel price indexation.
+
+Electricity sales increased by 1.4 TWh to 56.2 TWh, while gas sales
+were down 1.8 TWh, particularly in Chile, coming in at 9.5 TWh.
+
+179
+
+
+--- Page 5 ---
+
+6
+
+180
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+EBITDA totaled €1,343 million, down 4.2% on an organic basis.
+The decline in EBITDA mainly results from:
+
+= a weaker performance in Brazil, mainly due to the unfavorable
+hydrological conditions which affected the entire hydro generation
+system (shortfall) and led to a significant increase in spot prices.
+This decline was partly offset by an increase in activity at thermal
+power plants, the completion of the commissioning of the Trairi
+wind farm complex and the increase in average bilateral sales
+contract prices, mainly due to inflation;
+
+™ a robust performance in Chile, driven by wider margins thanks to
+higher electricity prices and a strong operating performance from
+E-CL; and for GNLM Majillones, the commissioning of the
+onshore LNG storage tank in February 2014;
+
+= positive trends in Peru, mainly reflecting the commissioning of the
+llo Cold Reserve thermal plant and higher energy demand,
+particularly from regulated customers.
+
+Current operating income after share in net income of entities
+
+accounted for using the equity method amounted to €982 million,
+
+down 5.9% on an organic basis in line with EBITDA trends.
+
+Asia-Pacific
+
+Revenues for the region totaled €2,740 million, down 5.2% based
+on reported figures and down 0.6% on an organic basis, chiefly
+reflecting a decline in revenues for coal facilities in Australia on the
+back of lower market prices, weaker demand and less availability
+(following maintenance outages). These factors were partly offset by
+improved activity in Thailand, spurred by an increase in demand
+from industrial customers and higher prices, along with growth in
+the Australian retail business.
+
+Electricity sales remained stable at 42.8 TWh, with lower volumes in
+Australia fully offsetting the 1.1 TWh increase in Thailand. Natural
+gas sales rose by 0.6 TWh to 3.7 TWh.
+
+EBITDA came in at €857 million, down 7.7% on a reported basis
+and down 2.7% based on organic figures. The strong performance
+from the Thailand facilities, driven mainly by the good availability of
+the Gheco-1 plant and improved margins on industrial customers
+was more than offset by the lower performance from Australian coal
+facilities, which suffered depressed market conditions and lower
+availability, and a weaker contribution from Singapore reflecting
+pressure on market prices and volumes.
+
+Current operating income after share in net income of entities
+accounted for using the equity method came out at €638 million,
+decreasing by 3.3% on an organic basis in line with EBITDA trends.
+
+North America
+
+Revenues for the North America region totaled €3,782 million,
+representing a decrease on 2013 of 0.9% based on reported figures
+and an increase of 4.0% on an organic basis. This performance was
+driven primarily by the impact of the strong operating performance
+of US power generation activities, aided further by extreme weather
+events in the north-east of the country in the first quarter of 2014.
+
+Electricity sales decreased 1.1 TWh on a reported basis to
+64.9 TWh, reflecting lower sales volumes in the US retail business.
+Prior-year volumes included 3.4 TWh from assets subsequently
+sold.
+
+Natural gas sales", excluding intra-group transactions, fell by
+9.6TWh to 31.6TWh as a consequence of increased LNG
+diversions performed by the Global Gas & LNG business line.
+
+EBITDA came in at €956 million, up 10.2% on an organic basis,
+mainly due to the strong year-round performance from the US
+power business, which benefited from the extreme weather in the
+north-east of the country in the first quarter. This was partly offset
+by weaker overall performances in the LNG business due to a
+decline in average cargo diversion margins.
+
+Current operating income after share in net income of entities
+accounted for using the equity method totaled €688 million,
+representing an organic increase of 23.3% due to a combination of
+EBITDA growth and lower depreciation and amortization charges.
+
+United Kingdom & Turkey
+
+Revenues for the United Kingdom & Turkey region totaled €2,957
+million, down 16.2% on a reported basis partly due to asset
+disposals in Continental Europe. On an organic basis, revenues for
+the region fell 14.5%, hit by lower sales volumes from UK retail
+activities.
+
+Electricity sales fell 5.9 TWh to 30.1 TWh, mainly due to lower
+volumes in the UK generation and retail business. The decline also
+reflects a reduction of 1.0 TWh due to the impact of the asset
+portfolio optimization program in Continental Europe. Gas sales
+were 35.2 TWh, down 4.3 TWh on an organic basis due to lower
+volumes for the UK and Turkish retail businesses.
+
+EBITDA came in at €380 million, up 10.6% on an organic basis due
+to an improvement in captured spreads compared to 2013.
+Favorable one-off items in the UK retail business offset the fall in
+sales volumes.
+
+Current operating income after share in net income of entities
+accounted for using the equity method was €271 million, up
+22.1% on an organic basis, spurred by a rise in EBITDA coupled
+with lower depreciation and amortization charges due to the
+impairment losses recognized against certain assets in 2013.
+
+(1) Natural gas total sales volumes increased by 3.5 TWh to 72.7 TWh, primarily due to higher LNG cargo diversion volumes.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 6 ---
+
+South Asia, Middle East & Africa
+
+Revenues for the South Asia, Middle East & Africa region (“SAMEA”)
+totaled €679 million, an increase of 28.0% on a reported basis and
+16.9% on an organic basis. This organic growth is mainly related to
+the commissioning of Uch II (Pakistan, 375 MW) in April 2014 and to
+higher development fees earned on projects. Growth in reported
+revenues also reflects the acquisition of Meenakshi (India, 300 MW)
+in December 2013, mitigated by the equity consolidation of Sohar in
+Oman (the interest in the company decreased from 45% to 35% in
+May 2018).
+
+Electricity sales amounted to 8.7 TWh, representing an increase of
+1.4 TWh. This is mainly due to the acquisition of Meenakshi (positive
+
+6.1.1.2.2 Energy Europe
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+1.3 TWh impact) at the end of 2013 and the commissioning of Uch
+Il (positive 2 TWh impact), offset to some extent by the partial sale of
+Sohar and resulting change of consolidation method (negative
+1.3 TWh impact).
+
+EBITDA came in at €298 million, representing an increase of 1.6%
+on an organic basis. This increase comes mainly from the
+commissioning of Uch Il and a rise in the development fees earned
+in 2014, and is partly offset by higher maintenance costs and
+one-off items.
+
+Current operating income after share in net income of entities
+accounted for using the equity method amounted to €286 million,
+up 1.7% on an organic basis. This increase is explained by the
+same factors that impacted EBITDA trends.
+
+Dec. 31, 2014 Dec. 31, 2013
+Central Southern & Central Southern& %change %change
+Western Eastern Western Eastern (reported (organic
+In millions of euros Total” Europe Europe Total” Europe Europe basis) basis)
+Revenues 35,158 29,285 5,873 42,713 36,090 6,623 -17.7% -17.5%
+EBITDA 2,020 1,571 585 2,877 2,592 398 -29.8% -29.2%
+Net depreciation and amortization (1,107) (909) (195) (1,447) (1,178) (264)
+charges/Other
+CURRENT OPERATING INCOME AFTER 913 662 390 1,430 1,414 134 -36.2% -36.4%
+SHARE IN NET INCOME OF ENTITIES
+ACCOUNTED FOR USING THE EQUITY
+METHOD
+(1) Of which business line corporate function costs.
+VOLUMES SOLD BY THE BUSINESS LINE
+% change
+In TWh Dec. 31, 2014 Dec. 31, 2013 (reported basis)
+Gas sales 605.8 686.3 -11.7%
+Electricity sales 159.9 181.4 -11.9%
+
+Energy Europe’s revenues totaled €35,158 million, down 17.7%, or
+17.5% on an organic basis. This decrease chiefly reflects the impact
+of climatic conditions on gas sales (2014 was a particularly mild year
+whereas 2013 had been a particularly cold one), the fall in sales
+prices, and periods of outages at certain nuclear facilities. Gas sales
+amounted to 606TWh, including 95 TWh to key accounts.
+Electricity sales amounted to 160 TWh. At end-December 2014,
+Energy Europe had almost 13.8 million individual customers for gas
+and almost 5.7 million electricity customers.
+
+The business line’s EBITDA dropped 29.8% to €2,020 million (down
+29.2% on an organic basis). 2014 was penalized by unfavorable
+weather conditions, the shutdown of the Doel3 and Tihange 2
+power plants as from March 26, 2014 and the Doel 4 plant between
+August 5 and December 19, the fall in prices on the electricity
+market, and the price “catch-up” adjustments in France recognized
+in 2018 (relating to 2011 and 2012, and concerning natural gas).
+These impacts were partly offset by performance efforts within the
+business line and by the fall in net additions to provisions compared
+to 2013.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+Current operating income after share in net income of entities
+accounted for using the equity method also fell, reflecting the
+decline in EBITDA. This was partially offset by lower depreciation
+and amortization charges following the impairment losses
+recognized against certain assets at December 31, 2013.
+
+Central Western Europe (CWE)
+
+The contribution of CWE to Group revenues amounted to
+€29,285 million, down 18.9%, or 18.8% lower on an organic basis.
+
+CWE’s EBITDA declined by 39.4% (38.9% on an organic basis),
+due to unfavorable climatic conditions, lower prices, outages at the
+three nuclear reactors Doel 3, Tihange 2 and Doel 4, and the
+impact of price “catch-up” adjustments recorded in France in 2013.
+
+Current operating income after share in net income of entities
+accounted for using the equity method also fell in line with the
+decline in EBITDA, partially offset by lower depreciation and
+amortization charges following the impairment losses recognized
+against certain assets at December 31, 2013.
+
+181
+
+
+--- Page 7 ---
+
+182
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+CWE FRANCE
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 13,698 17,676 -22.5% 22.3%
+EBITDA 633 1,494 -57.7% -57.2%
+Net depreciation and amortization charges/Other (380) (466)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 252 1,028 -75.5% -76.0%
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+VOLUMES SOLD IN FRANCE
+
+% change
+
+In TWh Dec. 31, 2014 Dec. 31, 2013 (reported basis)
+Gas sales" 205.7 280.5 -26.7%
+Electricity sales 46.3 51.7 -10.5%
+(1) Business line contribution data.
+FRANCE CLIMATIC ADJUSTMENT
+InTWh Dec. 31, 2014 Dec. 31,2013 Total change in TWh
+Climate adjustment volumes. (21.7) 17.3 (89.0)
+
+(negative figure = warm climate, positive figure = cold climate)
+
+France’s contribution to Group revenues amounted to €13,698
+million in 2014, down 22.5% (down 22.3% on an organic basis),
+notably due to less favorable climatic conditions in 2014 and the
+price “catch-up” adjustments recorded in 2013.
+
+Natural gas sales were down 74.9 TWh; mild weather during the
+year reduced sales by 21.7 TWh, whereas the very cold weather in
+2013 added 17.3 TWh to sales. The decline in sales was also linked
+to competitive pressure and weaker demand due to energy saving
+efforts. GDF SUEZ still holds around 80% of the retail market and
+around 42% of the business market.
+
+CWE BENELUX & GERMANY
+
+Electricity sales declined by 5.4 TWh despite higher sales to direct
+customers which were more than offset by the fall in market sales,
+chiefly as a result of lower gas-fired power plant production and
+lower levels of hydroelectricity.
+
+EBITDA was down €861 million due to a fall in volumes sold, price
+“catch-up” adjustments recorded in 2013 and the decrease in
+electricity market prices.
+
+Current operating income after share in net income of entities
+accounted for using the equity method decreased in line with
+EBITDA.
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 9,964 12,273 -18.8% -19.1%
+EBITDA 826 1,167 -29.3% -33.0%
+Net depreciation and amortization charges/Other (461) (624)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 365 543 -32.7% -40.4%
+
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 8 ---
+
+Revenues from the Benelux & Germany region amounted to
+€9,964 million, a drop of 18.8% (down 19.1% on an organic basis)
+compared to 2013.
+
+Electricity sales in Belgium and Luxembourg were down 7.9 TWh.
+This mainly reflects a decrease in wholesale market sales due to
+lower electricity production (down 8.8 TWh) resulting from the
+extended outage at certain nuclear reactors, and the erosion of
+market share in 2013 (retail market share has since stabilized at
+around 49%).
+
+Electricity sales fell 0.7 TWh in the Netherlands and held firm in
+Germany, slipping 0.1 TWh.
+
+SOUTHERN & EASTERN EUROPE
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+Natural gas volumes sold fell 31.7 TWh, or 25%, in the Benelux &
+Germany region due to unfavorable climatic conditions in 2014 and
+the erosion of market share. Market share has stabilized since the
+beginning of the year, at around 45% of the retail market in Belgium.
+
+EBITDA for the region was down 33.0% on an organic basis,
+reflecting the unavailability of certain nuclear reactors, falling
+electricity prices and spreads, and a decline in natural gas volumes
+sold.
+
+Current operating income after share in net income of entities
+
+accounted for using the equity method declined in line with
+EBITDA despite a fall in net depreciation and amortization charges.
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 5,873 6,623 11.3% -10.6%
+EBITDA 585 398 +47.2% +45.5%
+Net depreciation and amortization charges/Other (195) (264)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 390 134 NA NA
+
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Southern & Eastern Europe region revenues dropped by 11.3%
+(down 10.6% on an organic basis), mainly due to lower sales of
+electricity and gas in Italy (wholesale market and end customers).
+
+EBITDA for Southern & Eastern Europe jumped 45.5% driven by the
+increase in prices for green certificates in Poland, a rise in tariffs in
+Romania and one-off impacts in Italy.
+
+6.1.1.2.3 Global Gas & LNG
+
+Current operating income after share in net income of entities
+accounted for using the equity method mirrored EBITDA growth
+and benefited from lower depreciation and amortization charges.
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 6,883 5,644 +22.0% +21.5%
+Total revenues (incl. intra-group transactions) 9,551 8,404 +13.6%
+EBITDA 2,225 2,028 +9.7% +10.9%
+Net depreciation and amortization charges/Other (1,162) (1,056)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 1,064 973 +9.4% +10.0%
+
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Global Gas & LNG’s contribution to Group revenues for the year
+ended December 31, 2014 amounted to €6,883 million, up 22.0%
+on a reported basis compared to 2013. Organic growth came in at
+21.5%.
+
+The sharp increase in the contribution to revenues was driven by:
+
+= growth of 40 TWh in external LNG sales with volumes of
+119 TWh for 2014, representing 142 cargoes (of which 75
+shipped to Asia), compared to volumes of 79 TWh for 2013,
+representing 87 cargoes (of which 67 shipped to Asia);
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+man increase in the Exploration & Production hydrocarbon
+production contribution (48.9 Mboe for 2014 versus 45.4 Mboe
+for 2013), following the recent commissioning of facilities, offset
+by the negative impact of the decrease in commodity prices;
+
+= the full consolidation of GTT further to its initial public offering
+(IPO) in late February 2014.
+
+Hydrocarbon production for 2014 was up 3.6 Mboe to 55.5 Mboe
+
+versus 51.9 Mboe in 2013. The level of hydrocarbon production
+
+over the full year was boosted by the restart of Njord and the
+
+commissioning of the Amstel field in the Netherlands (February), and
+
+Gudrun and H-North in Norway (April and September, respectively).
+
+183
+
+
+--- Page 9 ---
+
+6
+
+184
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+EBITDA for the Global Gas & LNG business line in 2014 amounted
+to €2,225 million, up 9.7% on a reported basis compared to 2013.
+Organic growth came in at 10.9%, spurred by a fall in net additions
+to provisions, strong LNG activity in Europe and Asia, and the rise in
+total hydrocarbon production (newly commissioned facilities),
+partially offset by the fall in commodity prices.
+
+6.1.1.2.4 Infrastructures
+
+Current operating income after share in net income of entities
+accounted for using the equity method was €1,064 million in
+2014, up 9.4% based on reported figures and up 10.0% on an
+organic basis, in line with EBITDA trends.
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 2,994 2,557 +17.1% +17.1%
+Total revenues (incl. intra-group transactions) 6,812 6,775 +0.5%
+EBITDA 3,274 3,334 -1.8% -1.7%
+Net depreciation and amortization charges/Other (1,280) (1,264)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 1,994 2,069 -3.6% -3,5%
+
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Total revenues for the Infrastructures business line, including
+intra-group transactions, remained stable year on year at €6,812
+million in 2014, reflecting:
+
+the annual review in France of distribution infrastructure access
+tariffs (2.9% increase on July 1, 2014 and 4.1% increase on
+July 1, 2013) and of transport infrastructure tariffs (8.9% increase
+on April 1, 2014 and 8.3% increase on April 1, 2013);
+
+additional transport capacity offered in the South through JTS
+(Joint Transport Storage), enabling combined reservations of
+transport and storage capacity on the North-South link (“PEG
+Nord-Sud”);
+
+improved marketing of storage capacity in France linked to the
+start of sales operations for new storage caverns in Germany
+(Peckensen 4 and 5) and the United Kingdom (Stublach);
+
+and despite the 55.1 TWh fall in volumes" distributed by GrDF
+due to milder climatic conditions in 2014 compared to 2013.
+
+In this climatic and regulatory context, the business line's
+contribution to Group revenues was €2,994 million, up 17.1% year
+on year as a result of:
+
+= growth in distribution, transportation and storage activities for
+third parties in an increasingly deregulated market;
+
+™ solid natural gas purchase and sale activities to maintain technical
+storage performance.
+
+EBITDA for the Infrastructures business line amounted to
+
+€3,274 million for the period, down 1.8% year on year (down 1.7%
+
+on an organic basis). This decline mainly concerns the distribution
+
+business, which was hit by a milder climate. Apart from this climate
+
+effect, EBITDA was up 6.8% on an organic basis.
+
+Current operating income after share in net income of entities
+accounted for using the equity method for the Infrastructures
+business line came in at €1,994 million for the period, down 3.6%
+year on year (down 3.5% on an organic basis), with net depreciation
+and amortization charges edging up 1.4%. The decrease in these
+charges following the impairment losses recorded at December 31,
+2013 is offset by the commissioning of new facilities.
+
+(1) 23 TWh distributed due to cold weather conditions in 2013 versus a negative 32.1 TWh during the milder 2014.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 10 ---
+
+6.1.1.2.5 Energy Services
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+% change % change
+In millions of euros Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+Revenues 15,673 14,678 +6.8% +0.4%
+EBITDA 1,127 1,041 +8.2% +3.2%
+Net depreciation and amortization charges/Other (335) (833)
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 791 708 +11.8% +5.5%
+
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Revenues for the Energy Services business line climbed 6.8% on a
+reported basis to €15,673 million for 2014, buoyed by the
+acquisitions carried out in late 2013 and in 2014 of Balfour Beatty
+Workplace and Lend Lease in the United Kingdom (€847 million)
+and Ecova in the United States (€68 million).
+
+Organic revenue growth came in at 0.4%, chiefly reflecting the
+growth in installation activities in France and Benelux countries,
+particularly in electrical and climatic engineering activities. However,
+revenue growth was partly offset by the unfavorable impact of mild
+weather conditions in 2014 and the final impacts of the expiration of
+gas cogeneration contracts in France and Italy resulting from the
+termination of the purchasing agreements for electricity produced
+by these plants.
+
+EBITDA for Energy Services rose 8.2% to €1,127 million on a
+reported basis, due chiefly to the acquisitions made in the United
+Kingdom and the United States. Organic growth came out at 3.2%,
+chiefly reflecting:
+
+6.1.1.2.6 Other
+
+In millions of euros
+EBITDA
+Net depreciation and amortization charges/Other
+
+CURRENT OPERATING INCOME/(LOSS) AFTER SHARE IN NET
+INCOME OF ENTITIES ACCOUNTED FOR USING THE EQUITY
+METHOD
+
+™ a positive volume impact on installation activities, particularly in
+France, Benelux countries and Germany;
+
+™ cost-reduction measures - especially on overheads - and
+measures to boost operating performance;
+
+m the positive impact of the commissioning of new heating
+networks and services in France.
+
+These items were partially offset by:
+
+= the final impacts of the expiration of gas cogeneration contracts
+in France and Italy;
+
+m™ exceptionally mild weather in Europe in 2014 which had an
+adverse impact on the urban heating networks activity and on
+energy sales.
+
+Current operating income after share in net income of entities
+
+accounted for using the equity method amounted to €791 million,
+
+up 5.5% on an organic basis.
+
+% change % change
+Dec. 31, 2014 Dec. 31,2013 (reported basis) (organic basis)
+(224) (292) +23.2% +23.2%
+(121) (159)
+(346) (451) +23.3% +23.3%
+
+EBITDA for this business line came in at a negative €224 million for
+2014, an improvement on 2013 due mainly to the increase in the
+income of SUEZ Environnement attributable to GDF SUEZ, the
+effects of the Perform 2015 plan, and reversals of provisions in the
+Group’s reinsurance subsidiary.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+Current operating loss after share in net income of entities
+accounted for using the equity method narrowed in 2014, on the
+back of improved EBITDA and the positive adjustment of expenses
+in relation to share-based payments (IFRS 2).
+
+185
+
+
+--- Page 11 ---
+
+6
+
+186
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+61.1.3 Other income statement items
+
+% change
+(reported
+In millions of euros Dec. 31,2014 Dec. 31, 2013 basis)
+Current operating income after share in net income of entities accounted for using 7,161 7,665 -6.6%
+the equity method
+Mark-to-market on commodity contracts other than trading instruments (298) (225)
+Impairment losses (1,037) (14,773)
+Restructuring costs (167) (285)
+Changes in scope of consolidation 562 (41)
+Other non-recurring items 353 535
+Income/(loss) from operating activities 6,574 (7,124) NA
+Net financial income/(loss) (1,876) (1,715)
+Income tax expense (1,588) (641)
+NET INCOME/(LOSS) 3,110 (9,481) NA
+o/w net income/(loss) Group share 2,440 (9,646)
+o/w non-controlling interests 669 165
+
+Income/(loss) from operating activities amounted to €6,574 million
+in 2014 versus a loss of €7,124 million in 2013.
+
+Impairment losses totaling €14,773 million had been recognized in
+2013 (€1,037 million in 2014), of which €5,689 million against
+goodwill (including goodwill on entities accounted for using the
+equity method) and €8,994 million against property, plant and
+equipment and intangible assets. In recognizing these impairment
+losses, the Group acknowledged the profound change in the energy
+paradigm in Europe.
+
+The €1,037 million in impairment losses for 2014 were recognized
+chiefly in respect of the GlobalGas & LNG business line
+(€362 million), the Energy International business line (€306 million)
+and the Energy Europe business line (€291 million). The impairment
+losses chiefly concern (i) exploration and production assets in the
+North Sea (€261 million) which have been affected by the fall in
+proven and probable production reserves and by the decline in gas
+prices in Europe, and (ii) thermal power plants in the UK
+(€181 million) as a result of a deterioration in the market outlook.
+
+Income/(loss) from operating activities was also affected by:
+
+m changes in the fair value of commodity derivatives
+(mark-to-market) that had a negative impact of €298 million on
+income from operating activities (reflecting the impact of
+transactions not eligible for hedge accounting), compared with a
+negative impact of €225 million in 2013. The impact for the period
+results chiefly from negative overall price effects, partly offset by
+the net positive impact of unwinding positions with a negative
+market value at December 31, 2013;
+
+= restructuring costs of €167 million, compared with €285 million
+the previous year;
+
+= “Changes in scope of consolidation” (gains and losses on the
+disposal of consolidated equity interests or on remeasurements
+of previously held interests in accordance with IFRS 3) which had
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+a positive impact of €562 million in 2014, compared with a
+negative impact of €41 million in 2013. Changes in the scope of
+consolidation mainly relate to gains on remeasuring the previous
+interest in GTT (after the Group acquired control of the company)
+totaling €359 million and in Walloon inter-municipal companies
+(loss of significant influence) totaling €174 million;
+= “Other non-recurring items” representing income of €353 million
+(chiefly reflecting the gain on the disposal of interests in Flemish
+mixed inter-municipal companies), compared with income of
+€535 million in 2013 (primarily resulting from the reversal of a
+provision for the back-end of the nuclear fuel cycle in Belgium).
+The Group reported a net financial loss of €1,876 million for 2014,
+compared to a loss of €1,715 million the previous year. The
+€266 million decrease in the cost of debt resulting from the fall in
+outstanding borrowings and the average cost of gross debt was.
+more than offset by the negative €328 million impact of
+non-recurring expenses compared to 2013 (negative €236 million
+impact of changes in the fair value of derivatives not eligible for
+hedge accounting and negative €69 million impact of debt
+restructuring transactions), and by the €114 million increase in the
+discounting expense relating to provisions.
+
+The 2013 income tax charge included an income tax benefit of
+€1,593 million arising on non-recurring income statement items.
+(versus €659 million in 2014). The non-recurring items essentially
+related to the impairment losses recognized against property, plant
+and equipment and intangible assets in 2013. Adjusted for these
+items, the effective recurring tax rate was 35.0%, slightly down on
+the 35.7% rate for 2013.
+
+Net income attributable to non-controlling interests was up sharply
+year-on-year, at €669 million, owing to the impairment losses
+recognized in 2013.
+
+www.gdfsuez.com
+
+
+--- Page 12 ---
+
+6.1.14 Changes in net debt
+
+Net debt stood at €27.5 billion at end-December 2014 and was
+down €1.3 billion compared to net debt at end-December 2013,
+reflecting the following items: ()) cash generated from operations
+before income tax and working capital requirements for the period
+(€11.8 billion) and the issue of hybrid notes by GDF SUEZ SA at the
+beginning of June (€2.0 billion); (li) offset by the change in working
+In millions of euros
+
+11,776
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+capital requirements (€1.2 billion), net investments (including
+changes in Group structure) carried out by the Group (€3.9 billion)
+as well as dividends paid to GDFSUEZ SA shareholders
+(€2.8 billion) and to non-controlling interests (€0.8 billion).
+
+Changes in net debt break down as follows:
+
+Maintenance investments
+[HB Development investments
+
+HE Financial investments
+
+The net debt to EBITDA ratio came out at 2.27 at December 31, 2014.
+
+In millions of euros Dec. 31, 2014 Dec. 31, 2013
+Net debt 27,511 28,800
+EBITDA 12,138 13,017
+Net debt/EBITDA ratio 2.27 2.21
+
+6.1.1.4.1 Cash generated from operations before
+income tax and working capital
+requirements
+
+Cash generated from operations before income tax and working
+
+capital requirements amounted to €11,776 million in 2014, down
+
+€1,349 million compared with 2013.
+
+The fall was in line with the EBITDA performance and also reflected
+
+net changes in additions to provisions since these are now taken
+
+into account in the revised definition of EBITDA.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+6.1.1.4.2 Change in working capital requirements
+
+The change in working capital requirements represents a negative
+impact of €1.2 billion, mainly related to the impact of fluctuations in
+commodity prices (Brent crude) on margin calls.
+
+187
+
+
+--- Page 13 ---
+
+188
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+6.1.1.4.3 Net investments
+
+Gross investments during the period amounted to €7,079 million
+and included:
+
+= financial investments for €1,290 million, relating chiefly to the
+acquisition of Ecova (United States) by Cofely; payments for the
+capital increases subscribed in Jirau (€213 million); Synatom
+investments which rose by €171 million, loans and capitalization
+transactions for the Los Ramones pipeline construction project
+(Mexico) for €134 million; and the acquisition of Flemish
+municipalities’ non-controlling interests in Electrabel Customer
+Solutions (Belgium) for €101 million;
+
+m development investments totaling €3,338 million. Most of this
+amount was invested by the Global Gas & LNG business line
+(€1,015 million) to develop gas fields in the United Kingdom,
+Indonesia, the Netherlands, Norway and Algeria; by the
+Infrastructures business line (€792 million) in respect of the
+natural gas transport network in France and the Gazpar project
+
+Energy International business line (€689 million) in connection
+
+with the construction of facilities in Peru, India and Brazil;
+™ maintenance investments for an amount of €2,451 million.
+Disposals represented a cash amount of €2,775 million and
+related essentially to the sale of interests in Flemish mixed
+inter-municipal companies (Belgium) for €911 million; the sale of
+the power generation asset portfolio in Panama and Costa Rica
+and the repayment of loans granted by the Group to these entities
+for €455 million; the sale of 20% of Jirau (Brazil) for €318 million;
+the sale of ISAB (Italy) for €153 million; and the early repayment of
+the residual SPP sale price (Slovakia) for €122 million.
+
+Including changes in the scope of consolidation resulting from
+these acquisitions and disposals, net investments represent
+€3,879 million.
+
+Capital expenditure breaks down as follows by business line:
+
+to develop communicating “smart” meters; and by the
+In millions of euros
+lll Financial investments
+68 Development investments
+a HE Maintenance investments
+558
+48 80 792
+—
+304 457
+689
+1,015
+869 447
+727
+S I \ | |
+Energy Energy Global Gaz Infrastructures Energy Other
+International Europe & LNG Services
+
+6.1.1.4.4 Dividends and movements in treasury stock
+Dividends and movements in treasury stock during the period
+amounted to €3,584 million and included:
+
+m= €2,767 million in dividends paid by GDF SUEZ SA to its
+shareholders, consisting of the outstanding balance on the
+2013 dividend (€0.67 per share) paid in May 2014, and an
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+interim dividend in respect of 2014 (€0.50 per share) paid in
+October 2014;
+
+= dividends paid by various subsidiaries to their non-controlling
+shareholders in an amount of €761 million, payment of interest
+on hybrid debt, withholding tax and movements in treasury
+stock.
+
+www.gdfsuez.com
+
+
+--- Page 14 ---
+
+6.1.1.4.5 Net debt at December 31, 2014
+
+Excluding amortized cost but including the impact of foreign
+currency derivatives, at December 31, 2014 a total of 69% of net
+debt was denominated in euros, 13% in US dollars and 6% in
+pounds sterling.
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+Including the impact of financial instruments, 80% of net debt is at
+fixed rates.
+
+The average maturity of the Group's net debt is 9.1 years.
+
+At December 31, 2014, the Group had total undrawn credit lines
+of €13.3 billion.
+
+6.1.15 Other items in the statement of financial position
+
+In millions of euros Dec. 31, 2014 Dec. 31, 2013 Net change
+Non-current assets 109,999 105,813 4,187
+of which goodwill 21,222 20,420 802
+of which property, plant and equipment and intangible assets, net 71,601 70,154 1,447
+of which investments in entities accounted for using the equity method 7,055 6,799 255
+Current assets 55,306 50,120 5,186
+Total equity 55,959 53,659 2,299
+Provisions 18,539 16,098 2,441
+Borrowings 38,321 38,892 (670)
+Other liabilities 52,486 47,283 5,203
+
+The carrying amount of property, plant and equipment and
+intangible assets was €71.6 billion, an increase of €1.4 billion
+compared to December 31, 2013. This increase was primarily the
+result of investments made over the period (positive €5.8 billion
+impact) and translation adjustments (positive €1.7 billion impact),
+partially offset by depreciation and amortization (negative €4.7 billion
+impact).
+
+Goodwill increased by €0.8 billion to €21.2 billion, mainly as a result
+of the controlling interest acquired in GTT (positive €0.4 billion
+impact), along with the acquisitions of Ecova (positive €0.2 billion
+impact) and Lahmeyer (positive €0.1 billion impact).
+
+Total equity amounted to €56.0 billion, an increase of €2.3 billion
+compared to December 31, 2013. This increase chiefly reflects net
+income for the period (positive €3.1 billion impact), the hybrid notes
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+issue (positive €2.0 billion impact), the controlling interest acquired
+in GTT (positive €0.5 billion impact), the effect of employee share
+issues carried out as part of the Link 2014 worldwide employee
+share ownership plan (positive €0.3 billion impact), and the payment
+of cash dividends (negative €3.5 billion impact).
+
+Regarding other items of comprehensive income, actuarial losses
+and net investment or cash flow hedges net of tax representing a
+negative €1.9 billion impact are virtually offset by translation
+adjustments with a positive impact of €1.8 billion.
+
+Provisions increased by €2.4 billion due chiefly to actuarial
+differences arising in the period on provisions for post-employment
+benefits (positive €1.8 billion impact), and to unwinding discounts on
+provisions (positive €0.6 billion impact).
+
+189
+
+
+--- Page 15 ---
+
+6
+
+190
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+6.1.1.6 Pro forma financial statements including To allow better operational and financial performance comparability
+the SUEZ Environnement company group between the two reporting periods, the Group has prepared pro
+as an associate forma information as at December 31, 2013.
+
+The tables below and hereafter show the transition from a reported
+
+Further to the expiration of the shareholders’ agreement on July 22,
+2013, GDF SUEZ no longer controls SUEZ Environnement
+Company, which has been accounted for using the equity method
+as from that date in GDF SUEZ’s consolidated financial statements
+(see Note 5.7.1).
+
+December 31,
+
+INCOME STATEMENT FOR THE YEAR ENDED DECEMBER 31, 2013
+
+income statement and statement of cash flows to a pro forma
+income statement and statement of cash flows for the year ended
+
+2013, including SUEZ Environnement as an
+
+Exclusion of SUEZ
+Environnement
+
+Group
+
+contribution and
+presentation as
+
+Intra-group and
+
+equity-accounted associate as from January 1, 2013.
+
+Pro forma GDF
+‘SUEZ: SUEZ
+Environnement as
+investment in
+
+In millions of euros Dec. 31, 2013" an associate others associates
+Revenues 87,898 (7,922) 9 79,985
+Purchases (50,396) 1,642 (4) (48,758)
+Personnel costs (11,615) 2,091 - (9,524)
+Depreciation, amortization and provisions (6,426) 537 - (6,889)
+Other operating expenses. (13,853) 3,219 (14) (10,648)
+Other operating income 2,077 (153) 10 1,933
+CURRENT OPERATING INCOME 7,685 (587) 7,098
+Share in net income of entities accounted for using the equity 570 (3) - 567
+method
+
+CURRENT OPERATING INCOME AFTER SHARE IN NET INCOME 8,254 (589) - 7,665
+OF ENTITIES ACCOUNTED FOR USING THE EQUITY METHOD
+
+Mark-to-market on commodity contracts other than trading (226) 1 - (225)
+instruments
+
+Impairment losses (14,770) (4) - (14,773)
+Restructuring costs (302) 17 - (285)
+Changes in scope of consolidation”! 405 2 (448) (41)
+Other non-recurring items 544 (10) - 535
+INCOME/(LOSS) FROM OPERATING ACTIVITIES (6,093) (583) (448) (7,124)
+Financial expenses (2,444) 269 (3) (2,177)
+Financial income 498 (40) 3 461
+NET FINANCIAL INCOME/(LOSS) (1,945) 230 a (1,715)
+Income tax expense (745) 104 - (641)
+NET INCOME/(LOSS) (8,783) (249) (448) (9,481)
+Net income/(loss) Group share (9,198) - (448) (9,646)
+Non-controlling interests 414 (249) - 165
+EBITDA 14,223 (1,206) 7 13,017
+
+(1) Comparative data at December 31, 2013 have been restated due to the application of the consolidation standards and to the presentation changes in the
+
+income statement (see Note 2).
+
+(2). The €448 million impact is related to the net revaluation gain recognized in the consolidated financial statements following the accounting for SUEZ
+
+Environnement using the equity method.
+
+NB: The amounts shown in the tables are expressed in millions of euros. In certain cases, rounding may cause non-material discrepancies in the totals.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 16 ---
+
+STATEMENT OF CASH FLOWS FOR THE YEAR ENDED DECEMBER 31, 2013
+
+Exclusion of SUEZ
+
+Environnement Group
+
+MANAGEMENT REPORT
+
+6.1 MANAGEMENT REPORT
+
+Pro forma GDF SUEZ:
+
+contribution and SUEZ Environnement
+
+Dec. 31, presentation as an Intra-group as investment in
+In millions of euros 2013" associate _and others associates
+NET INCOME (8,783) (249) (448) (9,481)
+= Share in net income of entities accounted for using equity method (670) 3 - (667)
++ Dividends received from entities accounted for using equity method 433 89 - 522
+- Net depreciation, amortization, impairment and provisions 20,519 (605) - 20,014
+- Impact of changes in scope of consolidation and other non-recurring items (479) 8 448 (23)
+- Mark-to-market on commodity contracts other than trading instruments 226 (2) - 225
+- Other items with no cash impact 93 (14) - 79
+- Income tax expense 745 (104) - 641
+- Net financial expense 1,945 (230) - 4,715
+Cash generated from operations before income tax and working 14,129 (4,004) - 13,125
+capital requirements
++ Tax paid (2,058) 97 - (1,961)
+Change in working capital requirements (91) 259 - 169
+CASH FLOW FROM OPERATING ACTIVITIES 11,980 (648) a 11,333
+Acquisitions of property, plant and equipment and intangible assets (6,518) 580 - (6,938)
+Acquisitions of controlling interest in entities, net of cash and cash (363) 14 - (349)
+equivalents acquired
+‘Acquisitions of investments in entities accounted for using equity method (688) 5 - (683)
+and joint operations
+Acquisitions of available-for-sale securities (143) 14 - (128)
+Disposals of property, plant and equipment, and intangible assets 267 (24) - 243
+Loss of controlling interest in entities, net of cash and cash equivalents sold 468 (17) - 451
+Disposals of investments in entities accounted for using equity method and 1,569 (17) - 4,552
+joint operations
+Disposals of available-for-sale securities 171 (1) - 171
+Interest received on non-current financial assets 74 3 3 80
+Dividends received on non-current financial assets 127 (8) - 119
+Change in loans and receivables originated by the Group and other (69) 40 143 414
+CASH FLOW FROM (USED IN) INVESTING ACTIVITIES (5,103) 588 146 (4,368)
+Dividends paid (4,694) 348 - (4,346)
+Repayment of borrowings and debt (6,640) 505 - (6,135)
+Change in financial assets at fair value through income (435) 28 - (407)
+Interest paid (1,553) 228 (3) (1,328)
+Interest received on cash and cash equivalents 116 (25) - 1
+Cash flow on derivatives qualifying as net investment hedges and (184) (11) - (195)
+compensation payments on derivatives and on early buyback of borrowings
+Increase in borrowings 3,393 (951) (143) 2,299
+Increase/decrease in capital 388 (2) - 387
+Hybrid issue of perpetual subordinated notes 1,657 - - 4,657
+Purchase and/or sale of treasury stock (6) - - 6)
+Changes of ownership interests in controlled entities (71) 12 - (69)
+CASH FLOW FROM (USED IN) FINANCING ACTIVITIES (7,027) 132 (146) (7,041)
+Effects of changes in exchange rates and other (2,083) 2,056 - (27)
+TOTAL CASH FLOW FOR THE PERIOD (2,233) 2,129 - (103)
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 10,939 (2,129) - 8,809
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 8,706 - - 8,706
+
+(1) Comparative data at December 31, 2013 have been restated due to the application of the consolidation standards (see Note 2)
+
+NB: The amounts shown in the tables are expressed in millions of euros. In certain cases, rounding may cause non-material discrepancies in the totals.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+191
+
+
+
+--- Page 17 ---
+
+6
+
+192
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+6.1.1.7 Parent company financial statements
+
+The figures provided below relate to the financial statements of
+GDF SUEZ SA, prepared in accordance with French GAAP and
+applicable regulations.
+
+Revenues for GDF SUEZ SA totaled €24,562 million in 2014, down
+14% on 2013 due mainly to less favorable weather conditions.
+
+The Company posted a net operating loss of €1,354 million versus a
+net operating loss of €676 million in 2013, chiefly reflecting the
+decrease in energy margins, partly offset by a reduction in external
+expenses, and in depreciation, amortization and provisions.
+
+The Company reported net financial income of €1,590 million,
+compared with €1,054 million one year earlier. This mainly includes.
+dividends received from subsidiaries for €2,297 million compared to
+€1,778 million in 2013, the cost of debt which remained stable at
+€859 million, chiefly consisting of the interest expense on bond
+issues.
+
+INFORMATION RELATING TO SUPPLIER PAYMENT DEADLINES
+
+The law in favor of the modernization of the economy (“LME” law
+No. 2008-776 of August 4, 2008) and its implementing decree
+(No. 2008-1492 of December 30, 2008), provide that companies
+whose annual financial statements are certified by a Statutory
+
+Non-recurring items included €203 million in non-recurring
+expenses, chiefly due to the combined effect of debt restructuring
+(expense of €267 million), impairment losses on securities, net of
+reversals (expense of €30 million), offset by the reversal of the
+provision for price increases (income of €54 million) and capital
+gains on disposals of buildings and property (income of €20 million).
+
+The income tax benefit amounts to €378 million compared to
+€768 million in 2013. These two amounts include a tax
+consolidation benefit of €368 million and €441 million in 2014 and
+2013, respectively.
+
+Net income for the year came out at €411 million.
+
+Shareholders’ equity amounted to €41,896 million at end-2014,
+versus €43,984 million at December 31, 2013, reflecting the
+dividend payout, partially offset by the capital increase in respect of
+the LINK 2014 plan and by net income for the period.
+
+At December 31, 2014, net debt stood at €29,695 million, and cash
+and cash equivalents totaled €7,079 million.
+
+Auditor must publish information regarding supplier payment
+deadlines. The purpose of publishing this information is to
+demonstrate that there are no significant delays in the payment of
+suppliers.
+
+The breakdown by maturity of outstanding amounts payable by GDF SUEZ SA to its suppliers over the last two reporting periods is as
+
+follows:
+Dec. 31, 2014 Dec. 31, 2013
+
+In millions of euros External Group Total External Group Total
+Past due 33 94 127 142 114 256
+30 days 414 28 442 614 40 654
+45 days 8 251 259 15 6 21
+More than 45 days 23 - 23 17 - 17
+TOTAL 478 373 851 788 160 948
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+www.gdfsuez.com
+
+
+--- Page 18 ---
+
+6.1.18 Outlook
+
+2015 financial targets": a resilient net recurring income despite
+the drop in oil/gas price thanks to the implementation of a
+targeted “Quick Reaction Plan”
+
+Given the recent major drop in oil and gas price, which has a
+significant impact, in the short term, on the Group’s businesses
+(estimated at around -€900 million on EBITDA 2015 and -€350
+million on Net recurring income, Group share, based on forward
+prices as of December 31, 2014), the Group has decided to launch
+a quick operational reaction plan in addition to Perform 2015,
+focused on targeted reductions in opex (€250 million impact on
+EBITDA 2015) combined with a shift of some growth capex (€2
+billion over 2015-2016).
+
+This plan enables the Group to announce for 2015 a Net recurring
+income, Group share between €3.0 and 3.3 billion, at average
+weather in France, in line with the figure published for 2014. This.
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+guidance is based on estimates for EBITDA and current operating
+income® of, respectively, €11.7 to 12.3 billion and €6.8 to
+7.4 billion.
+
+In addition, given its medium term growth perspectives and cash
+
+generation for 2015-2016, the Group reaffirms its capital allocation
+
+policy for the period 2014-2016 as follows:
+
+= net capex" between €6 and 7 billion per year on average;
+
+= net debt/EBITDA ratio below or equal to 2.5x and “A” category
+credit rating;
+
+= and a stable dividend policy with a pay-out ratio” of 65-75%
+and a minimum of 1 euro per share, payable in cash.
+
+6.1.2 Cash and shareholder's equity
+
+6.1.2.1 Borrowing conditions and financial
+structure applicable to the Issuer
+
+Debt structure
+
+Gross debt (excluding bank overdrafts, amortized cost and financial
+derivative instruments) amounted to €36.4 billion on December 31,
+2014, down from the previous year, and was primarily made up of
+€22.9 billion in bond issues and €6.6 billion in bank loans (including
+finance leases). Other loans and drawdowns on credit lines
+accounted for a total of €1.7 billion. Short-term loans (commercial
+paper) accounted for 14% of total gross debt at the end of 2014.
+
+77% of the gross debt was issued on financial markets (bond issues
+and commercial paper).
+
+Net debt, excluding amortized costs, the effect of financial derivative
+instruments and cash collateral, came to €27.5 billion at the end of
+2014.
+
+At the end of 2014, the net debt was 69% denominated in euros,
+13% in US dollars and 6% in British pounds, excluding amortized
+cost but after the foreign exchange impact of derivatives.
+
+After the impact of derivatives, 80% of the net debt was at a fixed
+rate. On December 31, 2014, the average cost of gross debt stood
+at 3.14%, down 26 points compared to 2013. The average maturity
+of net debt was 9.1 years.
+
+Main transactions in 2014
+
+The main transactions in 2014 affecting financial debt are described
+in Note 16.3.2 of Section 6.2 “Consolidated financial statements”. In
+addition, the Group renewed €5 billion in pooled credit lines ahead
+of schedule, extending their maturity to April 2019.
+
+The list of projects financed under the Green Bond issued in
+May 2014 for a total of €2.5 billion is found in Section 5.1.6.5
+“Green Bond”.
+
+In 2014, the annual update of the prospectus for GDF SUEZ’s
+€25 billion EMTN program received approval No. 14-534 from the
+AMF (October 2, 2014).
+
+Ratings
+GDF SUEZ has been rated A/A-1 by Standard & Poor’s and A1/P-1
+
+by Moody’s with a stable outlook since July 2014 and April 2014,
+respectively.
+
+6.1.2.2 Restrictions on the use of capital
+
+On December 31, 2014, the Group had total undrawn confirmed
+credit lines (usable, among other things, as back-up lines for the
+commercial paper programs) of €13.3 billion. Of these lines, 91%
+are managed in a pooled fashion and are not subject to any financial
+covenant or bound by a credit risk rating. The counterparties of
+these lines are well diversified, with no single counterparty holding
+more than 6% of the total of these pooled lines. No pooled credit
+facility was in use as of the end of 2014.
+
+Furthermore, the Group has set up credit lines in some subsidiaries,
+for which the documentation includes ratios related to their financial
+standing. These lines of credit are not guaranteed by GDF SUEZ SA
+or GIE GDF SUEZ Alliance.
+
+The definition, as well as the level of these ratios, also known as
+“financial covenants”, are determined by agreement with the lenders
+and may be reviewed during the life of the loan.
+
+The most frequent ratios are:
+
+(1) Targets assume average weather conditions in France, full pass through of supply costs in French regulated gas tarifs, restart of Doel 3 and Tihange 2
+as of July 1, 2015, no significant regulatory and macro-economic changes, commodity price assumptions based on market conalitions as of
+December 31, 2074 for the non-hedged part of the production, and average foreign exchange rates as follows for 2015: €/$: 1.22, €/BRL: 3.23.
+
+(2) Atter share in net income of entities accounted for using the equity method.
+
+(3) Net capex = gross capex ~ disposals (cash and net debt impact).
+
+(4) Based on net recurring income, Group share.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+193
+
+
+--- Page 19 ---
+
+194
+
+MANAGEMENT REPORT
+6.1 MANAGEMENT REPORT
+
+= Debt Service Coverage Ratio = Cashflow available to meet annual
+interest and principal payments on debt, or for servicing interest
+(Interest Coverage Ratio = EBIT/interest expense in the period);
+
+m Loan Life Coverage Ratio (= Net Present Value of Cashflow
+Available for Debt Service (“CFADS”) / Outstanding Debt in the
+period);
+
+m Debt/Equity ratio or maintenance of a minimum amount of equity.
+
+At December 31, 2014, all Group companies whose debt is
+
+consolidated were compliant with the covenants and
+
+representations contained in their financial documentation.
+
+In 2014, a default was declared on a participating interest of the
+Energy Europe business line, with no impact on the lines available to
+the Group. A debt restructuring agreement is being negotiated with
+the lenders and could be concluded by the end of the first half of
+2015.
+
+GDF SUEZ REGISTRATION DOCUMENT 2014
+
+6.1.2.3 Expected sources on financing to honor
+commitments relative to investment decisions
+
+The Group believes that its funding needs will be covered by
+available cash and the possible use of its existing credit facilities.
+However, it may call upon the capital markets on an ad hoc basis.
+
+If necessary, dedicated financing could be established for very
+specific projects.
+
+The Group has a total of €3.4 billion in credit lines or loans expiring
+in 2015 (excluding the maturity of €5.2 billion in commercial paper).
+In addition, at December 31, 2014 it had €8.9 billion in cash (net of
+bank overdrafts) and a total of €13.3 billion in available lines (not net
+of the amount of commercial paper issued), including €1 billion
+expiring in 2015.
+
+www.gdfsuez.com

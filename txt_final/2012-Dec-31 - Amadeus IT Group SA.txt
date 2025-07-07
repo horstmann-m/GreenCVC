@@ -1,0 +1,2642 @@
+
+
+--- Page 1 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+1 Summary
+
+1.1 Introduction
+
+Full year 2012 highlights (year ended December 31, 2012)
+
+Total air travel agency bookings increased by 3.5% vs. 2011, to 416.5 million
+
+In our IT Solutions business line, total Passengers Boarded increased by 28.4% vs.
+2011, to 563.8 million
+
+Revenue increased by 7.5%’, to €2,910.3 million
+
+EBITDA increased by 6.6%', to €1,107.7 million
+
+Adjusted profit? for the year increased to €575.1 million, up 18.0% from €487.2 million in
+2011
+
+e Total dividend for the year 2012 of €0.50 per share (gross),a 35% increase over 2011
+
+In 2012 Amadeus has successfully delivered against its targets, achieving profitable growth
+in both its business units. At group revenue level, growth stood at 7.5%', supported by
+growth in both its business lines. In turn, EBITDA increased by 6.6%' with an 18.0% growth
+in Adjusted profit? for the year, assisted by lower interest expense.
+
+This has been a strong year for Amadeus, despite a difficult global macroeconomic backdrop
+and weak levels of business and consumer confidence. Once again Amadeus has benefitted
+from its successful business, which provides strong resilience and economies of scale. In
+addition, our continued investment in R&D and differentiated value proposition has allowed
+us to deliver market share gains, adding new clients to our platform, both in Distribution and
+IT Solutions.
+
+In our Distribution business, in 2012 we achieved 5.8%' revenue growth, despite limited
+industry growth, which was negatively affected by a weak macro environment, particularly in
+the second half of the year. Growth was supported both by our market share gains (0.9 p.p.)
+and pricing, as well as the positive impact from the translation of USD flows into Euro. We
+successfully extended all distribution contracts with airlines due for renewal, notably Qantas,
+Delta and Air France KLM, and continued to expand the content available to our travel
+agency subscribers, with the addition of 8 new low cost carriers to the platform. We also
+signed some important travel agency contracts, such as Expedia in North America.
+
+Strong results were also achieved in the IT Solutions business, with a 13.0%' revenue
+increase driven by a remarkable increase of 28.4% in processed PB. Also, we continued to
+
+1 For purposes of comparability, the revenue associated to the IT contract resolution with United Airlines in Q2 2011 as well as
+
+certain costs of migration that were incurred in relation with this contract, have been reclassified from the Revenue and Other
+operating expenses captions respectively, to the Other income/ expense caption in the 2011 figures. The growth rates shown
+above take into account this reclassification. EBITDA adjusted to exclude extraordinary items related to the IPO, as shown on
+Pages 36 and 37 of this report.
+Excluding after-tax impact of: (i) amortisation of PPA and impairment losses, (ii) changes in fair value from financial
+instruments and non-operating exchange gains / (losses) and (iii) extraordinary items related to the sale of assets and equity
+investments, the debt refinancing, the United Airlines IT contract resolution in 2011 and the IPO. Figures correspond to profit
+from continuing operations.
+
+
+--- Page 2 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+expand our Altéa portfolio with the launch of our new module Revenue Accounting. At the
+same time, 10 new Altéa contracts were signed and the pipeline was further reinforced.
+
+Innovation is at the core of our strategy, and as such investment in R&D was further
+increased by 20.2% in 2012, reaching 14.2% of our revenue. Client implementations,
+product evolution, portfolio expansion and investment in new opportunities which may
+expand our total addressable market represent the majority of our investment.
+
+As of December 31, 2012 our consolidated net financial debt was €1,495.2 million (based on
+covenants’ definition in our senior credit agreement), representing 1.34x net debt / LTM
+EBITDA. This is a significant decrease of €356.7 million vs. net debt of €1,851.8 million as of
+December 31, 2011, or 1.75x net debt / LTM EBITDA. Our financial structure was further
+strengthened with the signature of a new loan with the European Investment Bank and a
+new Revolving credit facility.
+
+In October 2012, having reached the top end of the stated capital structure target (1.0x - 1.5x
+net debt / EBITDA), the Board of Directors revised the dividend policy, increasing the pay-
+out ratio to between 40%-50% from the previous 30%-40% of the consolidated profit
+(excluding extraordinary items).
+
+
+--- Page 3 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR'S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+1.2 Summary financial information
+
+Summary financial information Oct-Dec Oct-Dec nena Full year | Full year
+Figures in million euros 201 201 9 201 2011
+KPI
+
+Air TA Market Share 40.2% 39.2% 1.0 p.p. 38.6% 37.7% 0.9 p.p.
+Air TA bookings (m) 96.8 94.7 2.2% 416.5 402.4 3.5%
+Non air bookings (m) 14.6 15.0 (2.3%) 60.7 61.4 (1.1%)
+Total bookings (m) 111.4 109.7 1.6% 477.2 463.8 2.9%
+Passengers Boarded (PB) (m) 143.4 111.6 28.5% 563.8 439.1 28.4%
+Airlines migrated (as of December 31) 109 100
+
+Financial results
+
+Distribution Revenue 510.5 491.0 4.0% 2,201.0 2,079.4 5.8%
+IT Solutions Revenue 166.8 156.6 6.5% 709.4 628.0 13.0%
+Revenue 677.2 647.6 4.6% 2,910.3 2,707.4 7.5%
+EBITDA 217.9 203.4 71% 1,107.7 1,039.0 6.6%
+EBITDA margin (%) 32.2% 31.4%  O0.8p.p. 38.1% 38.4%  (0.3p.p.)
+Adjusted profit from continuing operations” 93.8 86.6 8.2% 575.1 487.2 18.0%
+Adjusted EPS from continuing operations (euros) 0.21 0.20 7.1% 1.30 1.09 18.7%
+Cash flow
+Capital expenditure 112.2 81.3 37.9% 348.9 312.7 11.6%
+Pre-tax operating cash flow®) 194.5 128.8 50.9% 860.1 810.5 6.1%
+31/12/2012} 31/12/2011
+Indebtedness”
+Covenant Net Financial Debt 1,495.2 1,851.8 (19.3%)
+Covenant Net Financial Debt / LTM Covenant EBITDA 1.34x 1.75x
+
+1. Figures adjusted to exclude extraordinary costs related to the IPO.
+
+2. For purposes of comparability, the revenue associated to the IT contract with United Airlines in Q2 2011, as well as certain
+costs of migration that were incurred in relation to this contract, have been reclassified from the Revenue and Other
+operating expenses captions, respectively, to the Other income (expense) caption in the 2011 figures.
+
+3. Excluding after-tax impact of: (i) amortisation of PPA and impairment losses, (ii) changes in fair value of financial
+instruments and non-operating exchange gains / (losses) and (iii) extraordinary items related to the sale of assets and equity
+investments, the debt refinancing and the United Airlines IT contract resolution (in 2011) and the IPO.
+
+4. EPS corresponding to the Adjusted profit for the period from continuing operations attributable to the parent company.
+Calculated based on weighted average outstanding shares for the period.
+
+5. Calculated as EBITDA (including Opodo and the revenue from the United Airlines IT contract resolution in 2011) less capital
+expenditure plus changes in our operating working capital.
+
+6. Based on the definition included in the credit agreements.
+
+
+--- Page 4 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+2 Operating Review
+
+2.1 Key business highlights
+
+From the operating point of view, progress has been made with management focusing on
+the key areas of strengthening our leadership in all of our segments, generating sustainable
+competitive advantages and delivering profitable growth. Our business is continuously
+evolving to best support our clients, and we aim to expand our reach, particularly in our IT
+Solutions business, in order to increase our business opportunities.
+
+The following are some selected business highlights for the year 2012:
+DISTRIBUTION
+Airlines
+
+During the year, Amadeus continued to expand its position in the distribution business and to
+build upon its leading offering, signing content agreements with a significant number of
+airlines, including examples such as Air France KLM, Gulf Air, Korean Air, Malaysian
+Airlines, Virgin Australia, Emirates, Qantas and Delta Air Lines. Many of these renewed
+agreements were expanded to include the sale of ancillary services through Amadeus travel
+agents. With these content agreement signatures, Amadeus continues to deliver on its
+commitment to guarantee access to a comprehensive range of fares, schedules and
+availability for Amadeus’ travel agents. Around 80% of Amadeus bookings worldwide are
+with airlines where a content agreement is in place.
+
+Additionally, global distribution agreements were signed with 13 new airlines, including a
+number of low-cost carriers, making them accessible to travel agencies globally via the
+Amadeus system.
+
+Low-cost carriers (LCCs) continued to be an area of growth and opportunity for Amadeus.
+During the year new distribution contracts were signed with eight LCCs and we worked with
+a strategic partner to deliver an improved connectivity level and workflow integration in order
+to increase low cost carrier adoption in the travel agency channel. Bookings for LCCs from
+travel agencies using Amadeus increased by 14.6% over the full year.
+
+In 2012 we continued to invest significantly in the area of merchandising, with a particular
+focus in the growth area of ancillary services, where we maintain our position as a leader. In
+January, the flagship carrier Finnair implemented the Amadeus Ancillary Services solution to
+allow travel agencies to process preferred seats and excess baggage. Amadeus Ancillary
+Services is an end-to-end solution based on industry standards that helps airlines sell
+additional services using both travel agencies and the airline’s own call centre or website. In
+June, Air France also implemented the solution, followed by airberlin and a number of other
+airlines later in the year. At the close of the year, in total 53 airlines had contracted this
+service. Of these, 24 had opted to implement the service both in the indirect and direct
+channels, and 10 were already implemented and using the Amadeus technology to do so.
+
+
+--- Page 5 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Rail
+
+Expanding the depth and breadth of rail content in the Amadeus system, whilst also
+improving its bookability and functionality, remained a top priority for Amadeus - and 2012
+delivered many successes in this significant growth area. SNCF (Société Nationale des
+Chemins de fer Frangais) became the launch customer for Amadeus Rail Agent Track, a
+state-of-the-art rail booking solution for travel agents which enables agents to access the rail
+company’s schedules and inventory via a ‘single view’ of fares and availability on one
+screen. In addition, Amadeus and SNCF also agreed an extension to their full content
+agreement by which travel sellers have access to all SNCF fares, origins and destinations,
+and products.
+
+A partnership was also announced with Trenitalia, the transport division of the Italian FS
+Group, to distribute Trenitalia content through all Amadeus channels. Travel agents around
+the world are able to book both Trenitalia’s high speed rail products through the existing
+sales channels and through the Amadeus global distribution system, which links travel
+agency points of sale worldwide. Travel agents who use the Amadeus Selling Platform have
+a standardised way to access Trenitalia services, in turn making bookings through an air/rail-
+based search solution, FlyByRail Track, and Amadeus Rail Agent Track.
+
+SJ Swedish Rail, Sweden’s largest rail operator, both extended and expanded its content
+agreement and commercial partnership to make its content also available through additional
+channels integrated into Amadeus’ Global Rail Sales Platform, the rail-specific distribution
+service. For the first time SJ content became available through the offline and online travel
+agency channels using Amadeus Agent Track and Amadeus Web Services Track - as well
+as continuing to be distributed through Amadeus e-Travel Management, which distributes
+rail content through the corporate and travel management companies (TMC) channel.
+
+Hotel
+
+In 2012, Amadeus launched Hotel Optimisation Package, a complete set of services and
+technologies for large travel agencies and travel management companies (TMCs) to
+increase competitiveness, grant efficient access to all relevant hotel content and save
+valuable time for their travel counsellors. The Amadeus Hotel Optimisation Package portfolio
+of solutions is articulated under two areas, Profit Optimisation - to help large travel agencies
+and TMCs save time and have more control over global hotel programmes - and Content
+Optimisation, converting Amadeus into a one-stop-shop for hotel content. GSM Travel
+Management was one of the first clients to work in partnership with Amadeus on LinkHotel,
+part of the Amadeus Hotel Optimisation Package, which actively seeks smaller or
+independent hotels and adds them to the platform, delivering the kind of content that TMC
+customers frequently need.
+
+Amadeus also announced a strategic alliance to distribute Hotel Reservation Services’
+(HRS) hotel content through Amadeus. HRS is the worldwide leading hotel portal for
+corporate customers, and the agreement was a milestone in HRS’ strategy as it was the first
+time the hotel portal made its content available through a global distribution system. Through
+this strategic partnership, Amadeus took a major step forward in its ‘Multisource’ hotel
+
+
+--- Page 6 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+initiative to integrate and distribute hotel content from diverse sources. With the integration
+of HRS, the total hotel inventory available through the Amadeus system exceeded 250,000
+hotels.
+
+Travel Agencies and online travel distribution platforms
+
+Our strategy in North America continued to produce significant results with many high-profile
+developments. Further to Expedia signing a multi-year content and technology agreement
+for North America in April 2012, which provided Expedia with Amadeus’ fare search
+technologies for air travel among other products, as well as access to global travel supplier
+content through the Amadeus system, Expedia's launch on Amadeus during the summer of
+2012 was virtually flawless. Since then Expedia has been ramping up the volumes of
+bookings made on the Amadeus system. Amadeus has been providing services to Expedia
+Inc., which is the largest travel enterprise in the world in terms of air volumes, in over 15
+countries since 2005.
+
+Other highlights in the region also included KAYAK, a leading US-based travel search
+company, signing a multi-year agreement that extended its existing strategic global alliance
+to expand the use of Amadeus’ airline fare and availability technology. The innovative US-
+based metasearch website Hipmunk also selected Amadeus’ advanced technology solutions
+to provide international low fare search and shopping to help assure its users the best online
+experience and speed. Hipmunk will utilise Amadeus Meta Pricer, Amadeus Master Pricer,
+and Amadeus Web Services solutions. Also in the US, Routehappy, the first travel website
+focused on the experience of air travel, selected Amadeus as the provider of its airfare
+pricing and availability information. Routehappy is the first travel website to focus on the
+“experience” of air travel, such as enabling users to find flights based on various factors such
+as plane quality, flight amenities and recent airline ratings provided by real flyers.
+
+Pioneering world leading travel technology solutions for travel agents remained at the
+forefront of Amadeus’ activity. At the PhoCusWright Conference Travel Innovation Summit in
+November Amadeus introduced Amadeus Featured Results™, the first search solution which
+boosts the leisure travellers' purchasing experience by making online travel search simpler
+and more relevant. This works by integrating Business Intelligence data (Bl) into the search
+algorithm, and instantly presenting the top four most relevant, cheapest, fastest and most
+popular recommendations. Vayama, a leading online travel agency that is part of one of the
+biggest online travel companies Travix International, became the first pilot customer to
+implement the beta version.
+
+Elsewhere in the world we continued to consolidate our leading position with deals including
+FCm Travel Solutions, the global corporate travel and expense management specialist,
+renewing its global content agreement for a further five years, meaning Amadeus’ content
+will continue to be available to FCm’s partner network via Amadeus Selling Platform and
+AeTM. A content agreement was also extended with STA Travel, which is a global travel
+organisation that handles six million passengers each year across 29 markets and
+specialises in the student and youth sector. Later in the year Cleartrip, one of India’s leading
+online travel companies, also signed a multi-year technology agreement, based on which
+
+
+--- Page 7 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Amadeus will provide the company with fare search technologies and access to global travel
+content through the Amadeus system.
+
+IT SOLUTIONS
+
+Further growth continued as many leading airlines contracted to the full Amadeus Altéa
+Suite, the fully integrated passenger service system (PSS) for airlines that includes Altéa
+Reservation, Altéa Inventory and Altéa Departure Control System.
+
+EVA Airways, Taiwan’s second largest international airline, announced it had selected the
+full Amadeus Altéa Suite for its passenger management, and also for the international
+passengers of its subsidiary UNI Airways. The airline had been recently accepted onto the
+Star Alliance, for which Amadeus is the preferred IT platform provider. The long-term
+agreement with Amadeus will bring EVA Airways and UNI Airways onto Star's Common IT
+Platform - already used by 64% of Star Alliance members - which offers enhanced customer
+service functionalities, for both sales and airport environments. Garuda Indonesia, the
+national airline of Indonesia, also announced that it will transform its passenger service
+processes with the introduction of the Amadeus Altéa Customer Management Solution to
+manage its domestic and international reservations, inventory and departure control
+processes.
+
+One particularly noteworthy development occurred in April when Southwest Airlines, the
+largest U.S. carrier in terms of domestic passengers boarded and consistently ranked
+number one in customer service by the US Department of Transportation, entered into a
+contract for the Amadeus Altéa Reservation solution to support the carrier’s international
+flights. Whilst the agreement focused on the international element of Southwest's reservation
+system, which will be implemented by 2014, the contract also provided a future option for
+Southwest to convert its domestic business to Amadeus.
+
+Additional signatures for the full Amadeus Altéa Suite included Czech Airlines, which is the
+flagship airline carrier of the Czech Republic and provides connections to 104 destinations in
+44 countries, along with other airlines such as Equatorial Congo Airlines, Izair, Air Céte
+d'lvoire and Air Greenland. Both Mongolian Airlines Group and Ural Airlines announced
+contracts for both the full Amadeus Altéa Suite plus the Amadeus e-Retail online booking
+engine.
+
+In terms of further up selling, a number of existing Altéa users (Aigle Azur, Bulgaria Air,
+Trans Air Congo, AeroSvit - Ukrainian Airlines, Egyptair and its subsidiary Air Sinai)
+completed the full Amadeus Altéa Suite by contracting to use Amadeus Altéa Departure
+Control System.
+
+As of the close of the year, a total number of 121 airlines were contracted for both Altéa
+Reservation and Altéa Inventory, 104 of which were contracted to use the full Altéa Suite, up
+from 92 at the end of 2011. Based upon these contracts, Amadeus estimates that by 2015
+the number of Passengers Boarded (PB) will be more than 800 million, which would
+represent an increase of almost 42% vs. the 564 million PB processed on the Altéa platform
+during 2012 - or a compound annual growth rate (CAGR) of around 12.5%.
+
+
+--- Page 8 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+In addition to these commercial successes, we continue to deliver in the successful
+implementation of contracted clients. Many successful migrations onto the Altéa platform
+were completed during the year. These included Cathay Airlines and its subsidiary
+Dragonair, Scandinavian Airlines and later on in the year Singapore Airlines and its
+subsidiary SilkAir.
+
+IT Solutions also continued to migrate existing Altéa users to the Departure control module,
+including TACA and many of its group airlines, Saudi Arabia, airberlin, Royal Brunei, Qatar
+Airways or Egyptair.
+
+Amadeus also continued to expand its IT product portfolio, with the launch of its new
+Passenger Revenue Accounting solution and the announcement of British Airways as the
+first airline to sign-up for the new solution. The new Revenue Accounting solution is a user-
+friendly, web-based system, which is designed to help airlines increase revenue, reduce
+operational costs, and make revenue decisions faster and more accurately, bringing revenue
+accounting closer to operational functions. In addition, the new solution transforms revenue
+accounting from a labour-intensive task to a fast, flexible strategic function. Later in the year,
+in October, Saudi Arabian Airlines also announced that it had signed-up for Amadeus
+Passenger Revenue Accounting, and will become the first airline to implement it, early in
+2013.
+
+Further contracts were also signed for the Stand alone IT solutions portfolio. These contracts
+included the UK airline bmi, EVA Airways, Iberia Express, and Ural Airlines all signing up for
+Amadeus Ticket Changer (ATC) - whilst airberlin, an existing ATC customer, signed-up for
+the additional ATC Refund module. ATC simplifies the ticket re-issuing process by
+combining the state-of-the-art Amadeus Fares and Pricing engine with a powerful, multi-
+channel ticketing functionality. Qatar Airways also contracted for the Amadeus Affinity
+Shopper solution, which enables airlines to improve their share of the leisure travel market.
+Meanwhile TAP Portugal signed to use Flex Pricer, a solution for airline websites which
+simplifies the customer experience and helps increase yields, and Award Shopper, a
+solution which allows airline customers to redeem air miles / points online. Air China
+implemented two additional advanced technology solutions from the Amadeus e-Commerce
+portfolio, the Amadeus Mobile Solution and German Rail Booking.
+
+Within the Stand alone IT solutions portfolio, 24 further airlines signed up for the use of the
+electronic messaging standard Electronic Miscellaneous Document (EMD). EMD enhances
+ticket services and enables airlines to distribute a wide range of products that help customise
+their journeys, through ancillary services such as excess baggage.
+
+The world’s first interline Electronic Miscellaneous Document (EMD) link was created by
+Amadeus early in the year. This move enabled launch partner airlines Finnair and Star
+Alliance member Egypt Air to grow revenue by facilitating the interline sale of ancillary
+services. Interline EMD processing between Finnair and Egypt Air means their customers
+can now buy ancillary services across interline flights. By the close of the year in total 82
+airlines, including sub-hosted airlines, had contracted Amadeus’ EMD Server and
+
+10
+
+
+--- Page 9 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+approximately 20% of air bookings made through the Amadeus system are the result of
+interline partnerships.
+
+We continued to realise significant opportunities beyond airline IT as our new business
+portfolio expanded both its offering and customer base. In particular 2012 was a very
+successful year for Airport IT, which announced the signatures of further new customers for
+Amadeus Altéa Departure Control System for Ground Handlers. These included Swissport
+International, the world’s leading provider of ground services to the aviation sector, and
+Amadeus’ first Asian customer, SATS, a leading provider of gateway services and food
+solutions in the region. In addition Aviation Handling Services, Billund Airport in Denmark,
+Egyptian Aviation Services (EAS), Groundforce Portugal, Groupe Europe Handling (Europe
+Handling and Sky Handling Partner), and SEA Handling all also signed-up this year.
+Agreements are now in place with 21 ground handlers for the deployment of the solution.
+Altéa Departure Control System for Ground Handlers allows all of the handler’s airline
+customers to benefit from the leading-edge technological capabilities of Altéa DCS’s
+Customer Management and Altéa DCS’s Flight Management services, regardless of
+whether or not the airline uses Altéa. Separately, Altéa Reservation Desktop (ARD) with Map
+Handling was launched in Nice Airport and the service is currently being deployed in eight
+other airports.
+
+Also falling within the new business portfolio, Hotel IT continued its success with Accor, one
+of the world’s leading hotel operators and market leader in Europe, extending its ten-year
+collaboration with Amadeus. The new agreement will achieve a higher adoption rate of
+Amadeus Revenue Management. Amadeus Revenue Management is a web-based solution
+that makes intelligent rate and inventory recommendations to maximise revenue contribution
+and increase profitability.
+
+ADDITIONAL NEWS
+
+In December, once again Amadeus was confirmed as the European leader for R&D in the
+travel and tourism area. Amadeus’ commitment to innovation was recognised in the 2012 EU
+Industrial R&D Investment Scoreboard, an annual report published by the European
+Commission which examines the largest 1,000 European companies investing in R&D
+according to the total amount invested.
+
+In China, Amadeus welcomed the publication of the new Civil Aviation Administration of
+China (CAAC) Computerised Reservation System (CRS) regulations. These are expected to
+bring enhanced global distribution technologies to the Chinese market that can significantly
+benefit the travel industry and consumers in China. These regulations started on October 1,
+2012 and introduce the option for foreign airlines to use global distribution systems to
+distribute their air fares to travel agents in China.
+
+Amadeus debuted on the Dow Jones Sustainability Index (DJSI), within both the DJSI-World
+and DJSI!-Europe indexes. Out of the 57 companies invited to participate in the Support
+Services sector - in which Amadeus is included - only 12 members were ultimately selected
+and Amadeus was ranked as the leader of the sector with a score of 82 points. Amadeus
+achieved the highest scores in a number of categories, including the overall Economic and
+
+11
+
+
+--- Page 10 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Social Dimension of the business, as well as in Environmental Policy/Management System
+or social metrics such as Labour Practice Indicators and Human Rights, and Talent
+Attraction and Retention. Amadeus' ambitions within Corporate Social Responsibility and
+sustainability are to improve gradually and visibly the company’s contribution to society.
+
+In the early summer Amadeus confirmed its commitment to R&D when Hervé Couturier
+became Executive Vice President of Development at Amadeus, heading up Amadeus’
+software development team of more than 4,500 members across 15 different sites
+worldwide. Couturier was previously Executive Vice President of SAP’s Technology Group
+and brings with him 25 years of international software development experience in previous
+high-profile roles, including at IBM and Business Objects.
+
+Earlier in the year the European Investment Bank (EIB), the European Union’s long-term
+financing institution, granted Amadeus a loan of €200 million to finance the research &
+development of a variety of projects in the area of IT solutions between 2012 and 2014.
+
+In relation to its debt structure, Amadeus also announced the signature of a €200 million
+revolving credit facility, via a “club deal” with eleven banks, with a 2.5 year maturity from
+completion date. This facility added further flexibility to Amadeus' financial structure and
+provided additional available liquidity. Taking advantage of its strengthened liquidity position,
+Amadeus used €350 million of existing cash of the Group to partially amortise its outstanding
+bridge loan. The maturity of the remaining €106 million bridge loan was extended until May
+2013.
+
+Also during the year, Standard & Poor’s upgraded its outlook on Amadeus' investment grade
+credit rating from 'stable' to ‘positive’, whilst affirming our BBB-/A3 rating and stating that
+Amadeus had “improved its financial performance beyond our previous expectations”.
+
+At the Shareholders’ General Meeting held on June 21, 2012 our shareholders approved the
+annual dividend for 2011. The total value of the dividend was €165.6 million, representing a
+pay-out of 35.5% of the 2011 consolidated profit for the year from continuing operations
+(excluding extraordinary items related to the IPO), or €0.37 per share (gross). Regarding the
+payment, an interim amount of €0.175 per share (gross) was paid on January 30, 2012 and
+the final dividend of €0.195 per share (gross) was paid in July 27, 2012. During the GSM all
+other agenda items proposed by the Board of Directors were also approved following a vote
+by the shareholders, including the renewal of the appointment of Deloitte as auditors.
+
+Further to the above, the Board of Amadeus IT Holding, S.A., in the meeting held on October
+18, 2012, reviewed the dividend policy of the Company, increasing the proposed pay-out
+ratio to between 40% and 50% of the consolidated profit (excluding extraordinary items),
+compared to the previous policy, fixed in 2010, which consisted of a pay-out ratio of between
+30% and 40%. The new dividend policy, applicable to the period of 2012 and onwards, also
+establishes the payment of an interim dividend related to the results of each financial period.
+In 2013, the Board of directors will submit to the General Shareholders Meeting for approval
+a gross dividend of €0.50 per share, including an interim dividend of €0.25 per share (gross),
+which was paid on January 30, 2013. Based on this, the proposed appropriation of the 2012
+results included in our 2012 audited consolidated financial statements of Amadeus !IT
+
+12
+
+
+--- Page 11 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Holding, S.A. and subsidiaries, includes a total amount of €223.8 million corresponding to
+dividends pertaining to the financial year 2012.
+
+In order to drive our response to growing prospects for travel market intelligence, in February
+Amadeus acquired the Frankfurt-based company airconomy, a small international strategy
+consultancy supplying precise and comprehensive data on passenger demand. Airconomy
+will be run as a separate business incubator to develop ideas for new market intelligence
+products.
+
+Publishing enlightened market research and advanced white papers is central to Amadeus’
+position as a leader in travel technology. During 2012, several reports were produced which
+continue to stimulate and shape debate across the travel industry globally. The following are
+highlights of reports which are available on Amadeus’ website:
+
+Open for business made the case for the travel industry to embrace open source
+software in order to benefit from greater innovation, respond faster to industry and
+consumer change and reduce costs. The report outlined how open systems could free
+the industry from its reliance on proprietary software and provide travel companies
+with a greater competitive advantage.
+
+The Amadeus Review of Ancillary Revenue Results for 2011 was produced by
+Amadeus and the IdeaWorksCompany, the foremost consultancy in the area of airline
+ancillary revenues. Research was based on the financial filings made by 108 airlines
+across the world, 50 of which disclose ancillary revenue activity, to identify the
+ancillary revenue reported by airlines, which grew to €18.2 billion in 2011. This
+represents ancillary revenue growth of 66% in the two years since 2009.
+
+From Chaos to Collaboration examined how transformative technologies and evolving
+social values and trends will combine to establish a new era of collaborative travel
+over the next decade and beyond.
+
+Empowering Inspiration - the future of travel search Amadeus commissioned research
+authority PhoCusWright Inc. to produce a global study to identify the online shopping
+behaviour and future motivations of trend-setting travellers.
+
+Back on Track called on the international rail industry to embrace a shared approach
+to customer IT systems in order to meet the multiple challenges of growing passenger
+numbers, increasing financial pressures and rising customer expectations.
+
+Ahead of the Olympics in London, at the beginning of March Amadeus worked with
+ForwardKeys, a market research and consulting company, to reveal a major growth in
+travel volumes during the London 2012 Olympics based on actual global air
+reservations - and repeated the study later on in May.
+
+Reinventing the Airport Ecosystem identified consumer frustrations with today’s
+airport experience, mapping how airports will re-invent themselves up to 2025, with
+new operating models, driving revenues beyond traditional income streams.
+
+13
+
+
+--- Page 12 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+2.2 Key ongoing R&D projects
+The main R&D investment in 2012 relates to:
+- Existing contracts:
+
+= Migration efforts in relation to Altéa: both some large customers migrating to our
+Departure Control System (15 airlines implemented in 2012 and almost 20 airlines
+scheduled in 2013 only), as well as our pipeline of customers scheduled to migrate
+to our Reservations and Inventory modules in the upcoming years, such as Asiana
+Airlines, Thai Airways, Garuda Indonesia, Korean Air or All Nippon Airways,
+amongst others
+
+= |mplementation of our newly launched Revenue Accounting module, with our initial
+launch clients, up sell activities related to our Standalone IT or e-Commerce
+solutions, DCS for Ground Handlers, launch contracts within our hotel IT division
+
+= Preparation work to migrate travel agencies in Korea from the local reservation
+system, Topas, to the Amadeus platform
+
+- Expansion of the airline IT portfolio, including new modules (revenue accounting, which
+was successfully launched during the year, revenue management, and other potential
+areas of expansion into other airline IT decision-making applications), and the evolution
+of our existing portfolio (ancillary services, payment services, new or improved
+functionalities such as enhanced shopping solutions).
+
+- Investments in the Distribution business (IT applications) focused on:
+
+«Travel agencies: e.g. new generation front office, search engines, shopping and
+booking solutions or ancillary services, specific tools for Travel Management
+companies. Additionally, we have invested in improved access to additional content
+(LCC, hotel, rail) and better integration into the travel agency workflow.
+
+« Airlines: availability, schedules, ancillary services.
+
+= Rail, with the development of the Amadeus Agent Track and FlybyRail initiatives
+(improved distribution systems).
+
+"Corporations: Amadeus e-Travel management, selling interfaces for corporate
+travellers or mobile tools
+
+= Regionalisation investment, with the aim to better adapt part of our product portfolio
+for specific regions.
+
+- Expansion into hotel IT, rail IT and airport IT (including the development of a departure
+control service for ground handlers), where we continue to work with different industry
+partners.
+
+- Ongoing TPF decommissioning, which implies the progressive migration of the
+company’s platform to next-generation technologies such as Linux and Unix (today,
+close to 90% of Amadeus’ software is supported by next-generation open systems,
+which allow for improved efficiency, greater flexibility in terms of the architecture and
+
+14
+
+
+--- Page 13 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+scalability of the platform), and other cross-area technologies such as the Amadeus
+Collaborative Technology (a corporate program built to enhance the Amadeus system
+and which will bring a new technical platform and architecture for a new selling
+platform, shared by our two businesses).
+
+15
+
+
+--- Page 14 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+3 Consolidated financial statements
+
+3.1 Group income statement
+
+Group Income Stateme!
+Figures in million euros
+
+Revenue
+Cost of revenue
+Personnel and related expenses
+Depreciation and amortisation
+Other operating expenses
+Operating income
+Interest income
+Interest expense
+Changes in fair value of financial instruments
+Exchange gains (losses)
+Net financial expense
+Other income (expense)
+Profit before income taxes
+Income taxes
+Profit after taxes
+Share in profit from associates and JVs
+
+Profit for the period from continuing operations
+
+Profit for the period from discontinued operations
+Profit for the period
+
+Key financial metrics
+
+EBITDA
+EBITDA margin (%)
+
+Adjusted profit from continuing operations”
+
+Adjusted EPS from continuing operations (euros)
+
+1. Figures adjusted to exclude extraordinary costs related to the IPO.
+
+677.2 647.6 4.6% 2,910.3 2,707.4 7.5%
+(181.0) (169.2) 7.0% (747.2) (678.3) 10.2%
+(205.5) (191.6) 7.2% (763.9) (680.6) 12.2%
+(84.7) (64.6) 31.1% (273.5) (242.2) 12.9%
+(71.5) (82.6) (13.4%) (287.0) (305.9) (6.2%)
+134.6 139.6 (3.6%) 838.8 800.3 48%
+0.4 0.7 (45.6%) 25 4.6 (45.0%)
+(23.4) (22.6) 3.2% (95.7) (199.8) (52.1%)
+0.1 12 na. 0.1 16.9 na.
+(0.1) 14 na. 0.1 9.9 (98.9%)
+(23.0) (19.4) 18.6% (93.0) (168.5) (44.8%)
+(3.9) (0.6) na. (16.9) 54.6 na.
+107.6 119.6 (10.0%) 728.9 686.4 6.2%
+(38.9) (43.2) (9.9%) (231.5) (218.9) 5.8%
+68.8 76.4 (10.0%) 497.5 467.6 6.4%
+1.2 (1.0) na. 4A (1.6) na.
+69.9 75.5 (7.3%) 501.6 466.0 7.6%
+0.0 0.0 na. 0.0 276.7 na.
+69.9 75.5 (7.3%) 501.6 742.6 (32.5%)
+217.9 203.4 71% 1,107.7 1,039.0 6.6%
+32.2% 31.4%  O.8p.p. 38.1% 38.4% (0.3 p.p.)
+93.8 86.6 8.2% 575.1 487.2 18.0%
+0.21 0.20 7.7% 1.30 1.09 18.7%
+
+2. For purposes of comparability, the revenue associated to the IT contract with United Airlines in Q2 2011, as well as certain
+
+costs of migration that were incurred in relation to this contract, have been reclassified from the Revenue and Other
+operating expenses captions, respectively, to the Other income (expense) caption in the 2011 figures.
+
+3. Excluding after-tax impact of: (i) amortisation of PPA and impairment losses, (ii) changes in fair value of financial
+instruments and non-operating exchange gains / (losses) and (iii) extraordinary items related to the sale of assets and equity
+
+investments, the debt refinancing and the United Airlines IT contract resolution (in 2011) and the IPO.
+
+4. EPS corresponding to the Adjusted profit for the period from continuing operations attributable to the parent company.
+Calculated based on weighted average outstanding shares for the period.
+
+3.1.1. Revenue
+
+Revenue in the fourth quarter of 2012 increased by 4.6%, from €647.6 million to €677.2
+million in 2012. For the full year 2012, revenue increased 7.5%, to €2,910.3 million. Group
+revenue growth was driven by strong underlying growth in both our business lines:
+
+16
+
+
+--- Page 15 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+e Growth of 4.0% in our Distribution business in the fourth quarter of 2012. Revenue for
+the full year increased by €121.6 million, or 5.8%, as a combination of growth in
+booking volume, a positive pricing impact and a slight increase in non booking revenue.
+
+e An increase of 6.5%, in our IT Solutions business in the fourth quarter of 2012. In 2012,
+IT Solutions revenue grew by 13.0%, or €81.4 million. Growth throughout the year was
+driven by a combination of: the increase in IT transactional revenue (both as a result of
+new implementations and organic growth of existing clients) and growth in non-
+transactional revenue.
+
+Both business lines were positively impacted by FX. Excluding FX impact, group revenue for
+the year would have grown by 5.7%.
+
+Cost of revenue
+
+These costs are mainly related to: (i) incentive fees per booking paid to travel agencies, (ii)
+distribution fees per booking paid to those local commercial organisations which are not
+majority owned by Amadeus, (iii) distribution fees paid to Amadeus Altéa customers for
+certain types of air bookings made through their direct sales channels, and (iv) data
+communication expenses relating to the maintenance of our computer network, including
+connection charges.
+
+Cost of revenue increased by 7.0% from €169.2 million in the fourth quarter of 2011 to €181.0
+million in the fourth quarter of 2012. For the full year 2012, cost of revenue amounted to
+€747.2 million, an increase of 10.2% vs. 2011. This increase was mainly driven by the growth
+in volumes in the period and an increase experienced in average unit incentives and
+distribution fees, due to the current competitive environment, as well as business mix
+(different growth rate experienced in different regions or within different types of travel
+agencies). In addition, this cost line was negatively by FX impact (translation of different
+currencies into Euro). Excluding this negative impact, this caption would have grown by 7.4%
+in the year. As a percentage of revenue, cost of revenue in 2012 represented 25.7%, slightly
+higher than the percentage rate registered in 2011 (25.1%).
+
+Personnel and related expenses
+
+Personnel and related expenses increased by 7.2% to €205.5 million in the fourth quarter of
+2012. In the full year 2012, personnel and related expenses amounted to €763.9 million,
+12.2% higher than in 2011, adjusted for extraordinary IPO expenses.
+
+The 12.2% growth in personnel and related expenses in 2012 is the result of:
+e An 9% increase in average FTEs
+e The revision of the salary base as per market conditions on a global basis (+c.3-4%)
+
+e The impact of the EUR depreciation against various currencies (cost base in many sites
+negatively impacted by EUR depreciation) (resulting in c.2 p.p. higher growth rate)
+
+e Other one-off impacts, such as the higher impact from our recurring incentive scheme
+(stronger company performance than initially expected), as well as the reinforcement of
+our management team with the recruitment of industry talent in various areas.
+
+17
+
+
+--- Page 16 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+The increase in average FTEs in the year was driven by:
+
+- The transfer of approx. 500 contractors from our Bangalore development site to our
+permanent staff, resulting in a shift of operating costs from the Other operating
+expenses caption to the Personnel expenses line. Excluding the effect of this shift, our
+average FTEs (excluding contractors) grew by 6.3% vs. 2011. This transfer is a
+strategic decision to reduce costs and increase efficiencies (better management of
+skills and capacity increases). Although savings are expected from 2013 onwards
+driven by a unit cost decrease and a higher efficiency of the site, this move has limited
+impact on our cost base in 2012 as savings are offset by certain one-off costs.
+
+- Reinforcement of our commercial and technical support in geographical areas with
+significant business growth (regionalisation) or areas where a significant business
+opportunity is identified (e.g. North America, Middle East and Asia Pacific).
+
+- The increase in post-implementation teams to support our growing customer base,
+including the provision of new services and local support.
+
+- Higher headcount in our development area in relation to implementation work both in
+IT Solutions and in Distribution, with significant investment devoted to the migration of
+clients that were contracted during 2011 and 2012, such as Thai Airways, Garuda
+Indonesia, Asiana, Korean Air, All Nippon Airways or Southwest in the IT Solutions
+business, and Topas, Expedia, or Kayak in the Distribution business.
+
+- Increase in headcount for new R&D projects (new products and functionalities) and to
+staff our New Businesses area.
+
+Depreciation and Amortisation
+
+D&A increased by 31.1% in the fourth quarter of 2012, or 12.9% in the full year period. This
+increase was mostly driven by a higher amortisation charge, within the Ordinary depreciation
+and amortisation line, as shown in the table below. The increase in amortisation of intangible
+assets is linked to the amortisation of capitalised expenses in our balance sheet, once the
+associated product / contract start generating revenues.
+
+In addition, we registered certain impairment losses in the last quarter of the year, in relation
+to a short list of projects where a reassessment of the business case delivered lower
+recoverable amounts than initially expected, or in relation to products that were developed for
+airlines that went into bankruptcy during the year.
+
+Depreciation and Amortisation
+Figures in million euros
+
+Ordinary depreciation and amortisation (54.1) (45.2) 19.6% (188.1) (168.7) 11.5%
+Amortisation derived from PPA (17.8) (17.8) 0.0% (71.0) (71.0) 0.0%
+Impairments (12.8) (1.6) ___ 707.0% (14.4) (2.5) 466.7%
+Depreciation and amortisation (84.7) (64.6) 34.1% (273.5) (242.2) 12.9%
+Depreciation and amortisation capitalised” 14 08 72.9% 46 3.6 29.2%
+Depreciation and amortisation post-capitalisations (83.3) (63.8) 30.6% (268.8) (238.6) 12.7%
+
+Included within the Other operating expenses caption in the Group Income Statement
+
+18
+
+
+--- Page 17 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Other Operating Expenses
+
+Other operating expenses decreased by 13.4% to €71.5 million in the fourth quarter of 2012.
+For the full year period, Other operating expenses declined by €18.9 million or 6.2%.
+
+This decrease is mainly explained by the shift of operating costs from Other operating
+expenses to Personnel expenses. As discussed earlier, close to 500 contractors in our
+development centre in Bangalore were hired as permanent staff during the period.
+
+On a net basis, personnel and other operating expenses increased by 6.5% in 2012:
+
+Personnel expenses + Other operating expenses
+Figures in million euros
+
+Personnel expenses + Other operating expenses (277.0) (274.3) 1.0% (1,050.8) (986.5) 6.5%
+
+R&D Expenditure
+
+As a leading and differentiated technology provider for the travel industry, Amadeus
+undertakes significant R&D activities, which are the main driver for growth. Our investment in
+R&D can be classified in various categories, including customer implementations, portfolio
+expansion / product evolution, diversification into non-air IT and internal technological
+projects.
+
+In the fourth quarter of 2012, total R&D expenditure (including both capitalised and non-
+capitalised expenses) increased by 36.5% vs. the same period in 2011. Total R&D for the
+year amounted to €414.1 million, 20.2% higher than in 2011. As a percentage of revenue,
+R&D costs amounted to 14.2% in 2012, above the level of 12.7% in 2011.
+
+This increase in R&D expenditure in 2012 reflects, amongst others:
+
+i. Higher investment carried out as a result of the high level activity in terms of ongoing
+projects mainly under the IT solutions area (scheduled migrations, ongoing portfolio
+expansion or product evolution initiatives, such as ancillary services, mobile platform,
+availability control)
+
+ii. Additional investment in new projects or new initiatives such as the new business areas
+
+iii. An increase in cost due to the addition of new development sites, set up locally in certain
+strategic geographies (e.g.: Korea, Dubai) or specifically for new competencies (e.g.:
+Airport IT); increased efforts in already existing sites such as London, due to the
+Revenue Accounting signature of British Airways
+
+iv. Ongoing investment in the TPF reengineering and increased efforts on system
+performance to sustain the highest possible reliability and service levels to our client
+base
+
+19
+
+
+--- Page 18 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+R&D Expendi
+Figures in million euros
+
+R&D expenditure” 125.7 92.1 36.5% 414.1 344.4 20.2%
+
+R&D as a % of Revenue 18.6% 14.2% 4.3 p.p. 14.2% 12.7% 1.5 p.p.
+* Figures adjusted to exclude extraordinary costs related to the IPO
+
+2 Net of Research Tax Credit and EIB adjustment
+
+3.1.2 Operating income
+
+Operating Income for 2012, excluding the impact of extraordinary IPO costs (see pages 36
+and 37) amounted to €838.8 million, €38.5 million or 4.8% higher than in 2011. The increase
+was driven by revenue growth in both business lines, partially offset by an increase in the
+indirect costs line and higher D&A and impairment charges.
+
+In the fourth quarter of 2012, operating income decreased by 3.6% or €5.0 million, driven by
+higher D&A expense and the above mentioned impairments.
+
+EBITDA
+
+EBITDA amounted to €217.9 million in the fourth quarter of 2012, representing a 7.1%
+increase vs. the fourth quarter of 2011. For the full year, EBITDA increased by 6.6%, from
+€1,039.0 million in 2011 to €1,107.7 million in 2012.
+
+As a percentage of revenue, EBITDA margin in 2012 was 38.1%, slightly reduced from
+38.4% in 2011, as a result of the negative FX impact. Excluding such impact, EBITDA margin
+would have been 38.4%, in line with prior year.
+
+The table below shows the reconciliation between Operating income and EBITDA.
+
+EBITDA
+Figures in million euros
+
+Operating income 134.6 139.6 (3.6%) 838.8 800.3 4.8%
+Depreciation and amortisation 84.7 64.6 31.1% 273.5 242.2 12.9%
+Depreciation and amortisation capitalised (1.4) (0.8) 72.9% (4.6) (3.6) 29.2%
+EBITDA 217.9 203.4 7.1% 1,107.7 1,039.0 6.6%
+EBITDA margin (%) 32.2% 31.4% O0.8p.p. 38.1% 38.4% (0.3 pp.)
+
+Figures adjusted to exclude extraordinary costs related to the IPO.
+For purposes of comparability, the revenue associated to the IT contract with United Airlines in Q2 2011, as well as certain
+
+costs of migration that were incurred in relation to this contract, have been reclassified from the Revenue and Other operating
+expenses captions, respectively, to the Other income (expense) caption in the 2011 figures.
+
+3.1.3. Net financial expense
+
+Net financial expense increased by 18.6% in the fourth quarter of 2012, from €19.4 million in
+2011 to €23.0 million in the fourth quarter of 2012. This increase is related to the fact that
+results from exchange gains and Change in fair value of financial instruments were neutral in
+2012, as opposed to a significant income registered in 2011.
+
+20
+
+
+--- Page 19 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+For the full year period, and adjusting the 2011 figure for €37.0 million one-off costs*, net
+financial expense decreased by 29.2% or €38.5 million to €93 million. This decrease is
+explained by (i) the lower amount of average gross debt outstanding, after debt repayments
+in 2011 and 2012 and (ii) a lower average interest paid on the new financing package
+(unsecured senior credit agreement signed in May 2011, bond issuance in July 2011 and
+loan received from EIB in May 2012). This significant decrease is partially offset by the
+exchange gains registered in 2011 as well as significant income from Change in fair value of
+financial instruments also in 2011 (as opposed to neutral contribution from both items in
+2012).
+
+Net financial expense
+Figures in million euros
+
+Net financial expense (23.0) (19.4) 18.6% (93.0) (168.5) (44.8%)
+
+Net financial expense (excluding the impact of
+extraordinary deferred financing fees in 2011) (23.0) (19.4) 18.6% (93.0) (131.5) (29.2%)
+
+3.1.4 Income taxes
+
+Income taxes for the full year 2012 amounted to €231.5 vs. €218.9 million for 2011 (excluding
+the impact of extraordinary IPO costs). The income tax rate for 2012 was 31.8%. Average
+effective corporate tax rate has increased as a result of recent changes in corporate tax
+regulations in France.
+
+3.1.5 Share in profit / (losses) from associates and JVs
+
+Share in profit from associates and JVs amounted €1.2 million in the fourth quarter of 2012
+and €4.1 million for the full year. This is mainly related to the positive contribution from certain
+non-fully owned ACOs, with an important contribution from Amadeus Tunisia and Amadeus
+Saudi Arabia.
+
+3.1.6 Profit for the period from continuing operations
+
+As a result of the above, profit from continuing operations for the fourth quarter of 2012
+(adjusted for extraordinary IPO costs) amounted to €69.9 million, a decrease of 7.3% vs. a
+profit of €75.5 million in the fourth quarter of 2011.
+
+For the full year, profit from continuing operations increased by 7.6% to €501.6 million.
+
+3 In relation to the debt incurred in 2005 and its subsequent refinancing in 2007, certain deferred financing fees were generated
+and capitalised; following the cancellation of debt that took place as part of the debt refinancing process in May 2011, these
+deferred financing fees were expensed in the second quarter of 2011 and are included under “Net financial expense”.
+
+21
+
+
+--- Page 20 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+3.2 Statement of financial position (condensed)
+
+Tangible assets 299.4 282.3
+Intangible assets 1,879.0 1,778.4
+Goodwill 2,065.4 2,070.7
+Other non-current assets 140.0 107.6
+Non-current assets 4,383.9 4,239.0
+Current assets 371.7 412.1
+Cash and equivalents 399.9 393.2
+Total assets 5,155.4 5,044.3
+Equity 1,531.4 1,266.2
+Non-current debt 1,541.3 2,015.1
+Other non-current liabilities 871.0 745.0
+Non-current liabilities 2,412.2 2,760.1
+Current debt 353.3 226.5
+Other current liabilities 858.5 791.6
+Current liabilities 1,211.8 1,018.0
+Total lial ‘ies and equity 5,155.4 5,044.3
+
+Net financial debt 1,494.7 1,848.4
+
+3.2.1 Tangible assets
+
+This caption principally includes land and buildings, data processing hardware and software,
+and other tangible assets such as building installations, furniture and fittings and
+miscellaneous.
+
+Capital expenditure in tangible assets in 2012 amounted to €55.8 million, as described in
+table below.
+
+3.2.2 Intangible assets
+
+This caption principally includes (i) the net cost of acquisition or development and (ii) the
+excess purchase price allocated to patents, trademarks and licenses‘, technology and
+content® and contractual relationships®. Following the acquisition of Amadeus IT Group, S.A.
+(the former listed company) by Amadeus IT Holding, S.A. (the current listed company,
+
+4 Net cost of acquiring brands and trademarks (either by means of business combinations or in separate acquisitions) as well as
+the net cost of acquiring software licenses developed outside the Group for Distribution and IT Solutions
+Net cost of acquiring technology software and travel content either by means of acquisitions through business combinations /
+separate acquisitions or internally generated (software applications developed by the Group, including the development
+technology of the IT solutions business). Travel content is obtained by Amadeus through its relationships with travel providers
+8 Net cost of contractual relationships with travel agencies and with users, as acquired through business combinations, as well
+as costs subject to capitalisations, related to travel agency incentives, that can be recognised as an asset
+
+22
+
+
+--- Page 21 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+formerly known as WAM Acquisition, S.A.) in 2005, the excess purchase price derived from
+the business combination between them was partially allocated (purchase price allocation
+(“PPA”) exercise) to intangible assets. The intangible assets identified for the purposes of our
+PPA exercise in 2005 are amortised on a straight-line basis over the useful life of each asset
+and the amortisation charge is recorded in our P&L. The amortisation charge attributable to
+PPA amounted to €17.8 million in the fourth quarter of 2012 and €71.0 million in the full year
+2012.
+
+Capital expenditure in intangible assets in 2012 amounted to €293.1 million, as described in
+table 4 below.
+
+CAPEX
+
+The table below details the capital expenditure in the period, both in tangible and intangible
+assets. Based on the nature of our investments in tangible assets, the figures may show
+variations on a quarterly basis, depending on the timing on certain investments. The same
+applies to our investments in contractual relationships (as described above, included within
+intangible assets) where payments to travel agencies or other users may take place in
+different periods, based on the timing of the renegotiations.
+
+Total Capex in the fourth quarter of 2012 amounted to €112.2 million, 37.9% higher than in
+the same period of 2011. This increase in capex was driven by (i) €10.3 million higher
+investment in tangible assets in the period, explained by the timing of payments related to
+certain hardware acquisitions (and related software applications required to operate the
+hardware) linked to some contracts wins during the year, as well as works in a number of
+sites to provide for required expansion in office space, and (ii) a €20.5 million or 30.3%
+increase in investment in intangible assets, driven mainly by the increase in software
+capitalisations derived from the increased R&D activity.
+
+For the full year 2012, the growth in capital expenditure is driven by the above mentioned
+ramp-up in investment in the fourth quarter of the year, both in tangible assets and in
+intangible assets. The higher amount of capitalised R&D during the period (both direct and
+indirect capitalisations as described elsewhere in this document), as a result of the increased
+R&D, is partially offset by a lower level of signing bonuses paid to travel agencies in the year
+as opposed to 2011 (signing bonus paid in relation to the 10 year distribution agreement
+signed with the entity resulting from the merger of GoVoyages, eDreams and Opodo).
+
+Capital Expenditure
+Figures in million euros
+
+Capital expenditure in tangible assets 23.7 13.4 76.8% 55.8 44.3 26.0%
+Capital expenditure in intangible assets 88.5 68.0 30.3% 293.1 268.4 9.2%
+Capital expenditure 112.2 81.3 37.9% 348.9 312.7 11.6%
+As % of Revenue 16.6% 12.6% 4.0 p.p. 12.0% 11.5% OA pp.
+
+23
+
+
+--- Page 22 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+As a % of revenue, total capex represented 12.0% of revenue vs. 11.5% in 2011. This
+increase is explained by the important number of ongoing projects related to future revenue
+opportunities.
+
+3.2.3 Goodwill
+
+Goodwill mainly relates to the unallocated amount of €2,065.4 million of the excess purchase
+price derived from the business combination between Amadeus IT Holding, S.A. (the current
+listed company, formerly known as WAM Acquisition, S.A.) and Amadeus IT Group, S.A. (the
+former listed company), following the acquisition of Amadeus IT Group, S.A. by Amadeus IT
+Holding, S.A. in 2005.
+
+3.2.4 Equity. Share capital
+
+As of December 31, 2012 the share capital of our Company was represented by 447,581,950
+shares with a nominal value of €0.01 per share.
+
+For information in relation to dividend payments, see section 5.3 “Dividend payment and
+dividend policy’.
+
+3.2.5 Financial indebtedness
+
+As described below, the net financial debt as per the existing financial covenants’ terms
+amounted to €1,495.2 million at December 31, 2012, a reduction of €356.7 million vs.
+December 31, 2011, thanks to the free cash flow generated during the period and after (i)
+payment of the 2011 dividend, in a total amount of €164.5 million and (ii) the acquisition of
+
+treasury shares to cover future delivery of shares to employees in relation to management
+shared-based incentive schemes.
+
+During the period, the following changes to our capital structure took place:
+
+e Partial amortisation of the bank financing (tranche A of the senior credit facility), as
+agreed in the senior credit agreement.
+
+e Partial repayment of the bridge loan (tranche B of the senior credit facility) by an amount
+of €350 million.
+
+e The European Investment Bank granted Amadeus a loan by an amount of €200 million to
+finance R&D activities.
+
+e New revolving credit facility in an amount of €200 million, which remained undrawn at
+December 31, 2012.
+
+e Cancellation of the financial leases related to our data centre facilities and refinancing
+with a new mortgage loan (notional value of €62 million)
+
+24
+
+
+--- Page 23 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Indebtness
+
+Senior Loan (EUR) 490.8 951.9
+Senior Loan (USD) 361.5 442.3
+Long term bonds 750.0 750.0
+EIB loan 200.0 0.0
+Other debt with financial institutions 72.7 9.8
+Obligations under finance leases 20.1 775
+Guarantees 0.0 13.6
+Covenant Financial Debt 1,895.0 2,245.0
+Cash and cash equivalents 399.9) 393.2)
+Covenant Net Financial Debt 1,495.2 1,851.8
+Covenant Net Financial Debt / LTM Covenant EBITDA” 1.34x 1.75x
+
+Reconciliation with financial statements
+
+Net financial debt (as per financial statements) 1,494.7 1,848.4
+Interest payable (21.2) (26.1)
+Guarantees 0.0 13.6
+Deferred financing fees 11.8 16.0
+EIB loan adjustment 9.9
+
+Covenant Net Financial Debt
+
+1 Based on the definition included in the senior credit agreement.
+
+2 The outstanding balances denominated in USD have been converted into EUR using the USD / EUR exchange rate of 1.2939
+and 1.3194 (official rate published by the ECB on Dec 31, 2011 and Dec 31, 2012, respectively).
+
+3 LTM Covenant EBITDA as defined in the senior credit agreements.
+
+Reconciliation with net financial debt as per our financial statements
+
+Under the covenant terms, Covenant Financial Debt (i) does not include the accrued interest
+payable (€21.2 million at December 31, 2012) which is treated as debt in our financial
+statements, (ii) is calculated based on its nominal value, while in our financial statements our
+financial debt is measured at amortised cost, i.e., after deducting the deferred financing fees
+(that correspond mainly to fees paid upfront in connection with the set-up of new credit
+agreements and amount to €11.8 million at December 31, 2012) and (iii) does not include an
+adjustment for the difference between the nominal value of the loan granted by the EIB at
+below-market interest rate and its fair value (€9.9 million at December 31, 2012).
+
+25
+
+
+--- Page 24 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+USD denominated debt
+
+In line with our company policy of minimising our financial risks, part of our financial debt is
+denominated in USD, in order to hedge our exposure to FX movements in the EUR-USD
+exchange rate. As of December 31, 2012, we had USD 477 million bank debt, which is
+serviced with the cash flow generated in USD. Therefore, both the interest and the principal
+of the USD denominated debt are providing an economic hedge of the operating cash flows
+generated in that currency.
+
+Hedging arrangements
+
+Based on the current debt structure, 45% of our total covenant financial debt is subject to
+floating interest rates, indexed to the EURIBOR or the USD LIBOR, while 55% of our debt
+has a fixed cost and is therefore not subject to interest rate risk. However, we use hedging
+arrangements to limit our exposure to movements in the underlying interest rates. Under
+these arrangements, 92% of our euro-denominated gross debt subject to floating interest
+rates has its base interest rate fixed until June 2014 at an average rate of 1.9%, and 82% of
+our USD-denominated gross debt subject to floating interest rates has its base interest rate
+fixed for the same period at an average rate of 1.2%. In total, in the aforementioned period,
+94% of our total covenant financial debt will accrue fixed interest.
+
+Split of covenant financial debt
+
+Debt under fixed interest rates 94.0% 84%
+Debt under floating interest rates 6.0% 16%
+
+1. Includes debt subject to floating interest rates which has been fixed through hedging arrangements
+
+26
+
+
+--- Page 25 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+3.3. Group cash flow
+
+Consolidated Statement of Cash Flows
+Figures in million euros
+
+EBITDA (excluding Opodo) 2179 203.4 71% 1,107.7 1,039.0 6.6%
+EBITDA Opodo and collection from United Airlines” 0.0 0.0 na. 0.0 64.1 na.
+Change in working capital 88.8 6.8  1,206.5% 101.3 20.0 405.2%
+Capital expenditure (112.2) (81.3) 37.9% (348.9) (312.7) 11.6%
+Pre-tax operating cash flow 194.5, 128.8 50.9% 860.1 810.5 6.1%
+Taxes (94.3) (81.3) na (194.3) (123.3) 57.7%
+Equity investments (0.3) (7.1) (95.5%) (11.6) 399.2 na.
+Non operating cash flows 07 14 na. 44 (4.3) na.
+Cash flow from extraordinary items 0.2 (0.4) na. (22.5) (19.5) 15.6%
+Cash flow 100.8 A12 144.8% 635.7 1,062.6 (40.2%)
+Interest and financial fees paid (11.9) (9.0) 32.1% (90.2) (199.7) (64.8%)
+Debt payment (79.7) (6.7) 1,094.8% (372.5) (886.2) (58.0%)
+Cash to shareholders (0.0) (0.0) (69.5%) (197.4) (134.3) 46.9%
+Other financial flows 0.0 0.0 na. 30.9 0.0 na.
+Change in cash 9.2 25.5 (64.0%) 6.6 (157.7) (104.2%)
+
+Cash and cash equivalents, net °
+
+Opening balance 390.2 367.5 6.2% 393.0 550.7 (28.6%)
+Closing balance 399.4 393.0 1.6% 399.4 393.0 1.6%
+1. Figures adjusted to exclude extraordinary costs related to the IPO.
+
+2. Includes the payment from United Airlines to Amadeus for the IT contract resolution in 2011.
+3. Cash and cash equivalents are presented net of overdraft bank accounts
+
+3.3.1. Change in working capital
+
+Amadeus typically works on negative working capital (i.e. cash inflows), driven by the fact
+that Amadeus collects payments from most airlines (more than 80% of our group collections)
+through IATA, ICH and ACH, with an average collection period of just over one month, whilst
+payments to providers and suppliers are made on average over a significantly longer period.
+
+Cash inflow in 2012 was higher than in 2011, mainly driven by (i) a higher amount of
+payables, as a result of some provisions and some delays in payments, (ii) the collection of
+some revenues which will be recorded in the income statement during the life of the
+associated contract and (iii) the negative effect that factoring had in 2011 figures, as opposed
+to a positive effect in 2012.
+
+3.3.2 Capital expenditure
+
+Capital expenditure increased by €36.2 million in 2012, driven by higher investment in
+tangible and intangible assets during the year. This increase was mainly related to the
+increase in software capitalisations as a result of higher R&D activity during the year and an
+increase in hardware and software for our data centre in Erding.
+
+27
+
+
+--- Page 26 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+3.3.3. Pre-tax operating cash flow
+
+Pre-tax operating cash flow in the fourth quarter of 2012 amounted to €194.5 million
+(excluding extraordinary IPO costs), or €65.7 million above that of the same period of 2011.
+For the full year, Pre-tax operating cash flow amounted to €860.1 million vs. €810.5 million in
+2011. This increase was driven by the growth in EBITDA and the higher cash inflow from
+change in working capital, partially offset by an increase in capex in the year.
+
+3.3.4 Taxes
+
+Taxes paid in the fourth quarter of 2012 amounted to €94.3 million, compared to €81.3 million
+in the same period in 2011. For the full year 2012, tax payments amounted to €194.3 million,
+compared to €123.3 million in 2011. This increase is mainly explained by the extraordinary
+IPO expenses which significantly reduced the cash tax paid in 2011. In addition, there have
+been certain changes in tax regulations, mainly in Spain, which affect the timing of tax
+payments and/or prepayments.
+
+3.3.5 Equity investments
+
+Equity investments amounted to €11.6 million in 2012. This cash outflow mainly corresponds
+to payments in relation to the acquisition of Airconomy and the purchase of the remaining
+stake of the French ACO to Club Mediteranee, as well as certain payments related to the
+Opodo sale, which were made effective at the beginning of the year.
+
+3.3.6 Cash flow from extraordinary items
+
+Extraordinary items in 2012 and 2011 are mostly related to a partial cash payment to
+employees, in relation to the Value Sharing Plan incentive, an extraordinary incentive plan
+that was released at the time of the IPO, and which was payable in May 2011 and May 2012.
+
+3.3.7 Interest and financial fees received / (paid)
+
+Interest payments under our debt arrangements fell by 54.8% in 2012. This significant
+decrease is due to the lower amount of debt outstanding after debt repayments in 2011 and
+2012, as well as the lower cost of debt after the debt refinancing. Interest payments in the
+fourth quarter increased by €2.9 million (32.1%) due to a different timing of interest
+payments.
+
+28
+
+
+--- Page 27 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+4 Segment reporting
+4.1 Distribution
+
+KPI
+
+GDS Industry change 1.2% 2.2%
+
+Air TA market share 38.6% 37.7% 0.9 p.p.
+Air TA bookings (m) 416.5 402.4 3.5%
+Non air bookings (m) 60.7 61.4 (1.1%)
+Total bookings (m) 477.2 463.8 2.9%
+
+Profit & Loss
+
+Revenue 2,201.0 2,079.4 5.8%
+Operating costs (1,277.9) (1,173.6) 8.9%
+Direct capitalisations 51.5 44.6 15.7%
+Net operating costs (1,226.4) (1,129.0) 8.6%
+Contribution 974.6 950.4 2.5%
+As % of Revenue 44.3% 45.7% (1.4 p.p.)
+
+1 Figures adjusted to exclude extraordinary costs related to the IPO
+
+The core offering of our Distribution business is our reservations platform. It provides a global
+network that connects travel providers, such as full service and low-cost airlines, hotels, rail
+operators, cruise and ferry operators, car rental companies, tour operators and insurance
+companies, with online and offline travel agencies, facilitating the distribution of travel
+products and services (sometimes referred to as the “indirect channel”). We also offer
+technology solutions, such as desktop and e-commerce platforms and mid- and back-office
+systems to some of our travel agency customers.
+
+Our Distribution business continued to grow during 2012, despite the weakness in the
+distribution industry, driven by our market share gains, leading to a 2.9% booking volume
+growth, and the strength in average pricing. As a result of the above, our revenue increased
+by 5.8% in the year. Our contribution margin in 2012 was 44.3%, a decrease vs. 2011 as per
+the outlook provided at the beginning of the year.
+
+4.1.1 Evolution of KPI
+
+As shown in the table below, during the fourth quarter of 2012, the volume of air bookings
+processed through travel agencies connected to Amadeus increased by 2.2%, mainly as a
+result of the increase of 1.0 p.p. in Amadeus’ market share, as industry growth was flat in the
+
+29
+
+
+--- Page 28 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+period. For the full year 2012, our air bookings grew 3.5% and our market share’ gain was
+0.9 p.p.
+
+Distribution
+Figures in million euros
+
+KPI
+
+GDS Industry change 0.1% 2.0% 1.2% 2.2%
+
+Air TA market share 40.2% 39.2% 1.0 p.p. 38.6% 37.7% 0.9 p.p.
+Air TA bookings (m) 96.8 94.7 2.2% 416.5 402.4 3.5%
+Non air bookings (m) 14.6 15.0 (2.3%) 60.7 61.4 (1.1%)
+Total bookings (m) 111.4 109.7 1.6% 477.2 463.8 2.9%
+
+Distribution Industry
+
+Following similar trends as in the third quarter of the year, industry growth in the fourth
+quarter of 2012 was only 0.1%. However, this negative performance was mainly driven by
+North America, Western Europe and India, which delivered negative growth (-2 to -3% in NA
+and WE, -17% in India). On the other hand, the remaining markets are still growing mid to
+high single digit.
+
+For the full year 2012, the industry increased a modest 1.2%, supported by a strong first half
+of the year which was followed by an important slowdown during the second half, driven
+generally by the macro environment. More specifically, some important factors affecting the
+industry in 2012 include: (i) the negative performance experienced in the US, (ii) the one-off
+events in India, Spain and Hungary, with the cessation of operations of one of the country’s
+main full service carrier, whose traffic was taken over partially or totally by LCCs which are
+not currently distributed through travel agencies, (iii) higher levels of disintermediation
+experienced in some countries in Asia as a result of the success of certain low cost carriers
+and (iv) the weakness in corporate travel, the bulk of which is managed by travel agencies.
+These negative factors were partially offset by a strong performance in Latin America, MEA
+and CESE.
+
+Amadeus
+
+Our air TA bookings increased by 2.2% in the fourth quarter of 2012. For the full year 2012,
+Amadeus air TA bookings increased 3.5%, a slowdown vs. 2011, driven by the moderate
+industry growth. However, Amadeus continued to outperform the industry, due to our market
+share increase. As of December 31, 2012 our global market share was 38.6%, 0.9 p.p. higher
+than that of 2011.
+
+7 Market share is calculated based on the total volume of travel agency air bookings processed by the global or regional CRS.
+Excludes air bookings made through in-house or single country operators, primarily in China, Japan, South Korea and Russia.
+Also excludes bookings of other types of travel products, such as hotel rooms, car rentals and train tickets
+
+30
+
+
+--- Page 29 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Other than Western Europe, where we have had a negative region mix effect, all geographic
+regions contributed positively to our market share increase. Indeed in 2012 region mix
+contribution was lower than in 2011, as a result of the strong industry underperformance in
+Western Europe and India (where Amadeus has a very large presence), and was mainly
+driven by our exposure to CESE, Latin America and Middle East and Africa, all of which
+performed strongly in the year. Bookings from Western Europe are still the largest as % of
+total, representing 45.3% over our total air bookings, down from 47.4% in 2011 as a result of
+the underperformance experienced in the year.
+
+Amadeus TA Bookings
+
+Figures in million
+
+Western Europe 188.7 45.3% 190.6 474% (1.0%)
+Asia & Pacific 58.1 14.0% 57.1 14.2% 1.8%
+Middle East and Africa 56.4 13.5% 49.8 12.4% 13.2%
+CESE 43.5 10.4% 40.5 10.1% 7.5%
+North America 38.6 9.3% 37.1 9.2% 3.8%
+Latin America 31.3 7.5% 27.3 6.8% 14.5%
+Total Air TA Bookings 416.5 100.0% 402.4 100.0% 3.5%
+
+With regard to non-air distribution, bookings for 2012 decreased by 1.1% to 60.7 million vs.
+61.4 million in 2011, mainly driven by the decrease in rail bookings and despite an increase
+in hotel bookings, which continue to perform well. Certain weakness was also observed in
+bookings of tour operators.
+
+4.1.2 Revenue
+
+Our Distribution revenue increased by 4.0% in the fourth quarter of 2012 to €510.5 million.
+This increase was primarily driven by the growth in air bookings, as detailed above, along
+with an improvement in the unit booking revenue in the quarter due to the positive FX impact.
+
+In 2012, total Distribution revenue was 5.8% higher than in 2011. This increase was driven by
+growth both in booking revenue (+6.6%) and in non-booking revenue (+1.5%):
+
+e Booking revenue: 6.6% increase, driven by a combination of volume growth (2.9%
+increase in total bookings) and positive pricing impact (an increase of 3.6% in our unit
+booking fee due to the favourable booking mix, positive impact from recent renewals and
+positive FX impact).
+
+e Non booking revenue: 1.5% increase in 2012, related to the strong contribution from
+revenues from travel agencies (growth in products and services sold to travel agencies,
+such as availability and shopping tools, web services or our corporate booking tool,
+Amadeus eTravel Management), a_ positive performance of our subsidiary
+Traveltainment in the leisure business and the contribution from the recent contract
+signed with Kayak in the US. In addition, we also have a positive impact derived from
+certain of our hedging instruments.
+
+31
+
+
+--- Page 30 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Figures in million euros
+
+Booking revenue 1,885.6 1,768.6 6.6%
+Non booking revenue 315.4 310.8 1.5%
+Revenue 2,201.0 2,079.4 5.8%
+Average fee per booking (air and non-air)” 3.95 3.81 3.6%
+
+1. Represents our booking revenue divided by the total number of air and non-air bookings
+4.1.3 Contribution
+
+The contribution of our Distribution business is calculated after deducting from our revenue
+those operating costs which can be directly allocated to the business (variable costs, mainly
+related to distribution fees and incentives, and those product development, marketing and
+commercial costs which are directly attributable to each business).
+
+The contribution of our Distribution business increased by 2.5% for 2012, leading to a total
+contribution of €974.6 million in 2012 vs. €950.4 million in 2011. As a percentage of revenue,
+this represents 44.3%, a decline vs. 45.7% in 2011, as expected by management based on
+the industry dynamics, including higher incentive payments, as well as a significant number
+of commercial successes, leading to short term increase in costs. R&D expenditure also
+increased in the year.
+
+Finally, it should also be noted that our margins were negatively affected by the FX evolution,
+which positively affected our revenue (as discussed above) but negatively impacted our cost
+base, leading to a slightly better contribution figure, in absolute terms, but a lower
+contribution margin, as % of revenue.
+
+Operating costs in 2012 increased by 8.9%, as a result of:
+
+- The increase in our booking volumes (2.9% increase in total travel agency bookings,
+or 3.5% increase in air bookings)
+
+- Increase in our average unit incentive fees, paid to travel agencies, driven by a
+combination of the tougher competitive environment and the mix of travel agencies
+originating our bookings, with significant growth in the online segment.
+
+- As described in the R&D caption, development activities in the distribution business in
+the period include: (i) new products and applications for travel agencies, airlines, and
+corporations to provide sophisticated booking and search engines (e.g. Amadeus
+Meta Pricer) and our e-Travel management tool for corporations (e.g.: launch of the
+new UI, and its mobile booking app, Amadeus e-Travel Management Mobile), (ii)
+regionalisation efforts, (iii) increased investment in relation to hotel and rail distribution
+(e.g.: Rail Agent Track, a new rail-based search solution, designed exclusively for rail
+services or the FlyByRail functionality)
+
+- Commercial expenses related to new client wins and the increased activity in the
+regions
+
+32
+
+
+--- Page 31 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+- Negative impact of the EUR depreciation in our cost base.
+
+4.2 IT Solutions
+
+IT Solutions
+Figures in millions
+
+KPI
+Passengers Boarded (PB) (m) 563.8 439.1 28.4%
+Airlines migrated (as of December 31) 109 100
+
+Profit & Loss
+
+Revenue 709.4 628.0 13.0%
+Operating costs (331.3) (263.8) 25.6%
+Direct capitalisations 141.2 91.8 53.9%
+Net operating costs (190.1) (172.1) 10.5%
+Contribution 519.3 455.9 13.9%
+As % of Revenue 73.2% 72.6% 0.6 p.p.
+
+‘_ Figures adjusted to exclude extraordinary costs related to the IPO
+
+2 For purposes of comparability, the revenue associated to the IT contract with United Airlines in Q2 2011, as well as certain
+costs of migration that were incurred in relation to this contract, have been reclassified from the Revenue and Other operating
+expenses captions, respectively, to the Other income (expense) caption in the 2011 figures.
+
+Through our IT Solutions business we provide a comprehensive portfolio of technology
+solutions that automate certain mission-critical business processes, such as reservations,
+inventory management and other operational processes for travel providers (mainly airlines),
+as well as providing direct distribution technologies.
+
+Revenue from IT Solutions accelerated its growth in 2012 to 13.0%. This increase was driven
+both by IT Transactional revenue growth, fuelled by growth in PB volumes, together with an
+improvement in non-transactional revenue.
+
+Contribution margin continues to benefit from certain operational leverage and is 73.2% for
+2012 vs. 72.6% for 2011, despite the negative FX impact on margins. During the year, we
+have continued to invest significantly, not only in preparation for the migrations of 2013 and
+2014, but also in the new business areas, with the aim to enlarge our Total Addressable
+Market, reaching to other businesses outside Airline IT, within travel.
+
+4.2.1 Evolution of KPI
+
+Total number of passengers boarded in the fourth quarter of 2012 amounted to 143.4 million,
+or 28.5% higher than in the fourth quarter of 2011, mainly driven by positive impact of clients
+migrated during the first half of the year.
+
+During the full year 2012, the number of passengers boarded reached 563.8 million, 28.4%
+higher than in 2011, despite the loss of traffic from Spanair and Malev, both of which ceased
+
+33
+
+
+--- Page 32 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+operations early in the year. On a like-for-like basis, the organic underlying PB growth was
+7.4%, ahead of traffic growth, given the positive mix in our client base.
+
+IT Solutions
+Figures in millions
+
+KPI
+Passengers Boarded (PB) (m) 143.4 111.6 28.5% 563.8 239.4 28.4%
+Airlines migrated (as of December 31) 109 100
+
+As of December 31, 2012, 52.5% of our total PB were generated by Western European
+airlines, were growth was fueled by the contribution from airberlin and Norwegian (both
+migrated in December 2011) as well as SAS, migrated in the first quarter of 2012. The
+number of PB related to carriers in the Asia Pacific region also increased very significantly,
+driven by the migration of Cathay Pacific and Singapore Airlines. Asia Pacific now represents
+12% of our total PB.
+
+Amadeus PB
+Figures in million
+
+Western Europe 295.8 52.5% 228.9 52.1% 29.2%
+Middle East and Africa 96.5 17.1% 86.8 19.8% 11.2%
+Asia & Pacific 69.5 12.3% 33.1 7.5% 109.7%
+Latin America 66.7 11.8% 57.8 13.2% 15.3%
+CESE 35.4 6.3% 32.4 74% 9.2%
+Total PB 563.8 100.0% 439.1 100.0% 28.4%
+
+4.2.2 Revenue
+
+Total IT Solutions revenue increased by 6.5% in the fourth quarter of 2012 as a result of the
+net effect of growth experienced in the IT transactional revenue line, with an important
+decline in direct distribution revenue in the quarter. Growth in non-transactional revenue also
+slowed down in the quarter.
+
+In 2012, IT Solutions revenue grew by a remarkable 13.0%. As detailed in the table below,
+group revenue was fueled by growth in both IT transactional and non-transactional revenues,
+and despite the expected decrease in direct distribution revenue.
+
+34
+
+
+--- Page 33 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+IT Solutions. Revenue
+Figures in million euros
+
+IT transactional revenue 519.2 430.3 20.7%
+Direct distribution revenue 119.6 133.8 (10.6%)
+Transactional revenue 638.8 564.1 13.3%
+Non transactional revenue 70.6 63.9 10.4%
+Revenue 709.4 628.0 13.0%
+IT Transactional revenue per PB" 0.92 0.98 (6.0%)
+
+1 Represents IT transactional revenue divided by the total PB figure
+Transactional Revenue
+
+IT Transactional Revenue
+
+As shown above, IT Transactional revenue increased by 20.7% in 2012, to €519.2 million.
+This increase was supported by strong growth in all main revenue lines:
+
+- Altéa: strong growth driven by the increase in PB, both in relation to new migrations that
+took place in the year and the full year impact of the 2011 migrations (as described
+above). Additionally, we had a strong contribution from the up selling of functionalities
+such as revenue integrity services, availability calculator or code share services.
+
+- e-commerce: significant increase in Passenger Name Record volumes, despite negative
+impact from the loss of clients (mainly Spanair, Malev and Cimber). Positive contribution
+from up selling activities (e.g. affinity shopper, mobile solutions).
+
+- Stand-alone IT Solutions: strong performance in most products, such as ancillary
+services, the Amadeus Ticket Changer product or web services. As in the case of Altéa,
+growth is driven both by the organic growth from existing customers, as well as new
+clients implemented.
+
+Average IT transactional revenue per PB for the year was €0.92, below the average fee of
+€0.98 reported in 2011, and in line with internal expectations. The main reasons for this
+dilution are (i) the change on the Altéa client mix, due to the migration of new hybrid carriers
+to the platform at the end of 2011 (whose service and fee level are reduced vs. the existing
+average), (ii) revenue mix within IT transactional revenue, as e-commerce and standalone IT
+solutions grow at lower rates than Altéa (these revenue streams are not charged on a per PB
+basis and therefore do not grow in line with PB). This dilution was partially offset by the
+positive FX (translational) impact.
+
+Direct Distribution
+
+Revenue from Direct Distribution fell by 10.6% in 2012 compared to 2011. This decrease in
+revenue was mostly driven by a drop in bookings as a consequence of the migration of some
+of our existing users of our Reservations module (notably SAS) to the Inventory module of
+our Amadeus Altéa Suite in 2012. Once migrated on to the Altéa platform, these clients pay a
+fee per PB, and revenue is accounted for under IT Transactional revenue, rather than in
+
+35
+
+
+--- Page 34 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Direct Distribution. In addition, revenue growth was negatively affected by the demigration of
+LAN in the second half of the year.
+
+Non Transactional Revenue
+
+Non-transactional revenue increased by 10.4% in 2012, driven both by higher revenue from
+gaps and implementations (deferred revenues starting to be recognised after the client
+cutover) and from services, such as consulting or hosting.
+
+4.2.3 Contribution
+
+The contribution of our IT Solutions business is calculated after deducting from our revenue
+those operating costs which can be directly allocated to this business (variable costs,
+including certain distribution fees, and those product development, marketing and
+commercial costs which are directly attributable to this business).
+
+In 2012, the contribution of the IT Solutions business grew by a significant 13.9%, or €63.4
+million, to €519.3 million. As % of revenue, there was a slight margin expansion of 0.6 p.p. vs.
+a contribution margin of 72.6% in 2011.
+
+The 13.9% increase in the contribution of our IT Solutions business in 2012 was driven by a
+13.0% increase in revenues and a more limited 10.5% increase in net operating costs.
+
+On a gross basis, the increase in operating costs was significant, at 25.6%, mainly driven by
+activities which were subject to capitalisation, as they are relate to investment in R&D to fuel
+future growth (portfolio expansion with new modules and functionalities, new business areas,
+etc):
+
+- An increase in our R&D expenditure associated with client implementations (migrations
+that took place in 2012 as well as those scheduled for the coming years), as well as
+increased efforts on new functionality and New Business areas. This is reflected in a
+strong increase in FTE in our development area.
+
+- An increase in commercial and technical efforts related to local support (regionalisation),
+with the establishment of new local sites such as Korea and Dubai and new services to
+support customer satisfaction. We have also increased the focus on post-implementation
+teams to support our growing customer base.
+
+- Negative impact of the EUR depreciation on our cost base.
+
+36
+
+
+--- Page 35 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+4.3 Reconciliation with EBITDA
+
+Figures in million euros
+
+Distribution 974.6 950.4 2.5%
+IT Solutions 519.3 455.9 13.9%
+Contribution 1,493.9 1,406.3 6.2%
+Indirect costs (463.7) (435.5) 6.5%
+Indirect capitalisations & RTCs® 775 68.1 13.7%
+Net indirect costs (386.2) (367.3) 5.1%
+As % of Revenue 13.3% 13.6% (0.3 p.p.)
+EBITDA 1,107.7 1,039.0 6.6%
+EBITDA Margin (%) 38.1% 38.4% (0.3 p.p.)
+
+1 Figures adjusted to exclude extraordinary costs related to the IPO
+
+. For purposes of comparability, the revenue associated to the IT contract with United Airlines in Q2 2011, as well as certain
+costs of migration that were incurred in relation to this contract, have been reclassified from the Revenue and Other operating
+expenses captions, respectively, to the Other income (expense) caption in the 2011 figures.
+
+3. Includes the Research Tax Credit (RTC)
+
+In 2012, our EBITDA grew by 6.6%, to €1,107.7 million, and EBITDA margin was slightly
+down to 38.1%, from 38.4% in 2011, as a result of the negative FX impact. Excluding such
+impact, EBITDA margin would have been 38.4%, in line with prior year.
+
+Growth in EBITDA was driven by the increase in contribution from both Distribution and IT
+Solutions, and some operational leverage in the net indirect cost line, which grew by 5.1% in
+2012 vs. 2011. This growth in net indirect costs was driven by the combination of an increase
+in gross indirect costs, which grew by 6.5% vs. 2011, and indirect capitalisations, which grew
+by 13.7%. The increase in indirect costs was mainly attributable to:
+
+- An increase in certain G&A expenses such as building and facilities expenses (driven by
+growth in FTEs and development activities)
+
+- Increased efforts in cross-area R&D (mainly related to system performance and TPF
+decommissioning)
+
+- Higher impact of our recurring incentive scheme for management (Performance Share
+Plan, linked to total shareholders’ return, among other metrics, which has had a very
+strong performance in the year)
+
+The increase in capitalisations was linked to increasing costs with higher capitalisation ratios,
+such as cross-area R&D and the TPF decommissioning exercise.
+
+37
+
+
+--- Page 36 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+5 Other financial information
+
+5.1 Adjusted profit for the period from continuing operations
+
+Reported Profit for the period from continuing operations 70.0 72.0 (2.8%) 496.3 453.7 9.4%
+Adjustment: Extraordinary IPO costs'" (0.0) 35 53 123
+
+Profit for the period from continuing operations 69.9 75.5 (7.3%) 501.6 466.0 7.6%
+Adjustments
+
+Impact of PPA” 12.2 12.2 0.0% 49.0 49.0 0.0%
+Non-operating FX results and mark-to-market” (0.0) (2.6) na. 29 (19.3) na.
+Extraordinary items) 27 04 na, 11.6 (10.2) na,
+Impairments 89 14 na. 9.9 18 466.7%
+Adjusted profit for the period from continuing operations 93.8 86.6 8.2% 575.1 487.2 18.0%
+
+1 After tax impact of extraordinary costs related to the IPO.
+
+? after tax impact of amortisation of intangible assets identified in the purchase price allocation exercise undertaken following the
+leveraged buy-out.
+
+3 After tax impact of changes in fair value and extraordinary cancellation costs of financial instruments and non-operating
+exchange gains (losses) from continuing operations.
+
+4 After tax impact of extraordinary items related to the sale of assets and equity investments from continuing operations, the debt
+refinancing and the United Airlines IT contract resolution, in 2011.
+
+Profit from continuing operations (adjusted to exclude extraordinary IPO costs) declined by
+7.3%, or €5.5 million, in the fourth quarter of 2012. For the full year, profit from continuing
+operations (adjusted to exclude extraordinary IPO costs) increased by 7.6%, or €35.6 million
+in 2012.
+
+After adjusting for (i) non-recurring items and (ii) accounting charges related to the PPA
+(purchase price allocation) amortisation and other mark-to-market items, adjusted profit for
+the period (from continuing operations) increased by 8.2% in the fourth quarter of 2012 and
+by 18.0%, to €575.1 million, in 2012.
+
+38
+
+
+--- Page 37 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+5.2 Earnings per share from continuing operations (EPS)
+
+Earnings per share
+
+Weighted average issued shares (m) 447.6 447.6 447.6 447.6
+Weighted average treasury shares (m) (3.6) (2.1) (3.4) (2.1)
+Outstanding shares (m) 444.0 445.5 444.2 445.5
+EPS from continuing operations (euros) 0.16 0.17 (7.9%) 4.43 1.04 8.2%
+Adjusted EPS from continuing operations (euros)” 0.21 0.20 7.7% 1.30 1.09 18.7%
+
+‘EPS corresponding to the Profit from continuing operations attributable to the parent company (excluding extraordinary costs
+related to the IPO). Calculated based on weighted average outstanding shares of the period.
+
+2 EPS corresponding to the Adjusted profit from continuing operations attributable to the parent company. Calculated based on
+weighted average outstanding shares of the period
+
+The table above shows EPS for the period, based on the profit from continuing operations,
+attributable to the parent company (after minority interests which amounted a loss of €0.6 for
+year 2012 vs. a loss of €0.7 million for the same period of 2011), both on a reported basis
+(excluding extraordinary IPO costs) and on an adjusted basis (adjusted profit as detailed in
+section 4.1 above).
+
+39
+
+
+--- Page 38 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR'S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+6 Investor information
+
+6.1 Capital stock. Share ownership structure
+
+As of December 31, 2012 the capital stock of our company is €4,475,819.5 represented by
+447,581,950 shares with a nominal value of €0.01 per share, all belonging to the same class,
+completely subscribed and paid in.
+
+The shareholding structure as of December 31, 2012 is as described in the table below:
+
+Shareholders | Shares | % Ownership
+
+Air France Finance 22,578,223 5.04%
+Malta Pension Investments 17,903,279 4.00%
+Iberia Lineas Aéreas de Espaiia, S.A. 3,742,200 0.84%
+Free float 399,368,926 89.23%
+Treasury shares 3,571,810 0.80%
+Board of Directors 417,512 0.09%
+
+Total 447,581,950 100.00%
+
+6.2 Share price performance in 2012
+
+Amadeus: 52.0%
+Eurostoxx 50: 13.8%
+Ibex-35: (4.7%)
+
+ee et eh te et ot gt yt yt Lo PM ww HM ww
+SLL EO SP SFP IEF PIP PP FFI FS PPPS
+
+—AMS — —IBEX-35  —Eurostoxx-50 Rebased to 100
+Amadeus
+Number of publicly traded shares (# shares) 447,581,950
+Share price at December 31, 2012 (in €) 19.05
+Maximum share price in Jan - Dec 2012 (in €) (November 13, 2012) 19.36
+Minimum share price in Jan - Dec 2012 (in €) (January 5, 2012) 12.54
+Market capitalisation at December 31, 2012 (in € million) 8,526
+Weighted average share price in Jan - Dec 2012 (in €)' 16.2
+Average Daily Volume in Jan - Dec 2012 (# shares) 4,071,838
+
+40
+
+
+--- Page 39 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+6.3 Dividend policy and dividend payments
+6.3.1 Dividend policy
+
+The Board of Amadeus IT Holding, S.A., in the meeting held on October 18, 2012, reviewed
+the dividend policy of the Company, increasing the proposed pay-out ratio to between 40%
+and 50% of the consolidated profit (excluding extraordinary items), compared to the previous
+policy, fixed in 2010, which consisted of a pay-out ratio of between 30% and 40%. The new
+dividend policy, applicable to the period of 2012 and onwards, also establishes the payment
+of an interim dividend related to the results of each financial period.
+
+6.3.2 Dividend payments
+
+At the Shareholders’ General Meeting held on June 21, 2012 our shareholders approved the
+annual dividend for 2011. The total value of the dividend was €165.6 million, representing a
+pay-out of 35.5% of the 2011 Reported profit for the year (excluding extraordinary items
+related to the IPO), or €0.37 per share (gross). Regarding the payment, an interim amount of
+€0.175 per share (gross) was paid on January 30, 2012 and the final dividend of €0.195 per
+share (gross) was paid in July 27, 2012.
+
+In 2012, the Board of directors will submit to the General Shareholders Meeting for approval
+a gross dividend of €0.50 per share, including an interim dividend of €0.25 per share (gross),
+which was paid on January 30, 2013. Based on this, the proposed appropriation of the 2012
+results included in our 2012 audited consolidated financial statements of Amadeus IT
+Holding, S.A. and subsidiaries includes a total amount of €223.8 million corresponding to
+dividends pertaining to the financial year 2012.
+
+41
+
+
+--- Page 40 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+7 Presentation of financial information
+
+The source for the financial information included in this document is the audited consolidated
+financial statements of Amadeus IT Holding, S.A. and subsidiaries, which have been
+prepared in accordance with International Financial Reporting Standard as adopted by the
+European Union.
+
+Certain monetary amounts and other figures included in this report have been subject to
+rounding adjustments. Any discrepancies in any tables between the totals and the sums of
+the amounts listed are due to rounding.
+
+Sale of Opodo
+
+On June 30, 2011 the Group completed the sale of Opodo Ltd and its subsidiaries. In 2011,
+Opodo is presented as a discontinued operation in our Group income statement. As a result
+of this sale the Group booked a gain of €270.9 million. This gain, together with the
+extraordinary costs related to the sale, are presented within "Profit from discontinued
+operations
+
+One-time payment from United Airlines in relation to the discontinued Altéa contract
+
+On May 6, 2011 Amadeus announced that it had agreed to dissolve a contract under which
+United Airlines previously planned to migrate onto the Amadeus Altéa Suite in 2013. United
+Airlines agreed to make a one-time payment of $75.0 million to Amadeus for the cancellation
+of the IT services agreement. The payment was made effective in Q2 2011 and recognised
+(in Euros, in an amount of €51.7 million) under the "Revenue" caption on the consolidated
+statement of comprehensive income of our financial statements.
+
+For purposes of comparability with 2012 figures, in 2011 this revenue, as well as certain
+costs of migration that were incurred in relation to this contract, have been reclassified from
+revenue and other operating expenses, respectively, to the Other income / (expense)
+caption in our Group income statement shown in this report.
+
+Extraordinary costs related to the Initial Public Offering
+
+On April 29, 2010 Amadeus began trading on the Spanish Stock Exchanges. The Company
+incurred extraordinary costs in relation to the offering that impacted the figures for 2010,
+2011 and 2012.
+
+For the purposes of comparability with previous periods, the figures for 2011 and 2012
+shown in this report have been adjusted to exclude such costs.
+
+42
+
+
+--- Page 41 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+The following table details the extraordinary items related to the IPO that have been
+
+excluded from the figures in this report:
+
+Extraordinary costs related to the IPO
+
+Figures in n euros
+Personnel and related expenses” 0.0 (5.0) (7.7) (19.0)
+Other operating expenses” 0.0 0.0 0.0 1.2
+Total impact on Profit before taxes 0.0 (5.0) (7.7) (17.8)
+Income taxes 0.0 1.6 24 5.5
+Total impact on Profit for the period 0.0 (3.5) (5.3) (12.3)
+
+(1) Costs included in "Personnel expenses" relate to the cost accrued in relation to the non-recurring incentive scheme (Value Sharing Plan) that became effective upon the
+admission of our shares to trading on the Spanish Stock Exchanges and which is accrued on a monthly basis over the two years following its implementation. A partial
+payment to employees corresponding to this scheme was made in the second quarter of 2011 and the second quarter of 2012, included in the Group cashflow caption
+
+“Cashflow from extraordinary items”.
+
+(2) Costs included under “Other operating expenses” in 2011, correspond to a positive adjustment in Q1 2011 in relation to an excess of provisions for non-deductible taxes,
+
+accrued in 2010, based on the final tax forms (closed in Q1 2011).
+
+43
+
+
+--- Page 42 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+8 Other additional information
+
+8.1 Expected business evolution
+8.1.1. Macroeconomic backdrop and Amadeus business model
+
+Amadeus is a leading technology provider and transaction processor for the global travel
+and tourism industry. Our business model is transactional and volume driven. We charge our
+clients - airlines and other travel providers - a fee per transaction (mainly bookings made by
+online and offline travel agencies connected to the Amadeus system or passengers boarded
+by airlines using our IT Solutions). Our business and operations are therefore dependent on
+the worldwide travel and tourism industry, which is sensitive to general economic conditions
+and trends.
+
+Looking into 2013, prospects point to a better performance vs. 2012, although uncertainties
+continue to weigh heavily on the outlook. The IMF expects “global growth to increase during
+2013, as the factors underlying soft global activity are expected to subside”. Based on the
+IMF’s World Economic Outlook (WEO), global growth will strengthen gradually through
+2013, averaging 3.5% on an annual basis, a moderate uptick from 3.2% in 2012. However,
+“downside risks remain significant, including renewed setbacks in the euro area and risks of
+excessive near-term fiscal consolidation in the United States. Policy action must urgently
+address these risks.”
+
+Austerity in the euro zone, which drove the Euro area to recession in 2012, will likely
+continue to hold back growth in the region. Based on the IMF, activity in the Euro area is
+expected to contract by 0.2% in 2013. In the US, growth is forecast to average 2% in 2013,
+rising above the trend in the second half of 2012. This was predicted under the assumption
+that U.S. policymakers will prevent a “fiscal cliff crisis” and raise the U.S. federal debt ceiling
+in a timely manner, making good progress toward a comprehensive plan to restore fiscal
+sustainability. Both the US fiscal crisis and continued austerity in the Euro zone will hold
+back growth in economies globally. China is struggling to regain momentum, and most
+emerging markets finished their weakest year since the 2009 recession. The result is that
+growth in emerging market and developing economies is on track to build to 5.5% in 2013
+(only slightly better than in 2012, and well below the pre-recession period). Growth is not
+projected to rebound to the high rates recorded in 2010-11.
+
+In turn, in January 2013 the International Air Transport Association (IATA) reported that it
+expects a 5% growth in demand in air traffic passengers in 2013. This is below the 5.3%
+growth rate registered in 2012 (which was mostly fueled by a strong start to the year, +6.5%
+growth) higher than the growth levels registered in the second part of the year, at 4.1%.
+Looking ahead, the downward pressure on air transport demand seen in the second part of
+2012 appears to be easing, as business confidence continues to improve and current levels
+indicate stable growth in the months ahead. However, Air transport still faces strong
+headwinds from continued global economic weakness and high fuel prices, which is likely to
+moderate the expected improvement.
+
+44
+
+
+--- Page 43 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+In 2012, and despite strong volatility and headwinds affecting the economic growth globally,
+Amadeus demonstrated the resilience and profitability of its business model, delivering
+significant growth - driven by the particularly good performance of air traffic volumes during
+the first half of the year and reinforced by important market share gains in the Distribution
+business and the successful execution of the scheduled migrations to our Altéa platform, in
+the IT Solutions business line. Based on this resilient business model, the visibility and
+recurring nature of both our business lines and our geographical diversification, with a strong
+exposure to emerging markets, Amadeus expects to continue to deliver growth and
+profitability in 2013. Moreover, we are confident that the different actions and investments in
+R&D undertaken in previous years will allow Amadeus to continue to add new clients, grow
+its portfolio of solutions and services to the travel industry and the scope of its addressable
+market.
+
+8.1.2 Amadeus strategic priorities and expected business evolution in 2013
+
+Amadeus has a strong positioning in the Distribution business, and it is management’s
+objective to sustain our competitive advantages, in order to continue to profitably grow the
+business, as well as deliver a best-in-class service to our clients. We will continue to invest
+in the platform, in order to support our customers adapt to the fast changing travel industry:
+merchandising and personalisation tools and improved shopping solutions are examples of
+innovative solutions that are key to our development strategy.
+
+We are also committed to securing the most comprehensive content possible to bring
+efficiency and value for travel providers, travel agencies and travellers alike. In 2013, we will
+focus on the successful renegotiation of certain of our content agreements, in particular with
+some European and US majors.
+
+Competition in our Distribution business continues to be strong, and this competitive
+dynamic has a slight negative impact on our margins. Business mix and contribution from
+incremental business may also affect the average margin of our current business. This
+business context will be actively managed and it is our expectation to continue to deliver
+profitable growth in the Distribution business.
+
+Our IT Solutions business will continue its growth track record in 2013, even though the
+migration schedule to Altéa is mostly concentrated in the last quarter of the year. As a result,
+Passenger Boarded growth rates will slow down vs. 2012. We will also deliver a significant
+number of migrations to our Departure Control System and continue to progress in the
+preparation of those migrations scheduled for 2014, many of which are based in the APAC
+region. Successful execution is still management priority in this segment. In addition, the
+group will focus on regionalisation of our development and execution teams, in order to be
+closer to our clients, and there will be an increased focus on services to drive customer
+satisfaction and create revenue opportunities. Ongoing commercial efforts, continued
+product and service evolution and industry momentum should also bring new client wins.
+
+Another important theme in 2013 will be our continued R&D investment. As described
+above, it is fundamental to the strategy of our existing businesses. In addition, we are
+selectively investing in certain new business units, projects with high value-creation
+
+45
+
+
+--- Page 44 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+potential, always within the remit of our core business: the provision of technology for the
+travel industry. As such, we are exploring business opportunities in Hotel IT and Airport IT,
+which has started to crystallise through the signature of more than 20 ground-handlers
+during 2012 that will use Amadeus technology to handle their operations.
+
+High system performance and reliability is also a priority for Amadeus, and in 2013 we will
+continue to pursue a number of investments which shall further reinforced the stability of our
+systems, with the aim of ensuring high levels of client service and satisfaction across our
+businesses.
+
+Finally, it is our objective to preserve our strong cash flow generation and sound financial
+position. Having reached the top end of the stated capital structure target (1.0x - 1.5x net
+debt / EBITDA) as of September 2012, we are close to our deleveraging target, which will be
+achieved in 2013. Shareholder remuneration is also important to Amadeus, and as such we
+increased our dividend policy to 40-50% pay-out, with a dividend payment corresponding to
+2012 reported profit (excluding extraordinary items) of €0.50 per share, representing a 35%
+increase vs. 2012 dividend.
+
+8.2 Research and Development activities
+
+Research and development (R&D) is core to the company’s strategy and the key to a
+sustainable competitive advantage. In addition, R&D activities help increase efficiency and
+improve the Amadeus System functionality, as well as to reduce maintenance and operating
+costs.
+
+The Group is continuously investing in its systems, including in the development of new
+products and functionalities, as well as the evolution of the existing platform, based on the
+latest state-of-the-art technology available. The group has 16 development centres,
+including 3 regional centres and the central development sites in Nice and Bangalore.
+
+During the year ended December 31, 2012, Amadeus expensed €179,7 million for R&D
+activities and capitalized €260,6 million (before deducting any incentives), which compares
+to €172,1 million and €195, 1 million, respectively, in 2011.
+
+Our R&D investment enables us to offer some of the most advanced, integrated and
+powerful business tools available in the market, in order to deliver a best-in-class service to
+airlines and travel agencies. Indeed, Amadeus offers enhanced functionalities, such as
+advanced search and booking engines, both for travel agencies and travel providers. In
+addition, our product offering addresses the Passenger Service Systems for airlines,
+enabling processes such as central reservation, inventory management, departure control
+and e-commerce, as well as providing direct distribution technologies. We are also
+expanding our airline IT Solutions offering and we are seeking to grow our market share
+within the non-airline IT Solutions markets, including the hotel, rail and airport IT markets.
+
+8.3 Environmental matters
+
+Amadeus’ operations involve a relatively low direct environmental impact, compared with
+other industries. Nonetheless, with more than 10,000 employees, presence in more than 190
+
+46
+
+
+--- Page 45 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+markets and operating in a high energy intensity industry, we acknowledge our responsibility
+to minimize the company’s environmental impact and at the same time make our
+contribution to the sustainability of the travel industry.
+
+8.3.1 Amadeus environmental strategy
+
+Our environmental strategy addresses the impact of our operations and the concerns of
+stakeholders in the travel industry, including customers, employees, partners, regulatory
+bodies and the society in general.
+
+We believe our first and most important responsibility is to address the environmental impact
+of our operations. Fortunately, for most cases we find a common economic and
+environmental interest that facilitates action in reducing resource consumption and
+environmental impact. Our Environmental Management System includes a systematic
+approach by which we:
+
+e Measure resource consumption
+e Identify best practices
+
+e Implement actions and
+
+e Follow up results
+
+The items covered by the EMS include electricity, paper, water, waste and greenhouse gas
+emissions.
+
+Additionally, our numerous sites across the world take their own environmental initiatives
+that range from activities as diverse as car-pooling, recycling campaigns, reduce paper used
+in office through the use of specific software, etc.
+
+8.3.2 Improving environmental performance in our industry
+i. | Carbon calculation standards for aviation:
+
+The calculation of emissions per aircraft passenger is complicated by a number of issues
+and different calculators offer significantly diverse emissions estimations for the same
+itinerary. A carbon calculator standard must meet therefore at least requirements of
+neutrality, global reach and legitimacy.
+
+The International Civil Aviation Organisation (ICAO, UN body in charge of civil aviation) and
+Amadeus reached an agreement by which Amadeus can make use of ICAO’s carbon
+calculator in our distribution platforms.
+
+The current version of the Amadeus corporate booking tool (Amadeus eTravel Manager)
+includes a CO, display functionality that uses CO, estimations from the ICAO carbon
+calculator.
+
+ii. | Fuel savings achieved through technology:
+
+Amadeus has developed technologies to help airlines and other industry players reduce
+emissions, therefore reducing also the cost of new environmental regulations. Through
+optimum weight allocation and optimisation tools, Amadeus Altéa Departure Control System
+
+47
+
+
+--- Page 46 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+(DCS) Flight Management module saves significant amounts of fuel, and therefore
+greenhouse gas emissions, as compared with less sophisticated technologies currently on
+the market .
+
+Amadeus aims at continually bringing benefits to our customers and the industry through the
+continuous innovation of our technology, and this is our strongest tool for contributing to the
+sustainability of the travel industry.
+
+iii. Participation in common projects with industry stakeholders:
+
+The environmental challenges the travel industry, and the society in general, is facing are
+immense. Towards the overall industry sustainability target, Amadeus or any other industry
+player cannot do much in isolation. It’s fundamental that industry stakeholders work together
+and agree on strategies and responsibilities towards sustainability. From Amadeus we
+participate in various forums and specific projects with trade associations like the World
+Travel and Tourism Council or the Global Sustainable Tourism Council.
+
+"In 2011, Amadeus and Finnair carried out a joint study in which more than 40,000 flights were analysed and that
+demonstrated Altéa DCS FM helped reduce fuel consumption.
+
+8.4 Treasury shares
+
+Reconciliation of the carrying amounts for the periods ended December 31, 2012 and 2011,
+of the treasury shares is as follows:
+
+Treasury
+Shares KEUR
+Balance at December 31,2010 2,093,760 1,716
+Balance at December 31, 2011 2,093,760 1,716
+Acquisition 2,300,000 32,573
+Retirement (821,950) (3,701)
+Balance at December 31, 2012 3,571,810 30,588
+
+The Group holds treasury shares for hedging the future specific share delivery commitments
+with the Group employees and/or senior executives.
+
+8.5 Financial risks
+
+The Group has exposure, as a result of the normal course of its business activities, to
+foreign exchange, interest rate, own shares price evolution, credit and liquidity risk. The goal
+of the Group is to identify, measure and minimize these risks using the most effective and
+efficient methods to eliminate, reduce, or transfer such exposures. With the purpose of
+managing these risks, in some occasions, the Group enters into hedging activities with
+derivatives and non-derivative instruments.
+
+48
+
+
+--- Page 47 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+8.5.1 Foreign exchange rate risk
+
+The reporting currency in the Group’s consolidated financial statements is the Euro (EUR).
+As a result of the multinational orientation of its business, the Group is subject to foreign
+exchange rate risks derived from the fluctuations of many currencies. The target of the
+Group’s foreign exchange hedging strategy is to reduce the volatility of the Euro value of the
+consolidated foreign currency denominated cash flows. The instruments used to achieve this
+goal depend on the denomination currency of the operating cash flow to be hedged:
+
+e The strategy for US Dollar (USD) exposures is fundamentally based on the use of
+natural hedges although it also makes use of derivatives if necessary. This strategy
+aims at reducing the exposure created by the USD denominated operating cash
+inflows of the Group with the USD payments of principals of the USD denominated
+debt.
+
+e Aside from the USD, the foreign currency exposures are expenditures denominated in
+a variety foreign currencies. The most significant of these exposures are denominated
+in Sterling Pounds (GBP), Australian Dollars (AUD) and Swedish Kronas (SEK). For
+these exposures, a natural hedge strategy is not possible. In order to hedge a
+significant portion of the aforementioned short exposures (net expenditures) the
+Group can engage into derivative contracts with banks: basically currency forwards,
+currency options and combinations of currency options.
+
+Provided the objective in relation with the foreign exchange rate risk of reducing the volatility
+of the EUR value of the foreign currency denominated cash flows, the total exposure of the
+Group to changes in the foreign exchange rates is measured in terms of Cash-flow at Risk
+(CFaR). This risk measure provides an estimate of the potential EUR loss of the foreign
+currency denominated cash flows from the moment the estimation is calculated to the
+moment the cash flow is expected to take place. These estimates are made using a 95%
+confidence level.
+
+The CFaR methodology is similar in many respects to the Value at Risk (VaR) methodology.
+However, whereas VaR is generally centered in the changes in the value of a portfolio of
+exposures in a given future interval of time, CFaR is focused on the changes in the value of
+the cash-flows of that portfolio from the calculation date to the moment in which these cash-
+flows effectively take place. CFaR is a more adequate measure of the risk of the Group
+given that the goal of our risk management strategy with relation to foreign exchange risk is
+reducing the volatility of the EUR value of the foreign currency denominated cash-flows. An
+additional reason for focusing on cash-flows is that, eventually, the cash-flows of a company
+result in its level of liquidity which in the case of a non-financial corporation it is a generally
+scarce and valuable element.
+
+The main limitations of the CFaR methodology are very similar to the ones of the VaR
+methodology:
+
+49
+
+
+--- Page 48 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+e One of the limitations of this methodology is that its results are based on several of
+hypotheses on the future volatilities of the exchange rates and the future correlation
+among them which may correspond with the real evolution of the exchange rates or
+not®.
+
+e Additionally, the foreign exchange exposure estimates used as inputs to the model
+may deviate with respect to the exposures which will finally take place in the future®
+
+e Finally, it is important to mention that given a level of CFaR calculated with a 95%
+confidence level, the losses which could take place in the remaining 5% of the cases
+may be significantly greater than the level of risk as measured with the CFaR
+methodology.
+
+See below the CFakR of the foreign exchange exposures of the Group calculated with a 95%
+confidence level:
+
+31/12/2012 31/12/2011
+2013 2014 2015 2012 2013 2014
+CFaR CFaR CFaR CFaR CFaR CFaR
+(3,406) (9,681) (24,690) (6,170) (16,478) (32,979)
+
+The main reason for the drop in the CFaR levels with respect to the previous year is a
+reduction in the implicit volatilities of the foreign exchange rates at the end of 2012 mainly as
+a consequence of the decisive intervention of the European Central Bank in September of
+2012.
+
+As it can be observed in the table above, the level of risk measured in CFaR terms tends to
+increase for the periods which are further away. The reasons for this are: (1) the further
+away the future cash-flows are, more adverse the effect of foreign exchange fluctuations can
+be potentially; (2) the level of hedging for is smaller for the later periods; (3) in the later
+periods the size of the foreign exchange exposures tends to be greater.
+
+8.5.2 Interest rate risk
+
+The objective of the Group in terms of interest rate risk management is reducing the volatility
+of the net interest flows payable by the Group. In line with this goal, the Group has set up
+hedges that fix a significant part of the interests to be paid up to July 2014. At December 31,
+2012, after taking into account the effect of the interest rate swaps in place, approximately
+94% of the Groups’ borrowings are at fixed rate of interest (2011: 82%) until July 2014.
+
+Although the interest rate swaps which hedge the floating rate debt of the Group fix the
+amount of interests to be paid in the coming years, their fair values are sensitive to changes
+in the level of interest rates. In the table below you can see an estimation of the Group’s
+sensitivity to a 0.1% (10 bps) parallel shift of the interest rate curve:
+
+® The volatilities implicit in the market prices of currency options and the historic correlations among the different currencies in
+which Amadeus has exposures are used as inputs to the model.
+
+° In order to calculate the foreign currency exposures of the Group we take into account the estimated cash flows in each
+currency according to the last available forecast and the hedges contracted as of the CFaR calculation date.
+
+50
+
+
+--- Page 49 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+Sensitivity of fair value to parallel changes in the interest rate curve:
+
+31/12/2012 31/12/2011
++10 bps -10 bps +10 bps -10 bps
+EUR denominated debt 4,393 (4,382) 3,850 (3,866)
+USD denominated debt 43 (43) 74 (61)
+EUR accounting hedges 388 (407) 1,134 (1,136)
+USD accounting hedges 269 (270) 651 (652)
+Total 5,093 (5,102) 5,709 (5,715)
+
+In 2012 there has been a slight increase in the sensitivity of the EUR denominated debt to
+the movements of the interest rate curve with respect to the previous year. This increase is
+due the addition of new fixed rate debt during 2012. Although the future flows of the fixed
+rate debt instruments are not sensitive to the changes in the level of interest rates, the fair
+value of the instruments are sensitive to these changes.
+
+Note that in the case of the floating rate debt, the spread payable on this debt is fixed and
+therefore the changes in the level of interest rates have a small impact in the fair value of this
+type of debt.
+
+According to the table above a 10 bps drop in the level of interest rates would cause a loss in
+the fair value of the debt (an increase of the liability) and the derivatives hedging it
+amounting to KEUR 5,102 at December 31, 2012, and KEUR 5,715 at December 31, 2011
+respectively. However, given that changes in the fair value of the derivatives that qualify for
+hedge accounting are recognized directly in equity and the hedged item (the underlying
+debt) is measured at amortized cost, the impact of a 10 bps drop in the level of interest rate
+would imply no loss recognized in the statement of comprehensive income at December 31,
+2012 and 2011, due to all derivatives apply for hedge accounting.
+
+In cash flow terms, in the case of a parallel drop (or rise) in the level of interest rates the
+lower (or higher) interests payable for the debt which is hedged, would be compensated by a
+similar amount of higher (or lower) debt interests to be paid during the life of the hedges
+(cash flow hedge concept).
+
+8.5.3 Own shares price evolution risk
+
+At December 31, 2012 the Group has two different remuneration schemes outstanding
+which are referenced to the Amadeus shares; the Performance Share Plan (PSP) and the
+Restricted Share Plan (RSP).
+
+According to the rules of these plans, when they mature their beneficiaries will receive a
+number of Amadeus’ shares which for the plans granted in 2011 and 2012 will be
+(depending on the evolution of certain performance conditions) between a maximum of
+2,200,000 shares and a minimum of 700,000 shares, approximately. It is Amadeus intention
+to make use of the 3,571,810 treasury shares to settle these plans at their maturity.
+
+51
+
+
+--- Page 50 ---
+
+AMADEUS IT HOLDING, S.A. AND SUBSIDIARIES
+
+DIRECTOR’S REPORT FOR THE YEAR ENDED DECEMBER 31, 2012
+
+8.5.4 Credit risk
+
+Credit risk is the risk that a counterparty to a financial asset will cause a loss for the Group
+by failing to discharge an obligation.
+
+Amadeus’ cash and cash equivalents are deposited in major banks on the basis of
+diversification and the credit risk of the available investment alternatives.
+
+The credit risk of Amadeus’ customer accounts receivable is mitigated by the fact that the
+majority are settled through the clearing houses operated by the International Air Transport
+Association (“IATA”) and Airlines Clearing House, Inc. (“ACH”). These systems guarantee
+that the cash inflows from our customers will be settled at a certain fixed date, and mitigate
+the credit risk partially by the fact that the members of the clearing house are required to
+make deposits that would be used in the event of default. Moreover, our customer base is
+large and unrelated which results in a low concentration of our credit risk.
+
+8.5.5 Liquidity risk
+
+The Corporate Treasury is responsible for providing the cash needed by all the companies of
+the Group. In order to perform this task more efficiently the Group concentrates the excess
+liquidity of the subsidiaries with excess cash and channel it to the companies with cash
+needs.
+
+This allocation of the cash position among the companies of the Group is mainly made
+through:
+
+e Acash pooling agreement with most of the subsidiaries located in the Euro area.
+e Through bilateral Treasury Optimization agreements between Amadeus IT Group
+S.A. and its subsidiaries.
+
+Corporate Treasury monitors the Group’s cash position through rolling forecasts of expected
+cash flows. These forecasts are performed by all the companies of the Group and later
+consolidated in order to examine both the liquidity situation and prospects of the Group and
+its subsidiaries.
+
+In addition to other smaller treasury lines agreed with several banks the Group has access to
+a Revolving Credit facilities amounting to KEUR 300,000, which could be used to cover
+working capital needs and general corporate purposes. As of December 31, 2012 all the
+outstanding Revolving Credit facilities were unused.
+
+8.6 Subsequent events
+
+As of the date of issuance of this Directors’ Report no subsequent events occurred after the
+end of the reporting period.
+
+52

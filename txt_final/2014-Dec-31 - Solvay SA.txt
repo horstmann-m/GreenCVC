@@ -1,0 +1,1889 @@
+
+
+--- Page 1 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+The management report for the accounting period ending on December 31,
+2014, consisting of pages 47 to 74 (Corporate governance) and 75 to 85
+(Management of risks), has been prepared in accordance with Articles 96
+and 119 of the Belgian Companies’ Code and was approved by the Board of
+Directors on February 25, 2015. It covers both the consolidated accounts
+of the Solvay group and the statutory accounts of Solvay SA.
+
+In this section, Solvay is presenting its 2013 and 2014 comparative Income
+statements. Therefore, 2013 income statement has been restated for:
+
+= Eco Services business, which was sold on December 1, 2014. Since
+the 3° quarter of 2014 Solvay restated its 2013 and 2014 income
+statement and statement of cash flows to reflect the discontinuation
+of the business;
+
+= The retrospective application of IFRS 11 Joint Arrangements on
+January 1, 2014,
+
+MANAGEMENT REPORT
+
+The term “restated” throughout this document must be understood as
+per above considerations, unless otherwise stated.
+
+The European and Latin-American Chlorovinyls business activities
+are presented as “Assets held for sale” on the statement of financial
+position (in one single line) and as “discontinued operations” in the
+income statement.
+
+The intended sale of Solvay’s 70.59% majority stake in Solvay Indupa
+to Braskem has been rejected by the Brazilian competition authority
+(CADE) in November 2014. Solvay confirms that its strategic direction
+remains unaffected and that it is examining alternative options to
+sell its participation in Solvay Indupa. As a disposal within 12 months
+is considered highly probable, Solvay Indupa remains classified as
+“Assets held for sale” on the statement of financial position and as
+“discontinued operations” in the income statement.
+
+Chemlogics is consolidated in the financial statements from November 1,
+2013.
+
+1 Highlights of 2014 - Momentum and delivery
+
+= Group net sales at € 10,213 million, up 5% yoy, with volumes 3.6%,
+forex (1.4)%, scope 2.4% and stable prices 0.5%;
+
+= REBITDA at € 1,783 million, up 11% yoy driven by volume growth
+(organic and external), pricing power and excellence initiatives;
+margins widened to 17.5% of net sales, up 90 basis points compared
+to last year;
+
+= Adjusted EBIT at € 761 million, up 3.7% yoy; Adjusted Result from
+continuing operations at € 333 million, up 6.7% yoy;
+
+= Adjusted Net Income Solvay share at € 156 million versus € 378 million
+in 2013. 2014 contained material exceptional elements largely linked
+to the Group's active portfolio management;
+
+= Free Cash Flow generation at € 656 million +35% yoy; net debt
+decreased € 363 million from 2013 year-end;
+
+= Dividend increased proposed: € 3.40 gross per share, up 6.3%
+compared to last year.
+
+Adjusted
+Net sales 10,213 3,715
+REBITDA 1,783 1,61
+REBITDA as % of sales 75 16.6
+Total depreciation and amortization (641) (614)
+EBIT 761 734
+Net income, Solvay share 156 378
+Earnings per share (basic) 1.87 454
+Research expenditure 247 238
+Capital expenditures (continuing operations) 861 738
+Capital expenditures (discontinued operations) 7 129
+Free Cash Flow 656 487
+
+* Restated for comparable purposes,
+
+Solvay - Annual Report 2014 87
+
+
+--- Page 2 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+2
+
+Management analysis convention
+
+Business performance and analysis
+
+In addition to the consolidated IFRS accounts for 2013 (historical and
+restated) and 2014 provided in pages 128 to 209 (Financial statements)
+in this report, Solvay is disclosing “Adjusted” Profit & Loss information
+and analysis in order to provide a more meaningful presentation of
+the economic and financial performance of the Group and its business
+segments between periods.
+
+Adjusted Profit & Loss indicators referring to 2013 and 2014 exclude non-
+cash Purchase Price Allocation (PPA) accounting impacts related to the
+Rhodia acquisition.
+
+All references to year on year evolution must be understood comparable,
+and on an adjusted basis for 2013 and 2014, unless otherwise stated
+
+The term “Net sales” refers to the sales of goods and value-added
+services corresponding to Solvay’s know-how and core business. Net
+sales exclude other revenues primarily comprising commodity and utility
+trading transactions and other revenues deemed as incidental for the
+Group (for example temporary).
+
+Furthermore, for its analysis and financial communications, Solvay uses
+
+non-GAAP" indicators, the definitions of which are the following
+
+REBITDA which consists of EBIT as presented in the income
+statement, excluding:
+
+= recurring amortization and depreciation;
+= non-recurring items;
+
+= material financing related costs and non-recurring items for
+companies consolidated using the equity method of accounting;
+
+= operating revenues/expenses not taken into account by
+management when assessing segment performances;
+
+non-recurring items mainly include:
+
+m= gains and losses on the sale of subsidiaries, joint operations,
+joint ventures, and associates that do not qualify as discontinued
+operations;
+
+acquisition costs of new businesses;
+
+gains and losses on the sale of real estate not directly linked to
+an operating activity;
+
+major restructuring charges;
+
+impairment losses resulting from the shutdown of an activity or
+a plant;
+
+impairment losses resulting from testing CGUs for impairment
+(a CGU includes tangible assets, intangible assets and allocated
+goodwill, if any);
+
+the impact of significant litigation;
+
+the remediation costs not generated by on-going production
+facilities (shut-down of sites, discontinued activities, previous
+years pollution);
+
+Free Cash Flow is calculated as cash flow from operating activities
+(including dividends from associates and joint ventures) + cash
+flow from investing activities (excluding acquisitions and sales of
+subsidiaries and other investments and excluding loans to associates
+and non-consolidated subsidiaries);
+
+net debt is defined as short and long-term financial debt less cash
+and cash equivalents and other current receivables - Financial
+instruments.
+
+Solvay believes that these measurements are useful tools for analysing
+and explaining changes and trends in its historical results of operations,
+
+as they allow performance to be compared on a consistent basis. However,
+they are not subject to audit and are not performance measurements
+with respect to IFRS. The methods of calculating changes used by Solvay
+may differ from those used by other companies.
+
+(1) Generally accepted accounting principles.
+
+88
+
+Solvay - Annual Report 2014
+
+
+--- Page 3 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+Analysis of the consolidated results for the accounting period ending December 31, 2014
+
+Analysis of Group operational performance
+
+IFRS Adjusted
+In €milion a | 2014 2013
+Sales 10,629 10,150 10,629 10,150
+Other non-core revenues 416 434 416 434
+Net sales 10,213 9,715 10,213 9,715
+Cost of goods sold (8,070) (7,844) (8,070) (7.844)
+Gross margin 2,559 2,305 2,559 2,305
+Commercial and administrative costs (1,225) (1189) (1,225) (1189)
+Research and innovation costs (247) (238) (247) (238)
+Other operating gains and losses (34) (83) 16 59
+Earnings from associates and joint ventures accounted for
+using the equity method (34) 34 (34) 34
+Non-recurring items (308) (239) (308) (239)
+EBIT 652 591 761 734
+Net income 13 315 89 422
+Non controlling interests 67 (44) 67 (44)
+Net income Solvay share 80 270 156 378
+Earnings per share (basic) in € 0.96 3.25 1.87 4.54
+* Restated for comparable purposes.
+Net sales
+Change in net sales Net sales Conversion Net sales
+In € million 2013* Scope forex Volume Price
+Solvay group 9,715 236 (132) 349 44 10,213
+2% (1)% 4% : 5%
+Advanced Formulations 2,432 312 (45) 140 14 2,854
+13% (2% 6% 1% 7%
+Advanced Materials 2,551 7 (13) 243 (22) 2,762
+- ()% 10% (1)% 8%
+Performance Chemicals 2,902 4 (51) (i) 30 2,944
+- (2)% - 3% %
+Functional Polymers 1,763 (89) (15) 32 (38) 1,654
+(5)% (1)% 2% (2)% (6)%
+Corporate & Business Services 67 1 (3) (65) - 5
+1% (4)% (97)% : (100)%
+
+* Restated for comparable purposes,
+
+In 2014, Group net sales grew 5.1% to € 10,213 million, supported by Operating elements
+organic volume growth +3.6% and Chemlogics’ contribution +2.4%, but Gosis of goods sold
+
+i 9
+rowed. however oy unfavorable foreign exchange developments (14) re The cost of goods sold amounted to € (8,070) million in 2014, up 3%
+et sales grew +17% in Advanced Formulations and + 9 In Advance! compared to prior year, driven by Chemlogics’ acquisition, volumes
+
+Materials, both underpinned by innovation-driven demand. Net sales growth impact on variable costs and inflation. This increase was partly
+
+increased #1 A ‘eat Performance Chemicals we pe pricig partially offset by the positive effect of competitiveness improvement linked to
+weighed down by forex, and they fell (6.2)% in Functional Polymers excellence initiatives and, to a lesser extent, by the favorable foreign
+
+aus to lower fave material prices, the divestment of Benvic as well as exchange rate effects (net impact of the depreciation of the Brazilian
+unfavorable rorex real and the Japanese yen compared to euro and US dollar).
+
+Solvay - Annual Report 2014 89
+
+
+--- Page 4 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Commercial and administrative costs
+
+Commercial and administrative costs of € (1,225) million in 2014 rose by
+€ (36) million or by 3% compared to prior year. This increase is primarily
+due to the inflation experienced over the different regions where the
+Group operates. The impact of Chemlogics' acquisition is partly offset by
+favorable foreign exchange rate effects.
+
+Research and innovation costs
+
+Research and innovation costs amounted to € (247) million in 2014,
+increasing by 4% compared to prior year thanks to reinforced research
+efforts of the business units. The ratio of research and innovation cost
+on net sales remained stable at 2.3%.
+
+Other operating gains and losses
+Other operating gains and losses in 2014 amounted to € 16 million on an
+adjusted basis, compared to € 59 million in 2013. In 2013, the realignment
+
+REBITDA
+
+Changes
+
+in REBITDA Conversion
+
+In € million 2013* Structure forex Volume
+
+of insurance policies of the Group had led to the reversal of provisions for
+positive € 22 million. The rest of the variance is essentially due to an
+unfavourable net balance of exceptional items.
+
+On an IFRS basis, other operating gains and losses amounted to
+€ (94) million, or a € (110) million difference with the adjusted accounts
+and corresponding to the depreciation of PPA on fixed assets relative to
+Rhodia's acquisition. Please refer to note 5 to the consolidated financial
+statements.
+
+Earnings from associates and joint ventures accounted for
+using the equity method
+
+Earnings from associates and joint ventures accounted for using the
+equity method amounted to € (34) million compared with € 34 million
+in 2013. The decrease of € 67 million is largely driven by an exchange loss
+on euro debt due to rubble devaluation, reducing RusVinyl joint venture
+Net Equity.
+
+Others
+
+including
+
+equity
+
+Price Variable costs Fixed costs earnings
+
+Group 1.611 85 (15) 139
+
+44 38 (62) (57) 1,783
+
+* Restated for comparable purposes.
+
+REBITDA grew 11% to € 1,783 million from € 1,611 million in 2013, with
+organic volumes up 9% or € 139 million. Unfavorable foreign exchange
+rates for the year and the phase-out of CER carbon credits weighed
+€ (73) million. External growth, mostly Chemlogics, contributed 5% or
+€ 85 million
+
+The wide range of excellence measures spanning from manufacturing
+to innovation, marketing and sales strengthened operating performance
+and offset the inflation in our fixed cost base.
+
+In a deflationary raw material context, the Group was able to maintain
+price increases and reported a positive pricing power. Selling prices
+increased € 44 million year on year and raw material prices declined
+€ (38) million, resulting in a € 82 million positive net price effect on
+REBITDA to which excellence initiatives on variable costs and value
+pricing contributed.
+
+All Operating Segments contributed to Solvay’s REBITDA increase.
+Innovation-driven demand bolstered volumes and profit at the Group’s
+growth engines Advanced Formulations and Advanced Materials.
+Performance Chemicals and Functional Polymers delivered strong cost
+reductions with operational excellence programs.
+
+The Group’s REBITDA margin on net sales widened SO basis points to
+17.5% from 16.6% in 2013, a substantial improvement when considering
+€ (15) million forex impact and the CER credit phase-out between the
+two years.
+
+Depreciation and amortization charges
+
+In 2014, depreciation and amortization charges amounted to € (641) million
+on an adjusted basis versus € (614) million in 2013. This increase is mainly
+linked to the acquisition of Chemlogics
+
+Depreciation and amortization charges in 2014 IFRS accounts amounted
+to € (751) million or a € (110) million difference with the adjusted accounts
+and corresponding to the depreciation of PPA on fixed assets relative to
+Rhodia’s acquisition.
+
+Non-recurring Items
+
+Non-recurring Items of € (308) million (€ (239) million in 2013) included
+restructuring expenses of € (49) million versus € (115) million in 2013,
+as well as other costs primarily linked to environmental, litigation and
+portfolio management provisions for a combined € (99) million compared
+to € (59) million in the prior year. It also included non-cash impairment
+charges of € (160) million chiefly relating to Solvay's investment in
+the RusVinyl joint venture and to a lesser extent relative to Emerging
+Biochemicals epichlorhydrine plant in China.
+
+Operating result
+
+EBIT, on an adjusted basis, grew 4% to € 761 million from € 734 million in
+2013. Besides amortization and depreciation charges of € (641) million, it
+included overall financial charges of € (65) million related to the RusVinyl
+project financing, including impacts from the 60% appreciation of the
+euro against the ruble since the end of 2013 on debt expressed in euros.
+
+EBIT on an IFRS basis totaled € 652 million. The difference between
+IFRS and adjusted figures reflects the Rhodia non-cash PPA depreciation
+impact of € (110) million.
+
+90 Solvay - Annual Report 2014
+
+
+--- Page 5 ---
+
+Financial & extra-financial information
+
+Analysis of operational performance by Operating Segment
+
+MANAGEMENT REPORT
+
+Adjusted Year on year
+meron i a evolution
+Net sales 10,213 9,715 5.1%
+Advanced Formulations 2,854 2,432 7%
+Advanced Materials 2,762 2,551 8.3%
+Performance Chemicals 2,944 2,902 14%
+Functional Polymers 1,654 1763 (6.2%
+Corporate & Business Services : 67 nm,
+REBITDA 4,783 160 11%
+Advanced Formulations 426 347 23%
+Advanced Materials 709 624 14%
+Performance Chemicals 724 682 6.1%
+Functional Polymers m 89 25%
+Corporate & Business Services (188) (131) (43)%
+* Restated for comparable purposes.
+
+ADVANCED FORMULATIONS
+
+Adjusted Year on year
+In €milion 2 ee evolution
+Net sales 2,854 2,432 7%
+Novecare 2,033 1,581 29%
+Coatis 484 486 (0.49)%
+‘Aroma Performance 337 365 (7.6)%
+REBITDA 426 347 23%
+
+* Restated for comparable purposes,
+
+In 2014, net sales at Advanced Formulations grew 17% to € 2,854 million
+from € 2,432 million last year. Chemlogics contributed 13%, while organic
+volume growth was 6%, and prices increased 1%. Forex headwinds had
+an adverse impact of (2)%.
+
+In 2014, REBITDA grew 23% to € 426 million, supported by organic and
+external volume growth. Unfavorable foreign exchange rates led to a
+decline of € (8) million.
+
+Solvay - Annual Report 2014
+
+At Novecare, growth was driven by the oil & gas activities. The successful
+and swift integration of Chemlogics strongly contributed to this good
+dynamic.
+
+Coatis was impacted by Brazilian economy which suffered from weak
+competitiveness and imports and persistent drought in the country.
+
+Aroma Performance benefited from good growth in demand for vanillin
+and in pricing power in inhibitors, but industrial issues throughout the
+first part of the year reduced its performance.
+
+o1
+
+
+--- Page 6 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+Products by GBU Applications Markets Trademarks Competitors
+Novecare
+
+AGRHO®,
+
+STARGUAR®,
+Surfactants AGHRO® N PROTECT®,
+
+SOPROPHOR®,
+
+Agro, Feed & Food RHODOLINE® AKZO Nobel, BASF,
+Dispersion, foaming, conditioning, Clariant, Croda, Dow,
+: ; Consumer Goods & Healthcare
+
+Amines surface modification, intermediate, RHODIASOLV® Koch, Huntsman,
+
+Synthetic and natural
+polymers
+
+Phosphorous chemistry
+
+gelling, rheology
+
+industrial Applications
+Energy & Environment
+
+SIPOMER®, MIRACARE®,
+RHEOMER®, JAGUAR®
+
+MACKAM®, PROBAN®,
+TIGUAR®, TOLCIDE®
+
+Lamberti Grp
+Oxiteno, Stepan
+
+Coatis
+
+Phenol and derivatives
+
+Synthetic resins & molding compounds
+
+(Epoxy, policarbonate, polyamide,
+phenolic MMA resins)
+
+Consumer Goods
+
+Oxygenated solvents,
+of which:
+
+Ketonic solvents
+
+Adhesives, cosmetics, mining, coating,
+Print Inks, wood coating, oilfield,
+cleaners, automotive, industrial paints
+
+& Healthcare
+Automotive & Aeronautics
+Building & Construction
+Industrial Applications
+Agro, Feed & Food
+
+Dow, Ineos, Shell
+
+Arkema, Sasol,
+Halterman
+Celanese, Ineos,
+
+‘Acetic solvents pharma, solubilisation of actives and RHODIASOLV™ sere esl
+Glyceryn-based solvents ‘AUGEO™
+Aroma Performance
+Fragrances, building block agro, Consumer Goods & Healthcare
+Cyclopentanone pharma Agro, Feed & Food BASF, Nippon Zeon
+Electronics Industrial Applications RHODIASOLV® XPT
+Natural vanillin Flavors Agro, Feed & Food RHOVANIL® NATURAL Shanghai apple, Bestally,
+
+Safisis, Symrise
+
+Vanillin & ethyl-vanillin
+
+Borregaard, Jiaxing Thrive,
+
+Agro, Feed & Food RHOVANILS,
+Flavors, fragrances, food Consumer Goods & Healthcare RHODIAROME® ena oa
+Borregaard, jiaxing Thrive,
+Flavors Agro, Feed & Food ith ee ROME® Wanglong, Shixing,
+onsumer Goods & Healthcare cee inal oa
+Borregaard
+Agro, Feed & Food ,
+Fragrances, crop protection Consumer Goods & Healthcare VANILTEK™ Jiaxing Wanglong,
+
+Industrial Applications
+
+Shixing, Camlin, Anhui
+bayi
+
+GOVANIL", GOVANIL™
+
+Vanilla flavors Flavors Agro, Feed & Food INTENSE, GOVANIL™ FGF, Prova, Borregaard
+NATURAL
+RHODIANTAL® ORIGINAL, Kalosut ilindian &
+IBCH Fragrances Consumer Goods & Healthcare RHODIANTAL® G psutra, small Indian
+CANDALUM® inese companies
+
+Triflic acid (TA)
+
+Intermediate for liquid crystal
+
+Consumer Goods & Healthcare
+
+Central Glass, Peric,
+Jiangxi Time
+
+Intermediate for battery electrolyte
+(LiTA)
+
+Electrical & Electronics
+
+Starting raw material for pharma
+
+Consumer Goods & Healthcare
+
+Triflic acid anhydride (TAA)
+
+Intermediate for liquid crystal
+Starting raw material for pharma
+
+Consumer Goods & Healthcare
+
+LITFSI
+
+Antistatic agent
+
+Electrical & Electronics
+
+Electrolyte salt for batteries lonic liquid
+
+3M, Mitsubishi Materials,
+Morita
+
+Trifluoroacectic Acid (TFA)
+
+Intermediate for agro
+
+Agro, Feed & Food
+
+Lantian, SRF, Halocarbon,
+Asian players
+
+Intermerdiate for pharma
+
+Consumer Goods & Healthcare
+
+Building block for agrochemicals
+
+Agro, Feed & Food
+
+Solvent for electronics
+
+industrial Applications
+
+Pyrocatechol = Camlin, Sanjili, UBE
+Building block for drugs synthesis Consumer Goods & Healthcare
+Building block for fragrances Consumer Goods & Healthcare
+
+92 Solvay - Annual Report 2014
+
+
+--- Page 7 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Products by GBU Applications Markets Trademarks Competitors
+Monomers inhibitors Industrial Applications
+Building block for dyes Industrial Applications Camlin, Eastman, Mitsui,
+Building block for agrochemicals Agro, Feed & Food Ube, Sanjili
+; Building block for polymers Industrial Applications
+Hydroquinone Camiin, Eastman,
+Building block for rubber anti-oxidants Industrial Applications eat Mitsui, Ube,
+Photography reagent Industrial Applications Camlin, Eastman, Mitsui,
+Building block for food anti-oxidants Agro, Feed & Food Ube, Sanjili
+MeHO, Building block for agrochemicals Agro, Feed & Food CST
+Monomers inhibitors Industrial Applications CST, Seiko, Kawagushi
+TBC Monomers inhibitors Industrial Applications Camlin, KKPunja, DIC
+Building block for agrochemicals Agro, Feed & Food
+Veratrole - :
+Building block for drugs synthesis Consumer Goods & Healthcare
+Solvent for electronics Industrial Applications
+Anisole Building block for agrochemicals Agro, Feed & Food
+Building block for drugs synthesis Consumer Goods & Healthcare
+ADVANCED MATERIALS
+Adjusted Year on year
+ine mon De 2 evolution
+Net sales 2,762 2,551 8.3%
+Specialty Polymers 1490 1,288 16%
+Silica 451 a6 8.5%
+Rare Earth Systems 266 298 (11)%
+Special Chemicals 554 549 0.99%
+REBITDA 709 624 14%
+
+* Restated for comparable purposes,
+
+Net sales of Advanced Materials increased 8.3% to € 2,762 million
+in 2014 from € 2,551 million in 2013. Growth was supported by strong
+volumes +10% in most end markets and especially in auto and smart
+devices. Positive volume impacts were partially held back by lower raw-
+material led prices (1) % mainly at Rare Earth Systems, as well as by
+unfavorable foreign exchange rates (1) %.
+
+REBITDA for Advanced Materials reached a record, up 14% at
+€ 709 million underpinned by robust innovation-driven demand, despite
+significant forex headwinds mainly Japanese yen of € (38) million, chiefly
+of a transaction nature.
+
+The excellent Operating Segment’s REBITDA reflected the performance
+of its four businesses. Beyond volume dynamics, excellence programs
+in manufacturing, purchasing and commercial activities also supported
+this performance.
+
+Solvay - Annual Report 2014 93
+
+
+--- Page 8 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Products by GBU
+Specialty Polymers
+
+Applications
+
+Markets
+
+Trademarks
+
+Competitors
+
+Biomaterials for implantable
+devices, sulfone polymers, aromatic
+polyamides, aromatic polyketones
+
+Healthcare
+
+Consumer Goods &
+Healthcare
+
+SOLVIVA® BIOMATERIALS,
+RADEL® PPSU, UDEL® PSU,
+IXEF® PARA, KETASPIRE® PEEK
+
+Invibio, Evonik, Victrex, BASF,
+Sabic
+
+Sulfone polymers, aromatic polyamides
+
+Consumer goods
+
+Consumer Goods &
+Healthcare
+
+RADEL® PPSU, VERADEL® PESU,
+AMODEL® PPA, IXEF° PARA
+
+BASF, Sabic
+
+Aromatic polyamides, fluorinated
+
+Automotive &
+
+AMODEL® PPA, IXEF®
+PARA, TECNOFLON® FKM,
+
+Dupont, Dyneon, EMS, Victrex,
+
+elastomers, aromatic polyketones, Automotive TECNOFLON® PFR FFKM, 1
+flucrinated fluids Aeronautics KETASPIRE® PEEK, TORLON® —Evonik, Mitsui, Kuraray
+PA, FOMBLIN® PFPE
+RADEL® PPSU and SOLEF®
+PVDF FOAMS, RADEL® PPSU,
+Sulfone polymers, fluoropolymers, ; a
+aromatic polyamides, aromatic Aircraft Automotive & VIRANTAGE® PESU, AJEDIUM™ | cohic, Victrex, Evonik, Arkema
+
+polyketones
+
+Aeronautics
+
+FILMS, IXEF® PARA, AVASPIRE®
+PAEK, KETASPIRE® PEEK,
+TORLON® PAI
+
+Aromatic polyamides, sulfone
+polymers, aromatic polyketones
+
+Mobile electronics
+
+Electrical & Electronics
+
+IXEF® PARA, AMODEL® PPA,
+KALIX® HPPA, RADEL® PPSU,
+KETASPIRE® PEEK, AVASPIRE®
+PAEK, XYDAR® LCP
+
+Dupont, EMS, Evonik
+
+Fluoropolymers, cross-linkable
+compounds
+
+Wire & cables
+
+Electrical & Electronics
+
+HALAR® ECTFE, HYFLON® PFA/
+MFA®, SOLEF® PVDF, POLIDAN®
+PEX, COGEGUM® XLPO-HFFR
+
+DuPont, Daikin, Dyneon,
+Polyone, AEI, Arkema
+
+Aromatic polyketones, polyvinylidene
+chloride, fluoropolymers
+
+Industrial and protective
+coatings
+
+Industrial Applications
+
+TORLON® Al, DIOFAN® PVOC,
+HALAR® ECTFE, SOLEF® PVDF,
+HYFLON® PFA/MFA®,
+KETASPIRE® PEEK
+
+DSM, Lubrizol, Arkema, 3M,
+Dyneon, Victrex
+
+Fluoropolymers, fluorinated fluids
+
+Industrial equipment
+
+Industrial Applications
+
+HALAR® ECTFE, SOLEF® PVDF,
+HYFLON® PFA/MFA®, FOMBLIN®
+
+Dupont, Arkema, Dyneon, Daikin
+
+Fluorinated fluids, fluoropolymers,
+aromatic polyketones
+
+Semiconductor
+
+Industrial Applications
+
+GALDEN® PFPE, SOLEF® PVDF,
+HALAR® ECTFE, KETASPIRE®
+PEEK
+
+3M, Victrex, Arkema, Dupont
+
+Cross-Linkable compounds,
+
+POLIDAN® PEX, SOLEF® PVDF,
+HALAR® ECTFE, RADEL® PPSU,
+
+fiuoropolymers. sulfone polymers Plumbing Building & Construction ACUpEL® MODIFIED PPSU, Basf, Dyneon, Arkema, EMS
+UDEL® PSU
+SOLEF® PVDF, HYFLON® PFA/
+Fluoropolymers, fluorinated MFA®TECNOFLON® FKM, Arkema, Dupont. Daikin, Viet
+elastomers, cross-linkable compounds, —_Oil & gas Energy & Environment  TECNOFLON® PFR FFKM, rkema, Oupont, Dalkin, Victrex,
+
+aromatic polyketones
+
+POLIDAN® PEX, KETASPIRE®
+PEEK
+
+Basell
+
+Fluoropolymers
+
+Li-lon batteries
+
+Energy & Environment
+
+SOLEF® PVDF
+
+Kureha, Arkema
+
+Specialty Materials
+
+Fuel cells
+
+Energy & Environment
+
+AQUIVION® PFSA
+
+Fluoropolymers
+
+Photovoltaics
+
+Energy & Environment
+
+SOLEF® PVDF, HALAR® ECTFE
+
+Dyneon, AGC, Dupont, Arkema
+
+RADEL® PPSU, UDEL® PSU,
+
+Sulfone polymers, fluoropolymers Membranes Energy & Environment Fe oo oe upg BASE. Arkema, Kureha
+Silica
+Automotive & ZEOSIL.
+Highly dispersible silica (HDS) Energy-efficient tires utomotive ZEOSIL® PREMIUM Evonik, PPG, OSC
+EFFICIUM?
+Automotive &
+Polymer reinforcement Aeronautics ZE0SIe Evonik, PPG, OSC
+Industrial Applications
+; JM Huber, PQ
+ota Oral care (toothpaste) —_Eqnsumer Goods TIXOSIL® Corporation, WR Grace, Evonik,
+JM Huber, PQ
+Nutrition Agto, Feed & Food TIXOSIL® Corporation, WR Grace, Evonik,
+
+Osc
+
+94
+
+Solvay - Annual Report 2014
+
+
+--- Page 9 ---
+
+Products by GBU
+Rare Earth Systems
+
+Rare earth oxide formulations
+
+Applications
+
+Automotive catalysts
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+Markets
+
+Automotive &
+Aeronautics
+
+Trademarks
+
+ACTALYS®,
+
+ACTALYS® HSA,
+EOLYS®POWERFLEX®,
+E-SIS®
+
+OPTALYS®, STABILYS®,
+
+Competitors
+
+DKK, MEL Chemicals, Sasol
+
+High performance
+polishing
+for glass solutions
+
+Electrical & Electronics
+
+CEROX®
+
+OST, Treibacher, Ferro
+
+Energy-efficient lighting Electrical & Electronics LUMINOSTAR® Nichia
+Inorganic Pigments
+
+forhigh performance Electrical & Electronics. + NEOLOR®
+
+polymers
+
+Semiconductor polishing Electrical & Electronics ZENUS® Nikki
+
+Special Chemicals
+
+Hydrogen fluoride
+
+Refineries, steel &
+surface treatment,
+chemical industry
+
+Industrial Applications
+
+Honeywell, Lanxess, ODF, 3F,
+Mexichem, China Vingpeng,
+Zheijang Sanmei, Shandong
+donuye Group
+
+Fluor-based compounds
+
+High voltage engineering,
+wet chemicals for chip
+etching and cleaning,
+chemicals for Li-batteries
+
+Electrical & Electronics
+
+for C,F,: SIFREN®
+
+Kemeite, Liming, Henan
+Huaneng Fluoride and others,
+HaloPolymer, Asahi Glass, Kanto
+Denka, Show Denko, Cental Glas,
+Linde, AirProducts
+
+Insulation, energy saving
+
+Building & Construction
+
+SOLKANE®, IXOL°
+
+Honeywell, Arkema, DuPont,
+Albarnali, Chemtura
+
+Automotive &
+
+3 NOCOLOK®, Morita, Honeywell,
+razing, refrigerants Aeronautics Industrial © NOCOLOWE Monta,
+Applications
+
+Solvents (precision , ° DuPont, Honeywell, Arkema,
+
+een Industrial Applications SOLVOKANE! carer meyer ae
+TAC, TFA, TFAH, TFAEt, TFK, ETFB0, _Buiidling blocks in Consumer Goods Halocarbon, SRF, Sinochem
+TAG, TFA, TFAH, TFAEt, TFK,ETFBO, active ingredients, & Healthcare Halocarbon, SRF, ,
+
+3 intermediates Agro, Feed & Food
+
+Propellantsin asthma ood
+
+Solkane 227ph, Solkane 134a ph sprays and other medical -O75urmer woods SOLKANE® Mexichem, DuPont
+
+sprays
+
+& Healthcare
+
+Precipitated calcium carbonate (PCC)
+
+Sealant Building & Construction — SOCAL®, WINNOFIL® Shiraishi-Omya, SMI
+Paint Building & Construction — SOCAL® Schaefer Kalk
+
+Plastisol Automotive SOCAL®, WINNOFIL® Cales de Llierca, SMI
+Polymer Building & Construction — SOCAL®, WINNOFIL® Shiraishi-Omya,SMI
+
+Healthcare & Food
+
+Consumer Goods &
+Healthcare
+Agro, Food & Feed
+
+SOCAL’
+
+SMI
+
+Electronic grade H,0,
+
+Semiconductors,
+displays, photovoltaic,
+wet chemicals for chip
+etching and cleaning
+
+Electrical & Electronics
+
+INTEROX® PICO, INTEROX® EG-1,
+
+INTEROX® EG10,
+INTEROX® EG-ST
+
+BASF, MIGAS, Santoku,
+PeroxChem, Changchun,
+Dongwoo Finechern
+
+Electronic grade HF and NH,F
+
+Semiconductors,
+displays, photovoltaic,
+wet chemicals for chip
+etching and cleaning
+
+Electrical & Electronics
+
+Stella Chemifa, Honeywell,
+Diakin, Morita, Kaisheng
+
+Barium compounds
+
+Paints, coatings,
+batteries, plastics, paper
+
+Automotive &
+Aeronautics Electrical &
+Electronics Building &
+Construction
+
+Sachtleben, Chinese producers
+
+Ceramic capacitors,
+display, ceramics and
+special glasses
+
+Electrical & Electronics
+
+Red Star, Jingshan, Sakai
+Chemicals, Nippon Chemicals
+
+Strontrium compounds
+
+Display and photovoltaic
+glasses, ferrites
+
+Electrical & Electronics
+
+Red Star, Quimica del Estroncio,
+Jinshi, Kinglong
+
+Solvay - Annual Report 2014
+
+
+--- Page 10 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+PERFORMANCE CHEMICALS
+
+Adjusted Year on year
+In € million 2013* evolution
+Net sales 2,944 2,902 1.4%
+Soda Ash & Derivatives 1,377 1,351 1.9%
+Peroxides 512 470 9.1%
+Acetow 641 658 (2.5)%
+Emerging Biochemicals 413 424 (24)%
+REBITDA 724 682 6.1%
+
+* Restated for comparable purposes.
+
+Net sales of Performance Chemicals grew 1.4% to € 2,944 million.
+Price increases of 3% compensated for the adverse foreign exchange
+developments which lowered the segment's sales by (2)%. Volumes
+stood stable.
+
+REBITDA for Performance Chemicals grew 6.1% to € 724 million supported
+by good pricing. The Operating Segment’s good performance was backed
+by all four businesses, despite unfavorable currency developments,
+chiefly at Acetow and Emerging Biochemicals.
+
+Soda Ash & Derivatives delivered solid performance. Price increases
+across all regions and its breakthrough competitive program could make
+up for inflation. The targeted € 100 million annual cost savings plan is
+well on track to be achieved by the end of 2015.
+
+Peroxides’ volume growth benefited from higher H,0, demand in mature
+markets as well as developments of new applications.
+
+Acetow showed a record performance in 2014 driven by higher prices and
+despite the destocking impact on volume during the second half of the
+year.
+
+Emerging Biochemicals was flat, reflecting weak demand in PVC and
+epichlorohydrin as well as pricing pressure from competition
+
+Following unfavorable conditions specific to the Chinese market, the
+Group decided to put on hold the construction of a production asset
+in China and booked an impairment of € (34) million (reported as non-
+recurring item below REBITDA).
+
+Note: The sale of the Eco Services business to CCMP CAPITAL was completed on
+December 1, 2014 (consolidated as discontinued business).
+
+Products by GBU Applications Markets Trademarks Competitors
+Soda Ash & Derivatives
+Building & Construction
+Flux in flat glass Automotive & Aeronautics SODA SOLVAY® DENSE
+Energy & Environment
+- ‘Agro, Food & Feed Tata Chemicals, FMC, Ciech,
+Flux in container glass Concumer Goods f Healthcare SODA SOLVAV® DENSE Sisecam, Nirma, Bashkim, OCI,
+Na,CO, soda ash F Good Eti-Soda, Novacarb
+Water softener in detergents Etleatheare SODA SOLVAY® LIGHT
+Metallurey Industrial Applications SODA SOLVAY? DENSE
+Consumer Goods
+Healthcare & Healthcare
+; SOLVAIR®SELECT 200
+Na,C0, NaHCO, 24,0 Flue gas cleaning agent Energy & Environment ep LVAIR®2ELECT 180 Natronx
+trona Supplement in animal feed, Agro, Food & Feed
+supplement in food
+Supplement in animal feed, Agro, Food & Feed BICAR®Z, BICAR® Food,
+supplement in food BI-PROTEC®
+Enerey § Envi : BICAR°TEC SOLVAIR°SBO/3 Church & Dwight,
+NaHCO, sodium Flue gas cleaning agent Inductvial Applications SOLVAIR® $300, FMC, Natural Soda,
+bicarbonate PR SOLVAIR® $350, Tata Chemicals, Sisecam, Ciech,
+
+Active ingredients(API), excipient
+in effervescent formulations,
+electrolyte in hemodialysis
+
+Consumer Goods
+& Healthcare
+
+BICAR® PHARMA
+
+Bashkim, Eti-Soda, Novacarb
+
+Supplement in food,
+supplement in animal feed,
+road treatment
+
+(de-icing and de-dusting),
+de-humidification
+
+CaCl,.nH,0 calcium
+chloride
+
+Agro, Food & Feed
+Industrial Applications
+
+cAso®
+
+Tetra, Nedmag, Zirax
+
+Na,SO, sodium sulfite Flue gas cleaning agent
+
+Energy & Environment
+Industrial Applications
+
+INDSPEC
+
+96
+
+Solvay - Annual Report 2014
+
+
+--- Page 11 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+Products by GBU Markets Trademarks Competitors
+
+Pulp (bleaching function) Consumer Goods INTEROX®
+
+& Healthcare MyH,0
+- - Arkema, Evonik, Peroxychem,
+
+Hydrogen peroxides Chemical intermediates synthesis Eka, Kemira, OCI
+
+(HPO, caprolactam, caprolactone, Industrial Applications INTEROX?
+
+ESBO, etc.) & mining
+
+Home care (bleached powder OXYPER®
+2a checea povnaides detergent) & personal care (oral & Consumer Goods & Healthcare INTEROX® Evonik, Kemira, Peroxychem, OCI
+
+PARAMOVE®
+
+sycrogen peroides Aquaculture, food safety Agro, Food & Feed eNO pRoxitanes Ek
+and peracetic acid INTEROX®, -
+
+Water treatment Energy & Environment PROXITANE®, oxvsTRONG® — EvONIK. Kemira, Peroxychern
+een Oil & gas Energy & Environment eee TANE® Evonik, Kemira, Peroxychem
+
+Acetow
+
+Cellulose acetate tow
+
+RHODIA® FILTERTOW
+
+Celanese, Eastman, Daicel/
+Mitsubishi, Chinese companies
+(jinan, Henan, Xinyang)
+
+Cigarette filters RHODIA DE-TOW®
+Cellulose acetate tow 8 Consumer Goods & RHODIA COLOURED TOw*
+Cellulose acetate flakes/ Healthcare
+cal RHODIA FILTERSORB®
+Filter tow, yarn, pharma, plastics Celanese, Eastman, Daicel/
+Cellulose acetate flakes ang cut and tear films RHODIA ACETOL® Mitsubishi, Pacetati, Fergana
+Foams, fertilizers, laundry
+? 7 Consumer Goods
+Cleaning & bleaching, disinfectant, , 7
+Nitric Acid coatings, adhesives & elastomers, Automotive & Aeronautics TARANIS™ Vera, Borealis, BASF, Radic
+metal reatment, explosives nd ASTO, Feed 6 Food axam
+blasting agents, cetane improver PP
+Packaging for cosmetics as well
+Cellulose acetate as hair accessories, toys, eyeglass Consumer Goods ocALio™ Eastman, DuPont, Braskem,
+compoun rames, handling tools an ectrical & Electronics aicel, Pacetati, Mazzucchelli
+dd frames, handling tools and Electrical & El Daicel, P Mazzucchell
+consumer electronics
+Outdoor applications like
+window frames, exterior doors
+Acetylated wood and shutters, decking, exterior Building & Construction Accovae”
+Cladding and facades etc. as well
+as for construction work
+Emerging Biochemicals
+Pipe, Httings, profiles, wires, Building & Construction SIAMVIC® Thai Plastic & Chemical PCL
+PyC Consumer Goods
+Film, sheets & Healthcare
+Industrial Applications
+Consumer Goods
+, & Healthcare ;
+NaOH caustic soda Multiple applications ree ra olications AGC Chemicals (Thailand)
+Agro, Feed & Food
+Building & Construction
+Electrical & Electronics ,
+Bio-based epichlorohydrin Epoxy resins Consumer Goods EPICEROL® Samsung Fine Chemicals,
+
+(1) ACCOYA® is a registered trademark of Accsys Technologies.
+
+& Healthcare
+Automotive & Aeronautics
+
+Solvay - Annual Report 2014
+
+Dow
+
+97
+
+
+--- Page 12 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+FUNCTIONAL POLYMERS.
+
+Adjusted Year on year
+In € million 2013* evolution
+Net sales 1,654 1,763 (6.2)%
+Polyamide 1,536 1.557 (1.3)%
+Chloravinyls 17 206 (43)%
+REBITDA m 89 25%
+
+* Restated for comparable purposes.
+
+Functional Polymers reported net sales of € 1,654 million in 2014
+compared to € 1,763 million last year. The sale of the Benvic PVC
+compounding business represented a decline of (5)% or € (89) million.
+Furthermore, volume growth of 2% was insufficient to compensate for
+a decline in prices of (2)% and unfavorable foreign exchange rates taking
+off (1)%.
+
+REBITDA increased 25% to € 111 million from € 89 million in 2013.
+The operating performance was supported by both the delivery of the
+profit restoration plan and solid performance at Engineering Plastics
+which grew its volumes in Asia and showed strong pricing power. Fibras
+suffered from Brazil's weak macro-economic conditions.
+
+Discontinued Operations: Solvay’s European Chlorovinyls businesses,
+planned to become part of the Inovyn joint venture with INEOS, as well
+as Solvay Indupa, are classified as Discontinued Operations.
+
+The sale of Benvic to OpenGate Capital was completed in June 2014.
+
+The remaining Chlorovinyls businesses refer to the residual trading
+activities not included in the INEOS joint venture agreement.
+
+The market environment declined in 2014, impacting the performance of
+the European Chlorovinyls business. Net sales amounted to € 2.4 billion
+and REBITDA came in at € 111 million for the combined European and
+Latin American business.
+
+98 Solvay - Annual Report 2014
+
+
+--- Page 13 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Products by GBU Applications Markets Trademarks Competitors
+Polyamide
+Polyamide & Intermediates
+Industrial Applications Invista, Ascend, CSM-
+Adipic acid Automotive & Aeronautics RHODIACID® CPEC, CNPC, BASF,
+Polyamide 6.6, other products for
+vy : P Consumer Goods Radici, Asahi, Lanxess
+polyurethane and coating applications, \yestneare
+lasticizers
+Hexamethylenediamine Bulging & Construction RHODIAMINE® {huista Ascend, BASF,
+ectrical & Electronics 5
+Polyamide resin: Industrial Applications
+. re 4 Plastic compounds for engineering, Automotive & Aeronautics
+1 plastics, industrial yarns, textile and yen ne STARAMID® Invista, Ascend, BASF,
+= PAHT fibers applications, tire cords, airbags, Building & Construction Radici, Asahi
+= PA6.6 SD textile Electrical & Electronics
+m= PA6.6FD Consumer Goods & Healthcare
+Polyamide fibers and far for textile and carpet markets, automotive & Aeronautics PASSOREA® Ascend,
+polyamide tow sutornotive decoration and packaging Consumer Goods & Healthcare RHODIA® TOW scend, Jiaxing
+Engineering Plastics
+Polyamide 66 7 TECHNYL® DuPont, BASF, Radici,
+olyamide 6.6 compounds TECHNYL STAR® Ascend, Invista
+Polyamide 6 compounds TECHNYL STAR® DuPont Radic
+Long Chain Polyamide Metal replacement, fire protection, tammotive & Aeronautics TECHNYL EXTEN® Arkema, Evonik
+compounds thermal management, fluid barrier Electrical & Electronics :
+High temperature Consumer Goods & Healthcare TECHNYL® ONE DuPont, EMS, DSM
+Polyamide compounds Energy & Environment
+Building & Construction TECHNYL® R
+Recycled Polyamide ; © Very fragmented
+compounds Industrial Applications TECHNVIS Eco competition
+3 3
+Polyamide powders 3D Printing - Laser sintering aware TECHNYE  evonik, Arkera
+
+Design, simulation
+services
+
+Metal replacement, fire protection,
+thermal management, fluid barrier
+
+MMI TECHNYL® DESIGN BASF
+
+Fibras
+
+Hyosung, Taekwang,
+
+Textile yarns, flat and Consumer Goods AMNIe
+textured Apparel & Healthcare EMANA® on Acelon, Leatea,
+Staple fiber Abrasives consumer Goods Invista
+
+Consumer Goods
+Industrial yarns Sewing threads, tire, MRG Geetha seronautics Kordsa, Enka, CSM, SRF
+
+Industrial Applications
+CORPORATE & BUSINESS SERVICES
+
+Adjusted Year on year
+
+In € milion 20a cae evolution
+Net sales - 67 nm.
+Energy Services 2 67 nm
+Other Corporate & Business Services 2 - nm
+REBITDA (188) (131) (43)%
+
+* Restated for comparable purposes,
+
+Net sales were nil compared to € 67 million last year. The last carbon
+credit (CER) sales under the 2013 Kyoto protocol were phased out entirely
+in the first half of that year.
+
+Net costs at REBITDA level amounted to € (188) million compared to
+€ (131) million in 2013. The end of CER sales impacted Energy Services
+contribution by € (58) million and this loss was partially compensated for
+by the energy and carbon management services in Europe.
+
+Expenses related to corporate structure and corporate functions increased
+to € (213) million from (185) million last year. The difference mainly came
+from the favorable € 22 million one-off reversal of provisions linked to
+the realignment of the Group’s insurance policies booked last year.
+
+Furthermore, tight cost controls compensated for inflationary elements
+while the Group continued investing in the deployment of best-in-class
+business support services.
+
+Solvay - Annual Report 2014 99
+
+
+--- Page 14 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Energy situation
+
+Energy costs are an important part of the Group's cost structure. Net
+energy costs represented about € 0.9 billion in 2014. Energy sources were
+spread over electricity and gas (circa 75%), coke, coal and anthracite (circa
+20%) and steam and others (circa 5%). The Solvay group has pursued an
+active energy policy for many years now. In this context, it operates an
+energy production park with a total installed capacity of 1,000 MW.
+
+Within the Group, Solvay Energy Services focuses on optimizing the
+Solvay’s energy costs and carbon emissions. Furthermore, Solvay Energy
+Services has continued deploying its operating energy efficiency
+excellence initiative called SOLWATT®, which aims at reducing energy
+consumption and optimizing energy production on industrial sites.
+SOLWATT® also defines the medium and long term energy strategy
+for each site. It is gradually rolled out and will cover all the Group’s
+manufacturing sites by the end of 2015. The objective is to reduce by
+10% the Group energy bill.
+
+Additional comments on the Group consolidated income statement of the FY 2014 (IFRS/adjusted)
+
+IFRS Adjusted
+
+In milion Tat | 2014 2013*
+EBIT 652 591 761 734
+Net financial expenses, of which:
+
+= Cost of borrowings (51) (130) (151) (190)
+Interest on lending and short term deposits 36 25 36 25
+m= Other gains and losses on net indebtedness (30) (2) (30) Q)
+= Cost of discontinued operations (163) (87) (163) (87)
+Income/losss from available-for-sale investments 0) 40 @ 40
+Result before tax 343 378 453 521
+Income tax (84) (70) (120) (203)
+Net result from continuing operations 259 209 333 312
+Net result from discontinued operations (246) 106 (244) aie)
+Net income B 315 89 422
+Non controlling interests 67 (44) 67 (44)
+Net income Solvay share 80 270 156 378
+
+* Restated for comparable purposes.
+
+Net financial expenses increased to € (309) million from € (213) million
+in 2013. Charges on net debt diminished to € (145) million from
+€ (166) million in 2013 as the repayment of € 1.3 billion of gross debt in
+the first half of 2014 helped to significantly lower the Group’s negative
+cost of carry. Net financial expenses also contained a € (19) million
+negative one-off due to the settlement of interest rate swaps in the first
+half of the year.
+
+The cost of discounting provisions for environmental and pension
+liabilities widened to € (163) million from € (87) million in 2013. This was
+mainly related to environmental provisions which in 2014 included an
+overall € (35) million negative one-off impact following applicable lower
+discount rates across geographies, whereas in 2013, increases in discount
+rates resulted in a positive impact of € 36 million. Income from “available
+for sale investments” was nil in 2014 compared with € 40 million in 2013.
+
+Income taxes on an adjusted basis narrowed to € (120) million from
+€ (209) million in 2013. The nominal tax rate was 24.6% and included
+the recognition of an exceptional € 110 million deferred tax assets. The
+underlying tax rate was 32.8%, in line with the Group’s expectations.
+
+Net result from discontinued operations was € (244) million
+against € 110 million in 2013, and related mainly to the pre-minorities
+impairment loss of € (477) million of the European Chlorovinyls assets
+to be contributed to the joint venture project Inovyn. The € 177 million
+capital gain from the sale of Eco Services partly compensated for the
+impairment loss.
+
+Net income on an adjusted basis fell to € 89 million from € 422 million
+in 2013. Net income Group Share, on an adjusted basis, came in at
+€ 156 million profit. Adjusted basic earnings per share amounted to
+€1.87.
+
+Net income Group Share on an IFRS basis amounted to € 80 million.
+
+Excluding exceptional items, net income Solvay share amounted to
+€ 635 million, versus € 507 million m in 2013.
+
+Solvay - Annual Report 2014
+
+
+--- Page 15 ---
+
+Financial & extra-financial information
+
+Net income, Group share (IFRS)
+
+—=
+In € million
+1,776
+584
+247 270
+80
+a
+2010 2011 2012 2013 2014
+
+Financing structure
+
+The net financial debt amounted to € 778 million at the end of
+December 2014, a reduction of € 363 million, compared to € 1,141 million
+at the end of December 2013.
+
+Gross debt decreased from € 3,584 million at the end of 2013 to
+€ 2,338 million at the end of 2014, using the available cash to repay debt.
+
+In 2014, Solvay repaid € 500 million EMTN bond (maturing January 2014)
+and had the opportunity to exercise the first call option in 2014 related
+to € 500 million Rhodia senior High Yield notes maturing initially in 2018
+and made an early redemption of the $ 400 million Rhodia senior High
+Yield notes maturing initially in 2020
+
+Equity amounted to € 6,778 million at the end of 2013, compared to
+€ 7,453 million at the end of 2013.
+
+At the end of 2014, the net debt to equity ratio was 11.5%.
+
+Solvay’s long and short-term ratings are Baa2/P2 (stable outlook) at
+Moody's and BBB+/A2 (stable outlook) at Standard & Poor's.
+
+Investments
+
+In € million
+
+MANAGEMENT REPORT
+
+Adjusted net income, Group share
+—
+In € million
+
+690
+378
+156
+2012 2013 2014
+restated restated
+
+Free Cash Flow
+
+Free Cash Flow was € 656 million, and included cash flow from
+discontinued operations for € 145 million.
+
+Cash flow from operating activities was € 1,621 million compared to
+€ 1,299 million last year. Besides net income of € 13 million, it consisted
+of:
+
+= depreciation, amortization and non-cash impairments that totaled
+€ 1,430 million;
+
+= change in working capital that amounted to € 236 million, of which
+industrial working capital from continuing operations represented
+€ 21m. The Group also benefited from important cash inflows related
+to added value taxes recovery.
+
+Cash flow from investing activities was € (650) million. It was mainly
+composed of capital expenditures for € (988) million (including
+€ (127) million from discontinued operations), acquisition of subsidiaries
+for € (304) million, additional funding of its 50/50 joint venture in Russia
+RusVinyl for € (98) million and the proceeds from Eco Services disposal
+for € 721 million,
+
+Capital expenditures in 2014
+(continuing operations)
+
+Advanced Formulations 166
+Advanced Materials 267
+Performance Chemicals 275
+Functional Polymers 82
+Corporate & Business Services 69
+GROUP 861
+
+Solvay - Annual Report 2014 101
+
+
+--- Page 16 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Total capital expenditures in 2014 amounted to € 861 million.
+
+Besides health, safety & environment and maintenance capital
+expenditures, the Group selectively invested in a number of strategic
+projects, with priority given to businesses and geographies with superior
+and sustainable growth potential. Several growth investments were
+realized in 2014 in our growth engines and highly resilient businesses.
+The most significant being:
+
+In Advanced Formulations
+
+= the large-scale alkoxylation facility in Singapore to serve the fast-
+growing Asian market in home & personal care, coatings, industrial,
+agrochemicals and oil & gas;
+
+= the large-scale alkoxylation unit in the United States (Texas), at an
+integrated industrial facility of LyondellBasell’s Equistar Chemicals
+affiliate, in order to serve the growing North American market;
+
+= the specialty surfactant plant in Germany to develop and produce
+surfactant solutions for Solvay’s home & personal care and industrial
+customers serving Central and Eastern Europe;
+
+Research & Innovation
+
+= the new vanillin production facility in China representing an increase
+of 40% of Solvay’s global production to serve the growing demand
+in the region.
+
+In Advanced Materials
+= the new plant of Highly Dispersible Silica (HDS) in Poland to increase
+capacity by 85,000 tons per year;
+
+m= the fluoro-polymers plant in China (in Changshu) for Specialty
+Polymers.
+
+In Performance Chemicals
+
+m= the new mega Hydrogen Peroxide for Propylene Oxide (HPPO) plant
+(330kt/year) in Saudi Arabia in joint-venture with Sadara Aramco
+and Dow;
+
+= the new Bicarbonate plant (100 kt/year) in Thailand to develop Asian
+sales
+
+In € million Net Research & Innovation costs in 2014
+Advanced Formulations 55
+Advanced Materials 96
+Performance Chemicals 21
+Functional Polymers 23
+Corporate & Business Services 51
+GROUP 247
+
+Net Research & Innovation costs in 2014 were € 247 million.
+
+Research & Innovation organization and policy are described in page 2 as
+well as in pages 28 and 29 of this report.
+
+Group employees
+The Solvay group employed 29,207 full-time equivalents (26,033 related
+to continuing operations and 3,174 related to discontinued operations) at
+December 31, 2014 compared to 29,400 at December 31, 2013. Additional
+information concerning the organization of the Group is available in
+page 32 of this report.
+
+102 Solvay - Annual Report 2014
+
+
+--- Page 17 ---
+
+Financial & extra-financial information
+
+MANAGEMENT REPORT
+
+Analysis of the parent company results (Solvay SA)
+
+In € million
+
+2013
+
+Profit for the year available for distribution 550 359
+Carried forward 4,262 4,174
+TOTAL AVAILABLE TO THE GENERAL SHAREHOLDERS’ MEETING 4,812 4,533
+Appropriation:
+
+Gross dividend 288 mn
+Carried forward 4,524 4,262
+TOTAL 4,812 4,533
+
+Solvay SA is a société anonyme created under Belgian law, with its
+registered office at rue de Ransbeek 310 at 1120 Brussels. Solvay SA has
+two branches: Solvay SA France (25, rue de Clichy, 75009 Paris, France)
+and Solvay SA Italie (Via Piave 6, 57013 Rosignano, Italy).
+
+The accounts of Solvay SA are prepared in accordance with Belgian
+generally accepted accounting principles, and include its French and
+Italian branches.
+
+The main activities of Solvay SA consist of holding and managing a
+number of participations in Group companies and of financing the Group
+from the bank and bond markets. It also manages the research center at
+Neder-Over-Heembeek (Belgium) and a very limited number of industrial
+and commercial activities not undertaken through subsidiaries.
+
+The operating result is made of the balance of the head office operating
+costs partially offset by income from industrial and commercial activities
+not undertaken through subsidiaries.
+
+Current profit before taxes amounts to € 833 million end of 2014,
+compared with € 220 million in the previous year. The current profit
+includes the operating result (€ (204) million), dividends received from
+its various participations (€ 1,226 million) and the differential between
+interest paid and received on its financing activities (€ (190) million).
+
+The balance of extraordinary results for 2014 is € (307) million, compared
+with € 102 million in 2013.
+
+The net profit of Solvay SA amounted in 2014 to € 550 million, compared
+with € 359 million in 2013.
+
+In the absence of transfers to untaxed reserves, carried forward net
+income of € 4,812 million is available for distribution.
+
+Events after the reporting period and outlook
+
+Events after the reporting period
+
+On January 29, 2015, Solvay has agreed to sell its German-based
+refrigerant business and pharma propellants to Daikin in Japan, as its
+Special Chemicals Global Business Unit is gearing its activities towards
+selective high value-added segments in fluorine specialties and high
+purity chemicals. Global Business Unit (GBU) Special Chemicals will divest
+all of its businesses on its site in Frankfurt. Completion of the transaction
+is subject to customary closing conditions, including regulatory clearance
+in Germany and Austria.
+
+Outlook
+
+Solvay is confident to sustain recent momentum. The levers of the
+transformation continue to be deployed and Solvay is currently well-
+positioned to meet its 2016 ambitions.
+
+Management of risks
+
+Risk management (processes, risks identified and actions undertaken to
+reduce them) is described on pages 75 to 85 of this report.
+
+Financial instruments
+
+The management of financial risks and any use of financial instruments
+to hedge them are described on 79 and 80 and pages 184 to 193 (Note 37
+Financial instruments and financial risk management to the consolidiated
+financial statements) of this report.
+
+Audit Committee
+
+The mission, composition and modus operandi of the Audit Committee
+are described on pages 57, 58 and 72 (Point 14, Annex 1: Audit Committee
+mission statement of the Corporate governance statement) of this report.
+
+Corporate Governance Statement
+
+The Corporate governance statement is included on pages 47 to 74 of
+this report. It encompasses among others a description of the legal
+and shareholding structure of Solvay, its capital and dividend policy,
+the modus operandi of the Shareholders’ Meetings, the composition
+and modus operandi of the Board of Directors and its Committees,
+the composition and modus operandi of the Executive Committee,
+the Compensation policy and the most recent compensation report, a
+description of the main characteristics of risk management and internal
+control systems, the measures taken by Solvay to comply with Belgian
+rules on insider trading and a description of the Group’s Code of Conduct.
+
+Solvay - Annual Report 2014 103
+
+
+--- Page 18 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+3. Additional financial information
+
+Historical financial data
+
+The following table presents the historical figures of the Group as .
+published at the reference date. These data have not been affected by
+possible subsequent restatements due to perimeter changes, IFRS/IAS
+standards evolution, etc.
+
+Over the reference periods, the following main changes have intervened:
+
+= 2011: Rhodia consolidated as from September 17;
+
+2012: Solvay Indupa activities presented as discontinued;
+
+2013: Solvay Indupa and European chlorovynils activities presented
+as discontinued and Chemlogics consolidated as from November 1;
+
+2014: application of IFRS 11. Solvay Indupa, European Chlorovynils and
+Eco Services activities presented as discontinued and Chemlogics
+fully consolidated
+
+IFRS
+In € milion 2010 2011 2012 2013
+Sales 7103 8,109 12,831 10,367 10,628
+Net sales 8,001 12,435 9,938 10,213
+REBITDA 1,051 1,208 2,022 1,663 1,783
+REBITDA as % of sales 15 15 16 v 7
+Total depreciation and amortization 77 455 794 752 751
+EBIT 305 560 1,275 647 652
+Net income, Solvay share 1777 247 584 270 80
+Earnings per share (basic) (in € ) 21.85 3.04 740 3.25, 0.96
+Research expenditure 181 156 261 247 247
+Capital expenditures 538 4,797 826 1,803 1,399
+Free Cash Flow 327 787 524 656
+Financial data
+Equity” 6,839 6,653 6,596 7453 6,778
+Net debt (2,902) 1,760 1125 1,102 778
+Net debt/equity (in %) NA 26 7 15 "
+Gross dividend per share (in € ) 3.07 3.07 3.20 3.20 3.40
+Gross distribution to Solvay shareholders 240 250 2 2 288
+Personnel data
+Persons employed at December 31 16,785 29,121 29,103 29,389 29,207
+Personnel casts 1,339 1,422 2,302 2143 1,990
+
+(1) Equity in 2013 and 2014 includes hybrid bonds.
+(2) Refer ta details in page 102 of this report.
+
+104 Solvay - Annual Report 2014
+
+
+--- Page 19 ---
+
+Financial & extra-financial information
+MANAGEMENT REPORT
+
+Earnings per share Gross and net dividend per share
+Adjusted basic earnings per share amounted to € 1.87 in 2014 compared a
+to € 4.54 in 2013.
+- 35 | 307 3.07 320 3a
+Dividend
+; 30 2.55
+On February 25, 2015, the Board of Directors decided to propose to the 240 240
+General Shareholders’ Meeting of May 12, 2015 payment of a total gross 25 230 230
+dividend of € 3.40 per share (€ 2.55 net per share).
+The dividend for the fiscal year 2014, up 6.3% compared to the dividend 20
+for the fiscal year 2013, is in line with the Group’s dividend policy of 15
+maintaining a stable to increasing dividend whenever possible and, as
+far as possible, never reducing it. Dividend was then never decreased in 1,0
+the last 30 years and increased in some years.
+Given the interim dividend of € 1.33* gross per share (€ 1.00 net per share; 0.5
+coupon no. 95) paid on January 22, 2015, the balance of the dividend in 0.0
+respect of 2014, equal to€ 2.06* gross per share (€ 1.55 net per share; " 2010 2on 2012 2013 2014
+coupon no. 96), will be paid on May 19, 2015. Solvay shares will be traded
+‘ex-dividend’ on Euronext from May 15, 2015. =» Gross dividend per share
+= = Net dividend per share
+IFRS historical consolidated data per share
+In€ 2010 2011 2012 2013"
+Equity Solvay share 75.94 75.76 73.30 85.07 79.10
+REBITDA 12.92 14.87 24.57 20.00 21.42
+Net income 21.85 3.04 710 3.25 0.96
+Net income (from continuing operations) 0.62 3.51 7.08 247 3.32
+Diluted net income 21.80 3.03 7.06 3.22 0.96
+Diluted net income (from continuing operations) 0.62 3.49 7.04 245 3.30
+Number of outstanding shares (in thousands)
+at December 31 81,065 81,202 82,966 83,171 82,982
+Weighted average number of shares (in thousands)
+for calculating IFRS basic earnings per share 81,320 81,224 82,305 83,151 83,228
+Weighted average number of shares (in thousands)
+for calculating IFRS diluted earnings per share 81,499 81,546 82,696 83,843 83,890
+Gross dividend 3.07 3.07 3.20 3.20 3.40
+Net dividend 2.30 2.30 2.40 2.40 2.55
+Highest price 81.9 m.6 109.8 118.9 129.15
+Lowest price 67.8 61.5 621 974 100.15
+Price at December 31 73.8 63.7 108.6 15.0 112.4
+Price/earnings at December 31 3.6 21.0 15.30 35.4 116.59
+Net dividend yield (in %) 29 23 2.0 21 23
+Gross dividend yield (in %) 3.9 3.9 27 28 3.0
+Annual volume (thousands of shares) 47,028 63,462 77,846 54,437 49,218
+Annual volume (in € million) 3,481 5,522 6,796 5,960 5,630
+Market capitalization at December 31 (in € billion) 6.8 54 9.2 9.8 95
+Velocity (in %) 56 78 92 63 58
+Velocity adjusted by Free Float (in %) 80 ™m BI 94 83
+
+(1) Equity includes hybrid bonds.
+
+* Repeating last decirnal. Dividend payments rounded to the nearest euro cent.
+
+Solvay - Annual Report 2014 105

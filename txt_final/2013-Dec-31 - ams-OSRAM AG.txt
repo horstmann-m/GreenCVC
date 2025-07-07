@@ -1,0 +1,2558 @@
+
+
+--- Page 1 ---
+
+Preface by the Management Board
+
+Dear shareholders, customers and employees,
+ladies and gentlemen
+
+© 2013 was a transition year for ams. While our strategy as a sensor and analog company remains
+
+unchanged we decided to create a new definition and goal for ams given the importance of
+sensor technologies and the majority of our business already being sensor-related. Our aim
+is to become the leading sensor solutions provider worldwide, focused on the multitude of
+applications where sensors are used, or will be used to re-shape and improve our daily life.
+We have started several internal projects last year to adapt our organization and align our
+product strategies to this goal and are very excited about the path we are pursuing.
+
+The development of our business in 2013 was impacted by the delay of several major
+projects at important consumer OEMs. Customers pushed out expected ramp-ups by several
+quarters and into the current year, forcing us to lower our expectations for the year in June of
+last year. As a result, 2013 revenues came in slightly below the previous year’s level but gross
+margin remained unchanged from the year before, thus demonstrating the strength of our
+business model.
+
+Our consumer and communications business was again the largest revenue contributor despite recording a
+decrease in revenues in 2013. Product innovations strengthened our market position as a major supplier to
+smartphone, tablet PC and mobile device OEMs.
+
+We are the leading provider of advanced light sensors worldwide and shipped very high volumes of ambient
+light and proximity sensors for a wide range of consumer devices last year. 2013 showed a trend towards
+RGB color sensors enabling improved analysis of the lighting environment for sophisticated display manage-
+ment in smartphones and tablet PCs. Creating an important new content opportunity for mobile devices,
+we launched an innovative gesture sensor solution last year. The compact module combines high resolution
+gesture sensing with RGB color sensing, proximity sensing, and mobile coupon redemption in a minimized
+footprint. The solution has been shipping in volume for several months and, based on multiple design-ins,
+we expect to benefit strongly from the adoption of gesture sensing in smartphones going forward. In our
+MEMS microphone IC business, we were again successful last year with over 1.6 billion units shipped and re-
+main market leader in this dynamic market. In power management solutions, we benefitted from the growth
+in action camera systems while supporting a graphics processor vendor's mobile platforms offers attractive
+opportunities.
+
+
+--- Page 2 ---
+
+Our wireless business for RFID and NFC solutions providing contactless communication developed positively
+last year, but still fell short of expectations. Particularly the market for NFC payment hardware solutions did
+not show the expected momentum in 2013. We are, however, convinced that our innovative antenna booster
+solution for NFC mobile transactions and our world class NFC expertise will drive substantial revenue contri-
+butions in the second half of 2014 and the following years. Besides this, we see a large number of new sensor
+applications in consumer and communications devices, which offer exciting potential to apply our sensor
+solutions expertise.
+
+Our industrial, medical and automotive business showed solid results in 2013 driven by its diverse range
+
+of end markets and strong customer relationships. Industrial product lines saw improving demand in the
+second half of 2013 supporting our leading market position in industrial sensors, position measurement
+and building control. We recorded another successful year in medical applications for sensor and interface
+solutions, centered on medical imaging including computed tomography (CT), digital X-ray, mammography,
+and ultrasound. Our automotive business was a major area of growth in 2013 given the expanding use of
+advanced sensors in vehicles and continued good automotive demand. New safety systems and more elec-
+tronic applications provide large volume opportunities for ams going forward.
+
+In our high quality supply chain we combine in-house capacity with resources at manufacturing partners to
+create a robust platform for volume applications. Our production capacity remained at highest utilization
+rates last year. We see further capacity needs emerging from our development pipeline and have therefore
+decided to evaluate the acquisition of additional wafer fab assets outside Europe. In the near term, we are
+also investing in our in-house wafer fab to increase capacity and allow critical process advances to further our
+competitive advantage. The investment in our advanced 3D packaging line was successfully completed last
+year with product sampled to several mobile device customers, and we expect first revenues in the second
+half of 2014. Committed to responsible business practices we realized further energy efficiency improve-
+ments in 2013 and remain focused on our goal of becoming fully carbon neutral.
+
+We maintained high levels of investment in R&D and added R&D resources to support a very substantial
+development and design-in pipeline. We also made focused investments in sales, predominantly in Asia, to
+drive key account penetration at very large OEMs.
+
+
+--- Page 3 ---
+
+Based on our dividend policy we will propose a dividend of EUR 1.04 per share or 25% of the net result for
+2013. Our financial position is stronger than ever and supported by continuing high cash flow generation.
+
+The Supervisory Board again offered constructive support for our activities and backed our strategic initia-
+tives. We would like to thank our customers, partners, shareholders and, above all, the people of ams. Their
+commitment and creativity remain the key drivers of our success.
+
+We are confident about the significant growth opportunities for ams in 2014 and the coming years, driven by
+our sensor solutions know-how, pipeline of innovation, and excellence in design and manufacturing.
+
+co
+
+Kirk Laney Michael Wachsler-Markowitsch
+CEO CFO
+
+
+--- Page 4 ---
+
+Preface by the Supervisory Board
+
+Dear shareholders, ladies and gentlemen
+
+In 2013, our company has pursued opportunities for growth and made crucial investments whose commer-
+cial potential did not translate directly into financial results. These investments form the basis of our future
+growth, both in revenues and profitability. The technological advances in developing our specialty manufac-
+turing processes, the industrialization of our TSV (Through Silicon Via) 3D packaging technology, our growing
+market presence in the US and Asia, establishing our position in the market for Near Field Communication
+(NFC) and the market breakthrough of our gesture recognition sensors are examples of a multitude of mile-
+stones marking the development of our group.
+
+ams successfully made the step to a globally recognized specialist for high performance analog solutions and
+will continue to expand its expertise and presence in the fast growing market for sensor solutions.
+
+Over the last year, the Supervisory Board worked closely with the Management Board and the company’s
+management in seven Supervisory Board meetings and numerous committee meetings. In addition to the
+statutory responsibilities of the Supervisory Board, our main tasks also included supporting the company’s
+strategic positioning, selecting executive managers, handling succession planning within the Management
+Board and sharing experiences and know-how with ams’ management. | would like to thank all my col-
+leagues for the time and hard work they have invested contributing to the future success of ams. Attendance
+of members at Supervisory Board and committee meetings of nearly 100% reflects the strong commitment
+of our shareholder and employee representatives.
+
+2013 saw changes in the Management Board and Supervisory Board of ams. After 11 years in office, John
+Heugle stepped down as CEO. His dynamic approach and exceptional commitment to our clients, employees
+and shareholders were decisive factors in the profitability, product portfolio and global presence of ams.
+Guido Klestil took his leave after 26 years as Chairman of the Supervisory Board. His strategic vision, prudent
+leadership and firm belief in the potential of ams were critical to the successful development of our compa-
+ny. The Supervisory Board would like to thank both gentlemen for the time and energy they so successfully
+invested in ams over the years.
+
+On behalf of the Supervisory Board and as a shareholder representative, | would also like to thank manage-
+ment for its untiring efforts. A special thanks goes to all our employees for their contribution towards the
+success of ams. They ensure that our clients, shareholders and business partners continue to place their trust
+in ams’ products and solutions.
+
+Hans Jorg Kaltenbrunner
+Chairman of the Supervisory Board
+
+
+--- Page 5 ---
+
+Our Company
+
+
+--- Page 6 ---
+
+
+
+--- Page 7 ---
+
+Company and Strategy
+
+Our vision
+
+The ams vision is to enrich lives by creating a seam-
+less experience between people and technology.
+The most natural sensors are the human senses, so
+ams'“technology as nature intended” enhances our
+lives by making us more responsive and in-tune to
+
+the world around us.
+Our company and strategy
+
+From our vehicles to our homes, offices, personal
+devices and more, most of us already are exposed
+to and surrounded by sensors. Sensor functionality
+has evolved in important ways. We rely on sensors
+to help conserve battery power; recognize ambient
+light, motion and gestures; increase safety; and
+measure changes in temperature and blood glu-
+cose levels.
+
+Sensors also play a key role in increasing safety,
+precision and image resolution for many advanced
+industrial, automotive and medical applications.
+When combined with NFC and RFID, sensor tech-
+nologies also offer an ideal solution for new forms
+of payment, tracking, and time-stamping data.
+
+Nature is the inspiration behind the work of every
+ams engineer. It fuels their creativity in developing
+unique products. The sensor solutions we create
+provide the crucial link between technology and
+people, enabling products that are smarter, safer,
+easier to use and more environmentally friendly.
+
+Our mission is to shape the world with sensor
+solutions. ams is a global leader in both the design
+and manufacture of advanced and highly efficient
+analog sensor solutions. ams sensors enable our
+customers to create differentiated products that
+literally are changing the world.
+
+Our high-performance analog products fuel
+applications requiring extreme precision, dynamic
+range, sensitivity, and ultra-low power consump-
+tion. ams’ products include sensors (including
+optical sensors), sensor interfaces, power manage-
+ment integrated circuits (ICs) and wireless ICs for
+the consumer, industrial, medical, mobile commu-
+nications and automotive markets.
+
+
+--- Page 8 ---
+
+Our Talent
+
+The people of ams are the company’s greatest
+asset. We strive to attract and retain the best and
+brightest talent in the industry. We foster a culture
+that embraces diverse, highly creative, innova-
+
+tive and unconventional thinkers. The creativity
+and ingenuity of our teams allows us to be at the
+leading edge of analog and semiconductor design
+and manufacturing worldwide. We continuously
+push our technology boundaries to new heights.
+ams innovation also stems from its global mindset:
+our staff of more than 1,400 people in 20 countries
+includes research and development facilities in
+Austria, a center of excellence in optical sensors in
+Texas (USA), seven other design centers, and manu-
+facturing in Austria and the Philippines.
+
+
+--- Page 9 ---
+
+Corporate Responsibility
+
+Ethical, professional practices and environmental
+responsibility are fundamental principles guiding
+ams’ business approach. ams is part of the UN Glob-
+al Compact, the world’s largest corporate initiative
+for responsible business and sustainability. With
+more than 10,000 participants in 130 countries, the
+UN Global Compact is committed to human rights,
+just labor standards, environmental protection, and
+anti-corruption measures.
+
+With its dedication to protecting the environment
+and the sustainability of resources, ams is commit-
+ted to significantly reducing its carbon emissions
+and achieving a zero carbon footprint over the
+coming years. ams promotes efficient energy use
+throughout its operations, where innovative meth-
+ods for reducing electricity and gas consumption
+bring about both environmental and cost benefits.
+ams remains a pioneer in environmental certifica-
+tion and is ISO 14001 certified for its locations in
+Unterpremstatten, Austria, and Calamba, Philip-
+pines.
+
+
+--- Page 10 ---
+
+
+
+--- Page 11 ---
+
+Our Business
+
+At ams, we focus on providing advanced sensor and analog solutions for high value and emerging
+
+markets including the following:
+
+Consumer and Communications
+Industrial, Medical, Automotive
+
+Consumer and Communications
+
+Asa global leader in high-performance sensor
+
+and analog designs, ams understands the evolving
+demands of the consumer electronics and commu-
+nications market - the need for creating a seamless
+connection between people and devices, continu-
+ously improving the user experience and making the
+interaction with devices richer and more intuitive.
+
+To address this need, we deliver a broad range of
+innovative technology solutions for consumer elec-
+tronics and communication device manufacturers
+including intelligent light sensors, MEMS micro-
+phone ICs, NFC solutions, active noise-cancelling ICs,
+ultra-low power management solutions, and more.
+
+ams’ sensor technology is at forefront of innovation
+by delivering extreme precision, dynamic range,
+sensitivity, and ultra-low power consumption, all of
+which extend the ability to seamlessly interact with
+communication devices. Ambient light and proxim-
+ity detection sensors are used today in hundreds of
+millions of smartphones, tablets, laptop computers
+and other communication devices to improve the
+overall user experience and extend battery life.
+Benefits and functions include enabling the auto-
+matic adjustment of the display brightness under
+varying lighting conditions; disabling the display
+when the user is taking incoming or making out-
+going calls; and simplifying the human interface to
+machines with touchless technology.
+
+ams’ RGB color sensors deliver full analysis of the
+light spectrum and color temperature, enabling
+the ultimate viewing experience with more vibrant
+and realistic display images while maximizing
+energy conservation. Color sensors also support
+solutions for color discrimination, determination
+and measurement. These RGB sensors are used in a
+wide variety of applications such as color feed-
+back control in solid-state illumination and RGB
+backlight systems, and color adjustment in printer,
+industrial process quality controls and portable
+medical diagnostic systems.
+
+Sensor-driven lighting, another ams specialty,
+
+will be driving many of the major light sensor
+applications for the future in smart industrial and
+home lighting. The scope of upcoming large-scale
+applications ranges from harvesting daylight for
+energy-efficient illumination of indoor spaces to
+seamlessly adapting workspace light environments
+to our circadian rhythm.
+
+Gesture recognition functionality is expected to
+see broad adoption in consumer and commu-
+nications applications. ams is focused on these
+next-generation gesture recognition solutions
+
+to provide yet another way in simplifying the hu-
+man-machine interface. ams has begun shipping
+its first highly integrated gesture sensors which
+use ams’ leading photodiode technology to deliver
+a reliable, precise, more intuitive and touchless
+interface for many devices.
+
+
+--- Page 12 ---
+
+ams ultra-low power, highly integrated power
+management IC's (PMICs) are used in mobile de-
+vices including netbooks, tablets, high-resolution
+entertainment modules and action cameras. ams
+supports customers of NVIDIA, the leading mobile
+graphics processor supplier, using NVIDIA's plat-
+forms in netbooks and other devices, and provides
+power management solutions for GoPro’s range of
+versatile action cameras. ams’ ultra-low power, high
+performance PMIC solutions with leading-edge
+analog technology maximize battery life while
+optimizing overall system performance.
+
+Improving the quality of audio and mobile com-
+munications is another growing need addressed
+by ams with its advanced active noise-cancellation
+technology (ANC) and MEMS microphone interfac-
+es. ANC technology enables clear sound regardless
+of the noise levels from the surrounding envi-
+ronment, increasing the sound quality of mobile
+communications and multimedia applications. ams’
+low-noise MEMS microphone ICs are a standard
+feature in many of today’s mobile devices includ-
+ing smartphones, handsets, tablets and notebook
+computers.
+
+Industrial, Medical, Automotive
+
+ams offers highly customized, application-specific
+integrated circuits (ASICs) and standard solu-
+
+tions for a broad range of industrial applications
+including automation and control, position sensors,
+building automation, security and high-resolution
+seismic analysis. For example, position sensors offer
+high reliability measurements in areas of magnetic
+interference such as measuring the slightest move-
+ments of the arms and tools of a robot, enabling a
+machine to control motion far beyond the limits of
+the human hand.
+
+The adoption of near field communication (NFC),
+
+a form of proximity contactless communication
+between devices like smartphones and tablets,
+
+is rapidly spreading in Asia, Europe and the U.S.
+With more than 20 years of experience in wireless
+and radio-frequency identification (RFID), ams is
+uniquely poised for the NFC revolution.
+
+NFC-based contactless payments are gaining sig-
+nificant traction due to higher levels of control and
+convenience for consumers and higher through-
+put for retailers. ams addresses the contactless
+payment market with its unique active boost
+technology with antenna auto-tuning that enables
+reliable and safe NFC payments for virtually any
+phone and also a wide range of highly integrated
+devices such as wearable accessories. Dramatically
+reducing antenna size requirements, ams’ booster
+technology ensures a hassle-free mobile payment
+experience for many small form factor applications
+that are constrained by space. ams’ unique NFiC
+dual interface IC solutions lower the barriers to NFC
+integration for devices with host microcontrollers,
+enabling NFC for myriad consumer and medical
+applications.
+
+Similarly, in medical electronics, the demand for
+new sensor solutions continues to grow and is driv-
+en by the need for more advanced, cost-efficient
+diagnostic, imaging and surgical equipment as well
+as the explosion of wireless mobile healthcare sys-
+tems that monitor patients remotely. ams delivers
+a wide range of medical sensors, sensor interfaces,
+power management and wireless solutions that are
+ideally suited for healthcare applications.
+
+
+--- Page 13 ---
+
+Highly integrated ams sensors are used in many of
+today’s advanced medical imaging applications and
+state-of-the-art computed tomography equipment.
+These solutions incorporate the latest design and
+process technologies and contribute in drastically
+reducing the level of radiation while significantly
+improving image resolution.
+
+Cost-effective and easy-to-implement near field
+communication (NFC) sensor tags with integrated
+radio frequency (RF) technology are emerging to
+make tracking, recording and time stamping of data
+for medical applications more efficient. NFC sensor
+tags can even be safely ingested or implanted un-
+der the skin, enabling patients to monitor specific
+physiological conditions around the clock and read
+data by simply holding an NFC-enabled phone or
+tablet close to the body.
+
+ams also participates in the consumer digital health
+market that is being built around devices that range
+from smart watches to activity trackers in bracelet
+or pendant form. These applications require biosen-
+sors, new display technologies, critical power man-
+agement and very low power designs to enable a
+compelling consumer experience. The quantified
+self-monitoring movement is a key driver for more
+functionality and wider acceptance of such devices.
+Combined with telemedicine, these technologies
+also will help improve medical patients’ quality of
+
+life and enable safer, easier and more convenient
+health management for senior citizens.
+
+In vehicles, consumers expect increased safety,
+assistance, convenience and eco-friendly tech-
+nologies. ams offers a broad range of application
+specific and standard IC solutions for leading car
+manufacturers and suppliers to make driving safer,
+smarter and more environmentally friendly. ams
+powers systems including collision avoidance, car
+seat occupancy detection, breakthrough battery
+management cell monitoring and balancing, high-
+speed interfaces for rear-view mirror applications,
+automatic braking and an array of intelligent posi-
+tion sensors that increase vehicle reliability.
+
+Sensors also play an important role in enabling
+vehicle manufacturers to comply with new
+standards around carbon emissions and reduced
+energy consumption while also supporting the
+trend toward hybrid and electric vehicles. Emerging
+active safety features like lane departure warning,
+collision avoidance, traffic sign recognition, and the
+detection of objects behind the vehicle offer addi-
+tional applications for ams’ sensor solutions. From
+increasing driver safety and comfort to enhancing
+engine efficiency and performance, ams’ automo-
+tive sensors meet the most challenging demands
+and help create a better driving experience.
+
+
+--- Page 14 ---
+
+Technology and manufacturing
+
+Asa high performance analog company, ams has
+its own in-house wafer manufacturing and test fa-
+cilities. This capability allows ams to push the limits
+of analog performance in lowest noise, highest
+sensitivity and maximum accuracy while assuring
+customers a dedicated supply and the highest
+quality standards.
+
+At the forefront of technology, ams provides state-
+of-the art technologies for leading-edge sensor
+and analog designs such as 3D IC integration using
+a proprietary through-silicon via (TSV) process
+
+and unique specialty processes for high voltage,
+optoelectronics and RF applications. In its specialty
+foundry business ams offers customers a full service
+approach that includes packaging and testing
+options.
+
+ams has more than 30 years in semiconductor
+manufacturing experience and its wafer production
+facility is certified for medical and automotive IC
+production. ams pursues a flexible concept combin-
+ing internal and external wafer capacity and enjoys
+strong partnerships with major manufacturing part-
+ners around the globe.
+
+
+--- Page 15 ---
+
+Our Global Network
+
+Europe Asia
+Austria China
+ams Headquarters Hong Kong so
+Unterpremstatten so/dc/tc Shenzen so
+Shanghai so
+Finland
+Helsinki so India
+Hyderabad dc
+France
+Vincennes so Japan
+Tokyo so
+Germany :
+Munich so r Korea |
+Seoul so
+Italy
+Corsico so Philippines
+Pavia de : Calamba tc
+Pisa dc
+7 Singapore so
+: Slovenia : M 7
+Ljubljana de rc Taiwan
+- Taipei so
+Spain
+Valencia de eS
+> * sy .
+Sweden rs :
+fr Sollentuna so oe
+
+North America
+
+USA
+
+Cupertino, CA so
+Austin, TX de
+Plano, TX so/de
+Raleigh, NC so
+
+so sales office
+dc design center
+tc test center
+
+
+--- Page 16 ---
+
+
+
+--- Page 17 ---
+
+22
+
+Investor Relations and Corporate Governance
+
+
+--- Page 18 ---
+
+
+
+--- Page 19 ---
+
+Investor Relations
+
+The ams share offers attractive potential for value
+appreciation as the company continues to success-
+fully implement its strategy. The ams share showed
+a positive full year performance in 2013 as the share
+price reversed a noticeable dip in summer and ap-
+preciated by 73% from the low point until year end.
+
+ams follows a dividend policy defining a payout
+
+of 25% of the annual net result. The Management
+Board will therefore propose a dividend of EUR 1.04
+for the fiscal year 2013, which is a decrease of EUR
+0.39 compared to 2012. ams intends to continue to
+distribute dividends in the coming years based on
+the further positive development of its business.
+ams also operates a share buyback scheme under
+which the company bought back 190,000 shares last
+year, equivalent to 1.3% of total issued shares at year
+end 2013. The shares are principally designated to
+cover the employee share option plan adopted in
+2009.
+
+Share details
+
+ISIN AT0000920863
+
+Securities code 1808109
+
+Ticker symbol AMS (SIX Swiss Exchange)
+Reuters / Bloomberg AMS.S / AMS SW
+
+At the Annual General Meeting in May 2013, the
+majority of agenda items subject to a vote were
+approved with a large majority or unanimously. Two
+items regarding the creation of a conditional capital
+for stock option grants were not approved.
+
+ams continued its extensive investor relations activ-
+ities during 2013, based around quarterly reports
+and regular presentations to analysts, press, and
+institutional investors. ams held investor road shows
+and attended investor conferences in financial hubs
+across Europe and the U.S. East and West Coast
+regions. Financial reports, press releases, and addi-
+tional information on the ams share are available
+
+in the “Investor” section of the company website
+www.ams.com.
+
+
+--- Page 20 ---
+
+140
+
+120
+
+101.2
+
+100
+
+80
+
+60
+
+40
+
+ams share price development (in CHF)
+
+= ams
+mm SPI (rebased)
+
+108.0
+
+January 3, 2013
+
+December 30, 2013
+
+25
+
+
+--- Page 21 ---
+
+26
+
+Executive Bodies
+
+Management Board
+
+John A. Heugle (CEO until May 14, 2013)
+Kirk S. Laney (CEO since May 14, 2013)
+Michael Wachsler-Markowitsch (CFO)
+
+Supervisory Board
+
+Guido Klestil
+
+(Chairman until September 13, 2013 / Honorary Chairman since September 13, 2013)
+Hans Jérg Kaltenbrunner
+
+(Deputy Chairman until September 13, 2013 / Chairman since September 13, 2013)
+Siegfried Selberherr (Deputy Chairman)
+
+Gerald Rogers (Deputy Chairman since September 13, 2013)
+
+Kurt Berger (until September 13, 2013)
+
+Michael Grimm
+
+Klaus Iffland
+
+Jacob Jacobsson
+
+Johann Eitner (employee representative)
+
+Ginter Kneffel (employee representative)
+
+Giinther Koppitsch (employee representative until September 13, 2013)
+
+Vida Uhde-Djefroudi (employee representative)
+
+
+--- Page 22 ---
+
+Corporate Governance
+
+‘As an Austrian company listed in Switzerland, ams AG ("ams") is subject
+to the regulations of the SIX Swiss Exchange's directive concerning
+information on corporate governance (“Swiss Corporate Governance
+Directive”).
+
+In this context, ams points out that Austrian Corporate Law differs from
+the Swiss model in terms of the structure of its corporate bodies, their
+duties and their accountability. Hereinafter, the Austrian terms for the
+corporate bodies will be used. Corporations that are not constituted
+according to the Swiss Code of Obligations are required correspondingly
+to meet the regulations of the Swiss Corporate Governance Directive,
+which is formulated in close correspondence with the Swiss Code of Ob-
+ligations. Consequently there follows a brief description of the particular
+features of the Austrian organizational structure:
+
+~The Management Board is responsible for company management and
+representation of the company; it holds the monopoly on company
+management and representation. It is not subject to instructions by the
+shareholders or the Supervisory Board, acting rather on its own respon-
+sibility and without instructions. Where the Swiss Corporate Governance
+Directive calls for information on the Executive Board, corresponding de-
+tails on the Management Board are provided. Nevertheless, the function
+of the Management Board does not correspond exactly with that of the
+‘Swiss Executive Board.
+
+~The Supervisory Board is in charge of appointing and dismissing the
+Management Board and, in particular, supervising it. Furthermore,
+specific legal transactions also require the Supervisory Board's approval.
+Where the Swiss Corporate Governance Directive calls for information
+on the Administrative Board corresponding details on the Supervisory
+Board are provided. Nevertheless, the function of the Supervisory Board
+does not correspond exactly with that of the Swiss Administrative Board.
+
+~The Annual General Meeting, functioning as the supreme means of
+decision-making body for a company, is responsible for appointing and
+dismissing the members of the Supervisory Board and the appointment
+of the auditor. Where the Swiss Corporate Governance Directive calls for
+information on the General Meeting corresponding details on the Annu-
+al General Meeting are provided. The Swiss and Austrian legal systems
+differ with regard to these two institutions.
+
+‘Asan Austrian company ams has committed on a voluntary basis to
+comply with the stipulations of the Austrian Corporate Governance
+Code. Additional information on this voluntary commitment is provided
+at the end of this chapter in the section entitled “Austrian Corporate
+Governance Code" This chapter also contains the Corporate Governance
+report information according to the stipulations of Austrian law.
+
+1. Corporate Structure and Shareholders
+
+1.1 Corporate Structure
+
+ams, with headquarters in Unterpremstatten, Austria, has been officially
+listed on the main segment of the SIX Swiss Exchange since May 17,
+2004 (securities number 1808109; ISIN ATO000920863). On the date of
+reporting, the company had a market capitalization of approximately
+CHF 1.57 billion. ams’ business activity is divided into the business seg-
+ments Products and Foundry. The Products business segment consists
+of the Consumer, Communications, Industrial, Medical, and Automotive
+market areas, while the Foundry business segment comprises the Full
+Service Foundry area. The company manages its business via an Exe-
+cutive Committee which includes managers responsible for managing
+the business areas within the framework of the strategy defined by the
+Management Board. These managers report directly to the Management
+
+Board of ams. Further information on the business segments is provided
+in the Notes to the Consolidated Financial Statements under item 1.
+
+The company has active unlisted subsidiaries; there are no listed subsidi-
+aries. The following table lists the company’s direct active subsidiaries:
+
+Percentage
+Equity in of shares
+Company Head office EUR held
+ams Germany GmbH Munich 516,693 100%
+ams International AG Rapperswil 39,022,076 100%
+ams France S.a.r. Vincennes -137,432 100%
+ams Italy S.r. Milan 427,925 100%
+ams R&D UK Ltd. Launceston 215,071 100%
+AMS USA Inc. Raleigh 666,520 100%
+ams Japan Co. Ltd. Tokyo 152,624 100%
+ams Asia Inc. CalambaCity 14,237,282 100%
+ams Semiconductors
+India Private Ltd. Hyderabad 179,237 100%
+ams R&D Spain SL Valencia 60,259 100%
+County of
+Aspern Investment Inc. Kent 639,359 100%
+AMS-TAOS USA Inc. Plano —_-3,610,420 100%
+
+1.2 Significant Shareholders
+
+As ams did not fall under the disclosure requirements set forth by Swiss
+law before May 1, 2013, the shareholdings described below relate to
+the time of notification or capital increase and may have changed
+subsequently:
+
+In April 2008 Schroders plc, London, United Kingdom, notified a holding
+of 4.6% of the share capital. In September 2008 Dr. Berger, Vienna,
+Austria, notified a holding of 8.3% of the share capital as trustee. In July
+2009 Dr. Johannes Heidenhain GmbH, Traunreut, Germany, notified a
+holding of 3.2% of the share capital and Kempen Capital Management,
+Edinburgh, United Kingdom, notified a holding of 9.2% of the share
+capital. In August 2009 Odin Fund Management, Oslo, Norway, notified
+a holding of 4.3% of the share capital and Pictet Asset Management,
+Zurich, Switzerland, notified a holding of 4.1% of the share capital. In
+February 2010 The Capital Group Companies, Inc., Los Angeles, USA,
+notified a holding of 3.0% of the share capital. In July 2010 FMR LLC,
+Boston, USA, notified a holding of 4.8% of the share capital.
+
+Since May 1, 2013 ams is subject to article 20 of the Swiss Federal Law on
+Securities Exchanges and Securities Trading (SESTA) and the Ordinance
+of the Swiss Financial Market Supervisory Authority on Stock Exchanges
+and Securities Trading (the FINMA Stock Exchange Ordinance). Pursuant
+thereto, ownership interests in companies with registered office outside
+of Switzerland whose equity securities are mainly listed in whole or in
+part in Switzerland must be notified both to the issuer company and
+
+to SIX Swiss Exchange when the holder's voting rights reach, increase
+above or fall below certain thresholds. These notification thresholds are
+3%, 5%, 10%, 15%, 20%, 25%, 33 1/3%, 50% and 66 23% of voting rights.
+Shareholders which as of May 1, 2013 already held a shareholding in ams
+triggering the disclosure requirements will have to notify that sharehol-
+ding until April 30, 2014 at the latest (article 53 SESTA).
+
+27
+
+
+--- Page 23 ---
+
+28
+
+At December 31, 2013, ams knew of the following significant share-
+holders with a holding of more than 3% (defined for this purpose as
+shareholders with voting rights in excess of 3% of the ams AG capital
+stock recorded in the commercial register):
+
+Norges Bank (the Central Bank of Norway), Oslo, Norway 3.2%
+Credit Suisse Funds AG, Zurich, Switzerland 3.2%
+
+Information on significant shareholders or groups of shareholders filed
+with ams and the Disclosure Office of SIX Swiss Exchange in accordance
+with article 20 SESTA can be viewed on the Disclosure Office's publica-
+tion platform at
+wwwsix-exchange-regulation.com/obligations/disclosure/major_share-
+holders_en.html.
+
+1.3 Cross Shareholding
+No cross shareholdings exist at this time.
+
+2. Capital Structure
+
+2.1 Capital
+As of December 31, 2013, ams’ ordinary capital amounted to nominally
+EUR 35,269,780.96, divided up into 14,559,683 no-par-value shares with
+a calculated nominal value of EUR 2.42 per share.
+
+2.2 Authorized and Conditional Capital in Particular
+
+Authorized Capital
+
+In May 2012, the management board was authorized upon cancel-
+lation of the existing authorized capital (authorized capital 2011) to
+increase - if required in several tranches - the share capital of up to
+
+EUR 16,657,936.24 by issuing up to 6,876,546 new shares (no-par shares)
+against cash and/or contribution in kind and to determine, in agreement
+with the Supervisory Board, the par value, the terms of issue and further
+details of the implementation of the capital increase (authorized capital
+2012).
+
+Conditional Capital
+
+In May 2005, the Annual General Meeting authorized the Management
+Board to increase the share capital by EUR 2,398,203.53 by issuing
+990,000 new bearer shares for cash to provide cover for stock options
+granted to staff members and senior executives in the company and its
+subsidiaries, excluding the subscription rights of existing shareholders.
+The terms of issue are based on the provisions of the stock option plan
+approved by the Management Board on April 22, 2005 (Stock Option
+Plan 2005).
+
+Furthermore, the management board was authorized in May 2012 to
+issue with the consent of the Supervisory Board - if required in several
+tranches and in different combinations, and also indirectly in the way
+of a guarantee for the issuance of financial instruments which grant the
+right of conversion of shares of the company by a company affiliated
+with the company - during a period of five years from the date of
+resolution, financial instruments pursuant to §174 of the Austrian Stock
+Corporation Act (AktG), in particular convertible bonds, participating
+bonds, warrant bonds or profit participation rights, with a proportional
+nominal amount of up to EUR 14,653,185.86 which grant the right of
+conversion and/or subscription of a total of up to 6,048,967 shares of the
+company or are structured in a way to be shown as equity contribution.
+The amount of capital issued and the terms of the issue as well as any
+exclusion of shareholders’ subscription rights to financial instruments
+are determined by the Management Board in agreement with the Super-
+visory Board.
+
+2.3 Changes in Capital
+In total, the ams Group's shareholders’ equity amounted to EUR 332.17
+million as of December 31, 2011, EUR 409.51 million as of December
+31, 2012 and EUR 444.73 million as of December 31, 2013. Information
+about the changes in shareholders’ equity over the last two reporting
+years is provided in the section entitled “Consolidated Statement of
+Changes in Shareholders’ Equity according to IFRS from January 1, 2013
+until December 31, 2013” in the financial section of this Annual Report.
+
+2.4 Shares and Participation Certificates
+
+On the date of reporting, ams’ share capital consisted of 14,559,683
+common no-par-value shares issued to bearer with a calculated nominal
+value of EUR 2.42 per share. Every bearer of a common share has the
+right to vote and is entitled to receive dividends; there are no preferen-
+tial rights. All shares are equal in terms of the company’s residual assets;
+all capital was paid in. There are no participation certificates.
+
+2.5 Profit Sharing Certificates
+There are no profit-sharing certificates.
+
+2.6 Restrictions on Transferability and Nominee Registration
+The company only has bearer shares outstanding. There are no restric-
+tions on transferability or corporate rules on nominee registration.
+
+2.7 Convertible Bonds and Option Plan
+
+On April 22, 2005, the Management Board approved a stock option plan
+for staff members and senior executives in the company and its subsi-
+diaries (Stock Option Plan 2005). This provides for the issue of a total of
+990,000 options over a period of four years. According to the conditions
+‘of SOP 2005, options forfeited back to the company may be re-issued
+until the end of the plan period. In 2013 no options were granted, so a
+total of 974,851 options have been granted (after deduction of forfeited
+options). One option entitles the bearer to buy one share in the compa-
+ny. 20% of the options issued can be exercised a year after issue at the
+earliest and the remainder in 20% installments for each further year after
+issue at the earliest. The last possible exercise date is June 30, 2015. The
+options’ strike price is calculated from the average market price of the
+ams share over the three months prior to granting of the stock options,
+minus a discount of 25%. To fund the options issued, the conditional
+capital increase described in section 2.2 will be used. Differing from the
+practice in previous years, the options issued in 2012 were immediately
+exercisable at 60% at grant date and will be exercisable in the amount of
+20% on the first and second anniversary of grant date. The options are
+non-transferable.
+
+An additional Stock Option Plan (SOP 2009) was approved at the Annual
+General Meeting of April 2, 2009. Under the terms of SOP 2009, over
+
+a period of 4 years a total not exceeding 1,100,000 options on no-par
+company shares was to be granted, corresponding to around 10 % of the
+company’s capital at the time of approval. Every option granted entitles
+the participant to purchase a no-par share in ams. Exercise of options is
+possible annually to the extent of 25% on the days of the first, second,
+third and fourth anniversaries of granting, ie. in four equal tranches. The
+preferential price of the options is calculated from the average stock
+market price over the 3 months prior to granting of the stock options.
+All options granted must be exercised by June 30, 2017. In 2013 85,000
+stock options were distributed from SOP 2009. Differing from the
+practice in previous years, the options issued in 2013 vest to the extent
+of 33% on the first, second and third anniversary of the grant for 50% of
+the granted options. The earliest date for exercising the other 50% of the
+granted options is the third anniversary of the options grant date de-
+pending on the achievement of the following criteria: (i) The benchmark
+
+
+
+--- Page 24 ---
+
+growth of the market (sales growth of the analog semiconductor market
+as published by WSTS) has to be surpassed in the period 2013-2015
+
+with stable gross margins (not to be lower than in 2012; adjusted for
+extraordinary impacts related to a positive long-term development of
+the business such as e.g. acquisition costs or financing costs). If this does
+not apply to the whole period but only to single calendar years, a quota
+of one third of the exercisability for the relevant year has to be taken into
+account. (ii) Over the period 2013-2015 an increase of earnings per share
+has to be achieved. If this does not apply to the whole period but only
+to single calendar years (provided that earnings per share are not lower
+than in 2012), a quota of one third of the exercisability for the relevant
+year has to be taken into account.
+
+In connection with the acquisition of TAOS Inc., the company has
+committed to grant options to certain employees of TAOS Inc. by issuing
+a Stock Option Plan, which ~ as far as legally possible - matches the
+number of options and the option plan which has been granted to those
+employees under the TAOS Inc. -,Equity Incentive Plan 2000", To fulfill
+this obligation, the management board of ams has adopted a new Stock
+Option Plan 2011 (SOP 2011), which the company’s Supervisory Board
+approved on July 9, 2011. The SOP 2011 comprises unvested options
+and vested options. Each option granted entitles each employee to
+purchase one share of the company. For holders of unvested options the
+exercise price equals the original exercise price under the TAOS Inc. plan.
+This price is in the range of USD 0.94 and USD 19.81. Certain employees
+of TAOS Inc., who held a small number of TAOS Inc. shares (,small Share-
+holders”), were granted exercisable options for shares of the Company
+as compensation for shares of TAOS Inc. held by them prior to the
+transaction (vested options). The option exercise price for these options
+is CHF 41.36 which is the average of the market price of the shares of
+the company on the SIX Swiss Exchange within 30 days following the
+date of grant of options. The term of the unvested options will remain
+unchanged compared to the original TAOS Inc. plan. The options will
+expire between September 3, 2017 and June 8, 2021. The options of the
+Small Shareholders expire ten years after the date of issuance, therefore
+on July 12, 2021.
+
+The management board has decided to adopt a new Stock Option Plan
+(SOP 2013) on August 28, 2013.The SOP 2013 comprises a maximum of
+400,000 options, of which (i) up to 315,000 options may be granted to
+employees and executive employees and (ii) up to 47,000 options may
+be granted to the Chairman of the Management Board / Chief Executive
+Officer and up to 38,000 options may be granted to the Chief Financial
+Officer. This corresponds to 2.8% of the nominal capital of the Company
+at that time. Each option entitles the relevant employee, executive em-
+ployee and/or managing director (collectively “Participants”) to acquire
+‘one no-par value ordinary share of ams. The available options were to be
+granted during the year 2013 after prior resolution by the SOP commit-
+tee. All options granted must be exercised by 30 June 2021.The exercise
+price for the new shares corresponds to the average strike price within
+the last three months before the granting of the stock options. For 50%
+of the granted options, options can be exercised to the extent of 33% of
+the grant on the first, second and third anniversary of the options grant
+date at the earliest. For the other 50% of the granted options, the earliest
+date for exercising is the third anniversary of the options grant date de-
+pending on the achievement of the following criteria: (i) The benchmark
+growth of the market (sales growth of the analog semiconductor market
+as published by WSTS) has to be surpassed in the period 2013-2015
+
+with stable gross margins (not to be lower than in 2012; adjusted for
+extraordinary impacts related to a positive long-term development of
+
+the business such as e.g. acquisition costs or financing costs). If this does
+not apply to the whole period but only to single calendar years, a quota
+of one third of the exercisability for the relevant year has to be taken
+into account. (ii) Over the period 2013-2015 an increase of earnings per
+share has to be achieved. If this does not apply to the whole period but
+only to single calendar years (provided that earnings per share are not
+lower than in 2012), a quota of one third of the exercisability for the
+relevant year has to be taken into account. In 2013 314,201 options were
+distributed from SOP 2013.
+
+3. Supervisory Board
+
+On the reporting date, the company’s Supervisory Board was compo-
+sed of nine members, of whom three were employee representatives.
+The members were not employed as members of the company’s or a
+subsidiary’s management board and are therefore non-executive.
+
+3.1/3.2 /3.3 / 3.4 Members of the Supervisory Board, Other Activities,
+Vested Interests, Cross-Involvement, Election and Terms of Office
+Insofar as nothing to the contrary is mentioned below, no material
+activities, vested interests or cross-involvements exist regarding the
+members of the Supervisory Board. Under the Corporate Governance
+Directive and the relevant comment by SIX Swiss Exchange, activities
+and vested interests are only indicated in listed Swiss and foreign orga-
+nizations or ones that operate in the same or a related industry sector
+as the company. All members of the Supervisory Board are to be seen as
+independent within the meaning of the rules of the Austrian Corporate
+Governance Code.
+
+Hans Jorg Kaltenbrunner (Chairman), born in 1957, Austrian citizen.
+Member of the Supervisory Board since 2009, Chairman since 2013.
+Current term of office until 2014. Having studied at the Vienna University
+of Business and Economics, Hans Jorg Kaltenbrunner began his professi-
+‘onal career at the Austrian Trade Delegation in Taipei, Taiwan as Deputy
+Trade Delegate in 1982. From 1985-1994, he assumed management po-
+sitions at the Hong Kong branch and in the asset management group of
+Creditanstalt-Bankverein. Following appointments to the management
+boards of RHI AG and Austria Mikro Systeme AG, he has been a partner
+of Andlinger & Company since 2002 and has served as a member of ma-
+nagement and supervisory boards of international industrial companies
+in this capacity.
+
+Dr. Siegfried Selberherr (Vice Chairman), born in 1955, Austrian citizen.
+Member of the Supervisory Board since 2001, Vice Chairman since 2001.
+Re-elected in 2009, current term of office until 2014. After completing
+his studies in Electrical Engineering, Siegfried Selberherr earned a docto-
+rate in Technical Sciences. He has been a full professor at the Institute of
+Microelectronics at Vienna University of Technology since 1988 and was
+Dean of the Faculty of Electrical Engineering and Information Technolo-
+gy from 1998 to 2005. Siegfried Selberherr is internationally recognized
+for his research in microelectronics, particularly in the field of techno-
+logy computer-aided design (TCAD), and advises several international
+semiconductor companies.
+
+Gerald Rogers (Vice Chairman), born in 1944, U.S. citizen. Member of
+the Supervisory Board since 2011, current term of office until 2016. A
+prolific engineer and successful businessman in the technology industry,
+he is Chairman of the board of directors for privately-held OnBoard
+Research, a musical instrument accessory company, and also serves as
+an advisor and investor to technology start-ups. He was a member of
+
+29
+
+
+--- Page 25 ---
+
+30
+
+the board of directors for TAOS Inc. since 2003. Gerald Rogers began his
+career in 1969 at Texas Instruments in VLSI design and was promoted to
+Vice President and manager of the microprocessor division in 1981. In
+1986, he became President and CEO of Visual Information Technologies.
+In 1987, he founded Cyrix, a highly successful microprocessor company
+focused on the PC market, serving as its CEO for almost a decade. Gerald
+Rogers earned his Bachelor's degree from the University of Houston.
+
+Klaus Iffland, born in 1956, German citizen. Member of the Supervisory
+Board since 2006. Re-elected in 2009, current term of office until 2014.
+Having graduated in Mechanical Engineering and Business Studies,
+Klaus Iffland held executive positions at Audi AG in production, deve-
+lopment and purchasing, and was head of purchasing from 1996. Since
+2002 he has held executive positions at Magna International, a leading
+worldwide automotive supplier, first as a member of the management
+board of Magna Steyr Fahrzeugtechnik, then as President of Intier Auto-
+motive Europe and Magna Closures, VP Purchasing at Magna Internati-
+‘onal Europe and VP Procurement & Supply at Magna Steyr. Since 2008
+he is VP Global Purchasing Magna International Europe; in July 2011
+
+he additionally assumed responsibility for Magna Logistics Europe and
+joined the Management Board of Magna Europe.
+
+Michael Grimm, born in 1960, German citizen. Member of the Supervi-
+sory Board since 2009, current term of office until 2014. Michael Grimm
+studied Management at the University of Frankfurt and then worked as
+a tax consultant and auditor at Arthur Andersen Wirtschaftspriifungsge-
+sellschaft, lately as a partner and head of the Leipzig office. From 1997
+until 2001 he was at Hoechst AG with responsibility for group accounts
+and was involved in the transformation of Hoechst AG into Aventis. From
+2002 until 2005 Michael Grimm was director of finance, accounting and
+investments at Grohe Water Technology AG & Co. KG, then Managing
+Director of Triton Beteiligungsberatung GmbH, an investment company
+with holdings in medium-sized companies in Germany and Sweden.
+Since 2008 he has been Commercial Director of Dr. Johannes Heidenhain
+GmbH.
+
+Jacob Jacobsson, born in 1953, Swedish and U.S. citizen. Member of
+the Supervisory Board since 2011, current term of office until 2016.
+Jacob Jacobsson has held CEO positions at Blaze DFM, Inc., Forte Design
+Systems and SCS Corporation, and executive positions at Xilinx Inc,
+Cadence Design Systems, and Daisy Systems. He has served on the
+board of directors at Actel Corp., and currently serves on the boards of
+a number of privately-held companies in the United States and Europe.
+He was a member of the board of directors for TAOS Inc. since 2003. Prior
+to his management career, Jacob Jacobsson was active in the fields of
+IC design and automated design of semiconductor chips. He holds M.S.
+degrees in Computer Science and Electrical Engineering from the Royal
+Institute of Technology (KTH, Stockholm) and a B.A. degree from the
+University of Stockholm.
+
+Johann C. Eitner (Employee Representative), born in 1957, Austrian
+citizen. Member of the Supervisory Board since July 1994. Re-elected in
+2010, current term of office until 2014. Chairman of the Workers’ Council
+and Employee Representative on the Supervisory Board since 1994,
+During his more than 35-year career, Johann Eitner has been employed
+as an electrician in various positions and, since 1984, as supervisor in the
+mask lithography department at ams. He was trained as an electrician.
+
+Ginter Kneffel (Employee Representative), born in 1968, Austrian
+citizen. Member of the Supervisory Board since March 1999. Re-elected
+in 2011, current term of office until 2015. Chairman of the Employee
+Council and Employee Representative on the Supervisory Board since
+1999. After completing his studies in RF Engineering and Electronics,
+Giinter Kneffel gained more than 15 years of professional experience as
+a process engineer for photolithography and graduated in law in 2010
+(Magister Degree).
+
+Vida Uhde-Djefroudi (Employee Representative), born in 1959, Aust-
+rian citizen. Member of the Supervisory Board since 2012, current term
+of office until 2015. Member of the Employee Council since 2003. Vida
+Uhde-Djefroudi studied at Graz University of Technology and received a
+degree in Electrical Engineering. She joined ams in 1994 as an analog cir-
+cuit designer and has been focusing on high voltage design since 2003.
+
+Unless decided otherwise by the Annual General Meeting, members
+
+of the Supervisory Board are elected for the longest term possible in
+accordance with the Austrian Stock Corporation Act, i.e. until the end
+
+of the Annual General Meeting that decides on their discharge for the
+fourth business year after the election. For this purpose, the business
+year in which they were elected is not included in the calculation. The
+Articles of Association do not stipulate any staggering of the Supervisory
+Board members’ terms of office.
+
+3.5 Internal Organization
+3.5.1 Allocation of tasks in the Supervisory Board
+
+Both the Management Board and the Supervisory Board have rules of
+procedure. The Supervisory Board has a Chairman and two Vice Chair-
+men. The Supervisory Board can appoint one or more committees from
+its midst for the purpose of preparing its negotiations and resolutions or
+monitoring the implementation of its resolutions. The Supervisory Board
+of ams has formed the following committees: Staff Committee, Financial
+Audit Committee, Nomination Committee and Emergency Committee.
+
+3.5.2 Members list, tasks and area of responsibility for all committees
+of the Supervisory Board
+
+- Staff Committee
+
+The Staff Committee is responsible for negotiating and passing resolu-
+tions on the relationship between the company and the members of the
+Management Board except resolutions on appointments and dismissals
+of members of the Management Board (signing, adaption and terminati-
+on of the employment contracts for members and remuneration for the
+Management Board, etc.) The members of this committee are Hans-Jérg
+Kaltenbrunner (Chairman), Gerald Rogers and Johann C. Eitner.
+
+- Financial Audit Committee
+
+The Financial Audit Committee is, amongst other things, in charge of
+examining the annual financial statements, the management report and
+the proposal on the appropriation of profits, preparing the reports to
+
+be submitted to the Annual General Meeting and discussing the audit
+report with the auditor. The members of this committee are Michael
+Grimm (Chairman), Jacob Jacobsson, Hans-J6érg Kaltenbrunner, Johann
+C. Eitner, and Giinter Kneffel.
+
+
+--- Page 26 ---
+
+- Nomination Committee
+The Nomination Committee is responsible for preparing proposals to the
+Supervisory Board regarding appointments to executive positions that
+become available on the Management Board, strategies for successi-
+
+on planning and proposals to the Annual General Meeting regarding
+appointments to positions that become available on the Supervisory
+Board. The members of this committee are Hans-Jorg Kaltenbrunner
+(Chairman), Gerald Rogers, Prof. Siegfried Selberherr, Jacob Jacobsson,
+Johann C. Eitner, and Ginter Kneffel.
+
+- Emergency Committee
+This committee was formed as part of the implementation of Rule
+
+39 of the Austrian Corporate Governance Code (see section “Austrian
+Corporate Governance Code’ at the end of this chapter). The Emergency
+Committee is set up to discuss the affairs of the Supervisory Board in
+cases of imminent danger (“danger in delay”) and, if the situation absolu-
+tely requires it, to decide on them. The members of this committee are
+Hans-J6rg Kaltenbrunner (Chairman), Gerald Rogers, Prof. Siegfried
+Selberherr, Johann C. Eitner, and Giinter Kneffel.
+
+3.5.3 Working procedures of the Supervisory Board and its commit-
+tees
+
+The meetings of the Supervisory Board are presided over by the Chair-
+man and, in his absence, by a Vice Chairman. Resolutions are passed
+
+by simple majority of the votes cast. In case of equality of votes, the
+Chairman's vote is decisive. In principal the Management Board also
+attends the Supervisory Board’s meetings. Unless the chairman of the
+meeting decides otherwise, the Management Board is merely granted
+an advisory vote. The Supervisory Board is entitled to request written re-
+ports on corporate affairs and managerial issues from the Management
+Board at any time. A committee is entitled to adopt a resolution which
+
+is binding for the Supervisory Board only in cases where the committee
+has been granted such decision-making power by the Supervisory Board
+in advance. The Supervisory Board appoints a committee member as
+Committee Chairman and an additional committee member as the
+Chairman's deputy. Committee resolutions are passed by simple majority
+of the votes cast. In case of equality of votes, the Committee Chairman's
+vote is decisive.
+
+The Supervisory Board normally convenes five times a year. During the
+past year, the Supervisory Board convened a total of seven times with
+sessions lasting an average of around six hours. The Staff Committee
+convened a total of four times with sessions lasting an average of around
+one hour. The Financial Audit Committee convened a total of four times
+with sessions lasting an average of around one hour. The Nomination
+Committee convened a total of two times with sessions lasting an ave-
+rage of around one hour. The Emergency Committee did not convene.
+
+In the past year no member of the Supervisory Board failed to attend at
+least half of the meetings of the Supervisory Board.
+
+3.6 Definition of Area of Responsibility
+
+The Management Board of ams acts on its own responsibility and is not
+subject to instructions from the shareholders or the Supervisory Board.
+Specific legal transactions individually listed in the Austrian Stock Cor-
+poration Act require approval by the Supervisory Board. The Supervisory
+Board supervises the business conduct of the Management Board. The
+Management Board clears the company's strategic orientation with the
+Supervisory Board and discusses the status of strategy implementation
+with the Supervisory Board at regular intervals.
+
+3.7 Information and Control Instruments vis-a-vis the Management
+Board
+
+The company possesses a Risk Management System, a Management
+Information System (MIS) and an internal audit function. Within the
+framework of the Risk Management System, recognizable risks in
+numerous areas of the company are compiled and assessed at least
+twice a year. Further details on the Risk Management System are given
+in item 8 of the Group Management Report. The principal results are
+subsequently evaluated by the Management Board and brought to
+
+the attention of the Supervisory Board. The company’s MIS compiles a
+multitude of performance indicators from various areas of the company
+as well as comprehensive financial information and promptly makes
+them available to management as processed files in electronic form.
+The Supervisory Board receives monthly and quarterly reports based on
+information from the MIS. The internal audit function compiles four au-
+dit reports per year which are made available to the Supervisory Board
+and cover specific areas of audit jointly defined by the Management and
+Supervisory Boards.
+
+4. Management Board
+
+4.1/4.2 Members of the Management Board, Other Activities and
+Vested Interests
+
+Insofar as nothing to the contrary is mentioned below, no material acti-
+vities or vested interests exist regarding the members of the Manage-
+ment Board.
+
+Kirk S. Laney, born in 1957, U.S. citizen. Chairman of the Management
+Board since May 2013. Contract term until 2016. Kirk Laney began his 30-
+year semiconductor industry career in 1980 when he joined the Linear
+Products Group at Texas Instruments where he was promoted in 1993
+
+to Operations Manager for the Optoelectronics Business Unit. Under his
+leadership, a core team was assembled to enable the Intelligent Opto
+Sensor (IOS) strategy. In 1998, under a technology license, Kirk Laney
+and five colleagues spun off the Optoelectronic Products Group into
+Texas Advanced Optoelectronic Solutions, Inc. (TAOS) which he led from
+aniche market provider to a worldwide leader and technology innovator
+of opto-sensor solutions. Kirk Laney served as CEO of TAOS since its
+foundation and headed ams’ opto-sensor and lighting business as
+Executive Vice President following ams’ acquisition of TAOS in 2011. Kirk
+Laney holds a Bachelor of Science degree in Physics from Midwestern
+State University and four patents in opto-electronic packaging.
+
+Michael Wachsler-Markowitsch, born in 1968, Austrian citizen. Member
+of the Board responsible for finance since February 2004. Contract term
+until 2016. He has been with ams since 2001, holding the position of
+Chief Financial Officer (CFO) since 2003. During his more than 20-year
+career, Michael Wachsler-Markowitsch was finance director of Ahead
+Communications AG and worked as a consultant and auditor for
+international mandates at KPMG Austria. He has extensive experience in
+accounting, corporate finance and tax consultancy. Michael Wachsler-
+Markowitsch studied Business Administration at Vienna University of
+Business and Economics (Magister degree) and founded Dynaconsult
+GmbH, an IT consulting firm, during the same period. He is member of
+the Management Board of the Styrian Federation of Industry and heads
+the representative body for the electrical and electronics industries at
+the Styrian Chamber of Commerce.
+
+31
+
+
+--- Page 27 ---
+
+32
+
+4,3 Management Contracts
+There are currently no management contracts.
+
+5. Compensation, Shareholdings and Loans
+
+5.1 Content and Method of Determining Compensation and Share
+Ownership Programs
+
+The Annual General Meeting is in charge of determining the remunera-
+tion of the company’s Supervisory Board. A shareholder may submit a
+proposal for resolution to the Annual General Meeting.
+
+The remuneration and share ownership programs of the individual Ma-
+nagement Board members are determined annually by the Supervisory
+Board's Staff Committee. The Supervisory Board is informed about the
+developments in this process. The Management Board members do not
+have a right to attend the Staff Committee meetings. In 2013, external
+advisers were consulted regarding the design and implementation of
+remuneration and share ownership programs; they had no other manda-
+tes with the company.
+
+The amount of the variable part of the remuneration is determined
+according to the fulfillment of annually determined performance targets
+for the members of the Management Board. For the year under review,
+the amount was based on targets for revenues and operating result
+(EBIT), with the level of achievement taking into account 50% each for
+revenues and operating result (EBIT). The determination of the annual
+compensation includes an external benchmarking of the remuneration
+and remuneration structure with respect to comparable positions in the
+electronics sector in Austria, Germany and Switzerland. Further details
+are given in the Notes to the Consolidated Financial Statements under
+item 26 regarding the remuneration and under item (p) of the Signifi-
+cant Accounting Policies regarding the terms and structure of the share
+ownership programs.
+
+In the period under review, the variable part of the remuneration was
+100% of the basic remuneration for the Chairman of the Management
+Board and 100% of the basic remuneration for the CFO. In addition, a
+profit sharing program for all employees including the Management
+Board was instituted at the end of 2009. Under the program, up to 5%
+of yearly pre-tax profit plus up to 100% top-up bonus based on certain
+sales growth criteria are allocated relative to employees’ yearly gross
+remuneration and distributed not exceeding a maximum of 15% of each
+employee's yearly gross remuneration.
+
+One Management Board member receives a severance pay of two gross
+monthly salaries per year of service up to a maximum of two yearly
+gross salaries. In case of termination of his Board membership this
+Management Board member has a claim in the amount of the severance
+pay. There are no further claims from company pension schemes or in
+case of termination of Board membership. D&O insurance is in place for
+members of the Management Board and for members of the Superviso-
+ry Board.
+
+5.2 Transparency in Compensation, Shareholdings and Loans for
+Issuers Based Abroad
+
+Regarding compensation for acting Board members, further details are
+given in the Notes to the Consolidated Financial Statements under item
+26.
+
+In the year under review, a retired Management Board member was
+granted termination pay. In the year under review, former Board mem-
+bers were not granted any compensation.
+
+6. Shareholders’ Right of Participation
+
+6.1 Voting Rights and Representation Restrictions
+All shareholders of ams hold common bearer shares. Every share entitles
+its bearer to one vote at the Annual General Meeting. There are no
+voting right restrictions. Voting by proxy is only possible with a written
+power of attorney which remains with the company.
+
+6.2 Statutory Quorums
+
+The resolutions passed by the Annual General Meeting require the
+majority of the votes cast (simple majority) insofar as the Austrian Stock
+Corporation Act or the Articles of Association do not foresee a larger
+majority or additional requirements. ams’ Articles of Association do not
+call for a higher number of votes than those required by the Austrian
+Stock Corporation Act.
+
+6.3 Convocation of the Annual General Meeting
+
+Pursuant to the Austrian Stock Corporation Act, the Annual General
+Meeting is convened by the Management Board. In accordance with the
+company’s Articles of Association, the Annual General Meeting shall be
+convened at least 28 days prior to the appointed date. The convoca-
+tion is published in the “Wiener Zeitung” and announced in “Finanz &
+Wirtschaft’.
+
+6.4 Agenda
+In compliance with the Austrian Stock Corporation Act, the agenda pro-
+posed for the Annual General Meeting shall be published in connection
+with the convocation of said meeting. In any case, the agenda must
+
+be disclosed at least seven days prior to the day on which the shares
+must be deposited for participating in the Annual General Meeting.
+Should the passing of a certain resolution require a qualified majority,
+this resolution must be disclosed 14 days prior to the day of the Annual
+General Meeting. A minority of 5% of the ordinary capital may demand
+that the agenda of a previously convened Annual General Meeting be
+supplemented, but only in the event that the request is filed sufficiently
+early to allow compliance with the above-mentioned time limits. Those
+proposing must have been in possession of the shares for at least three
+months prior to making their proposal and must hold the shares until
+the decision is reached regarding the proposal.
+
+6.5 Inscriptions into the Share Register
+The company only has bearer shares outstanding and therefore does not
+keep a share register.
+
+7. Changes of Control and Defense Measures
+
+7.1 Duty to Make a Public Offer
+
+Since ams is an Austrian corporation mainly listed in Switzerland, the
+regulations of the Swiss Federal Law on Securities Exchanges and
+Securities Trading (SESTA) regarding public takeover offers apply at the
+reporting date. Under article 32 para. 1 SESTA, anyone acquiring equity
+securities with 33 13% or more of all voting rights must mandatorily
+make a public tender offer. The Articles of Association of ams contain
+neither an opting-up clause (in other words, they do not raise this
+percentage threshold) nor an opting-out clause (i.e., they do not waive
+
+
+--- Page 28 ---
+
+the requirement of a tender offer). At the same time, the regulations of
+Austrian takeover law relating to offer obligations do not apply to ams.
+
+7.2 Clauses on Changes of Control
+
+At the reporting date, no clauses on changes of control existed in
+agreements or plans involving members of the Supervisory Board, the
+Management Board or other members of management.
+
+8. Auditors
+
+8.1 Duration of the Mandate and Term of Office of the Lead Auditor
+The existing auditing mandate was assumed by KPMG Alpen-Treuhand
+GmbH, now KPMG Wirtschaftspriifungs- und Steuerberatungs AG,
+Vienna, in 2005. Its election as auditor for the year under review was
+confirmed at the Annual General Meeting on May 23, 2013. The audit
+partner responsible for this mandate, Johannes Bauer, took office for the
+first time for fiscal year 2010.
+
+8.2 Auditing Fees
+The auditing firm charged auditing fees amounting to EUR 130,000.00
+during the year under review.
+
+8.3 Additional Fees
+The auditing firm charged fees for additional consulting services amoun-
+ting to EUR 49,872.50 during the year under review.
+
+8.4 Supervisory and Control Instruments Pertaining to the Audit
+The auditor reports regularly to the Supervisory Board's Financial Audit
+Committee both orally and in writing. In the period under review, the
+auditor attended two Supervisory Board meetings and three Financial
+Audit Committee meetings.
+
+The auditor is monitored and evaluated by the Supervisory Board's
+Financial Audit Committee at regular intervals. The auditor is selected on
+the basis of a tendering process that takes a catalog of criteria into ac-
+count. The auditor's remuneration is checked regularly against prevailing
+market fees. The lead auditor for the company rotates every five years.
+
+9. Information Policy
+
+ams is committed to an open and transparent information policy to-
+wards the stakeholders. All important information on the development
+of business and the share price (reports, financial calendar and share pri-
+ce data) is available on the company website www.ams.com under the
+“Investor” tab. The company’s ad-hoc publications are available via www.
+ams.com/eng/Investor/Financial-News/Ad-hoc and can be subscribed
+via www.ams.com/eng/Investor/Investor-Contact/Subscribe. Share-
+price-influencing events are published promptly through the media and
+on the website. ams issues quarterly reports regarding the development
+of its business. The publications are made available in electronic form.
+The Annual Report may also be made available in a printed version. For
+the company’s contact details, refer to the publishing information at the
+end of the Annual Report.
+
+Advancement of Women
+
+ams is committed to facilitating the career development of women
+in management positions and to increasing the share of women in its
+
+workforce over the medium term. However, as a highly technical compa-
+ny in a high-tech industry it remains difficult for ams to increase the ratio
+of women in management positions in Austria as well as internationally.
+The share of women in management positions (except Management
+Board members) was 12% in fiscal year 2013 (11% in fiscal year 2012),
+while the overall share of women in the company’s workforce was 27%
+last year. According to its Code of Conduct, ams refrains from any form of
+discrimination based on, for example, race, religion, political affiliation,
+and in particular gender.
+
+Austrian Corporate Governance Code
+
+As an Austrian stock company, ams has committed itself to compliance
+with the Austrian Corporate Governance Code in a declaration of com-
+mitment. This code represents a voluntary commitment of companies
+to the principles of transparent corporate governance and contains
+corresponding recommendations. The code is available on the internet
+in electronic form at www.corporate-governance.at. However, since ams
+is not listed in Austria, it has in its declaration of commitment exempted
+itself from guidelines of the Austrian Corporate Governance Code which
+are not based on or closely associated with mandatory provisions of the
+Austrian Stock Corporation Act or not applicable due to mandatory pro-
+visions arising in connection with the company's listing in Switzerland.
+Furthermore, ams has stated non-compliance regarding the following L
+and C rules of the Austrian Corporate Governance Code:
+
+~ Rule 27a: If applicable, severance payment entitlements accrued under
+previous management board contracts may exceed the remuneration
+for the balance period of the current management board contract. If
+applicable, severance payment entitlements accrued under previous
+management board contracts will be paid out in case of termination of
+the current management board contract due to gross misconduct.
+
+— Rule 28: The passing of a resolution on stock option plans for the
+Management Board required by this rule has historically been handled
+by the Supervisory Board's Staff Committee in the interest of a consistent
+remuneration policy for members of the Management Board. In the
+interest of a consistent implementation of the share-based compensati-
+on schemes the members of the Management Board participate in the
+employee stock option plans (SOP) detailed in pt. 2.7 of this chapter.
+
+The possibility of subsequent changes to the criteria for a preferential
+transfer of shares to members of the Management Board is not being
+excluded.
+
+— Rule 66: ams prepares the quarterly report for the second quarter and
+first half year according to IAS 34 (half year report), while a shortened
+reporting format is chosen for the first and third quarter of each year.
+
+External Evaluation
+
+According to rule 62 of the Austrian Corporate Governance Code, ams
+commissions an external evaluation of compliance with the respective
+rules of the Code and correctness of the related public reporting in
+regular intervals; the last evaluation was conducted in 2014.
+
+33
+
+
+--- Page 29 ---
+
+
+
+--- Page 30 ---
+
+
+
+--- Page 31 ---
+
+34
+
+Financial Information
+
+Group Management Report 2013
+Consolidated Income Statement
+acc. to IFRS from January 1, 2013 until December 31, 2013
+Consolidated Statement of Comprehensive Income
+
+acc. to IFRS from January 1, 2013 until December 31, 2013
+Consolidated Balance Sheet
+
+acc. to IFRS as of December 31, 2013
+Consolidated Statement of Cash Flows
+
+acc. to IFRS from January 1, 2012 until December 31, 2013
+Consolidated Statement of Changes in Shareholders’ Equity
+acc. to IFRS from January 1, 2013 until December 31, 2013
+Notes to the Consolidated Financial Statements
+Independent Auditor's Report .....
+
+
+
+--- Page 32 ---
+
+
+
+--- Page 33 ---
+
+36
+
+Group Management Report 2013
+
+1 Overview of the economic environment
+
+and the past financial year
+
+After rather weak results in 2012, the global
+semiconductor industry developed positively in
+2013. This slight upturn was particularly due to
+the positive macroeconomic environment in key
+regions. Total sales of the global semiconductor
+market increased by 4.8% to USD 305.6bn in 2013.
+In comparison, market volume decreased by -2.7%
+to USD 291.6bn in 2012. The relevant market seg-
+ment for ams, analog semiconductors, also showed
+a growth of 2.1% to USD 40.1bn in 2013 (previous
+year: USD 39.3bn)'.
+
+ams nonetheless recorded a restrained business
+development in the previous year, especially in
+the Consumer & Communications business, which
+resulted in a decline in sales by 3% to EUR 377.8m.
+However, revenue was kept at the same level as
+
+in 2012 after currency adjustments and as the
+quantity and value of ams design-wins at leading
+customers increased significantly in the past year,
+the foundation for a clearly improved business
+development in 2014 has been laid.
+
+More than 30 years of experience in the analog
+segment, continuous innovation and high perfor-
+mance IC solutions give ams a competitive edge.
+The company’s clear positioning in the analog
+semiconductor market and significant investments
+in research and development strengthened ams’
+position as a market-leading supplier of high-per-
+formance analog ICs and sensors further in 2013.
+The company’s customers value the competence of
+ams in sensors, sensor interfaces, power manage-
+ment- and wireless solutions offering particularly
+low energy consumption, highest accuracy and
+
+1) Source: WSTS, December 2012
+
+excellent analog performance. ams’ worldwide
+sales- and support network enables the company
+to fully participate in the market development in
+Europe, Asia, and North America.
+
+The product range of the company includes the
+Consumer & Communications, Industry, Medical
+and Automotive markets.
+
+The Consumer & Communications market record-
+ed a decline in sales in 2013 which was caused by
+delayed customer projects and base effects despite
+ongoing expansion of the markets for smartphones
+and tablet PCs. Globally operating OEMs trust the
+know-how of ams in high-quality sensor and analog
+solutions and ams was also in 2013 an important
+supplier to the leading smartphone, tablet PC and
+mobile device vendors. In this very competitive
+market, ams presented attractive innovations and
+new technical solutions and expanded its market
+reach further with existing and new accounts. Ac-
+cordingly, design activities of customers with ams
+products remained at a high level.
+
+ams as market-leading provider of advanced light
+sensors was also successful in the previous year and
+secured its market position as supplier for lead-
+
+ing OEMs. Again, this product area shipped high
+volumes of ambient light and proximity sensors
+
+for a wide variety of major global platforms and
+models and although the volumes of 2012 were
+not reached, it was responsible for the largest share
+of total revenues of the company. As partner to
+important vendors, ams recognized a trend towards
+the application of RGB color sensors for display
+
+
+--- Page 34 ---
+
+controls of the last generation on the global mobile
+device market. Additionally, ams introduced a new
+type of light sensor solution that combines a RGB
+color sensor with innovative gesture recognition
+and further functions in one very compact module.
+This solution enables important new growth op-
+portunities for ams in the smartphone and mobile
+device market.
+
+ams made a significant investment in a new 3D pro-
+duction line for light sensors at the headquarters.
+The future application of this ambitious self-devel-
+oped technology offers substantial cost advantages
+and enables ams also to attractively cover price
+sensitive segments of the light sensor market.
+
+The MEMS microphone IC product area increased
+its shipments significantly further to more than
+
+1.6 billion units. This mirrors the expanding pene-
+tration of this technology in mobile devices and the
+growth of the smartphone and tablet PC market.
+ams’ clear market leadership remains unchanged in
+this area, which is characterized by a highly dynam-
+ic market and intense competition. Cost optimiza-
+tion is of central importance for the positioning in
+this market, next to improvements in audio quality
+and noise ratio.
+
+ams’ wireless business, which covers high-quality
+solutions for NFC (Near Field Communications) and
+RFID (Radio Frequency Identification) showed a
+positive development in general but still fell short
+of expectations. Especially for NFC-based mobile
+payment hardware solutions, the market did not
+develop as dynamically as expected, which traces
+back to customer specific factors. Nevertheless, ams
+is convinced that its innovative antenna booster
+solution for NFC and the excellent NFC competence
+will enable strong growth for this business in the
+future.
+
+ams recorded very good results in the industrial
+segment (industrial electronics) in the past year,
+which showed a clear improvement in compari-
+son to the previous year. As leading provider for
+sensors and sensor interfaces for a wide variety of
+applications in industrial automation and related
+applications, ams profited from the macroeconomic
+recovery last year. The positive development of
+industrial end markets lead to a pleasant dynamic
+in the course of the year, due to the broad range of
+product lines and applications. ams is globally rec-
+ognized as technology specialist for industry sen-
+sors as well as solutions for position measurement
+and building technology and further expanded its
+market position in 2013.
+
+ams was able to tie up to the positive development
+of the previous year in its medical sector (medical
+technology). Highly specialized sensor- and sensor
+interface solutions are the basis of ams’ medical
+business, especially in the core area “Medical Imag-
+ing" for imaging processes like computed tomogra-
+phy (CT), digital X-ray, ultrasound and mammogra-
+phy. High performance CT imaging sensors hereby
+define the technically possible and offer substantial
+performance advantages for the benefit of the pa-
+tients. Long-term in nature, ams’ medical business
+is built around strategic partnerships with global
+leaders in medical device and system technology.
+
+ams’ automotive business (automotive electronics)
+demonstrated a gratifying growth in 2013 com-
+pared to the previous year, which resulted from the
+market launch of new vehicle platforms and the
+overall positive development of the end market.
+Thereby, ams was able to substantially increase de-
+livery quantities, because the sensor and electronics
+penetration in vehicles is continually increasing.
+This segment continues to focus on demanding
+sensor- and positioning solutions, innovative solu-
+
+37
+
+
+--- Page 35 ---
+
+38
+
+tions for safety systems like collision avoidance, and
+battery management. Numerous new design-wins
+especially in Asia underline ams’ position as import-
+ant partner to major system suppliers and form an
+outstanding basis for the future.
+
+ams’ business segment Foundry, which manufac-
+tures customized analog and mixed-signal ICs in
+specialty processes, continued to be successful in
+
+its markets in 2013. The business segment as full
+service provider offers a broad range of additional
+services from development support to test and
+holds a leading market position as analog foundry
+for specialty processes.
+
+
+--- Page 36 ---
+
+2 Business results
+2.1 Development of revenues
+
+Consolidated group revenues for the financial year
+2013 showed a decrease of 3% to EUR 377.8m com-
+pared to EUR 387.6m in 2012. This development is
+primarily caused by the decreasing demand in the
+target market Consumer & Communications (-10%)
+and could not be compensated by the positive de-
+velopment and the overall good demand for ams’
+
+The revenue breakdown by markets is as follows:
+
+solutions in the Automotive and Industry & Medical
+markets. Customer-specific factors have caused this
+uneven development, whereas the positive trend
+
+in Industry & Medical and Automotive refers to the
+market success of innovative ams’ solutions and the
+predominantly positive macroeconomic develop-
+ment.
+
+in millions of EUR 2013 %of revenues 2012 %of revenues Change in %
+
+Consumer & Communications 224.4 59% 248.3 64% -10%
+
+Automotive 48.5 13% 40.5 10% +20%
+
+Industry & Medical 104.9 28% 98.9 26% +6%
+377.8 387.6
+
+Revenue breakdown by markets
+
+Industry & Medical
+
+59%
+
+Automotive
+
+The distribution of revenues by region reflects the
+demand situation in the company’s target markets.
+The Asia / Pacific region developed negatively in
+2013 with a decline in revenues in the Consumer &
+
+__ Consumer & Communications
+
+Communications business compared to 2012. This
+led to a decreased contribution of this region to
+group revenues while the demand for ams’ prod-
+ucts in Europe and USA increased considerably.
+
+39
+
+
+--- Page 37 ---
+
+40
+
+The revenue breakdown by region (based on billing location) is as follows:
+
+in millions of EUR 2013 %of revenues 2012 %of revenues Change in %
+EMEA 1317 35% 1247 32% +6%
+Americas 227 6% 19.1 5% +19%
+Asia / Pacific 223.4 59% 243.8 63% -8%
+377.8 387.6
+Revenue breakdown by regions
+Asia / Pacific
+
+_
+
+35%
+
+59% \
+EMEA
+X om
+Americas
+
+2.2 Orders received and order backlog
+
+Orders received developed weaker in the course
+of the year, especially because of reluctant order
+patterns and decreased from EUR 386.0m to
+EUR 364.2m in 2013, which is a reduction of 6%
+compared to the previous year.
+
+ams’ year-end order backlog decreased by 16%
+from EUR 90.9m in 2012 to EUR 76.6m by Decem-
+
+ber 31, 2013. This lower order backlog has been
+caused by extremely short-term order behavior
+of a few market participants in the Consumer &
+Communications sector in comparison to the end
+of the previous year. As this is particular the case
+for new products and applications whose market
+launch is imminent, order backlog still represents
+an attractive basis for the business year 2014.
+
+
+--- Page 38 ---
+
+Revenues and orders developed as follows:
+
+in millions of EUR 2013 2012 Change in %
+Revenues 3778 387.6 -3%
+Orders received 364.2 386.0 ~6%
+Total order backlog 76.6 90.9 -16%
+
+2.3 Earnings
+
+Gross profit decreased to EUR 198.0m in 2013 com-
+pared to EUR 202.9m in the previous year.
+
+The full year gross margin of 52% (adjusted for
+effects resulting from the purchase price alloca-
+tion in connection with the acquisition of TAOS
+55%) remained at the same level as in 2012 of 52%
+(adjusted for effects resulting from the purchase
+price allocation in connection with the acquisition
+of TAOS 55%). This attractive development was
+mainly driven by the full capacity utilization of
+the company’s production facilities in 2013 and
+an improved product mix with higher margins. At
+the same time, prices for the company’s products
+remained largely stable to slightly declining.
+
+Research and development costs as well as mar-
+keting and sales expenses showed an increase
+compared to the previous year, which is due to
+
+significant product development efforts, the
+expansion of the sales network and a continued in-
+crease in personnel cost. Administrative costs were
+also higher than the year because of an increase in
+personnel costs.
+
+Given the decline in sales in relation to an increase
+of fixed costs, the operating result (EBIT) decreased
+by EUR 20.9m to EUR 63.9m in 2013. With the de-
+crease in EBIT, EBITDA (Earnings before interest and
+taxes plus depreciation) decreased by EUR 18.9m
+to EUR 99.1m.
+
+Net income decreased to EUR 60.8m in 2013 from
+EUR 81.9m in 2012. The return on equity reached
+14% compared to 20% for 2012 while the return on
+revenues decreased from 21% to 16% in 2013.
+
+in millions of EUR 2013 2012 Change in %
+Gross profit on revenues 198.0 202.9 -2%
+Gross margin 52% 52%
+
+Gross margin
+
+(excluding acquisition-related costs) 55% 55%
+
+EBITDA 99.1 118.1 -16%
+Operating result (EBIT) 63.9 84.8 -25%
+EBIT margin 17% 22%
+
+Financial result -0.5 “14 +66%
+Result before tax 63.4 83.4 -24%
+Net result 608 81.9 -26%
+Return on equity 14% 20%
+
+Return on revenues 16% 21%
+
+41
+
+
+--- Page 39 ---
+
+42
+
+2.4 Assets and financial position
+
+The balance sheet structure shows a high ratio of
+fixed to total assets, common to the semiconductor
+industry. The share of intangibles and property,
+plant and equipment in the total assets decreased
+slightly from 62% in 2012 to 59% in 2013.
+
+The investments in fixed assets affecting cash
+(capital expenditures) of EUR 47.1m were higher
+than the current depreciation and amortization
+
+of EUR 35.3m and amounted to 12% in relation
+
+to revenue (2012: 8%). The ratio of equity to fixed
+assets reached 111% in 2013 compared to 102% in
+the previous year.
+
+The fixed assets include a deferred tax asset of
+EUR 33.3m (previous year: EUR 32.9m). Under the
+current tax legislation this tax asset can be carried
+forward indefinitely, but is expected to be used to
+offset profit taxes within the next five years.
+
+Inventories amounted to EUR 40.5m at the end of
+2013 (2012: EUR 56.2m). Improvements in inven-
+
+tory management despite a constant high level of
+capacity utilization led to an increased inventory
+turnover compared to last year.
+
+Trade receivables increased due to the significant
+share in fourth quarter revenues while the average
+period of outstanding receivables remained almost
+unchanged compared to the previous year. At
+year-end 2013 trade receivables amounted to
+
+EUR 63.7m (2012: EUR 42.2m).
+
+Due to the strong operating cash flow, financial
+liabilities decreased by EUR 20.7m from EUR 80.8m
+to EUR 60.1m and net debt shrank in the past finan-
+cial year. As a result, net financial assets came to
+EUR 44.2m at balance sheet date (2012: EUR 6.0m).
+Group equity increased by 9% to EUR 444.7m asa
+consequence of the positive development of the
+net result.
+
+Assets in millions of EUR 2013 2012 Equity and liabilities 2013 2012
+Inventories 40.5 56.2 Financial liabilities 60.1 80.8
+Trade receivables 63.7 42.2 Trade liabilities 28.3 26.4
+Other current assets 114.9 98.1 Other liabilities 73.9 70.2
+Fixed assets 400.7 404.7 Provisions 46.0 47.1
+Deferred tax asset 33.3 32.9 Shareholders’ equity 444.7 409.5
+Total assets 653.0 634.0 Total equity and liabilities 653.0 634.0
+
+
+
+--- Page 40 ---
+
+Inventories
+
+8.8%
+
+Trade receivables 6.7%
+
+15.5%
+Other current assets [UVAL/
+
+Fixed assets JI) 63.8%
+
+Deferred tax asset 5.2%
+
+2013 2012
+
+Given the lower indebtedness the debt-to-equity
+ratio decreased to 14% compared to 20% in the
+
+Financial liabilities
+
+Trade liabilities 12.7%
+
+42%
+
+Other liabilities [RRBEX7)
+
+11.1%
+Provisions
+
+74%
+
+Shareholders’ equity [GMB] 64.6%
+2013 2012
+
+previous year. At the same time, the equity ratio
+
+increased to 68% (2012: 65%).
+
+2013 2012
+Equity ratio 68% 65%
+Debt to equity ratio 14% 20%
+Equity to fixed assets ratio 111% 101%
+
+Key figures are directly derivable from the financial statement.
+
+43
+
+
+--- Page 41 ---
+
+2.5 Cash flow
+
+The operating cash flow decreased to EUR 100.2m
+in 2013 compared to EUR 124.8m in the previous
+year. This reduction is primarily based on the lower
+operating result. The cash flow from investing
+activities was EUR -46.8m (2012: EUR -65.7m)
+including EUR 47.1m of expenditures for intan-
+
+gible assets, property, plant and equipment
+
+(2012: EUR 31.9m). The free cash flow amounted to
+EUR 53.4m (2012: 59.1m). The company’s available
+liquidity increased in 2013 and cash including
+short-term investments grew from EUR 86.8m at
+the end of 2012 to EUR 104.3m at the end of 2013.
+
+in millions of EUR 2013 2012 Change in %
+Operating cash flow 100.2 1248 -20%
+Cash flow from investing activities 46.8 “65.7 +29%
+Free cash flow 53.4 59.1 -10%
+Cash flow from financing activities -379 42.9 +12%
+Cash and cash equivalents 83.4 67.9 +23%
+
+3 Research and development
+
+ams’ technological leadership in the design and
+manufacture of high performance analog ICs is
+based on over 30 years of intensive research and
+development activities. In order to secure and
+strengthen its position, the company makes signif-
+icant investments in research and development on
+a continuous basis. Research and development ex-
+penses were EUR 68.5m last year (18% of revenue)
+compared to EUR 59.0m in 2012 (15% of revenue).
+Research and development activities in product
+development included mainly the areas of Sensors
+
+and Sensor Interfaces, Power Management and
+Wireless as well as the development of specialty
+variants of CMOS and SiGe processes for high-volt-
+age and high-frequency applications. The average
+number of employees in research and develop-
+ment were 346 in 2013 (2012: 310).
+
+Our R&D activities allowed the filing of various
+international patents as well as the publication of
+numerous papers in international specialist jour-
+nals and at trade conferences last year.
+
+
+--- Page 42 ---
+
+4 Purchasing and manufacturing
+
+In purchasing, costs for raw materials and assembly
+services were slightly reduced in 2013 which had
+
+a positive effect on the gross profit margin. Given
+continuously increasing personnel costs the cost
+pressures in manufacturing remain high.
+
+Gross margin remained unchanged 52% (2012:
+52%) due to a favorable product mix, high capacity
+utilization in manufacturing and a focus on higher
+margin products.
+
+5 Employees
+
+On average, ams had 1,394 employees in 2013
+(2012: 1,282) of which 863 worked at the headquar-
+ters in Unterpremstatten (2012: 833). The increase
+consisting of approximately 25 employees is based
+on the acquisition of IDS in 2012.
+
+ams recognizes its responsibility as one of the most
+important employers in the region. The company
+again offered a wide range of internal and external
+training and development opportunities for all em-
+ployees last year and provided training positions
+for apprentices.
+
+ams attempts to retain its employees with long-
+term remuneration systems. A profit sharing pro-
+gram for all ams employees augments the existing
+employee stock option program with an attractive
+direct component. As part of our comprehensive
+
+Internal production capacity was nearly fully
+utilized during the last year. Any unabsorbed fixed
+
+costs have been recorded in the income statement.
+
+Across all manufacturing areas average capacity
+utilization was 100% in 2013. For 2014, the com-
+pany assumes continued high levels of capacity
+utilization given the sustained positive demand
+situation for our products.
+
+compensation model this program honors every
+employee's contribution to ams’ success.
+
+The profit sharing program is an expression of ams’
+belief that its employees are the company’s most
+important success factor. Owing to the decline in
+earnings in 2013, the total amount of distribution
+which depends on the operating profit before
+taxes in relation to full year revenues (EBT margin)
+decreased and totals to EUR 3.5m for 2013 (2012:
+EUR 10.6m).
+
+Moreover, internal corporate and employee com-
+munications as well as regular employee events
+have been part of the company’s human resources
+policy for many years and serve to ensure motiva-
+tion and identification of all employees.
+
+45
+
+
+--- Page 43 ---
+
+46
+
+6 Environment
+
+A responsible attitude towards the environment
+
+is a basic business principle at ams. The company
+
+is dedicated to meeting the highest ecological
+standards as well as making conservative use of
+resources and the environment. Consequently, ams
+has been certified to ISO 14001:2004 for a number
+of years.
+
+Sustainability and efforts to preserve environmen-
+tal resources and reduce energy costs and carbon
+dioxide emissions are major concerns for ams
+which have been supported by a range of activi-
+ties for many years. Based on a thorough analysis
+
+7 Subsidiaries and branch faci
+
+ams currently has subsidiaries in Switzerland, Italy,
+Germany, France, the United Kingdom, Spain, the
+USA, the Cayman Islands, the Philippines, Japan,
+Korea, Slovenia and India. The subsidiaries in the
+USA, Switzerland, Italy, Spain, the United Kingdom,
+Slovenia and India carry out development, mar-
+keting and sales activities, while the subsidiaries in
+Germany, France and Japan are active in marketing
+and sales and technical support. The subsidiary in
+Korea which was added through the acquisition of
+AMS-TAOS is responsible for sales and assembly in
+the region while the subsidiary in the Philippines is
+responsible for production activities in testing.
+Branch facilities exist in Hong Kong, Singapore,
+China and Taiwan.
+
+of ams’ carbon dioxide emissions sources in 2009
+measures to achieve continuing further reductions
+in carbon dioxide emissions are defined and imple-
+mented each year. Likewise, ams has set itself the
+mid-term goal of becoming fully carbon neutral as
+a company.
+
+ams submits information regarding its carbon
+dioxide emissions to the Carbon Disclosure Project,
+a worldwide transparency initiative which has cre-
+ated the world's largest freely available database of
+corporate carbon dioxide emissions.
+
+ies
+
+The existing investment in FlipChip Holdings LLC,
+Phoenix, Arizona (USA), remained unchanged at
+33.5% in 2013. Based on its patented Wafer-Level
+Packaging (WL-CSP) Technology, FlipChip Holdings
+develops high end packaging technologies and of-
+fers advanced packaging services. The investment
+in New Scale Technologies, Inc., Victor, New York
+(USA), also remained unchanged at 34.5%. New
+Scale Technologies develops piezo-based minia-
+ture motor technologies and licenses products and
+technologies to industrial partners.
+
+
+--- Page 44 ---
+
+8 Risk management
+
+Operating on a global basis, the ams Group is
+exposed to a variety of risks that are inextricably
+linked to business activities. In order to identify,
+evaluate and counteract these risks in a timely
+manner, ams has developed and implemented
+tight internal risk management systems. This
+
+risk management system was implemented and
+benchmarked against best practices in conjunction
+with the company’s auditors. The risk management
+process in place requires the business units to
+constantly monitor and evaluate risks. Regular risk
+
+Business interruption risk
+
+The company’s state-of-the-art 200mm manu-
+facturing facility went into operation in 2002,
+therefore the risk of breakdowns or prolonged
+downtime is relatively low. In addition, this risk is
+being further minimized by adopting a proactive
+approach to preventive maintenance. The business
+
+Financial risks
+
+Risk management is handled centrally by the
+treasury department in accordance with guidelines
+issued by the management board. These detailed
+internal guidelines regulate responsibility and ac-
+
+reports are prepared for the management board
+and supervisory board. This ensures that major
+risks are identified and counteraction can be taken
+at an early stage.
+
+The internal audit function complements the risk
+management process. In close alignment with the
+supervisory board’s audit committee it aims to
+analyze internal processes and if necessary propose
+improvements.
+
+interruption risk is also insured for the replacement
+price and against loss of earnings for 18 months.
+ams’ insurer, FM Global, has awarded the compa-
+ny - as one of a select few semiconductor manu-
+facturers - the HPR (highly protected risk) status.
+
+tion parameters for the areas affected. The treasury
+department evaluates and hedges financial risks in
+close cooperation with the business units.
+
+47
+
+
+--- Page 45 ---
+
+48
+
+Receivables and credit risk
+
+ams operates a strict credit policy. The creditwor-
+thiness of existing customers is constantly checked
+and new customers undergo a credit evaluation.
+Under ams’ treasury and risk management policy,
+investments in liquid securities and transactions
+
+Interest rate risk
+
+Interest rate risk - the possible fluctuation in value
+of financial instruments due to changes in market
+interest rates — arises in relation to medium and
+long-term receivables and payables (especially
+borrowings). ams’ treasury policy ensures that
+part of the interest rate risk is reduced by fixed-in-
+terest borrowings. On the liability side, 25% of all
+amounts owed to financial institutions are at fixed
+
+Foreign exchange risk
+
+Financial transactions in the semiconductor in-
+dustry are predominantly carried out in US dollars.
+To hedge the currency risk, all transaction and
+conversion risks are constantly monitored. Within
+the group, cash flows in the same currency are off-
+set (netting). Currency fluctuations during foreign
+currency transactions mainly concern the US dollar.
+In order to hedge the remaining receivables po-
+sitions, the company employs derivative financial
+instruments to a certain extent. These instruments
+mainly involve forward exchange transactions,
+
+involving derivative financial instruments are only
+carried out with financial institutions that have
+high credit ratings. As of the balance sheet date
+there were no significant concentrations of credit
+risk.
+
+rates. Of the remaining borrowings on a floating
+rate basis (75%), 99% will be repaid over the next
+two years. The remaining floating rate borrow-
+ings undergo continual checks with regard to the
+interest rate risk. On the asset side, the interest rate
+risks are primarily with time deposits and securities
+in current assets that are tied to the market interest
+rate.
+
+interest and currency options as well as interest
+and currency swaps. The use of derivative financial
+instruments and contracts to fix future exchange
+rates for foreign currency assets and liabilities sub-
+stantially reduces the risk of changes in currency
+exchange rates for ams.
+
+At the same time, due to the extreme volatility in
+the currency markets, it is not possible to engage
+in economically feasible efficient and low risk
+currency hedges.
+
+
+--- Page 46 ---
+
+Product liability and quality risk
+
+The products manufactured by ams are integrated
+in complex electronic systems. Faults or functional
+defects in the products produced by ams may have
+a direct or indirect effect on the property, health or
+life of third parties. The company is not in a posi-
+tion to reduce or exclude its liability towards con-
+sumers or third parties in sales agreements. Every
+product that leaves the company undergoes sever-
+
+Patent infringement risk
+
+ams manufactures complex microchips using
+various process technologies, line widths and
+production facilities. Like industry competitors, the
+company constantly has to develop these technol-
+ogies further. Should ams infringe any additional
+patents while consistently monitoring processes,
+
+al qualified checks regarding quality and function.
+In spite of quality control systems certified to ISO/
+TS 16949, ISO/TS 13485, ISO 9001 und ISO 14001,
+product defects may occur and possibly only
+
+show up after installation and use of the finished
+products. Although this risk has been appropriately
+insured, quality problems could negatively impact
+ams’ assets, financial and earnings position.
+
+production methods and design blocks protected
+under patent law as well as related comprehensive
+licensing, this may negatively impact the assets,
+financial and earnings position of the company as
+well as the ams share price.
+
+9 Events after the Balance Sheet Date
+
+No transactions had a significant effect on ams’ financial position, assets or earnings after the closing of
+
+the fiscal year.
+
+49
+
+
+--- Page 47 ---
+
+50
+
+10 Outlook
+
+In addition to indications of a clearly more positive
+development of the world economy, industrial pro-
+duction and private consumption, which should
+boost a further upswing in the semiconductor
+industry, ams expects meaningful higher business
+volumes in 2014 based on several attractive de-
+sign-wins and innovative sensor solutions brought
+to market.
+
+Looking at the analog segment of the worldwide
+semiconductor industry, market researchers
+assume a higher growth in market volumes com-
+pared to 2013, which is nevertheless expected in
+the mid-single digit percentage range (WSTS, De-
+cember 2013). In contrast, ams attempts to achieve
+a revenue growth rate significantly above the
+expected market growth rate for the current year.
+With increased revenues compared to the previous
+year and continued high capacity utilization, ams
+anticipates an improvement in gross profit margin
+compared to 2013.
+
+Accordingly ams expects stronger growth of the
+operating and net result compared to revenue
+growth in 2014.
+
+In case 2014 shows a much weaker global demand
+for semiconductors and a weaker development
+
+of the macroeconomic environment as expected
+and/or the US dollar weakens notably, the impact
+on the business development of ams would be
+profound.
+
+The market success of ams’ solutions in smart-
+phones and tablets, the integration of innovative
+sensor functionalities into mobile devices, new
+applications in the wireless business, high-qual-
+
+ity medical systems as well as inventive sensor
+systems for industrial and automotive applications,
+create meaningful short- and mid-term growth
+opportunities for ams.
+
+The expansion of business with key customers in all
+markets, the broadening of the worldwide custom-
+er base and the increase of sales with distributors
+remain mid-term strategic priorities for ams.
+
+
+--- Page 48 ---
+
+11 Other Information
+
+Regarding the information related to equity and investments please refer to the notes of the financial
+
+statements.
+
+Unterpremstatten, February 3, 2014
+
+Kirk Laney & Michael Wachsler-Markowitsch
+CEO CFO
+
+51

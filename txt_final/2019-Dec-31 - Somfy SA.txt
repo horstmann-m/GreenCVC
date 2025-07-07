@@ -1,0 +1,4129 @@
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+O4
+
+MANAGEMENT BOARD
+
+MANAGEMENT REPORT
+
+TO THE COMBINED GENERAL MEETING OF
+13 MAY 2020” APPROVED AS OF 2 MARCH 2020
+
+Ladies and Gentlemen,
+
+In accordance with legal and regulatory provisions in force, the Management Board has convened you here in order to inform you on the
+management of your company and its subsidiaries and to submit for your approval the financial statements for the year ended
+
+31 December 2019.
+
+Founded in 1969 in the Arve Valley, in the Haute-Savoie region of France, and now operating in 58 countries, Somfy is the preferred partner
+for window and door automation and a pioneer in the connected home. The Group is constantly innovating to guarantee comfort,
+well-being and safety in the home and is committed to promoting sustainable development.
+
+HIGHLIGHTS OF THE YEAR
+
+FIRST-TIME APPLICATION OF IFRS 16
+
+IFRS 16 “Leases”, whose application was mandatory from
+1January 2019, was applied for the first time to the financial
+statements to 31December 2019, using the simplified
+retrospective approach.
+
+The impact of this first-time adoption on existing leases at
+1January 2019 was €42.1 million on non-current assets and
+financial debt and €14.1 million on EBITDA for the financial year.
+The impact on shareholders’ equity, current operating result and
+net profit is not material.
+
+CHANGES TO THE CONSOLIDATION SCOPE
+
+There were no material changes to the consolidation scope during
+2019 financial year.
+
+CONTINGENT LIABILITIES
+
+The Court of Appeal of Chambéry issued its ruling on 21 May 2019
+on the dispute between Spirel employees and Somfy SA. The claims
+of the employees in respect of the alleged deliberate bankruptcy of
+Spirel and the non-material damage caused as a result of anxiety,
+disappointment and vexation were judged inadmissible, thereby
+confirming the April 2017 ruling of the High Court of Albertville. The
+employees filed an appeal in cassation in August 2019.
+
+It should be noted that their claims for damages totalled
+€8.2 million. The liquidator of the company Spirel had also sought
+to have Somfy SA ordered to refund advances of €2.9 million paid
+by the AGS (Guarantee Fund for the Payment of Salary Claims) in
+the event the disposal was declared null and void.
+
+Proceedings before the Labour Court — dismissed in 2016 and 2018
+and involving the employees contesting the grounds for their
+
+~ %  |v(}u tv fv Z) i jv Z 0 1(
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+dismissal and claiming damages of a substantially similar amount
+to that sought before the Court of Appeal — are still ongoing.
+
+These factors do not alter the Group’s risk evaluation.
+Consequently, it continues to qualify these risks as contingent
+liabilities and no provision was thus recognised in relation to these
+disputes at 31 December 2019.
+
+On 5January 2015, Somfy SA transferred its 46.1% direct and
+indirect equity investment in the share capital of CIAT Group to
+United Technologies Corporation. On 31 March 2016, United
+Technologies Corporation filed a complaint against the sellers of
+the CIAT shares under the liability guarantee for a total of
+€28.6 million (Somfy’s share being €13.2 million). The Group
+considers these requests to be unfounded, and _ insufficiently
+detailed and justified. In mid-November 2017, UTC brought an
+action against the sellers before the Paris Commercial Court for the
+liability guarantee. Proceedings before the Commercial Court and
+the Court of Appeal are ongoing.
+
+As the proceedings and the documentation provided by UTC
+currently stand, the Group continues to contest the entirety of
+UTC’s claims and remains confident regarding the outcome of this
+dispute. It has qualified the risk as a contingent liability and no
+provision was therefore recognised at 31 December 2019.
+
+At 31 December 2019, Somfy SA’s financial statements include a
+receivable for deferred settlement in relation to the sale of the CIAT
+shares for the sum of €9.7 million. In early July 2017, Somfy SA and
+the other sellers brought an action against UTC before the Paris
+Commercial Court seeking the fulfilment of the acquisition contract
+and the settlement of the deferred payments falling due. These
+proceedings are still ongoing. Somfy SA remains confident regarding
+the settlement of these sums and therefore no writedown in
+relation to these receivables was recognised at 31 December 2019.
+
+Jo lv Z Zov Vv |v D Z xX
+NEW ORGANISATIONAL STRUCTURE
+
+The building industry is undergoing profound transformations with
+accelerated digitalisation, the need for greater energy efficiency,
+ever shorter innovation cycles and more. These are all challenges
+that Somfy has begun to tackle thanks to its Believe & Act strategic
+plan first implemented in 2017 but now need to take a step
+further.
+
+The current organisation, whose foundations date back to 2004,
+has enabled the Group to expand its range of applications,
+becoming a pioneer of smart home solutions and expanding its
+geographical presence. After a decade of strong and profitable
+growth and progress in its main market segments, Somfy aims to
+accelerate in order to continue establishing its leadership in its
+markets.
+
+In order to meet these challenges, the Group has set up a new
+organisation guided by three major principles: a function-based
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+architecture to support the Group’s development; a
+customer-centric organisation with reduced interfaces to facilitate
+decision-making and optimise resource allocation; and finally a
+strong focus on the digitalisation of its products, customer
+relations and operations.
+
+The first definitive act of this change is the appointment of a new
+Executive Committee, along with the creation of a Strategy &
+Insights Division, the reorganisation of the three activities that are
+Home & Building, Access and Connected Solutions into three
+Divisions: Products & Services, Engineering & Customer
+Satisfaction, and Operations & Supply Chain. Finally, the sales
+subsidiaries will be split into two new geographical areas, for
+greater transversality.
+
+In addition to the new organisation, the Executive
+Committee—under the supervision of Jean Guillaume Despature,
+Chairman of the Management Board—will work on defining and
+implementing a new, three-year strategic plan, based on the
+achievements brought by the Believe & Act plan.
+
+PRESENTATION OF FINANCIAL STATEMENTS
+
+PARENT COMPANY DATA
+
+Over the year ended 31 December 2019, Somfy SA generated sales
+of €3.7 million. Net financial income amounted to €122.1 million,
+including €126.2 million in dividends paid by the subsidiaries in
+respect of their net profit for the year to 31 December 2018.
+
+Net profit was €115.0 million, after inclusion of a tax income of
+€2.9 million.
+
+CONSOLIDATED DATA
+
+SALES
+
+Group sales were €1,200.2 million over the year just ended, an
+increase of 6.1% on a like-for-like basis, including 4.7% in the first
+half-year and 7.5% in the second, and of 6.5% in real terms.
+
+This expansion follows several years of steady growth and reflects
+progress within all geographical regions, with the exception of
+Africa & the Middle East, for contextual reasons. It attests to the
+
+SALES BY CUSTOMER LOCATION
+
+growing interest of all types of consumers in motorised and
+connected solutions for the home, due to the need for comfort
+and safety and the growing awareness of energy and
+environmental issues.
+
+The most noteworthy growth was recorded in Central & Eastern
+Europe, as a result of excellent performances in Poland, Hungary
+and the Czech Republic, as well as Northern Europe.
+
+Significant increases were also posted in China, France and
+Germany, as well as in Central & South America and North
+America, thanks to a sharp upturn over the last quarter,
+particularly in Brazil and the United States. Growth was however
+more modest in Asia-Pacific (excluding China) and Southern
+Europe.
+
+In contrast, the trend remained negative in Africa & the Middle
+East, although it improved significantly over the second half-year.
+Sales of the now equity-accounted Chinese subsidiary Dooya
+totalled €187.5 million over the financial year, an increase of 9.3%
+in real terms and 8.2% on a like-for-like basis.
+
+31/12/19 31/12/18 Change N/N-1 Change N/N-1
+
+on a like-for-like
+
+€ thousands basis
+France 341,548 324,493 5.3% 5.2%
+Germany 186,538 178,339 4.6% 4.6%
+Northern Europe 134,911 120,489 12.0% 12.1%
+Central & Eastern Europe 152,278 131,548 15.8% 15.3%
+Southern Europe 121,910 119,152 2.3% 1.7%
+Africa & Middle East 64,236 67,209 4.4% -2.5%
+Asia-Pacific (excluding China) 57,595 54,834 5.0% 3.0%
+China 14,923 13,740 8.6% 6.8%
+North America 102,972 93,645 10.0% 4.5%
+Central & South America 23,331 23,270 0.3% 6.7%
+TOTAL SALES 1,200,241 1,126,719 6.5% 6.1%
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+RESULTS
+
+Current operating result stood at €204.8 million over the financial
+year, up 15.2% in real terms, and represented 17.1% of sales,
+compared with 15.8% in the previous year. It benefited from a
+positive impact of €3.1 million from changes in exchange rates and
+€0.4 million from the application of the new lease recognition rule
+(IFRS 16).
+
+This improvement was due to both high sales, particularly during
+the second half-year, and a modest increase in structure costs, as a
+result of the normalisation of “strategic” expenditure following a
+period of substantial investment.
+
+Consolidated net profit grew 16.3% to €163.2 million. It includes a
+net non-current operating expense of €3.2 million, a positive
+contribution from associates of €3.8 million and an income tax
+charge of €37.2 million.
+
+Reflecting these solid results, return on capital employed (ROCE) was
+22.2% (23.7% restated for the impact of IFRS 16), compared with
+20.4% in the previous year.
+
+SEGMENT REPORTING AT 31 DECEMBER 2019
+
+FINANCIAL POSITION
+
+Group equity rose from €894.4 million to €1,012.8 million over the
+financial year, while the net financial surplus rose from
+€222.4 million to €310.5 million, despite the recognition of
+financial liabilities of €48.3 million following the application of
+IFRS 16 to leases.
+
+The hike in net financial surplus was due to the increase in cash
+flow and the decline in working capital requirements.
+
+ALTERNATIVE PERFORMANCE MEASURES
+
+The change N/N-1 on a like-for-like basis, current operating
+margin, ROCE and net financial debt are Alternative Performance
+Measures (APMs), definitions and calculation details of which are
+included in note 4.3 to the consolidated financial statements.
+
+Europe, Middle East & Asia & | Intra-regional | Consolidated
+€ thousands Africa Americas | eliminations
+Segment sales 1,071,415 217,938 -89,112 1,200,241
+Intra-segment sales -61,632 -27,480 89,112 -
+Segment sales — Contribution to sales 1,009,783 190,458 - 1,200,241
+Segment current operating result 190,143 14,687 - 204,830
+Share of net profit/(loss) from associates -6 3,852 - 3,846
+Cash flow 206,805 13,286 - 220,091
+Net investments in intangible assets and PPE 51,489 1,817 - 53,307
+New right-of-use assets 17,996 1,142 - 19,138
+Goodwill 94,090 1,462 - 95,553
+Net intangible assets and PPE 315,155 21,378 - 336,533
+Investments in associates and joint ventures 697 135,852 - 136,549
+
+STOCK MARKET PERFORMANCE
+
+During the 2019 financial year, the Somfy SA share price increased by 38.9%. At 31 December 2018, the last trading day before the close of the
+previous financial year, the share price was €63.00, compared with €87.50 at 31 December 2019. Over the same period, the CAC 40 and CAC
+All-Tradable indices (formerly SBF 250) increased by 26.4% and 25.1% respectively.
+
+Based on this last share price and taking account of a gross dividend per share of €1.55"), the Somfy SA share yielded 1.8%.
+
+The market for the share recorded a monthly trading volume high of 138,855 and low of 27,067 per month, with a monthly average of
+
+70,970 shares, compared with 93,111 shares the previous year.
+
+POST-BALANCE SHEET EVENT
+
+Within the context of the current epidemic (Covid-19), the global picture remains uncertain and is evolving rapidly. At this stage, it is difficult
+to measure the consequences in 2020 on business activity and on the Group in particular”.
+
+OUTLOOK
+
+The ongoing changes in the building sector, due to the energy transition, digitalisation and changes to society have led the Group to review its
+structure and to announce, in January 2020, the appointment of a new Executive Committee, a consequence of which was the merger of the
+three existing activities into a single unit and the re-segmentation of the ten geographic regions into two major sales territories.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+This restructuring, guided by a long-term project named Ambition 2030, will help improve the efficiency of operating processes, thanks in
+particular to a streamlined organisational structure as well as greater customer proximity and a better allocation of resources. It will also serve
+as a platform for defining and implementing the strategic plan over the coming years.
+
+Investment will continue to enable the Group to strengthen its positioning and competitive advantage within its core business, and will
+specifically focus on product innovation, optimising information systems with the roll-out of the new integrated management software
+package (SAP ERP), and the digitalisation of ranges and operations.
+
+The policy of openness and partnerships will be pursued in parallel, and will continue to fit in with the same strategy of collaborating with
+complementary partners and accessing new ecosystems that are compatible with the international standard Zigbee 3.0”, thereby positioning
+the Group as an undisputed leader in the world of the connected home.
+
+The Group was not adversely affected by Brexit in 2019 and does not expect to be in 2020. However, within the context of the current
+epidemic (Covid-19), the global picture remains uncertain and is evolving rapidly. At this stage, it is difficult to measure the consequences in
+2020 on business activity and on the Group in particular”,
+
+LIST OF EXISTING BRANCHES
+(ARTICLE L. 232-1 OF THE COMMERCIAL CODE)
+
+Somfy had no such branches at 31 December 2019.
+
+VALUE OF INTERCOMPANY LOANS GRANTED
+(ARTICLE L. 511-6 3; %,6OF THE MONETARY AND FINANCIAL CODE)
+
+Somfy SA had not granted any intercompany loans at 31 December 2019.
+
+INFORMATION ON PAYMENT TERMS
+(ARTICLE L. 441-6-1 OF THE COMMERCIAL CODE)
+
+Trade receivables specific to Somfy SA’s activity represent payment terms generally less than 45 days from the end of the month.
+
+Article D. 441 L.-1°: Invoices , Unpaid Article D. 441 L.-2°: Invoices , unpaid and
+and overdue at year-end overdue at year-end
+0 day 1to|} 31to| 61to|] 91days Total Oday 1to| 31to| 61to/} 91 days Total
+~ ( }30 days |60 days |90 days| ormore| ~ : ~ ( }30 days |60 days |90 days or| ~ :
+Iv(j ui fijy }}]Iv¢} ui fdv more }
+}vol’ u} }vol u}
+(A) Late payment ranges
+Number of invoices 43 _ _ _ _ _ 52 _
+concerned
+Total value of
+invoices concerned} 1,331,500 - - - - - 656,266 - - - - -
+exc. VAT
+Percentage of total
+value of purchases 5
+exc. VAT over the 11.32% ~ ~ ~ ~ ~
+financial year
+Percentage of
+revenue exc. VAT 17.71% _ _ _ _ _
+
+over the financial
+year
+
+(B) Invoices excluded from (A) relating to contested or unrecorded trade payables and receivables
+
+Number of invoices
+excluded
+
+Total value of
+invoices excluded - - - - - - _ - _ _ - -
+exc. VAT
+
+(C) Standard payment terms used (contractual or statutory period - Article L. 441-6 or Article L. 443-1 of the Commercial Code)
+
+5
+
+Payment terms Contractual terms: within 10 days
+used for calculating Contractual terms after the end of the month
+late payments
+Statutory terms Statutory terms
+~ dZ ]} } } Jo JP X U Zo JjvP Vv (} Z }vv Z}u UZ u} Zv v U Jv o |vP
+‘JuC xX / ( Jo) }v Py v jv } Jo] oy Z}( Z uv ( [ } xX
+~ * Jv(}u jv fv Z] i lv Z te) }( D Z lv Z Zev v |v D Z Xx
+
+17 SOMPFY — ANNUAL FINANCIAL REPORT 2019
+
+}vU
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+INFORMATION ON THE DISTRIBUTION OF SHARE CAPITAL AND HOLDINGS
+
+DISTRIBUTION OF SHARE CAPITAL
+
+(ARTICLE L. 233-13 OF THE COMMERCIAL CODE)
+
+To the best of the company’s knowledge, the distribution of share capital and voting rights is as follows:
+
+Number of % share Theoretical | % theoretical | Voting rights % of voting
+shares capital voting rights | voting rights at AGMs rights at
+General
+Shareholding structure at 31/12/19 Meetings
+J.P.J.S. SCA* 19,480,340 52.65% 38,960,680 61.39% 38,960,680 64.03%
+J.P.J.2 SA** 3,376,695 9.13% 6,591,720 10.39% 6,591,720 10.83%
+Compagnie Financiére Industrielle*** 1,653,875 4.47% 3,307,750 5.21% 3,307,750 5.44%
+Despature family and others 1,557,321 4.21% 3,104,381 4.89% 3,104,381 5.10%
+Manacor Dev Pte Ltd 647,502 1.75% 647,502 1.02% 647,502 1.06%
+TOTAL SHAREHOLDERS’ CONCERT 26,715,733 72.20% 52,612,033 82.90% 52,612,033 86.46%
+Treasury shares 2,616,647 7.07% 2,616,647 4.12% - -
+Other holders of registered and bearer 7,667,620} 20.72% 8,237,849 12.98%| 8,237,849 13.54%
+TOTAL 37,000,000 100.00% 63,466,529 100.00% 60,849,882 100.00%
+>Jul v Z] ‘]Z Z ] o~ P] 1] Ww }o &} ul Ue Z} |v yy
+Zo ov ~] U v’ Joo u ~ Z uv }( Z Dv Puy } }C AJuc’ A” v D
+Z* J} 3 }C AJuc’ * xX
+>jJul Ju ovo ~ Pd }((] Wo 1 } o[ }} U e > Vv eU *~] ov }v joo
+od Uv’ joo u ~Z)J])uv}( Z Dv Puy } }( AJuc’ A” v D j
+* J} 3 }C AfuC’ * xX
+>Jul }Juov’ jv } fv > u } P ~ Pj] }(C] W etJ ° Z}} o U >r exe >” u }
+}v joo “WwW ]1 x
+
+In January 2020, Silchester International Investors, acting on behalf of funds under its management, declared that on 21 January 2020 it had
+a holding of 2,409,859 shares representing 6.51% of the share capital of Somfy SA. Due to the lack of disclosure regarding the attainment of
+upward or downward threshold crossings, this company is still presumed to hold between 5% and 10% of Somfy SA’s share capital.
+
+To the best of the company’s knowledge and at the date of preparation of this document, no shareholder other than those mentioned
+above holds, directly or indirectly, alone or in concert with others, more than 5% of the share capital or voting rights of the company.
+Changes to this list during the 2019 financial year, if any, are described below in the paragraph “Disclosure of shareholding threshold
+
+crossings pursuant to Article L. 233-7 of the Commercial Code”.
+
+RECIPROCAL HOLDINGS
+
+(ARTICLES L. 233-29 AND R. 233-19 OF THE COMMERCIAL CODE)
+
+There were no reciprocal holdings as defined by current regulations at the date of preparation of this report.
+
+EMPLOYEE SHAREHOLDING
+
+(ARTICLE L. 225-102 OF THE COMMERCIAL CODE)
+
+At 31 December 2019, the shares held by employees
+
+] the Somfy FCPE (investment fund) or directly in registered form following a free
+
+share allocation under Article L. 225-197-1 of the Commercial Code (authorised subsequent to 6 August 2015) totalled 328,530 Somfy
+shares, representing 0.89% of the share capital.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+ACTION IN CONCERT
+AND RETENTION AGREEMENTS
+
+ACTION IN CONCERT
+
+On 3 June 2013, the limited partnership with share capital J.P.J.S.,
+the limited companies J.P.J.2 and Manacor and certain members of
+the Despature family concluded a shareholders’ agreement
+constituting an action in concert between them, in relation to the
+company Somfy SA.
+
+The main clauses of the agreement provide:
+
+Action in concert: the parties confirm their wish to act in concert
+within the meaning of Article L. 233-10 of the Commercial Code to
+implement a common policy with regard to Somfy SA. To that end,
+the parties undertake to make every effort and to consult one
+another before every vote in the General Meeting of Somfy SA
+shareholders on resolutions relating to the appointment of
+members of the Supervisory Board or modification of the mode of
+administration or management of the company and any
+transaction in the capital of Somfy SA with a view to establishing a
+common position.
+
+Maintaining the equity holding: the parties undertake to maintain
+their overall equity holding in Somfy SA at more than 50% of the
+share capital and voting rights of this company.
+
+Duration: these undertakings are made for a period of ten years
+from the signature of the agreement, namely 3 June 2013. Any
+decision to reduce the term of the agreement will be made by a %
+majority of the SomfySA shares held by the parties, it being
+understood that in the case of separation of the shares, the voting
+right will belong to the usufructuary.
+
+COLLECTIVE RETENTION AGREEMENTS
+
+A collective retention agreement relating to 64.93% of the share
+capital of SomfySA and more than 20% of the voting rights of
+shares issued was signed on 31December 2015 by several
+shareholders, including Management Board members Jean
+Guillaume Despature and Pierre Ribeiro, as well as Supervisory
+Board members Victor Despature, Anthony Stahl and Michel
+Rollier, in accordance with Article 8851 | of the General Tax
+Code, for a period of two years from 31December 2015,
+automatically extended indefinitely after this two-year period.
+Furthermore, the company is aware of:
+
+— six collective retention agreements relating to a total of
+between 49.33% and 54.23% of Somfy SA’s share capital, signed
+by several shareholders in accordance with Article 787 B of the
+General Tax Code, for an indeterminate period from the date of
+registration unless one of the signatories gives notice of
+termination;
+
+— one collective retention agreement relating to 52.91% of Somfy
+SA’s share capital, signed by several shareholders in accordance
+with Article 787 B of the General Tax Code, for a period of two
+years from the date of registration.
+
+BYLAW PROVISIONS RELATING
+TO DOUBLE-VOTING RIGHTS
+(EXCERPT OF ARTICLE 29 OF THE BYLAWS)
+
+“The voting right attached to shares is proportional to the capital
+that they represent. All capital and dividend shares have the same
+par value and entitle their owner to one vote.
+
+A voting right that is double that conferred on other shares is
+allocated to all fully paid shares that have been duly registered for
+at least four years in the name of the same shareholder at the end
+of the calendar year preceding that of each General Meeting.
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+In the case of a capital increase by the capitalisation of reserves,
+profits or issue premiums, registered shares granted free of charge
+to a shareholder in exchange for existing shares, which already
+benefit from this right, will be entitled to the same double voting
+right.
+
+All shares converted into bearer shares or whose ownership has
+been transferred shall lose their entitlement to a double voting
+right, except in instances provided for by law.”
+
+DISCLOSURE OF SHAREHOLDING THRESHOLD
+CROSSINGS DURING THE 2019 FINANCIAL YEAR,
+PURSUANT TO ARTICLE L. 233-7 OF THE
+COMMERCIAL CODE
+
+The company is not aware of any threshold crossings having taken
+place during the 2019 financial year.
+
+INFORMATION ON THE BUYBACK
+OF OWN SHARES
+(ARTICLE L. 225-211 OF THE COMMERCIAL CODE)
+
+The company has implemented several successive share buyback
+programmes. The most recent buyback programme was launched
+in 2019; it was authorised by the Combined General Meeting of
+22 May 2019 in its 11" resolution, sitting in ordinary session, and
+had the following objectives:
+
+— to stimulate the secondary market or ensure the liquidity of the
+Somfy share, by way of an investment services provider within a
+liquidity contract that complies with practices recognised by
+regulations, it being specified that within this framework the
+number of shares considered for the calculation of the limit
+specified above corresponds to the number of shares purchased
+less the number of shares resold;
+
+— to retain the shares purchased and subsequently exchange them
+or use them as payment within the framework of potential
+acquisitions;
+
+— to ensure the coverage of stock option plans and/or free share
+allocation plans (or similar) granted to employees and/or
+corporate officers of the Group, as well as all other shares
+allocated under a company or group savings scheme (or similar),
+in relation to employee profit-sharing and/or any other form of
+allocation to employees and/or corporate officers of the Group;
+
+— to cover marketable securities giving right to the allocation of
+company shares, in accordance with applicable regulations;
+
+— to proceed with the possible cancellation of shares acquired,
+subject to the authorisation granted by the General Meeting of
+shareholders of 16 May 2018 in its 12" resolution, sitting in
+extraordinary session.
+
+Such share purchases could be effected by all means, including by
+
+means of acquiring blocks of shares and at any times considered
+
+appropriate by the Management Board.
+
+The company reserved the right to use options or derivative
+
+instruments, in accordance with applicable regulations.
+
+The maximum purchase price was set at €130 per share, with the
+
+maximum amount of the share buyback programme set at
+
+€135,611,710, taking account of the 2,658,833 treasury shares
+
+held at 31 December 2018.
+
+During the financial year just ended, on the basis of the
+
+authorisation given by the General Meetings of 2018 and 2019, the
+
+company bought back 31,896 shares at an average price of €80.01,
+sold 41,663 shares at an average price of €72.57 and transferred
+
+30,419 shares at an average price of €24.03 for final vesting of
+
+performance shares granted free of charge on 16 June 2017.
+
+All of the 31,896 shares acquired were allocated to the liquidity
+
+objective.
+
+No trading fees were paid during the financial year.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+The company held 2,616,647 of its own shares at 31 December
+2019, representing 7.07% of the share capital; the value of the
+purchase price of one share amounted to €37.47 for a par value of
+€0.20 each, representing a total nominal value of €523,329.40
+
+INFORMATION ON INVESTMENTS AND CONTROLLED COMPANIES
+
+(€1,527.20 for the liquidity contract, €244,354 to be retained for
+future acquisition transactions and €277,448.20 to cover share
+purchase option plans and/or free share allocation plans).
+
+INVESTMENTS IN FRENCH COMPANIES DURING THE FINANCIAL YEAR ENDED 31 DECEMBER 2019
+(ARTICLE L. 233-6 OF THE COMMERCIAL CODE)
+
+Company name
+
+Direct control
+
+Indirect control
+
+Number of shares
+
+% share capital
+
+Number of shares
+
+% share capital
+
+NAMES OF COMPANIES DIRECTLY OR INDIRECTLY CONTROLLED AND THE PORTION OF SOMFY SA’S SHARE CAPITAL HELD BY THEM
+(ARTICLE L. 233-13 OF THE COMMERCIAL CODE)
+
+None of the companies controlled by Somfy SA held shares in Somfy SA at the date of preparation of this report.
+
+INFORMATION ON TRANSACTIONS PERFORMED BY DIRECTORS DURING
+
+THE FINANCIAL YEAR
+
+(ARTICLE 223-26 OF AMF GENERAL REGULATIONS)
+
+The company is aware that the following transactions falling within the scope of Article L. 621-18-2 of the Monetary and Financial Code
+
+have been carried out during the past financial year:
+
+€ €
+Purchases Free shares vested
+Registrant and nature of transaction Amount Registrant and nature of transaction Amount
+J.P.J.2, related to Jean Guillaume Pierre Ribeiro,
+Despature, Chairman of the member of the Management Board and
+Management Board and Marie Chief Financial Officer
+Bavarel-Despature, member wae
+of the Supervisory Board Total amount of acquisition -
+Total amount of acquisition 973,200 Average unit price ~
+Average unit price 81.10 Number of shares 1,756
+Number of shares 12,000 TOTAL PURCHASES ~
+TOTAL PURCHASES 973,200
+€ €
+Free shares vested Sales
+
+Registrant and nature of transaction Amount Registrant and nature of transaction Amount
+Jean Guillaume Despature, NONE
+Chairman of the Management Board ;
+
+Disposal -
+Total amount of acquisition -
+
+TOTAL SALES -
+Average unit price -
+Number of shares 1,756
+TOTAL PURCHASES -
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+20
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+INFORMATION ON RESEARCH AND DEVELOPMENT ACTIVITIES
+(ARTICLES L. 233-1 AND L. 233-26 OF THE COMMERCIAL CODE)
+
+In 2019, the Research and Development activities carried out in
+line with the established roadmap. The Group filed 44 patent
+applications with the patent office INPI (Institut National de la
+Propriété Industrielle) which had published 38 of them in 2018. At
+the end of 2019, Somfy had a portfolio of 2,212 registered patents.
+Thanks to the eco-design efforts made in 2019, more than 50% of
+Somfy products sold worldwide will be Act for Green’ certified in
+2020. Act for Green’ certification is one of the levers of the
+Group’s environmental programme aimed at reducing its carbon
+footprint.
+
+76 new products and services marketed by the Group in 2019
+
+In October 2019, the Group presented its first motorised sliding
+window to the market. Following three years of research, in joint
+development with the French group Liébot, there are 15 patents
+pending in relation to this project, including nine for Somfy and
+two jointly innovated with its partner. With a motor integrated
+into a sliding window, this range is a precursor of future
+developments to address environmental challenges related to
+indoor air quality, while overcoming ventilation related
+constraints: lack of time, concerns regarding burglary or loss of
+heat. This initial project from the new “Somfy air” programme won
+the “Innovation Award” at the 2019 Batimat Mondial du Batiment
+trade show.
+
+In 2019, specific efforts were made to strengthen the Interior
+Product range. A preview of Somfy’s range integrating the global
+radio standard Zigbee 3.0 was unveiled at the 2019 CES trade
+show, before its launch at the CEDIA Expo home technologies
+trade show in the United States. Zigbee 3.0 is now the undisputed
+standard for the Connected Home. Backed by an alliance of more
+than 400 manufacturers including Amazon, Apple, Google and
+IKEA, it guarantees the interoperability of their equipment. Silent
+motorisation is also a major technology lever in the Interior
+Products market. Launched commercially in late 2019, the Sonesse
+ULTRA range was presented at the 2020 CES trade show. At 38
+decibels, which equates to the sound level of the rustling of leaves,
+the new Sonesse ULTRA range is the quietest motorisation solution
+for blinds and curtains on the market.
+
+Lastly, the collaborative creativity platform My Somfy Lab has
+stepped up its activity. In 2019, 14 research projects were the
+subject of user feedback, including six in the form of user tests of
+the solutions (beta-tests) and the remainder in the form of
+exploratory studies. This interactive platform which comprises
+3,645 registered contributors (an increase of 44%) resulted in
+1,307 ideas and 6,092 questionnaire responses, an intense level of
+activity that included 2,151 comments and more than 7,421
+“Likes”.
+
+2019 NON-FINANCIAL PERFORMANCE STATEMENT
+(ARTICLE L. 225-102-1 OF THE COMMERCIAL CODE)
+
+PRESENTATION OF THE BUSINESS MODEL
+
+PRESENTATION OF SOMFY
+
+Somfy has spent the last 50 years making everyday life easier for
+millions of users around the world by developing smart home and
+building management solutions. The Group innovates to automate
+and connect all types of equipment to open, close and shade
+windows, terraces, doors and gates using connected motors that
+operate them together using intelligence and make them
+interoperable with other household equipment. In addition to
+motorisation, Somfy solutions include accessories for control,
+comfort and security. Occupants are central to Somfy’s concerns
+and the Group constantly strives to create reliable long-term
+solutions that offer a better way of living and increased well-being
+for everyone. This is what Somfy calls smart living.
+
+Somfy has 6,067 employees worldwide, of which 5,711 excluding
+temporary staff, operates in 58 countries, and generated sales of
+€1,200.2 million in 2019, up by 6.5% in real terms, with a current
+operating result of €204.8 million, ] X17X1% of sales.
+
+The Somfy spirit and its vision for tomorrow
+
+Somfy shares its vision for the future with every employee ] a
+document that has been translated into 17 languages, called Somfy
+Spirit, which lies at the heart of the Group’s collective vision:
+
+“Inspiring a better way of living accessible to all”.
+
+21
+
+This vision is born of the firm belief that everyone throughout the
+world aspires to a safe, healthy and eco-friendly living
+environment for themselves and their family. To meet these basic
+needs and improve living environments, Somfy has created
+innovative solutions for the home and buildings in three areas:
+
+— comfort and well-being for everyone irrespective of their age;
+
+— security for both people and property;
+
+— environmental conservation.
+
+Today, Somfy offers a line of products that is unique to the
+market
+
+For the past SOyears, the Group has been improving living
+environments by integrating technology into window, terrace,
+door and gate equipment. At the forefront of the digitalisation of
+buildings, Somfy is a pioneer in smart living or connected home,
+designing for occupants new functions for new and existing
+buildings that match the aspirations of everyone. Somfy’s ambition
+is to make smart living accessible to all and release the potential of
+the connected home through attractive product lines and
+interoperability with home equipment and its new control
+methods — voice, home automation, artificial intelligence.
+
+Through each of its subsidiaries and brands, the Group is
+committed to making these innovations as widely accessible as
+possible. Somfy is a genuine local stakeholder, with a presence on
+five continents, and adapts its product lines to the expectations
+and specific features of each of its markets. In this way, Somfy
+contributes to the development of both its customers and its
+partners, by making the excellence of its products and services a
+constant objective.
+
+Somfy’s growth and success depend on the entrepreneurial spirit
+of all the men and women who make up the Group. It is also based
+on their personal quest for individual fulfilment through a
+collective project. Over time, increasing numbers of market players
+have been involved in this project, on the clear assumption that
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+benefits for the end user cannot be fully fulfilled unless all
+stakeholders in the ecosystem contribute to and play their part in
+value creation through partnerships.
+
+Development model
+
+Providing useful, safe, simple and accessible solutions is at the
+heart of the value creation model that Somfy develops with all its
+stakeholders. This commitment influences the adoption of new
+technologies by the user and by the building industry, as well as
+the adaptability of solutions to each person’s own habits, to
+ensure a better living environment for all.
+
+Today, Somfy continues:
+
+— to create and develop new markets as part of a business model
+that will enable everyone — the Group and its stakeholders — to
+provide their own distinctive features and share the benefits;
+
+— to provide tailored and sustainable solutions that promote
+energy savings and offer comfort and security, and to do so by
+implementing the vision that guides the Group — “Inspiring a
+better way of living accessible to all”, and its new ambition,
+“Being the preferred partner for window and door automation”.
+
+In order to ensure its continuing development, a three-year
+
+strategic plan, Believe & ACT!, was rolled out between 2017 and
+
+2019, incorporating four drivers: “Closer to our End Users”,
+
+“Bolder on the Interior Market”, “Stronger on Operational
+
+Excellence” and “Better Together”.
+
+In 2019, Somfy realised that its markets were changing at an
+
+accelerated pace, led by changing lifestyles and working patterns,
+
+the growing digitalisation of houses and buildings, the need for
+better energy efficiency, ever shorter innovation cycles, and
+
+01.$1&23+
+/+4#*"251*
+
+"H#S#% &
+
+>"#%07 +5"
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+rw ].
+
+smartphone driven connectivity. These changes are mirrored in the
+
+company and call for rapid responses and innovative solutions.
+
+Somfy has therefore looked ahead to the next ten years in order to
+
+develop a new strategic framework, Ambition 2030, which is based
+
+around four pillars:
+
+— delivering on performance, with a new segmentation of its
+activities and territories;
+
+— adding more value for customers and users, through Somfy’s
+products, services and contribution to a more sustainable
+development;
+
+— inventing the smart living of the future, by offering innovation
+and partnerships;
+
+— anew mindset, “One Somfy, One Team”, which is the human
+pillar of Ambition 2030, to leverage the strength of being a
+Group.
+
+BASIC ORGANISATIONAL PRINCIPLES OF SOMFY
+
+In order to address the increasingly radical transformations of the
+building industry and oversee the objectives of its ten-year project,
+Ambition 2030, on 1 January 2020 the Group implemented a new
+structure guided by three major principles:
+
+— a function-based structure, constructed around — global
+professions in order to support the Group’s development;
+
+— a more customer-centric organisation, with a reduced number
+of interfaces to ensure rapid decision-making and to optimise
+the allocation of resources;
+
+— an organisational model that facilitates the digitalisation of
+products, customer relations and operations.
+
+HQ" HER." Hi
+7.-8(%1*
+
+1+0&.9"%&
+
+K
+
+/+5(*1-)8&.+
+N
+
+a
+sv
+( } 0(<<63+;5$"H
+
+B-.15+
+C)&."%$
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+DESCRIPTION OF GROUP ACTIVITIES
+
+Somfy is first and foremost an equipment manufacturer and assembler that designs, assembles and supplies motors and automation
+solutions (control systems and sensors) for manufacturers and installers who integrate the solution into a carrier product: blind, shutter,
+door or gate, to then market this, sometimes bespoke, end product within a network or to resellers, or to the installer on a site.
+
+Somfy also develops finished products (certain motors, automation products and control systems, connected objects, digital applications)
+
+that may be sold by prescribers, networks, retailer installers or resellers, ] large specialist and DIY stores, and online, either directly or
+indirectly.
+
+» »
+
+|
+
+‘yu(
+vP
+
+Finally, the products may, by design, be installed indiscriminately in individual homes, small businesses, apartment blocks, office blocks,
+hotels and collective residences.
+
+au 3$8&%+3
+
+-"$.0
+*4/#$.80
+
+"A"$+11(55)$.C $+&#
+$&? "I$+11(55)$.C $4+&cH#
+
+&4 81! "#$%"&’G() 21S )%$ 08
+0.
+
+This diversity has two consequences. The first is that the markets in which Somfy operates are globalised on account of the size of the main
+participants, and yet very local as they depend on the uses of a particular building and construction methods. The second is the relative
+overlapping of Somfy’s different product categories, which gives the Group the option of combining its brands and ranges to provide
+customers with solutions that incorporate ranges from across all its activities.
+
+23 SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+For these reasons, Somfy retains the geographic dimension as the key to understanding its performance to the extent that it optimally
+reports the underlying dynamics in the Group’s markets: the buoyancy of the construction and renovation market, momentum of
+
+distribution circuits, and changing occupant uses.
+
+A description of the performance of the different geographical areas can be found on page 15 of this report.
+
+THE SOMFY BUSINESS MODEL
+
+WH$SI&’ ($E"#)
+
+/(+0#*0))-$)
+
+lv
+
+P2345 5'48% 1 lvP }Co] ]vP ]o } 00
+-..-!$(0.*0))-$) "(Jo*9 &) 8c"
+26",” &/"!.,&9/0!-8" 11 &,%0!.($4,"(!+&,!-8"#("%6"(!./0!-8"4,!%&6"02&/"(!
+} vi}¢ (UZ oZ'U v v ] }vu v oo'r( J v o°
+d}ou Z voov }( Ju } JvP oj] JvP v ]
+‘JuC lvv} }o }v
+
+) y Jv} Z ov] jvuvx
+ieee WET aT MEN "ROP RSE
+MI ]v Joo} jv dy} Z ¢ vo Gclv}y ye Ju
+1°GAE:H!1IB2>@>*DEFFEGH
+"(Jo*)$%O0$-:8&!*6%0+4-3"Jo<*
+)""1&-$0.*0))-$) P] Joo lvP } uj] vw
+
+1*D
+
+>
+
+Z\vP }v
+W W )
+B5P2*LQGKORHS*
+v }v P
+B>2C*LQGKORHS
+
+]
+
+Wy
+
+#0$(%0.*0))-$)
+
+8%" 6&$0".-*:%"S/*+",-.
+
+)"+67*)8& %&$
+
+'
+
++&,!8&#"(1./0!394%04/5(;!4/1-8,"" <7 "(=
+)!* &cH#+&,-!./0!1"%%23" 4/5 !4-&,!"6",” &/"!.-1.%%!.5"(7
+J-B"C9,A- 1&4 !1$"&$%"!./0!$,8&$" 7
+
+)$0<-/".,-%)*
+90.(-*!%-OS&"#
+
+1*> } > a Vv
+
+! !&+!/.-9,.% "(Wo*<-T*O'!$ XI $&-)
+>" #812! @"6"%&SH'/- NA(("#3%? (& yoo
+) D 1 vP ) | J] jy
+y® |. }v )!B.%"(
+
+!"#$%&’ ()*+,-$./0123435$6237/3*
+
+~ A} jo } vP
+
+!8#$9/* 12,*/$34./$.2$+4,./3,4($/,-4-/0/,.$*)3:/5
+
+~ ju E W }u} “yo ~ Ju C Jv iv] of} AD JC Jus to fC }
+
+~ex Eu }C u} } uv ( lv Ayu’ }v
+
+~ Eu yO pi }vv ]ZA}uC’ of}
+
+~ } JvP } v }C WW}
+
+A SUSTAINABLE DEVELOPMENT POLICY IN LINE
+WITH THE GROUP’S AMBITION AND VISION
+
+KEY FEATURES OF THIS POLICY
+
+With the strategic framework Ambition 2030 rolled out over the
+course of 2019, Somfy is incorporating its Corporate Social
+Responsibility (CSR) ahead of its strategy in order to make it the
+foundation for the Group’s sustainable growth. The CSR topic
+features in each of the four strategic pillars of Ambition 2030.
+
+This thought process has helped to formally set out Somfy’s
+sustainable development policy, which is structured into four
+sections in line with each of the pillars of Ambition 2030:
+
+1. Improving living environments for all;
+
+2. Consumer respect;
+
+3. Reduction of environmental impact;
+
+4. Employee commitment.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+24
+
+Given that ethics in everyday behaviour and compliance with the
+law are prerequisites, they form a transversal axis of this
+sustainable development policy.
+
+The four sections of Somfy’s sustainable development policy
+respectively address four long-term objectives, which are
+themselves structured into three-level action plans: immediate
+compliance, three-year strategy and ambition by 2030.
+
+These four long-term objectives are:
+
+to make progress in achieving the vision, “Inspiring a better way
+of living accessible to all”;
+
+to have loyal customers and consumers who trust the Group;
+
+to make the environment an innovation driver for Somfy and its
+value chain;
+
+to involve and motivate employees in line with the vision.
+
+These objectives are consistent with the sustainable development
+policy pursued in 2019, the main programmes of which are
+developed as part of the management of the non-financial risks
+expanded upon below.
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+GOVERNANCE
+
+The strategic framework of the Group’s sustainable development policy within Ambition 2030 was set out by the Strategic and Executive
+Committees. This policy was presented to the Supervisory Board as part of Ambition 2030.
+
+In 2019, a strengthened Sustainable Development Department was created, with effect from 1 January 2020. It is attached to the CEO and
+Chairman of the Management Board, and includes environmental performance and social commitment, as well as the teams from the
+Somfy Foundation and the Endowment Fund Les Petites Pierres.
+
+In 2019, the Steering Committee for Sustainable Development brought together the Sustainable Development Department with the HR,
+Communications and Procurement functions as well as the Chair of the Ethics Committee. It ensured the monitoring of the various policies
+implemented. It actively contributed to the Strategic Committee’s work on CSR.
+
+The various policies are communicated to the Group’s head office and its subsidiaries ] coordinators or the local manager. In addition, the
+Human Resources Department works in coordination with the heads of the Foundation and of the Group’s Social Commitment to make the
+Group’s socially responsible policy a driver of commitment and belonging for employees and candidates, and it also helps to roll out these
+policies within the Group. Across Somfy Activités SA’s scope, the Act for Green® and Employee Commitment indicators are included in the
+employee incentive scheme.
+
+ASSOCIATED RISKS
+
+The challenges related to this sustainable development policy have long been acknowledged and were already taken into consideration in
+the strategic plan prior to Ambition 2030 (source — Somfy 2018 Annual Financial Report). The risks were identified within the framework of
+the Sustainable Development Steering Committee based on ISO 9004, Managing for the Sustained Success of an Organisation - a Quality
+Management Approach, as well as on the basis of the materiality matrix developed across the scope of Somfy Activités SA, which
+complements this approach and confirms that this sustainable development policy is in line with the expectations of stakeholders. The
+relevance of these risks, the long-term objectives detailed previously and the policies to be implemented have all been reformulated or
+confirmed by the Strategic Committee as part of the work to draft Ambition 2030.
+
+This work has highlighted four types of risk for Somfy. Firstly, the issue of sustainable development is a lever that Somfy must take
+ownership of. Its business model and solutions help to limit the contribution of buildings to global warming, and Somfy seeks to serve the
+common good in both its vision and its values. These are therefore significant commitment factors for employees and stakeholders.
+Secondly, climate change is in itself a risk for everyone, and that we must strive to combat both collectively and individually. There also
+exists, for all companies, a risk to image and reputation from doing nothing or not doing enough to promote sustainable development,
+which is heightened for companies that claim to make a positive contribution to the fight against global warming or that they are acting in
+the public interest. Lastly, social, technological and environmental changes all have impacts on activities, which we must take into account
+and anticipate.
+
+Themes Major non-financial risks Pages
+Social/Human Capital Inadequate resources in terms of talents and skills 26
+Employee health and safety 28
+
+Environmental Impact of global warming on the business model 30
+Acceptability of solutions and processes 30
+
+Contribution to climate change 31
+
+Societal Company reputation and image with its stakeholders 34
+Attractiveness of the company and its employments areas 35
+
+Ethics and combating corruption Risk of non-ethical behaviour and corruption 37
+Non-compliance of the supply chain with CSR standards 38
+
+Given the nature of its activities, Somfy believes that the following topics do not represent major CSR risks and do not warrant further
+discussion in this Management Report: combatting food waste, food poverty and animal welfare and promoting responsible, fairly traded
+and sustainable food consumption. Fight against tax evasion is not considered as a major CSR risk. It is developed on page 39.
+
+25 SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+SOCIAL POLICY PERFORMANCE
+
+The professional development of employees is critical to their engagement, which in turn drives innovation and performance and is
+therefore a key growth driver. The Group’s appeal and its employees’ engagement are linked to the professional development offered and
+also to the respect they are given through health and safety, and more generally their working conditions.
+
+In 2018, Somfy’s biennial commitment survey had a participation rate of 82.1%, a high score that demonstrates the deep commitment of
+
+employees.
+
+OVERALL GROUP WORKFORCE AND EMPLOYEE STRUCTURE BY AGE AND GEOGRAPHIC REGION
+
+At 31 December 2019, total Group workforce was 5,711 people (excluding temporary workers), compared with 5,677 in 2018, an increase
+
+of 0.6%, and was analysed as follows:
+
+W"#$%
+
+"#$%&
+&"H$)
+*OS4"#-.-
+/#04+8"$-/1"23&
+42"4+5&"$-/1"23&
+6214+5&"$-/1"23&
+89::,8&-/#0+-
+3<"9%#
+(&"9%#O
+
+J] rW ].
+
+wal
+
+arg HE
+8%
+#*)"$ HCH | Bea
+Hee H&S
+i
+w 0;
+We
+W#$% 8 (H+ "-"# "# "St HE'S %& (#)*
+$M (H)*+ —— SME H*+ —— $MHB'(HY*+
+
+IMPROVING THE VISIBILITY OF RECRUITMENTS, RETAINING TALENTS AND DEVELOPING THE SKILLS THE COMPANY NEEDS
+
+Human capital is an important element of the business model.
+Through their skills and expertise, this human capital gives Somfy
+the ability to respond effectively to the challenges posed by the
+digital transformation of companies, new business models and the
+development of the company.
+
+In order to prevent an inadequacy of talents and skills in this
+human capital, Somfy has introduced a policy of employee
+professional development which aims to gain the maximum
+potential from this human capital by developing their internal
+employability. The areas of this policy are: improving the visibility
+of internal recruitments, retaining talents, and the development of
+the skills the company needs.
+
+In addition, Somfy is pursuing a policy that maximises the results of
+its societal and environmental measures to make it attractive to
+external candidates.
+
+The indicators are the following: staff turnover, change in the
+implementation rates of the People Review (support in
+professional development J] the assessment of skills and the
+recognition of performance). These indicators and all social data
+are monitored within the scope known as the CSR (Corporate
+Social Responsibility) scope, in which the monitoring of such data
+makes sense. It relates to 41 Group companies and a workforce at
+31 December 2019 of 5,269 people, representing 92.3% of the
+Group’s total workforce.
+
+Plan to support the professional development
+of employees and internal mobility
+
+Roll-out of the application tool within the Group
+
+In order to promote internal mobility within the Group, a single
+tool for managing internal and external applications has been
+implemented across all the French legal entities and the Eastern
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+26
+
+Europe Business Area (Poland, Czech Republic, Hungary, Romania,
+Russia, Lithuania and Ukraine). The ambition is to continue to roll
+out this solution to other subsidiaries in 2020 in order to continue
+to improve internal mobility within the Group.
+
+Improvement of the People Review process
+
+The People Review process helps to identify those of the
+employees capable of moving on to positions of greater
+responsibility within the Group. This process feeds into succession
+plans to ensure the continuity of execution necessary for the
+Group's performance in the event of an employee's departure. It
+also makes it possible to identify the collective training needs of
+employees. This process relies on support that is progressively
+enhanced and whose international roll-out (SOPEM in Poland in
+particular) is continuing.
+
+Internal mobility and promotion
+
+Each time this is possible, Somfy prioritises internal mobility by
+drawing on employees who are in a position to progress within the
+Group.
+
+Skills mapping
+
+A substantial part of Somfy’s success and appeal is based on its
+ability to develop the talent of its current and future employees. In
+order to make development paths more effective, Somfy has a
+shared framework to map its jobs and its skills. Launched in
+September 2018, this project aims to identify its business sectors
+and existing jobs, in order to define the skills required to perform
+them. At the end of 2019, 60% of Somfy’s professions were
+covered. This framework is integrated into the performance
+assessment tool which feeds the People Review process. This
+facilitates a uniform assessment of employees’ skills to identify and
+then address the gap between skills needs and skills recorded.
+Skills development plan
+The skills development plan is one of the outcomes of the People
+Review process combined with the professional appraisal
+interview. It is the result of the consolidation of the skills
+development requirements identified by the dialogue between the
+manager and their employee and translates initially into individual
+training or guidance plans. It subsequently outlines the structuring
+axes of the training policy, that are three to date:
+
+— improving the operational excellence of teams: quality training,
+training on working methods, integration of new employees;
+
+— working better together: training in management, in health and
+safety, intercultural training, training trainers, and transversal
+operation for business experts;
+
+— specific business training: training in new technologies, business
+intelligence.
+
+Attractiveness of Somfy to external candidates
+
+Somfy is an attractive company. Over the 2019 financial year, the
+workforce grew 1.68% over the CSR scope, going from 5,182 to
+5,269 employees. 70% of this workforce is accounted for by the
+seven industrial sites within the CSR scope.
+
+Results of the policy of employee professional development
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+90% of the increase in staff was split between France, Eastern and
+Central Europe, and Asia-Pacific, primarily within the entity Somfy
+Activités SA and at the manufacturing sites SOPEM in Poland and
+Lian Da in China.
+
+100% of the decrease in the workforce relates to the Southern
+Europe and Middle East region, mainly the Middle East scope.
+
+"HHS @ "#8%&
+r ) > &"(#$)
+@ *&$+"#--
+
+/#0+&"$-/1"23&
+42"4+5&"$-/1"23&
+6214+5&"$-/1"23&
+89::,&-/#O+-
+3<"9%#
+3(&"9%#O
+
+J] rW ].
+
+Percentage of employees who have completed a People Review
+
+B&%$ Bh (&%!
+
+To& SHIEH
+
+me ‘o
+S$S# Tc 1 &t
+
+O/+1,-2
+
+3/-4+,5676
+8,94/+-68:+;</
+
+=4+4>/+-6
+8:4;</
+
+$"#
+
+RH
+
+1a 1 Bett
+
+253:4>/4+-68:4;</@6
+ABCC5/68,946
+76DE+B.,
+
+DI/+B..9 yrw ]. F:4,5
+
+The percentage of completion of People Reviews fell slightly, from 94% in 2018 to 90% as a result of a reorganisation within one of the
+French subsidiaries, Simu, where People Reviews could not be conducted. Nevertheless, the international roll-out and its integration into
+the HR procedure are underway as shown by the improvements in the indicator in Northern Europe and the Americas.
+
+Percentage of employees who progressed (internal mobility or promotion)
+The rate of internal development rose slightly between 2018 and 2019, going from 7.74% to 8.29% of the workforce. Management will
+continue its efforts (definition of a mobility policy in 2020) in order to improve the rate of internal mobility.
+
+27
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Percentage of employees who received training
+
+BG'& my *G"s SH SS#
+
++,-./0 10,2-.3 40.5,-6787 ><,520,.79;,<=0 @<;520,.79;,<=0A7 E20,C/-: J rw j.
+9-:50,.79;,<=0. BCDD6079-:57
+87EF,C/-
+
+Monitoring this policy relies on the introduction, which took place in 2018, of the indicator relating to the number of employees who
+received two hours of training or more at least once. For 2018, this indicator stood at 70.4%, ] Xmé@re than two of every three employees.
+In 2019, 3,679 employees received training on at least one occasion, equating to 70% of staff, the same level as the previous year.
+
+Number of hours training delivered to employees, by training area (Improving Operational Excellence, Working Better Together
+and Specific Business Training)
+
+BK }vo ~ oo v i | S} ljvP ' d}yP Z jv d
+4%)" )BeHt
+
+Representing a total of 83,996 hours’ training, an increase of 10.2% in relation to 2018, a figure far higher than the increase in the number
+of employees.
+
+GUARANTEEING THE PERFORMANCE OF OPERATIONS AND Prevention of accidents at work and reduction
+RESPECT FOR EMPLOYEES WHILE ENSURING THAT of musculoskeletal disorders
+
+OCCUPATIONAL HEALTH AND SAFETY CONDITIONS ARE
+CONSISTENT WITH THEIR EXPECTATIONS
+
+Efforts have been made in many countries to reduce the exposure
+
+to risks and to improve working conditions:
+
+— within the French entity Somfy Activités SA, all managers
+attended an on-site refresher course on health and safety at
+
+The development of health and safety is one of the key pillars of
+Somfy’s human resources project. The health and safety risk is
+inherent in the performance of manufacturing and _ logistics
+
+activities. Employees at head office and the distribution work; _ . .
+re ae P — within the Tunisian entity SITEM the following elements were
+subsidiaries are also exposed to psychosocial risks and the risk of introduced:
+
+on-site accidents. Somfy’s primary corporate responsibility is to
+ensure the physical safety of employees and to provide them with
+a working environment that supports their professional
+development.
+
+e fire safety action plan (vulnerability study),
+
+@ processing of all accidents and safety risks ] 8D analysis and
+implementation of resulting measures,
+
+@ assessment of occupational risks,
+
+e identification of pedestrian zones within production,
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019, 28
+@ introduction of lockout instructions during electrical work.
+
+Prevention of psychosocial risks
+
+The prevention of psychosocial risks requires training that takes
+place either face-to-face or remotely (e-learning), as well a
+communication campaign. E-learning training on the definition of
+psychosocial risks is accessible to all Group employees. Somfy
+Activités SA managers received training on how to spot minor signs
+of cases of psychosocial risks.
+
+Lastly, a mapping of those involved in the prevention of
+psychosocial risks was conducted within Somfy Activités SA.
+
+Listening and personalised support service within Somfy
+Activités SA
+
+Somfy’s Management wanted to introduce an anonymous
+telephone listening and personalised support service. This service
+provides emotional support at difficult times, offering employees
+and managers information, guidance and assistance in seeking
+solutions appropriate to their situation.
+
+Results of the health and safety at work policy
+
+The key performance indicator monitored concerns the rates of
+frequency and severity of accidents at work:
+
+Frequency rate
+
+%"))
+
+& um "GR
+14S
+%
+$ #&! #'&S
+#
+!
+#”) #"( #") #"( #") HY"
+*+4,-/01234.1/5, ] ] }v 1] }v jo] }v
+Severity rate
+"%H# m(
+1"%! "#%
+WH&
+"4S
+I" $#
+It
+mg! "%
+aed
+iy
+GS To\S& GS $B GS G!$&
+)*+,-./0123-0.4- 1} 1 dv 11 }v Jol jv
+
+All the preventive measures related to accidents at work and
+musculoskeletal disorders have had a significant impact on both
+the frequency (5% reduction) and severity (17% reduction in days’
+absence due to accidents) of work-related accidents.
+
+This reduction primarily relates to the industrial sites where the
+risk of accidents is the most significant.
+
+The other indicator monitored is the average number of days’
+absence per individual: this indicator stood at 11.23 days in 2019
+compared with 10.32 days in 2018. This increase was primarily due
+to a rise in the number of days’ absence for illness (up 10.7% in
+2019 in relation to 2018) excluding occupational disease,
+work-related accidents and commuting accidents.
+
+29
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+ENSURING DIVERSITY OF EMPLOYEES WITHIN THE GROUP TO
+IMPROVE PERFORMANCE
+
+Given the nature of the Group’s activities and its presence in
+58 countries, with a workforce comprising many nationalities,
+Somfy does not consider the issue of diversity to constitute a risk
+but rather an opportunity. Ambition 2030 also underlines the
+importance for Somfy of having diverse and inclusive teams, willing
+to welcome people with disabilities or with unusual professional
+backgrounds.
+
+Gender parity
+
+This measure is intended to achieve better gender parity in the
+company. Within the scope of Somfy Activités SA, it is driven by an
+Agreement on Gender Equality in the Workplace, with in particular
+a renewed objective to achieve a rate of 30% female at manager
+level by 2021. This agreement also contains areas requiring
+attention in relation to remuneration. A process has been
+introduced to ensure that individuals on maternity and paternity
+leave are not excluded from wage increase.
+
+In 2019, as in 2018, Somfy achieved a score of 89 on the gender
+parity index within the scope of Somfy Activités SA. At Group level,
+in 2019 the ratio of men to women in the workforce was stable
+with a breakdown of 57% men and 43% women.
+
+e "#9"
+@ &$%"
+
+Combatting prejudice and exclusion
+
+Through the Disability Agreement of 21October 2019, the
+Management of Somfy Activités SA underlined its desire to initiate
+a drive and the mobilisation of everyone to promote the
+employment of workers with disabilities. This agreement, covering
+2020-2022, is intended to improve the overall employment rate
+through action in the following areas:
+
+— developing the recruitment of new employees with disabilities
+on the various sites;
+
+— improving measures to accommodate and
+employees within the Somfy Activités SA sites;
+
+— continuing to apply measures to retain employees in the
+workforce, in particular through communication with disabled
+employees;
+
+— developing relationships and framework agreements with
+service providers in the sector, and enabling them in particular
+to gain new skills;
+
+— improving communication with employees, and their managers
+and those involved in the disabled sector in relation to the
+disability policy, raising awareness and training;
+
+— maintaining the momentum of the disability policy.
+
+integrate new
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+ENVIRONMENTAL POLICY PERFORMANCE
+
+Somfy is an industrial company whose products are installed in
+buildings. Worldwide, buildings account for approximately 20% of
+greenhouse gas generation. By promoting the smart control of
+opening and closing systems in homes and buildings, Somfy helps
+to reduce their energy consumption, by acting on light levels and
+by reducing needs for heating and air conditioning. Thus, Somfy
+solutions improve the energy efficiency of the buildings in which
+they are installed.
+Analysis of environmental concerns therefore focused on three
+aspects: consideration of the impact of global warming on the
+business model; the common good and taking into account the
+impact of operations on global warming and more generally the
+environment; and the potential operational consequences for the
+activities.
+
+The risks related to climate change identified are:
+
+— impact of global warming on the business model:
+
+The solutions provided by the Group offer energy savings in the
+buildings in which they are installed. Demand for the solutions
+offered by Somfy should remain steady and this environment
+should stimulate innovation in research into responses to global
+warming;
+
+— perceptions of Somfy’s
+stakeholders:
+Independently of the notion of vulnerability in relation to
+climate change, the desire to limit the environmental impact of
+its operations is a priority for Somfy. How its action plans are
+viewed by its stakeholders is key to ensuring the acceptability of
+the Group’s operations in the long-term in the territories in
+which it operates. The Group must lead by example and help to
+adapt to climate change in the regions in which it operates in
+order to ensure the longevity of both its activity and its strategy
+of attracting and retaining talent;
+
+— impact on the industrial structure:
+
+Climate change involves impacts that could affect the Group’s
+operations, in particular access to energy and water, as well as
+physical effects on buildings. These risks have been assessed as
+minor. Conversely, the environmental impact of its operations
+contributes to global warming and must therefore be taken into
+account in the general interest and to meet the expectations of
+stakeholders.
+
+To manage these risks, Somfy implements a general policy of
+
+reducing its environmental impact.
+
+environmental performance by
+
+GENERAL POLICY TO MANAGE ENVIRONMENTAL AND CLIMATE
+RELATED RISKS
+
+Combatting global warming is a priority for the Group, which was
+reaffirmed by General Management in 2019. An effective policy of
+combatting climate change involves firstly measuring, and then
+reducing, greenhouse gas emissions. In 2020, Somfy is launching a
+Carbon Assessment’ globally, taking into account its entire carbon
+footprint. This assessment will form the baseline year from which
+the company’s own energy conservation and efficiency targets will
+be developed in order to manage the Group’s impact on global
+warming. The “We Act for Green” programme is the manifestation
+of Somfy’s environmental policy. “We Act for Green” is aimed at
+reducing Somfy’s environmental impact and_ transforming
+environmental problems into innovation opportunities for the
+Group and its value chain. It is structured around four pillars:
+
+~ }v uv ] } lv }v XxX
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+1. “Green Benefits’: Somfy products and solutions enable
+buildings to reduce their energy consumption;
+
+2. “Green Products”: Somfy products and solutions are
+eco-designed in accordance with the “Act for Green”
+framework;
+
+3. “Green Teams”: Somfy products are developed, manufactured
+and distributed by teams who introduce environmentally
+friendly practices to their workplaces;
+
+4. “Green Operations”: Somfy's production sites take into
+account their environmental impact.
+
+Green Benefits
+
+Solar protection systems motorised and automated by Somfy’s
+solutions help to reduce the energy consumption of buildings. This
+is achieved both by limiting the winter heat loss of buildings and by
+protecting them from the heat in summer, thereby improving
+comfort in the summer and helping to reduce the installed air
+conditioning capacity.
+
+The ONIX, ES-SO, ESTIA, BBSA and London South Bank University
+studies have all shown that Somfy solutions and their carrier
+products could lead to a reduction in energy usage in relation to
+the heating, air conditioning and lighting of buildings. The ONIX
+study demonstrated a reduction of approximately 29% under real
+conditions. Large-scale heating studies of buildings are ongoing in
+order to consolidate these results, refine the Group’s calculation
+models and better quantify their impacts. In any event, the interim
+results of this work are similar and confirm the positive impact of
+the Group’s solutions on the energy consumption of buildings.
+Somfy’s business model as a response to global warming issues is
+reaffirmed as part of Ambition 2030 and in its pillars
+“Forward-looking in Smart Living” and “Rising value to Customers”.
+
+Green Products
+
+These products are awarded an Act for Green® label when they
+
+meet stringent eco-design requirements.
+
+The origins of Act for Green® can be traced back to the results of a
+
+Carbon Assessment® carried out in 2012". This Carbon
+
+Assessment® had established work on electricity consumption and
+
+the use of raw materials as priorities.
+
+Act for Green® is based on a framework taken into account by
+
+Research & Development teams. It incorporates requirements that
+
+are broken down according to several subject areas:
+
+— controlling greenhouse gas emissions through moderate
+electricity use and the choice of appropriate raw materials;
+
+— seeking to use recycled and recyclable raw materials in the
+composition of products;
+
+— materials selected for their low impact on health and the
+environment;
+
+— product durability;
+
+— a statement of the environmental impacts in line with the PEP
+ecopassport® programme in which Somfy participates. This
+programme, developed by the electricity industry, defines a
+standardised method for making environmental declarations in
+accordance with international regulations (ISO14025 &
+ISO 14040s). The information contained in this PEP ecopassport®
+has been independently verified by Bureau Veritas CODDE.
+
+A roadmap for the integration of projects in the Act for Green®
+
+programme had been drafted in collaboration with development
+
+teams for the next two years.
+The target defined at the start of the policy, in 2015, was to
+achieve certification for 80% of amounts of Somfy brand products
+sold in 2020. The updated roadmap shows that the threshold
+achieved at the end of 2020 will be above 65%.
+
+Requests, both from customers and regulatory, in relation to
+awareness of the substances used in products have continued.
+Somfy actively monitors regulatory developments and conducts
+detailed laboratory analysis of substances. The Group is monitoring
+the progress and implementation of these regulations by taking
+part in the FIEEC’s” “GT Substances” working groups.
+
+In Europe, end-of-life products are collected and processed under
+the WEEE (Waste Electrical and Electronic Equipment) Directive.
+These collection and processing initiatives are organised by
+environmental organisations with which Somfy has contracts in
+different countries of the European Union.
+
+In general terms, Somfy contributes to the implementation of the
+circular economy through its involvement in_ professional
+organisations such as the FIEEC, IGNES” and the Technical
+Committee 111°).
+
+Green Teams
+
+Driven by the desire to protect the environment and in accordance
+with its values and those of its workforce, Somfy encourages its
+employees to increase the number of green initiatives and best
+practices. Somfy has committed to promoting environmentally
+friendly practices amongst its employees and its local ecosystem: a
+network of volunteer eco-ambassadors promotes environmental
+initiatives amongst their colleagues. In 2019, this network of
+eco-ambassadors was made up of 43 people, across 17 of the
+Group’s sites in  12countries. The network covers
+3,165 employees, equating to 55% of Somfy’s workforce.
+
+These eco-practices are coordinated and promoted through a
+webzine, website and in-house social network. In addition, the
+Group has incorporated the presentation of its sustainable
+development policy and values into the induction days for new
+employees.
+
+The Green Teams programme has a dual objective. It involves
+raising awareness and changing mindsets to ensure everyone
+understands the importance of environmental issues, while
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Green Operations
+
+The Group rolls out action plans in order to limit its reliance on
+energy supplies.
+
+Moreover, the industrial sites are traditionally subject to physical
+risks. In Somfy’s case, its factories are fairly new and built in
+accordance with the standards applicable to buildings in the
+countries in which Somfy operates.
+
+Climate change is faced with the geographical location of the
+Group’s infrastructures. Changes in rainfall and their impact on
+water resources is not a direct risk for the Group’s manufacturing
+sites. The industrial processes employed in the factories do not use
+water. Furthermore, the industrial sites are inland from coastal
+areas and are therefore not at risk from rising waters. Lastly, the
+number of sites located in areas subject to an increase in the
+severity of tropical storms is low. The vast majority of physical risks
+related to climate change should therefore not directly affect the
+Group’s industrial structure.
+
+ACTIONS AND EFFECTS OF THESE POLICIES ON THE ENERGY
+EFFICIENCY OF PRODUCTS AND TAKING CLIMATE CHANGE
+INTO ACCOUNT
+
+Results of the Green Buildings action plan
+
+Somfy is a member of the Active House Alliance, which promotes
+healthier, more comfortable buildings that do not have a negative
+impact on the climate“),
+
+The efficiency of Somfy solutions in reducing the energy
+consumption of buildings is also recognised by French legislation.
+Its solutions have been integrated into regulation RT2012 which
+transposes European Directive EPBD (2010/31/EU) into French law.
+It is aimed at reducing by a factor of three the energy consumption
+of new buildings so that the construction sector becomes carbon
+neutral by 2050.
+
+In this context, animeo Connect, the range of controls for fully
+connected solar protection, was awarded the Solar Impulse
+Efficient Solution label by the Solar Impulse Foundation. This
+
+responding very favourably to ever greater demands for solution considerably enhances opportunities for energy
+
+commitment from the Group’s employees and stakeholders. conservation and increased comfort for occupants.
+
+~ &/ Wk VZE& l}v }C o ] Uo }v] Vv }uu vj J}v /v ] xX
+
+~ PEAWk& vVZ }] d}v dC JP] o W}S vv A J ° vP]y JvP sy ] xX
+
+~ /Ed ZE d/KE > > dZKd ,E/ > KDD/*4/KE d Zv] 0 }uul Wvj}vuv ov (} o J] 0
+
+~ Z Wil ?X J] Z} X]vcyl } 1 for ] rZ}) 1X
+
+~2#eZ Wil }o Ju o X Sul ((] J vr fo J}vr ZMzu Z} AWK*d zu Z} A’ d ZA ZrZ] vA }
+} }uo or P} ‘A4}o J}v } Juoo r(JoA }o J}v>] } }uo ro oAvju }= }vv X
+
+31
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Results of the Green Products action plan
+
+Eco-design and Act for Green®
+
+$" #" "
+
+an
+
+Although Somfy solutions help lower the overall carbon impact of
+buildings, the Group is also committed to reducing the impact of
+its activities on global warming. Somfy is using the results of a
+Carbon Assessment® carried ou' using 2011 data. The eco-design
+policy is based on this assessment. A new Carbon Assessment® will
+be carried out in 2020 in order to update choices. This eco-design
+programme, Act for Green®, is gradually being applied to all
+product ranges and markets. The project integration targets in the
+programme have been met. Compliance with the roadmap permits
+its extension, as planned, over the next two years.
+
+In addition, the continuing eco-design efforts are reflected in a
+higher rate of products covered in the Somfy portfolio. In 2019, 13
+new ranges of products were certified Act for Green’:
+
+— nine motorisation ranges;
+
+— four ranges of control systems.
+
+As a result, the proportion of products sold under the Somfy
+brand” which bear the Act for Green” label continues to increase
+and rose from 24% in 2018 to 60.77% in 2019. The 2018 figure
+(24%) was recalculated in relation to the information published last
+year (28%) in order to better match the exact definition of the
+indicator and be consistent with the 2019 figure.
+
+"EE +/0123*344/*05/6.*276*8+9,:*;.<5/
+<5/*36<.=5>*276*212*,+.* @ 665A*4<;64
+
+&"( )¥+,-
+/01*2(,**340523
+yw"
+Av }v ui fv fC Ahuc
+ku
+@pD Jo v }fu}fvv  }¢
+@ }v u fv iy }C AJuc
+ku
+d v }
+@ uo} 0
+eo & 3
+v JC o]( JC}
+"
+a"
+&!"
+%o\"
+$i"
+#!"
+si S1H(
+
+Greenhouse gas emissions resulting from the use of raw materials
+that form part of the composition of the products are also taken
+into account:
+
+— analyses of the lifecycles of products conducted on the control
+systems highlight that the microprocessor generates the largest
+portion of GHG emissions, accounting for over 25%. By way of
+example, the Act for Green’ criteria recommend the use of QFN
+type microprocessors which, in comparison with the QFP
+
+Jo ]JvP } } Z|] } ] 00° lv jv }
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+$i)
+
+32
+
+$!#B $!#C
+
+versions prohibited by Act for Green’ generate a five-fold
+reduction in greenhouse gas emissions;
+
+— research into the use of recycled plastics is also ongoing.
+However, the plastic materials used in Electrical and Electronic
+Equipment (EEE) must meet very high specifications and
+standards in relation to fire testing and dielectric properties
+(notably CEI 335-1, UL 746 C). These materials are not currently
+available on the recycled plastics market. Somfy is supporting
+
+}v X¥/v o Jv } Z AJUC v oo
+the circular economy-focused work of the FIEEC to make
+progress in this field.
+Somfy has decided to monitor a significant indicator concerning its
+greenhouse gas emissions and regarding which it is able to take
+action: the CO, emissions related to the energy consumption of its
+electronic motors when on standby.
+
+2017 2018 2019
+CO, emission per
+electronic motor related 40.30kg 39.38kg 37.41kg
+to consumption on of CO, of CO, of CO,
+standby
+
+This reduction of 7.17% in two years is a result of the first
+initiatives taken under the Act for Green” eco-design programme.
+The data used in the calculation was provided by the Group and
+has a low level of uncertainty. However, the emission factor used is
+based on average European data, ultimately resulting in a level of
+uncertainty classed as medium.
+
+Waste processing
+
+Somfy takes into account the impact of waste on the entire
+lifecycle of its products, from their production through to their end
+of life reprocessing.
+
+Industrial waste from the Group’s manufacturing sites
+
+Waste ~d} vv 31/12/18 31/12/19
+Non-hazardous waste 4,055 4,326
+Hazardous waste 41 29
+TOTAL WASTE 4,096 4,355
+Recycled 3,692 3,979
+Recycling rate 90% 91%
+
+The increase in the total amount of waste generated is 6.3% for a
+6.5% increase in activity.
+
+Somfy products are covered by the European WEEE Directive
+2012/19/EU on waste electrical and electronic equipment. Somfy’s
+membership of local environmental organisations or trade bodies
+professional means that it falls within the scope of this Directive
+regarding the processing of end of life products.
+
+Somfy is involved, within its trade associations, in the promotion of
+the circular economy within its industry, an example being Somfy’s
+active participation in the GT circular economy of the IGNES trade
+body in France.
+
+Somfy is also active in this field within the association G.R.E.En
+which is testing the software Upcycléa.
+
+Results of the Green Teams action plan
+
+Eco-behaviour and eco-habits of employees
+
+Mobility plays an important role in these eco-friendly habits:
+
+The Group’s head office is located in Haute-Savoie, in the Arve
+Valley. Due to weather conditions and its specific topography, it is
+an area sensitive to episodes of air pollution. It is also covered by
+an Air Protection Plan. Somfy focused on measures to help reduce
+this pollution by seeking to influence the means of transport used
+for commuting to and from work. Several practical steps have been
+
+33
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+introduced, such as the bicycle mileage allowance, the car sharing
+site Klaxit, electric bicycle loans, the partial reimbursement of
+season tickets for public transport for Somfy Activités SA, the
+installation of electric vehicle charging stations and the gradual
+introduction of hybrid (electric and petrol) vehicles to replace
+diesel in the company’s vehicle fleet.
+
+The “Mobility Challenge” day, aimed at changing commuting habits
+was held again in 2019.
+
+Since the softest mobility is the type that is not undertaken,
+agreements have been reached to promote remote working
+amongst eligible employees. Currently, out of an estimated
+maximum of 1,300 employees eligible to work remotely, more
+than 750 have already done so on at least one occasion,
+representing a ratio of almost 58% of eligible employees. The
+average number of days worked remotely per employee is 16 per
+year per person.
+
+Other green habits:
+
+In 2019, at least 19 green habits were included at all the Group’s
+locations. They included, in particular, the distribution of
+recyclable mugs and containers; the sorting of waste and its
+anaerobic digestion for use in public transport; limiting the use of
+plastic cups and aluminium capsules for coffee, choosing low
+carbon taxi companies, carbon offsetting of a logistics seminar.
+
+At the Cluses company restaurant, proactive measures in favour of
+organic food and local produce has increased the amount of
+organic food served to 18%.
+
+In respect of reusing IT equipment, 1,298 items were processed in
+2019 including 987 computers. The update and removal of
+computer data is performed by a company promoting the
+employment of disabled people. These computers and various
+accessories are then reused, thereby breathing new life into them.
+In 2019, 88% of the equipment was reusable, with the remaining
+12% sent for recycling.
+
+Involvement of teams in the local ecosystem
+
+Somfy is one of the founder members of the organisation G.R.E.En
+(Groupement pour la Responsabilité Environnementale des
+Entreprises) which brings together companies and communities
+from the Haute-Savoie and Mont-Blanc regions. This organisation
+promotes initiatives to support the sustainable development of
+these territories. Somfy takes part, for example, in working groups
+and active events related to eco-mobility, energy efficiency and
+the circular economy.
+
+Somfy is involved locally in the grouping of local authorities’
+Regional Air and Energy Climate Plan where a proportion of its
+French manufacturing sites are located, the 2CCAM (Communauté
+de Communes Cluses Arve & Montagne).
+
+As part of this same drive, the Sustainable Development
+Department often leads initiatives to raise awareness amongst
+younger generations of sustainable development issues. These
+initiatives take the form of participation in presentations and
+lessons in primary and secondary schools, and universities in
+Haute-Savoie and elsewhere.
+
+Results of the Green Operations action plan
+
+Water usage and discharge of wastewater
+
+The industrial assembly processes do not use water. The water
+volumes cited below are therefore exclusively related to the daily
+domestic consumption of the sites, which explains the relatively
+low volumes used and discharged.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Water consumption 31/12/18 | 31/12/19
+
+45,733 |
+
+Water consumption in m? 46,685
+
+All the manufacturing sites are connected to wastewater collection
+and treatment networks, and their reprocessing rate stood at
+100%.
+
+Greenhouse gas, combatting global warming and energy
+efficiency
+
+In addition to the eco-design measures implemented as part of the
+Act for Green’ programme, efforts have been made in relation to
+operations.
+
+A Greenhouse Gas Emissions Assessment (GGEA) relating to the
+2018 financial year was conducted in 2019 covering the scope of
+Somfy Activités SA. This entity includes one of the Group’s major
+industrial sites and 29% of its workforce, equating to
+1,641 employees out of a total of 5,711. In comparison with the
+GGEA completed in 2014, the results are encouraging. The
+amounts of greenhouse gas released into the atmosphere fell in
+absolute terms, down 6% to 3,484 tCO,e, while the workforce grew
+by 2.6% over the same period.
+
+A Group-wide Carbon Assessment’ is being prepared for 2020. The
+exact quantification of GHG emissions will determine the key
+potential for improvement to limit the impact of Somfy’s activities.
+The new strategic cycle launched in the same year has made
+combatting global warming a major strategic priority.
+
+The greenhouse gas emissions of the manufacturing sites are
+monitored and calculated using actual energy usage readings.
+
+Energy consumption 31/12/18 31/12/19
+Gas ~<t, 12,016,326 12,546,919
+Electricity ~<t, 14,988,502 13,991,315
+Mineral fuel ~ <t, 171,071 139,622
+tort ENERGY CONSUMPTION 27,175,899 26,677,856
+TOTAL GHG EMISSIONS
+
+INCO,EQ ~d KEE 4 6,776 Ter:
+
+Efforts are continuing with investments in the production and
+
+distribution infrastructures in order to improve their energy
+
+efficiency and reduce greenhouse gas emissions. In 2019, an
+
+energy audit was carried out at Somfy Activités SA’s sites to
+
+identify new ways of reducing energy consumption.
+
+In 2019, the following began or ended:
+
+— the replacement of old lighting systems with low energy LED
+bulbs at the R&D Center, WAY, BFT and Lian Da sites;
+
+— insulation work at the sites;
+
+— boiler replacements.
+
+Measures to support biodiversity
+
+As an industrial business mindful of its carbon footprint, Somfy is
+duty bound to focus on protecting biodiversity. A proactive policy
+has been introduced, in connection with the drive to make the
+Group’s business model carbon neutral.
+
+Somfy Activités SA owns several sites in the heart of the French
+Alps, near Mont Blanc. Somfy acts to preserve mountain
+ecosystems by becoming involved in local initiatives. The company
+is a member of the Club d’Entreprises pour la Montagne et son
+Développement Durable (CEM2D).
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+Environmental certification and compliance
+
+The SOPEM factory in Poland is located on the edge of protected
+sites belonging to the Natura 2000 network:
+
+— Puszcza Niepolomicka PLB 120002;
+
+— Torfowisko Wielkie PLH120080.
+
+The factory complies with strict requirements regarding the
+protection of its local environment. Compliance with
+environmental standards was also a precondition for setting up
+any plant.
+
+BFT is ISO 14001 certified in relation to its three major sites.
+
+Lastly, the Group operates in 58 countries. In 2019, the Group was
+not the subject of any appeal or proceedings relating to any
+potential violation of national environmental regulations in the
+countries in which it operates. However, these positive results
+cannot be deemed to be an end in themselves and the company
+intends to continue to implement proactive policies to ensure that
+the number of legal actions remains at zero.
+
+PROGRAMME’S PERFORMANCE IN RELATION
+TO SOCIETAL COMMITMENT
+
+GENERAL DESCRIPTION OF SOCIETAL COMMITMENTS
+
+As with all companies, Somfy must ensure the consistency of both
+its image and its reputation. What it promotes in terms of values
+and ambition for its employees and customers must correspond to
+the reality perceived by them. To embody its vision of “inspiring a
+better way of living accessible to all”, Somfy has for a long time
+chosen to pursue a committed societal policy, embodying this
+vision in initiatives and areas that contribute to the common good
+and where Somfy has legitimacy. This consistency is essential to
+ensure customer loyalty, maintain the commitment of employees,
+retain talents and keep the skills acquired.
+
+Somfy’s societal commitments are focused on two areas: since
+2004, a citizen commitment to combat poor housing J] human
+and financial sponsorship; and for more than 20years, a
+commitment by Somfy to the local and regional ecosystem
+surrounding its head office, in Cluses - a policy that is intended to
+be duplicated at its other major sites.
+
+In addition to the fact that these commitments are longstanding
+and pre-date the existence of reports on CSR in Somfy’s annual
+financial report, the risks addressed by this policy of societal
+commitment are of two types: firstly, it is a significant driver of
+employee commitment, and secondly, it has a positive effect on
+Somfy’s image and reputation in the eyes of its stakeholders in
+general and promotes the appeal of both Somfy and _ its
+employment areas to external candidates.
+
+A CITIZEN AND SPONSORSHIP COMMITMENT COMPONENT
+TO EMBODY A VISION AND VALUES
+
+Description of Somfy’s citizen commitment scheme
+and sponsorship policy
+
+Somfy’s citizen action embodies a desire to improve living
+environments for all, and to make this improvement accessible to
+all. Somfy’s policy of citizen commitment took the shape of a
+corporate foundation, created in 2004, whose aim was to combat
+poor housing and social exclusion |] housing. A leader in the
+building industry and a promoter of better housing for all, this area
+of involvement where Somfy has credibility is both a logical and
+coherent choice. In 2019, the Group committed €350,000 in the
+Somfy Foundation’s initiatives and provide both it and the
+Endowment Fund Les Petites Pierres with an operational team of
+five full-time equivalents.
+The Somfy Foundation
+
+The Somfy Foundation is a lever that enables the Group to respond
+to the high expectations of its external and internal stakeholders
+that there should be consistency between what the Group says
+about improving living environments and its day-to-day actions.
+The Foundation wants to be a recognised player in the fight against
+poor housing. The Foundation combines financial sponsorship
+(each year €350,000 is allocated to the Somfy Foundation) and
+human sponsorship (every Somfy Activités SA employee can give
+three working days to the Somfy Foundation’s initiatives). The
+ambition upheld by the Foundation is to continue to build the
+human connections that form a balanced society, develop
+sustainable relationships and collaborate with community partners
+identified as project participants and leaders, by connecting Somfy
+employees |] human or skills sponsorship. This helps promote the
+values of solidarity within the company.
+
+Seven different formats enable Somfy employees to find the one
+that suits them. Somfy offers employees wishing to do so to offer
+help to organisations who request it ] their business expertise,
+either in the form of long-term individual support (Solidarity
+Talents), or in the form of interactive classes for several
+organisations (Solidarity Workshops). Human sponsorship is also
+provided by the employee giving time to renovation projects, or
+projects to improve premises (Solidarity Projects). This format
+often takes the form of a team initiative. Another collective format
+is that of the hackathon organised each year for the benefit of
+organisations to help them resolve any challenges that they face
+(Solidarity Challenges). Lastly, support for employees is possible to
+help them take their Solidarity Leave: they are granted support
+and a budget to enable them, over their time off and for a trip for
+which they are responsible, to work with a local organisation. The
+last format is intended to support employees ahead of their
+retirement, by helping them to explore the voluntary sector and to
+help them prepare for this new stage.
+
+Les Petites Pierres Endowment Fund
+
+The Endowment Fund Les Petites Pierres is a crowdfunding
+platform initiated by the Somfy Foundation. Based on a digital
+crowdfunding platform and personalised support for organisations,
+it allows individuals to donate to charity projects in the field of
+acceptable housing, with each donation matched by the
+Endowment Fund, on the principle of one euro matched for each
+euro donated. The ongoing development of the platform has led
+the Endowment Fund to open itself to other partners. In addition
+to the Somfy Foundation, other major backers of the Fund include
+the Schneider Electric Foundation, the BTP+ Foundation and the
+company Valfidus.
+
+A House is A Home
+
+The Group considers it important to make a citizen commitment in
+the countries in which it operates. With the A House is A Home
+programme, launched in January 2015, the Somfy Foundation is
+taking action internationally outside the scope of Somfy
+Activités SA. Through this programme, Somfy subsidiaries work
+alongside the Somfy Foundation. In consultation with the
+Foundation, subsidiaries identify projects which promote decent
+living conditions for the most underprivileged, and provide
+financial support, often topped up by skill-based patronage from
+their employees. The A House is A Home programme was
+consolidated in 2017 with the introduction of human sponsorship
+in certain subsidiaries in addition to the financial support provided.
+
+35
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Employee involvement
+
+As part of the Somfy Foundation’s Solidarity Missions, all
+employees have the opportunity to commit some of their working
+time, together with the Foundation, to offer their energy and skills
+to the charitable organisations. In France, in particular, employees
+have a right to three solidarity days each year. This is part of a
+human, } } }sponsorship approach which _ offers
+organisations essential support and also creates value for company
+employees.
+
+Results of Somfy’s citizen commitment scheme
+and sponsorship policy
+
+Somfy Foundation initiatives
+
+In 2019, 87 Solidarity Missions were offered to Somfy Activités SA
+staff, and 477 individual employees took part in a Solidarity
+Mission in 2019 in France. For 2019, the Somfy Foundation granted
+funding of €176,406 to the Les Petites Pierres Endowment Fund.
+
+Les Petites Pierres
+
+In the 2019 financial year, 83 non-profit projects were financially
+supported by the Les Petites Pierres Endowment Fund. This
+represents total grants provided to organisations for 2019 of
+€1,157,873, representing 4,303 donations by individuals with
+€650,617 matched by partners of the Fund, including €145,000
+from the Somfy Foundation.
+
+An impact study conducted in 2019 highlighted that in addition to
+project funding, non-profit organisations derive great benefits
+from assistance with digital skills learning, thereby helping them to
+leverage their various communities and other partners
+independently.
+
+A House is a Home
+
+In 2019, ten projects were proposed as part of this programme.
+Seven countries took part in the programme and provided financial
+or human support to the Somfy Foundation, facilitating the
+involvement of 67 individual employees. The countries involved
+were France, the United States, Germany, Hungary, Belgium, Brazil
+and Australia.
+
+Employee involvement
+
+A single indicator is used to measure the strength of Somfy’s entire
+policy relating to societal commitment. It relates to the
+involvement of employees in the Foundation’s initiatives,
+measured in the number of unique employees who have
+participated in the Foundation’s work.
+
+The number of employees participating in these Solidarity Missions
+has increased steadily since these initiatives were launched in
+July 2012.
+
+In 2019, 545 unique employees took part in a Somfy Foundation
+initiative around the world.
+
+A COMMITMENT COMPONENT IN THE REGIONS
+AND EMPLOYMENT AREAS IN RELATION TO STAKEHOLDERS
+
+Somfy employees are also engaged in local and national initiatives,
+primarily through professional associations but also through local
+charitable organisations thereby boosting the attractiveness of
+local areas and ecosystems.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Action to support resident populations and the local ecosystem
+in Haute-Savoie
+
+In order to promote regional development, Somfy participates in
+and supports higher education and research establishments along
+with the Haute-Savoie district. Somfy is a founding member of the
+Fondation Université Savoie Mont Blanc (USMB) university
+foundation and the Club des Entreprises de |’Université Savoie
+Mont Blanc business club and works with the University to bring
+together the academic and business worlds. Somfy also sits on the
+Board of Directors of Polytech Annecy-Chambéry. In this way, the
+University has representatives to facilitate job openings for its
+students who are seeking skills training contracts and can also
+identify new training requirements in the region, such as training
+in Polytech Annecy-Chambéry’s “Data Usage Computing” which
+meets the needs of the industry of the future and of Somfy today.
+This policy promotes the emergence of pool of talents for the
+company as can be seen in particular in Somfy’s presence at
+“work-placement job dating” events and on work placement
+events organised by the Business Club.
+
+Somfy is heavily involved in competitiveness centres and
+technology or methodology expertise clusters active in the Arve
+Valley (Haute-Savoie), where the Group’s head office is located.
+These organisations, boosted by the economic action of the
+Auvergne-Rhéne-Alpes region, have more wide-ranging and
+deeper effects thereby laying the ground for national or European
+initiatives with selected partners in the future. Somfy is a member
+of the governing Board of the CIMES Competitiveness Center and
+chairs the organisation Thésame. These collaborations enable the
+company to be committed to enhancing the attractiveness of the
+local area whilst continuing to benefit from the input of skills and
+innovations into its design and industrialisation processes. The
+ecosystems that it includes also enable interaction and sharing
+between all Somfy’s regional stakeholders: institutions,
+associations, local suppliers and customers.
+
+Lastly, Somfy is a sponsor of various initiatives in the Cluses and
+Bonneville areas to ensure that local populations, employees living
+near their place of work and their children can all see and benefit
+from Somfy’s involvement locally. It involves supporting sports
+clubs where children of local employees play (often shift workers).
+
+Action to support top athletes
+
+Somfy has been a partner of the French Ski Federation and the
+French Biathlon Team since 2005, and all Nordic Skiing since 2014
+(Biathlon, Cross Country, Ski Jumping, Nordic Combined). A
+committed supporter of sporting initiatives for more than 20 years,
+the Group also sponsors established and emerging athletes
+individually: Anais Bescond, Clément Parisse, Antonin Guigonnat,
+Julia Simon and Emilien Jacquelin.
+
+For more than ten years, Somfy has been a partner of Martin
+Fourcade, multiple Olympic medallist and 11-time world
+champion. Martin Fourcade is a Somfy brand ambassador and
+sponsor of the Les Petites Pierres Endowment Fund.
+
+In 2019, Somfy supported three local ski clubs that provide
+biathlon training to young people and enabled them to meet their
+idols.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+36
+
+CONDITIONS FOR DIALOGUE WITH STAKEHOLDERS
+
+A communication policy that is reviewed annually
+
+The Group annually reviews its communication plan in relation to
+its stakeholders, to ensure they are kept regularly informed and to
+facilitate as much as possible constructive discussions in relation to
+the Group’s strategy and management with the stakeholders
+identified as priorities: employees, shareholders, investors,
+customers, users, suppliers and regional governments.
+
+Ongoing dialogue with public authorities
+
+Involved in the development of the areas in which the Group is
+located, Somfy has led dialogue in France with the various levels of
+public decision-making to contribute to action in the areas of
+education, employment, research and development, or to support
+cultural and sporting projects for local people, by trying where
+possible to relay these events within the company for the benefit
+of employees. The cultural and sporting programmes include: Plein
+Feux Festival (Bonneville), MB Race (Pays du Mont-Blanc) and the
+centenary of Carpano & Pons (Cluses). This collaboration can take
+the form of patronage or sponsorship.
+
+It is within this context that in 2019, Somfy took responsibility as
+leader in the Arve Valley region of the initiative “France, one
+chance, companies commit!”, for the promotion of inclusion within
+companies, thereby supporting a French government initiative,
+covered by DIRECCTE (French Regional Department of Enterprise,
+Competition, Consumer Affairs, Labour and Employment) and
+Medef (French Business Confederation). The Minister of Labour,
+Muriel Pénicaud, visited Somfy on this occasion and spoke with
+stakeholders about this initiative in the Arve Valley region.
+
+Somfy also sought to support Cluses council’s initiative to promote
+Priority Neighbourhoods in the town’s policy and more generally
+primary schools, by co-financing a string orchestra for the
+neighbouring school, Laurent Molliex, in partnership with the
+Cluses School of Music, as part of the national initiative, “An
+Orchestra at School”.
+
+Dialogue with customers and consumers
+
+For several years, Somfy has been initiating a dialogue not only
+with its customers but also with users of its products and
+solutions. It is a promotional tool for the brand and a guarantee to
+continue developing simple and useful products for the consumer.
+
+Protection of user data and management of the digital risk
+
+Somfy has introduced a comprehensive monitoring and employee
+training policy to protect the company against malicious attacks on
+its information systems or on the connected objects ecosystems
+(objects, applications, servers). Each year, an audit plan is prepared
+by professional experts for the two categories of digital risks
+(information systems on the one hand and connected objects on
+the other), presented and discussed with the heads of Internal
+Audit and Risk Management. In addition to the training of
+employees (programmer training is currently being developed),
+this includes penetration tests carried out in accordance with
+current standards.
+Dialogue with users
+
+Users are regularly consulted as part of the development of new
+offers.
+
+The My Somfy Lab platform allows studies to be conducted with
+Internet users interested in the Somfy market without necessarily
+being users of it brands. A part of the platform is closed to the
+public and operates by invitation. 2,300 users and customers are
+grouped into communities. 41 projects have been completed since
+the launch of the platform in 2016. It covers three countries and
+the feedback rate for surveys is 28%, which represents a high level
+of engagement. In 2019, the open version accessible to all resulted
+in 1,307 ideas and 6,092 answers to questionnaires for 14 projects,
+an intense level of activity that included 2,151 comments and
+more than 7,421 “Likes”.
+
+In France, a forum moderated by Somfy gives the floor to
+consumers. To date, more than 60,000 questions have been
+posted there and the forum receives 160,000 unique monthly
+visits. The 76,000 registered participants since the launch of the
+forum in 2013 enables the hotline to be more efficient and to
+answer calls more quickly. Similar initiatives exist in other
+countries.
+
+Somfy’s consumer information websites were used by 10,064,988
+unique visitors in 2019.
+
+Measuring customer satisfaction
+
+Being responsive to professional customers is a priority for Somfy.
+In 50 years, the Group has built a reputation for being close and
+attentive to its customers. Within a relatively young market that is
+growing and constantly changing, Somfy’s leadership and its desire
+to be a trusted partner requires changing needs to be monitored.
+For each customer profile, the Group has developed
+dialogue-based activities — studies, surveys, training, services —
+tailored to the needs of these stakeholders. Customer satisfaction
+istracked | an international survey that assesses Somfy’s score in
+terms of customers promoting the Somfy brand. This quality
+survey shows that the Net Promoter Score was 68, which is a good
+result and helps to identify areas for improvement.
+
+PERFORMANCE OF THE ETHICAL APPROACH
+AND THE ANTI-CORRUPTION POLICY
+
+COMMITMENT TO ETHICS AND COMBATTING CORRUPTION
+
+Through the Ambition 2030strategic framework and_ its
+sustainable development policy, Somfy is determined to
+strengthen its stakeholders’ confidence in its ability to conduct its
+business ethically. That is why the Group has made ethics a
+cross-company focus of this policy. Risks related to non-ethical
+behaviour and corruption within the company, and_ their
+repercussions in terms of image and reputation as well as the
+financial impacts, are taken all the more seriously by Somfy given
+that the Group is committed to being the preferred partner for
+window and door automation.
+
+Business ethics and employee integrity are essential to preserving
+Somfy’s image and reputation and protecting its staff. Employees
+must comply with the laws and regulations in force within the
+jurisdictions in which Somfy pursues its activities, as well as with
+Somfy’s values and policies in terms of ethical principles. To do
+this, Somfy promotes a strong ethical culture at every level of the
+organisation.
+
+The aim of this approach and policy is to strengthen the confidence
+of stakeholders in the way in which Somfy pursues its international
+development.
+
+37
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+ETHICAL ACTION PLAN
+
+Since 2015, Somfy has had a Code of Ethics which is a point of
+reference for employees in relation to individual and collective
+behaviour, and a framework for everyday actions, enabling them
+to embody the Group’s values. This Code is a common and unifying
+document, which guides every employee in their decision-making;
+it is also a tool to promote dialogue between employees so that
+ethics is an open matter understood by all. It is systematically
+provided to employee on joining the Group and is available on the
+website in 23 languages.
+
+Drivers of the Ethics function
+
+The Supervisory and Management Boards provide strong support
+to the Ethics Committee and oversee the ethics function.
+
+The Ethics Committee is a structure that enables a collegiate vision
+of ethics to be developed and rolled out and its application
+monitored. It is made up of four members appointed by the
+Management Board for a renewable term of office of three years,
+as well as an Ethics Manager appointed from within its ranks to
+lead both the system and the Committee.
+
+The Ethics Committee relies on a network of Ethics officers to
+oversee local communication and close coordination, ensuring the
+solution’s effectiveness. The majority of these local officers are
+members of the Human Resources community. As well as
+providing coordination and support at local level, they are often
+responsible for resolving difficulties locally. They help to provide
+the most appropriate solutions to the questions asked by
+employees on the ground.
+
+The Managers are responsible for the roll-out and application of
+the Code of Ethics within their scope, including in relation to new
+arrivals.
+
+Every employee must understand and apply the principles set out
+in the Group’s Code of Ethics. They also all have a duty to
+whistleblow if they become aware of any facts or practices that are
+unethical. Employees are also encouraged to report any concerns
+relating to ethical principles or behaviour to their manager, their
+local Ethics officer, or the Ethics Committee.
+
+The Ethics function also naturally has strong links with other
+support functions. As such, the Head of Ethics has regular
+interaction with the Legal, Internal Control and Risks, Internal
+Audit, Sustainable Development and Environment, Corporate
+Affairs, Finance, Safety, and Human Resources Departments, as
+well as with all the Group’s Operational Departments.
+
+Ethical reporting system
+
+In addition to reporting direct exchanges, a whistleblowing system
+allows anyone to report serious matters so that they can be taken
+into consideration and treated in accordance with the applicable
+legal and regulatory provisions. Included in the anti-corruption
+compliance programme rolled out within the Group, this
+whistleblowing mechanism also allows Somfy to meet the
+requirements of law n°2016-1691 of 9December 2016 on
+transparency, the fight against corruption and the modernisation
+of the economy, known as the “Sapin 2 law” (hereafter the “law”).
+The Group thus decided to introduce a unique mechanism to bring
+itself into line with the requirements of this law.
+
+This system complements the mechanism in force within the
+Group since 2015 and which facilitates the confidential and safe
+reporting of any behaviour in contravention of the Code of Ethics.
+A specific procedure has been formally set out in 23 languages to
+present this system and the conditions of its use. It is intended to
+apply to all the Group’s entities, subject to its adaptation to
+existing provisions under local legislation. A privacy policy relating
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+to the personal data processed as part of this mechanism is
+provided to the individuals concerned.
+
+The indicator used to monitor the performance of the ethics
+mechanism is the number of ethics alerts reported to the Ethics
+Committee, which was nine in 2019 (against 12 in 2018). However,
+this slightly lower figure shows that the alert escalation system is
+working well. Of the nine alerts received, eight were admissible, six
+of which are closed at 31 December 2019.
+
+Somfy is also a member of the Business Ethics Group, an
+organisation that has set itself the task of promoting ethics and
+compliance in the management and governance of French
+companies. The Group’s Ethics Committee thus remains connected
+with other professionals responsible for ethical issues within
+companies and organisations.
+
+ANTI-CORRUPTION PROGRAMME
+
+In addition to the Group’s Ethics Code and following the
+enactment of the law on transparency, the fight against corruption
+and the modernisation of the economy, Somfy has implemented
+an anti-corruption programme. In this way, the Group has formally
+set out mapping dedicated to the analysis of corruption related
+risks in each of its geographic regions, in accordance with its
+activities. The Group also decided to adopt the Middlenext
+Anti-Corruption Code of Conduct. This Code of Conduct is designed
+to guide business behaviour. Somfy supplemented it with several
+appendices in order to provide practical advice, examples and links
+to other procedures. In addition to these documents, e-learning
+materials are currently being rolled out and face-to-face training
+has also been introduced for those employees expected to be the
+most exposed. The warning system introduced in 2015 to escalate
+non-ethical behaviours (as mentioned above) was extended to
+meet the requirements of the French “Sapin 2” anticorruption
+legislation. Accounting controls were also implemented to detect
+potential fraudulent acts. Lastly, procedures are currently being
+rolled out to assess third parties with whom the Group already
+works, and prior to any new relationship. A screening tool has also
+been purchased in order to consult public databases reporting
+potentially sensitive information about its partners. Validation
+workflows are in the process of being configured and will allow the
+assessments made and resultant decisions taken to be traced.
+
+Several indicators are monitored, notably those relating to
+
+training:
+— in France, 1,251employees completed anti-corruption
+e-learning training in 2019 within Somfy Activités SA,
+
+representing 100% of the individuals concerned and employed
+on the date of the campaign;
+
+— in the Group’s other entities, 1,182 additional individuals
+completed this same module in their native language,
+representing 100% of the people concerned in deployed areas
+and employed in the workforce on the dates of the local
+campaigns;
+
+— 646 people judged to be more exposed to the corruption risk
+received face-to-face training, as well as 194 Directors, who are
+members of the various Management Committees.
+
+The roll-out of local training will continue in 2020.
+
+As of 31 December 2019, neither Somfy nor any of its subsidiaries
+
+had been found guilty of or were under investigation in relation to
+
+corruption.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+338
+
+RELATIONSHIPS WITH SUBCONTRACTORS AND SUPPLIERS
+
+Relationships with suppliers and subcontracting are important for
+the Group due to the nature of its industrial activity which is
+essentially assembly. The components of its products are all
+purchased. Somfy is dedicated to ensuring the entire value chain is
+involved in its commitment to corporate social responsibility. This
+policy is reflected in the new contractual framework with a view to
+deploying the Group’s CSR commitments in the upstream supply
+chain: employment, the environment, fair practices and combating
+corruption, conflict minerals and hazardous substances.
+
+To respect its commitments, Somfy has launched a supplier
+
+risk-management approach covering the following topics:
+
+geopolitical risks and corruption, combating modern slavery,
+environmental impacts of supplier processes and has mapped the
+risks at between 1-low risk to 4-high risk.
+
+Furthermore, in France, Somfy is a member of the organisation
+
+Thésame, where it jointly finances a programme called PEAK which
+
+develops collaborative and innovative approaches in relation to
+
+the procurement function within a sector. Somfy has jointly
+financed three dissertations on the subject.
+
+The indicators monitored by Somfy regarding relationships with
+
+subcontracting and suppliers are:
+
+— the volume of purchases made locally, meaning within 500km of
+the assembly site. In 2019, 45.9% of purchases met this
+criterion;
+
+— the number of suppliers covered by a supplier risk analysis. In
+2019, the top five were audited, and in 2020 the top 40 should
+be, and in 2021 the top 80.
+
+For every component developed by a supplier, the Group requests
+
+a written undertaking relating to the European Directives REACH
+
+and ROHS. 100% of the top 80 suppliers (69% in the previous
+
+report), representing 88% of purchasing amounts, comply with
+
+REACH/ROHS requirements (results from the 2019 campaign).
+
+In accordance with the regulations adopted by the US Securities
+
+and Exchange Commission in 2012, the Group implemented its
+
+duty of diligence in respect of its supply chain, in order to ensure
+that the supplies used in its products do not contain any “Conflict
+
+Minerals”. Of the nine suppliers affected by “conflict minerals”,
+
+100% are compliant.
+
+QUALITY CUSTOMS LABEL
+
+Somfy is also an Authorised Economic Operator. This quality
+
+customs label is internationally recognised (World Customs
+
+Organisation). AEO programmes around the world have become
+
+flagship Customs/Business Partnership programmes as they enable
+
+customs to share their security responsibilities with the private
+
+sector. This certification is subject to a very extensive audit not
+
+only in terms of customs, but also in relation to safety and security
+
+for compliance purposes. The terms and conditions related to this
+
+certification cover a range of issues such as:
+
+— compliance with regulations and notably in relation to previous
+convictions;
+
+— reliability of the company’s logistics and accounting system
+(including audit trail);
+
+— the company’s financial solvency;
+
+— traceability of logistics flows;
+
+— securing of business partners (customers, suppliers, service
+providers, etc.);
+
+— IT safety and security;
+
+— overall compliance.
+
+Being an AEO therefore means being an economic player
+
+recognised as reliable by the European and global customs
+
+authorities.
+FIGHT AGAINST TAX EVASION
+
+Somfy undertakes to observe the spirit and the letter of the law in
+all countries in which it does business. It wants a frank and
+transparent relationship with all tax authorities, seeks to clarify all
+uncertainties and resolve all disputes in due course. It considers
+that it pays its fair share of taxes in those countries in which it
+operates.
+Furthermore, the Group undertakes to pursue the following
+actions in its drive for tax transparency and to combat tax evasion:
+— participate in compulsory’ reporting such as_ the
+Country-by-Country Reporting for France;
+— monitor that intragroup transactions comply with arm’s length
+principles and OECD actions on base erosion and profit shifting
+(BEPS).
+
+METHODOLOGY NOTE
+
+The Non-Financial Performance Statement was drafted using the
+reporting protocol introduced for the 2019 CSR reporting in
+accordance with Article L. 225-102-1 of the Commercial Code.
+
+REPORTING PROTOCOL
+
+The Groups’ CSR reporting protocol is the reference guide for all
+those involved in CSR reporting within the Group. It is drawn up in
+French and English. Its purpose is to define all the Group’s CSR
+indicators along with their method of calculation, and to describe
+the procedures for their collection and for reporting in order to
+promote the consistency and comparability of data. This document
+is distributed to and applied at all levels of data reporting. The
+reporting protocol is updated annually to take into account Group
+developments.
+
+The CSR reporting protocol also serves as a reference framework
+for the external verification of data, in accordance with
+Article L. 225-102-1 of the Commercial Code. It is available on
+request from Head Office.
+
+SELECTION OF INDICATORS
+
+The Group’s indicators were defined by the CSR officers for each
+area in line with the Group’s CSR strategy, the non-financial risks
+identified and the resulting social, environmental, societal and
+ethical objectives. They address the main challenges (risks and
+opportunities) inherent in the Group’s activity and illustrate,
+through clear communication, the Group’s non-financial
+performance and the policies it has introduced to address these
+challenges, while at the same time supporting the CSR approach in
+each of the progress drivers identified by the Group.
+
+COLLECTION, INTERNAL CONTROL AND CONSOLIDATION
+
+The collection of CSR indicators is ensured by the CSR officers
+within their respective fields of expertise. They rely on their
+network of local experts who provide the data. The CSR officers are
+also responsible for monitoring the consistency and plausibility of
+the data prior to its consolidation in order to generate the Group
+indicators included in the CSR section of the management report.
+
+39
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+REPORTING PERIOD
+
+The data collected covers the period from 1 January to
+
+31 December 2019.
+
+Depending on the indicators, it can relate to:
+
+— an annual consolidation of the data from 1 January 2019 to
+31 December 2019;
+
+— the data measured at 31 December 2019.
+
+Where historical information is available, data is reported on the
+
+last two financial years.
+
+Unless otherwise specified, when 2019 and 2018 data are referred
+
+to, it is on a comparable scope basis.
+
+REPORTING SCOPE
+
+Pursuant to Article L.225-102-1 of the Commercial Code,
+companies which are controlled by the Group and_ fully
+consolidated within the financial reporting scope are included
+within the reporting scope. The concept of control means the
+power to govern the financial and operational policies of an
+affiliated company so as to benefit from its operations. Control is
+generally deemed to exist where the Group holds more than half
+of the controlled company’s voting rights.
+
+For reasons of organisation and access to information, not all
+Group companies have yet been included. The Group wants to use
+perimeters that are more relevant depending on the topics
+covered. As such, certain companies are excluded from the social
+scope due to the existence of very low workforces in certain
+organisations (distribution subsidiaries spread out over vast
+geographic areas such as South America), or the lack of Human
+Resources information systems designed for collecting data easily.
+However, the Group integrates all significant companies that it
+fully owns.
+
+Newly acquired companies are integrated into the reporting scope
+following a probationary period necessary for the introduction of
+reporting. Companies which were sold during the financial year are
+not included within the reporting scope.
+
+As a follow-up to changes in control and governance at the Chinese
+subsidiary Dooya, which has left the full consolidation scope and is
+now consolidated using the equity method, Dooya is no longer part
+of the CSR scope.
+
+Specifics of the scope for 2019 reporting
+
+The scope of analysis of the social data for the preparation of the
+2019 CSR report was stable. It related to 41 Group companies and
+a workforce at 31 December 2019 of 5,269 people, representing
+92.3% of the Group’s total workforce.
+
+These companies are spread across five continents, and
+30 countries (South Africa, Germany, Australia, Austria, Belgium,
+Brazil, China, South Korea, Egypt, Spain, United States, France,
+Greece, India, Israel, Italy, Japan, Morocco, Norway, Netherlands,
+Poland, Republic of Cyprus, Czech Republic, United Kingdom,
+Russia, Singapore, Sweden, Switzerland, Tunisia and Turkey).
+
+The social reporting scope includes the following entities:
+
+— Automatismes BFT France (France);
+
+— Automatismos Pujol SL (Spain);
+
+— BFT SpA (Italy);
+
+— Chusik Hoesa Somfy (South Korea);
+
+— N.V Somfy S.A (Belgium);
+
+— O&O SRL (Italy);
+
+— Overkiz (France);
+
+— Simu (France);
+
+— Simu GmbH (Germany);
+
+— Sisa Home Automation Ltd (Israel);
+
+— SITEM (Tunisia);
+
+— Somfy Activités SA (France);
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+Somfy Brasil LTDA (Brazil);
+
+Somfy China Co Ltd (China);
+
+Somfy Egypt (Egypt);
+
+Somfy Espaiia SA (Spain);
+
+Somfy EV Otomasyon Sistemleri Ticaret Ltd Sti (Turkey);
+Somfy GmbH (Germany);
+
+Somfy GmbH (Austria);
+
+Somfy Hellas SA (Greece);
+
+Somfy India Pvt Ltd (India);
+
+Somfy Italia SRL (Italy);
+
+Somfy Kabushiki Kaisha (Japan);
+
+Somfy Limited Liability Company (Russia);
+Somfy Ltd (UK);
+
+Somfy Maroc (Morocco);
+
+Somfy Middle East Co. Ltd (Republic of Cyprus);
+Somfy Nederland BV (Netherlands);
+
+Somfy Norway AS (Norway);
+
+Somfy PTE Ltd (Singapore);
+
+Somfy PTY. Ltd (Australia);
+
+Somfy SA (Switzerland);
+
+Somfy South Africa PTY Limited (South Africa);
+Somfy spol s.r.o. (Czech Republic);
+
+Somfy spolka z ograniczona odpowiedzialnoscia (Poland);
+Somfy Sweden Aktiebolag (Sweden);
+
+INFORMATION ON RISKS
+
+Somfy Systems Inc (USA);
+
+Somfy Tunisie (Tunisia);
+
+SOPEM spolka z ograniczona odpowiedzialnoscia (Poland);
+Window Automation Industry SRL (Italy);
+
+Zhejiang Lian Da Science and Technology Co., Ltd. (China).
+The environmental reporting scope taken into account for the
+2019 financial year includes to the following entities:
+
+BFT SpA (Italy);
+
+Simu (France);
+
+SITEM (Tunisia);
+
+Somfy Activités SA (France);
+
+SOPEM spolka z ograniczona odpowiedzialnoscia (Poland);
+Window Automation Industry SRL (Italy);
+
+Zhejiang Lian Da Science and Technology Co., Ltd. (China).
+
+METHODOLOGY LIMITATIONS
+
+The methodologies used for the reporting of certain CSR indicators
+may present limitations due to:
+
+particularities of local legislation in the various countries in
+which the Group is located;
+
+lack of availability of information on certain scopes;
+
+use of estimates in the absence of assessment tools;
+practicalities of collecting and processing data.
+
+(ARTICLE L. 225-100-1 OF THE COMMERCIAL CODE)
+
+Epidemiological risks (example: Covid-19) and their consequences
+are not developed in this section but are not such as to change the
+
+Group's risk information as described in the following
+paragraphs”.
+FINANCIAL RISKS
+
+The main financial risks to which the Group is exposed are foreign
+exchange, interest rate, liquidity, credit and raw material risks.
+According to IFRS, all derivative financial instruments are
+measured at their fair value. Fair value is either the market value
+for listed instruments, or a value provided by financial institutions
+in accordance with traditional criteria (over-the-counter market).
+The amounts covered exclusively relate to current or future
+transactions within the framework of the Group’s normal business
+activities.
+
+As part of the transposition of the MIF Directive that came into
+force on 1 November 2007, Somfy SA and its French subsidiaries
+opted for the “non-professional customers” category.
+
+FOREIGN EXCHANGE RISK
+
+Somfy’s exposure to foreign exchange risk is primarily related to its
+operational activities (intragroup sales of manufactured products
+distributed by commercial subsidiaries outside the Euro zone,
+these sales being denominated in local currencies and purchases
+denominated in local currencies).
+
+At comparable terms and conditions, the Group gives priority to
+natural hedges (foreign currency purchases related to sales in the
+
+~ “  |v(yu j}v fv Z] i
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+40
+
+same currency). The derivative financial instruments put into place
+are forward foreign exchange contracts for the main currencies.
+The management of foreign exchange risk is covered in note 7.3 to
+the consolidated financial statements.
+
+INTEREST RATE RISK
+
+The Group is exposed to interest rate risks. Management of the
+interest rate relative to Group debt is based on consolidated
+position and market conditions. The primary objective of the rate
+risk management policy is to control Group financing costs.
+
+The management of the interest rate risk is covered in note 7.3 to
+the consolidated financial statements.
+
+LIQUIDITY RISK
+
+The Group must have permanent access to the necessary financial
+
+resources to allow it to finance its day-to-day activities and its
+
+investments. The Group’s liquidity risk primarily arises from the
+
+obligation to repay its existing debt, the funding of its future
+
+requirements and observance of its financial ratios.
+
+The granting of credit facilities is subject to Somfy SA’s
+
+commitments to its banking partners to comply with two types of
+
+financial covenants based on:
+
+— the Group’s financial structure (net financial debt/shareholder’s
+equity); and
+
+— its ability to repay (net financial debt/EBITDA).
+
+The management of liquidity risk is covered in note 7.3 to the
+
+consolidated financial statements.
+
+Credit facilities and compliance with covenants are detailed in note
+
+7.2.2.6 to the consolidated financial statements.
+CREDIT RISK
+
+The Group’s exposure to credit risk is related to its cash surplus
+deposited with banks.
+
+The management of credit risk is covered in note 7.3 to the
+consolidated financial statements.
+
+RAW MATERIAL RISK
+
+The Group is exposed to fluctuations in the price of the raw
+materials used in the manufacture of its products (copper and zinc
+in particular).
+
+To maintain its profitability, the Group must be able to cover for or
+offset this risk or pass it on to its customers. It has, however,
+introduced procedures designed to limit its exposure to risks
+associated with changes in the prices of raw materials.
+
+The management of raw material risk is covered in note 7.3 to the
+consolidated financial statements.
+
+EQUITY RISK
+
+The Group is exposed to equity risk on treasury shares. Given the
+share price, it was not necessary to record a provision for
+writedown at 31 December 2019.
+
+LEGAL RISKS
+
+The Group’s operations are not subject to specific regulations. Its
+activities do not require specific legal or regulatory authorisation.
+The Group is involved in a number of disputes in respect of its
+business. These should not have any significant negative impact on
+the Group’s financial position.
+
+To the Group’s knowledge, there were no exceptional events or
+litigation likely to have a significant negative impact on the Group’s
+or its subsidiaries’ operations, assets or results, other than those
+mentioned in the highlights.
+
+INSURANCE — RISK COVERAGE
+
+The Group covers the main risks with the following insurance
+
+policies:
+
+— “Property damage”, covering buildings and their contents in all
+
+locations (equipment, goods, IT equipment) as well as resulting
+monetary and operational losses.
+The events insured are, as a minimum, fire, explosions, lightning,
+smoke, emissions, steam, impacts from airborne objects, vehicle
+collisions, electrical risks, storms, hurricanes, cyclones, snow,
+hail, water damage, frost, machine breakage, computer risks,
+malicious acts, acts of vandalism, popular movements and IT
+equipment theft, natural disasters, except where local
+circumstances make this impossible;
+
+— “General civil liability relating to monetary consequences of an
+insured entity’s liability following physical injury, property
+damage or moral prejudice caused to a third party during or in
+relation to its operations”;
+
+— “Corporate officers’ civil liability”;
+
+— “Transported goods”.
+
+In addition, credit insurance contracts, both in France and
+
+internationally, mitigate the consequences of customer default.
+
+Approximately 85% of sales are covered by such contracts.
+
+41
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+COUNTRY RISK
+
+The country risk is analysed from two perspectives. The first
+relates to the distribution activities most of which takes place in
+safe regions such as Europe and the United States, as opposed to
+regions that are the most exposed to economic, geopolitical and
+monetary uncertainties like China, Latin America and the Middle
+East which represent less than 10% of the Group’s sales. The
+second perspective relates to the production and procurement
+activities which are more exposed than the distribution activities,
+since Somfy has production sites in Tunisia and China, and a large
+proportion of its suppliers of components have close connections
+with Asia, and more specifically China. In relation to this second
+perspective, given the level of risk, business continuity plans have
+been developed in order to reduce and control this risk.
+
+The Group was not adversely affected by Brexit in 2019 and does
+not expect to be in 2020.
+
+FINANCIAL RISKS ATTRIBUTABLE TO THE EFFECTS OF
+CLIMATE CHANGE AND A LOW-CARBON STRATEGY
+
+Somfy’s activity is partly focused on exterior (motorisation of
+shutters and patio awnings) and interior (motorisation of curtains
+and blinds) sun protection. Weather conditions have an impact on
+both the volume of products sold and on their installation, in
+particular over the first half-year, during which sales of
+motorisations for awnings are concentrated.
+
+As part of its industrial activities, the Group is exposed to a certain
+number of risks attributable to climate conditions (storms,
+earthquakes, floods, etc.) and therefore, more generally, to
+climate change. The Group has introduced a risk assessment for
+this and has the insurance it needs to protect it from any financial
+consequences.
+
+The fight against climate change has been taken into account in
+the design of its products through its Act for Green’ programme.
+The Group is also working on optimising the use of raw materials,
+energy efficiency and recyclability to reduce the carbon footprint
+of its products. In relation to risk assessments linked to climate
+change and actions introduced by the Group to mitigate them as
+part of its environmental approach, see section “Non-Financial
+Performance Statement”, paragraph “Environmental Policy
+Performance” of this report.
+
+CUSTOMER CREDIT RISK
+
+Customer credit risk is linked to the receivables portfolio and the
+sometimes challenging economic environment in certain parts of
+the world. Nevertheless, customer profile, the Group’s
+international geographic presence and the credit insurance cover
+help to mitigate this risk.
+
+The management of credit risk is covered in note 4.5 to the
+consolidated financial statements.
+
+NON-FINANCIAL RISKS
+
+Non-financial risks are covered in the Non-financial Performance
+Statement (page 25).
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+DESCRIPTION OF INTERNAL CONTROL AND MANAGEMENT OF RISKS
+PROCEDURES RELATIVE TO THE PREPARATION AND PROCESSING
+OF FINANCIAL AND ACCOUNTING INFORMATION
+
+(ARTICLE L. 225-100-1 OF THE COMMERCIAL CODE)
+
+STRATEGIC, BUDGETARY AND REPORTING
+PROCESSES
+
+The preparation of the budget is part of an annual strategic
+process involving all the Activities, Business Areas and Business
+Units, as well as all the Divisions, which define their own key
+objectives, in line with the strategic guidelines set by General
+Management.
+The overall budget is prepared as part of an iterative process
+involving all Group players. It is the result of the consolidation of
+local budgets.
+After approval by the General Management of the Group, every
+manager becomes responsible for meeting his/her own budget.
+The measurement of the achievement of objectives set out in the
+budgets is carried out through a system of matrix reporting on a
+monthly and quarterly basis, which enables results to be produced
+on several axes (Business Area, Business Unit and Activity). It
+comprises the standard financial data: operating accounts and
+balance sheet indicators, and non-financial performance
+indicators.
+Reporting is complemented by strategic reports and quarterly
+updates of forecast sales and profit for the current year. These
+measurements enable a follow-up of the achievement of
+objectives and provide corrective actions on a matrix basis and at
+all levels of responsibility (consolidation, Business Areas, Business
+Units, Activities, Legal Companies, Departments and Services).
+In addition, three three-year plans, in line with Group strategy and
+revised annually, are overseen by Management. They include:
+— a PSMP (Products and Solutions Master Plan) which relates to
+the development of the range of products and solutions;
+— an industrial and logistics master plan for production facilities;
+— amaster plan for information systems.
+
+PREPARATION OF FINANCIAL STATEMENTS
+
+The Group has defined a unique and common framework for the
+recording of accounting and financial information.
+
+It resulted in the definition and implementation within all
+subsidiaries of a Group chart of accounts, as well as the definition
+and implementation of the main management procedures
+(inventories, non-current assets, trade receivables, etc.), which are
+formalised in the Group Procedure Manual relayed through and
+updated on the Group’s intranet.
+
+The proper application of the chart of accounts, procedures and
+reporting reliability is monitored by visits to subsidiaries, planned
+within the context of year-end and half-year closing. It is also
+verified during the budget preparation and monthly reporting
+processes.
+
+The Group team responsible for the development and control of
+financial statements comprises:
+
+— the consolidation team;
+
+— the central financial control team.
+
+This team relies on financial controllers, based in each Business
+Area, reporting to the Group in its ten geographical areas.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+42
+
+In addition, each of the Activities benefits from at least one
+dedicated financial controller.
+
+The Group endeavours to lead this network J] international
+meetings and on-going training of accountants and _ financial
+controllers.
+
+Particular care is taken with risk analysis, through a review of asset
+provisions and provisions for liabilities and charges, as well as
+off-balance sheet commitments.
+
+At each year-end, inventories are verified either through a
+complete physical stock-take or by a rolling physical stocktaking
+procedure.
+
+Trade receivables are the subject of credit risk analyses with
+respect to the measurement of provisions. In addition, the
+company hedges the majority of its risk by entering into customer
+credit insurance contracts, both in France and abroad.
+
+Intragroup purchases, sales and balance sheet items are confirmed
+monthly.
+
+Inventory amounts originating from the Group are determined in
+all entities in order to eliminate internal profit margins on
+inventories.
+
+A pre-closing meeting is organised each half-year with the Legal
+Department to identify all liabilities and possible or stated
+litigation and to calculate, with reference to the progress of cases,
+corresponding provisions for liabilities and charges.
+
+The review of various contracts, deposits, sureties and guarantees
+also serves to identify off-balance sheet commitments.
+
+The consolidation packages, including: balance sheet, income
+statement, cash flow tables and related data, are then sent to the
+Consolidation Department according to a predefined planning
+schedule.
+
+FINANCIAL STATEMENTS CONTROL
+
+The Consolidation Department, after verifying the completeness of
+financial information, the proper application of closing procedures
+and restatements, performing the intragroup account
+reconciliations and verifying the net equity justification, performs
+financial statement consolidation using dedicated software.
+
+The consolidated financial statements are prepared in accordance
+with IFRS. In addition, accounting options selected are presented
+to and approved by the Audit Committee.
+
+FINANCIAL COMMUNICATION
+
+Following their approval by the Supervisory Board, the half-year
+and full-year financial statements are presented to the financial
+community under the auspices of the SFAF (French financial
+analyst society) and published in a report posted on the financial
+issuer’s website (www.somfyfinance.com) as well as | a primary
+information provider (www.lesechos-comfi.fr).
+
+The other regulated information referred to in Article 221-1 of the
+AMF’s general regulations is also available on both these sites.
+Relevant information relating to the company’s business activities
+is presented to the Audit Committee.
+IT SYSTEMS
+
+The BaaN integrated management package is installed in most
+distribution subsidiaries, excluding Asia, where ERP Accpac has
+been rolled out in the majority of cases.
+
+For the companies that have an ERP (BaaN or Accpac) installed,
+standard parameters are included (comprising a chart of accounts,
+analytical follow-up and procedures).
+
+The new ERP chosen by the Group will be gradually rolled out
+starting from 2020.
+
+Completion of the budget, monthly reporting, margin analysis by
+product family and legal consolidation are all carried out on the
+same platform (Hyperion), which improves uniformity and
+facilitates the analysis of information.
+
+TREASURY COMMITTEE/GROUP CASH
+MANAGEMENT
+
+The Group Treasury Department reports to the member of the
+
+Management Board and Chief Financial Officer.
+
+The Group Treasury Department is responsible for carrying out
+
+transactions in cash management, financing and managing risks of
+
+a financial or banking nature, and providing technical support to
+
+subsidiaries’ cross-company functions, in connection with the
+
+Group’s operations.
+
+It has a duty to warn the member of the Management Board and
+
+Chief Financial Officer, the Treasury Committee or the
+
+Management Board of developments in the relevant markets and
+
+the fair assessment of risks.
+
+A Treasury Committee meeting is held each month, chaired by the
+
+Group’s Treasurer, to review:
+
+— deposits;
+
+— funding;
+
+— the Group’s net debt;
+
+— off-balance sheet banking commitments;
+
+— foreign exchange positions;
+
+— amacroeconomic review of the market;
+
+— the Group’s cash and debt positions (current and forecast);
+
+— miscellaneous items: ongoing acquisitions, follow up of late
+payments, guaranties/securities, Group loans;
+
+— miscellaneous projects (netting, optimisation of cash
+management systems, securing the management of banking
+powers...);
+
+— the Group’s net financial income/(expense) (twice annually).
+
+This Committee comprises the following members:
+
+— the member of the Management Board and Chief Financial
+Officer;
+
+— the Group Treasurer;
+
+— the Group Head of Consolidation.
+
+Members of the Management Board are ~r }(( ]mémbers and
+
+have a standing invitation to Committee meetings.
+
+The role of the Treasury Committee is twofold:
+
+— strategic: to define the overall policy in terms of Group Cash
+Management, financing, and interest rate, exchange rate and
+investment risk management. They also include the follow-up of
+Group subsidiaries’ equity balance sheet items;
+
+— operational: to guarantee the regular monitoring of Group Cash
+Management’s actions. These are detailed in a monthly trend
+chart.
+
+The rules and procedures relating to the Group’s Cash
+
+Management have been formalised in the Cash Management
+
+Charter, which covers the following:
+
+— ethics;
+
+43
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+— liquidity/exchange rate/interest rate risk;
+
+— deposit of excess cash;
+
+— counterparty risk;
+
+— governance.
+
+This Charter was subject to a quality review in 2019.
+
+In addition, a Group Treasury Charter has been in place since
+1 November 2013. It defines best practices and list in a single
+document the guidelines that ensure the secure, economical and
+efficient management of financing and deposit operations, and
+more generally of cash management and bank relations within the
+Group.
+
+This Group Treasury Charter is applicable to all subsidiaries
+controlled directly or indirectly by Somfy SA and specifies their
+roles and responsibilities regarding the management of their
+financing, deposits, banking flows and more broadly speaking their
+cash management transactions.
+
+INTERNAL CONTROL MONITORING
+
+The Internal Control Department reports to the member of the
+Management Board and Chief Financial Officer. The Department is
+made up of the Head of Internal Control, a long-term trainee and
+representatives responsible for leading internal control at local
+level.
+
+The internal control function coordinates management actions,
+
+ensuring the following:
+
+— compliance with laws and regulations;
+
+— the application of the instructions and guidelines set by the
+Management Board;
+
+— the smooth running of the Group’s processes and operations,
+notably those that help safeguard its assets and prevent fraud;
+
+— the reliability of reporting (both financial and non-financial).
+
+Members of the Internal Control Committee meet once every two
+
+months to discuss the latest audit reports issued and other
+
+matters, such as year-end visits or training programmes to be
+provided to financial controllers, or ongoing projects.
+
+In order to fulfil its coordinating and monitoring role, the
+
+Department implemented a dedicated GRC tool (Governance, Risks
+
+& Compliance), specifically:
+
+— to initiate a self-assessment campaign for subsidiaries each year,
+including a framework of key controls;
+
+— to monitor all the tasks of Internal Audit, as well as the related
+recommendations and the corresponding action plans;
+
+— to assess the Group’s risks, at several levels (BU, BA/BG,
+BMA/Activities), to consolidate the results at Group level and to
+link them with action plans.
+
+The use of all these resources is closely monitored by the Audit
+
+Committee, which is regularly informed of the progress achieved
+
+and the results obtained.
+
+A quarterly reporting process has also been established for the
+
+benefit of the Group Executive Committee and the managers of all
+
+subsidiaries in relation to the progress of action plans and the
+resolution of weaknesses that have been identified.
+
+Certain improvements are directly addressed by entities at a local
+
+level, while others are looked into centrally by the Internal Control
+
+Department and/or in collaboration with other cross-Group
+
+functions.
+
+Lastly, the Internal Control Department is also responsible for the
+
+centralised monitoring of risks and the update of risk mapping, in
+
+collaboration with the Internal Audit Department specifically in
+relation to the methodology.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+APPROVAL OF THE PARENT COMPANY AND CONSOLIDATED FINANCIAL
+STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2019
+(RESOLUTIONS 1 AND 2)
+
+We would ask you to approve the parent company financial statements for the year ended 31 December 2019, which show a net profit of
+€114,988,135.63, and the consolidated financial statements for the year ended 31 December 2019, which show a net profit (Group share)
+of €163,227,000.00, as submitted.
+
+INFORMATION ON NON-DEDUCTIBLE CHARGES
+(ARTICLES 39-4 AND 223 IV OF THE GENERAL TAX CODE)
+
+The financial statements for the financial year ended 31 December 2019 do not include any non-allowable charges with regard to the
+income tax base, as defined by Articles 39—4 and 223 IV of the General Tax Code.
+
+ALLOCATION OF NET PROFIT
+
+The Management Board proposes to allocate the net profit of €114,988,135.63 for the year ended 31 December 2019, increased by
+retained earnings of €3,705,891, to a total of €118,694,026.63, as follows:
+
+gross dividend at the flat rate of 12.8% (Article 200 A of the
+General Tax Code), or at the express, irrevocable and
+
+— allocation to shareholders
+of a gross dividend of €1.55" per share,
+
+being €1.55") x 37,000,000 shares €57,350,000.00" comprehensive wishes of the taxpayer, to income tax calculated
+— — according to a sliding scale after notably an allowance of 40%
+— transfer to optional reserve € 61,344,026.63" (Articles 200 A, 13, and 158 of the General Tax Code). The dividend
+
+is also subject to social security contributions at the rate of 17.2%.
+Shares held by the company on the ex-dividend date are not
+. , . ; entitled to dividends, with the corresponding amount of unpaid
+A gross dividend of €1.55" will be distributed for each share with a dividends being transferred to retained earnings.
+
+par value of €0.20. ; ; The dividend will be payable on 5 June 2020 and the ex-dividend
+When it is paid to individuals who are tax residents in France, the date will be 3 June 2020.
+
+dividend is subject to a single fixed-levy deduction at source on the
+
+€ 118,694,026.63
+
+In accordance with legal provisions, it should be noted that the following dividends were paid during the last three financial years:
+
+. . Revenues eligible for tax rebate Revenue not eligible
+Financial for tax rebate
+year Dividends | Other distributed earnings
+2016 €41,909,092.30* being €6.10 per share | - -
+2017 €44,645,450.20* being €1.30** per share | - -
+2018 €48,094,109.00* being €1.40 per share | - -
+
+} ov} Jv ov J Jv ] o } vo oy ( } lv v]lvP X
+dZ Z °° 1a) jv D- XA]lv Z U Zz ] o Ju J U oU Z
+COMBINED GENERAL MEETING OF 13 MAY 2020”
+ORDINARY SESSION 7. Appointment of Bertrand PARMENTIER as member of the
+
+_ Supervisory Board.
+
+1. Approval of the parent company financial statements for the 8. Fixed annual sum to be allocated to members of the
+
+year ended 31 December 2019. Supervisory Board. . ; ;
+
+2. Approval of the consolidated financial statements for the year 9. Approval of the remuneration policy for the Chairman of the
+ended 31 December 2019. Management Board and the member(s) of the Management
+
+3. Allocation of net profit for the financial year and setting of Board. . .
+dividend. 10. Approval of the remuneration policy for members of the
+Supervisory Board.
+
+11. Approval of the information referred to in paragraph! of
+Article L. 225-37-3 of the Commercial Code.
+
+12. Approval of the fixed, variable and exceptional items
+comprising the total remuneration and benefits of any kind
+paid during or allocated in respect of the financial year just
+ended to Jean Guillaume DESPATURE, Chairman of the
+Management Board.
+
+4. Special report of the Statutory Auditors on regulated
+agreements - Noting the absence of new agreements.
+
+5. Renewal of the term of office of Victor DESPATURE as member
+of the Supervisory Board.
+
+6. Renewal of the term of office of Marie BAVAREL-DESPATURE
+as member of the Supervisory Board.
+
+~ * Jv(}u jv fv Z] i lv Z te) }( Jo lv Z Zov Vv |v D Z xX
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019, 44
+13. Approval of the fixed, variable and exceptional items
+comprising the total remuneration and benefits of any kind
+paid during or allocated in respect of the financial year just
+ended to Pierre RIBEIRO, member of the Management Board
+and Chief Financial Officer.
+
+Approval of the fixed, variable and exceptional items
+comprising the total remuneration and benefits of any kind
+paid during or allocated in respect of the financial year just
+ended to Michel ROLLIER, Chairman of the Supervisory Board.
+Authorisation to be granted to the Management Board for the
+buyback by the company of its own shares pursuant to
+Article L. 225-209 of the Commercial Code, duration of the
+authorisation, objectives, terms and conditions, cap.
+
+EXTRAORDINARY SESSION
+
+14.
+
+15.
+
+16. Authorisation to be granted to the Management Board to
+cancel shares bought back by the company within the
+framework set out by Article L. 225-209 of the Commercial
+Code, duration of the authorisation, cap.
+
+Amendment to the bylaws setting out the terms and
+conditions of appointment of the members of the Board
+representing the employees, on the basis of Article L. 225-79-2
+of the Commercial Code.
+
+18. Applicable textual references in the event of a coding change.
+19. Powers to complete formalities.
+
+RENEWAL OF THE TERM OF OFFICE OF VICTOR
+DESPATURE AS MEMBER OF THE SUPERVISORY
+BOARD (resolution 5)
+
+We hereby remind you that Victor DESPATURE’s term of office as a
+member of the Supervisory Board expires at the end of the next
+Annual General Meeting.
+
+It will be proposed to renew the term of office of Victor
+DESPATURE as member of the Supervisory Board for a period of
+one year, which will expire at the end of the General Meeting
+called in 2021 to approve the financial statements for the year
+then ended, in accordance with Article 18 of the bylaws.
+
+RENEWAL OF THE TERM OF OFFICE OF MARIE
+BAVAREL-DESPATURE AS MEMBER OF THE
+SUPERVISORY BOARD (resolution 6)
+
+17.
+
+We hereby remind you that Marie BAVAREL-DESPATURE’s term of
+office as a member of the Supervisory Board expires at the end of
+the next Annual General Meeting.
+
+It will be proposed to renew the term of office of Marie
+BAVAREL-DESPATURE as member of the Supervisory Board for a
+period of four years, which will expire at the end of the General
+Meeting called in 2024 to approve the financial statements for the
+year then ended.
+
+APPOINTMENT OF BERTRAND PARMENTIER
+
+AS MEMBER OF THE SUPERVISORY BOARD
+(resolution 7)
+
+It will be proposed to appoint Bertrand PARMENTIER as member of
+the Supervisory Board for a period of four years, which will expire
+at the end of the General Meeting called in 2024 to approve the
+financial statements for the year then ended.
+
+45
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+INDEPENDENCE AND GENDER EQUALITY
+
+It is specified that the Supervisory Board considers that:
+
+— Victor DESPATURE and Marie BAVAREL-DESPATURE cannot be
+deemed to be independent members in light of the Middlenext
+Code, used by the company as a framework of reference in
+relation to corporate governance;
+
+— Bertrand PARMENTIER can be deemed to be independent in light
+of said criteria. In this regard, it is specifically noted that the
+individual in question has no business relationship with the Group.
+
+Subject to the approval of these re-appointments and
+
+appointment, the Board would comprise four women and four
+
+men, in accordance with parity rules, and five independent
+members, in accordance with Middlenext recommendations.
+
+EXPERTISE, EXPERIENCE AND SKILLS
+
+The information concerning the expertise and experience of Victor
+DESPATURE and Marie BAVAREL-DESPATURE are detailed in the
+paragraph “Expertise and experience of the members of the
+Supervisory Board” of the report on corporate governance which is
+included in the 2019 Annual Financial Report.
+
+Information concerning the expertise and experience of Bertrand
+PARMENTIER is detailed in the notice of meeting.
+
+FIXED ANNUAL SUM TO BE ALLOCATED
+
+TO MEMBERS OF THE SUPERVISORY BOARD
+(resolution 8)
+
+You will be asked to approve an increase in the annual fixed
+amount allocated to the Supervisory Board from €200,000 to
+€350,000, for the current financial year and until further notice.
+
+APPROVAL OF THE REMUNERATION POLICY FOR
+
+THE CHAIRMAN OF THE MANAGEMENT BOARD AND
+THE MEMBER(S) OF THE MANAGEMENT BOARD
+(resolution 9)
+
+It will be proposed that you approve the remuneration policy of
+the Chairman and member(s) of the Management Board as
+presented in the report on corporate governance included in the
+2019 Annual Financial Report (paragraph “Corporate officers’
+remuneration policy”).
+
+APPROVAL OF THE REMUNERATION POLICY FOR
+MEMBERS OF THE SUPERVISORY BOARD
+
+(resolution 10)
+
+It will be proposed that you approve the remuneration policy of
+the members of the Supervisory Board as presented in the report
+on corporate governance included in the 2019 Annual Financial
+Report (paragraph “Corporate officers’ remuneration policy”).
+
+APPROVAL OF THE INFORMATION REFERRED
+
+TO IN PARAGRAPH | OF ARTICLE L. 225-37-3
+
+OF THE COMMERCIAL CODE (resolution 11)
+
+You will be asked to approve the information included in paragraph |
+of Article L. 225-37-3 of the Commercial Code, presented in the
+paragraph “Information referred to in paragraph! of
+Article L. 225-37-3 of the Commercial Code” of the report on
+corporate governance included in the 2019 Annual Financial Report.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+APPROVAL OF THE FIXED, VARIABLE AND
+EXCEPTIONAL ITEMS COMPRISING THE TOTAL
+REMUNERATION AND BENEFITS OF ANY KIND PAID
+DURING OR ALLOCATED IN RESPECT OF THE
+FINANCIAL YEAR JUST ENDED TO JEAN GUILLAUME
+DESPATURE, CHAIRMAN OF THE MANAGEMENT
+BOARD (resolution 12)
+
+It will be proposed that you approve the fixed, variable and
+exceptional items comprising the total remuneration and benefits
+of any kind paid during or allocated in respect of the financial year
+just ended to Jean Guillaume DESPATURE, Chairman of the
+Management Board, as presented in the report on corporate
+governance included in the 2019 Annual Financial Report,
+paragraph “Fixed, variable and exceptional items comprising total
+remuneration and benefits of any kind paid or allocated during the
+financial year just ended to the Chairman of the Management
+Board, members of the Management Board and the Chairman of
+the Supervisory Board”.
+
+APPROVAL OF THE FIXED, VARIABLE AND
+EXCEPTIONAL ITEMS COMPRISING THE TOTAL
+REMUNERATION AND BENEFITS OF ANY KIND PAID
+DURING OR ALLOCATED IN RESPECT OF THE
+FINANCIAL YEAR JUST ENDED TO PIERRE RIBEIRO,
+MEMBER OF THE MANAGEMENT BOARD AND CHIEF
+FINANCIAL OFFICER (resolution 13)
+
+It will be proposed that you approve the fixed, variable and
+exceptional items comprising the total remuneration and benefits
+of any kind paid during or allocated in respect of the financial year
+just ended to Pierre RIBEIRO, member of the Management Board
+and Chief Financial Officer, as presented in the report on corporate
+governance included in the 2019 Annual Financial Report,
+paragraph “Fixed, variable and exceptional items comprising total
+remuneration and benefits of any kind paid or allocated during the
+financial year just ended to the Chairman of the Management
+Board, members of the Management Board and the Chairman of
+the Supervisory Board”.
+
+APPROVAL OF THE FIXED, VARIABLE AND
+EXCEPTIONAL ITEMS COMPRISING THE TOTAL
+REMUNERATION AND BENEFITS OF ANY KIND
+
+PAID DURING OR ALLOCATED IN RESPECT OF THE
+FINANCIAL YEAR JUST ENDED TO MICHEL ROLLIER,
+CHAIRMAN OF THE SUPERVISORY BOARD
+
+(resolution 14)
+
+It will be proposed that you approve the fixed, variable and
+exceptional items comprising the total remuneration and benefits
+of any kind paid during or allocated in respect of the financial year
+just ended to Michel ROLLIER, Chairman of the Supervisory Board,
+as presented in the report on corporate governance included in
+the 2019 Annual Financial Report, paragraph “Fixed, variable and
+exceptional items comprising total remuneration and benefits of
+any kind paid or allocated during the financial year just ended to
+the Chairman of the Management Board, members of the
+Management Board and the Chairman of the Supervisory Board”.
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019,
+
+46
+
+AUTHORISATION TO BE GRANTED TO THE
+MANAGEMENT BOARD FOR THE BUYBACK
+
+BY THE COMPANY OF ITS OWN SHARES PURSUANT
+TO ARTICLE L. 225-209 OF THE COMMERCIAL CODE,
+DURATION OF THE AUTHORISATION, OBJECTIVES,
+TERMS AND CONDITIONS, CAP (resolution 15)
+
+A share buyback plan for a period of 18 months will be submitted
+for your approval. This plan would replace the current programme,
+which would be terminated early. It would allow management to
+purchase up to 10% of the shares of the company, if necessary
+restated for any potential capital increase or decrease transactions
+that may be carried out over the timeframe of the programme.
+
+This authorisation would supersede the authorisation granted to
+
+the Management Board by the 11™ resolution to the General
+
+Meeting of 22 May 2019, sitting in ordinary session.
+
+The objectives of this programme would be:
+
+— to stimulate the secondary market or ensure the liquidity of the
+Somfy share, by way of an investment services provider within a
+liquidity contract that complies with practices recognised by
+regulations, it being specified that within this framework the
+number of shares considered for the calculation of the limit
+specified above corresponds to the number of shares purchased
+less the number of shares resold;
+
+— to retain the shares purchased and subsequently exchange them
+or use them as payment within the framework of potential
+acquisitions;
+
+— to ensure the coverage of stock option plans and/or free share
+allocation plans (or similar) granted to employees and/or
+corporate officers of the Group, as well as all other shares
+allocated under a company or group savings scheme (or similar),
+in relation to employee profit-sharing and/or any other form of
+allocation to employees and/or corporate officers of the Group;
+
+— to cover marketable securities giving right to the allocation of
+company shares, in accordance with applicable regulations;
+
+— to proceed with the possible cancellation of shares acquired, in
+accordance with the authorisation granted or to be granted by
+the Extraordinary General Meeting.
+
+Such share purchases could be effected by all means, including by
+
+means of acquiring blocks of shares and at any times considered
+
+appropriate by the Management Board.
+
+The company would reserve the right to use options or derivative
+
+instruments, in accordance with applicable regulations.
+
+We propose to set the maximum purchase price at €170 per share.
+
+The maximum value of the transaction, taking account of the
+
+2,616,647 treasury shares held at 31 December 2019, is therefore
+
+set at €184,170,010.
+AUTHORISATION TO BE GRANTED TO THE
+MANAGEMENT BOARD TO CANCEL SHARES BOUGHT
+BACK BY THE COMPANY WITHIN THE FRAMEWORK
+SET OUT BY ARTICLE L. 225-209 OF THE
+COMMERCIAL CODE (resolution 16)
+
+It will be proposed that you approve the authorisation to be given
+to the Management Board:
+
+1) to cancel the shares bought back by the company under the
+mechanism of Article L. 225-209 of the Commercial Code, at its
+own discretion, on one or more occasions, within a limit of
+10% of capital, calculated on the day on which the cancellation
+decision is made, reduced by the number of shares cancelled
+during the previous 24 months, the shares which the company
+holds or could hold following share buybacks exercised within
+the framework of Article L. 225-209 of the Commercial Code as
+well as to reduce share capital by the corresponding amount
+pursuant to the legal and regulatory provisions in force;
+
+to set the term of this authorisation at 24 months starting from
+the General Meeting of 13 May 2020",
+
+to grant the Management Board all powers required to carry
+out all necessary transactions for such cancellations and
+ancillary reductions of share capital, to modify the company’s
+bylaws as a result and fulfil all of the required formalities.
+
+AMENDMENT TO THE BYLAWS SETTING OUT
+
+THE TERMS AND CONDITIONS OF APPOINTMENT
+OF THE MEMBERS OF THE BOARD REPRESENTING
+THE EMPLOYEES, ON THE BASIS OF
+
+ARTICLE L. 225-79-2 OF THE COMMERCIAL CODE
+(resolution 17)
+
+2)
+
+3)
+
+It will be proposed that you amend the bylaws to set out the terms
+
+and conditions of appointment of the members of the Board
+
+representing the employees, on the basis of Article L. 225-79-2 of
+
+the Commercial Code, and consequently:
+
+— to add an A. before the first paragraph of Article 18
+bylaws;
+
+— to add at the end of Article 18 | of the bylaws, the following
+paragraphs, with the rest of the Article remaining unchanged:
+“B. If the company meets the conditions for the application of
+Article L. 225-79-2 of the Commercial Code and cannot invoke the
+exceptions set out by this same text, the Supervisory Board will
+
+include a member representing the Group’s employees.
+
+If the Supervisory Board includes one or two members appointed
+under Article L. 225-79 of the Commercial Code and paragraph A of
+this Article, this obligation is not binding upon the company once
+the number of such members is at least equal to the number set
+out below.
+
+] of the
+
+~ “ |v} ou dfy
+
+}v
+
+47
+
+04 MANAGEMENT BOARD MANAGEMENT REPORT
+
+The number of Board members to be taken into account in
+determining the number of members representing employees is
+assessed on the appointment date of the employee
+representatives to the Board. Neither the members elected by the
+employees pursuant to Article L. 225-79 of the Commercial Code,
+nor the members representing employee shareholders appointed
+pursuant to Article L. 225-71 of the Commercial Code are taken
+into account in this respect.
+
+If the number of members appointed by the General Meeting
+exceeds eight, a second member representing employees is
+appointed, in accordance with the provisions set out below, within
+six months of appointment of the new member.
+
+If the number of members appointed by the General Meeting is
+reduced to eight or less, this reduction will not affect the duration
+of the term of office of employee representatives to the Board,
+whose term will expire as normal.
+
+In the event of the vacancy of a member representing employees
+for any reason whatsoever, said vacancy is filled pursuant to
+regulatory provisions.
+
+Supervisory Board members representing employees
+appointed for a period of four years.
+
+are
+
+APPOINTMENT PROCEDURE
+
+Board members representing employees are appointed by the
+Group’s Works Council.
+
+In the event that the company exits the scope of Article L. 225-79-2
+of the Commercial Code, the term of office of employee
+representatives on the Board expires at the end of the meeting
+during which the Board acknowledges the exit from the scope of
+application”.
+
+TEXTUAL REFERENCES APPLICABLE IN THE EVENT
+OF A CODING CHANGE (resolution 18)
+
+You will be asked to acknowledge the following: the textual
+references referred to in all the resolutions submitted to the
+General Meeting on 13 May 2020” will refer to the legal and
+regulatory provisions applicable on the date of the preparation of
+said resolutions and in the event of any change to the codification
+of said provisions, the textual references corresponding to the new
+coding shall replace them.
+
+Your Management Board asks you to approve the above
+
+resolutions submitted to your vote.
+
+The Management Board
+
+SOMPFY — ANNUAL FINANCIAL REPORT 2019

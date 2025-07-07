@@ -1,0 +1,1716 @@
+
+
+--- Page 1 ---
+
+Our Company
+
+Our Vision
+
+For ams, “Sensing is Life”. Our passion is in creating
+sensor solutions that make devices and technology
+smarter, safer, more environmentally friendly and
+easier to use. We are shaping the world with sensor
+
+Our Company and Strategy
+
+ams’ sensor solutions and sensor ICs are at the
+heart of the products and technologies that define
+our world today - from smartphones and mobile
+devices to smart homes and buildings, industrial
+automation, medical technology and driver-assist-
+ing vehicles. Leading manufacturers around the
+globe rely on our sensing expertise for advanced
+system designs. Our solutions excel in applications
+requiring extreme precision, dynamic range, high
+sensitivity, and low power consumption in small
+form factors.
+
+Our bold corporate strategy is fully focused on
+making ams the global leader in sensor solutions in
+four fast growing areas: Optical, Imaging, Environ-
+mental and Audio sensing. These areas represent
+the four pillars of ams, and we are taking decisive
+and strategic steps to build true leadership in these
+high-value markets.
+
+We actively manage a highly advanced technology
+and product portfolio around these four sensing
+areas driving market differentiation as the key fac-
+tor for sustained leadership. Executing our strategy
+makes ams a highly respected leader in the global
+semiconductor industry - which benefits our cus-
+tomers, shareholders, suppliers, and employees.
+
+solutions, leading the way in forging continuous
+connections between people and technology, and
+envisioning a seamless experience between the
+two.
+
+In each of our four focus areas we offer our cus-
+tomers industry-leading performance and innova-
+tion through complete sensor solutions, so OEMs
+can rely on one trusted vendor for their technology
+needs.
+
+We are driving integration of sensor technologies
+into monolithically integrated or multi-sensor
+solutions. These solutions may include sensing and
+related hardware, state-of-the-art sensing algo-
+rithms, sensor fusion software and application soft-
+ware. By offering solutions tailored to customers’
+unique and evolving needs, we help the industry
+move forward while creating strategic and market
+advantages for our customers. We empower OEMs
+to deliver differentiated products and devices that
+change and improve lives, and enable exciting new
+end-user experiences.
+
+To accelerate our growth path towards global
+leadership in optical, imaging, environmental and
+audio sensing, we use technology acquisitions
+
+as a strategic tool complementing our continued
+strong internal R&D investment. After our transfor-
+mational 2016 acquisition of Heptagon, the global
+leader in micro-optics and high-performance
+optical packaging, we completed the acquisition
+
+
+--- Page 2 ---
+
+of Princeton Optronics, a leader in high power
+Vertical Cavity Surface-Emitting Lasers (VCSELs),
+last year. Adding Princeton's outstanding and high-
+ly differentiated VCSEL technology for illumination
+enables broad coverage of the optical value chain
+and expands our optical solutions offering, parti-
+cularly for 3D sensing. Beyond consumer devices,
+the VCSEL technology offers strong competitive
+advantages in emerging applications in autono-
+mous driving and industrial sensing.
+
+Our Talent
+
+We are one ams - about 11,000 individuals around
+the globe driving our company’s success in the
+marketplace and looking for what is next.
+
+Our workforce is the greatest asset for the company
+and the most important factor in our success. We
+are able to attract and retain the best and brightest
+talent in the industry, embracing a wide range of
+highly innovative, creative, and unconventional
+thinkers.
+
+ams grew very strongly over the course of last year
+adding more than 8,000 employees predominantly
+through the expansion of ams’ Singapore manufac-
+turing operations. Besides the significant increase
+in production staff we welcomed a range of highly
+qualified industry and functional professionals
+strengthening and deepening ams’ skill base across
+
+In early 2018, we significantly expanded our 3D
+software and solutions competence via the acqui-
+sition of KeyLemon, a leader in 3D face recognition
+software. We will leverage KeyLemon’s robust and
+secure 3D face recognition IP to offer OEMs a faster
+time-to-market for high quality 3D face recognition
+in smartphones and other exciting applications.
+
+all business areas. The success of our focused
+strategy offers excellent opportunities for personal
+growth which is recognized inside and outside of
+ams.
+
+Our culture is built around the core values of our
+company and designed for pushing boundaries.
+We empower our workforce while holding them
+accountable. Demanding integrity in everything
+we do, we want our staff to be loyal, trustworthy,
+authentic and true role models.
+
+One ams also means that diversity is valued across
+our company and our locations on three conti-
+nents. At the same time, we recognize that every
+staff member's effort and commitment contribute
+to our ongoing success in a highly competitive
+environment.
+
+
+--- Page 3 ---
+
+Our Company
+
+Manufacturing
+
+ams implements a flexible manufacturing concept
+which combines internal production capacity
+
+and external manufacturing partnerships for its
+products and technologies. This strategy is built
+around driving high differentiation also on the
+manufacturing side thus creating an additional
+sustainable competitive advantage. ams’ consistent
+approach to manufacturing calls for use of external
+production partners wherever there is no compel-
+ling differentiation within the production process,
+including high value IP, which would warrant in-
+house manufacturing.
+
+ams runs production sites in Austria, mainly for
+front-end wafer production, in the Philippines for
+testing and related production steps, and in Singa-
+pore for optical manufacturing and packaging. The
+addition of Singapore as a manufacturing location
+followed the acquisition of Heptagon in 2016
+which was based in Singapore.
+
+Last year ams successfully completed a unpre-
+cedented expansion of its internal production
+capacity in Austria and Singapore resulting in a
+record level of capital expenditures for the com-
+
+Corporate Responsibility
+
+ams conducts its business guided by high stand-
+ards regarding ethical professional practices and
+environmental responsibility. All our business
+functions worldwide adhere to our company code
+of conduct as the basis for their activities. The code
+of conduct consists of a public set of principles and
+
+pany. These investments were required to support
+the substantial new product ramps in the second
+half of the year. The expansion added a very large
+manufacturing site in the Ang Mo Kio district
+
+of Singapore in the first half of 2017 offering
+30,000 m? of cleanroom space for high volume
+optical system and component manufacturing
+and packaging. In the second half of the year, ams
+opened a third newly-built manufacturing location
+in the Tampines district of Singapore where large
+scale production of optical filters has started in the
+meantime. At the same location, ams is currently
+commissioning a high volume manufacturing line
+for advanced VCSEL lasers for optical and 3D sens-
+ing with mass production planned in 2019.
+
+ams will continue to pursue an aggressive dual
+manufacturing strategy leveraging a combination
+of external and internal supply chains across all
+areas of production including front-end wafer man-
+ufacturing, filter production, optical packaging,
+and VCSEL manufacturing. To this end ams expects
+to see further significant capacity investments over
+the course of this year to support customer needs
+for 2018 and beyond.
+
+procedures binding all ams employees which safe-
+guards responsible, accountable, and consistent
+corporate activity. We actively monitor the code
+
+of conduct implementation and provide secure
+feedback channels across global operations.
+
+
+--- Page 4 ---
+
+We have been a member of the United Nations
+Global Compact, the world’s largest corporate
+strategic policy initiative for sustainability and re-
+sponsible business, since 2009. The United Nations
+Global Compact has more than 9,500 members in
+160 countries that are committed to aligning their
+operations and strategies with universally accepted
+principles in the areas of human rights, labor stand-
+ards, environment and anti-corruption.
+
+From our leadership position in the industry we
+continue to drive our commitment of protecting
+the environment and the sustainability of resources
+while being successful as a business. We strive to
+reduce our carbon emissions footprint globally
+
+and pursue the company-wide deployment of
+
+advanced technologies designed to lower the con-
+sumption of electricity and natural gas. To support
+this approach, ams’ internal production sites in
+Austria and the Philippines are certified according
+to the Environmental Management System DIN EN
+ISO 14001.
+
+We publish information on our emissions foot-
+print on a yearly basis within the framework of the
+Carbon Disclosure Project and have built a track
+
+record of quality disclosure over a number of years.
+
+Initiated and driven by some of the world’s largest
+institutional investors, the Carbon Disclosure
+Project is the leading international initiative for
+corporate disclosure of environmental information.
+
+
+--- Page 5 ---
+
+Our Business
+
+ams is a worldwide leader in sensor solutions offering high-performance sensing technologies with a clear
+strategic focus on our four core competency areas: optical, imaging, environmental and audio sensing. As
+
+a key supplier to many of the world’s leading companies, we power innovative sensing applications in the
+consumer, communications, automotive, industrial, and medical end markets.
+
+Optical sensing
+
+ams is the pre-eminent global player in optical
+sensing, holding a leadership position across key
+optical sensing applications. As our most relevant
+area of focus, optical sensing provides the major
+share of our total business and is the key growth
+driver for ams.
+
+Within optical sensing, 3D sensing is emerging
+
+as the most important new growth market and
+
+we anticipate it remain so for years to come. Face
+recognition and authentication, object recogni-
+tion, augmented reality and autonomous driving
+are among the prime uses of 3D sensing today.
+The ability to acquire 3D depth information offers
+a wealth of new sensing data compared with
+today’s technical limits, driving profound change
+in the world of sensing through three-dimensional
+interpretation of captured objects or scenes. We
+expect the technology to create new large-scale
+measurement and sensing applications in all end
+markets over time, from consumer and automotive
+to industrial and medical.
+
+With our outstanding portfolio of differentiated
+optical technologies and extensive system
+know-how, ams is quickly building a leadership
+position in the highly complex area of 3D sensing.
+Our unmatched coverage of the optical sensing
+value chain encompasses optical systems built
+
+around industry-leading micro-optical packaging,
+wafer-level optics (WLO) and diffractive optical
+elements (DOE), high performance optical sen-
+sors, and illumination sources through our stra-
+tegic acquisition of Princeton Optronics in 2017.
+Princeton Optronics is a best-in-class provider of
+high power Vertical Cavity Surface Emitting Lasers
+(VCSEL) which are increasingly differentiating core
+elements of 3D sensing solutions that determine
+the performance of the total system. The Princeton
+Optronics proprietary technology offers unique
+capabilities to create compact high-power illumi-
+nation systems that will help drive innovation in
+consumer and non-consumer 3D sensing together
+with our VCSEL driver circuits. ams is therefore able
+to pursue a broad multi-generation roadmap for
+3D sensing and tailor solutions that meet evolving
+customer needs.
+
+Our 3D sensing strategy also recognizes the
+importance of combining hardware and software
+to offer a differentiated full solution capability as
+reflected by our recent acquisition of KeyLemon,
+
+a leading developer of biometric software for face
+recognition. We view secure face recognition as a
+key application in the consumer, automotive and
+industrial end markets. This important step enables
+us to create complete face recognition solutions for
+a wide range of customers and end uses.
+
+
+--- Page 6 ---
+
+One GM
+
+customers
+
+
+
+--- Page 7 ---
+
+20
+
+ams helped introduce the first high-volume appli-
+cation of 3D sensing technology, supplying a global
+smartphone platform which ramped last year in
+the consumer market. At the same time, significant
+applications in the automotive market already are
+emerging. Earlier this year, we achieved our first
+very large design-win for a 3D LIDAR system for
+autonomous driving demonstrating this industry
+trend. We anticipate high-volume uses of 3D sens-
+ing technology driving a multi-stage adoption cycle
+in consumer and non-consumer end markets over
+the coming years. Given our technology portfolio
+and system expertise in 3D sensing we expect to
+play a leading role in the growth of this exciting
+market.
+
+ams also holds a leading position in advanced light
+sensing for display management and small scale
+proximity sensing in consumer and mobile devices.
+Our innovative high-value TrueColor ambient light
+sensors create a more engaging, richer display ex-
+perience and offer better color management while
+market adoption continues to expand. At the same
+time, our other existing light sensor lines already
+support tens of millions of consumer devices for
+improved display management.
+
+Imaging
+
+ams is a leader in high-performance image sensing
+for medical and industrial markets, built around our
+market-leading portfolio in medical imaging and
+global shutter image sensor technology. In medical
+imaging for computer tomography, digital X-ray,
+and mammography we provide advanced sensor
+
+In the highly innovative field of spectral sensing,
+ams is helping define next-generation technol-
+ogies in optical sensing. Sophisticated spectral
+analysis - based on proprietary technology -
+creates a technology platform to develop strongly
+differentiated new sensor applications including
+highly accurate matching of colors in consumer
+online shopping and, in the near future, food
+identification for mobile devices. Driven by our
+advances in spectral sensing, biosensing is another
+growth area benefitting from the trend to moni-
+tor personal health and bring diagnostics closer
+
+to the home. For example, we now can measure
+blood pressure as an important health indicator at
+a level of accuracy comparable to a doctor's office.
+Together with heart rate, vein elasticity, vagal tone,
+and pulse transit time measurement, ams’ optical
+sensing enables a snapshot of personal health and
+a timeline of data for preventive care that was not
+available before. We expect this technology to be
+embedded unobtrusively in daily life applications
+such as smart toilets and car steering wheels in the
+coming years.
+
+solutions offering the highest diagnostic resolution
+and efficiency while minimizing patient radiation
+exposure. In 2017, we expanded our medical
+imaging customer base and recently won a first
+program at another large medical imaging OEM.
+Our innovative miniaturized NanEye image sensors
+
+
+--- Page 8 ---
+
+power high-quality image acquisition for dispos-
+able medical endoscopy, enabling a new level of
+diagnostics.
+
+We also lead the market through innovation with
+our industrial image sensing solutions focused
+
+on high-performance global shutter technology.
+We support a range of growth applications in
+high-quality machine vision, inspection, traffic
+control and high-end imaging including the trend
+towards always-on vision. Our latest developments
+around curved sensors offer significantly improved
+performance in advanced industrial image sensing
+
+Audio and environmental sensing
+
+As the market leader in MEMS microphone inter-
+faces, ams focuses on high-quality audio sensing
+for mobile devices. The success of home assistants
+is driving growth for ams as their speech control
+applications require a high number of microphones
+per device. Our active noise cancellation (ANC)
+solutions deliver excellent sound quality regardless
+of ambient noise levels for audio accessories such
+as earphones, headsets and headphones. Powering
+wired and wireless designs with the smallest form
+factors, we hold the leading position in this quickly
+growing market.
+
+ams is a technology leader in environmental
+sensing where we address pressure, temperature,
+relative humidity, and a range of gas sensing
+modalities with best-in-class solutions. Our latest
+
+where we recently won an important industry
+award.
+
+In addition to creating a new generation of
+high-resolution IR image sensors to expand our
+3D sensing portfolio, ams also is driving a strategic
+convergence opportunity for combined image and
+spectral sensing. Based on our exclusive ability to
+cover both sensing technologies we are develop-
+ing highly innovative sensing solutions for mobile
+applications that enable high-quality image cap-
+ture and spectral analysis in one ams device.
+
+pressure sensors detect vertical position at an
+extremely high resolution of one inch or better,
+opening new applications such as indoor or drone
+navigation. We are also engaged in the develop-
+ment of miniature particle sensors to identify levels
+of harmful microscopic airborne particles.
+
+By leveraging our portfolio, we are pursuing a
+second strategic convergence play that combines
+audio and environmental sensing in smallest size
+multi-sensor solutions. Consumer OEMs are keen
+to reduce design complexity and, in particular, case
+openings while adding sensing functionalities to
+their devices. ams is uniquely positioned to address
+those needs with differentiated solutions such as
+combined microphone audio and pressure sensing.
+
+21
+
+
+--- Page 9 ---
+
+22
+
+Other business lines
+
+Beyond our sensing focus areas, we remain active
+in select existing sensing product lines adding dis-
+tinct opportunistic business based on available IP.
+These lines include a leading position in contact-
+less position sensing for industrial and automotive
+markets, highly accurate industrial flow meter
+solutions, and ultra-low power wireless sensing
+which integrates our sensing and wireless IP into
+industrial loT solutions. Our successful position
+
+sensor lines enable high-performance industrial
+measurement and sensing as well as a broad range
+of automotive sensing, from powertrain data
+acquisition to chassis control and in-cabin appli-
+cations. Using our power management know-how
+for a large-scale customer opportunity we will also
+supply an advanced power management com-
+ponent into a high-volume consumer charging
+application.
+
+
+--- Page 10 ---
+
+Our Global Network
+
+Europe
+
+Austria
+Headquarters
+
+Belgium
+Finland
+France
+
+Germany
+4 locations
+
+Italy
+3 locations
+
+Netherlands
+Portugal
+
+Switzerland
+3 locations
+
+Spain
+
+United Kingdom
+
+3 locations
+
+Asia
+
+China
+4 locations
+
+India
+
+Japan
+
+Korea
+
+Philippines
+
+Singapore
+4 locations
+
+Taiwan
+
+North America
+
+USA
+5 locations
+
+23
+
+
+--- Page 11 ---
+
+24
+
+Investor Relations and Corporate Governance
+
+
+--- Page 12 ---
+
+soccer fields
+of clean room space
+
+
+
+--- Page 13 ---
+
+26
+
+Investor Relations
+
+The ams share continues to offer attractive poten-
+tial for value appreciation as ams’ successful sensor
+solutions strategy drives growth potential for the
+company.
+
+The ams share recorded an outstanding perfor-
+mance in 2017 with strong share price appreciation
+starting in the first quarter and continuing through
+the first half and into the second half. Following the
+third quarter results this positive trend accelerated
+further leading to new all-time high share price
+levels in the fourth quarter. As one of the best
+performing shares across European equity markets
+in 2017, the ams share ended the year around
+204% higher compared to the beginning of the
+year, more than tripling its value over a 12 month
+period. This share price performance clearly reflec-
+ted the growing visibility regarding ams’ mid-term
+growth, including an increase in published growth
+expectation, and the strength of ams’ strategic
+model.
+
+ams sees investor interest in the Asia/Pacific region
+growing quickly while its business presence and
+growth potential in the region continues to increa-
+se. In order to better address the extensive additi-
+onal investor base in Asia/Pacific, ams is preparing
+for a secondary listing at the Hong Kong stock
+exchange (HKEx) within the coming 9-12 months.
+
+ams currently follows a dividend policy stipulating
+a dividend increase in case of a positive develop-
+ment of ams’ business while any dividend shall at
+least equal the dividend amount of the previous
+year. This approach combines the potential for
+dividend growth with higher stability of dividends.
+Based on this, the Management Board will propose
+a dividend of EUR 0.33 for the fiscal year 2017
+
+reflecting the positive development of ams’ busi-
+ness (EUR 0.30 for fiscal year 2016).
+
+ams also operates a share buyback scheme under
+which the company bought back around 2.7
+million shares last year, equivalent to around 3.2%
+of total issued shares at year end 2017. ams plans
+to use a major portion of these shares as partial
+consideration for the earn-out provision from the
+acquisition of Heptagon while treasury shares
+may also be used to cover employee long-term
+incentive plans.
+
+At the Annual General Meeting in June 2017, all
+agenda items subject to a vote were approved with
+an overwhelming majority.
+
+ams broadened its investor relations activities
+again in 2017, based on its quarterly reports and
+regular presentations to research analysts, press,
+and institutional investors. ams conducted extensi-
+ve road show activities and attended international
+investor conferences across Europe, North America
+and Asia. Given strongly increasing interest from
+U.S. and Asian investors these regions were a focus
+of activities in 2017 which helped improve the visi-
+bility of the ams share on a global scale. As part of
+these efforts, ams held an analyst and investor day
+for the first time last year. The very successful event
+in Singapore was attended by a large number of
+analysts and investors from Asia/Pacific, Europe
+and the U.S. and received excellent feedback.
+
+Financial reports, press releases, presentations,
+and additional information on the ams share are
+available in the “Investor” section of the company
+website www.ams.com.
+
+
+--- Page 14 ---
+
+120
+
+100
+
+80
+
+60
+
+40
+
+28.5
+
+20
+
+ams share price development in CHF
+
+== ams
+mm SPI (rebased)
+STOXX Europe 600 (rebased)
+
+88.45
+
+January 3, 2017
+
+Share details
+
+ISIN
+
+Securities code
+Ticker symbol
+Reuters / Bloomberg
+
+ATOOOOA18XM4
+24924656
+
+AMS (SIX Swiss Exchange)
+AMS.S / AMS SW
+
+December 29, 2017
+
+27
+
+
+--- Page 15 ---
+
+28
+
+Executive Bodies
+
+Management Board
+
+Alexander Everke (CEO)
+
+Michael Wachsler-Markowitsch (CFO)
+
+Dr. Thomas Stockmeier (COO)
+
+Mark Hamersma (CBO, since January 1, 2018)
+
+Supervisory Board
+Guido Klestil (Honorary Chairman)
+
+Hans Jérg Kaltenbrunner (Chairman)
+
+Prof. Dr. Siegfried Selberherr (Deputy Chairman)
+
+Michael Grimm
+
+Klaus Iffland
+
+Jacob Jacobsson
+
+Loh Kin-Wah
+
+Johann Eitner (employee representative)
+
+Andreas Pein (employee representative)
+
+Vida Uhde-Djefroudi (employee representative, until February 7, 2017)
+Ginter Kneffel (employee representative, from February 7, 2017 until October 13, 2017)
+Bianca Stotz (employee representative, since October 13, 2017)
+
+
+--- Page 16 ---
+
+
+
+--- Page 17 ---
+
+million working hours
+2017
+
+
+
+--- Page 18 ---
+
+42
+
+Group Management Report 2017
+
+1. Overview of the Economic Environment
+and the Past Financial Year
+
+The global semiconductor sector showed a positive
+development in 2017 and benefitted from a benign
+macroeconomic environment in key regions.
+
+Total sales of the global semiconductor industry
+grew meaningfully in 2017, increasing by 21.6%
+
+to USD 412.2 billion, while market volume had
+increased by 1.1% in 2016 to USD 338.9 billion. The
+relevant market segment for ams, analog semicon-
+ductors, grew 10.9% to USD 53.1 billion in 2017
+(previous year: USD 47.8 billion)’.
+
+A strong focus on innovation is behind ams’ lead-
+ing position in advanced sensor solutions, together
+with more than 35 years of relevant experience in
+analog semiconductors and sensors. ams contin-
+ued to broaden its worldwide network last year
+and expanded its presence in the relevant markets
+in Europe, Asia/Pacific and North America while
+more than 8,000 customers worldwide trust ams’
+sensing solution expertise.
+
+ams successfully implemented its clear strategy
+around leadership in the fast-growing markets for
+optical, imaging, environmental and audio sensing
+last year. 2017 was an outstanding year of growth
+for ams as the company recorded significant new
+business, particularly in optical sensors, resulting
+from previous strategic investments into differenti-
+ating technologies.
+
+ams’ business segment “Consumer” comprises the
+products and sensor solutions for the market Con-
+sumer & Communications. This business segment,
+which is a major supplier of advanced sensor and
+analog solutions for smartphones and consumer
+devices was the key driver of last year’s growth,
+more specifically new optical sensing solutions in
+
+1) Source: WSTS, February 2018
+
+3D sensing and advanced light sensing for display
+management. ams’ optical sensing product lines
+therefore had the largest share of group revenues
+again in 2017.
+
+Both solutions mentioned above started to ramp
+in very high volumes into a newly launched global
+smartphone platform in the second half of the
+year and achieved significant shipment rates in the
+fourth quarter. To help enable innovative features
+for this platform ams successfully implemented a
+highly complex ramp-up involving mass produc-
+tion of multiple new optical sensing technologies.
+ams is quickly building a leadership position in the
+very attractive new growth market of 3D sensing
+based on the company’s highly differentiated opti-
+cal technologies and extensive system know-how
+across different 3D technologies.
+
+As a further strategic step to expand its optical
+sensor solutions offering, ams acquired Princeton
+Optronics, Inc., a leading provider of Vertical Cavity
+Surface-Emitting Lasers (VCSELs), in the first half
+of last year. Princeton Optronics develops and
+supplies high performance VCSELs offering specific
+differentiation in mobile, consumer, automotive,
+and industrial applications. Princeton Optronics’
+technology enables benchmark power efficiency,
+accurate control of beam divergence and high
+power output for high beam count laser arrays in
+industry-leading form factors. VCSELs are becom-
+ing a core component of 3D sensing systems with
+very significant market growth expected for the
+coming years. Adding the illumination source
+therefore enables ams to offer a complete value
+chain in optical sensing and opens up strong new
+growth opportunities going forward.
+
+
+--- Page 19 ---
+
+ams offers a broad and aggressive multi-gener-
+ation 3D sensing roadmap to OEMs and is able
+to create solutions including best-in-class VCSEL
+lasers, integrated optical systems built around
+wafer-level optics (WLO) and diffractive optical
+elements (DOE), and high performance optical
+sensors, tailored to customer needs. Leveraging
+this industry-leading 3D portfolio ams started to
+see very good market traction for its 3D sensing
+products and solutions last year.
+
+In other optical sensing, ams strengthened its
+worldwide market leader position in light sen-
+
+sors supplying a broad range of smartphone and
+consumer OEMs with mobile device color, ambient
+light and proximity sensing. At the same time, ams
+continued the development of its spectral sensing
+technologies which enable advanced consumer
+color matching, future food identification and new
+personal health applications and are seeing grow-
+ing market interest.
+
+In audio sensing, ams’ MEMS microphone inter-
+faces recorded strong growth last year helped by
+the success of consumer devices such as home
+assistants, underscoring ams’ market leadership.
+ams is also the leading provider of active noise
+cancellation (ANC) for the growing market of
+consumer device accessories where the company
+expanded its business last year amid increasing
+adoption of ANC. Driving sensor convergence
+based on its strong IP position, ams plans to com-
+bine microphone audio and environmental sensing
+such as pressure sensing into new small form factor
+consumer solutions.
+
+ams's business segment “Non-Consumer’, which
+comprises of products and sensor solutions
+targeting the end markets industrial, medical and
+automotive, showed very solid growth in 2017.
+ams' solution focus and strong technology base
+
+continued to drive market success in ams’ diver-
+sified non-consumer end markets as ams helps
+realize new applications for an expanding global
+customer base.
+
+ams’ industrial business performed very well last
+year, providing a wide range of sensing solutions
+for industrial and factory automation, building
+control and other industrial sensing. In industrial
+imaging and machine vision, ams recorded good
+growth driven by continued innovation enabling
+broader deployment of imaging technology, small-
+er form factors and higher optical performance. As
+a leading player in industrial end markets ams grew
+its portfolio of differentiated sensing technologies
+and solutions which enable next generation sys-
+tems at major OEMs.
+
+ams’ medical business recorded another year of
+growth in 2017 based on the company’s market
+leadership in Medical Imaging for computed
+tomography (CT), digital X-ray, and mammography.
+ams ramped a new Asian OEM last year broaden-
+ing its market reach in high resolution medical
+imaging and has recently gained a first design-win
+at another leading medical imaging OEM. Smallest
+scale endoscopy imaging systems are seeing good
+growth in new applications, leveraging ams’ image
+sensing innovation and optical manufacturing
+expertise.
+
+Robust growth in ams’ automotive business con-
+tinued in 2017 given attractive demand for ams’
+high performance sensing solutions. Focused on
+applications in safety, driver assistance, autono-
+mous driving, position, and chassis control, ams’
+portfolio is fully aligned with the accelerating
+structural growth of automotive sensing. ams sees
+3D sensing as a highly relevant technology for
+new large scale automotive applications such as
+autonomous driving and driver recognition with
+
+43
+
+
+--- Page 20 ---
+
+strong longer-term growth potential for ams. ams
+has therefore started to engage with automotive
+industry participants on 3D sensing as market
+interest continues to increase.
+
+ams’ business segment Foundry which manufac-
+tures analog and mixed-signal ICs for customers in
+specialty processes recorded an attractive perfor-
+mance in 2017 and contributed to the company’s
+results. Positioned as a full service provider offering
+a broad spectrum of services from design sup-
+port to final test, ams’ business retained a leading
+position in the analog specialty process foundry
+market.
+
+In its operations, ams successfully completed
+an unprecedented expansion of manufacturing
+
+capacity at its locations in Singapore last year. Two
+new large-scale production facilities for consumer
+optical sensing solutions were commissioned,
+equipped, staffed and brought up to high volume
+production which including hiring around 8,000
+employees in Singapore over the course of last
+year. ams’ in-house front-end manufacturing capac-
+ity in Austria was again fully utilized in 2017.
+
+Based on strong market traction and increas-
+
+ing revenue opportunities, ams also decided to
+accelerate the addition of new internal production
+capacity for VCSEL laser products last year. ams
+has started to implement this production capacity
+investment in Singapore towards the end of the
+year with mass production planned in 2019.
+
+
+--- Page 21 ---
+
+2. Business Results
+
+2.1 Development of Revenues
+
+Consolidated group revenues for the financial
+year 2017 increased by 93% to EUR 1,063.8 million
+compared to EUR 549.9 million in 2016. This
+development was primarily due to the exceptional
+growth in demand in the target market Consumer
+& Communications (C&C) (161%) in conjunction
+with solid overall demand for ams’ solutions in the
+Automotive, Industry and Medical markets (AIM).
+The revenue increase in the company’s Consumer
+
+from the entry in the new market of 3D sensing
+and high-quality light sensors, as well as the
+business development of important smartphone
+manufactures, who use ams-solutions. At the same
+time, ams‘ Automotive, Industry and Medical busi-
+nesses were able to participate attractively in the
+worldwide development of demand.
+
+The revenue distribution by markets is shown
+
+& Communications business resulted in particular below:
+in millions of EUR 2017 %of revenues 2016 %of revenues Change in %
+Cac 730.2 69% 279.4 51% +161%
+AIM 333.6 31% 270.4 49% +23%
+1,063.8 549.9
+
+Revenue breakdown by markets
+
+Automotive,
+Industrial,
+Medical
+
+31%
+
+69%
+
+Consumer &
+Communications
+
+The distribution of revenues by region does not
+reflect the demand situation in ams’ target markets
+but the geographic billing location of the compa-
+ny’s customers. Business in the Americas region
+showed a significant increase in 2017 compared to
+the previous year, particularly due to higher reve-
+nues from a major customer in that region.
+
+The expansion of the company’s sales and distri-
+bution network continued last year enabling the
+addition of new customers and a higher market
+presence in all regions. Against this backdrop, ams
+expects all regions to continue to contribute to the
+overall growth of the company.
+
+45
+
+
+--- Page 22 ---
+
+46
+
+The revenue breakdown by region (based on billing location) is shown below:
+
+in millions of EUR 2017 %of revenues 2016 %of revenues Change in %
+
+EMEA 352.7 33% 203.0 37% +74%
+
+Americas 212.3 20% 29.5 5% +620%
+
+Asia / Pacific 498.8 47% 317.5 58% +57%
+1,063.8 549.9
+
+Revenue breakdown by region
+
+Europe, Middle East,
+
+Africa
+
+47%
+Asia / Pacific
+
+20%
+
+Americas
+
+2.2 Orders Received and Order Backlog
+
+Given a remarkable positive business development
+across all key markets, orders received increased
+significantly over the course of the year growing
+from EUR 569.9 million in the previous year 2016 to
+EUR 1,588.9 million in 2017.
+
+Revenues and orders developed as follows:
+
+ams’ year-end order backlog increased by 298%
+to a positive level of EUR 541.9 million on Decem-
+ber 31, 2017 (EUR 136.1 million at year-end 2016)
+creating an excellent starting point for 2018.
+
+in millions of EUR 2017 2016 Change in %
+Revenues 1,063.8 549.9 +93%
+Orders received 1,588.9 569.9 +179%
+Total order backlog 541,9 136.1 +298%
+
+
+
+--- Page 23 ---
+
+2.3 Earnings
+
+Gross profit increased to EUR 409.8 million in 2017
+compared to EUR 288.1 million in the previous year.
+
+The company’s full year gross margin excluding
+acquisition-related amortization decreased to 43%
+(2016: 55%), gross margin including acquisition-
+related amortization also decreased to 39% com-
+pared to 52% in the previous year. The major ramp-
+up of the new production capacities in Singapore
+in the first half of 2017 led to some unutilized pro-
+duction capacities, which had a slightly negative
+effect here given lower revenue-related economics
+of scale. Selling prices for the company’s products
+showed a stable overall level during the year.
+
+Research and development costs, as well as mar-
+keting and sales expenses showed an increase in
+2017 compared to the previous year. This develop-
+ment resulted from significant product develop-
+ment efforts and an optimization of sales activities
+as personnel costs showed a further increase.
+
+Administrative costs were also higher compared
+to the year before due to an increase in personnel
+costs.
+
+Despite the revenue increase, the operating result
+(EBIT) (including acquisition-related amortization
+and share-based compensations costs) decreased
+due to an increase in fixed costs in conjunction
+with the expansion of production capacities for the
+year 2017, by EUR 17.4 million to EUR 75.9 million.
+In contrast to the lower EBIT, EBITDA (earnings
+before interest and taxes plus depreciation and
+amortization) increased by EUR 68.8 million to
+
+EUR 224.4 million.
+
+Net result for 2017 decreased to EUR 88.8 million
+compared to EUR 102.9 million in 2016. The return
+on equity reached 11% compared to 15% for 2016
+while the return on revenues decreased by 11 per-
+centage points to 8% (2016: 19%).
+
+in millions of EUR 2017 2016 Change in %
+Gross profit on revenues 409.8 288.1 +42%
+Gross margin
+
+(excluding acquisition-related amortization and share based
+
+compensation) 43% 55%
+
+Gross margin
+
+(including acquisition-related amortization
+
+and share based compensation) 39% 52%
+
+EBITDA 224.4 155.6 +44%
+Operating result (EBIT) 75.9 933 -19%
+EBIT margin
+
+(including acquisition-related amortization
+
+and share based compensation) 7% 17%
+
+Financial result -22 40 “155%
+Result before tax 737 97.2 -24%
+Net result 88.8 102.9 -14%
+Return on equity 11% 15%
+
+Return on revenues 8% 19%
+
+47
+
+
+--- Page 24 ---
+
+2.4 Assets and Financial Position
+
+The balance sheet structure shows a high ratio of
+fixed to total assets which is common to the semi-
+conductor industry, at the same time intangible
+assets reflect the acquisitions concluded in 2017.
+The share of intangibles and property, plant and
+equipment in the total assets increased from 65%
+in 2016 to 67% in the reporting period 2017.
+
+The investments in fixed assets affecting cash
+(capital expenditures) of EUR 581.9 million were
+significantly higher than the current deprecia-
+
+tion and amortization of EUR 148.4 million and
+amounted to 55% of full year revenues (2016: 17%).
+The ratio of equity to fixed assets reached 38% in
+2017 compared to 70% in the previous year, thus
+reflecting the investments in fixed assets, acquisi-
+tions and strategic investments.
+
+In the past financial year ams completed strategic
+transactions to acquire 100% of Heptagon group,
+as well as Princeton Optronics Inc.
+
+The fixed assets include a deferred tax asset of EUR
+
+26.1 million (previous year: EUR 35.4 million). Under
+the current tax legislation, this tax asset can be car-
+
+ried forward indefinitely but is expected to be used
+to offset profit taxes within the next five years.
+
+Inventories amounted to EUR 253.9 million at the
+end of 2017 (2016: EUR 92.9 million). This increase
+was particularly driven by the expansion of internal
+manufacturing capacity at a high level of capacity
+utilization and a comparable level of inventory
+turnover.
+
+Trade receivables at balance sheet date increased
+to EUR 284.8 million due to the impact of fourth
+quarter revenues (2016: EUR 97.2 million). The
+average period of outstanding receivables showed
+a slight increase compared to the previous year.
+
+Financial liabilities increased by EUR 786.1 million
+to EUR 1,258.2 million from EUR 472.1 million
+
+in 2016 as a result of drawing long-term credit
+lines - exploiting the historically low interest
+
+rate levels - for acquisitions and strategic invest-
+ments. For the same reason, net debt increased to
+EUR 865.9 million in 2017 compared to a net debt
+position of EUR 256.2 million in 2016. Group equity
+increased by 24% to EUR 828.6 million due toa
+capital increase in conjunction with the Heptagon
+acquisition as well as the positive development of
+the net result.
+
+Regarding financial instruments we refer to the
+information in the notes.
+
+in millions of EUR 2017 2016 2017 2016
+Assets Equity and liabilities
+
+Inventories 253.9 92.9 Financial liabilities 1,258.2 472.1
+Trade receivables 284.8 97.2 Trade liabilities 308.4 68.2
+Other current assets 469.4 249.3 Other liabilities 781.5 158.3
+Fixed assets 2,227.1 948.3 Provisions 84.6 56.8
+Deferred tax asset 26.1 35.4 Shareholders’ equity 828.6 667.6
+Total assets 3,261.3 1,423.0 Total equity and liabilities 3,261.3 1,423.0
+
+
+
+--- Page 25 ---
+
+Given the higher level of gross debt the company’s
+debt-to-equity ratio increased to 152% compared
+
+to 71% in the previous year. At the same time, the
+equity ratio decreased to 25% (2016: 47%).
+
+2017 2016
+Equity ratio 25% 47%
+Debt to equity ratio 152% 71%
+Equity to fixed assets ratio 38% 70%
+
+These figures are directly derived from the group financial statements.
+
+2.5 Cash Flow
+
+The operating cash flow decreased to EUR -3.6
+million in 2017 compared to EUR 82.3 million in
+the previous year. This decrease was primarily
+due to the lower operating result and higher
+inventory. The cash flow from investing activities
+was EUR -514.8 million (2016: EUR -71.0 million)
+including EUR -581.9 million of expenditures for
+intangible assets, property, plant and equipment
+
+(2016: EUR 97.7 million) and EUR 35.8 million for
+company acquisitions (2016: EUR 48.3 million). Free
+cash flow amounted to EUR -518.4 million (2016:
+EUR 11.3 million). The company’s available liquidity
+increased by EUR 108.8 million to EUR 288.4 million
+at the end of 2017. The cash flow from financing
+activities amounted to EUR 687.7 million in 2016
+compared to EUR 58.5 million in the previous year.
+
+in millions of EUR 2017 2016 Change in %
+Operating cash flow -3.6 82.3 -104%
+Cash flow from investing activities 5148 71.0 -625%
+Free cash flow -518.4 113 -4,687%
+Cash flow from financing activities 687.7 58.5 +1,076%
+Effects of changes in foreign exchange rates on cash and cash
+
+equivalents -233 62 -476%
+Cash and cash equivalents 288.4 179.6 +61%
+
+49
+
+
+--- Page 26 ---
+
+50
+
+3. Research and Development
+
+ams’ technological leadership in the design and
+manufacture of high performance sensor solutions
+and analog ICs is based on more than 35 years of
+intensive research and development activities. In
+order to secure and strengthen its leading position,
+the company makes significant investments in
+research and development on a continuous basis.
+Research and development expenses amounted to
+EUR 214.0m last year (20% of revenues) compared
+to EUR 138.6m in the year before (25% of reve-
+nues). Research and development activities mainly
+comprised sensor solutions, sensors and sensor in-
+
+terfaces for the company’s core markets regarding
+product development as well as the development
+of specialty variants of CMOS and SiGe processes.
+The average number of employees in research and
+development was 1,106 in 2017 (2016: 677).
+
+ams’ R&D activities again allowed the filing of a
+large number of international patents and the
+publication of numerous papers in international
+specialist journals and at trade conferences last
+year.
+
+4. Purchasing and Manufacturing
+
+In purchasing, ams was able to reduce the cost of
+raw materials and assembly services slightly last
+year which had a positive effect on the gross profit
+margin. Given continuously rising personnel costs
+the cost pressures in manufacturing nevertheless
+remain high.
+
+Due to the enormous expansions of the production
+locations in Singapore free production capacity
+have been raised in the first half of 2017. After the
+successful ramp-up of the production facilities all
+capacities of the group were utilized at the second
+half of 2017. Internal production capacity of the
+Austrian production location was fully utilized
+throughout the year 2017. Any unabsorbed fixed
+costs have been recorded in the income statement.
+
+Gross margin excluding acquisition-related amorti-
+zation decreased slightly to 43% compared to 55%
+in 2016, gross margin including acquisition-related
+amortization decreased as well to 39% from 52%
+in the previous year. This slightly negative develop-
+ment was mainly due to product mix effects and
+costs regarding the production ramp-up for the
+new productions facilities in Singapore.
+
+Given the positive demand environment for its
+products ams expects another year of very high
+capacity utilization for 2018.
+
+
+--- Page 27 ---
+
+5. Employees
+
+On average, ams had 7,016 employees in 2017
+(2016: 2,175) of which 1,277 worked at the
+company headquarters in Premstatten (2016:
+1,111). The increase of 4,841 employees comprises
+the addition of 429 employees in research and
+development, 4,278 employees in production and
+134 employees in General and Administration.
+
+At 31.12.2017 the ams group employed 11,168
+employees.
+
+ams recognizes its responsibility as an important
+employer in the region. The company again offered
+a wide range of internal and external training and
+development opportunities for all employees last
+year and provided training positions for appren-
+tices.
+
+ams attempts to retain its employees with the
+help of a long-term remuneration model. A profit
+
+6. Environment
+
+Acting responsibly towards the environment is a
+basic principle for ams in all business operations.
+ams is dedicated to meeting the highest environ-
+mental standards as well as using resources and
+the environment conservatively. ams has therefore
+been certified to ISO 14001:2004 for a number of
+years.
+
+Sustainability as well as efforts to preserve en-
+vironmental resources and reduce energy costs
+and carbon dioxide emissions are major concerns
+for ams which have been supported by a range
+
+sharing program for all ams employees augments
+the existing employee stock option and incentive
+programs by way of an attractive direct compo-
+nent. The profit sharing program expresses ams’
+belief that the company’s employees are its most
+important success factor and honors every employ-
+ee’s contribution to ams’ success.
+
+Owing to the earnings in 2017, the total amount
+for distribution which depends on the operating
+profit before taxes in relation to full year revenues
+(EBT margin) decreased and totals EUR 1.6m for
+2017 (2016: EUR 1.7m).
+
+Moreover, active internal and employee communi-
+cations as well as regular employee events which
+form a company tradition serve to ensure the
+employees’ identification with the company.
+
+of activities for many years. Based on a thorough
+analysis of ams’ carbon dioxide emission sources
+in 2009, measures to achieve further reductions in
+carbon dioxide emissions are being defined each
+subsequent year.
+
+ams also submits information on its carbon dioxide
+emissions to the Carbon Disclosure Project, a
+global transparency initiative which has created
+the world’s largest freely available database of
+corporate carbon dioxide emissions.
+
+51
+
+
+--- Page 28 ---
+
+52
+
+7. Subsidiaries and Branch Facilities
+
+ams currently has subsidiaries in Switzerland, Italy,
+Germany, France, Belgium, the United Kingdom,
+Spain, Portugal, Sweden, the U.S., the Cayman
+Islands, the Philippines, China, Japan, Korea, Slo-
+venia, India and Singapore. The subsidiaries in the
+USA, Switzerland, Italy, Spain, the United Kingdom,
+Slovenia, Germany, Japan and India carry out
+development, marketing and sales activities, while
+the subsidiaries in France and China are active in
+marketing and sales and technical support. The
+subsidiary in the Philippines is responsible for
+production activities in testing, while the subsidi-
+
+8. Risk Management
+
+Operating on a global basis, the ams group is
+exposed to a variety of risks that are inextricably
+linked to business activities. In order to identify,
+evaluate and counteract these risks in a timely
+manner, ams has developed and implemented
+tight internal risk management systems. This
+
+risk management system was implemented and
+benchmarked against best practices in conjunction
+with the company’s auditors. The risk management
+process in place requires the business units to
+constantly monitor and evaluate risks. Regular risk
+
+Business Interruption Risk
+
+The company’s state-of-the-art 200mm wafer
+manufacturing facility went into operation in 2002.
+Although 15 years old the facility is regarded as
+comparatively new by semiconductor industry
+standards. In addition, the continuous mainte-
+nance and renewal process ensures uninterrupted
+operation of the production facility. Therefore the
+risk of breakdowns or prolonged downtime is rela-
+
+ary in Korea is responsible for sales and assembly
+in the region. The subsidiary in Singapore conducts
+production, marketing, sales and research and de-
+velopment activities. Branch facilities exist in Hong
+Kong, Singapore and Taiwan.
+
+Principal shareholdings: The investment in New
+Scale Technologies, Inc., Victor, New York (USA),
+remained unchanged at 34.5%. New Scale Tech-
+nologies develops piezo-based miniature motor
+technologies and licenses products and technolo-
+gies to industrial partners.
+
+reports are prepared for the management board
+and supervisory board. This ensures that major
+risks are identified and counteraction can be taken
+at an early stage.
+
+The internal audit function complements the risk
+management process. In close alignment with the
+supervisory board's audit committee it aims to
+analyze internal processes and if necessary propose
+improvements.
+
+tively low. In addition, this risk is being minimized
+further by preventive maintenance activities. The
+business interruption risk is additionally insured for
+the replacement price and against loss of earn-
+ings for 18 months. ams’ insurer, FM Global, has
+awarded the company ~ as one of a select number
+of semiconductor manufacturers — the HPR (highly
+protected risk) status.
+
+
+--- Page 29 ---
+
+Financial Risks
+
+Risk management is handled centrally by the
+treasury department in accordance with guidelines
+issued by the management board. These detailed
+internal guidelines regulate responsibility and ac-
+
+Receivables and Credit Risk
+
+ams operates a strict credit policy. The creditwor-
+thiness of existing customers is constantly checked
+and new customers undergo a credit evaluation.
+Under ams’ treasury and risk management policy,
+investments in liquid securities and transactions
+
+Interest Rate Risk
+
+Interest rate risk - the possible fluctuation in value
+of financial instruments due to changes in market
+interest rates — arises in relation to medium and
+long-term receivables and payables (especially
+borrowings). ams’ treasury policy ensures that
+part of the interest rate risk is reduced by fixed-in-
+terest borrowings. On the liability side, 52% of all
+amounts owed to financial institutions are at fixed
+
+Foreign Exchange Risk
+
+Financial transactions in the semiconductor in-
+dustry are predominantly carried out in US dollars.
+To hedge the currency risk, all transaction and
+conversion risks are constantly monitored. Within
+the group, cash flow streams in the same currency
+are offset (netting). Currency fluctuations during
+
+tion parameters for the areas affected. The treasury
+department evaluates and hedges financial risks in
+close cooperation with the business units.
+
+involving derivative financial instruments are only
+carried out with financial institutions that have
+high credit ratings. As of the balance sheet date
+there were no significant concentrations of credit
+risk.
+
+rates. Of the remaining borrowings on a floating
+rate basis (48%), 51% will be repaid over the next
+two years. The remaining floating rate borrow-
+ings undergo continual checks with regard to the
+interest rate risk. On the asset side, the interest
+rate risks are primarily attached to time deposits
+and securities in current assets that are tied to the
+market interest rate.
+
+foreign currency transactions mainly concern the
+US dollar. From the company’s point of view, due
+to the extreme volatility in the currency markets, it
+is not possible to engage in economically feasible,
+efficient, and low risk currency hedges.
+
+53
+
+
+--- Page 30 ---
+
+54
+
+Product Liability and Quality Risk
+
+The products manufactured by ams are integrated
+into complex electronic systems. Faults or functio-
+nal defects in the products produced by ams may
+have a direct or indirect effect on the property,
+health or life of third parties. The company is not in
+a position to reduce or exclude its liability towards
+consumers or third parties in sales agreements.
+Every product that leaves the company under-
+goes several qualified checks regarding quality
+
+Patent Infringement Risk
+
+ams manufactures complex ICs using various
+process technologies, line widths and production
+facilities. Like industry competitors, the company
+constantly has to develop these technologies
+further. Should ams infringe any existing patents
+while consistently monitoring processes, produc-
+
+and function. In spite of quality control systems
+certified to ISO/TS 16949, ISO/TS 13485, ISO 9001
+und ISO 14001, product defects may occur and
+possibly only show up after installation and use of
+the finished products. Although this risk has been
+appropriately insured, quality problems could neg-
+atively impact ams’ assets, financial and earnings
+position.
+
+tion methods, and design blocks protected under
+patent law as well as related comprehensive licens-
+ing, this may negatively impact the assets, financial
+and earnings position of the company as well as
+the ams share price.
+
+9. Events after the Balance Sheet Date
+
+On February 22, 2018, the company acquired 100%
+of the shares of KeyLemon SA and thus gained con-
+trol of the acquired company. The acquisition has
+been made by cash consideration. The contingent
+consideration has been determined as the present
+value based on the expected value for the amount
+to be paid based on possible scenarios.
+
+To ensure Heptagon’s business achieved the
+expected success in 2017, ams had to provide
+financing for significantly higher levels of capital
+expenditures and committed significantly more
+resources than projected. To adequately reflect
+this situation, ams has submitted a proposal ona
+revised earn-out structure to all former Heptagon
+shareholders. The revised earn-out structure re-
+
+places the previous combination of cash payment
+and ams shares portion with a mainly increase of
+the share consideration, thereby the cash payment
+decreases.
+
+The key element of the revised structure is a total
+distribution of up to 3.9 million ams shares at the
+average closing price of CHF 99.15 resulting from
+the 15 trading days before yesterday's proposal
+date (20 February 2018). The implementation of
+the proposal is contingent on a threshold of 60% of
+preferred Heptagon shares (approximately 56% of
+total Heptagon shares) represented by former Hep-
+tagon shareholders having offered their accept-
+ance. Therefore an estimate of the financial impact
+is not possible at this time.
+
+
+--- Page 31 ---
+
+10. Outlook
+
+Supported by more positive expectations for
+
+the development of the world economy, global
+industrial production and private consumption in
+the current year, ams expects its business to show
+meaningful growth in 2018 based on the market
+launch of new advanced sensor solutions, high
+run rates for existing products and the production
+ramp-up of a range of design-wins across end
+markets.
+
+For the sensor and analog segments of the world-
+wide semiconductor industry, market researchers
+assume market volume to expand further in 2018
+and currently expect year-on-year growth in the
+middle to higher single-digit percentage range
+(WSTS, February 2018). In contrast and in line
+
+with published expectations, ams is confident at
+this time to achieve a revenue growth rate well
+above the expected market growth rate for the
+current year. ams anticipates gross profit margin for
+2018 to remain attractive, reflecting the business
+structure of the company. ams also expects the
+operating and net result for the current year to
+develop positively despite further increases in
+absolute research and development as well as sales
+and marketing expenses.
+
+However, should global semiconductor demand
+and the macroeconomic environment develop
+unfavorably in 2018 and/or the USD show nota-
+ble weakness, ams would experience an evident
+impact on the development of its business and
+earnings.
+
+ams’ market-leading expertise in sensor solutions
+and its clear strategy of focusing on key sensing
+markets is driving an expanding range of signifi-
+cant growth opportunities for the company. These
+include new and upcoming sensing applications
+
+in smartphones and other mobile devices as well
+as the rapidly growing use of advanced sensor
+technologies in automotive, industrial, and medical
+applications.
+
+Implementing its growth strategy, ams pursues a
+continued leadership position in its target markets,
+the expansion of business with key accounts and a
+higher penetration of its global customer base as
+important mid-term priorities.
+
+55

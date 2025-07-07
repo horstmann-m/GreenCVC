@@ -1,0 +1,768 @@
+
+
+--- Page 1 ---
+
+BUSINESS REVIEW
+TRENDS IN SCHNEIDER ELECTRIC’S CORE MARKETS
+
+4
+
+> 1. Trends in Schneider Electric’s
+
+core markets
+
+Industries and machine manufacturers
+
+Continuing improvement of global growth and business climate
+(PMI) over the year has at last resulted in a rise of industry market
+during the second half of 2013. However, it remains subdued on a
+global level with varied positions across major regional blocks.
+
+Western Europe GDP exited from recession in Q2 and slightly
+increased since then. Against this backdrop, industry market
+stabilized one quarter later lifting out of a long and severe
+recession. Most zones have experienced a sequential improvement
+at year end, including Spain and Italy.
+
+In North America, manufacturing companies have benefited from
+stronger external demand from Europe and China in the course of
+the year. Companies were also helped by lower energy costs
+thanks to shale gas. Despite those positive factors, the growth of
+industry market, mainly driven by investment in equipment and
+production of machines, was moderate.
+
+Non residential and residential buildings
+
+Indeed, the market has already reached a high level after the
+strong cyclical recovery in 2010 and 2011 and generous taxation
+policies for equipment spending. Furthermore, uncertainties linked
+to the debt ceiling debate and Government shutdown weighed on
+companies’ investment behavior.
+
+In China, industry market growth rebounded, driven by
+improvement of external demand and investment in machines.
+Automation offer benefited from Chinese manufactures’ needs to
+increase efficiency so to reduce impact from labor cost increases.
+
+In Japan, industry market bounced during the second half of the
+year, machine manufacturers producers benefiting from gain in
+competitiveness allowed by Yen depreciation.
+
+In other new economies as a whole, industry market slowed down
+during the second half of the year, hampered by capital outflows
+and tightened credit markets (Russia, India, some East Asian
+countries...).
+
+Non residential buildings
+
+In Western Europe, non residential construction continued to fall,
+notably in Southern Countries (Spain, Italy, and France), penalized
+by private-sector deleveraging and public-sector austerity. In
+United Kingdom, improving business confidence has encouraged
+firms to lift their investment, and non residential construction has
+stabilized in the course of the year.
+
+In the US, non residential construction as a whole grew at a low
+pace. Positive growth in commercial buildings was offset by a
+decrease in public buildings. Most publicly funded segments
+recorded decrease as a result of fiscal pressure and government
+spending cuts.
+
+Residential
+
+Growth in residential market outperformed other construction
+categories in 2013, driven by the US, Japan, and a lower rate of
+decrease in Western Europe.
+
+In North America, residential construction has continued to recover
+at a strong pace in the US, for the third consecutive year,
+sustained by employment growth, demography, price increase and
+lower inventory. On the contrary, the market turned down in
+Canada and Mexico.
+
+In Western Europe, residential market bottomed out during the
+third quarter and slightly decreased on a yearly basis compared to
+2012. The decrease was due to Southern Countries: Spain, Italy
+
+172 2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+In China, the market experienced a strong growth in 2013, driven
+by a rebound in company’s capex, government investments,
+continuously raising rental prices and urbanization. Growth stayed
+resilient during the second half of the year, despite reportedly
+tighter mortgage conditions.
+
+In Australia, the market has recovered at a moderate pace.
+
+In India, market grew at a low pace, hampered by high interest
+rates and structural constraints.
+
+In Saudi Arabia, despite a vast pipeline of projects the market was
+hit by labor shortages resulting from new labor laws.
+
+and France. The market was close to flat in Germany and Nordics
+and slightly rose in United Kingdom.
+
+In Australia, the market returned to growth after a deep recession
+in 2012.
+
+In China, residential construction has gradually risen during the
+year despite reportedly tighter mortgage conditions and the
+introduction of new tightening measures in big cities.
+
+In other new economies as a whole, residential market continued
+to grow in 2013, notably in South America and Africa. India, Russia
+and some East Asian countries were impacted by the financial
+turmoil in emerging markets, higher interest rates and fiscal
+tightening.
+
+
+--- Page 2 ---
+
+Utilities and Infrastructures
+
+BUSINESS REVIEW
+TRENDS IN SCHNEIDER ELECTRIC’S CORE MARKETS
+
+Electrical Utilities
+
+Strong regional differences have recently emerged in the utility
+space. Europe is in the middle of turbulences during the early
+steps of the energy transition, primarily affecting the conventional
+power generators, while other geographies follow a more stable
+path.
+
+On the grid side of mature economies, the attention paid to quality
+of supply (outages, power quality) is greater than ever, justifying
+investments to rejuvenate aging networks, incorporation new smart
+grid technologies while integrating the increasing number of
+distributed energy resources.
+
+Utilities must meet these regulatory obligations in a context of
+weak or even negative consumption growth, as well as societal
+pressure to maintain competitive electricity prices. In emerging
+economies, the need of additional capacities to meet consumption
+growth keeps on driving the utility sector.
+
+Those factors will drive sustainable investments in utility networks
+across all geographies.
+
+The regulatory pressure on electric utilities is increasing, mainly in
+mature markets. In addition to the mandates on renewable
+integration, energy efficiency targets are being implemented, giving
+new obligations to utility operators to stimulate their customers
+
+Data centers and Networks
+
+In 2018, the Global IT markets (Information Technologies) were
+impacted by a weaker economic environment. In particular in the
+United States, the uncertainty linked to the debt ceiling debate and
+Federal Reserve tapering of bond-buying combined with the
+October Government shutdown created conditions for a slowdown
+and a volatility of IT investments.
+
+In Europe, some Western countries remained in recession in 2013,
+but the country which has faced the sharpest decrease of its IT
+market is Russia. Capital outflows, restrictive fiscal and monetary
+policies in order to fight inflation created adverse economic
+conditions for investment.
+
+towards more energy efficient consumption practices and
+demand-side participation to grid operation.
+
+The traditional utility business model where revenues were
+predominantly based on electricity volumes is slowly challenged.
+Conventional centralized generation is gradually losing ground to
+new distributed generation plants.
+
+Oil and Gas
+
+In 2013, Oil & Gas markets have confirmed the recovery engaged
+since 2010.
+
+The global gas market is undergoing significant changes. The US
+became self-sufficient in Energy and is preparing export
+capabilities, Europe consumption is pausing due to the crisis, and
+infrastructures are being build-up in Asia (export from Australia,
+Pipelines into China...).
+
+In the Oil & Gas market, Schneider Electric is positioned to deliver
+solutions across all the Oil & Gas value chain, with application
+focus on energy management and infrastructure optimization.
+
+The Invensys acquisition further reinforces Software and Process
+Automation capabilities, in particular in downstream and
+petrochemicals.
+
+The transactional single phase market experienced a significant
+growth in Asia offsetting more difficult situations in North America,
+Western Europe and Russia.
+
+The migration to the Cloud, Collocation and growth in larger Data
+Centers accelerated, needing new customer engagement models
+as well as faster adaptation of Schneider Electric's offer.
+
+Strong growth of Data-centers market in Asia was offset by softer
+trends in North America and to lower extent in Western Europe.
+
+2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 1 73
+
+4
+
+
+--- Page 3 ---
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+> 2. Review of the consolidated
+financial statements
+
+Review of business and consolidated statement of income
+
+Changes in the scope of consolidation
+
+Acquisitions
+
+Schneider Electric finalized on March 28, 2013, the acquisition of
+100% of Electroshield - TM Samara, further to the 50% acquired in
+October 2010, after obtaining the requisite regulatory approvals in
+Russia. Electroshield - TM Samara is one of the leading Russian
+players in medium voltage. The cumulative price for 100% of equity
+is RUB 20.4 billion (about EUR510 million) with net debt of zero as
+of today. As agreed, the second half of the equity was acquired on
+March 28, 2013 at the same value paid for the first half in
+October 2010. Previously it was accounted under the equity
+accounting method. It is fully consolidated since April 1, 2013 in
+the segment Infrastructure.
+
+Since then, Electroshield - TM Samara is consolidated with full
+consolidated method.
+
+Acquisitions and disposals that took place in 2012 and
+that had an impact on the 2013 financial statements *
+
+M&C Energy Group has been acquired during financial year 2012
+and consolidated from June 15, 2012. Its consolidation on a
+full-year basis for financial year 2013 had a scope effect compared
+to financial year 2012.
+
+Changes in foreign exchange rates
+
+Changes in foreign exchange rates relative to the euro had a
+material impact over the year. This negative effect amounts to
+EUR879 million on consolidated revenue and to EUR233 million on
+Adjusted EBITA”.
+
+Revenue
+
+On December 31, 2013, the consolidated revenue of Schneider
+Electric totaled EUR23,551 million, a decrease of 1.6% at current
+scope and exchange rates compared to December 31, 2012.
+
+This variance breaks down into an organic increase of 0.4%, a
+contribution of acquisitions net of disposals of 1.7%, mainly due to
+Electroshield, and a negative exchange rate effect of 3.7%.
+
+Changes in revenue by operating segment
+
+The Partner business generated revenues of EUR8,476 million, or
+36% of the consolidated total. This represents a decrease of -3.0%
+on a reported basis and +0.2% on a like-for-like basis. The
+Product business was slightly up, supported by continued
+investment in the residential market in the United States, overall
+good performance in China and fast-growing mid-market offers in
+new economies. The sluggish economy in Europe and the slow
+construction market in Australia weighed on performance. The
+Solution business declined, impacted by high comparables in the
+Middle East and difficulties in the renewable market in Western
+Europe, while data center projects in North America recorded
+growth.
+
+The Infrastructure business generated revenues of
+EURS5,728 million, or 24% of the consolidated total. This
+represents an increase of +6.7% on a reported basis and +1.2%
+on a like-for-like basis. The Product business was up slightly, as
+the good performance of secondary distribution products offset
+the decline of primary MV components. The Solution business
+grew despite continued weak utility investment in Western Europe,
+mainly driven by the success of installed base and advanced
+services across regions, demand in the Oil & Gas segment in
+Australia and in the data center segment in North America.
+
+* Correspond to the dates on which the Group gained control of the acquired companies.
+(1) Adjusted EBITA is EBITA before restructuring costs and before other operating income and expenses, which includes acquisition, integration and
+
+separation costs
+
+174 2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 4 ---
+
+The Industry business generated revenues of EUR4,311 million,
+or 18% of the consolidated total. This represents a decrease of
+-3.8% on a reported basis and an increase of +1.3% on a
+like-for-like basis. The product business was up slightly, reflecting
+good demand from OEMs (machine manufacturers) across all
+regions after a soft start in mature countries in the first half. The
+solution business posted good growth, driven by the success of
+SoMachine OEM solutions and installed base services.
+
+The IT business generated revenues of EUR3,442 million, or 15%
+of the consolidated total. This represents a decrease of -6.4% ona
+reported basis and -1.4% like-for-like basis, with mixed trends
+between Products and Solutions. The Product business grew,
+
+Gross profit
+
+Gross profit decreased from EUR9,057 million for the year ended
+December 31, 2012 to EUR8,891 million for the year ended
+December 31, 2013, or -1.8%, the performance being weighed
+down by negative scope and currency effect. As a percentage of
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS.
+
+supported by the success of Luminous and sustained demand for
+critical power in some new economies. The Solution business
+declined, as North America experienced slow project activity for
+small to mid-sized data centers and demand in Western Europe
+was soft.
+
+The Buildings business generated revenues of EUR1,594 million,
+or 7% of the consolidated total. This represents a decrease of
+-5.2% on a reported basis, while organic growth was flat at -0.2%.
+Products declined due to the continuing challenging external
+environment. Solutions business was up driven by services growth
+that offset the decline of building management systems, impacted
+by low public investments in mature countries.
+
+revenues, gross profit remained stable at 37.8% in 2012 and 2013
+thanks to the industrial productivity that was the key driver along
+with positive pricing for the organic improvement despite a low
+volume environment and unfavorable mix effect.
+
+Support Function Costs: Research and development and selling,
+
+general and administrative expenses
+
+Research and development expenses, excluding capitalized
+development costs and development costs reported as cost of
+sales, increased by 5.5% from EURS507 million for the year ended
+December 31, 2012 to EURS535 million for the year ended
+December 31, 2013. As a percentage of revenues, the net cost of
+research and development increased to 2.3% of revenues for the
+year ended December 31, 2013 (2.1% for the year ended
+December 31, 2012).
+
+Total research and development expenses, including capitalized
+development costs and development costs reported as cost of sales
+(see note 4 to the Audited Consolidated Financial Statements) increased
+by 8.2% from EUR1,058 million for the year ended December 31, 2012
+to EUR1,145 million for the year ended December 31, 2013. As a
+percentage of revenues, total research and development expenses
+increased to 4.9% for the year ended December 31, 2013 from 4.4%
+for the year ended December 31, 2012.
+
+In 2013, the net effect of capitalized development costs and
+amortization of capitalized development costs amounts to
+EUR179 million on operating income (EUR153 million in 2012).
+
+Other operating income and expenses
+
+For the year ended December 31, 2013, other operating income
+and expenses amounted to a net income of EUR73 million,
+including costs linked to acquisitions for EUR52 million, a
+EUR173 million gain on the curtailment of employee benefit plans
+in the U.S., in France and in Norway and miscellaneous other
+operating incomes and expenses amounting to a net expense of
+EUR48 million. Costs linked to acquisitions are acquisition,
+integration and separation costs on 2013 acquisitions, notably
+Electroshield - TM Samara and acquisition costs linked to Invensys
+(see note 30, Post-closing events). Net other operating expense
+includes mainly provisions for litigation or claims and gain on
+disposal of fixed assets.
+
+Selling, general and administrative expenses decreased by 1.8%
+from EURS5,035 million for the year ended December 31, 2012 to
+EUR4,944 million for the year ended December 31, 2013. As a
+percentage of revenues, selling, general and administrative
+expenses remained stable at 21.0% for both 2013 and 2012, as
+operational efficiency had compensated most of investments.
+
+Combined, total support function costs, that is, research and
+development expenses together with selling, general and
+administrative costs, totaled EUR5,479 million for the year ended
+December 31, 2013 compared to EUR5,542 million for the year
+ended December 31, 2012, a decrease of 1.1%. Consequently to
+the investments in research and development expenses and
+commercial initiatives for new economies and services, in line with
+the strategic plan, our support functions costs to sales ratio
+increased from 23.1% for the year ended December 31, 2012 to
+23.3% for the year ended December 31, 2013.
+
+For the year ended December 31, 2012, other operating income
+and expenses amounted to a net expense of EUR10 millon,
+including costs linked to acquisitions for EUR52 million, a
+EUR21 million gain on the curtailment of a U.S. employee benefit
+plan and miscellaneous other operating incomes and expenses
+amounting to a net of EUR21 million. Costs linked to acquisitions
+are acquisition, integration and separation costs on 2011 and 2012
+acquisitions, notably Telvent and M&C Energy Group. Net other
+operating income includes mainly reversal of provisions for litigation
+or claims that expired on December 31, 2012.
+
+2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+175
+
+4
+
+
+--- Page 5 ---
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+4
+
+Restructuring costs
+
+For the year ended December 31, 2013, restructuring costs amounted to EUR176 million compared to EUR164 million for the year ended
+December 31, 2012. These costs related to industrial and support functions restructurings.
+
+EBITA and Adjusted EBITA
+
+We define EBITA as earnings before interest, taxes and
+amortization of purchase accounting intangibles. EBITA comprises
+operating profit before amortization and impairment of purchase
+accounting intangible assets and before goodwill impairment.
+
+We define adjusted EBITA as EBITA before restructuring costs and
+before other operating income and expenses, which includes
+acquisition, integration and separation costs.
+
+Adjusted EBITA amounted to EUR3,412 million for the year ended
+December 31, 2013, compared to EUR3,515 million for the year
+ended December 31, 2012, representing a decrease of 2.9%, due
+
+to negative currency effect of EUR233 million that offset high
+industrial productivity. As a percentage of revenue, adjusted EBITA
+decreased from 14.7% for the year ended December 31, 2012 to
+14.5% for the year ended December 31, 2013, only due to
+negative currency and scope effects.
+
+EBITA decreased by 1.0% from EUR3,341 million for the year
+ended December 31, 2012 to EUR3,309 million for the year ended
+December 31, 2013, mainly linked to the decrease of adjusted
+EBITA. As a percentage of revenue, EBITA increased to 14.1% in
+2013 compared with 14.0% in 2012.
+
+EBITA and Adjusted EBITA by business segment
+
+The following table sets out EBITA and adjusted EBITA by business segment:
+
+Full year 2013
+
+Partner Infrastructure
+
+(in millions of euro)
+
+Revenue 8,476 5,728
+Adjusted EBITA* 1,801 560
+Adjusted EBITA (%) 21.2% 9.8%
+Other operating income
+
+and expense 53 (17)
+Restructuring costs (74) (59)
+EBITA 1,780 484
+EBITA (%) 21.0% 8.4%
+
+Corporate
+
+Industry IT Buildings costs
+4,311 3,442 1,594 - 23,551
+833 650 94 (526) 3,412
+19.3% 18.9% 5.9% - 14.5%
+35 (5) 9 (2) 73
+(22) (7) (12) (2) (176)
+846 638 91 (530) 3,309
+19.6% 18.5% 5.7% - 14.1%
+
+* Adjusted EBITA: EBITA before Restructuring costs and before Other operating income and expenses (of which Costs of acquisition,
+
+integration and separation).
+
+Full year 2012
+
+Partner Infrastructure
+
+(in millions of euro)
+
+Revenue 8,738 5,366
+Adjusted EBITA* 1,813 575
+Adjusted EBITA (%) 20.7% 10.7%
+Other operating income and
+
+expense 17 (6)
+Restructuring costs (84) (32)
+EBITA 1,746 537
+EBITA (%) 20.0% 10.0%
+
+Corporate
+
+Industry IT Buildings costs
+4,483 3,677 1,682 - 23,946
+823 698 107 (501) 3,515
+18.4% 19.0% 6.4% - 14.7%
+(2) (3) (3) (13) (10)
+(21) (4) (12) (11) (164)
+800 691 92 (525) 3,341
+17.8% 18.8% 5.5% 14.0%
+
+* Adjusted EBITA: EBITA before Restructuring costs and before Other operating income and expenses (of which Costs of acquisition,
+
+integration and separation).
+
+1 76 2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+
+--- Page 6 ---
+
+Partner business recorded an adjusted EBITA margin of 21.2%
+for the year ended December 31, 2013, up 0.5% compared
+to 20.7% for the year ended December 31, 2012, due to good
+industrial productivity.
+
+Infrastructure business recorded an adjusted EBITA margin of
+9.8% for the year ended December 31, 2013, down 0.9%
+compared to 10.7% for the year ended December 31, 2012,
+impacted by one-off charges from delays in project execution and
+difficulties in public transportation business in Spain.
+
+Industry business recorded an adjusted EBITA margin of 19.3%
+for the year ended December 31, 2013, up 0.9% compared to
+18.4% for the year ended December 31, 2012, thanks to positive
+pricing and good control of commercial costs.
+
+Operating income (EBIT)
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS.
+
+IT business reported an adjusted EBITA margin of 18.9% for the
+year ended December 31, 2013, down 0.1% in line with 19.0%
+margin for the year ended December 31, 2012, at all time high
+level.
+
+Buildings business recorded an adjusted EBITA margin of 5.9%
+for the year ended December 31, 2013, down 0.5% compared to
+6.4% for the year ended December 31, 2012, due to low volume
+in mature markets in the first half and unfavorable mix.
+
+Corporate costs amounted to EUR526 million for the year ended
+December 31, 2013 or 2.2% of Group revenues, a similar level as
+in the year ended December 31, 2012 (2.1% of Group revenues
+or EUR501 million).
+
+Operating income (EBIT) increased from EUR2,866 million for the
+year ended December 31, 2012 to 3,091 million for the year ended
+December 31, 2013, representing an increase of 7.9% linked to
+the non-recurrence of a goodwill impairment on Buildings CGU of
+EUR250 million (before tax effect) recorded in 2012. Excluding this
+
+Net financial income/loss
+
+item, amortization of intangibles linked to business combinations
+decreased by EUR6 million (EUR218 million on the year ended
+December 31, 2013 compared to EUR224 million on the year
+ended December 31, 2012).
+
+Net financial loss amounted to EUR483 million for the year ended
+December 31, 2013, compared to EUR446 million for the year
+ended December 31, 2012 (restated for the application of IAS 19
+Revised disclosed in note 1.2 of the consolidated financial
+statements). Within the net financial loss, the cost of net financial
+debt decreased from EUR349 million for year ended December 31,
+2012 to EUR324 million for year ended December 31, 2013 thanks
+
+Tax
+
+to a lower average interest rate. The higher net financial loss is
+mainly linked to the change in other financial incomes and costs,
+from a net expense of EUR97 million for year ended December 31,
+2012 to a net expense of EUR159 million for year ended
+December 31, 2013. This is mainly due to a EURSO million
+impairment of NVC Lighting investment described in note 15 of the
+consolidated financial statements.
+
+The effective tax rate was 25.5% for the year ended December 31,
+2013, increasing compared to 22.9% for the year ended
+December 31, 2012 (restated for the application of IAS 19 Revised
+disclosed in note 1.2 of the consolidated financial statements).
+However, excluding the EURS50 million one-off impairment of NVC
+
+Share of profit/(losses) of associates
+
+investment that triggered no tax effect, the effective tax rate was
+limited to 25.0%. The corresponding tax expense increased from
+EUR554 million for the year ended December 31, 2012 to
+EUR665 million for the year ended December 31, 2013.
+
+The share of profit of associates amounted to EUR22 million for the
+year ended December 31, 2013, compared to EUR34 million for
+the year ended December 31, 2012. From April1, 2013,
+Electroshield - TM Samara in Russia is fully consolidated in
+
+Non-controlling interests
+
+Schneider Electric consolidated financial statements and thus has
+not contributed anymore to share of profit of associates whereas
+she was contributing on a 12 months basis in 2012 when it was
+consolidated through equity method.
+
+Minority interests in net income for the year ended December 31, 2013 totaled EUR77 million, compared to EUR87 million for the year
+ended December 31, 2012. This represented the share in net income attributable, in large part, to the minority interests of certain Chinese
+
+companies.
+
+2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+177
+
+4
+
+
+--- Page 7 ---
+
+BUSINESS REVIEW
+REVIEW OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+Profit for the period
+
+Profit for the period attributable to the equity holders of our parent company amounted to EUR1,888 million for the year ended
+December 31, 2013, that is a 4.1% increase over the EUR1,813 million profit for the year ended December 31, 2012 (restated for the
+application of IAS 19 Revised disclosed in note 1.2 of the consolidated financial statements).
+
+Earnings per share
+
+Earnings per share increased to EUR3.43 for the year ended December 31, 2013 from EUR3.34 for the year ended December 31, 2012
+(restated for the application of IAS 19 Revised disclosed in note 1.2 of the consolidated financial statements).
+
+Consolidated cash-flow
+
+Operating Activities
+
+Net cash provided by operating activities before changes in
+operating assets and liabilities reached EUR2,673 million for the
+year ended December 31, 2013, down 4.6% compared to
+EUR2,802 million for the year ended December 31, 2012, and
+represented 11.3% of revenue in 2013 compared with 11.7%
+in 2012.
+
+Change in working capital requirement generated EUR228 million
+in cash in the year ended December 31, 2013, compared to
+EUR1 million in consumption in the year ended December 31,
+2012, with continuing operational efficiency actions.
+
+In all, net cash provided by operating activities increased 3.6%
+from EUR2,801 million in the year ended December 31, 2012 to
+EUR2,901 million in the year ended December 31, 2013.
+
+Investing Activities
+
+Net capital expenditure, which included capitalized development
+projects, decreased by 0.6% to EUR714 million for the year ended
+December 31, 2013, compared to EUR719 million for the year
+ended December 31, 2012, and represented 3.0% of revenues.
+
+1 78 2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC
+
+Our acquisitions represented a cash outflow, net of cash acquired,
+of EUR294 million for the year ended December 31, 2013,
+corresponding mainly to Electroshield - TM Samara, compared to
+EUR242 million in the year ended December31, 2012
+corresponding partially to M&C Energy Group.
+
+The EUR121 million proceeds from sale of financial assets in 2012
+corresponded to the proceeds net of fees of the sale of AXA
+shares in September 2012.
+
+Financing Activities
+
+The bond issuance of EUR600 million corresponds to a
+EUR600 million bond issue in September 2013 due 2021 as part
+of the EMTN program. The Group reimbursed two bonds in 2013
+for EUR587 million.
+
+The net increase in other financial debts amount to
+EUR1,066 million during the year ended December 31, 2013,
+compared to a decrease of EUR585 million during the year ended
+December 31, 2012. The dividend paid by Schneider Electric was
+EUR1,025 million the year ended December 31, 2013, compared
+with EUR919 million the year ended December 31, 2012.
+
+
+--- Page 8 ---
+
+BUSINESS REVIEW
+REVIEW OF THE PARENT COMPANY FINANCIAL STATEMENTS,
+
+> 3. Review of the parent company
+financial statements
+
+Schneider ElectricSA posted total portfolio revenues of
+EUR10 million in 2013 compared with EUR372 million the previous
+year. Schneider Electric Industries SAS, the main subsidiary, did
+not pay dividends in 2013 compared with EUR300 million dividend
+paid in 2012. Interest expense net of interest income amounted to
+EUR158 million versus EUR147 million the year before.
+
+Current loss amounted to EUR165 million in 2013 compared to a
+current income of EUR207 million in 2012.
+
+Net loss stood at EUR133 million compared with a net income of
+EUR225 million in 2012.
+
+Equity before appropriation of net profit amounted to
+EUR10,308 million at December 31, 2013 versus
+EUR11,229 million at the previous year-end, after taking into
+account 2013 loss, dividend payments of EUR1,024 million and
+share issues in an amount of EUR280 million.
+
+> 4. Review of subsidiaries
+
+Schneider Electric Industries SAS
+Revenue totaled EUR3.5 billion in 2013 (EUR3.6 billion in 2012).
+
+The subsidiary posted an operating loss of EUR233 million in 2013 compared with an operating loss of EUR69 million in 2012.
+Net profit amounted to EUR948 million in 2013 compared with EUR1,061 million in 2012.
+
+> 5. Outlook
+
+Recent trends indicate that North America should continue to grow
+though the first quarter would be impacted by severe weather.
+Western Europe is showing initial signs of stabilization with
+potential for improvement in the second half. End-market trends in
+China continue to be solid. Uncertainty remains in several new
+economies due to currency volatility.
+
+The 2013 proforma adjusted EBITA margin including the last 12
+months of Invensys* to September 2013 and the full consolidation
+of Electroshield - TM Samara is ~14.0%.
+
+* Without Appliance alvision.
+
+Based on current market conditions, the Group targets for 2014:
+
+© low single-digit organic growth in revenue;
+
+e 0.4 pt to 0.8 pt improvement of the adjusted EBITA margin vs.
+the 2013 proforma level excluding the currency impact.
+
+The negative currency impact is currently estimated at ~0.4 pt,
+
+with most of the impact concentrated in H1.
+
+2013 REGISTRATION DOCUMENT SCHNEIDER ELECTRIC 179

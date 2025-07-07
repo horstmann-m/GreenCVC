@@ -1,0 +1,2535 @@
+
+
+--- Page 1 ---
+
+Who
+we are
+
+We responsibl
+
+create si
+
+ams OSRAM is a global leader in optical
+solutions with a focus on sensing and
+lighting technologies. We are known for our
+imagination, deep engineering expertise
+and worldwide industrial manufacturing
+capacities. We imagine radically new appli-
+cations that make life better for everyone.
+Using the full spectrum of light, we capture,
+analyze and visualize the information our
+environment provides. We enable humans
+and machines to comprehend and interact
+with the world around us: to make journeys
+safer, medical diagnoses more accurate
+and everyday moments of communication
+a richer experience,
+
+Based on our vision to become the un-
+contested leader in optical solutions, we
+continuously advance our technologies in
+sensing, illumination and visualization. We
+offer what we believe to be the broadest
+portfolio of optical solutions and technol-
+ogies: from high-quality light emitters and
+optical components to micro-modules, light
+sensors, ICs and the related software and
+algorithms.
+
+Our deep system understanding, paired
+with our unique expertise in the areas of
+emitting, directing, sensing and processing
+light, makes us the partner of choice for
+many industries. We enable our customers
+in the automotive, consumer, healthcare
+and industrial sectors to create innovative,
+market-changing applications and thus
+maintain their competitive edge.
+
+With a view to creating technologies for
+breakthrough applications, we continue to
+add to our innovation roadmap through
+significant R&D investments and strategic
+acquisitions, strengthening our strong IP
+position with more than 15,000 patents. We
+continually invest in our leading semicon-
+ductor expertise and world-class manufac-
+turing network to live up to our reputation
+of reliably bringing top quality to the world
+cat scal
+
+By systematically executing our strategy
+to gain innovation and technology leader-
+ship, we make our vision come true wh
+ensuring long-term profitable growth for
+‘our company and its stakeholders.
+
+15
+
+
+--- Page 2 ---
+
+(Our employees are the foundation for our
+company’s long-term success. Thanks to
+their unprecedented support, we have been
+able to realize significant integration steps
+for our company during a global pandem-
+ic. Around 24,000 experts globally bring
+passion to innovation, day by day. We work
+together as a unified team in a truly global
+network to anticipate the future and create
+market-leading solutions for our customers.
+
+We believe our deep engineering expertise
+along the entire value chain of optical solu-
+tions is unparalleled in the industry today.
+Inspired by our proud heritage of pioneer-
+ing innovation and our ambition to set the
+benchmark in our markets, we are able to
+attract the best talent around the globe.
+
+To position ams OSRAM as an employer of
+choice, we are investing heavily in a wide
+range of communication and marketing
+activities.
+
+To support our corporate culture and foster
+appreciative and respectful relationships,
+we build on a set of clear core values and
+leadership principles. We imagine the im-
+possible and make it happen.
+
+We offer a dynamic, engaging and positive
+work atmosphere and exciting opportu
+nities for both personal and professional
+development in a highly diverse interna-
+tional environment. A variety of employee
+communities, self-managed networks and
+mentorships, combined with our extensive
+ams OSRAM University, support our com-
+mitment to lifelong learning.
+
+We continuously and systematically ad-
+dress the development of our employees,
+based on regular and structured dialog be-
+tween employees and managers, supported
+by a comprehensive training program at
+‘our ams OSRAM University.
+
+Treating our employees with respect and
+appreciation also includes fair and perfor-
+mance-related compensation. Diversity and
+inclusion are an integral part of our com-
+pany, based on along history. They actively
+shape our global business. International
+customer and supplier relationships require
+cultural competence and flexibility, and
+diverse teams bring a high level of innova-
+tion.
+
+We are one company, one team - valued by
+customers and ready to shape the technol-
+‘ogy trends of tomorrow.
+
+v7
+
+
+--- Page 3 ---
+
+22
+
+We are a worldwide leader in optical
+technologies serving the entire value chain
+of optical solutions. From product idea to
+tangible concept through to the manufac-
+turing process, we enable our customers to
+create ground-breaking solutions for the
+automotive, consumer, industrial and med-
+ical markets. What makes us unique in our
+opinion is our broad technology spectrum,
+since we cover the emission of light as well
+as its detection through sensing and intel-
+ligent processing. Our innovative products
+and solutions range from light emitters,
+
+optical components and micro-modules to
+light sensors, related ICs, algorithms and
+software. They are designed for best-in-
+class performance, size, cost and energy
+efficiency.
+
+We are experts in the development and
+integration of a wide range of optical
+solutions, from single components through
+to complex systems. This enables us to be
+market and innovation leaders and clearly
+differentiate ourselves from the competition.
+
+
+
+--- Page 4 ---
+
+24
+
+Automotive: Setting the benchmark as a trusted innovation partner
+
+Advanced technologies and new mobility
+concepts are transforming the automo-
+tive industry, making vehicles increasingly
+safe and smart. As a long-time innovation
+leader in semiconductor technologies, we
+play a crucial role in the ongoing redefini-
+ion of mobility - from cars to two-wheel-
+ers and beyond. We are able to turn ideas
+into breakthrough technologies, with the
+highest quality and reliability. This makes
+us a trusted partner for leading automotive
+manufacturers and their suppliers.
+
+Our cutting-edge solutions for interior and
+exterior lighting and sensing add real value
+to road safety and comfort. We enable
+automotive manufacturers worldwide to
+create intelligent lighting and visualization
+solutions, realize advanced driver-assis-
+tance systems (ADAS) and pave the way
+
+to automated and autonomous driving,
+based on our pioneering technologies such
+as LIDAR and energy-efficient, miniaturized
+products
+
+Our innovative matrix LED for dynamic
+headlights caters to the trend toward intel-
+gent driving lights and enables the light
+beam to be instantly adapted to the traffic
+situation. Its ability to visualize information,
+ke projecting information and warning
+symbols onto the road, assists the driver
+and enables vehicle-to-everything (V2X)
+communication.
+
+Automated cars are expected to increas-
+ingly transform into living spaces. High-res-
+olution displays, smart surfaces, seamless
+human-machine interaction and adaptable
+ambient lighting solutions are integrated
+into the car of the future. Our optical solu-
+tions enable high levels of convenience and
+more attractive user experiences with high
+energy efficiency.
+
+We provide the key technologies to improve
+safety for drivers and passengers, such as
+interior sensor technology for driver moni-
+toring and different warning systems.
+
+With our technologies, we are shaping au-
+tomotive mobility, making it safer, smarter
+and more comfortable.
+
+Making light
+intelligent
+
+Intelligent forward lighting brings car safety to another level. In the future,
+
+multifunctional, intelligent headlamps will illuminate the road and com-
+municate with the environment at the same time - this progress is due to
+
+cutting-edge semiconductor technology.
+
+Our Eviyos LED represents our innovation leadership in highly pixelated
+
+ight sources with low energy and space needs. Its more than 25,000 indi-
+vidually controllable pixels make it possible to adapt the light beam to the
+driving situation, with optimum illumination of the road and without any
+glare. Not only does it provide for permanently glare-fee high beam light, it
+also brings HD-quality projections onto the road. Car-to-driver communi-
+cation, such as projections of warming signals or welcome messages, can
+be realized with a single LED light source.
+
+
+--- Page 5 ---
+
+26
+
+Consumer: Creating inspiring user experiences with pioneering
+
+technologies
+
+Smartphones, computers, tablets and
+wearables are constant companions that
+connect us to the world, making our lives
+easier and safer while allowing us to inter-
+act, capture moments and create fun and
+excitement.
+
+ams OSRAM’s advanced sensing and
+ight-emitting technologies actively shape
+the way we capture and interact with the
+world, Our portfolio compiles several highly
+relevant optical technologies, complement-
+ed by IC hardware capabilities, custom
+algorithms and proprietary intellectual
+property. They are essential for applica-
+tions such as secure identification, bright
+full-screen displays and brilliant images for
+mobile, portable and computing devices.
+Together with our customers, we anticipate
+the future. Across a broad range of mobile
+applications, we enable outstanding user
+‘experiences on smartphones and wearables
+‘or computing devices. Our miniaturized
+solutions enable multiple AR/VR function-
+
+s, such as near-to-eye projection,
+eye-tracking, proximity sensing and gesture
+
+Pictures say more than words; they create
+universes. Our lighting and sensing tech-
+nologies improve the quality of images and
+ization. They enable accurate
+
+ht, color and proximity sensing
+solutions to operate behind OLED displays.
+We are a frontrunner in the industrializa-
+tion of emerging innovation areas such as
+micro-LEDs for next-generation displays.
+Micro-LEDs that are smaller than 50um are
+expected to be one of key growth drivers
+for the display industry going forward. They
+offer significant advantages over LCD and
+OLED displays in aspects such as energy
+consumption, brightness and contrast. ams.
+OSRAM is in a strong position to become
+the number one micro-LED player in the
+world, We have the capabilities and a clear
+roadmap to deliver the demanding perfor-
+mance of micro-LED products. High-volume
+8” capacity supporting mass production of
+micro-LED is currently planned to com-
+mence ramp-up in the course of 2024.
+
+With our expertise, we create inspiring user
+‘experiences in next-generation ap}
+tions, making digital lives easier, safer and
+more ful
+
+c-
+
+Small
+is beautiful
+
+AR/VR applica sumer markets are bound to take
+off - boosted by the rising metaverse. Their success depends on high
+accuracy and miniaturization to
+
+advanced functionalities can only be re
+
+spanning from LED and laser light sources to 3D sensors all the
+proximity-, eye- and position-tracking sensors. Our latest laser
+
+targeted for near-to-eye projection, has
+
+form factor of only 0.7 cm’
+
+of the ct
+
+
+
+--- Page 6 ---
+
+Light on,
+germs gone
+
+leaner, safer environments. UV-C LED technology
+changing the way we clean air, surfaces and water in industrial, consum=
+er and automotive applications - and beyond. Our distinctive portfolio
+nt UV-C emitters and spectral sensors with highly
+accurate presence detectors. We create innovations to make UV treat-
+nd accessible for everyone, everywhere. UV-C
+public
+taps to purify water or ly automated
+
+ments. M
+
+Digitalization and 5G are revolutionizing
+industrial automation by enabling ma-
+chines to interact with each other as wel
+
+as with humans. For machines to sense
+their environment, they need high-perfor-
+mance sensor and light-emitting solutions.
+Our comprehensive technology portfolio of
+sensors, cameras and light emitters covers
+different market requirements: speed,
+power and accuracy as well as small form
+factors and cost efficiency.
+
+Our state-of-the-art products make indus-
+jal production faster and more efficient
+by enabling innovations ranging from
+advanced machine vision to predictive
+maintenance and secure human-machine
+interaction. From production lines to home
+appliances - our key technologies for 3D
+sensing, industrial X-ray and global shutter
+imaging for inspections make machines
+and robots smarter and thus more pow-
+erful. We support safety solutions for
+collaborative environments, from col
+avoidance systems to unguarded working
+environments for mobile robots and AGVs
+(automatically guided vehicles) in factories
+or at home. Our precise emitter and sensor
+solutions for AR/VR applications boost the
+next phase of Industry 5.0 with advanced
+human-machine interaction.
+
+As a market leader in horticultural /agricul-
+tural lighting, we create the perfect light
+environment for indoor plant growth, like
+indoor or vertical farming. We combine pio-
+
+neering wavelength-optimized LEDs across
+the relevant color spectrum with spectral
+sensing technologies for cutting-edge
+growth stimulation and precise condition
+Monitoring. Targeted lighting solutions also
+minimize fertilizer use and reduce energy
+costs.
+
+We use our distinctive product portfolio of
+highly efficient UV-C LED emitters, spectral
+sensors and accurate presence detectors
+to make our environment safer. And we
+enable new functionalities for easy, safe
+and affordable UV treatment in a variety of
+applications - embedded in standard light
+sources to clean public areas, transport or
+workplaces.
+
+Our comprehensive lighting portfolio
+includes spectral and ambient light sen-
+sors alongside innovative LEDs - perfectly
+matching the various industrial lighting
+needs. Miniaturized LED components
+provide our customers with endless de-
+
+In poss ies, greater cost efficiency,
+‘outstanding performance and maximum
+accuracy. Our portfolio covers the light
+spectrums required for consistent and pre-
+cise high-performance work processes.
+
+With our outstanding portfolio and applica-
+tion expertise, we make industrial process-
+es smart and secure.
+
+29
+
+
+--- Page 7 ---
+
+More
+with less
+
+Semiconductor technology brings novel features to medical imaging.
+
+Photon-counting CT technology will enable advanced clinical applications
+
+while significantly reducing radiation dose, Our unique imaging sensing
+frared to vi
+X-rays. Photon-counting detector technology converts X-ray photons
+
+solutions cover the spectrum from
+
+le light all the way to
+
+directly into a charge which can be quantified and processed immedi-
+ately by the readout electronics - with photon accuracy. This innovative
+approach reduces the data conversion process considerably and enables
+our customers fo create CT data at a very high spatial resolution, with an
+improved contrast-to-noise ratio. At the same time, it reduces the radiation
+dose and generates specific information on the radiation spectrum. We of-
+
+fer deep engineering expertise for the pioneering technologies of tomorrow.
+
+Medical: Delivering miniaturized solu
+
+Awareness of personal health and fitness is
+steadily growing, boosted by the COVID-19
+pandemic. Increasing digitization and
+diagnostics at the point of care are driving
+professional and personal healthcare and
+‘opening up completely new functionalities.
+
+Co-creating with customers requires exten-
+sive experience and a deep understanding
+of health application areas. We develop key
+technologies for accessible, precise and
+efficient diagnostics and healthcare sys-
+tems. Our advanced sensing and lighting
+products offer the highest levels of accu-
+racy, simplify processes and create new
+use cases, for example in medical imaging,
+where we enable best-in-class digital X-ray
+and CT images, as well as invasive exam-
+ations with the ultra-compact NanEye
+camera module.
+
+ions with high precision
+
+Asa leading supplier of vital sign monitor-
+ing solutions, we pioneer key technologies
+spanning from innovative biometric optical
+sensor solutions to components for fitness
+tracking and health monitoring applica-
+
+tions, with and without medical supervision.
+
+Affordable solutions for remote monitoring
+and point-of-care diagnostics help reduce
+doctor's appointments and expensive
+laboratory testing. By thinking outside the
+box, we were able to develop a small and
+cost-effective lateral flow-testing module
+based on spectral-sensing technology that
+is ideal for rapid, cloud-based readout
+solutions and that improves performance
+and reliability.
+
+Our products make treatment less invasive
+and healthcare more accurate, remote,
+‘affordable and individual
+
+31
+
+
+--- Page 8 ---
+
+74
+
+Group Management Report 2021
+
+1. Overview of the Economic Environment
+and the Past Financial Year
+
+Development of the semiconductor sector
+
+Despite the various Covid-19 waves around
+the world and their corresponding impact,
+demand in many end-markets remained
+healthy in 2021. The global semiconduc-
+tor market increased by 26% in 2021 to
+USD 556bn compared to USD 440bn in the
+year 2020.
+
+The growth was driven by sensors, MOS
+logic & memory, analog IC and discrete
+semiconductors which showed growth rates
+above the average growth of the semicon-
+ductor market of 25%. For ams OSRAM,
+important end markets include the auto-
+motive market, consumer devices such as
+smartphones or wearables, and industrial
+and medical technology. Shipments in the
+global smartphone market increased by 3%
+in 2021 compared to a year-on-year decline
+of 7% one year ago. In the global wearable
+market, shipments increased by 23% (2020:
+28%). Global automotive car production
+
+Semiconductors
+
+The Semiconductors segment contributed
+the majority of group revenues last year
+from its automotive, consumer and indus-
+trial business areas, The Semiconductors
+automotive business is a global leader in
+automotive LED lighting for a wide range of
+exterior and interior lighting applications.
+This includes differentiated LED solutions
+
+" Quellen: WSTS, OMDIA, IDC.
+
+showed a slight year-on-year growth of
+2.5% in 2021 compared to a 16% decline in
+2020. Despite shortages for ICs in the semi
+conductor sector, the situation for optical
+semiconductors improved considerably giv-
+en additional demand from the build-up of
+inventories in the automotive and medical
+technology markets.
+
+Structure and development of the segments
+The business activities of the ams OSRAM
+group are presented in two segments,
+Semiconductors and Lamps & Systems. The
+business segment Semiconductors com-
+prises the group's semiconductor-related
+business in automotive, consumer, industri-
+al, and medical technology market areas.
+The business segment Lamps & Systems
+comprises the group's business related to
+lamps and lighting systems in automotive,
+industrial, and medical technology market
+areas.’
+
+for head lamps and other front lighting,
+rear lighting and other exterior lighting,
+and interior ambient lighting. In addition,
+the segment’s automotive business com-
+prises interior sensing, safety systems such
+‘as ADAS, and visualization technologies.
+Persistent market and supply chain im-
+balances in the global automotive indus-
+
+try created a highly demanding market
+environment through 2021. Despite this,
+
+the Semiconductors automotive business
+recorded a strong performance last year
+delivering very solid results across product
+areas. This performance was driven by a
+healthy backlog situation over the course of
+the year and efficient management of the
+automotive business’ supply chains in light
+of the market situation. Towards year-end,
+the market imbalances resulted in lower
+OEM production volumes which, together
+with related supply chain volatilities, had a
+negative effect on the segment’s automo-
+tive business.
+
+The Semiconductors consumer business is a
+major supplier of sophisticated sensing and
+optical solutions for smartphones and ad-
+ditional consumer devices serving leading
+OEMs. The business encompasses the areas
+of display management, 3D applications
+including world-facing camera enhance-
+ment and similar functions, ultra-compact
+proximity sensing, spectral and bio-sens-
+ing, and additional optical applications.
+The segment's consumer business faced
+
+a market share loss related to its position
+
+in the mobile device market last year. This
+development had a noticeable negative
+impact on group revenues in the second
+half when compared to the previous year's
+second half and the first half of 2021, The
+negative market share development result-
+ed in a lower utilization of related manu-
+
+Lamps and Systems
+
+The Lamps & Systems (L&S) segment pro-
+vided the remaining contribution to total
+group revenues last year. The automotive
+business of L&S comprises automotive
+lamps and illumination products including
+traditional automotive lighting technol
+‘ogies. As a leader in automotive lighting
+
+facturing capacity in the second half wi
+negatively affected the consumer business’
+profitability despite cost mitigation mea-
+sures. Effects related to this development
+have also continued into the current year.
+Moreover, the consumer business saw
+certain negative revenue effects caused by
+the supply chain imbalances in the semi-
+conductor sector. Taking into account the
+abovementioned developments and related
+impacts the consumer business neverthe-
+less achieved attractive overall results for
+full year 2021.
+
+The Semiconductors industrial and medical
+technology business performed very well
+last year. In the segment’s industrial area,
+the demand environment in established
+and emerging industrial lighting applica-
+tions markets developed positively over the
+course of the year with a more pronounced
+recovery in the second half. The horticulture
+lighting applications market showed strong
+demand momentum through the second
+half and continuing into the current year.
+ams OSRAM is the leading supplier of LED
+components for this attractive growth mar-
+ket. Other industrial markets such as imag-
+ing supported the segment’s performance.
+The Semiconductors medical technology
+business delivered overall healthy results
+driven by solid demand for medical imag-
+ing solutions such as computed tomogra-
+phy and digital x-ray.
+
+L&S serves OEMs as well as the automotive
+aftermarket in major geographic regions.
+lar to the Semiconductors automotive
+business, the L&S automotive business was
+also negatively impacted by last year's
+developments in the global automotive
+market including the continued market and
+
+75
+
+
+--- Page 9 ---
+
+76
+
+supply chain imbalances as well as reduced
+OEM production volumes. The L&S automo-
+tive business recorded a solid performance
+last year despite these effects. The OEM-re-
+lated business saw solid demand across
+product lines against the backdrop of the
+strained supply chain situation. Demand in
+the automotive aftermarket showed robust
+momentum in the seasonally important
+second half helping to drive overall results
+for the L&S segment. The other areas of the
+L&S business comprise a range of lighting
+products for various industrial, building-re-
+lated and medical applications. These areas
+delivered overall solid results as demand
+
+in a number of industrial and other mar-
+kets recovered over the course of last year.
+Other markets, in particular related to
+entertainment, remained heavily impacted
+by Covid-19 and the resulting decrease in
+demand for most of the year. Towards year-
+end these subdued markets started to show
+increasing signs of recovery.
+
+ams OSRAM is implementing a strategic
+re-alignment of its business portfolio as an-
+nounced. This includes the announced dis-
+posal of several businesses in the L&S seg-
+ment which belonged to the former OSRAM
+Digital (01) division. As part of this portfolio
+re-alignment two L&S business units were
+disposed of last year, Digital Systems North
+America for electronic lighting components
+such as drivers and ballast and Connected
+
+ing automa-
+tion, Both sale transactions were concluded
+in the third quarter. In a further portfolio
+re-alignment step the joint venture between
+OSRAM and Continental AG for automotive
+ting systems, which ams OSRAM had
+designated as non-strategic, was dissolved
+in the fourth quarter 2021 as planned. Both
+partners received their respective business
+activities back, as well as the assets creat-
+ed during the existence of the joint venture.
+The activities contributed by Continental
+AG were deconsolidated. A sale is being ex-
+amined for the business activities remain-
+ing at ams OSRAM.
+
+Inits operations, ams OSRAM was able
+to ensure high production volumes across
+its global manufacturing network despite
+‘operational challenges and changing re-
+strictions due to Covid-19. The health and
+safety of its employees is a clear priority for
+‘ams OSRAM and the group implemented a
+wide range of protective and risk-reduction
+measures globally which also helped to
+mitigate the impact of the pandemic and
+thereby supported the company’s business
+performance. At the same time, the group’s
+robust operational infrastructure was a key
+factor enabling ams OSRAM to successfully
+manage the very demanding market and
+supply chain environment throughout the
+past year.
+
+2. Business Results
+
+With regard to the following analysis of
+business performance, please note that, in
+fiscal year 2021, OSRAM Licht AG and its
+subsidiaries are included for the full fiscal
+year but, in fiscal year 2020, are included
+only for the second half of the year from
+
+2.1 Revenue
+
+In fiscal year 2021, consolidated revenue
+rose by 44% to EUR 5,038 million, com-
+pared with EUR 3,504 million in 2020. This
+crease was primarily due to the fact that
+OSRAM was consolidated for the full twelve
+months for the first time in fiscal year 2021,
+but only for six months from the date of
+
+ial consolidation in the previous year.
+The increase in revenue was partly offset
+by portfolio effects of EUR 86 million in
+connection with the disposal of companies,
+i.e. revenue that the sold OSRAM business
+units had contributed in the second half of
+2020 was not repeated in 2021. This related
+
+Revenue breakdown by segment
+
+the date of consolidation. This means that
+the results and the cash flows in the state-
+ment of cash flows for fiscal year 2021 can
+be compared with those for 2020 only to a
+limited extent.
+
+to the disposal of Digital Systems (DS) in
+North America and of Connected Business
+Applications (CBA) as well as to the winding
+up of OSRAM Continental.
+
+The Semiconductors segment contributed
+EUR 3,279 million (2020: EUR 2,605 million)
+to consolidated revenue, which equates
+
+to a share of 65% (2020: 74%). The Lamps.
+& Systems (L&S) segment contributed
+
+EUR 1,760 million (2020: EUR 900 million) to
+consolidated revenue, which equates to a
+share of 35% (2020: 26%).
+
+2021 _% of revenues
+
+2020 _%ofrevenues Change in %
+
+Semiconductors 3.29 65% 2,605 74% 26%
+Lamps & Systems 1,760 35% 900 26% +96%
+5,038 3504
+Lamps & Systems
+35%
+65% Semiconductors
+
+7
+
+
+--- Page 10 ---
+
+78
+
+The breakdown of revenue by region does
+not reflect the demand situation in the
+Company's target markets because rev-
+enue is assigned to a region on the basis
+of the location of the invoice recipient.
+
+Revenue breakdown by region
+
+Revenue in the North and South America
+region increased significantly year on year,
+in particular due to the revenue of the
+OSRAM companies being included for a full
+fiscal year for the first time.
+
+ions of EUR 2021 %of revenues 2020 %of revenues Change in %
+EMEA 1,415 28% 765: 22% 85%
+Americas 962 19% 521 15% 85%
+Asia / Pacific 2,663 53% 2,218 63% 20%
+5,038 3,504
+EMEA
+28%
+Asia / Pacific 53%
+19%
+Americas
+
+2.2 Earnings
+
+Gross profit increased to €1,440 million in
+fiscal year 2021, compared with €1,035 mi
+the previous year.
+
+Adjusted for acquisition-related expense,
+transformation costs, and expense for
+share-based compensation, the gross
+profit margin for the full fiscal year 2021 in-
+creased to 34%, compared with 33% in the
+previous year. The unadjusted gross profit
+margin, reported in accordance with IFRS,
+fell to 29%, compared with 30% in the previ
+‘ous year. The biggest drag on this item was
+impairment of EUR 151 million on property,
+plant, and equipment in connection with the
+loss of market share for certain consumer
+applications.
+
+Expressed as a percentage of revenue,
+spending on research and development
+\creased from 12% in the previous year
+
+to 13%, The absolute amount rose from
+EUR 423 million in the previous year to
+
+EUR 642 milion, primarily due to the effect
+of consolidating OSRAM. Selling, general
+and administrative expenses therefore
+increased too, from EUR 527 million in the
+previous year to EUR 745 million. Expressed
+as a percentage of revenue, they were on
+
+a par with the previous year at 15%. The
+long-term target for selling, general and
+administrative expenses going forward is
+7-9% of revenue.
+
+The operating result (EBIT), adjusted for
+acquisition-related expense, transformation
+costs, expense for share-based compen-
+sation, and the result from investments in
+associates and from the sale of a business,
+\creased by EUR 39 million year on year
+
+to EUR 502 million. Unadjusted EBIT rose
+
+fiscal year 2021, there were one-off effects
+recognized as an expense that were up by
+EUR 172 million year on year. Conversely,
+there were positive one-off effects totaling
+EUR 191 million arising from income on
+
+the winding up of OSRAM Continental, the
+increased valuation of LeddarTech Inc., and
+the sale-and-leaseback transaction relating
+toa property in Berlin, The one-off effects
+recognized as an expense in fiscal year
+2021 included impairment of EUR 151 mi
+lion on property, plant, and equipment in
+connection with the loss of market share for
+certain consumer applications.
+
+The net financial result improved from
+a net expense of EUR 217 million in the
+previous year to a net expense of EUR 198
+million. The prior-year figure had includ-
+
+ed one-off transaction costs of EUR 114
+million in connection with the funding of the
+
+acqui n of OSRAM. In 2021, there were
+higher interest expenses resulting from the
+increased average debt for the year and
+from currency translation effects caused, in
+particular, by the appreciation of the U.S.
+dollar against the euro.
+
+The income tax expense increased from
+EUR 10 million in the previous year to EUR
+31 million in fiscal year 2021. The current tax
+expense of EUR 48 million mainly resulted
+from foreign companies that were prof-
+itable due to the global transfer pricing
+system. There were countervailing deferred
+taxes with a total net effect of EUR 17 mi
+ion that included, in particular, income of
+EUR 25 million from the reversal of deferred
+tax liabilities resulting from acquisitions.
+
+In 2021, the net result improved to EUR -32
+million, compared with EUR -87 million in
+the previous year. As described above, this
+was mainly due to one-off income. There
+were also cost synergies, but these were
+partly offset by higher one-off restructuring
+and transformation expenses. The return
+‘on equity improved to -1% (2020: -3%); the
+retum on revenue also improved to -1%
+(2020: -3%).
+
+in millions of EUR 2021 2020 _Changein %
+Gross profit on revenues 1,440 1,085 13%
+Gross margin (IFRS) 29% 30%
+‘Gross margin (adjusted) 34% 33%
+EBITDA (IFRS) 957 718 +33%
+Operating result (EBIT, IFRS) 197 138 +43%
+EBIT margin (IFRS) 4% 4%
+(Operating result (EBIT, adjusted) 502 463 19%
+EBIT margin (adjusted) 10% 13%
+Financial resuit 198 218 19%
+Result before tax 4 80 19%
+Net result 32 7 163%
+Return on equity 1% 3%
+Return on revenues 1% 3%
+
+79
+
+
+--- Page 11 ---
+
+80
+
+The gross profit margin (adjusted) is based
+ongross profit adjusted for acquisition-re-
+lated expense, transformation costs, and
+expense for share-based compensation
+
+The operating result (EBIT, adjusted) and
+
+the EBIT margin (adjusted) are additionally
+adjusted for the result from investments in
+associates and from the sale of a business,
+
+2.3 Assets and Financial Position
+The balance sheet has a high ratio of
+non-current assets to total assets, which is
+common in the semiconductor industry. At
+the same time, the intangible assets reflect
+the significant acquisitions carried out in
+recent years. At 58%, the proportion of total
+assets accounted for by property, plant,
+and equipment and by intangible assets
+was virtually unchanged year on year (De-
+cember 31, 2020: 60%).
+
+Capital expenditure on non-current assets
+(CAPEX), which amounted to EUR 310 mi
+ion, was below the sum of EUR 760 million
+for depreciation, amortization, and impair-
+ment and equated to 6% of revenue (2020:
+5%). The ratio of non-current assets to eq-
+uity increased to around 56% at the end of
+fiscal year 2021, compared with 51% as of
+December 31, 2020. Non-current assets in-
+cluded deferred tax assets of EUR 182 mil-
+lion (December 31, 2020: EUR 165 million).
+
+Inventories rose from EUR 858 ion as
+of December 31, 2020 to EUR 938 milion,
+The rise was primarily due to the fact that
+inventories were increased for certain areas
+of production in the fourth quarter of 2021
+and, to a large extent, have already been
+turned into finished goods. This was a pre-
+cautionary measure taken to maintain the
+Company's ability to supply its customers
+in the event of a shortage of raw materi-
+als or restrictions resulting from potential
+
+which is included in the operating result
+(EBIT, IFRS).
+
+The acquisition-related expense includes
+depreciation and amortization of purchase
+price allocated assets as well as integra-
+tion, carve-out and acquisition-related
+costs.
+
+effects of the COVID-19 pandemic. Trade
+receivables increased to EUR 688 million as
+of December 31, 2021 (December 31, 2020:
+
+Assets classified as held for sale amounted
+to EUR 134 million and included the assets
+of Fluence Bioengineering, Inc. The assets
+classified as held for sale as of December
+31, 2020, which stood at EUR 48 million,
+had related to assets of OSRAM Continen-
+tal, which was sold to Continental at the
+start of October 2021.
+
+The decrease in property, plant, and equip-
+ment to EUR 1,606 million (December 31,
+2020: EUR 1,938 million) primarily resulted
+from the derecognition of property, plant,
+and equipment in connection with the
+sposal of areas of business and from
+impairment of EUR 151 million in connection
+with the loss of market share for certain
+consumer applications.
+
+The the financi
+item to EUR 147 million (December 31, 2020:
+EUR 25 million) was largely attributable,
+
+in an amount of EUR 123 million, to the
+reclassification of LeddarTech Ine. from an
+equity-accounted investment to an equi-
+
+ty investment measured at fair value in
+accordance with IFRS 9. ams OSRAM lost
+its significant influence over LeddarTech
+Ine. because it did not take up all of the
+
+available shares relative to its existing
+shareholding when the company carried
+out a capital increase.
+
+Financial liabilities declined by EUR 177 mil-
+lion to EUR 3,126 million, primarily due to
+the repayment of bank loans of EUR 166
+million, the repayment of promissory notes
+of EUR 117 million, and the buyback of con-
+vertible bonds with a carrying amount of
+EUR 73 million. This was partly offset by the
+taking out of bank loans of EUR 97 milion
+and by the effects of translating finan-
+
+cial liabilities denominated in US. dollars,
+whose carrying amount increased due to
+the appreciation of the U.S. dollar against
+the euro. The EUR 266 million decreas
+cash and cash equivalents caused net debt
+to rise slightly, from EUR 1,707 million as of
+December 31, 2020 to EUR 1,795 million as
+of December 31, 2021. The Group's equity
+\creased by EUR 122 million despite the
+negative result after tax. This was due
+
+to other comprehensive income totaling
+EUR 319 million that arose, in particular,
+‘on currency translation from U.S. dollars
+to euros in respect of foreign subsidiaries.
+The purchase of shares in OSRAM Licht AG
+reduced equity by EUR 58 million, while
+the obligation to pay future guaranteed
+compensation payments to OSRAM Licht
+AG's minority shareholders reduced equity
+by EUR 162 mi
+
+li s associated with assets clas:
+as held for sale amounted to EUR 40 mi
+and included the liabilities of Fluence Bio-
+engineering, Inc. The corresponding lial
+ities as of December 31, 2020, which stood
+at EUR 127 million, had related to liabilities
+of OSRAM Continental.
+
+ied
+
+jn
+
+For information on financial instruments
+and changes in equity, please refer to the
+disclosures in the notes to the consolidated
+financial statements.
+
+Assets in millions of EUR 20212020 Equity and liabilities 2021-2020
+Inventories 38 858 31263308
+Trade receivables 688 62 710 545
+Other current assets 1656 1.833 Otherlabi 2103 2,485
+Fixed assets 6180 6486 __—Provisions 556 605
+Deferred tax asset 162 165 __Sharehokers' equity 3150-3027
+Total assets 9,644 9,963 Total equity and lial 9644 9,963
+
+As a result of the increase in equity and
+simultaneous decrease in financial liabil-
+ies, the debt to equity ratio fell to 99%,
+
+compared with 109% a year earlier. At the
+same time, the equity ratio rose to 33%
+(2020: 30%).
+
+81
+
+
+--- Page 12 ---
+
+82
+
+Equity ratio 33% 30%
+Debt to equity ratio 9% 109%
+Equity to fixed assets ratio 56% 51%
+Net debt 1795 1,707
+
+These performance indicators are derived directly from the consolidated financial state-
+
+ments.
+2.4 Cash Flow
+
+Cash flows from operating activities in-
+creased to EUR 792 million in 2021, com-
+pared with EUR 707 million in 2020. This rise
+was only partly due to the improvement in
+earnings as the figure for fiscal year 2021
+contained significant non-cash income,
+primarily a sum of EUR 97 million resulting
+from the increased valuation of LeddarTech
+Inc. The figure for fiscal year 2021 also in-
+cluded net gains of EUR 70 million on sales
+of business activities and other non-current
+assets, whose impact on cash flow is shown
+in investing activities. There was a coun-
+tervailing effect from the EUR 180
+increase in depreciation, amortization,
+and impairment, which is included in the
+statement of cash flows in the reconcilia-
+tion from the result after tax to cash flows
+from operating activities. The main reason
+for the year-on-year increase in cash flows
+from operating activities was the decrease
+in working capital of EUR 57 million; in
+2020, working capital had increased by
+
+Cash flows from investing activities
+amounted to EUR -560 million (2020:
+
+EUR -1,495 million), including EUR -310 mil-
+lion for intangible assets and property,
+plant, and equipment (2020: EUR -177 mil-
+lion) and EUR -524 million for acquisitions
+(2020: EUR -920 million).
+
+The acquisitions in fiscal year 2021 included
+cash payments totaling EUR 452
+to increase the number of OSRAM Licht
+AG shares held (2020: EUR 1,958 mi
+less acquired cash and cash equivalents of
+EUR 614 million). Further cash payments
+included EUR 72 million for the acquisition
+‘of 50% of the shares in OSRAM CONTINEN-
+TAL GmbH in connection with the unwind-
+ing of OSRAM Continental. The net cash
+provided by the sale of business activities
+amounted to EUR 277 million (2020: EUR 41
+milion), A significant sum within this figure,
+EUR 144 million, related to the sale of com-
+panies to Continental,
+
+Free cash flow came to EUR 482 mil-
+
+In to EUR 1,331 mi
+December 31, 2021,
+
+Cash flows from financing activities
+amounted to EUR -534 million in the report-
+1g year (2020: EUR 1,951 mi
+or-year figure had been heavily influenced
+by the corporate action taken to fund the
+acquisition of OSRAM, which had involved
+a net cash inflow of EUR 1,649 million from
+flow
+of EUR 1,992 million from the issue of bonds
+and a convertible bond. In fiscal year 2021,
+however, the repayment of bank loans and
+
+promissory notes, which were only partly
+refinanced by taking out new loans, led to
+a net cash outflow of EUR 190 million. Fur-
+
+thermore, convertible bonds with a nominal
+value of EUR 77 million were repurchased at
+‘a purchase price of EUR 67 million.
+
+2021 2020 Change in %
+Operating cash flow m2 709 412%
+Cash flow from investing activities 560 1495 0%
+Free Cash Flow 482 531 %
+Cash flow from financing activities 334 1951 127%
+Effects of changes in foreign exchange rates on cash
+‘and cash equivalents ES 5 160%
+Cash and cash equivalents 1331 1,597 1%
+
+Free cash flow comprises the cash flows
+from the operating activities of continu-
+ing operations less cash payments for the
+purchase of intangible assets and proper-
+ty, plant, and equipment. The definition of
+this performance indicator has changed
+
+compared with the previous year. In 2020,
+free cash flow had comprised cash flows
+from operating activities and cash flows
+from investing activities. The prior-year
+figure has been adjusted to reflect the new
+definition
+
+83
+
+
+--- Page 13 ---
+
+84
+
+3. Research and Development
+
+Our development sites are globally posi-
+tioned, with LED development in Germany
+and Malaysia, VCSEL technology in the US
+and Singapore, package development in
+Singapore, Malaysia and China, micro-op-
+tics in Switzerland, the development of con-
+version solutions, optical coatings and filter
+solutions, image and color sensor technolo-
+gy in the US, Germany and Austria, and IC
+design development in India, the US, Italy,
+Austria and Switzerland, This gives ams
+OSRAM a strategic advantage by providing
+us with access to both leading expertise
+and a global production network.
+
+ams OSRAM's position as a technological
+leader in the development and production
+of high-quality sensing and lighting tech-
+nologies for use in products such as mobile
+devices, automotive lighting and medical
+technology is based on intensive research
+and development activities. To secure and
+strengthen our leading position, we invest
+significantly in research and development
+(R&D) on a continuing basis. Research and
+development expenses in the past fiscal
+year amounted to EUR 642 million, or 13%
+of revenues, compared to EUR 423 mi
+(12% of revenues) in 2020.
+
+Our research and development activities
+enabled ams OSRAM's growth in recent
+years and form the basis of an extensive
+product and design pipeline for the years
+to come. The average number of employees
+in research and development was 3,445 in
+2021 (2020: 3,732).
+
+ams OSRAM'’s R&D activities mainly com-
+prise optical technologies for applications
+in the sensing, lighting and visualization
+segments. Our broad technology portfo-
+io addresses the consumer, automotive,
+|, and medical technology end
+
+markets. In addition, the development
+of software and algorithms and the inte-
+gration of machine learning and artificial
+intelligence has become an integral part of
+‘our R&D activities, The combination of indi-
+vidual hardware components into modules
+and systems with differentiating software
+solutions represents an important element
+of product development at ams OSRAM,
+and is a pillar of our development process-
+es for end-to-end solutions.
+
+The following innovative product devel-
+‘opments based on ams OSRAM's R&D
+
+ies provide a good overview of our
+broad product portfolio. Our LED product
+portfolio has been expanded to include
+innovations for automotive lighting such as
+the brightest LED available on the mar-
+
+ket for use in the low and high beams of
+vehicles. In the visualization segment, our
+latest LED generation enables additional
+brightness and image quality for LED-
+based projectors thanks to optimized chip
+and package technology. ams OSRAM has
+also introduced the first ultraviolet C-band
+(UV-C) LEDs to the market, which facili-
+tate new possibilities for disinfecting air,
+surfaces and water. Measuring one square
+millimeter, NanEyeM is the smallest camera
+module available on the market with a fully
+igital output for medical endoscopes. The
+attractively priced module enables sin-
+gle-use applications in high volumes.
+
+Close strategic coordination between our
+business units, strategy department and
+CTO takes place on an ongoing basis and
+determines our strategic decisions regard-
+ing technology and product development.
+We attach great importance to stimulating,
+promoting and coordinating a continuous
+innovation process.
+
+As part of our approach to working with
+strategic partners, we collaborate globally
+with leading research institutes, universi
+ties and other companies. Collaboration
+takes place, for example, through research
+programs such as those funded by the Eu-
+ropean Commission as well as local funding
+programs around the world.
+
+ams OSRAM's venture capital entity Flux-
+unit continued with the activities it had
+begun in previous years. Fluxunit makes
+targeted investments in young start-ups
+that can meaningfully complement our
+business activities in the long term. Its
+investment portfolio currently consists of 11
+companies developing products in various
+fields where ams OSRAM is active, as well
+
+as two additional investments in venture
+capital fund companies.
+
+The creation, maintenance, enforcement
+and use of patents, trademarks and other
+intellectual property rights is an import-
+ant aspect of our strategy to differentiate
+ourselves in the marketplace and to protect
+‘our R&D investments and generate a return
+‘on them, Our global patent portfolio com-
+prises around 15,000 patents and patent
+applications, corresponding to approxi-
+mately 5,800 patent families. During the
+year under review, we continued to develop
+our patent strategy, taking into account
+the interplay of business, technology and
+market aspects, while focusing on future
+value creation.
+
+4. Purchasing and Manufacturing
+
+The procurement situation was challenging
+in fiscal year 2021 in view of the supply bot-
+tlenecks affecting the entire semiconductor
+\dustry, as well as ams OSRAM. Our initia-
+tives focused on bundling the purchasing of
+ams and OSRAM allowed us to successful
+realize the synergy potentials resulting from
+the combination of our businesses. Despite
+the overall cost savings achieved, howev-
+er, cost increases for some key materials,
+goods and services due to the global chip
+shortage, rising raw material prices and en-
+ergy supply bottlenecks in China have also
+had a lasting effect on ams OSRAM.
+
+The ams OSRAM Group has 23 production
+sites worldwide excluding the Fluence pro-
+duction site, which is reported as an asset
+held for sale on the balance sheet as of
+December 31, 2021. Production sites are lo-
+cated in Premstatten (Austria), Regensburg
+
+and Herbrechtingen (both in Germany),
+Antwerp (Belgium), Nové Zamky (Slovakia),
+Treviso (Italy), Hillsboro (New Hampshire,
+USA), Singapore, Wuxi (China), Penang and
+Kulim (both in Malaysia), Calamba City (in
+the Philippines), and elsewhere.
+
+One of our most important investments in
+production in 2021 was a pilot line for micro
+LEDs built at our Regensburg site to enable
+new types of display generations. Capac-
+ity utilization at our plants in Regensburg,
+Wuxi, Penang and Kulim increased due to
+positive market development and increased
+demand in the automotive end customer
+market as a whole, as well as for LEDs for
+various lighting applications. In contrast,
+capacity utilization at our Singapore plants
+was lower than in the previous fiscal year
+due to a loss in market share for certain
+consumer applications.
+
+85
+
+
+--- Page 14 ---
+
+86
+
+5. Employees
+
+Our employees are the basis of our long-
+term business success and they create the
+added value we want to offer our cus-
+tomers. It is important to us to offer our
+employees a secure job with good working
+conditions and prospects, to contribute to
+their development, and to pay them fairly.
+Furthermore, as a globally active company,
+the diversity of our employees is a major
+concern for us. As of December 31, 2021,
+ams OSRAM Group had 24,499 employ-
+ees (2020: 29,753). The average number of
+‘employees for the year was 26,130 (2020:
+30,031), based on FTEs (full-time equiva-
+lents).
+
+At ams OSRAM, we are aware of our re-
+sponsibility as an important employer in the
+regions where we operate. Accordingly, we
+continued to offer comprehensive internal
+and external training and development op-
+portunities for all of our employee groups
+during the past year, in addition to provid-
+ing training positions for apprentices.
+
+We seek to retain our employees by offer-
+ing a long-term compensation concept.
+
+A profit-sharing program for all ams
+OSRAM employees adds an attractive
+direct component to our existing stock
+option plans and employee compensation
+programs. Our profit sharing program
+‘embodies the belief that our employees are
+the most important factor in the success
+of our company by rewarding the joint
+contribution of all of our employees to ams
+OSRAM's success.
+
+Due to the development of earnings in the
+previous fiscal year, a profit-sharing bonus
+was paid to employees in the amount of
+EUR 19 million in 2021 (2020: EUR 21 mil-
+n). The amount of the bonus is deter-
+mined on the basis of adjusted earnings
+after tax.
+
+In addition, active internal corporate and
+employee communication, as well as a
+long-standing company tradition of regular
+employee events, promote employee iden-
+tification with our company. Such events
+include, for example, town hall meetings or
+webcasts given by our Management Board
+and other management representatives.
+
+6. Environmental Management
+
+As an industrial company, we consume
+natural resources and create greenhouse
+gas emissions at our production fa
+In order to meet our environmental respon-
+
+bilities, we have committed to conserving
+resources through environmental manage-
+ment, as well as to developing innovative
+and energy-efficient products. As part of
+‘our environmental reporting, we collect
+data on energy consumption, greenhouse
+gas emissions, water abstraction, and
+waste generation.
+
+The ways in which we implement environ-
+mental management and address other
+aspects of sust ty are described in a
+separate sustainability report that can be
+found at: https://ams-OSRAM.com/sustain-
+ability-reporting. In addition to describing
+‘our organizational structure, responsibili-
+ties, guidelines and processes, the report
+also explains the specific goals, measures
+and results relating to all topics of impor-
+tance to ams OSRAM.
+
+7. Subsidiaries and Investments
+
+As parent company of the ams OSRAM
+Group, ams-OSRAM AG has 117 subsidiaries
+in 49 countries, in addition to holding direct
+or indirect interests in 33 companies.
+
+As of December 31, 2021, ams-OSRAM AG
+held 79.91% (2020: 70.72%) of the outstand-
+ing shares in OSRAM Licht AG. OSRAM
+Licht AG directly or indirectly holds 100% of
+the shares in all fully consolidated OSRAM
+companies with the exception of OSRAM
+
+China Lighting Ltd., in which it only holds
+90% of the shares.
+
+Significant associates and other invest-
+ments:
+
+As of December 31, 2021, significant asso-
+ciates in terms of value that are accounted
+for using the equity method particularly
+included the following:
+
+Name of holding Country of incorporation Ownership interest
+Jinan Smart Sensing Sensor Co, Ltd. China 49.00%
+Sclosense Holding BV Netherlands 452%
+Boll Inc. Usa 20.38%
+
+The investment in Bolb Inc.,a manufacturer
+of high-efficiency ultraviolet C-band (UV-C)
+light-emitting LEDs, was acquired in fiscal
+year 2021. By investing in the Califor
+company, ams OSRAM is further expanding
+its technological know-how for disinfection
+applications using UV-C lighting, Future
+research collaboration between our two
+
+companies is expected to accelerate the in-
+dustrialization of highly efficient, high-per-
+formance UV-C LEDs.
+
+In 2019, ams acquired 49.0% of Jinan
+Smart Sensing Sensor Co. Ltd, Shanghai
+
+(China). In 2020, a further 45.22% of Scio-
+sense Holding 8\. in the Netherlands was
+
+87
+
+
+--- Page 15 ---
+
+88
+
+acquired. Sciosense Holding BY. isa
+subsidiary of Jinan Smart Sensing Sensor
+Co. Ltd, which is a holding company for a
+provider of environmental sensors and high
+performance flow sensing systems.
+
+As of December 31, 2021, significant invest-
+ments in terms of value that are accounted
+for at fair value particularly included the
+following:
+
+Name of holding Country of incorporation ‘Ownership interest
+LeddarTech Ine. Canada 19.20%
+HLJ Technologies Co, Ltd, Taiwan 12.50%
+Recogni, Inc. Usa 5.33%
+
+8. Risk Management
+
+Main features of the accounting-related
+internal control system
+
+The internal control system, which has been
+adapted in the course of integration into
+the ams OSRAM Group, is being implement-
+ed as part of the harmonization of process-
+es. We are also continuously refining our
+intemal control system in order to meet all
+requirements.
+
+The overarching goal of our accounting-re-
+lated internal control system is to ensure
+the correctness of financial reporting in the
+annual and consolidated financial state-
+ments. The system consists of preventive
+and detective controls, which ensure that
+group-wide standards for accounting, valu-
+ation, and account assignment are contin-
+uously updated and maintained, transac-
+ns can be completely recorded, and that
+group-internal transactions are appropri-
+ately eliminated. It also establishes pro-
+cesses for the separation of functions and
+for observing the principle of dual control
+when preparing the financial statements, as
+well as individual access authorizations for
+accounting-related IT systems.
+
+The effectiveness of the internal control
+system is reviewed on an annual basis.
+Intemal controls are revised if necessary to
+
+eliminate any detected areas of weakness.
+The internal audit function of ams OSRAM
+
+uses continuous and group-wide audits to
+ensure compliance with group-wide guide-
+1es as well as the reliability and function-
+ality of our control system.
+
+The Audit Committee of the Supervisory
+Board oversees the accounting process and
+the effectiveness of the control system. It is
+also responsible for auditing the documents
+for the individual financial statements of
+ams-OSRAM AG and the consolidated
+financial statements, and it discusses the
+individual financial statements of ams-
+OSRAM AG, the consolidated financial
+statements, and the combined manage-
+ment report with the Management Board
+and the auditor.
+
+Enterprise Risk Management (ERM)
+System
+
+In the context of its global activities, the
+ams OSRAM Group is subject to a number
+of risks that are inseparably associated
+with business activity.
+
+In order to identify, assess, and control
+risks, ams OSRAM practices systematic
+risk management for the early detection
+of risks that could endanger the continued
+existence of the ams OSRAM Group or the
+
+achievement of our strategic, operational,
+financial, and compliance objectives, and to
+initiate risk-limiting measures as necessary.
+We are continuously refining our risk man-
+‘agement system in order to meet changing
+intemal and external requirements.
+
+The central office for risk management
+coordinates the risk management process
+and risk reporting. Responsibility for the
+identification, assessment, reporting, and
+management of significant risks is borne
+by management at the level of the central
+units and the business units.
+
+Semiannual meetings are held with man-
+agement to assess significant identified
+risks, In these meetings, the reported risks
+are qualitatively assessed based upon their
+effects on our business activity and their
+probability of occurrence. Our assessments
+follow the net principle, in which we assess
+risks in light of previously initiated effective
+actions.
+
+Non-financial risks are also included in the
+ERM process and are qualitatively assessed
+in a uniform manner using the aforemen-
+
+Strategic Risks
+
+Competition for the introduction of new
+technologies
+
+The ams OSRAM Group operates in a high-
+tech industry with a strong focus on tech-
+nologically advanced applications, marked
+by short product life cycles and constant
+innovation. There is a risk that disruptive
+technologies could quickly become mar-
+ket-ready. Competitors could also introduce
+alternative products or technologies that
+are more cost-effective, of higher quality,
+possess greater functionality, or are more
+competitive for other reasons. There is also
+the risk that changes in market and cus-
+tomer requirements are not or cannot be
+
+tioned method. If this assessment shows
+ficant risks for the Group, the risks are
+reported as part of the subsequent risk
+reporting.
+
+The regular report is presented to the
+Management Board on a semiannual basis
+and to the Supervisory Board on an annual
+basis. It is supplemented by an ad hoc re-
+port if needed to ensure that the Manage-
+ment Board and Supervisory Board receive
+complete and timely information about
+significant risks. The Management Board of
+the ams OSRAM Group determines whether
+the risks, either individually or as a whole,
+represent an existential threat and verify
+that there is no substantial danger to the
+going concern, The Audit Committee of the
+Supervisory Board monitors the effective-
+ness of this system.
+
+The following section provides a description
+of the significant strategic and operation-
+al risks for the ams OSRAM Group, which
+could have particularly negative effects
+overall on our business activity as well as
+net assets, financial position, and results of
+operations.
+
+considered early enough and to a sufficient
+extent. We must therefore develop inno-
+vative and differentiated technologies for
+products that can be manufactured com-
+petitively in terms of technology and cost
+for the right applications and markets, and
+get them market-ready in a timely manner.
+
+The future success of ams OSRAM also
+depends upon whether its internally devel-
+oped intellectual property can be sufficient-
+ly protected and profitably utilized. Failure
+to do so may endanger the future growth
+and competitiveness of the entire Group. It
+may lead to a rapid decline in market share
+
+89
+
+
+--- Page 16 ---
+
+90
+
+in the affected areas of business or failure
+to achieve growth objectives. Investments
+in research and development could not be
+recouped through revenues, which would
+reduce the profitability of the entire Group.
+
+We counter these risks with specific mea-
+sures. Potential new fields of technology
+are monitored, and the results of these
+observations are considered in our strate-
+gic planning. Technological expertise that
+will be necessary in the future is incorpo-
+rated into the technology roadmap for the
+respective business segments. The technol-
+ogy roadmap is an integral part of medium
+and long-term strategic planning, We also
+have a team in the Strategy division that
+performs market analyses and reviews
+areas of technology as well as research
+and development plans on a regular basis,
+so that they can be focused more sharply
+if needed. In addition, we are working to
+optimize the efficiency of our operational
+product development processes.
+
+Macroeconomic effects and geopolitical
+conflicts
+
+The macroeconomic trend in fiscal years
+2020 and 2021 was strongly influenced by
+the effects of the COVID-19 pandemic.
+Despite a worldwide economic recovery,
+the future trend in the global economy still
+depends largely upon the rate of infec-
+tion. The rate of infection continues to be
+volatile, primarily due to the emergence of
+variants of the coronavirus that are more
+contagious than the wild-type strain. This
+may result in repeated interruptions of
+global value chains, with negative conse-
+quences for the further growth of the global
+‘economy.
+
+These disruptions of supply chains caused
+by the pandemic are leading to goods
+shortages and thus significant price
+
+\creases, primarily for energy and raw
+materials. Energy prices are also heating
+
+up due to the smoldering conflict between
+Russia and Ukraine. To stem the rising infla-
+tion caused by these factors, central banks
+around the world could be forced to pursue
+a less expansive fiscal policy in future and
+to increase interest rates, which could in
+turn slow down global economic growth. In
+addition, trade and tariff disputes as we
+
+as trade restrictions, such as those between
+the US and China, which are aimed in part
+at key companies in the high-tech sector
+supported by the Chinese state, could im-
+pair global trade and thus global economic
+growth. Another economic downtum, above
+all in our relevant sales markets, may mean
+that we fail to achieve planned revenues
+and profitability.
+
+To offset the aforementioned effects, we
+conduct regular reviews of our value chains,
+ie., our global and regional presence
+
+and our processes. In this way, we strive
+
+to achieve cost savings and operational
+improvements that allow us to avoid tariffs
+as well as to compensate for market-driven
+reductions in selling prices for certain prod-
+uct groups, price increases for energy and
+raw materials, and higher wages. In order
+to develop and adapt effective response
+strategies, we continuously monitor early
+warning indicators. We also regularly nego-
+tiate selling prices with our customers and
+adjust them as needed.
+
+ve strategic ob-
+jectives in connection with the OSRAM
+merger
+
+The merger of ams and OSRAM is a trans-
+formative event for the combined com-
+pany, which requires significant initiatives
+for integration and restructuring. These
+activities entail the risk of overcommit-
+ting resources (particularly management
+
+capacities and employees), which could
+temporarily impair our operational perfor-
+mance and innovative capacity. The loss of
+key employees (brain drain) due to changes
+in the company or uncertainty could also
+have negative effects.
+
+There could also be delays in the timely im-
+plementation of approved measures, which
+could have negative effects on achieving
+the planned synergies. Possible planned
+sales of business segments may not occur
+within the expected timeline or may not
+produce the expected income.
+
+A dedicated integration and project man-
+agement team, supported by external con-
+sultants, should minimize this risk. Planned
+savings from program actions are recorded
+in a central reporting tool, and their imple-
+mentation is continuously tracked.
+
+Competitive environment
+
+Competitive pressure in the semiconduc-
+tor industry is generally high due to a
+large number of current competitors and
+new market participants. Because of the
+continuing shortage of semiconductors, a
+worldwide expansion of production ca-
+pacities is currently being promoted and
+subsidized. One result of this may be that
+producers of LED components and sensor
+products will have to increasingly differen-
+tiate themselves by price in order to fully
+utilize their production capacity. This price
+competition could influence the achieve-
+ment of our objectives in terms of market
+shares and profit margins.
+
+We therefore regularly review additional
+productivity enhancement and cost reduc-
+tion measures, with a focus on targeted
+research and development expenditures to
+differentiate our products through techno-
+logical advances and thereby ensure the
+profitable utilization of existing capaci
+
+Volatile and cyclical market develop-
+ments
+
+End-market demand for technologically
+advanced consumer products that use
+semiconductor-based technologies, such
+as sensors, optical solutions, or LEDs, are
+subject to rapid technological change and
+thus relatively short product life cycles. This
+can have negative effects on the demand
+for ams OSRAM components. We therefore
+uously look for ways to exp!
+areas of application for our technologies in
+consumer electronics and other fields, such
+‘as medical applications.
+
+The merger with OSRAM reduced the share
+of consumer electronics relative to total
+revenues. The automotive business has
+longer cycles. Even though the volume of
+automotive manufacturing in 2019 will not
+be achieved over the medium term, follow-
+ing the slight recovery in automotive man-
+ufacturing in 2021 we continue to assume
+that there will be positive growth in 2022,
+There is a risk that this positive trend will be
+reversed or interrupted by the pandemic.
+
+An increasingly dynamic market or market
+volatility in both the automotive field and
+
+in consumer electronics may cause our cus-
+tomers to adjust their order quantities over
+the short term, For ams OSRAM, this would
+mean firstly a cost risk due to fluctuations
+in capacity utilization in our own production
+and excess inventory, and secondly the
+
+risk of supply difficulties due to capacity
+bottlenecks. Our forecasts for the growth of
+‘our own business are therefore subject to a
+certain degree of uncertainty,
+
+For this reason, we are continuously
+monitoring relevant market indicators and
+implementing appropriate measures for
+short-term adjustment of inventory and
+production capacities.
+
+on
+
+
+--- Page 17 ---
+
+92
+
+Operational Risks
+
+Business interruption risk
+
+The continuous optimization and focusing
+of our production environment increase the
+dependence on individual production loca-
+tions. Thus, there is a risk that disruptions
+in our plants or external influences could
+result in an inability to produce or deliver
+products in the planned scope. That is why,
+in addition to insuring against damage
+
+to equipment and buildings, we maintain
+appropriate insurance to protect against
+risks arising from business interruption.
+We also conduct preventive maintenance
+and have defined emergency plans for
+critical areas to ensure the availability and
+quality of our products. Fire and disaster
+protection for significant locations is also
+continually reviewed and improved. The
+
+3k of supply bottlenecks is reduced where
+possible by diversifying our supplier base
+and closely monitoring critical vendors and
+materials. Similarly, the progress of con-
+struction projects could delay our invest-
+ments in expansion. We have countered this
+by establishing an appropriate project risk
+management process.
+
+We currently assess the business interrup-
+risk as high in connection with the fur-
+ther course of the COVID-19 pandemic. We
+are therefore strongly focused on prevent-
+ing COVID-19 infections in our own oper-
+ations so that we can maintain the ability
+‘of ams OSRAM to supply its products. The
+existing health protection measures remain
+in effect without change and are continu-
+ously adapted based upon current circum-
+stances. In addition, we reserve the right
+to review the COVID-19 safety measures of
+the general contractors for our construc-
+tion projects. A new round of production
+interruptions caused by the pandemic could
+nevertheless have a negative effect on our
+
+delivery capacity. There could also be de-
+lays in our ongoing construction projects.
+
+Customer concentration
+
+If a disproportionately high percentage
+
+of the total revenue and profit of the ams
+OSRAM Group is eared from individual
+customers, we could become dependent on
+the individual customers’ business suc-
+cess or market share and thus upon their
+demand for our products. If these custom-
+ers cannot be contractually committed to
+minimum order quantities, the ams OSRAM
+Group may suffer a loss of revenue if cus-
+tomer order quantities are reduced, or if
+orders are delayed or canceled.
+
+The merger with OSRAM reduced the per
+centage of consumer electronics relative
+to total revenue. A loss of projects or a
+reduction in business activity with key
+accounts could nevertheless still lead to
+losses in revenue and insufficient uti
+of customer-specific production capacities.
+We are therefore striving to further diversify
+‘our customer portfolio in order to reduce
+the effects of volatile market developments.
+
+Material shortages
+
+A faster market recovery than expected
+from the effects of the pandemic, above
+
+all in China, and increasing digitization
+could lead to a disproportionate increase
+in customer demand and a serious global
+shortage of electronic intermediate prod-
+ucts. This situation may be further exac-
+erbated by continued disruptions in the
+global supply chain. Any delay or failure
+
+fo fulfill customer orders could lead to a
+loss of revenue for ams OSRAM as well as
+claims by customers for contractual liability
+or even loss of the customer. Our customers
+may also experience production stoppages
+
+due to lack of materials, which could reduce
+demand for ams OSRAM components. We
+counter these risks by continuously tracking
+incoming customer orders as well as trends
+in the procurement market, and by monitor
+ing our suppliers’ performance.
+
+Over the course of the year, material
+shortages have led to significant increases
+in raw material prices. The resulting price
+increases by our suppliers could negatively
+affect our profitability if they cannot be
+fully passed on to our customers.
+
+This tense situation with the availability of
+materials and equipment could also have
+negative effects on current construction
+projects, which could lead to delays in the
+progress of construction and price increas-
+es, We are countering this risk by ordering
+materials and equipment as soon as possi-
+ble, with long delivery times.
+
+Dependence on suppliers
+
+To avoid dependence on individual sup,
+ers for critical materials, we generally vet
+
+@ second source in addition to the pre-
+ferred vendor. This is not always possible or
+economically practical, however. Moreover,
+certain production services in the semicon-
+ductor field can be outsourced only to a
+limited number of wafer producers.
+
+If one or more of these sole suppliers fails
+to fulfill its supply obligations, this could im-
+pair our delivery capacity and result in loss
+of revenue. We also face the risk of price
+increases by suppliers.
+
+Obtaining information on and regularly
+monitoring the financial situation of sup-
+rs is a fixed component of our supplier
+risk management process. Dedicated em-
+ployees coordinate our collaboration with
+important production service providers. We
+
+also maintain a forward-looking inventory
+‘and procurement management process and
+conclude long-term delivery agreements
+where possible.
+
+Because several semiconductor production
+plants are currently under construction in
+Asia, there is a shortage of construction
+companies and experts in this region, which
+could lead to delays in the progress of our
+current construction ac'
+risk management is estal
+
+Cyber risks and IT risks
+
+The increasing digitization of our business
+processes makes the reliability and secu-
+rity of our system infrastructure extremely
+important. Regulatory requirements for
+the protection, integrity, and availability of
+data are also on the rise.
+
+There has been an evident increase in cy-
+berattacks worldwide, and extemal attacks
+on our IT systems are therefore probable.
+Such attacks could result in the theft of
+business information, intellectual property,
+and personal data. A lack of risk awareness
+‘on the part of employees and improper
+handling of our IT systems could also make
+external attacks easier, or could lead to
+uations in which data are lost or can be
+recovered only at significant expense. Mal-
+functions in the IT systems could also cause
+significant interruptions of our production
+and supply chain, which would entail loss of
+revenue.
+
+To counter these risks, we have transferred
+IT systems and applications to sufficiently
+secure cloud solutions, and we conduct
+independent tests at regular intervals to
+determine the vulnerability of our IT sys-
+tems. In terms of information security, we
+‘operate in accordance with the ISO 27001
+standard. We also conduct training for our
+
+8
+
+
+--- Page 18 ---
+
+94
+
+employees and have a contract with an
+emergency response service provider in the
+event of a serious cyberattack.
+
+A data protection management system
+that builds on globally applicable “binding
+corporate rules” ensures company-wide
+standards for handling personal data. This
+includes training for all employees and the
+implementation of uniform technical and
+organizational measures, particularly when
+data are being processed by external ser-
+vice providers.
+
+Quality Risk
+
+Meeting market and customer-specific
+requirements for our products is particular-
+ly important for our business success. The
+increasing complexity of product and man-
+ufacturing processes and shorter develop-
+ment cycles increase the risk of possible
+
+Financial Risks
+
+The ams OSRAM Group is subject to a va-
+ty of financial risks. The relevant risks in-
+clude liquidity risk, interest-rate risk, foreign
+currency risk, and credit risk. Changes in
+credit ratings, currency exchange rates,
+terest rates, and the general capital market
+situation can influence both our operational
+business and our investment and financing
+activities. Market price fluctuations can
+lead to significant volatility in profits and
+payment flows.
+
+Financial risk management is conducted
+by the central Treasury department based
+upon guidelines approved by the compa-
+ny’s Management Board and Supervisory
+Board. The Treasury department assesses
+and secures against financial risks in close
+collaboration with the operational business
+areas, also using financial derivatives.
+
+quality issues. Products manufactured by
+ams OSRAM are integrated into complex
+electronic systems. Errors or functional de-
+fects in products produced by ams OSRAM
+could directly or indirectly compromise the
+property, health, or life of third persons,
+and could therefore lead to recalls from
+‘our customers and negative effects on our
+reputation.
+
+We counter this risk through group-wide
+quality processes, which are audited
+internally at regular intervals based upon
+established standards (such as ISO 14001,
+1SO 18485, ISO 9001, and IATF 16949) and
+audited externally by our customers, and
+are also certified by external companies.
+
+In the event of quality defects and product
+safety incidents, we have established an ef-
+fective reporting system to ensure a timely
+response,
+
+Liquidity Risk
+
+The liquidity is that ams OSRAM will be
+incapable of meeting its financial obliga-
+tions when they come due. Debt financing
+undertaken in conjunction with the acqui-
+sition of OSRAM has increased the need
+for financing as well as expectations with
+respect to future strong financial perfor-
+mance. A long-term liquidity plan and
+business plan are helping to support the
+future financial success of the ams OSRAM
+Group. The company has sufficient liquid
+assets, as well as a substantial amount in
+approved long-term credit lines that have
+not been utilized. A financing structure that
+has been diversified in terms of financial
+instruments and maturity profile also pro-
+vides a sufficient margin. Several financing
+agreements contain arrangements custom-
+ary for the market, under which the ratio
+of net financing debt to adjusted EBITDA
+
+(pursuant to the respective definition) must
+not exceed 4.0:1. The resulting risk of calls
+for early repayment or blocks on utilization
+of credit is intensively analyzed in the con-
+text of short and long-term business and
+financial planning.
+
+Interest-Rate Risk
+
+Interest-rate risks could arise for ams
+OSRAM primarily through increased financ-
+ing costs due to a tise in interest rates,
+while falling interest rates lead to lower
+interest income from financial invest-
+ments. This risk of changes in interest rates
+is countered by the fact that under liabil
+ties, more than 95% of the financial liabili-
+ties have fixed interest rates. Under assets,
+risks of changes in interest rates exist
+primarily due to short-term time deposits,
+which are linked to the market interest rate.
+Having opposing items under assets and
+bilities naturally reduces overall exposure.
+
+Foreign Currency Risk
+
+As a global company, we conduct our
+transactions in a number of different cur-
+rencies. This results in risks caused by fluc-
+tuations in foreign currency exchange rates,
+both in our operational business as well as
+in financial reporting from currency con-
+version into the group reporting currency.
+
+Based upon our corporate structure, these
+result primarily from fluctuations of the
+euro vis-d-vis the US dollar and can have
+negative effect on our profit, equity, and
+cash flow. In order to hedge currency risks
+from our operational business and finan-
+cial positions, we monitor all transaction
+risks and conversion risks. Depending upon
+the respective risk situation, we also use
+financial derivatives to hedge net risks from
+balance sheet items and risks from sched-
+uled transactions.
+
+Credit Risk
+Credit risks arise when a customer or a
+counterparty to a financial instrument is
+incapable of fulfilling its payment obliga
+tions. Pursuant to our treasury and risk
+management policy, financial investments
+and transactions with derivative finan-
+
+cial instruments are conducted only with
+financial institutions having a high level of
+creditworthiness, and are widely diversified.
+Individual credit limits for customers and
+financial institutions are issued based upon
+external and internal data and are contin-
+uously monitored. There was no dispropor-
+tionate concentration of credit risks as of
+the balance sheet date.
+
+95
+
+
+--- Page 19 ---
+
+9%
+
+Legal and Compliance Risks
+
+‘As a global company, the ams OSRAM
+Group with its subsidiaries is subject to a
+variety of legal and compliance risks. These
+include the risk of litigation and the risk
+
+of noncompliance with regulatory require-
+ments. ams OSRAM may therefore be
+confronted with various court proceedings,
+claims, and official investigations. These
+could result in the company incurring costs,
+eg, for damages, recalls, fines, or other
+financial detriments, as well as reputational
+damage.
+
+We are subject to a variety of governmental
+regulations worldwide, e.g., anticorruption
+‘and anti-money laundering laws, as wel
+
+as laws to ensure data protection, envi-
+ronmental protection, product safety, and
+labor conditions. Failure to comply with
+
+the relevant regulations may under certain
+circumstances result in significant fines
+and reputational risks. To prevent this to
+the extent possible and to anticipate future
+regulatory changes in a timely manner, we
+monitor global changes in the legal land-
+scape through central departments that
+support the country-specific implementa-
+tion of appropriate processes and controls.
+In order to avoid and, if necessary, to
+identify compliance-related events in a
+timely manner, ams OSRAM has established
+a comprehensive group-wide compliance
+management system.
+
+Like us, many of our competitors, suppliers,
+and customers also protect their technol-
+ogy through patents or other proprietary
+rights. The enforcement of claims by other
+parties based upon an alleged infringe-
+ment of proprietary rights could lead to
+significant costs in the form of court costs,
+damages, and/or license fees. Such claims
+could also hinder the business of ams
+
+OSRAM. We reduce our risk by maintaining
+and, if necessary, enforcing a strong IP
+portfolio, We also monitor the external IP
+environment. If necessary, we also acquire
+licenses to ensure our freedom of action.
+
+If economically practical, we also pur-
+chase insurance to cover a portion of the
+risks. Note 18 ‘Provisions’ of the Notes to
+the Consolidated Financial Statements
+provides an overview of significant legal
+disputes.
+
+Overall estimate of risks
+
+During the past fiscal year, the risk situa-
+tion of the ams OSRAM Group continued to
+be subject to the effects of the COVID-19
+pandemic, and was characterized by mate-
+rial shortages and supply bottlenecks. The
+risks associated with the overall business
+environment could have a serious effect
+
+on the business of ams OSRAM and could
+frequently require new operational actions
+as well as adjustments of its strategy. It
+remains to be seen how extensive and
+long-lasting the effects of the COVID-19
+pandemic will be for our business.
+
+Taking into account the respective proba
+of occurrence and the potential effects,
+the risks enumerated in this report do not
+endanger the continuity of the compa-
+
+ny’s business, either individually or in their
+entirety. Given the balance sheet structure
+and the current business prospects, the
+Management Board does not expect any
+substantial threat to the going concem.
+This assessment is supported by our financ-
+ing structure, see Note 19 “Interest-bearing
+Loans’ of the Notes to the Consolidated
+Financial Statements.
+
+9. Events After the Balance Sheet Date
+
+The renaming of the highest-level Group
+company from ams AG to ams-OSRAM
+AG became effective when it was entered
+
+10. Outlook
+
+In the current year significant uncertainties
+continue related to the development of the
+global economy, private consumption and
+worldwide industrial production including
+automotive production. These uncertainties
+reflect the ongoing impact of the Covid-19
+pandemic and a more volatile macro-eco-
+nomic environment with unclear effect on
+major economies and regions. ams OSRAM
+is therefore subject to potential continued
+‘end market volatility, customer perfor-
+mance that may be difficult to anticipate,
+and potential unforeseen changes in
+demand trends, supply chain performance
+and semiconductor industry dynamics. At
+the same time, ams OSRAM is confident
+about its market position and sees itself
+well placed to serve customer needs in im-
+portant markets. This view is based on the
+‘expected introduction of new solutions for
+n and sensing ap-
+ications, expected high volume shipments
+toa global customer base, and planned
+production ramps of various design-wins.
+
+With effective control of OSRAM on the
+basis of the domination and profit and loss
+transfer agreement between the companies.
+ams OSRAM will continue the integration
+of OSRAM in the current year on the basis
+of planned programs and activities. As
+
+@ consequence, ams OSRAM expects to
+record further considerable expenses for
+2022 from implementing integration-related
+measures based on current information.
+
+in the commercial register on January 18,
+2022.
+
+Looking ahead, ams OSRAM expects the
+planned full integration of both companies
+to drive significant mid and longer-term
+business advantages and positive finan-
+cial effects for the group. On the basis of
+‘a-current assessment of semiconductor
+and end market dynamics and the global
+macro-economic environment ams OSRAM
+expects its business to show positive
+development overall in 2022. However,
+should global semiconductor demand and
+the macro-economic environment develop
+unfavorably in 2022 and/or the US-Dollar
+show notable weakness, ams OSRAM would
+experience a meaningful impact on the
+development of its business and earnings.
+
+ams OSRAM pursues a global leadership
+position in optical solutions as its strategic
+focus which is supported by the continuing
+successful integration of OSRAM. For this
+growth strategy the mid-term priorities for
+‘ams OSRAM are expanding the group's
+business with key accounts globally and
+driving higher penetration of its worldwide
+markets and customer base. ams OSRAM
+
+will leverage its industry-leading portfolio of
+light emission, optics and sensing technol-
+ogies to drive innovation in its focus areas
+and create customer-driven solutions for
+new applications. Enabled by these solu-
+tions, ams OSRAM expects to benefit from
+a diversified range of growth opportunities
+in the automotive, consumer, industrial and
+medical technology end markets.
+
+7
+
+
+--- Page 20 ---
+
+11, Other Information
+
+For information on equity, treasury shares, and equity investments, please refer to the
+notes to the consolidated financial statements.
+
+Premstaetten, February 23, 2022
+
+ams-OSRAM AG, Premstaetten
+
+ra So & X doch. fey,
+
+Alexander Everke Ingo Bank Thomas Stockmeier Mark Hamersma
+Chairman of the Member of the Member of the Member of the
+Management Board Management Board Management Board Management Board
+CEO CFO cto cBo
+
+8
