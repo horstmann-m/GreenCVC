@@ -1,0 +1,27 @@
+2016-Dec-31 - Volvo AB.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2016-Dec-31 - Volvo AB.pdf'.
+2017-Dec-31 - Henkel AG & Co KGaA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2017-Dec-31 - Henkel AG & Co KGaA.pdf'.
+2018-Dec-31 - Repsol SA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2018-Dec-31 - Repsol SA.pdf'.
+2018-Dec-31 - Nestle SA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2018-Dec-31 - Nestle SA.pdf'.
+2015-Aug-31 - Sodexo SA 1.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2015-Aug-31 - Sodexo SA 1.pdf'.
+2017-Dec-31 - Beiersdorf AG.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2017-Dec-31 - Beiersdorf AG.pdf'.
+2020-Dec-31 - Television Francaise 1 SA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2020-Dec-31 - Television Francaise 1 SA.pdf'.
+2015-Dec-31 - Compagnie de Saint Gobain....pdf: File could not be opened: Failed to open file 'failed_pdfs2/2015-Dec-31 - Compagnie de Saint Gobain....pdf'.
+2014-Dec-31 - ABN Amro Bank NV.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2014-Dec-31 - ABN Amro Bank NV.pdf'.
+2018-Dec-31 - Allianz SE.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2018-Dec-31 - Allianz SE.pdf'.
+2014-Dec-31 - Swisscom AG.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2014-Dec-31 - Swisscom AG.pdf'.
+2022-Dec-31 - Engie SA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2022-Dec-31 - Engie SA.pdf'.
+2018-Dec-31 - Bilfinger SE.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2018-Dec-31 - Bilfinger SE.pdf'.
+2019-Dec-31 - Bilfinger SE.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2019-Dec-31 - Bilfinger SE.pdf'.
+2015-Dec-31 - RWE AG.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2015-Dec-31 - RWE AG.pdf'.
+2014-Dec-31 - Deutsche Telekom AG.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2014-Dec-31 - Deutsche Telekom AG.pdf'.
+2021-Dec-31 - Prosiebensat 1 Media SE.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2021-Dec-31 - Prosiebensat 1 Media SE.pdf'.
+2021-Dec-31 - Koninklijke KPN NV.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2021-Dec-31 - Koninklijke KPN NV.pdf'.
+2020-Dec-31 - Nordea Bank Abp.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2020-Dec-31 - Nordea Bank Abp.pdf'.
+2014-Dec-31 - Safran SA.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2014-Dec-31 - Safran SA.pdf'.
+2018-Dec-31 - Koninklijke Philips NV.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2018-Dec-31 - Koninklijke Philips NV.pdf'.
+2022 siemens gamesa.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2022 siemens gamesa.pdf'.
+2022 siemens gamesa:energy.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2022 siemens gamesa:energy.pdf'.
+2015-Dec-31 - Scor SE.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2015-Dec-31 - Scor SE.pdf'.
+2016-Dec-31 - Electricite De France SA 1.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2016-Dec-31 - Electricite De France SA 1.pdf'.
+2021 novartis.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2021 novartis.pdf'.
+2016-Dec-31 - ABN Amro Bank NV.pdf: File could not be opened: Failed to open file 'failed_pdfs2/2016-Dec-31 - ABN Amro Bank NV.pdf'.
